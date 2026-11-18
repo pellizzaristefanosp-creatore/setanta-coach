@@ -1,0 +1,16 @@
+{
+  "episode": "5.1", "action": 1, "source": "Lezione 5.1, slide 6",
+  "lines": [
+    { "id": "l01", "who": "L", "beat": "gancio", "text": "[cocky] Hai visto che tiro, mister? Pura potenza." },
+    { "id": "l02", "who": "M", "beat": "gancio", "text": "[deadpan] Bello. [pause] E dentro la gamba, cos'è successo?" },
+    { "id": "l03", "who": "L", "beat": "ipotesi", "text": "[confident] Facile: il muscolo si accorcia. Come un elastico." },
+    { "id": "l04", "who": "M", "beat": "ipotesi", "text": "[dry] Quasi. [pause] Fermi tutti. Entriamo." },
+    { "id": "l05", "who": "M", "beat": "dentro", "text": "[warmly] Questo è un sarcomero. Ai lati, l'actina: sottile. Al centro, la miosina: spessa." },
+    { "id": "l06", "who": "M", "beat": "dentro", "text": "[serious] Arriva il calcio, e scopre i siti di legame sull'actina. La miosina si aggancia, tira verso il centro... e molla. [emphatic] Più e più volte." },
+    { "id": "l07", "who": "L", "beat": "aha", "text": "[surprised] Aspetta... i filamenti non si accorciano. Scivolano!" },
+    { "id": "l08", "who": "M", "beat": "aha", "text": "[dry] Il centravanti ha letto il gioco." },
+    { "id": "l09", "who": "M", "beat": "richiamo", "text": "[curious] Tocca a te: cosa scopre il calcio sull'actina? [pause] Tre, due, uno." },
+    { "id": "l10", "who": "L", "beat": "richiamo", "text": "[excited] I siti di legame!" },
+    { "id": "l11", "who": "M", "beat": "chiusura", "text": "[deadpan] Bravo. Ora rifai il tiro. Stavolta, con la testa." }
+  ]
+}
