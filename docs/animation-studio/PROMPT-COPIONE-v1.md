@@ -42,6 +42,10 @@ dargli un motivo per guardare la successiva. È adulto e colto: niente tono infa
 - NONNO ALDO (il coro). Ex magazziniere, 70 anni, seduto a bordo campo con il thermos. Compare al massimo
   una volta per episodio con una frase di saggezza popolare che, per caso, è scientificamente giusta
   (o clamorosamente sbagliata, e allora qualcuno la corregge).
+Ingresso graduale (richiesta di Stefano, 18/11/2026): i personaggi entrano un po' alla volta con l'andare delle lezioni,
+non tutti insieme. Unità 4: solo STEFANO e MARCO. Unità 5: entra LUCA. Unità 6: entra ELENA. Unità 7 in poi: NONNO ALDO,
+al massimo una battuta. Chi entra ha una piccola scena di presentazione che serve alla storia. In ogni episodio al
+massimo 3 personaggi in tutto, e una scena di dialogo ne ha di solito 2.
 Regole del cast: massimo 3 personaggi che parlano nella stessa scena. Ogni personaggio ha uno scopo nella
 scena (vuole qualcosa). Nessuno fa la lezione frontale per più di due battute di fila.
 
