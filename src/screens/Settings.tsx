@@ -44,6 +44,7 @@ export function Settings() {
       <h1 className="page-title">Altro</h1>
       {msg && <div className="okbar" role="status" onClick={() => setMsg(null)}>{msg}</div>}
 
+      <SmartSettings />
       <ImportLesson />
       <VoiceSettings />
 
@@ -384,6 +385,24 @@ function VoiceSettings() {
         </button>
       </div>
       <p className="tiny">Per una voce più naturale su iPhone scarica una voce «migliorata» italiana (Impostazioni → Accessibilità → Contenuto letto ad alta voce → Voci).</p>
+    </section>
+  );
+}
+
+/* ——— Codice per le funzioni intelligenti ——— */
+
+function SmartSettings() {
+  const s = useStore();
+  const [code, setCode] = useState(s.settings.appCode ?? "");
+  const saved = !!s.settings.appCode && code.trim() === s.settings.appCode;
+  return (
+    <section className="card stack">
+      <h2>Funzioni intelligenti</h2>
+      <p className="small muted">Il tutor che corregge il «Cosa ricordi?», i paragoni dal campo su richiesta e le lezioni nuove dai PDF. Serve internet e il codice di accesso.</p>
+      <div className="row">
+        <input type="text" aria-label="Codice di accesso" placeholder="Codice di accesso" value={code} onChange={(e) => setCode(e.target.value)} autoComplete="off" />
+        <button className="btn primary" disabled={!code.trim() || saved} onClick={() => setState((d) => void (d.settings.appCode = code.trim()))}>{saved ? "Salvato" : "Salva"}</button>
+      </div>
     </section>
   );
 }

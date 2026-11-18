@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
+import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
 import { nextAction } from "../lib/coach";
 import { today } from "../lib/dates";
 import { dailyChallenge, level, totalXp } from "../lib/game";
@@ -13,6 +14,7 @@ import {
   finishStep,
   getState,
   recordAnswer,
+  saveExplanation,
   saveRecall,
   setState,
   startStep,
@@ -271,6 +273,7 @@ function LessonSession({ p, lesson, index, onDone }: { p: Presentation; lesson: 
           ))}
         </ul>
         {ended && <p className="analogy pop">⚽ {part.analogy}</p>}
+        <ParagoneButton presentationId={p.id} concept={part.title} context={part.narration} />
       </div>
 
       {showText ? (
@@ -449,6 +452,24 @@ function RecallStep({ p, onNext }: { p: Presentation; onNext: () => void }) {
     return words.some((w) => t.includes(w.slice(0, Math.max(5, w.length - 2))));
   };
 
+  const [ai, setAi] = useState<RecallFeedback | null>(null);
+  const [aiBusy, setAiBusy] = useState(false);
+  const [aiError, setAiError] = useState<string | null>(null);
+  const check = async () => {
+    setChecked(true);
+    if (!lesson || text.trim().length < 3) return;
+    setAiBusy(true);
+    setAiError(null);
+    const r = await aiPost<RecallFeedback>("/api/richiamo", {
+      recall: text,
+      points: lastIdx.flatMap((i) => lesson.parts[i]?.keyPoints ?? []),
+      text: lastIdx.map((i) => lesson.parts[i]?.narration ?? "").join("\n\n"),
+    });
+    setAiBusy(false);
+    if (r.ok) setAi(r.data);
+    else setAiError(r.error);
+  };
+
   const save = () => {
     if (text.trim()) saveRecall(p.id, done, text.trim());
     if (front.trim() && back.trim()) addCard(front.trim(), back.trim(), p.id);
@@ -463,7 +484,22 @@ function RecallStep({ p, onNext }: { p: Presentation; onNext: () => void }) {
         {lastIdx.map((i) => <li key={i}>{p.steps[i]?.title}</li>)}
       </ul>
       <textarea aria-label="Cosa ricordi" placeholder="Due righe, con parole tue. Anche un paragone col campo." value={text} onChange={(e) => setText(e.target.value)} autoFocus />
-      {checked && points.length > 0 && (
+      {aiBusy && <div className="card soft small">Il tutor sta leggendo quello che hai scritto…</div>}
+      {ai && (
+        <div className="card stack fade-in tutor" style={{ gap: 8 }}>
+          <div className="spread">
+            <h2>Il tutor</h2>
+            <span className="pill gold" aria-label={`${ai.score} su 5`}>{"★".repeat(ai.score)}{"☆".repeat(5 - ai.score)}</span>
+          </div>
+          {ai.praise && <p className="small">{ai.praise}</p>}
+          {ai.got.map((g, i) => <p key={`g${i}`} className="small" style={{ color: "var(--field)" }}>✓ {g}</p>)}
+          {ai.missing.map((m, i) => <p key={`m${i}`} className="small" style={{ color: "var(--ink-2)" }}>○ {m}</p>)}
+          {ai.fix && <p className="small" style={{ color: "var(--alarm)" }}>Attento: {ai.fix}</p>}
+          {ai.tip && <p className="analogy">⚽ {ai.tip}</p>}
+        </div>
+      )}
+      {aiError && <p className="tiny">{aiError} Intanto ecco il confronto semplice:</p>}
+      {checked && !ai && !aiBusy && points.length > 0 && (
         <div className="card stack fade-in" style={{ gap: 6 }}>
           <h2>Confronta con i punti chiave</h2>
           {points.map((k, i) => (
@@ -481,7 +517,7 @@ function RecallStep({ p, onNext }: { p: Presentation; onNext: () => void }) {
         <button className="btn" onClick={() => setShowCard(true)}><Icon.plus /> Crea anche una flashcard</button>
       )}
       {points.length > 0 && !checked ? (
-        <button className="btn primary huge block" onClick={() => setChecked(true)}>Controlla</button>
+        <button className="btn primary huge block" onClick={() => void check()}>Controlla</button>
       ) : (
         <button className="btn primary huge block" onClick={save}>Avanti</button>
       )}
@@ -526,5 +562,43 @@ export function CardSheet({ presentationId, onClose }: { presentationId?: string
       </button>
       <button className="link-btn" onClick={onClose}>Annulla</button>
     </Sheet>
+  );
+}
+
+/* ——— "Spiegamelo con un paragone": l'IA scrive un esempio dal campo, che resta salvato ——— */
+
+function ParagoneButton({ presentationId, concept, context }: { presentationId: string; concept: string; context: string }) {
+  const [busy, setBusy] = useState(false);
+  const [res, setRes] = useState<Paragone | null>(null);
+  const [error, setError] = useState<string | null>(null);
+  if (res) {
+    return (
+      <div className="card soft stack fade-in" style={{ gap: 6 }}>
+        <p className="small">{res.simple}</p>
+        <p className="analogy">⚽ {res.analogy}</p>
+        {res.remember && <p className="tiny"><b>Da ricordare:</b> {res.remember}</p>}
+        <p className="tiny">Salvato in Ripasso → Spiegami.</p>
+      </div>
+    );
+  }
+  return (
+    <>
+      <button
+        className="btn sm"
+        disabled={busy}
+        onClick={async () => {
+          setBusy(true);
+          setError(null);
+          const r = await aiPost<Paragone>("/api/paragone", { concept, context });
+          setBusy(false);
+          if (!r.ok) return setError(r.error);
+          setRes(r.data);
+          saveExplanation({ presentationId, concept, text: r.data.simple, analogy: r.data.analogy });
+        }}
+      >
+        {busy ? "Penso a un esempio…" : "Non mi è chiaro: spiegamelo con un paragone"}
+      </button>
+      {error && <p className="tiny" style={{ color: "var(--alarm)" }}>{error}</p>}
+    </>
   );
 }

@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
+import { aiPost, type Paragone } from "../lib/ai";
 import { pickQuestions, weakCount } from "../lib/coach";
 import { shortDate, today } from "../lib/dates";
 import { BOSS_QUESTIONS, BOSS_TO_WIN, bossStatus } from "../lib/game";
@@ -439,6 +440,8 @@ function QuizRun({ config, onEnd }: { config: QuizConfig; onEnd: () => void }) {
 function Explanations() {
   const s = useStore();
   const [editing, setEditing] = useState<Partial<Explanation> | null>(null);
+  const [busy, setBusy] = useState(false);
+  const [aiError, setAiError] = useState<string | null>(null);
   const titled = (id?: string) => s.presentations.find((p) => p.id === id);
 
   if (editing) {
@@ -448,6 +451,22 @@ function Explanations() {
         <label className="field">Concetto<input type="text" placeholder="es. Rate coding" value={editing.concept ?? ""} onChange={(e) => setEditing({ ...editing, concept: e.target.value })} /></label>
         <label className="field">Detto semplice<textarea placeholder="Cos'è, in una o due frasi." value={editing.text ?? ""} onChange={(e) => setEditing({ ...editing, text: e.target.value })} /></label>
         <label className="field">Paragone da campo o palestra<textarea placeholder="È come quando…" value={editing.analogy ?? ""} onChange={(e) => setEditing({ ...editing, analogy: e.target.value })} /></label>
+        <button
+          className="btn block"
+          disabled={!editing.concept?.trim() || busy}
+          onClick={async () => {
+            setBusy(true);
+            setAiError(null);
+            const lesson = allLessons(s).find((l) => `p-${l.code}` === editing.presentationId);
+            const r = await aiPost<Paragone>("/api/paragone", { concept: editing.concept, context: lesson ? lesson.parts.map((x) => x.narration).join("\n").slice(0, 4000) : "" });
+            setBusy(false);
+            if (!r.ok) return setAiError(r.error);
+            setEditing({ ...editing, text: r.data.simple, analogy: r.data.analogy + (r.data.remember ? `\nDa ricordare: ${r.data.remember}` : "") });
+          }}
+        >
+          {busy ? "Penso a un esempio…" : "✨ Scrivilo tu per me"}
+        </button>
+        {aiError && <p className="tiny" style={{ color: "var(--alarm)" }}>{aiError}</p>}
         <label className="field">
           Presentazione
           <select value={editing.presentationId ?? ""} onChange={(e) => setEditing({ ...editing, presentationId: e.target.value || undefined })}>
