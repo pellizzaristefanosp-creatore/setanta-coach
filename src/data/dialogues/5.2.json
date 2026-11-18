@@ -1,0 +1,913 @@
+{
+ "code": "5.2",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "[excited] Allora Luca, la volta scorsa abbiamo visto la base: il muscolo cresce quando costruisce più proteine di quante ne smonta."
+    },
+    {
+     "who": "L",
+     "text": "Sì, sintesi contro disgregazione. E oggi?"
+    },
+    {
+     "who": "M",
+     "text": "Oggi un passo in più: come diventa più grande, concretamente? Non c'è una sola strada."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Cioè ci sono diversi tipi di crescita?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ipertrofia contrattile, detta anche miofibrillare, e ipertrofia sarcoplasmatica. Poi le cellule satellite e un tema molto discusso, l'iperplasia."
+    },
+    {
+     "who": "L",
+     "text": "E poi?"
+    },
+    {
+     "who": "M",
+     "text": "Poi cambiamo argomento: il sistema endocrino e gli ormoni. IGF, cioè il fattore di crescita insulino-simile, testosterone, ormone della crescita e insulina."
+    },
+    {
+     "who": "L",
+     "text": "[laughs] E il cortisolo? Quello lo sento sempre nominare."
+    },
+    {
+     "who": "M",
+     "text": "C'è anche lui, ma spesso gioca nella squadra opposta. Alla fine l'ipotesi ormonale: l'idea che il picco di ormoni dopo la seduta sia la chiave della crescita."
+    },
+    {
+     "who": "L",
+     "text": "E regge?"
+    },
+    {
+     "who": "M",
+     "text": "[thoughtful] Vedremo due studi che l'hanno messa in dubbio. Ti serve quando un giocatore ti porta un consiglio letto online: devi distinguere cosa conta da cosa fa solo rumore."
+    },
+    {
+     "who": "L",
+     "text": "Come leggere la partita prima del fischio: prima i modi per segnare, poi chi ti aiuta e chi ti ostacola."
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Perfetto. Tre parole: tipi, ormoni, ipotesi."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Partiamo dalla definizione. Ipertrofia vuol dire che il muscolo scheletrico aumenta di dimensioni."
+    },
+    {
+     "who": "L",
+     "text": "E il primo modo è...?"
+    },
+    {
+     "who": "M",
+     "text": "L'ipertrofia contrattile, o miofibrillare. Il muscolo aggiunge sarcomeri, quindi più actina e miosina."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Il sarcomero era il pezzo che si contrae, giusto?"
+    },
+    {
+     "who": "M",
+     "text": "Sì: l'unità funzionale più piccola della miofibrilla. Più sarcomeri, più grosso il muscolo. E può crescere in due direzioni."
+    },
+    {
+     "who": "L",
+     "text": "Quali?"
+    },
+    {
+     "who": "M",
+     "text": "In parallelo: i sarcomeri si mettono uno accanto all'altro e il diametro della fibra aumenta. Come allargare la barriera con un giocatore in più."
+    },
+    {
+     "who": "L",
+     "text": "E in serie è la fila indiana!"
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Proprio così. Si aggiungono in lunghezza e il muscolo si allunga. Per esempio un arto tenuto molto esteso, bloccato lì da un peso."
+    },
+    {
+     "who": "L",
+     "text": "Quindi anche quella fa crescere?"
+    },
+    {
+     "who": "M",
+     "text": "Allunga, ma non aumenta molto il diametro o la sezione trasversa. Secondo te, se vuoi il muscolo più grande possibile?"
+    },
+    {
+     "who": "L",
+     "text": "[pause] ...Punto al PARALLELO."
+    },
+    {
+     "who": "M",
+     "text": "[confident] Esatto. E la contrattile è la più utile: più elementi contrattili, più forza. Serve al calciatore e a chi si allena per stare bene."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Secondo tipo: l'ipertrofia sarcoplasmatica. Il sarcoplasma è la parte della fibra che non si contrae: liquidi e organelli."
+    },
+    {
+     "who": "L",
+     "text": "Quindi il muscolo si gonfia?"
+    },
+    {
+     "who": "M",
+     "text": "Sembra più grande, ma nessuna parte contrattile è diventata più forte. Per questo la chiamano non funzionale: non aiuta a produrre forza."
+    },
+    {
+     "who": "L",
+     "text": "[curious] E come succede?"
+    },
+    {
+     "who": "M",
+     "text": "Una teoria dice che l'allenamento fa immagazzinare più glicogeno, e il glicogeno si tiene acqua. Il muscolo si riempie."
+    },
+    {
+     "who": "L",
+     "text": "Come un pallone gonfiato di più!"
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Più grande, ma il cuoio non è più resistente. Però questo accumulo sarebbe temporaneo, con un effetto minimo. È un tema discusso, difficile da studiare, con poche ricerche."
+    },
+    {
+     "who": "L",
+     "text": "Ma in palestra dicono che certi metodi fanno crescere solo il sarcoplasma..."
+    },
+    {
+     "who": "M",
+     "text": "[serious] Prendile con le pinze. Non ci sono prove reali che contrattile e sarcoplasmatica avvengano separate."
+    },
+    {
+     "who": "L",
+     "text": "Quindi vanno insieme?"
+    },
+    {
+     "who": "M",
+     "text": "Molto probabilmente sì. Forse una va un po' più veloce, ma non si staccano mai del tutto."
+    },
+    {
+     "who": "L",
+     "text": "Il muscolo cresce come un insieme, e l'obiettivo resta aggiungere parti che fanno forza."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Quando un muscolo va riparato e rimodellato entrano in campo le cellule satellite."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Riparato? Ma io mi alleno, mica mi faccio male."
+    },
+    {
+     "who": "M",
+     "text": "L'allenamento di forza crea piccoli danni. Il corpo risponde con fibre più grandi e più forti, e loro possono avere un ruolo chiave."
+    },
+    {
+     "who": "L",
+     "text": "E cosa fanno, di preciso?"
+    },
+    {
+     "who": "M",
+     "text": "Si pensa che regalino nuclei alle fibre. Più nuclei, più capacità di produrre proteine contrattili."
+    },
+    {
+     "who": "L",
+     "text": "Perché servono nuclei in più?"
+    },
+    {
+     "who": "M",
+     "text": "Ogni nucleo controlla solo una certa quantità di sarcoplasma. Quando la fibra cresce, a un certo punto i nuclei non bastano più."
+    },
+    {
+     "who": "L",
+     "text": "Come un allenatore che segue bene solo dieci giocatori: se la rosa cresce, serve altro staff."
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Esatto. Secondo te, contano di più per un principiante o per uno allenato?"
+    },
+    {
+     "who": "L",
+     "text": "[thoughtful] ...Per quello allenato?"
+    },
+    {
+     "who": "M",
+     "text": "Sì. I nuclei che la fibra ha già seguono la prima crescita; se l'ipertrofia va avanti, servono rinforzi."
+    },
+    {
+     "who": "L",
+     "text": "Il ragazzo al primo anno di palestra ha abbastanza nuclei, il difensore che solleva da dieci anni ne ha bisogno di nuovi."
+    },
+    {
+     "who": "M",
+     "text": "Ricordalo così: danno, riparazione, nuclei donati, fibre più grandi."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Quando si parla di ipertrofia salta fuori spesso l'iperplasia. Sai cos'è?"
+    },
+    {
+     "who": "L",
+     "text": "[curious] Qualcosa con le fibre che si dividono?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto: la teoria per cui una fibra diventa due. Il numero di fibre aumenta e il muscolo cresce."
+    },
+    {
+     "who": "L",
+     "text": "Quindi la differenza è...?"
+    },
+    {
+     "who": "M",
+     "text": "Nell'ipertrofia la stessa fibra diventa più grande, nell'iperplasia le fibre diventano di più. Nel disegno della slide: una cellula normale, una che si moltiplica, una che si ingrossa."
+    },
+    {
+     "who": "L",
+     "text": "Come far migliorare i giocatori che hai, o aggiungerne alla rosa."
+    },
+    {
+     "who": "M",
+     "text": "Bravo. Negli animali l'iperplasia è stata dimostrata. Nell'uomo, invece, non è molto chiaro."
+    },
+    {
+     "who": "L",
+     "text": "Ma è possibile?"
+    },
+    {
+     "who": "M",
+     "text": "Alcune ricerche dicono di sì, forse provocata dalla forza ad alta intensità. Però il fattore principale resta l'ipertrofia delle fibre."
+    },
+    {
+     "who": "L",
+     "text": "E quanto conterebbe, l'iperplasia?"
+    },
+    {
+     "who": "M",
+     "text": "[emphatic] Al massimo il cinque-dieci per cento della dimensione totale del muscolo. Numero da esame."
+    },
+    {
+     "who": "L",
+     "text": "Quindi niente metodi strani che promettono fibre nuove."
+    },
+    {
+     "who": "M",
+     "text": "Esatto: il grosso lo fa la crescita delle fibre che hai. Un buon programma di forza, costante, resta la strada principale."
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Passiamo agli ormoni. Il sistema endocrino è l'insieme dei tessuti e delle ghiandole che producono ormoni."
+    },
+    {
+     "who": "L",
+     "text": "E gli ormoni cosa sono, di preciso?"
+    },
+    {
+     "who": "M",
+     "text": "Messaggeri chimici. Le ghiandole endocrine, e alcune altre cellule, li producono, li conservano e li liberano nel sangue."
+    },
+    {
+     "who": "L",
+     "text": "[curious] E poi dove vanno?"
+    },
+    {
+     "who": "M",
+     "text": "Il sangue li porta alle cellule bersaglio, ed è lì che agiscono: comandano o regolano il lavoro di cellule e organi."
+    },
+    {
+     "who": "L",
+     "text": "Come le indicazioni del mister dalla panchina che arrivano al giocatore giusto."
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Proprio così. Agiscono su quasi tutti i sistemi, ma a noi interessa l'ipertrofia. La quantità di base di ormoni anabolici influenza crescita e rigenerazione del muscolo scheletrico."
+    },
+    {
+     "who": "L",
+     "text": "Anabolici vuol dire...?"
+    },
+    {
+     "who": "M",
+     "text": "Anabolismo significa costruire. Gli ormoni anabolici costruiscono e riparano il muscolo."
+    },
+    {
+     "who": "L",
+     "text": "E come lo fanno?"
+    },
+    {
+     "who": "M",
+     "text": "Regolano i processi che costruiscono, come la sintesi proteica. Attività e concentrazione cambiano quanta proteina produci."
+    },
+    {
+     "who": "L",
+     "text": "Quindi sono un comando che alza o abbassa la sintesi proteica."
+    },
+    {
+     "who": "M",
+     "text": "[confident] Esatto. Più sintesi, più massa. Ora li vediamo uno alla volta."
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Primo ormone: il fattore di crescita insulino-simile, l'IGF. È stato indicato come l'ormone anabolico più importante."
+    },
+    {
+     "who": "L",
+     "text": "[surprised] Davvero? Tutti parlano di testosterone e ormone della crescita."
+    },
+    {
+     "who": "M",
+     "text": "Eppure è lui. Il nome dice che la sua struttura somiglia a quella dell'insulina. E ha un doppio effetto: anabolico e anticatabolico."
+    },
+    {
+     "who": "L",
+     "text": "Anabolico costruisce... anticatabolico?"
+    },
+    {
+     "who": "M",
+     "text": "Catabolico vuol dire degradare le proteine. Anticatabolico frena questa degradazione. Costruisce di più e smonta di meno."
+    },
+    {
+     "who": "L",
+     "text": "Come un centrocampista che costruisce gioco e recupera palloni."
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Doppio lavoro. Influenza anche l'attivazione e l'uso delle cellule satellite, quelle che riparano e rigenerano le fibre."
+    },
+    {
+     "who": "L",
+     "text": "E dove viene prodotto?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te? Il fegato lo produce e lo manda in giro col sangue. Ma c'è un altro posto..."
+    },
+    {
+     "who": "L",
+     "text": "[thoughtful] ...Il muscolo stesso?"
+    },
+    {
+     "who": "M",
+     "text": "[emphatic] Sì! Con l'esercizio e il sovraccarico meccanico lo produce il muscolo. Punto da esame."
+    },
+    {
+     "who": "L",
+     "text": "Quindi quando spingo forte nello squat il muscolo si manda da solo il segnale per crescere."
+    },
+    {
+     "who": "M",
+     "text": "Esatto: è uno dei motivi per cui la forza porta all'ipertrofia."
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Il testosterone è forse l'anabolico più famoso, e ha senso: i suoi effetti anabolici sono indiscutibili."
+    },
+    {
+     "who": "L",
+     "text": "È l'ormone maschile, no?"
+    },
+    {
+     "who": "M",
+     "text": "È un ormone sessuale. Nei maschi ce n'è in circolo fino a DIECI volte di più che nelle femmine."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Per questo dopo la pubertà i maschi mettono più muscolo?"
+    },
+    {
+     "who": "M",
+     "text": "In buona parte sì. E può far crescere il muscolo anche senza esercizio."
+    },
+    {
+     "who": "L",
+     "text": "Allora l'allenamento non serve?"
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Al contrario: i suoi effetti diventano più forti con l'allenamento della forza. Ormone e carico insieme funzionano meglio."
+    },
+    {
+     "who": "L",
+     "text": "E come agisce?"
+    },
+    {
+     "who": "M",
+     "text": "Aumenta la sintesi proteica e riduce la disgregazione. E migliora la trasmissione dei segnali nervosi."
+    },
+    {
+     "who": "L",
+     "text": "Quindi faccio più forza e alzo carichi più alti?"
+    },
+    {
+     "who": "M",
+     "text": "Potrebbe aiutare, sì, e carichi più alti danno più stimolo. Poi è legato ai segnali che fanno rilasciare altri ormoni anabolici."
+    },
+    {
+     "who": "L",
+     "text": "Come il capitano: gioca bene da solo, rende di più con la squadra che si allena forte, e trascina i compagni."
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Tre cose: fino a dieci volte nei maschi, amplificato dalla forza, più sintesi, meno disgregazione e segnale nervoso migliore."
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Il cortisolo di solito gioca nella squadra avversaria. È un ormone catabolico per il muscolo, noto come ormone dello stress."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Ma a cosa serve, allora?"
+    },
+    {
+     "who": "M",
+     "text": "Il suo compito principale è fare da segnale per il metabolismo dei carboidrati, legato alle riserve di glicogeno nel muscolo."
+    },
+    {
+     "who": "L",
+     "text": "E se il glicogeno finisce?"
+    },
+    {
+     "who": "M",
+     "text": "Il corpo smonta altre fonti, come le proteine, per avere energia e tenere stabile il glucosio nel sangue."
+    },
+    {
+     "who": "L",
+     "text": "Come il mister senza panchina che fa giocare i ragazzi della primavera."
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Esatto. Due effetti catabolici: trasforma le proteine in carboidrati e frena la sintesi proteica. Testosterone e insulina lo contrastano."
+    },
+    {
+     "who": "L",
+     "text": "Quindi se loro sono alti e lui basso..."
+    },
+    {
+     "who": "M",
+     "text": "La massa resta o aumenta. Colpisce di più le fibre di tipo II, forse perché hanno più proteine."
+    },
+    {
+     "who": "L",
+     "text": "[surprised] Ma sono quelle che crescono di più!"
+    },
+    {
+     "who": "M",
+     "text": "Appunto: danno per ipertrofia e forza. Qualcuno ha proposto il rapporto testosterone/cortisolo per capire se il corpo costruisce o smonta."
+    },
+    {
+     "who": "L",
+     "text": "E funziona?"
+    },
+    {
+     "who": "M",
+     "text": "[serious] Successo limitato nel seguire forza e potenza: forse non è una misura valida. Non giudicare un giocatore solo da quel numero."
+    }
+   ]
+  },
+  {
+   "part": 9,
+   "lines": [
+    {
+     "who": "M",
+     "text": "L'ormone della crescita, il GH, in realtà non è un ormone solo: è una famiglia di ormoni, rilasciati a impulsi, a ondate."
+    },
+    {
+     "who": "L",
+     "text": "[curious] E quando ne esce di più?"
+    },
+    {
+     "who": "M",
+     "text": "Oltre che con l'esercizio, nel sonno. Ecco uno dei motivi per cui dormire è essenziale per recuperare e riparare il muscolo."
+    },
+    {
+     "who": "L",
+     "text": "Per questo il mister ci dice di dormire bene prima e dopo la partita!"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Il GH aumenta la scomposizione dei grassi e l'assorbimento degli aminoacidi, che le cellule trasformano in proteine."
+    },
+    {
+     "who": "L",
+     "text": "Quindi per l'ipertrofia è quella l'azione chiave?"
+    },
+    {
+     "who": "M",
+     "text": "Forse la più importante è un'altra. Secondo te? ...Stimolare l'IGF. Il GH lavora molto attraverso di lui."
+    },
+    {
+     "who": "L",
+     "text": "Come un direttore sportivo che non scende in campo ma manda dentro il giocatore decisivo."
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Bella. Nello schema della slide ci sono due regolatori. Il GHRH, ormone di rilascio della somatotropina, stimola il GH: l'acceleratore."
+    },
+    {
+     "who": "L",
+     "text": "E il freno?"
+    },
+    {
+     "who": "M",
+     "text": "Il GHIH, detto somatostatina: inibisce la secrezione di GH. Poi gli IGF fanno assorbire aminoacidi alle cellule bersaglio e favoriscono la sintesi proteica."
+    },
+    {
+     "who": "L",
+     "text": "GH a impulsi, con esercizio e sonno, brucia grassi, fa entrare aminoacidi e accende l'IGF. Acceleratore GHRH, freno somatostatina."
+    }
+   ]
+  },
+  {
+   "part": 10,
+   "lines": [
+    {
+     "who": "M",
+     "text": "L'insulina la conosci per il diabete, vero?"
+    },
+    {
+     "who": "L",
+     "text": "Sì, ma che c'entra con il muscolo?"
+    },
+    {
+     "who": "M",
+     "text": "C'entra eccome con l'ipertrofia. Partiamo da dove nasce: il pancreas."
+    },
+    {
+     "who": "L",
+     "text": "[curious] In che punto del pancreas?"
+    },
+    {
+     "who": "M",
+     "text": "Nelle isole di Langerhans ci sono le cellule beta che la producono. Poi entra in un vaso sanguigno e arriva alla fibra muscolare, insieme al glucosio."
+    },
+    {
+     "who": "L",
+     "text": "E lì cosa fa?"
+    },
+    {
+     "who": "M",
+     "text": "Il suo lavoro principale: permette di usare il glucosio per l'energia o di metterlo da parte per dopo. E lo tiene nel sangue nel giusto range."
+    },
+    {
+     "who": "L",
+     "text": "Né troppo alto né troppo basso."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Pensa alla tua giornata: mangi, il glucosio sale, e l'insulina lo porta dove serve."
+    },
+    {
+     "who": "L",
+     "text": "Una parte la uso subito e un'altra la conservo per l'allenamento del pomeriggio?"
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Proprio così, e il livello nel sangue resta stabile. Come il magazziniere del club: distribuisce subito o mette in magazzino per la prossima partita."
+    },
+    {
+     "who": "L",
+     "text": "Ma per chi allena la forza c'è dell'altro, vero?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, un lato meno noto: lo vediamo dopo. Per ora: pancreas, usare o conservare il glucosio, tenerlo stabile."
+    }
+   ]
+  },
+  {
+   "part": 11,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Il compito principale dell'insulina è il glucosio. Ma ha funzioni secondarie importanti: una è favorire la sintesi proteica."
+    },
+    {
+     "who": "L",
+     "text": "[curious] E come ci riesce?"
+    },
+    {
+     "who": "M",
+     "text": "Agisce sulle fasi di traduzione. Ricordi cos'è la traduzione?"
+    },
+    {
+     "who": "L",
+     "text": "[thoughtful] ...Il momento in cui la cellula costruisce la proteina seguendo le istruzioni?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Se l'insulina migliora quella fase, la cellula crea più proteine e la massa può aumentare."
+    },
+    {
+     "who": "L",
+     "text": "Come un terzino che oltre a difendere fa assist."
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Bravo. E si pensa che riduca anche la disgregazione delle proteine, anche se il meccanismo preciso non è ancora chiaro."
+    },
+    {
+     "who": "L",
+     "text": "Quindi lavora su due lati, come IGF e testosterone."
+    },
+    {
+     "who": "M",
+     "text": "Sì. E qui chiudiamo il giro degli ormoni, con due avvertenze. Primo: non è una lista completa, altri ormoni possono avere un ruolo."
+    },
+    {
+     "who": "L",
+     "text": "E secondo?"
+    },
+    {
+     "who": "M",
+     "text": "Come ormoni e vie di segnalazione si parlano è molto complesso e non ancora del tutto capito."
+    },
+    {
+     "who": "L",
+     "text": "Però una cosa è chiara, no?"
+    },
+    {
+     "who": "M",
+     "text": "[confident] Sì: gli ormoni influenzano sintesi e disgregazione delle proteine. Non sono l'unico fattore, ma fanno parte della squadra, e vanno sempre considerati."
+    }
+   ]
+  },
+  {
+   "part": 12,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora un tema molto discusso: la risposta acuta degli ormoni, cioè cosa succede subito dopo una singola seduta."
+    },
+    {
+     "who": "L",
+     "text": "[curious] E cosa succede?"
+    },
+    {
+     "who": "M",
+     "text": "Dopo la forza testosterone, IGF e ormone della crescita possono avere un picco: un aumento di concentrazione che dura poco."
+    },
+    {
+     "who": "L",
+     "text": "E da lì?"
+    },
+    {
+     "who": "M",
+     "text": "Nasce l'ipotesi ormonale: la massa a lungo termine sarebbe legata direttamente a quanto salgono gli ormoni dopo l'allenamento."
+    },
+    {
+     "who": "L",
+     "text": "Quindi più grande il picco, più muscolo metto su."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. E sembra logico: più ormoni nel sangue, più facile che si attacchino ai recettori e spingano la sintesi proteica."
+    },
+    {
+     "who": "L",
+     "text": "[excited] Allora cerco gli esercizi che fanno salire di più gli ormoni!"
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Per anni molti hanno costruito le schede proprio così. Ma ricerche più recenti l'hanno messo in dubbio."
+    },
+    {
+     "who": "L",
+     "text": "In che senso?"
+    },
+    {
+     "who": "M",
+     "text": "Il picco acuto dopo la forza potrebbe avere un effetto minimo, o addirittura nullo, sulla crescita del muscolo."
+    },
+    {
+     "who": "L",
+     "text": "Come dire che si vince il campionato perché i tifosi esultano dopo ogni allenamento."
+    },
+    {
+     "who": "M",
+     "text": "[thoughtful] L'esultanza c'è, ma non porta punti per forza. Il picco conta, o è solo un effetto collaterale? Ora gli studi."
+    }
+   ]
+  },
+  {
+   "part": 13,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Studio chiave: West e colleghi, duemiladieci. Dodici giovani non allenati."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Cosa facevano?"
+    },
+    {
+     "who": "M",
+     "text": "Curl per bicipiti, un braccio alla volta, in giorni diversi, in due condizioni ormonali. Stimolo basso: un braccio faceva solo il curl."
+    },
+    {
+     "who": "L",
+     "text": "E stimolo alto?"
+    },
+    {
+     "who": "M",
+     "text": "L'altro braccio faceva il curl e subito dopo si faceva un lavoro di forza per le gambe."
+    },
+    {
+     "who": "L",
+     "text": "Perché le gambe, se misuri le braccia?"
+    },
+    {
+     "who": "M",
+     "text": "Muscoli grandi fanno salire di più il picco ormonale. Lo studio è durato quindici settimane."
+    },
+    {
+     "who": "L",
+     "text": "E gli ormoni sono saliti?"
+    },
+    {
+     "who": "M",
+     "text": "Sì: con lo stimolo alto in modo significativo, con quello basso quasi uguali. Secondo te, quale braccio è cresciuto di più?"
+    },
+    {
+     "who": "L",
+     "text": "[pause] ...Quello con più ormoni?"
+    },
+    {
+     "who": "M",
+     "text": "[emphatic] No! La circonferenza della parte alta del braccio è cresciuta in modo simile. Nessuna differenza significativa."
+    },
+    {
+     "who": "L",
+     "text": "Come due gemelli, uno con lo stadio pieno che urla: migliorano uguale."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. I picchi acuti non sono responsabili degli adattamenti a lungo termine: prova chiave contro l'ipotesi ormonale."
+    },
+    {
+     "who": "L",
+     "text": "Duemiladieci, dodici soggetti, quindici settimane, nessuna differenza nelle braccia."
+    }
+   ]
+  },
+  {
+   "part": 14,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Più di recente, Morton e colleghi, duemilasedici. Hanno confrontato carichi alti con poche ripetizioni e carichi bassi con tante."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Solo per vedere l'ipertrofia?"
+    },
+    {
+     "who": "M",
+     "text": "Anche gli ormoni: cercavano un legame tra il picco dopo l'esercizio e i cambi di composizione corporea e massa muscolare."
+    },
+    {
+     "who": "L",
+     "text": "E l'hanno trovato?"
+    },
+    {
+     "who": "M",
+     "text": "Nessuna correlazione significativa tra picco ormonale e indicatori di ipertrofia. Altre prove contro l'ipotesi."
+    },
+    {
+     "who": "L",
+     "text": "Quindi è chiusa, l'ipotesi ormonale non vale."
+    },
+    {
+     "who": "M",
+     "text": "[serious] Attento, all'esame conta anche l'altro lato: molti studi hanno trovato legami tra picchi e crescita. Il dibattito continua."
+    },
+    {
+     "who": "L",
+     "text": "E allora cosa è sicuro?"
+    },
+    {
+     "who": "M",
+     "text": "Che gli ormoni hanno un ruolo chiave nella sintesi proteica e nell'ipertrofia. In discussione c'è solo il peso del picco acuto."
+    },
+    {
+     "who": "L",
+     "text": "E i livelli di tutti i giorni?"
+    },
+    {
+     "who": "M",
+     "text": "La produzione cronica, i livelli nel tempo, influenza la sintesi e aiuta a decidere quanto cresce il muscolo. Livelli cronici aiutano, picchi acuti forse sì, forse no."
+    },
+    {
+     "who": "L",
+     "text": "Quindi non costruisco la seduta solo per far salire gli ormoni."
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Esatto: conta la forma costante per tutta la stagione, non l'adrenalina di un derby."
+    }
+   ]
+  },
+  {
+   "part": 15,
+   "lines": [
+    {
+     "who": "M",
+     "text": "[cheerfully] Facciamo il punto. Tipi di ipertrofia: la contrattile cosa aggiunge?"
+    },
+    {
+     "who": "L",
+     "text": "Sarcomeri, quindi actina e miosina. In parallelo allarga la fibra, in serie la allunga."
+    },
+    {
+     "who": "M",
+     "text": "E per il massimo della dimensione, e più forza, punti al parallelo. La sarcoplasmatica?"
+    },
+    {
+     "who": "L",
+     "text": "Liquidi e organelli: non funzionale, poco studiata, probabilmente va insieme alla contrattile."
+    },
+    {
+     "who": "M",
+     "text": "Le cellule satellite donano nuclei e contano di più nei ben allenati. L'iperplasia: dimostrata negli animali, nell'uomo al massimo il cinque-dieci per cento."
+    },
+    {
+     "who": "L",
+     "text": "Poi gli ormoni anabolici, che costruiscono, riparano e regolano la sintesi proteica."
+    },
+    {
+     "who": "M",
+     "text": "L'IGF è il più importante, anabolico e anticatabolico, e lo produce anche il muscolo sotto carico. Il testosterone?"
+    },
+    {
+     "who": "L",
+     "text": "Fino a dieci volte più alto nei maschi, rende di più con la forza. Il cortisolo è catabolico e colpisce le fibre di tipo II."
+    },
+    {
+     "who": "M",
+     "text": "Il GH esce a impulsi, molto nel sonno, e stimola l'IGF. L'insulina gestisce il glucosio e aiuta la traduzione delle proteine."
+    },
+    {
+     "who": "L",
+     "text": "E l'ipotesi ormonale: il picco dopo la seduta farebbe crescere il muscolo."
+    },
+    {
+     "who": "M",
+     "text": "[thoughtful] West nel duemiladieci e Morton nel duemilasedici l'hanno messa in discussione."
+    },
+    {
+     "who": "L",
+     "text": "Livelli cronici contano, sui picchi acuti il dibattito resta aperto."
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Come gli highlights a fine partita. Bel lavoro, Luca."
+    }
+   ]
+  }
+ ]
+}
