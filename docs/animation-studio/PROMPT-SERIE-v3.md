@@ -113,7 +113,7 @@ di livello, NON di aspetto: personaggi, mondo e stile sono originali. Non imitar
 
 4.1 Premessa della stagione
 Luca, numero 10, vuole arrivare alla partita più importante della stagione più forte, più esplosivo e senza
-infortuni. Marco, il suo preparatore, gli mostra settimana dopo settimana cosa succede dentro il corpo quando
+infortuni. Marco, il suo preparatore, con ironia asciutta da film di supereroi (4.8b), gli mostra settimana dopo settimana cosa succede dentro il corpo quando
 si allena. Ogni episodio risolve un problema concreto di Luca (in campo o in palestra) e aggiunge un pezzo
 al suo piano di allenamento. Alla fine della stagione Luca sa spiegare da solo il suo programma.
 
@@ -185,6 +185,33 @@ Le etichette [Certo]/[Probabile] vanno confermate con le fonti nella Fase 2.
   processo e ingrandirlo; Luca che esulta come dopo un gol quando capisce). Prodotte una volta, riusate (Livello 4
   possibile qui).
 - Mai battute che rendano impreciso il concetto, prendano in giro lo studente o usino stereotipi.
+
+4.8b Tono: ironia da film di supereroi (sfumatura chiave)
+È il tono dei grandi film d'azione con supereroi: momenti epici smontati da una battuta secca, battibecchi tra
+personaggi che si vogliono bene, autoironia. Si prende il TONO, mai personaggi, battute, nomi, musiche, loghi o
+inquadrature riconoscibili di film esistenti: tutto è originale.
+Tecniche ammesse (ognuna segnata nello storyboard con il concetto che rinforza):
+- Epico poi sgonfiato: ralenti, musica che sale, luce da eroe… su uno squat o su uno ione di calcio; poi una
+  battuta asciutta di Marco riporta tutto a terra ("Bello. Ora rifallo con la schiena dritta.").
+- Il processo come squadra di eroi: nella scena "dentro il corpo" le strutture hanno un ruolo da squadra
+  (la miosina "il centravanti che tira", il calcio "quello che apre la difesa"), ma solo se l'analogia è corretta e
+  Marco dichiara dove smette di reggere.
+- Battibecco: Luca spaccone e sicuro di sé, Marco impassibile e ironico; la battuta di Marco arriva sempre dopo
+  una pausa di un battito (timing comico).
+- Autoironia e quarta parete leggera: Marco a volte guarda in camera, verso lo studente, con un sopracciglio alzato
+  ("Lo so, sembra semplice. Non lo è.").
+- Richiamo a distanza (callback): una battuta di un episodio torna episodi dopo in un altro contesto e premia chi
+  ha seguito la stagione. Registrata nel registro di continuità.
+- Regola del tre: due esempi seri e il terzo assurdo ma corretto.
+- Scena dopo i titoli: 5–10 secondi dopo la chiusura con una gag o un mistero che apre l'episodio successivo
+  ("Perché domani le gambe faranno male? Prossima puntata."). Saltabile.
+Limiti:
+- L'ironia non tocca mai la definizione o il passaggio chiave mentre viene spiegato: arriva subito dopo.
+- Ironia sui personaggi e sulle situazioni, mai sullo studente né sui suoi errori.
+- Nessun sarcasmo che faccia credere falso un concetto vero (o il contrario).
+- Massimo una battuta "secca" ogni 30–40 secondi nel dialogo, più la gag principale ogni 60–90 secondi.
+- I tag di voce seguono il tono: per Marco [deadpan], [dry], [sighs]; per Luca [cocky], [excited], [laughs].
+  Prima di usarli in produzione, campione gratis da approvare (alcuni tag possono suonare finti in italiano).
 
 4.9 Suono
 - Voci fisse (sezione 2), tag di enfasi coerenti con il carattere.
