@@ -1,0 +1,599 @@
+{
+ "code": "4.5",
+ "parts": {
+  "0": {
+   "src": "/audio/4.5/1.mp3",
+   "duration": 78.5,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Allora Luca, oggi una nuova famiglia di esercizi per il core: l'anti-rotazione."
+    },
+    {
+     "who": "L",
+     "start": 6.38,
+     "text": "Anti-rotazione... cioè?"
+    },
+    {
+     "who": "M",
+     "start": 9.16,
+     "text": "Una forza prova a farti girare il busto e tu non glielo permetti. Il tronco resta fermo, solido, allineato."
+    },
+    {
+     "who": "L",
+     "start": 17.14,
+     "text": "Tipo quando in un contrasto mi tirano la maglia di lato?"
+    },
+    {
+     "who": "M",
+     "start": 20.5,
+     "text": "Esatto, il busto non deve girare con l'avversario. Si parte dagli shoulder taps: plank a braccia tese, tocchi la spalla con la mano opposta."
+    },
+    {
+     "who": "L",
+     "start": 30.56,
+     "text": "E poi?"
+    },
+    {
+     "who": "M",
+     "start": 31.91,
+     "text": "Il pull-under, sempre in plank, spostando un kettlebell sotto il corpo da una parte all'altra. Terza tappa, il Pallof press, con elastico o cavo, in due versioni: da sdraiato e in piedi."
+    },
+    {
+     "who": "L",
+     "start": 46.21,
+     "text": "Quattro esercizi, quindi?"
+    },
+    {
+     "who": "M",
+     "start": 48.28,
+     "text": "La quarta è la panca con un solo manubrio: un esercizio di forza che allena la stabilità del core in modo indiretto."
+    },
+    {
+     "who": "L",
+     "start": 56.26,
+     "text": "E alla fine si resiste e basta?"
+    },
+    {
+     "who": "M",
+     "start": 58.96,
+     "text": "No, cambi prospettiva: impari a CREARE la rotazione, in modo potente e sicuro, con i lanci della palla medica. Chiude un riepilogo che collega anti-flessione, anti-estensione e anti-flessione laterale."
+    },
+    {
+     "who": "L",
+     "start": 73.68,
+     "text": "Quindi: resistere alla rotazione mi tiene in piedi e in controllo nei contrasti."
+    }
+   ]
+  },
+  "1": {
+   "src": "/audio/4.5/2.mp3",
+   "duration": 79.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Partiamo dal significato. Un esercizio anti-rotazione ti mette contro una forza che vuole farti girare."
+    },
+    {
+     "who": "L",
+     "start": 7.59,
+     "text": "E io cosa devo fare?"
+    },
+    {
+     "who": "M",
+     "start": 9.74,
+     "text": "Attivi i muscoli del core e tieni il tronco stabile e allineato. Così impari a controllare le rotazioni che non vuoi, quei movimenti involontari che ti fanno perdere la posizione."
+    },
+    {
+     "who": "L",
+     "start": 21.16,
+     "text": "Ma ruotare non serve mai?"
+    },
+    {
+     "who": "M",
+     "start": 23.55,
+     "text": "Certo che serve: è l'altra faccia della medaglia, gli esercizi rotazionali. Lì non resisti, generi forza ruotando, come nel colpo del golf o del tennis."
+    },
+    {
+     "who": "L",
+     "start": 34.51,
+     "text": "E la rotazione da dove parte? Dalla schiena?"
+    },
+    {
+     "who": "M",
+     "start": 38.25,
+     "text": "Secondo te... quale parte della schiena? Soprattutto dalle anche e dalla parte alta, la zona toracica."
+    },
+    {
+     "who": "L",
+     "start": 46.73,
+     "text": "E la zona lombare?"
+    },
+    {
+     "who": "M",
+     "start": 48.57,
+     "text": "Non deve essere il motore della rotazione: il suo compito è restare stabile. Anche quando crei forza rotazionale, tieni ferma la parte bassa della schiena."
+    },
+    {
+     "who": "L",
+     "start": 59.1,
+     "text": "Come nel tiro di collo pieno: parto da anche e busto, non dalla lombare."
+    },
+    {
+     "who": "M",
+     "start": 64.44,
+     "text": "Bravo. Prima della potenza, però, si parte dalle basi: esercizi fondamentali di anti-rotazione, facili da mettere in scheda."
+    },
+    {
+     "who": "L",
+     "start": 73.7,
+     "text": "Anti-rotazione per il controllo, rotazione per la potenza... ma sempre da anche e torace."
+    }
+   ]
+  },
+  "2": {
+   "src": "/audio/4.5/3.mp3",
+   "duration": 76.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Primo esercizio: lo shoulder tap, una base dell'anti-rotazione. Ti metti in plank a braccia tese, come nella posizione alta di un piegamento."
+    },
+    {
+     "who": "L",
+     "start": 10.46,
+     "text": "E poi?"
+    },
+    {
+     "who": "M",
+     "start": 11.8,
+     "text": "Stacchi una mano e tocchi la spalla opposta. Torni giù e cambi lato."
+    },
+    {
+     "who": "L",
+     "start": 17.06,
+     "text": "Sembra facile. Perché funziona?"
+    },
+    {
+     "who": "M",
+     "start": 20.1,
+     "text": "Secondo te, cosa succede se togli una mano da terra? Togli un appoggio, e il corpo tende a ruotare verso il lato rimasto senza supporto."
+    },
+    {
+     "who": "L",
+     "start": 30.09,
+     "text": "E il core deve opporsi."
+    },
+    {
+     "who": "M",
+     "start": 32.4,
+     "text": "Esatto. Succede anche in un plank normale: basta sollevare un punto di contatto. Ma lo shoulder tap è DINAMICO, perché alterni i lati e ogni tocco crea una nuova spinta a ruotare."
+    },
+    {
+     "who": "L",
+     "start": 45.03,
+     "text": "Come proteggere palla su una gamba sola mentre mi spingono."
+    },
+    {
+     "who": "M",
+     "start": 48.85,
+     "text": "Proprio così. Il segreto: mentre la mano tocca la spalla, il resto del corpo non si muove, bacino e spalle paralleli al pavimento."
+    },
+    {
+     "who": "L",
+     "start": 59.16,
+     "text": "E se le anche dondolano?"
+    },
+    {
+     "who": "M",
+     "start": 61.31,
+     "text": "Allora il core sta perdendo la sfida. Niente attrezzi, va bene nel riscaldamento o nel blocco del core, ottimo per chi inizia."
+    },
+    {
+     "who": "L",
+     "start": 70.83,
+     "text": "Ricapitolo: un appoggio in meno crea rotazione, e il bacino resta fermo a ogni tocco."
+    }
+   ]
+  },
+  "3": {
+   "src": "/audio/4.5/4.mp3",
+   "duration": 75.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Secondo esercizio: il pull-under. Si parte sempre dal plank."
+    },
+    {
+     "who": "L",
+     "start": 5.42,
+     "text": "Il plank non era anti-estensione?"
+    },
+    {
+     "who": "M",
+     "start": 8.35,
+     "text": "Lavora su due fronti: anti-rotazione e anche anti-estensione, cioè impedire alla schiena di cedere verso il basso."
+    },
+    {
+     "who": "L",
+     "start": 16.91,
+     "text": "E il pull-under cosa aggiunge?"
+    },
+    {
+     "who": "M",
+     "start": 19.61,
+     "text": "Un kettlebell a terra di fianco a te. Lo afferri con una mano e lo trascini sotto il corpo, dall'altra parte, poi lo riprendi con l'altra mano e lo riporti indietro."
+    },
+    {
+     "who": "L",
+     "start": 30.15,
+     "text": "Sempre restando in plank?"
+    },
+    {
+     "who": "M",
+     "start": 32.3,
+     "text": "Sempre. Togli un appoggio e in più muovi un peso: si crea una forza rotazionale e tu devi resistere."
+    },
+    {
+     "who": "L",
+     "start": 40.12,
+     "text": "Come passarsi la palla tra le mani in barriera: le mani si muovono, il corpo è un muro."
+    },
+    {
+     "who": "M",
+     "start": 46.11,
+     "text": "Bella. Cosa controlli: linea dritta dalla testa alle caviglie, colonna neutra con le sue curve naturali, niente bacino che sale, niente anche che girano verso il kettlebell."
+    },
+    {
+     "who": "L",
+     "start": 58.74,
+     "text": "E per renderlo più difficile?"
+    },
+    {
+     "who": "M",
+     "start": 61.05,
+     "text": "Più il kettlebell è pesante, più è grande la forza rotazionale. Parti leggero, impara a restare fermo, e aumenti solo con la posizione perfetta."
+    },
+    {
+     "who": "L",
+     "start": 71.51,
+     "text": "Kettlebell più pesante uguale più rotazione da contrastare."
+    }
+   ]
+  },
+  "4": {
+   "src": "/audio/4.5/5.mp3",
+   "duration": 76.8,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Ora il Pallof press: un elastico o un cavo che tira di lato e crea una forza rotazionale. Prima versione: da sdraiato, supino."
+    },
+    {
+     "who": "L",
+     "start": 10.46,
+     "text": "Come mi sistemo?"
+    },
+    {
+     "who": "M",
+     "start": 12.22,
+     "text": "Schiena a terra, attivi il core anteriore con una retroversione del bacino, così la lombare si appiattisce sul pavimento. Piedi piantati, anche a terra, spalle e testa appoggiate."
+    },
+    {
+     "who": "L",
+     "start": 25.4,
+     "text": "Sembrano i cinque punti di contatto della panca piana."
+    },
+    {
+     "who": "M",
+     "start": 29.22,
+     "text": "Simile, sì. Afferri l'elastico e spingi in alto per metterlo in tensione: lui vuole girarti verso l'ancoraggio."
+    },
+    {
+     "who": "L",
+     "start": 37.77,
+     "text": "Dove è più duro?"
+    },
+    {
+     "who": "M",
+     "start": 39.69,
+     "text": "Secondo te? In alto, a braccia distese: lì la forza rotazionale è massima."
+    },
+    {
+     "who": "L",
+     "start": 47.04,
+     "text": "E se è troppo difficile?"
+    },
+    {
+     "who": "M",
+     "start": 49.19,
+     "text": "Due regressioni: meno tensione, per esempio avvicinandoti all'ancoraggio, oppure piedi più larghi, perché una base larga dà stabilità."
+    },
+    {
+     "who": "L",
+     "start": 59.26,
+     "text": "E per progredire?"
+    },
+    {
+     "who": "M",
+     "start": 61.18,
+     "text": "Tre progressioni: più tensione, piedi più stretti per avere meno stabilità, e infine piedi sollevati da terra, la variante più dura."
+    },
+    {
+     "who": "L",
+     "start": 71.09,
+     "text": "Tensione e larghezza dei piedi sono le mie manopole... e da sdraiato è un ottimo punto di partenza."
+    }
+   ]
+  },
+  "5": {
+   "src": "/audio/4.5/6.mp3",
+   "duration": 76.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Seconda versione del Pallof press: in piedi, sempre con l'elastico. Lo fissi all'altezza delle spalle, così la spinta in avanti viene dritta."
+    },
+    {
+     "who": "L",
+     "start": 9.91,
+     "text": "E se lo metto più in alto o più in basso?"
+    },
+    {
+     "who": "M",
+     "start": 13.5,
+     "text": "Cambi l'angolo della forza rotazionale e rendi il lavoro più mirato. Prendi l'elastico con due mani e fai un passo lontano dal supporto per creare tensione."
+    },
+    {
+     "who": "L",
+     "start": 24.04,
+     "text": "Piedi come?"
+    },
+    {
+     "who": "M",
+     "start": 25.54,
+     "text": "Base piuttosto larga, per la stabilità. Poi spingi le mani in avanti, resistendo alla trazione verso l'ancoraggio."
+    },
+    {
+     "who": "L",
+     "start": 34.01,
+     "text": "Il punto più duro è a braccia distese, giusto?"
+    },
+    {
+     "who": "M",
+     "start": 37.6,
+     "text": "Esatto, il più lontano dal petto: lì il core lavora al massimo. Puoi fare ripetizioni, oppure tenere la posizione distesa per il tempo della scheda."
+    },
+    {
+     "who": "L",
+     "start": 48.56,
+     "text": "Come progredisco?"
+    },
+    {
+     "who": "M",
+     "start": 50.4,
+     "text": "Due strade: ti allontani dal supporto, più tensione, oppure stringi i piedi, meno stabilità."
+    },
+    {
+     "who": "L",
+     "start": 58.06,
+     "text": "E per regredire faccio il contrario."
+    },
+    {
+     "who": "M",
+     "start": 61,
+     "text": "Sì: ti avvicini al supporto e poi aumenti la distanza un po' alla volta, oppure allarghi i piedi. E alleni SEMPRE entrambi i lati in modo uguale."
+    },
+    {
+     "who": "L",
+     "start": 71.61,
+     "text": "Elastico alle spalle, braccia distese il punto duro, e due lati bilanciati."
+    }
+   ]
+  },
+  "6": {
+   "src": "/audio/4.5/7.mp3",
+   "duration": 78.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Altra variante efficace: la panca piana con un solo manubrio. È un esercizio unilaterale."
+    },
+    {
+     "who": "L",
+     "start": 6.96,
+     "text": "Ma è un esercizio di forza, no?"
+    },
+    {
+     "who": "M",
+     "start": 9.74,
+     "text": "Sì, fa crescere forza e massa muscolare. Ma allena anche, in modo indiretto, la stabilità del core contro la rotazione."
+    },
+    {
+     "who": "L",
+     "start": 19,
+     "text": "Perché?"
+    },
+    {
+     "who": "M",
+     "start": 20.26,
+     "text": "Secondo te, cosa cambia rispetto a due manubri? Con due il peso è uguale sui lati; con uno solo il carico sta da una parte e crea una forza rotazionale."
+    },
+    {
+     "who": "L",
+     "start": 32.08,
+     "text": "E il corpo tende a girare."
+    },
+    {
+     "who": "M",
+     "start": 34.62,
+     "text": "A girare e a scivolare fuori dalla panca: il core deve controllarlo. Parti dai cinque punti di contatto: due piedi a terra, coccige, spalle e testa."
+    },
+    {
+     "who": "L",
+     "start": 45.81,
+     "text": "Quando lo sento di più?"
+    },
+    {
+     "who": "M",
+     "start": 47.81,
+     "text": "Soprattutto nella discesa del manubrio. Per renderlo più difficile riduci i punti di contatto: per esempio porti i piedi sulla panca, mantenendo la retroversione del bacino."
+    },
+    {
+     "who": "L",
+     "start": 59.16,
+     "text": "Base più piccola, quindi più instabilità."
+    },
+    {
+     "who": "M",
+     "start": 62.67,
+     "text": "Lavora di più il core anteriore e cresce la richiesta di stabilità. Probabilmente solleverai MENO peso, ma i benefici per forza e stabilità del core restano importanti."
+    },
+    {
+     "who": "L",
+     "start": 74.01,
+     "text": "Un manubrio solo crea squilibrio, e il core tiene dritto il tronco."
+    }
+   ]
+  },
+  "7": {
+   "src": "/audio/4.5/8.mp3",
+   "duration": 75,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Ora cambi obiettivo: dopo aver resistito alla rotazione, impari a crearla con potenza."
+    },
+    {
+     "who": "L",
+     "start": 6.31,
+     "text": "Con la stessa regola di prima?"
+    },
+    {
+     "who": "M",
+     "start": 8.38,
+     "text": "Sempre: la potenza nasce da anche e colonna toracica, la lombare resta stabile per tutto il movimento. Tra i mezzi più efficaci ci sono i lanci con la palla medica."
+    },
+    {
+     "who": "L",
+     "start": 19.96,
+     "text": "Il primo?"
+    },
+    {
+     "who": "M",
+     "start": 21.31,
+     "text": "Il lancio rotazionale: di fianco alla parete, perpendicolare. Palla all'altezza dell'anca più lontana dal muro, carichi ruotando verso quel fianco esterno e lanci contro la parete."
+    },
+    {
+     "who": "L",
+     "start": 33.78,
+     "text": "E cosa spinge davvero?"
+    },
+    {
+     "who": "M",
+     "start": 36.09,
+     "text": "Le anche, non la torsione della parte bassa della schiena. E i piedi restano piantati a terra per la stabilità."
+    },
+    {
+     "who": "L",
+     "start": 43.75,
+     "text": "Come il tiro di collo esterno: carico sull'anca, la schiena non fa da cardine."
+    },
+    {
+     "who": "M",
+     "start": 49.51,
+     "text": "Perfetto. Il secondo è il lancio laterale in piedi: stessa partenza, ma palla più alta. Spingi attraverso il gomito e lanci contro il muro."
+    },
+    {
+     "who": "L",
+     "start": 59.81,
+     "text": "Gomiti come?"
+    },
+    {
+     "who": "M",
+     "start": 61.23,
+     "text": "Gomiti ALTI, e usa anche il polso per la massima potenza rotazionale. Servono per la prestazione e anche per prevenire gli infortuni."
+    },
+    {
+     "who": "L",
+     "start": 70.25,
+     "text": "Cambi di direzione e tiri partono dalle anche, con il tronco stabile dove serve."
+    }
+   ]
+  },
+  "8": {
+   "src": "/audio/4.5/9.mp3",
+   "duration": 80.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Chiudiamo collegando i pezzi. In questa unità hai visto anti-flessione, anti-estensione, anti-flessione laterale e ora anti-rotazione."
+    },
+    {
+     "who": "L",
+     "start": 10.46,
+     "text": "Quattro famiglie. Cosa hanno in comune?"
+    },
+    {
+     "who": "M",
+     "start": 13.74,
+     "text": "Insegnano al core a resistere a forze e movimenti indesiderati da direzioni diverse. Così costruisci un core forte e stabile, per lo sport e quando sollevi pesi."
+    },
+    {
+     "who": "L",
+     "start": 25.16,
+     "text": "E migliorando in questi esercizi?"
+    },
+    {
+     "who": "M",
+     "start": 27.47,
+     "text": "Controlli le forze che non vuoi e hai una base solida di stabilità. Da lì arrivano più controllo ed efficienza nei movimenti."
+    },
+    {
+     "who": "L",
+     "start": 35.87,
+     "text": "Quindi basta l'anti-movimento?"
+    },
+    {
+     "who": "M",
+     "start": 38.41,
+     "text": "No. Molti esercizi utili per il core includono un movimento, quindi non sono anti-movimento, ma restano molto efficaci."
+    },
+    {
+     "who": "L",
+     "start": 47.85,
+     "text": "Cosa danno in più?"
+    },
+    {
+     "who": "M",
+     "start": 49.69,
+     "text": "Aumentano forza e funzionalità del core e completano gli altri. Insieme danno attivazione dinamica e schemi di movimento funzionali, quindi migliore prestazione e forma fisica."
+    },
+    {
+     "who": "L",
+     "start": 62.08,
+     "text": "Come una difesa: chi tiene la posizione e chi sa ripartire."
+    },
+    {
+     "who": "M",
+     "start": 66.87,
+     "text": "Esatto. Un approccio BILANCIATO, con entrambe le categorie in scheda, è essenziale per un core completo e per esprimere tutto il potenziale."
+    },
+    {
+     "who": "L",
+     "start": 76.47,
+     "text": "Anti-movimento più movimento. Ora provo le domande!"
+    }
+   ]
+  }
+ }
+}
