@@ -1,0 +1,9 @@
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js","three/addons/":"/node_modules/three/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from "three"; import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+const r=new THREE.WebGLRenderer({preserveDrawingBuffer:true}); r.setSize(300,300); document.body.appendChild(r.domElement);
+const s=new THREE.Scene(); s.background=new THREE.Color(0xfbe7c8); s.add(new THREE.HemisphereLight(0xffffff,0x886644,2));
+const c=new THREE.PerspectiveCamera(35,1,0.1,50); c.position.set(0,0,-6); c.lookAt(0,0,0);
+new GLTFLoader().load("spike.glb",(g)=>{ s.add(g.scene); let m; g.scene.traverse(o=>{ if(o.morphTargetDictionary) m=o; });
+ m.material=new THREE.MeshToonMaterial({color:0xe9b48c}); m.morphTargetInfluences[m.morphTargetDictionary.mouth_open]=1; r.render(s,c); window.READY=Object.keys(m.morphTargetDictionary).join(","); });
+</script>
