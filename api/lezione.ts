@@ -1,8 +1,8 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { zodOutputFormat } from "@anthropic-ai/sdk/helpers/zod";
 import { z } from "zod/v4";
-import { LESSON_GUIDE, LessonPackSchema } from "../src/lib/lesson";
-import { askJson, json, readBody } from "./_lib/ai";
+import { LESSON_GUIDE, LessonPackSchema } from "../src/lib/lesson.js";
+import { askJson, json, readBody } from "./_lib/ai.js";
 
 /**
  * POST /api/lezione — riceve il testo di un PDF (letto nel telefono) e restituisce il pacchetto lezione.

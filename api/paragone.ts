@@ -1,4 +1,4 @@
-import { askJson, checkAccess, json, readBody } from "./_lib/ai";
+import { askJson, checkAccess, json, readBody } from "./_lib/ai.js";
 
 /** POST /api/paragone — un paragone dal calcio o dalla palestra per un concetto della lezione. */
 

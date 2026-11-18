@@ -1,4 +1,4 @@
-import { askJson, checkAccess, json, readBody } from "./_lib/ai";
+import { askJson, checkAccess, json, readBody } from "./_lib/ai.js";
 
 /** POST /api/richiamo — commenta quello che lo studente ricorda delle ultime parti. */
 
