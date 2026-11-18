@@ -269,7 +269,8 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 /* ——— Lezione ——— */
 .lesson-card { background: linear-gradient(170deg, #fff, var(--brand-soft)); }
 .keypoints { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
-.keypoints li { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--brand); border-radius: 12px; padding: 10px 12px; font-weight: 650; font-size: 16px; line-height: 1.3; }
+.keypoints li { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px 10px 30px; font-weight: 650; font-size: 16px; line-height: 1.3; }
+.keypoints li::before { content: ""; position: absolute; left: 12px; top: 17px; width: 8px; height: 8px; border-radius: 50%; background: var(--brand); }
 .analogy { background: var(--field-soft); color: #1d5634; border-radius: 12px; padding: 10px 12px; font-weight: 600; font-size: 15px; }
 .caption { font-size: 19px; line-height: 1.45; text-align: center; min-height: 3em; color: var(--ink); margin: 0; }
 .narration { font-size: 17px; line-height: 1.6; }
