@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "code": "5.3",
+  "unit": 5,
+  "title": "Meccanismi dell'ipertrofia",
+  "summary": "I tre meccanismi che fanno crescere il muscolo con i pesi: tensione meccanica, stress metabolico e danno muscolare. Come funziona ciascuno, perché i DOMS non misurano il lavoro e quale meccanismo sembra il più importante.",
+  "parts": [
+    {
+      "slide": 3,
+      "title": "Tre strade per far crescere il muscolo",
+      "narration": "In questa lezione scopri come nasce davvero l'ipertrofia. Parti da un'idea semplice. Per il corpo l'allenamento della forza è uno stress. Ogni volta che sollevi un peso, metti in difficoltà il tuo organismo. Con il tempo il corpo risponde e si adatta, così lo stesso lavoro lo disturba di meno. Crescere di massa è proprio uno di questi adattamenti. Un muscolo più grosso e più forte sopporta meglio la fatica e i carichi che gli chiedi. È una forma di difesa. Ma come fa il peso a dire al muscolo di crescere? Secondo questa lezione ci sono tre meccanismi principali. Tutti e tre spingono il corpo ad aumentare la sintesi proteica, cioè a costruire più proteine muscolari, e quindi a far crescere il muscolo. Il primo è la tensione meccanica: la forza che il muscolo sente sotto carico. Il secondo è lo stress metabolico: l'accumulo di sostanze di scarto durante lo sforzo, quello che senti come bruciore. Il terzo è il danno muscolare: le piccole lesioni alle fibre causate dall'allenamento. Tieni a mente questa terna, perché all'esame torna sempre. Tensione meccanica, stress metabolico, danno muscolare. Nelle prossime parti le vediamo una alla volta. Capirai come funziona ognuna, quando conta di più e che cosa cambia nel modo in cui scrivi una scheda per un calciatore. Alla fine vedremo anche quale dei tre sembra il più importante, e perché non è facile dirlo con certezza.",
+      "keyPoints": [
+        "L'allenamento della forza è uno stress a cui il corpo si adatta",
+        "L'ipertrofia è un adattamento che rende il muscolo più resistente",
+        "Tre meccanismi: tensione meccanica, stress metabolico, danno muscolare",
+        "Tutti e tre aumentano la sintesi proteica"
+      ],
+      "analogy": "È come un difensore che prende sempre lo stesso attaccante veloce: partita dopo partita si adatta e soffre di meno. Il muscolo fa lo stesso con il carico.",
+      "check": {
+        "question": "Quali sono i tre meccanismi principali dell'ipertrofia secondo la lezione?",
+        "options": [
+          "Tensione meccanica, stress metabolico, danno muscolare",
+          "Forza, velocità, resistenza",
+          "Sintesi proteica, idratazione, flessibilità",
+          "Reclutamento, riposo, alimentazione"
+        ],
+        "answer": 0,
+        "explanation": "La lezione indica tensione meccanica, stress metabolico e danno muscolare come i tre meccanismi primari."
+      }
+    },
+    {
+      "slide": 4,
+      "title": "Tensione meccanica: cos'è",
+      "narration": "Partiamo dal primo meccanismo, la tensione meccanica. In parole semplici è la tensione che si crea dentro il muscolo. Quando alleni la forza, il carico tira e spinge sul muscolo e lo mette in tensione. Questa tensione è considerata uno dei grandi inneschi dell'ipertrofia. Il muscolo scheletrico, infatti, reagisce molto ai cambiamenti del carico meccanico. Qual è la teoria? La tensione disturba l'integrità del muscolo. Il muscolo risponde mandando un segnale: aumenta la sintesi proteica. Di solito pensiamo alla tensione meccanica come alla contrazione che fai quando sposti un carico e crei movimento. È questa la parte principale dell'ipertrofia legata alla tensione. Ma c'è un'altra strada. Puoi creare tensione anche allungando il muscolo. Lo stretching mette il muscolo in tensione e quindi potrebbe portare a una risposta di crescita. Qui arriva una distinzione d'esame importante. La tensione da stretching porta più probabilmente a un'ipertrofia in serie, cioè il muscolo aggiunge sarcomeri in lunghezza. Le azioni dinamiche, come gli esercizi di forza e le contrazioni, portano invece a un'ipertrofia in parallelo, cioè la fibra diventa più spessa. Ricorda quello che hai visto nelle lezioni precedenti. Se vuoi la massima dimensione del muscolo, punta all'ipertrofia in parallelo. Questo non vuol dire che quella in serie sia inutile: ha comunque il suo valore. Per un calciatore, quindi, la base resta il lavoro con i pesi. Lo stretching è un'aggiunta, non il cuore del lavoro.",
+      "keyPoints": [
+        "Tensione meccanica = tensione generata nel muscolo dal carico",
+        "Il muscolo scheletrico è molto sensibile al carico meccanico",
+        "Stretching: più probabile ipertrofia in serie",
+        "Esercizi di forza e contrazioni: ipertrofia in parallelo"
+      ],
+      "analogy": "Pensa a una rete da porta: se la tiri in lungo si allunga (in serie), se ci appendi tanti palloni diventa più robusta e spessa (in parallelo).",
+      "check": {
+        "question": "Che tipo di ipertrofia porta più probabilmente la tensione da stretching?",
+        "options": [
+          "Ipertrofia in parallelo",
+          "Ipertrofia sarcoplasmatica",
+          "Ipertrofia in serie",
+          "Nessuna ipertrofia"
+        ],
+        "answer": 2,
+        "explanation": "La tensione da allungamento favorisce l'ipertrofia in serie; le azioni dinamiche quella in parallelo."
+      }
+    },
+    {
+      "slide": 5,
+      "title": "Picco di tensione e tempo sotto tensione",
+      "narration": "Vediamo meglio cosa intendiamo per tensione meccanica. È la forza che il muscolo produce quando lavora sotto carico. Due elementi sembrano decisivi. Il primo è il picco di tensione, cioè la tensione più alta che il muscolo raggiunge. Un picco più alto si associa a una risposta ipertrofica migliore. Ora la domanda furba. Viene da pensare che il picco massimo sia all'1RM, perché è il carico più pesante che riesci a sollevare. Invece la tensione nel muscolo può toccare il suo massimo già intorno al 90% dell'1RM. Questo numero tienilo a mente. Perché succede? Con il carico massimale entrano in gioco altre cose. Le strutture passive, come tendini e legamenti, si prendono una parte maggiore del carico. Altri muscoli aiutano di più a produrre la forza massima. E spesso la tecnica peggiora. Quindi all'1RM sollevi più chili, ma non è detto che il muscolo che vuoi allenare sia più in tensione. Forse il carico in più arriva da altri fattori. Il secondo elemento è il tempo sotto tensione, cioè quanto a lungo il muscolo resta in tensione. Anche questo è visto come un fattore chiave. Se lo allunghi, per esempio eseguendo l'esercizio più lentamente, in teoria puoi stimolare l'ipertrofia attraverso la tensione meccanica. Su questa variabile tornerai nelle prossime lezioni. In palestra, quindi, il singolo massimale non è automaticamente lo stimolo migliore per far crescere i quadricipiti o i femorali di un tuo giocatore.",
+      "keyPoints": [
+        "Picco di tensione più alto = risposta ipertrofica migliore",
+        "Il picco può arrivare intorno al 90% dell'1RM, non all'1RM",
+        "All'1RM lavorano di più strutture passive e altri muscoli; la tecnica peggiora",
+        "Anche il tempo sotto tensione è un fattore chiave"
+      ],
+      "analogy": "È come un tiro in porta: calciare con tutta la forza possibile spesso rovina la tecnica e non mette più potenza dove serve. Al 90% colpisci meglio.",
+      "check": {
+        "question": "Intorno a quale carico la tensione muscolare può raggiungere il picco?",
+        "options": [
+          "50% dell'1RM",
+          "70% dell'1RM",
+          "100% dell'1RM",
+          "90% dell'1RM"
+        ],
+        "answer": 3,
+        "explanation": "La lezione spiega che il picco di tensione muscolare può arrivare intorno al 90% dell'1RM."
+      }
+    },
+    {
+      "slide": 6,
+      "title": "Dalla forza al segnale: come cresce la fibra",
+      "narration": "Come fa la tensione a diventare muscolo nuovo? Non basta spingere un peso. La fibra non cresce solo perché una forza l'ha messa in tensione. Serve un passaggio in mezzo. Le forze meccaniche vengono trasformate in segnali molecolari dentro le cellule muscolari. Segui la catena, perché è il cuore della slide. Il carico meccanico crea tensione muscolare. La tensione attiva le vie di segnalazione anabolica. Queste vie danno l'ordine di aumentare la sintesi proteica muscolare. Carico, tensione, segnale, sintesi proteica. Come hai visto nelle lezioni precedenti, tutto ciò che riguarda l'ipertrofia alla fine si riduce a questo: un effetto positivo sulla sintesi proteica muscolare. La tensione meccanica è uno stimolo molto potente. Alcuni autori la chiamano addirittura il meccanismo più importante. Però attenzione a non esagerare. Da sola la tensione può produrre ipertrofia, ma è difficile che sia l'unica responsabile dei guadagni di massa. Un esempio chiarisce tutto. Un allenamento con poche ripetizioni e carichi molto alti crea tantissima tensione nel muscolo. Eppure potrebbe non essere il modo migliore per massimizzare l'ipertrofia. Un powerlifter che fa solo singole e doppie diventa fortissimo, ma non per forza il più grosso. Quindi la tensione è necessaria, ma servono anche gli altri meccanismi per arrivare al risultato completo. Per questo, quando scrivi un blocco di ipertrofia per i tuoi giocatori, non ti limiti mai solo ai carichi massimali.",
+      "keyPoints": [
+        "Le forze meccaniche diventano segnali molecolari nella cellula",
+        "Carico → tensione → vie anaboliche → sintesi proteica",
+        "Tutto nell'ipertrofia si riduce alla sintesi proteica",
+        "La tensione da sola difficilmente spiega tutta la crescita"
+      ],
+      "analogy": "È come un passaggio filtrante: il pallone (il carico) da solo non fa gol, serve l'attaccante che lo trasforma in tiro (il segnale) e poi in rete (la sintesi proteica).",
+      "check": {
+        "question": "Perché poche ripetizioni con carichi molto alti potrebbero non essere ideali per l'ipertrofia?",
+        "options": [
+          "Perché non creano tensione muscolare",
+          "Perché la tensione da sola difficilmente spiega tutta la crescita",
+          "Perché riducono la sintesi proteica a zero",
+          "Perché lavorano solo le fibre di tipo 1"
+        ],
+        "answer": 1,
+        "explanation": "Creano molta tensione, ma la tensione meccanica da sola difficilmente è l'unica responsabile dell'ipertrofia."
+      }
+    },
+    {
+      "slide": 7,
+      "title": "Stretching e ipertrofia",
+      "narration": "Abbiamo detto che anche lo stretching crea tensione meccanica. Vediamo cosa dice la ricerca. Nel lavoro con i pesi il muscolo si allunga già durante la fase eccentrica di ogni ripetizione, e lì produce tensione. Ma qui parliamo d'altro: dello stretching fatto a parte, separato dall'eccentrica. Usarlo per stimolare la crescita è un approccio molto meno comune. Negli animali ci sono molte ricerche. Allungare un muscolo per alcune settimane ha portato a una grande crescita della sua sezione trasversa. Negli esseri umani, invece, gli studi sono pochi. Sembra però che sia lo stretching attivo sia quello passivo, insieme all'allenamento della forza, possano aiutare a massimizzare l'ipertrofia. Come puoi usarlo in pratica? Puoi allungare il muscolo che stai allenando durante il recupero tra le serie. Oppure puoi farlo alla fine della serie, subito dopo l'ultima ripetizione. Probabilmente lo stretching funziona perché aumenta il tempo sotto tensione, che, come hai visto, è un forte stimolo per la crescita. Attenzione però al messaggio corretto. Lo stretching da solo non è un metodo efficace per l'ipertrofia. Diventa utile se lo abbini al lavoro con i pesi. Il riferimento da ricordare è Mohamad e colleghi, 2011. Per un calciatore l'idea è semplice. Dopo una serie di leg curl puoi tenere i femorali in allungamento durante la pausa. Non sostituisci il lavoro di forza: lo completi con qualche secondo in più di tensione.",
+      "keyPoints": [
+        "Negli animali lo stretching prolungato ha aumentato molto la sezione trasversa",
+        "Negli umani poca ricerca: stretching attivo e passivo + forza possono aiutare",
+        "Si fa tra le serie o a fine serie",
+        "Da solo non basta: utile se abbinato ai pesi (Mohamad et al. 2011)"
+      ],
+      "analogy": "È come il cross dopo il dribbling: da solo non porta il gol, ma attaccato all'azione giusta aumenta le possibilità di segnare.",
+      "check": {
+        "question": "Secondo la lezione, come agisce probabilmente lo stretching sull'ipertrofia?",
+        "options": [
+          "Aumentando il tempo sotto tensione",
+          "Aumentando il picco di tensione oltre l'1RM",
+          "Riducendo lo stress metabolico",
+          "Sostituendo l'allenamento con i pesi"
+        ],
+        "answer": 0,
+        "explanation": "Lo stretching probabilmente aumenta il tempo sotto tensione, uno stimolo ipertrofico potente."
+      }
+    },
+    {
+      "slide": 8,
+      "title": "Stress metabolico: il bruciore",
+      "narration": "Passiamo al secondo meccanismo: lo stress metabolico. È l'accumulo di metaboliti e scarti prodotti dalle reazioni che danno energia al muscolo. Gli esempi da sapere sono tre: fosfato inorganico, lattato e ioni idrogeno. Lo stress metabolico è molto legato agli sforzi anaerobici che portano a fatica, come il lavoro con i pesi. Questo tipo di allenamento crea fatica periferica e accumulo di scarti. Lo riconosci dal bruciore che senti nel muscolo subito dopo una serie portata a esaurimento. Ma c'è dell'altro. Mentre il muscolo si contrae, schiaccia i vasi sanguigni al suo interno. Questa compressione locale riduce il flusso di sangue al muscolo che lavora. Se arriva poco sangue, gli scarti non vengono portati via bene. Così i metaboliti si accumulano ancora di più e lo stress metabolico cresce. Da sempre i bodybuilder costruiscono i loro allenamenti proprio su questo. Usano il bruciore come segnale di una seduta di qualità. Per la lezione questo è un indizio forte. I bodybuilder sono l'esempio migliore di ciò che funziona per far crescere il muscolo, quindi lo stress metabolico deve contare. La risposta di crescita allo stress metabolico dipende da diversi fattori, mostrati nello schema della slide. Non li vediamo tutti. Nelle prossime due parti ci concentriamo su due di questi: un maggiore reclutamento di fibre e un maggiore rigonfiamento delle cellule. Pensa all'ultima serie di affondi in palestra, quando le gambe bruciano: quello è stress metabolico.",
+      "keyPoints": [
+        "Accumulo di metaboliti: fosfato inorganico, lattato, ioni idrogeno",
+        "Legato a sforzi anaerobici con fatica, come i pesi",
+        "La contrazione comprime i vasi: meno sangue, più accumulo",
+        "Bodybuilder usano il bruciore come indicatore di qualità"
+      ],
+      "analogy": "È come l'ultimo minuto di una ripetuta di sprint: le gambe bruciano perché gli scarti si accumulano più in fretta di quanto il sangue riesca a portarli via.",
+      "check": {
+        "question": "Quale di questi NON è citato come metabolita dello stress metabolico?",
+        "options": [
+          "Lattato",
+          "Ioni idrogeno",
+          "Creatina chinasi",
+          "Fosfato inorganico"
+        ],
+        "answer": 2,
+        "explanation": "La lezione cita fosfato inorganico, lattato e ioni idrogeno."
+      }
+    },
+    {
+      "slide": 9,
+      "title": "Stress metabolico e reclutamento delle fibre",
+      "narration": "Primo effetto dello stress metabolico: si reclutano più fibre. Ripassa come si attivano le unità motorie. Seguono un ordine preciso. Prima partono quelle a soglia bassa e poca forza, poi quelle a soglia alta e tanta forza. Così il corpo non spreca energia e si muove in modo efficiente. Un esempio. Alzarti da una sedia e fare uno squat sono movimenti simili. Ma per alzarti dalla sedia serve poca azione muscolare, molto meno che nello squat. La resistenza è bassa, quindi non serve accendere le unità motorie ad alta forza: sarebbe energia sprecata. Lo stesso vale in palestra. Con un carico leggero o moderato potresti non attivare le unità motorie a soglia molto alta e le fibre di tipo 2. E sono proprio queste ad avere il maggior potenziale di crescita. Se non le attivi, perdi le fibre che crescono di più. Siccome spesso lavoriamo con carichi moderati, servono abbastanza ripetizioni per creare stress metabolico. Ecco il punto chiave. Quando fatica e stress metabolico aumentano, la soglia di attivazione delle unità motorie ad alta soglia si abbassa. Perché? Forse perché gli scarti accumulati disturbano la capacità del muscolo di contrarsi. Il muscolo allora deve reclutare più fibre per mantenere la stessa forza e continuare a sollevare. Risultato: con lo stress metabolico ottieni una grande attivazione muscolare, fondamentale per l'ipertrofia. Per questo una serie da 12 portata vicino al cedimento può accendere anche le fibre più grosse.",
+      "keyPoints": [
+        "Unità motorie: prima soglia bassa, poi soglia alta",
+        "Carichi leggeri o moderati possono non attivare le fibre di tipo 2",
+        "Le fibre di tipo 2 hanno il maggior potenziale ipertrofico",
+        "Con fatica e stress metabolico la soglia delle unità ad alta soglia si abbassa"
+      ],
+      "analogy": "È come un allenatore che fa entrare i titolari solo quando la partita si fa dura: con la fatica il muscolo è costretto a mandare in campo le fibre più forti.",
+      "check": {
+        "question": "Cosa succede alla soglia di attivazione delle unità motorie ad alta soglia quando aumentano fatica e stress metabolico?",
+        "options": [
+          "Aumenta",
+          "Diminuisce",
+          "Resta uguale",
+          "Si azzera del tutto"
+        ],
+        "answer": 1,
+        "explanation": "Con fatica e stress metabolico la soglia si abbassa, quindi si reclutano più fibre."
+      }
+    },
+    {
+      "slide": 10,
+      "title": "Stress metabolico e rigonfiamento cellulare",
+      "narration": "Secondo effetto dello stress metabolico: la cellula si gonfia. Si pensa che lo stress metabolico degli sforzi anaerobici con fatica favorisca il rigonfiamento cellulare. E questo può influire sulla sintesi proteica e sulla crescita. Il rigonfiamento della cellula e una maggiore idratazione sembrano fare due cose. Aumentano la sintesi proteica e riducono la disgregazione delle proteine. Come funziona? Se nella cellula entra più acqua, la pressione sulla sua membrana sale. Immagina un palloncino pieno d'acqua. Più lo riempi, più spinge sulle pareti. La cellula sente questa pressione come una minaccia alla sua struttura. Per difendersi, aumenta la sintesi proteica e rinforza le sue pareti. Così possono formarsi cellule muscolari capaci di resistere alla pressione del rigonfiamento. Questo ha un effetto positivo sull'ipertrofia. Devi però sapere anche un limite. Come tutti i fattori dello stress metabolico interagiscono con l'ipertrofia non è ancora ben chiaro, perché sono difficili da studiare. Su una cosa invece la lezione è netta: lo stress metabolico è un meccanismo chiave dell'ipertrofia. Riassumendo, lo stress metabolico agisce per due vie viste in queste slide. Recluta più fibre, comprese quelle che crescono di più. E gonfia la cellula, che reagisce costruendo più proteine. Pensa alla sensazione di pompaggio dopo una serie lunga di curl o di leg extension. Quel muscolo pieno e teso è proprio il rigonfiamento di cui parliamo.",
+      "keyPoints": [
+        "Rigonfiamento e idratazione: più sintesi, meno disgregazione proteica",
+        "Più acqua nella cellula = più pressione sulla membrana",
+        "La cellula sente una minaccia e rinforza la struttura",
+        "Interazioni poco chiare, ma lo stress metabolico è un meccanismo chiave"
+      ],
+      "analogy": "È come gonfiare troppo un pallone: la cucitura sente la pressione. La cellula, invece di scoppiare, rinforza la sua cucitura costruendo proteine.",
+      "check": {
+        "question": "Come reagisce la cellula all'aumento di pressione sulla membrana dovuto al rigonfiamento?",
+        "options": [
+          "Riduce la sintesi proteica",
+          "Espelle tutta l'acqua",
+          "Aumenta la sintesi proteica per rinforzarsi",
+          "Smette di contrarsi"
+        ],
+        "answer": 2,
+        "explanation": "La cellula percepisce la pressione come una minaccia e aumenta la sintesi proteica per rinforzare la sua struttura."
+      }
+    },
+    {
+      "slide": 11,
+      "title": "Danno muscolare: cos'è e da cosa dipende",
+      "narration": "Terzo meccanismo: il danno muscolare indotto dall'esercizio. Succede quando l'allenamento con i pesi danneggia le fibre muscolari. Sembra una cosa brutta. In realtà quasi ogni allenamento con i pesi crea qualche microtrauma alle fibre. Se il danno non è eccessivo, è una conseguenza normale dell'allenamento. Si pensa che porti a una risposta ipertrofica che protegge il muscolo dai danni futuri. Un muscolo più grosso e più forte, in teoria, resiste meglio a nuove lesioni. Quanto è grave il danno? Dipende da tre fattori: il tipo, l'intensità e il volume dell'allenamento. È logico: più alti sono volume e intensità, più è probabile danneggiare le fibre. Il tipo di esercizio è un fattore curioso. Un esercizio nuovo, o che porta al corpo uno stress a cui non è abituato, può causare danno anche lui. Un esempio. Una persona in buona forma partecipa a una lezione con esercizi che di solito non fa. Il giorno dopo si sveglia piena di dolori. Il motivo è semplice: il corpo non era abituato a quel lavoro, quindi le fibre si sono danneggiate di più. Nella slide c'è anche una foto che confronta una fibra dopo l'allenamento con una di controllo e mostra il danno nella struttura. Per un calciatore vale lo stesso. A inizio preparazione, un esercizio mai fatto prima può lasciare le gambe a pezzi per giorni. Per questo conviene introdurre i movimenti nuovi con calma.",
+      "keyPoints": [
+        "Quasi ogni allenamento con i pesi crea microtraumi",
+        "Danno non eccessivo = evento naturale che protegge dai danni futuri",
+        "Gravità: tipo, intensità e volume dell'allenamento",
+        "Esercizi nuovi o non abituali causano più danno"
+      ],
+      "analogy": "È come la prima partita su un campo sintetico dopo mesi sull'erba: le gambe non sono abituate e il giorno dopo sei a pezzi.",
+      "check": {
+        "question": "Da quali fattori dipende la gravità del danno muscolare indotto dall'esercizio?",
+        "options": [
+          "Età, sesso e altezza",
+          "Tipo, intensità e volume dell'allenamento",
+          "Solo dal carico esterno",
+          "Solo dal tempo di recupero"
+        ],
+        "answer": 1,
+        "explanation": "La lezione indica tipo, intensità e volume dell'allenamento."
+      }
+    },
+    {
+      "slide": 12,
+      "title": "Eccentrica ed effetto degli sforzi ripetuti",
+      "narration": "Conta molto anche il tipo di contrazione. Le contrazioni concentriche e quelle isometriche possono entrambe danneggiare il muscolo. Ma l'eccentrica è di gran lunga la più dannosa per le cellule muscolari. Il motivo? Nelle contrazioni eccentriche le teste di actina e miosina vengono separate a forza. Questo strappo porta a un danno maggiore. Un esempio classico di esercizio a dominanza eccentrica è il Nordic hamstring curl, che nella slide vedi in un video. Ora un concetto d'esame: l'effetto degli sforzi ripetuti. Se fai più volte lo stesso tipo di esercizio, il danno muscolare diminuisce. Il corpo si abitua a quello stress e disturba meno le fibre. Da qui un'idea. Forse nelle persone ben allenate il danno muscolare non è uno stimolo importante per crescere, perché grazie a questo effetto non lo subirebbero. Però gli studi dicono altro. Il danno si verifica comunque anche nei soggetti ben allenati, solo in misura minore. Quindi potrebbe ancora avere un ruolo nella loro ipertrofia. Pensa al Nordic con la tua squadra. La prima settimana i giocatori hanno i femorali doloranti per giorni. Dopo qualche seduta lo stesso esercizio dà molto meno fastidio. Quello è l'effetto degli sforzi ripetuti in azione. Non vuol dire che il Nordic non serva più: il danno c'è ancora, solo più piccolo. Per questo ha senso introdurlo con poco volume e aumentarlo gradualmente.",
+      "keyPoints": [
+        "L'eccentrica è la contrazione più dannosa",
+        "Actina e miosina separate a forza = più danno",
+        "Esempio: Nordic hamstring curl",
+        "Effetto degli sforzi ripetuti: lo stesso esercizio ripetuto danneggia meno",
+        "Anche negli allenati il danno c'è, ma minore"
+      ],
+      "analogy": "È come il primo giorno di ritiro con i Nordic: femorali distrutti. Dopo due settimane lo stesso lavoro quasi non lo senti.",
+      "check": {
+        "question": "Come si chiama il fenomeno per cui ripetere lo stesso esercizio riduce il danno muscolare?",
+        "options": [
+          "Supercompensazione",
+          "Effetto degli sforzi ripetuti",
+          "Principio di specificità",
+          "Effetto di potenziamento post-attivazione"
+        ],
+        "answer": 1,
+        "explanation": "È l'effetto degli sforzi ripetuti: il corpo si abitua allo stress e le fibre vengono danneggiate meno."
+      }
+    },
+    {
+      "slide": 13,
+      "title": "DOMS: il dolore non misura il lavoro",
+      "narration": "L'ipertrofia può avvenire anche senza danno muscolare. Però, come hai visto, il danno da allenamento ha un effetto positivo sulla crescita. Probabilmente perché aumenta i segnali per la sintesi proteica. Il punto vero è quanto danno. Se il danno è eccessivo, arrivano i problemi. Cala la capacità di produrre forza. Compaiono rigidità muscolare e gonfiore. E arriva l'indolenzimento muscolare a insorgenza ritardata, in breve DOMS. Tutto questo può rovinare le sedute successive. Qui c'è la trappola. Se un atleta cerca apposta il danno e pensa che essere dolorante sia il segno dell'intensità giusta, si limita da solo. Non riesce a lavorare bene nelle sedute dopo. E questo fa male all'ipertrofia nel lungo periodo, perché il volume di allenamento è fondamentale per crescere. La regola è chiara: se non riesci ad allenarti bene perché sei troppo dolorante dalla seduta prima, il danno è stato eccessivo. I DOMS sono il disturbo più comune dopo l'allenamento con i pesi. Nascono dal danno muscolare, ma è stato dimostrato che sono poco correlati con i tempi e con l'entità dei suoi marcatori chimici. In teoria una persona può avere un danno quasi riparato ed essere ancora molto dolorante. Per questo non devi inseguire i DOMS. Il dolore del giorno dopo non dice per forza quanto ti sei allenato duro e può danneggiare le sedute che seguono. Se un tuo giocatore arriva al giovedì con le gambe bloccate, la seduta del martedì era troppo.",
+      "keyPoints": [
+        "Si può crescere senza danno, ma un danno moderato aiuta",
+        "Danno eccessivo: meno forza, rigidità, gonfiore, DOMS",
+        "Il volume è fondamentale: i DOMS possono ridurlo",
+        "DOMS poco correlati con tempi ed entità dei marcatori del danno",
+        "Non inseguire i DOMS: il dolore non misura l'intensità"
+      ],
+      "analogy": "È come giudicare una partita dai lividi: tanti lividi non vogliono dire che hai giocato bene, e se ti impediscono di allenarti la settimana dopo ci perdi.",
+      "check": {
+        "question": "Perché non conviene cercare i DOMS come segno di un buon allenamento?",
+        "options": [
+          "Perché i DOMS indicano sempre un infortunio grave",
+          "Perché aumentano troppo la sintesi proteica",
+          "Perché il dolore non misura per forza l'intensità e può ridurre il volume successivo",
+          "Perché compaiono solo con le contrazioni concentriche"
+        ],
+        "answer": 2,
+        "explanation": "I DOMS sono poco legati ai marcatori del danno e possono limitare le sedute successive, quindi il volume."
+      }
+    },
+    {
+      "slide": 14,
+      "title": "Qual è il meccanismo più importante?",
+      "narration": "Arriviamo alla domanda che tutti si fanno: quale dei tre meccanismi conta di più? Molti dicono la tensione meccanica creata dal carico esterno. In realtà è difficile stabilirlo. Il carico meccanico e lo stress metabolico di solito si presentano insieme. E l'accumulo di metaboliti di solito arriva insieme al danno alle fibre. Separare i tre e capire chi fa di più è quindi molto complicato. Lo schema della slide li mostra come tre cerchi che si sovrappongono: stress metabolico, danno muscolare e tensione meccanica. L'argomento a favore della tensione meccanica resta probabilmente il più forte. Perché? Lo stress metabolico non avviene senza un sovraccarico meccanico. E la tensione e il danno muscolare non avvengono senza carico e tensione meccanica. In pratica la tensione è la porta d'ingresso che apre la strada anche agli altri due. Il messaggio finale però è equilibrato. Qualunque sia il modo in cui interagiscono, tutti e tre possono almeno potenzialmente migliorare la sintesi proteica. E quindi, con il tempo, portare all'ipertrofia. Per te come preparatore questo significa una cosa concreta. Una buona scheda non si basa su un solo meccanismo. Usa carichi che creano tensione, serie abbastanza lunghe da dare stress metabolico e un danno muscolare gestito, che non rovini le sedute dopo. È come una squadra: il centravanti segna, ma senza centrocampo e difesa non vinci il campionato. All'esame ricorda: la tensione meccanica è la candidata più forte, ma tutti e tre contribuiscono.",
+      "keyPoints": [
+        "Difficile isolare il meccanismo principale: si presentano insieme",
+        "Argomento più forte: tensione meccanica",
+        "Senza carico meccanico non ci sono stress metabolico né danno",
+        "Tutti e tre possono aumentare la sintesi proteica"
+      ],
+      "analogy": "È come chiedersi chi conta di più tra centravanti, regista e difensore: il centravanti segna, ma senza gli altri due la squadra non vince.",
+      "check": {
+        "question": "Perché l'argomento a favore della tensione meccanica è considerato il più forte?",
+        "options": [
+          "Perché è l'unico meccanismo che aumenta la sintesi proteica",
+          "Perché gli altri due meccanismi non avvengono senza carico meccanico",
+          "Perché funziona solo con l'1RM",
+          "Perché non causa mai danno muscolare"
+        ],
+        "answer": 1,
+        "explanation": "Stress metabolico e danno muscolare non si verificano senza sovraccarico e tensione meccanica."
+      }
+    },
+    {
+      "slide": 15,
+      "title": "Riepilogo",
+      "narration": "Chiudiamo mettendo in fila quello che hai imparato. Hai visto i tre meccanismi principali proposti per spiegare come il muscolo cresce con l'allenamento con i pesi. Primo: la tensione meccanica. Il carico mette in tensione il muscolo e questa tensione viene trasformata in segnali che aumentano la sintesi proteica. Contano il picco di tensione, che può arrivare intorno al 90% dell'1RM, e il tempo sotto tensione. Lo stretching crea tensione e favorisce l'ipertrofia in serie; i pesi quella in parallelo. Secondo: lo stress metabolico. Fosfato inorganico, lattato e ioni idrogeno si accumulano, anche perché la contrazione schiaccia i vasi. Questo porta a reclutare più fibre, perché si abbassa la soglia delle unità motorie ad alta soglia, e fa gonfiare la cellula, che reagisce costruendo proteine. Terzo: il danno muscolare indotto dall'esercizio. Dipende da tipo, intensità e volume. L'eccentrica è la contrazione più dannosa. Con l'effetto degli sforzi ripetuti il danno cala, ma non sparisce negli allenati. Ricorda anche che i DOMS non sono un buon termometro dell'allenamento e che un danno eccessivo riduce il volume delle sedute successive. Infine, la tensione meccanica è la candidata più forte come meccanismo principale, ma tutti e tre possono contribuire all'ipertrofia. Prova a ripeterli a voce, come faresti con le marcature prima di una partita: tensione, stress metabolico, danno. Se li sai spiegare con un esempio di palestra, sei pronto per l'esame.",
+      "keyPoints": [
+        "Tensione meccanica: carico tradotto in sintesi proteica",
+        "Stress metabolico: più reclutamento e rigonfiamento cellulare",
+        "Danno muscolare: utile se non eccessivo",
+        "La tensione è la più forte, ma contano tutti e tre"
+      ],
+      "analogy": "È come il riepilogo tattico a fine settimana: tre concetti chiari da ricordare prima di entrare in campo.",
+      "check": {
+        "question": "Attraverso quali due vie lo stress metabolico può portare all'ipertrofia, secondo la lezione?",
+        "options": [
+          "Più reclutamento di fibre e rigonfiamento cellulare",
+          "Più flessibilità e meno fatica",
+          "Danno eccentrico e DOMS",
+          "Più tempo di recupero e meno volume"
+        ],
+        "answer": 0,
+        "explanation": "La lezione tratta il maggiore reclutamento di fibre e il maggiore rigonfiamento cellulare."
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Quali sono i tre meccanismi principali dell'ipertrofia?",
+      "back": "Tensione meccanica, stress metabolico, danno muscolare indotto dall'esercizio.",
+      "part": 0
+    },
+    {
+      "front": "Perché il corpo sviluppa ipertrofia?",
+      "back": "Per adattarsi allo stress dell'allenamento: un muscolo più grande e forte lo sopporta meglio.",
+      "part": 0
+    },
+    {
+      "front": "Stretching o esercizi di forza: quale ipertrofia favoriscono?",
+      "back": "Stretching: più probabile in serie. Esercizi dinamici e contrazioni: in parallelo.",
+      "part": 1
+    },
+    {
+      "front": "Quale ipertrofia cercare per la massima dimensione muscolare?",
+      "back": "Quella in parallelo (anche se quella in serie ha la sua utilità).",
+      "part": 1
+    },
+    {
+      "front": "Dove può arrivare il picco di tensione muscolare?",
+      "back": "Intorno al 90% dell'1RM, non per forza all'1RM.",
+      "part": 2
+    },
+    {
+      "front": "Perché all'1RM il muscolo target non è per forza più in tensione?",
+      "back": "Strutture passive e altri muscoli contribuiscono di più e la tecnica può peggiorare.",
+      "part": 2
+    },
+    {
+      "front": "Quali due aspetti della tensione meccanica contano per l'ipertrofia?",
+      "back": "Il picco di tensione e il tempo sotto tensione.",
+      "part": 2
+    },
+    {
+      "front": "Catena della tensione meccanica?",
+      "back": "Carico meccanico → tensione muscolare → vie di segnalazione anabolica → sintesi proteica muscolare.",
+      "part": 3
+    },
+    {
+      "front": "Come aiuta probabilmente lo stretching l'ipertrofia?",
+      "back": "Aumenta il tempo sotto tensione; utile solo se abbinato ai pesi (Mohamad et al. 2011).",
+      "part": 4
+    },
+    {
+      "front": "Quando inserire lo stretching nella seduta?",
+      "back": "Nel recupero tra le serie o alla fine della serie, dopo l'ultima ripetizione.",
+      "part": 4
+    },
+    {
+      "front": "Quali metaboliti causano lo stress metabolico?",
+      "back": "Fosfato inorganico, lattato e ioni idrogeno.",
+      "part": 5
+    },
+    {
+      "front": "Perché la contrazione aumenta lo stress metabolico?",
+      "back": "Comprime i vasi: arriva meno sangue e gli scarti non vengono eliminati.",
+      "part": 5
+    },
+    {
+      "front": "Quali fibre hanno il maggiore potenziale ipertrofico?",
+      "back": "Le fibre di tipo 2, legate alle unità motorie ad alta soglia.",
+      "part": 6
+    },
+    {
+      "front": "Effetto della fatica sulla soglia delle unità motorie ad alta soglia?",
+      "back": "La soglia si abbassa: si reclutano più fibre per mantenere la forza.",
+      "part": 6
+    },
+    {
+      "front": "Cosa fanno rigonfiamento e idratazione cellulare alle proteine?",
+      "back": "Aumentano la sintesi proteica e diminuiscono la disgregazione proteica.",
+      "part": 7
+    },
+    {
+      "front": "Da cosa dipende la gravità del danno muscolare?",
+      "back": "Da tipo, intensità e volume dell'allenamento.",
+      "part": 8
+    },
+    {
+      "front": "Qual è la contrazione più dannosa?",
+      "back": "L'eccentrica: actina e miosina vengono separate a forza (es. Nordic hamstring curl).",
+      "part": 9
+    },
+    {
+      "front": "Cos'è l'effetto degli sforzi ripetuti?",
+      "back": "Ripetere lo stesso esercizio riduce il danno muscolare che provoca.",
+      "part": 9
+    },
+    {
+      "front": "Cosa causa un danno muscolare eccessivo?",
+      "back": "Meno forza, rigidità, gonfiore e DOMS: peggiorano le sedute successive.",
+      "part": 10
+    },
+    {
+      "front": "I DOMS indicano quanto è grande il danno?",
+      "back": "No: sono poco correlati con tempi ed entità dei marcatori chimici del danno.",
+      "part": 10
+    },
+    {
+      "front": "Perché è difficile dire quale meccanismo conta di più?",
+      "back": "Tensione, stress metabolico e danno si verificano di solito insieme.",
+      "part": 11
+    },
+    {
+      "front": "Perché la tensione meccanica è la candidata più forte?",
+      "back": "Senza carico meccanico non ci sono né stress metabolico né danno muscolare.",
+      "part": 11
+    },
+    {
+      "front": "Le due vie dello stress metabolico verso l'ipertrofia?",
+      "back": "Maggiore reclutamento di fibre e maggiore rigonfiamento cellulare.",
+      "part": 12
+    }
+  ],
+  "questions": [
+    {
+      "question": "Secondo la lezione, l'ipertrofia è soprattutto:",
+      "options": [
+        "Un adattamento che rende il muscolo più resistente allo stress dell'allenamento",
+        "Un effetto della sola alimentazione",
+        "Una conseguenza dell'allenamento aerobico",
+        "Un fenomeno che riguarda solo i tendini"
+      ],
+      "answer": 0,
+      "explanation": "Il corpo si adatta allo stress dell'allenamento: un muscolo più grande e forte lo sopporta meglio.",
+      "part": 0
+    },
+    {
+      "question": "Le azioni muscolari dinamiche, come gli esercizi di forza, portano soprattutto a:",
+      "options": [
+        "Ipertrofia in serie",
+        "Ipertrofia in parallelo",
+        "Atrofia delle fibre di tipo 2",
+        "Nessuna variazione della sezione trasversa"
+      ],
+      "answer": 1,
+      "explanation": "Lo stretching favorisce l'ipertrofia in serie; le azioni dinamiche quella in parallelo.",
+      "part": 1
+    },
+    {
+      "question": "Quale affermazione sul picco di tensione è corretta?",
+      "options": [
+        "Il picco di tensione muscolare coincide sempre con l'1RM",
+        "Un picco più basso dà una risposta ipertrofica migliore",
+        "Il picco di tensione muscolare può essere raggiunto intorno al 90% dell'1RM",
+        "Il picco di tensione non influisce sull'ipertrofia"
+      ],
+      "answer": 2,
+      "explanation": "La tensione nel muscolo può raggiungere il picco intorno al 90% dell'1RM.",
+      "part": 2
+    },
+    {
+      "question": "Quale di questi NON è un motivo per cui all'1RM il muscolo target può non essere al massimo della tensione?",
+      "options": [
+        "Le strutture passive assumono più carico",
+        "Altri muscoli contribuiscono di più",
+        "La tecnica può peggiorare",
+        "Le fibre di tipo 2 non vengono reclutate"
+      ],
+      "answer": 3,
+      "explanation": "La lezione cita strutture passive, contributo di altri muscoli e peggioramento della tecnica.",
+      "part": 2
+    },
+    {
+      "question": "Secondo la lezione, aumentare il tempo sotto tensione, per esempio rallentando l'esecuzione:",
+      "options": [
+        "In teoria potrebbe stimolare l'ipertrofia attraverso la tensione meccanica",
+        "Annulla lo stimolo ipertrofico",
+        "Serve solo ad aumentare la flessibilità",
+        "Riduce la sintesi proteica"
+      ],
+      "answer": 0,
+      "explanation": "Il tempo sotto tensione è visto come un fattore chiave della risposta ipertrofica.",
+      "part": 2
+    },
+    {
+      "question": "Come porta all'ipertrofia la tensione meccanica?",
+      "options": [
+        "Gonfiando direttamente la fibra d'acqua",
+        "Convertendo le forze meccaniche in segnali molecolari che aumentano la sintesi proteica",
+        "Aumentando solo il numero di fibre muscolari",
+        "Riducendo l'attività delle unità motorie"
+      ],
+      "answer": 1,
+      "explanation": "Carico → tensione → vie di segnalazione anabolica → sintesi proteica muscolare.",
+      "part": 3
+    },
+    {
+      "question": "Che cosa mostrano le ricerche sugli animali citate a proposito dello stretching?",
+      "options": [
+        "Nessun effetto sul muscolo",
+        "Una riduzione della forza massima",
+        "Una grande crescita della sezione trasversa dopo alcune settimane di stiramento",
+        "Un aumento solo del tessuto adiposo"
+      ],
+      "answer": 2,
+      "explanation": "Lo stiramento per alcune settimane negli animali ha portato a una grande crescita della sezione trasversa.",
+      "part": 4
+    },
+    {
+      "question": "Quale conclusione sullo stretching e l'ipertrofia è corretta secondo la lezione (Mohamad et al. 2011)?",
+      "options": [
+        "Lo stretching da solo è un metodo efficace per l'ipertrofia",
+        "Lo stretching va evitato in chi cerca ipertrofia",
+        "Lo stretching funziona solo se passivo",
+        "Lo stretching può essere utile se abbinato all'allenamento della forza"
+      ],
+      "answer": 3,
+      "explanation": "Da solo non è efficace, ma insieme all'allenamento della forza potrebbe essere molto utile.",
+      "part": 4
+    },
+    {
+      "question": "Che cosa provoca la compressione dei vasi sanguigni durante la contrazione?",
+      "options": [
+        "Un aumento del flusso di sangue e meno metaboliti",
+        "Meno flusso di sangue e un maggiore accumulo di metaboliti",
+        "Un danno eccentrico alle fibre",
+        "Una riduzione della fatica periferica"
+      ],
+      "answer": 1,
+      "explanation": "Arriva meno sangue, gli scarti non vengono eliminati e lo stress metabolico aumenta.",
+      "part": 5
+    },
+    {
+      "question": "Perché con carichi leggeri o moderati servono abbastanza ripetizioni?",
+      "options": [
+        "Per creare stress metabolico e arrivare a reclutare le unità motorie ad alta soglia",
+        "Per evitare di attivare le fibre di tipo 2",
+        "Per ridurre la sintesi proteica",
+        "Per evitare il rigonfiamento cellulare"
+      ],
+      "answer": 0,
+      "explanation": "Con la fatica la soglia delle unità ad alta soglia si abbassa e si reclutano le fibre che crescono di più.",
+      "part": 6
+    },
+    {
+      "question": "Perché, secondo una possibile spiegazione, la fatica aumenta il reclutamento delle fibre?",
+      "options": [
+        "Perché aumenta il flusso di sangue",
+        "Perché migliora la tecnica",
+        "Perché gli scarti accumulati interferiscono con la contrazione e servono più fibre per la stessa forza",
+        "Perché le unità a soglia bassa smettono di funzionare del tutto"
+      ],
+      "answer": 2,
+      "explanation": "Gli scarti disturbano la capacità contrattile, quindi il muscolo recluta più fibre per mantenere la forza.",
+      "part": 6
+    },
+    {
+      "question": "Una maggiore idratazione della cellula muscolare:",
+      "options": [
+        "Diminuisce la pressione sulla membrana",
+        "Aumenta la pressione sulla membrana e stimola la sintesi proteica",
+        "Aumenta la disgregazione proteica",
+        "Non ha effetti sulla sintesi proteica"
+      ],
+      "answer": 1,
+      "explanation": "Più pressione sulla membrana: la cellula la sente come minaccia e rinforza la struttura con più proteine.",
+      "part": 7
+    },
+    {
+      "question": "Quale tipo di contrazione è di gran lunga il più dannoso per le cellule muscolari?",
+      "options": [
+        "Concentrica",
+        "Isometrica",
+        "Isocinetica",
+        "Eccentrica"
+      ],
+      "answer": 3,
+      "explanation": "Nell'eccentrica actina e miosina vengono separate a forza, causando più danno.",
+      "part": 9
+    },
+    {
+      "question": "Che cosa dicono gli studi sul danno muscolare nei soggetti ben allenati?",
+      "options": [
+        "Non si verifica mai",
+        "Si verifica, ma in misura minore",
+        "È maggiore che nei principianti",
+        "Si verifica solo con le contrazioni isometriche"
+      ],
+      "answer": 1,
+      "explanation": "Il danno si verifica anche negli allenati, solo meno, e può ancora contare per l'ipertrofia.",
+      "part": 9
+    },
+    {
+      "question": "Quale affermazione sui DOMS è corretta?",
+      "options": [
+        "Sono poco correlati con la sequenza temporale e l'entità dei marcatori chimici del danno",
+        "Indicano con precisione quanto è stato duro l'allenamento",
+        "Compaiono solo senza danno muscolare",
+        "Vanno cercati in ogni seduta per massimizzare il volume"
+      ],
+      "answer": 0,
+      "explanation": "Si può essere ancora molto doloranti anche con un danno quasi riparato.",
+      "part": 10
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Il giocatore che vuole solo massimali",
+      "prompt": "Un centrocampista di 22 anni vuole mettere massa sulle gambe e ti dice: \"Faccio solo singole al massimale di squat, così il muscolo lavora al massimo della tensione\". Cosa gli rispondi?",
+      "modelAnswer": "Gli spiego che la tensione meccanica è uno stimolo potente, ma da sola difficilmente spiega tutta l'ipertrofia. Inoltre il picco di tensione nel muscolo può arrivare già intorno al 90% dell'1RM: al massimale strutture passive e altri muscoli si prendono più carico e la tecnica peggiora, quindi i quadricipiti non sono per forza più in tensione. Conta anche il tempo sotto tensione. Gli propongo serie più lunghe con carichi alti ma non massimali, portate vicino alla fatica: così aggiunge stress metabolico, che abbassa la soglia delle unità motorie ad alta soglia e recluta le fibre di tipo 2, quelle con più potenziale di crescita."
+    },
+    {
+      "title": "Nordic in pre-campionato",
+      "prompt": "Vuoi inserire il Nordic hamstring curl nella preparazione della tua squadra. Diversi giocatori non l'hanno mai fatto. Come lo introduci e cosa dici a chi pensa che i dolori del giorno dopo siano il segno che sta lavorando bene?",
+      "modelAnswer": "Il Nordic è a dominanza eccentrica, la contrazione più dannosa, e per chi non l'ha mai fatto è anche un esercizio nuovo: due motivi per un danno muscolare alto. Lo introduco con poco volume e lo aumento gradualmente: grazie all'effetto degli sforzi ripetuti, sedute dopo sedute il danno cala. Ai giocatori spiego che i DOMS non sono un buon indicatore: sono poco correlati con l'entità del danno e un danno eccessivo riduce forza, dà rigidità e gonfiore e rovina le sedute successive. Il volume è fondamentale per l'ipertrofia, quindi essere troppo doloranti per allenarsi bene significa aver esagerato."
+    },
+    {
+      "title": "Scrivi una serie che usa i tre meccanismi",
+      "prompt": "Scrivi un esercizio per i femorali di un difensore, in un blocco di ipertrofia, che sfrutti tensione meccanica, stress metabolico e stretching. Spiega perché ogni scelta è utile.",
+      "modelAnswer": "Leg curl, 3 serie da 10–12 ripetizioni con un carico impegnativo, discesa lenta e ultime ripetizioni vicino al cedimento, poi stretching dei femorali durante il recupero. Il carico crea tensione meccanica; la discesa lenta allunga il tempo sotto tensione. Le serie lunghe vicino alla fatica creano stress metabolico: si accumulano lattato, ioni idrogeno e fosfato inorganico, si abbassa la soglia delle unità ad alta soglia e si reclutano le fibre di tipo 2; il muscolo si gonfia e la cellula aumenta la sintesi proteica. Lo stretching tra le serie aggiunge tempo sotto tensione: da solo non basta, ma abbinato ai pesi può aiutare (Mohamad et al. 2011)."
+    }
+  ]
+}
