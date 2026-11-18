@@ -16,9 +16,9 @@ function fresh(): State {
 }
 
 describe("lezioni incluse", () => {
-  it("ci sono 4.1, 5.1, 6.1, 7.1 e sono valide", () => {
-    const codes = bundledLessons().map((l) => l.code).sort();
-    expect(codes).toEqual(["4.1", "5.1", "6.1", "7.1"]);
+  it("ci sono le lezioni scritte dai PDF e sono valide", () => {
+    const codes = bundledLessons().map((l) => l.code);
+    for (const c of ["4.1", "4.2", "5.1", "6.1", "7.1"]) expect(codes).toContain(c);
     for (const l of bundledLessons()) expect(LessonPackSchema.safeParse(l).success).toBe(true);
   });
 
