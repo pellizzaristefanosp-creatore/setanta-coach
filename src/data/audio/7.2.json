@@ -1,0 +1,1420 @@
+{
+ "code": "7.2",
+ "parts": {
+  "0": {
+   "src": "/audio/7.2/1.mp3",
+   "duration": 88.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Allora Luca, oggi lezione pratica: la tecnica dello strappo, una delle alzate base del sollevamento pesi olimpico."
+    },
+    {
+     "who": "L",
+     "start": 8.63,
+     "text": "Finalmente! Basta tirare forte e il bilanciere va su, no?"
+    },
+    {
+     "who": "M",
+     "start": 12.95,
+     "text": "Magari. È un gesto che chiede precisione e abilità: ogni pezzo deve stare al posto giusto, nel momento giusto."
+    },
+    {
+     "who": "L",
+     "start": 22.21,
+     "text": "E quindi come lo studiamo?"
+    },
+    {
+     "who": "M",
+     "start": 24.68,
+     "text": "Lo smontiamo in fasi, come un'azione da gol rivista al video fotogramma per fotogramma. Prima l'overhead squat: squat con il bilanciere sopra la testa a braccia tese."
+    },
+    {
+     "who": "L",
+     "start": 36.57,
+     "text": "Poi la posizione iniziale, con il bilanciere ancora a terra?"
+    },
+    {
+     "who": "M",
+     "start": 40.55,
+     "text": "Esatto. Poi prima tirata, transizione e seconda tirata. Infine l'incastro, quando ti metti sotto il bilanciere e lo blocchi sopra la testa."
+    },
+    {
+     "who": "L",
+     "start": 50.85,
+     "text": "E gli errori? Quelli mi servono, coi miei compagni in palestra."
+    },
+    {
+     "who": "M",
+     "start": 55.41,
+     "text": "Per ogni fase vedremo gli errori tipici. È la parte che ti servirà di più: guardi un atleta e riconosci SUBITO dove si rompe il movimento."
+    },
+    {
+     "who": "L",
+     "start": 64.85,
+     "text": "E poi so cosa dirgli per sistemarlo."
+    },
+    {
+     "who": "M",
+     "start": 67.97,
+     "text": "Proprio così. Il fine è imparare la tecnica in modo sicuro, senza fretta: prima le posizioni una alla volta, poi un unico gesto fluido."
+    },
+    {
+     "who": "L",
+     "start": 78.35,
+     "text": "Quindi la sequenza è: overhead squat, partenza, prima tirata, transizione, seconda tirata, incastro. Me la tengo a mente."
+    }
+   ]
+  },
+  "1": {
+   "src": "/audio/7.2/2.mp3",
+   "duration": 80.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Partiamo dalla definizione. Secondo te, quante sono le alzate olimpiche?"
+    },
+    {
+     "who": "L",
+     "start": 6.19,
+     "text": "Due... lo strappo e lo slancio?"
+    },
+    {
+     "who": "M",
+     "start": 9.78,
+     "text": "Giusto. Nello strappo porti il bilanciere da terra fino sopra la testa in un solo movimento, e lo ricevi in overhead squat."
+    },
+    {
+     "who": "L",
+     "start": 18.33,
+     "text": "Niente pause a metà?"
+    },
+    {
+     "who": "M",
+     "start": 20.33,
+     "text": "Niente pause, niente appoggi sulle spalle. Un UNICO gesto, dal pavimento alle braccia tese in alto."
+    },
+    {
+     "who": "L",
+     "start": 27.83,
+     "text": "Ma a me che faccio il calciatore perché dovrebbe interessare?"
+    },
+    {
+     "who": "M",
+     "start": 31.82,
+     "text": "Perché allena il tasso di sviluppo della forza, cioè quanto in fretta produci forza. E poi la potenza."
+    },
+    {
+     "who": "L",
+     "start": 39.64,
+     "text": "Tipo lo scatto sui primi metri o lo stacco per un colpo di testa su un cross."
+    },
+    {
+     "who": "M",
+     "start": 44.66,
+     "text": "Esatto. Lì conta poco la forza massima in assoluto: conta quanta forza metti in pochissimo tempo. Lo strappo lavora proprio lì."
+    },
+    {
+     "who": "L",
+     "start": 53.92,
+     "text": "E per chi fa weightlifting?"
+    },
+    {
+     "who": "M",
+     "start": 56.15,
+     "text": "Per loro è una gara vera e propria, una pietra miliare per affinare tecnica e forza. Lo stesso esercizio ha due anime: per il pesista è un fine, per te un mezzo."
+    },
+    {
+     "who": "L",
+     "start": 68.7,
+     "text": "Un mezzo per diventare più esplosivo. Ma in tutti e due i casi la tecnica va imparata bene."
+    },
+    {
+     "who": "M",
+     "start": 75.08,
+     "text": "Per questo lo dividiamo in fasi, ognuna con le sue posizioni e i suoi errori tipici."
+    }
+   ]
+  },
+  "2": {
+   "src": "/audio/7.2/3.mp3",
+   "duration": 80.3,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Si parte dalla fine: l'overhead squat è la posizione in cui ricevi il bilanciere alla fine dello strappo."
+    },
+    {
+     "who": "L",
+     "start": 7.35,
+     "text": "Dalla fine? Perché?"
+    },
+    {
+     "who": "M",
+     "start": 9.74,
+     "text": "È l'approccio dall'alto verso il basso: parti dal punto finale e scendi passo dopo passo fino alla partenza. Se non sai fare l'overhead squat, non chiudi lo strappo."
+    },
+    {
+     "who": "L",
+     "start": 21.09,
+     "text": "Ok. Primo dettaglio?"
+    },
+    {
+     "who": "M",
+     "start": 23.55,
+     "text": "La larghezza della presa. Un modo semplice: mani larghe, ginocchia appena piegate, e la sbarra si appoggia comoda nella piega dell'anca. Quella è la tua presa."
+    },
+    {
+     "who": "L",
+     "start": 35.06,
+     "text": "E i piedi?"
+    },
+    {
+     "who": "M",
+     "start": 36.32,
+     "text": "Alla larghezza delle anche, punte un po' girate in fuori. Come il portiere pronto al tuffo: piedi giusti, corpo stabile."
+    },
+    {
+     "who": "L",
+     "start": 44.95,
+     "text": "Quando scendo, il peso dove va?"
+    },
+    {
+     "who": "M",
+     "start": 48.07,
+     "text": "Verso la parte posteriore del piede, cioè i talloni. E le anche arrivano sotto il livello delle ginocchia: solo così è uno squat completo."
+    },
+    {
+     "who": "L",
+     "start": 58.06,
+     "text": "E le braccia?"
+    },
+    {
+     "who": "M",
+     "start": 59.64,
+     "text": "Del tutto distese e BLOCCATE. È questo che crea una base solida e sicura per tenere il bilanciere sopra la testa, dalla pianta dei piedi alle mani."
+    },
+    {
+     "who": "L",
+     "start": 69.86,
+     "text": "E se la posizione è instabile?"
+    },
+    {
+     "who": "M",
+     "start": 72.48,
+     "text": "Allora ogni chilo in più diventa un rischio di perdere il bilanciere. Se è solida, lo strappo ha un punto d'arrivo sicuro."
+    }
+   ]
+  },
+  "3": {
+   "src": "/audio/7.2/4.mp3",
+   "duration": 77.5,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Errori nell'overhead squat. Ti dico il primo: il ginocchio valgo. Sai cos'è?"
+    },
+    {
+     "who": "L",
+     "start": 7.16,
+     "text": "Le ginocchia che vanno dentro? Lo vedo quando atterro da un colpo di testa."
+    },
+    {
+     "who": "M",
+     "start": 12.1,
+     "text": "Esatto, crollano verso l'interno in discesa. È segnale di scarso controllo e poca stabilità attorno al ginocchio."
+    },
+    {
+     "who": "L",
+     "start": 19.92,
+     "text": "Secondo errore?"
+    },
+    {
+     "who": "M",
+     "start": 21.69,
+     "text": "Poca profondità. Se l'atleta non scende abbastanza, fa fatica a incastrare bene il bilanciere sopra la testa."
+    },
+    {
+     "who": "L",
+     "start": 29.27,
+     "text": "E il terzo?"
+    },
+    {
+     "who": "M",
+     "start": 30.77,
+     "text": "Il busto che si inclina in avanti: si perde il controllo in alto e il bilanciere tende a scappare in avanti."
+    },
+    {
+     "who": "L",
+     "start": 37.89,
+     "text": "E se invece va indietro?"
+    },
+    {
+     "who": "M",
+     "start": 40.43,
+     "text": "È il quarto errore: bilanciere oltre la linea delle spalle. La causa è una tensione insufficiente nella parte alta del corpo e nelle spalle."
+    },
+    {
+     "who": "L",
+     "start": 50.11,
+     "text": "Quindi trovarli e correggerli serve a ricevere bene il bilanciere."
+    },
+    {
+     "who": "M",
+     "start": 54.74,
+     "text": "E a tenere un overhead squat stabile. Chi non lo sa fare farà fatica a incastrare il bilanciere nello strappo."
+    },
+    {
+     "who": "L",
+     "start": 62.01,
+     "text": "E per insegnare l'alzata come si parte?"
+    },
+    {
+     "who": "M",
+     "start": 65.45,
+     "text": "Nel weightlifting ci sono due strade: dall'alto verso il basso, top-down, e dal basso verso l'alto, bottom-up. Ognuna ha i suoi vantaggi: le vediamo con la posizione iniziale."
+    }
+   ]
+  },
+  "4": {
+   "src": "/audio/7.2/5.mp3",
+   "duration": 77.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Ora il punto di partenza, bilanciere a terra. Prima cosa: come lo impugni?"
+    },
+    {
+     "who": "L",
+     "start": 6.76,
+     "text": "Con la mano intera attorno alla sbarra, normale."
+    },
+    {
+     "who": "M",
+     "start": 10.67,
+     "text": "Quella è la presa ad artiglio. L'altra è la presa a gancio: pollice dentro, appoggiato sulla sbarra, e le altre dita chiuse sopra."
+    },
+    {
+     "who": "L",
+     "start": 19.69,
+     "text": "Quale preferiscono i pesisti?"
+    },
+    {
+     "who": "M",
+     "start": 22.08,
+     "text": "Il gancio. Aiuta a tirare con più potenza, sia nella prima sia nella seconda tirata."
+    },
+    {
+     "who": "L",
+     "start": 28.46,
+     "text": "E il corpo come lo sistemo?"
+    },
+    {
+     "who": "M",
+     "start": 30.93,
+     "text": "Piedi ben piantati, peso uniforme sul mezzo piede. Il bilanciere sta sopra il primo occhiello delle scarpe, con circa una mano di spazio dalle tibie."
+    },
+    {
+     "who": "L",
+     "start": 40.99,
+     "text": "E le spalle?"
+    },
+    {
+     "who": "M",
+     "start": 42.49,
+     "text": "Davanti al bilanciere. Ginocchia un po' avanzate, petto e testa alti, schiena dritta e in tensione con le scapole tirate indietro."
+    },
+    {
+     "who": "L",
+     "start": 52.09,
+     "text": "Quindi controllo: bilanciere un po' davanti alle tibie, spalle davanti, petto e testa su, schiena dritta."
+    },
+    {
+     "who": "M",
+     "start": 59.44,
+     "text": "Perfetto. È come sistemare il pallone prima di una punizione: se l'appoggio è storto, il tiro parte già male."
+    },
+    {
+     "who": "L",
+     "start": 67.03,
+     "text": "E ogni dettaglio sbagliato si porta dietro un problema in tutte le fasi dopo."
+    },
+    {
+     "who": "M",
+     "start": 72.13,
+     "text": "Per questo la controlli con calma, a ogni ripetizione, prima che il bilanciere si muova."
+    }
+   ]
+  },
+  "5": {
+   "src": "/audio/7.2/6.mp3",
+   "duration": 80.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Domanda da allenatore: da dove inizi a insegnare lo strappo?"
+    },
+    {
+     "who": "L",
+     "start": 5.41,
+     "text": "Da terra, dall'inizio... no?"
+    },
+    {
+     "who": "M",
+     "start": 8.76,
+     "text": "È una delle due strade. L'altra è la progressione top-down, dall'alto verso il basso: impari prima la parte finale dell'alzata."
+    },
+    {
+     "who": "L",
+     "start": 18.51,
+     "text": "Quindi si parte dall'overhead squat?"
+    },
+    {
+     "who": "M",
+     "start": 21.37,
+     "text": "Sì. Poi aggiungi, un passo alla volta, le partenze in sospensione, le posizioni hang: prima dall'anca, poi dalle ginocchia."
+    },
+    {
+     "who": "L",
+     "start": 30.89,
+     "text": "A chi serve?"
+    },
+    {
+     "who": "M",
+     "start": 32.55,
+     "text": "A chi ha limiti di mobilità e fatica ad assumere la posizione di partenza da terra."
+    },
+    {
+     "who": "L",
+     "start": 38.15,
+     "text": "E la bottom-up?"
+    },
+    {
+     "who": "M",
+     "start": 39.57,
+     "text": "Il bilanciere parte dal pavimento e lavori sulle fasi iniziali e sui diversi modi di tirare. È giusta per chi fa fatica con l'overhead squat o non incastra bene sopra la testa."
+    },
+    {
+     "who": "L",
+     "start": 51.07,
+     "text": "Un compagno rigido di anche e caviglie, che a terra non trova la posizione?"
+    },
+    {
+     "who": "M",
+     "start": 56.1,
+     "text": "Meglio partire dall'alto. Uno che in basso si sistema bene ma sopra la testa è instabile? Dal basso. Alla fine le fasi si uniscono comunque."
+    },
+    {
+     "who": "L",
+     "start": 66.48,
+     "text": "Come insegnare un tiro al volo: dal gesto finale o dalla rincorsa, secondo i limiti del giocatore."
+    },
+    {
+     "who": "M",
+     "start": 72.94,
+     "text": "Esatto. E comunque ci arrivi, la posizione iniziale resta la base: se parti male, il resto ne risente."
+    }
+   ]
+  },
+  "6": {
+   "src": "/audio/7.2/7.mp3",
+   "duration": 77.8,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Tre errori tipici nella posizione iniziale. Il primo: le spalle dietro il bilanciere."
+    },
+    {
+     "who": "L",
+     "start": 6.78,
+     "text": "E cosa succede?"
+    },
+    {
+     "who": "M",
+     "start": 8.62,
+     "text": "L'allineamento sbagliato crea problemi appena il bilanciere si stacca. Dai indicazioni chiare per portare le spalle davanti alla sbarra, e la tirata diventa più fluida."
+    },
+    {
+     "who": "L",
+     "start": 19.41,
+     "text": "Secondo?"
+    },
+    {
+     "who": "M",
+     "start": 20.68,
+     "text": "Le anche troppo alte. Secondo te, da cosa dipende spesso?"
+    },
+    {
+     "who": "L",
+     "start": 26.4,
+     "text": "Mobilità? Non riesce a scendere più in basso."
+    },
+    {
+     "who": "M",
+     "start": 29.99,
+     "text": "Bravo. Lavori con esercizi di mobilità mirati, oppure alzi il bilanciere sui blocchi: l'atleta parte comodo e corretto mentre la mobilità migliora."
+    },
+    {
+     "who": "L",
+     "start": 40.71,
+     "text": "E il terzo?"
+    },
+    {
+     "who": "M",
+     "start": 42.13,
+     "text": "La colonna flessa, cioè la schiena tonda. È un rischio serio per la sicurezza, soprattutto con carichi pesanti."
+    },
+    {
+     "who": "L",
+     "start": 50.11,
+     "text": "Da cosa viene?"
+    },
+    {
+     "who": "M",
+     "start": 51.61,
+     "text": "Può indicare poca capacità di estendere la colonna toracica e poca mobilità delle anche. Quindi esercizi per la mobilità toracica e la flessibilità delle anche."
+    },
+    {
+     "who": "L",
+     "start": 62.64,
+     "text": "Quindi le correzioni sono di due tipi: indicazioni sull'allineamento e lavoro sulla mobilità."
+    },
+    {
+     "who": "M",
+     "start": 69.1,
+     "text": "Insieme migliorano partenza, prestazione e sicurezza. E per i calciatori con anche rigide i blocchi sono un ottimo punto di partenza."
+    }
+   ]
+  },
+  "7": {
+   "src": "/audio/7.2/8.mp3",
+   "duration": 81.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Prima tirata: il bilanciere inizia a salire verso la posizione di potenza. Una buona partenza prepara una buona prima tirata."
+    },
+    {
+     "who": "L",
+     "start": 8.87,
+     "text": "E lì lo strappo via da terra!"
+    },
+    {
+     "who": "M",
+     "start": 11.41,
+     "text": "No. La parola chiave è PAZIENZA. Né strappato né troppo lento: un ritmo deciso e controllato."
+    },
+    {
+     "who": "L",
+     "start": 20.67,
+     "text": "Come la rincorsa di un rigore."
+    },
+    {
+     "who": "M",
+     "start": 22.9,
+     "text": "Esatto. Così crei tensione sul bilanciere e lo guidi in alto con un leggero movimento all'indietro. Ginocchia che si piegano, peso dal mezzo piede verso il retropiede."
+    },
+    {
+     "who": "L",
+     "start": 34.4,
+     "text": "E spalle, testa e petto?"
+    },
+    {
+     "who": "M",
+     "start": 37.03,
+     "text": "Spalle davanti al bilanciere, testa e petto alti. Sul peso del piede, però, ci sono scuole diverse."
+    },
+    {
+     "who": "L",
+     "start": 44.69,
+     "text": "Cioè?"
+    },
+    {
+     "who": "M",
+     "start": 45.95,
+     "text": "La più comune tra gli atleti d'élite: al ginocchio le ginocchia si distendono un po' per lasciar passare il bilanciere, e il peso sta tra avampiede e mezzo piede."
+    },
+    {
+     "who": "L",
+     "start": 56.41,
+     "text": "A cosa serve?"
+    },
+    {
+     "who": "M",
+     "start": 58.07,
+     "text": "Ad aumentare l'attivazione neuromuscolare, per avere la massima potenza nella fase dopo. L'altra sposta il peso poco a poco verso il retropiede, fino a bilanciere appena sopra le ginocchia."
+    },
+    {
+     "who": "L",
+     "start": 70.78,
+     "text": "E cosa guardo sempre, qualunque tecnica?"
+    },
+    {
+     "who": "M",
+     "start": 73.89,
+     "text": "Le ginocchia non devono mai ostacolare il bilanciere: si tolgono di mezzo al momento giusto, senza spingere la sbarra in avanti."
+    }
+   ]
+  },
+  "8": {
+   "src": "/audio/7.2/9.mp3",
+   "duration": 76.9,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Restiamo sulla prima tirata e guardiamo la parte alta. Mentre il bilanciere sale, dove stanno le spalle?"
+    },
+    {
+     "who": "L",
+     "start": 8.12,
+     "text": "Davanti alla sbarra."
+    },
+    {
+     "who": "M",
+     "start": 10.12,
+     "text": "Esatto. Testa e petto alti, verticali, e il peso scivola piano verso il retropiede."
+    },
+    {
+     "who": "L",
+     "start": 17.31,
+     "text": "Altro?"
+    },
+    {
+     "who": "M",
+     "start": 18.58,
+     "text": "Un dettaglio che molti trascurano, qualunque tecnica scegli per il piede: l'angolo della schiena."
+    },
+    {
+     "who": "L",
+     "start": 25.27,
+     "text": "Cioè come la tengo?"
+    },
+    {
+     "who": "M",
+     "start": 27.74,
+     "text": "Piatta e molto tensionata, e non deve cambiare angolo mentre il bilanciere sale. Così arrivi nella posizione giusta per la transizione."
+    },
+    {
+     "who": "L",
+     "start": 36.68,
+     "text": "E se si alza troppo presto o si arrotonda?"
+    },
+    {
+     "who": "M",
+     "start": 40.12,
+     "text": "Tutto il resto dell'alzata parte storto. Come quando proteggi palla spalle all'avversario: se il busto cede, perdi la posizione."
+    },
+    {
+     "who": "L",
+     "start": 48.9,
+     "text": "Quindi: spalle davanti, testa e petto su, schiena piatta con lo stesso angolo, peso verso il retropiede."
+    },
+    {
+     "who": "M",
+     "start": 57.14,
+     "text": "Perfetto, è la base solida per le fasi dopo. E un consiglio per tutto lo strappo: sono movimenti molto complessi."
+    },
+    {
+     "who": "L",
+     "start": 65.54,
+     "text": "Vanno adattati a ogni atleta?"
+    },
+    {
+     "who": "M",
+     "start": 67.93,
+     "text": "Sì. Un calciatore alto con leve lunghe non si muove come un pesista basso e compatto. Il tuo compito è trovare la versione giusta per lui."
+    }
+   ]
+  },
+  "9": {
+   "src": "/audio/7.2/10.mp3",
+   "duration": 76.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Errori della prima tirata: sono tre. Strappare violentemente il bilanciere da terra, alzare le anche prima delle ginocchia e le spalle che ruotano in avanti."
+    },
+    {
+     "who": "L",
+     "start": 10.8,
+     "text": "Partiamo dal primo?"
+    },
+    {
+     "who": "M",
+     "start": 12.3,
+     "text": "Sì: chi tira il bilanciere da terra troppo in fretta. Strano, vero?"
+    },
+    {
+     "who": "L",
+     "start": 18.57,
+     "text": "Beh sì, lo strappo è esplosivo. Più veloce parto, meglio è, no?"
+    },
+    {
+     "who": "M",
+     "start": 23.83,
+     "text": "Invece no. Nella prima fase serve pazienza. Se lo strappi dal pavimento troppo presto, rompi il ritmo dell'alzata."
+    },
+    {
+     "who": "L",
+     "start": 32.54,
+     "text": "E cosa perdo?"
+    },
+    {
+     "who": "M",
+     "start": 34.38,
+     "text": "Diventa più difficile tenere la giusta velocità del bilanciere per tutto il sollevamento."
+    },
+    {
+     "who": "L",
+     "start": 40.05,
+     "text": "Quindi l'esplosività quando la uso?"
+    },
+    {
+     "who": "M",
+     "start": 43.57,
+     "text": "Non la sprechi all'inizio: la tieni per la seconda tirata. All'inizio metti in tensione corpo e sbarra e porti il bilanciere nella posizione giusta."
+    },
+    {
+     "who": "L",
+     "start": 53.55,
+     "text": "Tipo il ragazzino in palestra che vuole fare vedere che è forte e lo tira su di colpo."
+    },
+    {
+     "who": "M",
+     "start": 58.74,
+     "text": "E viene fuori un'alzata scomposta. Tu lo calmi: parte deciso ma controllato, e sopra le ginocchia accelera con tutta la forza."
+    },
+    {
+     "who": "L",
+     "start": 68.8,
+     "text": "Come un contropiede: prima organizzi, poi acceleri."
+    },
+    {
+     "who": "M",
+     "start": 73.02,
+     "text": "Esatto. La fretta all'inizio si paga cara alla fine."
+    }
+   ]
+  },
+  "10": {
+   "src": "/audio/7.2/11.mp3",
+   "duration": 79.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Gli altri due errori della prima tirata. Il primo: le anche che si alzano prima delle ginocchia."
+    },
+    {
+     "who": "L",
+     "start": 7.12,
+     "text": "E come diventa la posizione?"
+    },
+    {
+     "who": "M",
+     "start": 9.42,
+     "text": "Poco efficace: l'atleta finisce quasi a gambe tese, busto piegato in avanti. E il bilanciere non riesce a fare il suo piccolo movimento all'indietro."
+    },
+    {
+     "who": "L",
+     "start": 19.49,
+     "text": "Quindi tutto il resto dell'alzata parte da una posizione sbagliata."
+    },
+    {
+     "who": "M",
+     "start": 24.13,
+     "text": "Esatto. Il secondo: le spalle ruotate in avanti, cioè si perde tensione nella parte alta."
+    },
+    {
+     "who": "L",
+     "start": 31.4,
+     "text": "Ma uno che parte bene?"
+    },
+    {
+     "who": "M",
+     "start": 33.47,
+     "text": "Proprio lui: appena il bilanciere si stacca, molla. Le spalle si chiudono, la parte alta della schiena si arrotonda, e via stabilità e controllo."
+    },
+    {
+     "who": "L",
+     "start": 44.09,
+     "text": "Come un difensore che parte bene in marcatura e poi si rilassa."
+    },
+    {
+     "who": "M",
+     "start": 48.57,
+     "text": "Bella. Secondo te, come si correggono?"
+    },
+    {
+     "who": "L",
+     "start": 53.63,
+     "text": "Dicendoglielo?"
+    },
+    {
+     "who": "M",
+     "start": 55.71,
+     "text": "Primo, indicazioni di coaching mirate. Secondo, mostrare le posizioni corrette, con una dimostrazione o un video. Terzo, lavoro di mobilità se ci sono limiti fisici."
+    },
+    {
+     "who": "L",
+     "start": 68.73,
+     "text": "E con i miei compagni?"
+    },
+    {
+     "who": "M",
+     "start": 70.72,
+     "text": "Filmali di lato con il telefono: vedi subito anche che salgono prima o spalle che si chiudono. Rivederlo insieme rende la correzione molto più chiara."
+    }
+   ]
+  },
+  "11": {
+   "src": "/audio/7.2/12.mp3",
+   "duration": 78.5,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Tra prima e seconda tirata c'è una fase che molti allenatori trascurano: la transizione."
+    },
+    {
+     "who": "L",
+     "start": 6.54,
+     "text": "E a cosa serve?"
+    },
+    {
+     "who": "M",
+     "start": 8.46,
+     "text": "Fatta bene, dà la massima potenza dagli ischiocrurali e un passaggio fluido alla fase dopo. La prima tirata finisce con la sbarra appena sopra le ginocchia."
+    },
+    {
+     "who": "L",
+     "start": 18.37,
+     "text": "E lì cosa succede?"
+    },
+    {
+     "who": "M",
+     "start": 20.52,
+     "text": "Il concetto chiave è la doppia flessione del ginocchio: due momenti distinti. Nel primo, durante la prima tirata, le ginocchia si tolgono dalla strada del bilanciere."
+    },
+    {
+     "who": "L",
+     "start": 31.79,
+     "text": "Con le spalle davanti?"
+    },
+    {
+     "who": "M",
+     "start": 33.63,
+     "text": "Sì, braccia tese e peso che torna verso il centro del piede. Nel secondo, quando il bilanciere sfiora i fianchi, le ginocchia si piegano di NUOVO."
+    },
+    {
+     "who": "L",
+     "start": 43.62,
+     "text": "Si ripiegano? E perché?"
+    },
+    {
+     "who": "M",
+     "start": 46.16,
+     "text": "Mette il bilanciere nella posizione perfetta per la seconda tirata. E sfrutta il ciclo allungamento-accorciamento: i muscoli si caricano come una molla e rilasciano energia."
+    },
+    {
+     "who": "L",
+     "start": 57.82,
+     "text": "Come il contromovimento prima di saltare per un colpo di testa."
+    },
+    {
+     "who": "M",
+     "start": 61.88,
+     "text": "Esatto: ti carichi un attimo ed esplodi. Il risultato è più potenza."
+    },
+    {
+     "who": "L",
+     "start": 67.48,
+     "text": "Quindi la transizione porta il bilanciere nella posizione di potenza."
+    },
+    {
+     "who": "M",
+     "start": 72.2,
+     "text": "E da lì parte il pezzo più esplosivo: la seconda tirata. È qui che si prepara la potenza finale."
+    }
+   ]
+  },
+  "12": {
+   "src": "/audio/7.2/13.mp3",
+   "duration": 73.8,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Nella transizione gli errori tipici sono due. Il primo si chiama strategia one-pull, a tirata unica."
+    },
+    {
+     "who": "L",
+     "start": 8.16,
+     "text": "Cioè?"
+    },
+    {
+     "who": "M",
+     "start": 9.42,
+     "text": "L'atleta fa la transizione di fretta: non la distingue dalla prima tirata, tira tutto in un colpo solo."
+    },
+    {
+     "who": "L",
+     "start": 16.31,
+     "text": "E il risultato?"
+    },
+    {
+     "who": "M",
+     "start": 18.07,
+     "text": "Il bilanciere non arriva nella posizione giusta per la seconda tirata. E non sfrutta bene il ciclo allungamento-accorciamento, quindi perde potenza."
+    },
+    {
+     "who": "L",
+     "start": 27.98,
+     "text": "Come si corregge?"
+    },
+    {
+     "who": "M",
+     "start": 29.82,
+     "text": "Indicazioni del preparatore e insistenza sul controllo per tutta l'alzata. Deve sentire che ci sono fasi diverse, anche se dura un attimo."
+    },
+    {
+     "who": "L",
+     "start": 39.07,
+     "text": "E il secondo errore?"
+    },
+    {
+     "who": "M",
+     "start": 40.91,
+     "text": "Le spalle troppo dietro al bilanciere. Così l'atleta non inizia bene la seconda tirata: potenza che cala, alzata che peggiora."
+    },
+    {
+     "who": "L",
+     "start": 49.78,
+     "text": "E gli dico di...?"
+    },
+    {
+     "who": "M",
+     "start": 51.93,
+     "text": "Di restare un po' inclinato in avanti sopra il bilanciere. Trova una posizione più favorevole per la seconda tirata."
+    },
+    {
+     "who": "L",
+     "start": 59.6,
+     "text": "Come tirare senza stoppare la palla quando serve: salti un tempo e perdi forza."
+    },
+    {
+     "who": "M",
+     "start": 65.51,
+     "text": "Esatto. Un calciatore che impara vuole solo spingere su. Il tuo lavoro è fargli sentire il ritmo giusto, fase dopo fase."
+    }
+   ]
+  },
+  "13": {
+   "src": "/audio/7.2/14.mp3",
+   "duration": 79,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Eccoci alla fase che tutti guardano di più: la seconda tirata. Obiettivo? Produrre la MASSIMA potenza."
+    },
+    {
+     "who": "L",
+     "start": 7.74,
+     "text": "È qui che il bilanciere prende velocità."
+    },
+    {
+     "who": "M",
+     "start": 10.68,
+     "text": "Esatto. Parte subito dopo la transizione: spalle ancora davanti, braccia tese, peso soprattutto sul centro del piede."
+    },
+    {
+     "who": "L",
+     "start": 20.2,
+     "text": "E poi si esplode!"
+    },
+    {
+     "who": "M",
+     "start": 22.35,
+     "text": "Il peso va verso la parte anteriore del piede e arriva la tripla estensione. Secondo te, quali articolazioni?"
+    },
+    {
+     "who": "L",
+     "start": 30.79,
+     "text": "Caviglie, ginocchia e anche?"
+    },
+    {
+     "who": "M",
+     "start": 34.22,
+     "text": "Bravo, tutte insieme nello stesso istante. Con la flessione plantare: l'atleta sale sulle punte."
+    },
+    {
+     "who": "L",
+     "start": 42.12,
+     "text": "E le spalle?"
+    },
+    {
+     "who": "M",
+     "start": 43.54,
+     "text": "Si allineano alla sbarra mentre sale. Al culmine c'è una scrollata di spalle aggressiva verso l'alto: è la massima produzione di potenza."
+    },
+    {
+     "who": "L",
+     "start": 53.14,
+     "text": "E il bilanciere va al massimo?"
+    },
+    {
+     "who": "M",
+     "start": 55.68,
+     "text": "Sì, alla velocità più alta di tutta l'alzata. La seconda tirata decide velocità ed efficienza dell'intero strappo."
+    },
+    {
+     "who": "L",
+     "start": 63.92,
+     "text": "Quindi: peso sull'avampiede, caviglie ginocchia e anche insieme, spalle allineate."
+    },
+    {
+     "who": "M",
+     "start": 70.62,
+     "text": "E per te è un gesto familiare: la stessa spinta dello scatto e dello stacco per vincere un colpo di testa. Per questo lo strappo ti rende più esplosivo."
+    }
+   ]
+  },
+  "14": {
+   "src": "/audio/7.2/15.mp3",
+   "duration": 69.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Errori della seconda tirata: tre. Manca la tripla estensione, il bilanciere si allontana dal corpo, manca aggressività."
+    },
+    {
+     "who": "L",
+     "start": 9.1,
+     "text": "Partiamo dal primo?"
+    },
+    {
+     "who": "M",
+     "start": 10.76,
+     "text": "Sì, è il più frequente in palestra. L'atleta non distende fino in fondo anche, caviglie e ginocchia."
+    },
+    {
+     "who": "L",
+     "start": 17.72,
+     "text": "E le punte?"
+    },
+    {
+     "who": "M",
+     "start": 19.22,
+     "text": "Spesso manca anche la flessione plantare: non sale sulle punte. Il gesto resta a metà."
+    },
+    {
+     "who": "L",
+     "start": 25.76,
+     "text": "E cosa succede?"
+    },
+    {
+     "who": "M",
+     "start": 27.41,
+     "text": "Fa fatica a generare abbastanza potenza e velocità. Il bilanciere non sale abbastanza e non va abbastanza veloce."
+    },
+    {
+     "who": "L",
+     "start": 35.57,
+     "text": "E siccome la seconda tirata decide la velocità di tutto..."
+    },
+    {
+     "who": "M",
+     "start": 39.48,
+     "text": "Il danno si sente fino all'incastro, come un saltatore che stacca senza distendere le gambe. Come lo riconosci, secondo te?"
+    },
+    {
+     "who": "L",
+     "start": 48.8,
+     "text": "Lo guardo... di lato?"
+    },
+    {
+     "who": "M",
+     "start": 51.74,
+     "text": "Sì, nel punto più alto: anche aperte, ginocchia distese, talloni sollevati. Se manca una delle tre, la tripla estensione non è completa."
+    },
+    {
+     "who": "L",
+     "start": 61.96,
+     "text": "E si corregge con indicazioni mirate e aggiustamenti tecnici."
+    },
+    {
+     "who": "M",
+     "start": 66.18,
+     "text": "Esatto, è essenziale per una seconda tirata efficace."
+    }
+   ]
+  },
+  "15": {
+   "src": "/audio/7.2/16.mp3",
+   "duration": 75.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Gli altri due errori della seconda tirata. Il primo: il bilanciere che si allontana dal corpo, o viene spinto via con forza."
+    },
+    {
+     "who": "L",
+     "start": 8.94,
+     "text": "Perché succede?"
+    },
+    {
+     "who": "M",
+     "start": 10.78,
+     "text": "Di solito l'atleta si inclina troppo all'indietro. Posizione sbagliata, alzata meno efficiente."
+    },
+    {
+     "who": "L",
+     "start": 17.98,
+     "text": "Quindi il bilanciere deve salire..."
+    },
+    {
+     "who": "M",
+     "start": 20.84,
+     "text": "Vicino al corpo. Se fa un arco in avanti, l'atleta deve rincorrerlo, e spesso lo perde."
+    },
+    {
+     "who": "L",
+     "start": 27.87,
+     "text": "E il secondo?"
+    },
+    {
+     "who": "M",
+     "start": 29.45,
+     "text": "La mancanza di aggressività: si tira con poca decisione, affidandosi troppo alle braccia invece di usare le gambe."
+    },
+    {
+     "who": "L",
+     "start": 37.04,
+     "text": "E va più piano."
+    },
+    {
+     "who": "M",
+     "start": 38.88,
+     "text": "Esatto, velocità del bilanciere più bassa. Gambe e anche sono il MOTORE, le braccia solo i cavi che lo collegano alla sbarra."
+    },
+    {
+     "who": "L",
+     "start": 48.05,
+     "text": "Come calciare di sola gamba senza usare il corpo: il pallone parte, ma debole."
+    },
+    {
+     "who": "M",
+     "start": 53.97,
+     "text": "Perfetto. Si correggono con indicazioni mirate e aggiustamenti tecnici, un errore alla volta."
+    },
+    {
+     "who": "L",
+     "start": 61.71,
+     "text": "Noi calciatori tiriamo spesso di braccia, vero?"
+    },
+    {
+     "who": "M",
+     "start": 65.46,
+     "text": "Sì, siete abituati agli esercizi di tirata per la parte alta. Ricordati: nello strappo le braccia restano tese finché le gambe non hanno finito la spinta."
+    }
+   ]
+  },
+  "16": {
+   "src": "/audio/7.2/17.mp3",
+   "duration": 85.9,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Ultima fase: l'incastro. Torniamo all'overhead squat, dove l'alzata si chiude. Ci sono due momenti: drop under e catch."
+    },
+    {
+     "who": "L",
+     "start": 9.99,
+     "text": "Drop under quando ti infili sotto, catch quando lo ricevi e lo blocchi?"
+    },
+    {
+     "who": "M",
+     "start": 15.67,
+     "text": "Esatto. A fine seconda tirata le braccia sono tese, spalle allineate. Ma perché il bilanciere salga ancora, ora si piegano: è la terza tirata, o pull under."
+    },
+    {
+     "who": "L",
+     "start": 27.98,
+     "text": "Ed è diversa dalle altre?"
+    },
+    {
+     "who": "M",
+     "start": 30.37,
+     "text": "Sì. Nella prima e nella seconda spingi contro il terreno. Nella terza fai forza sul bilanciere stesso: lo usi per tirarti sotto."
+    },
+    {
+     "who": "L",
+     "start": 39.89,
+     "text": "E quando arriva in alto?"
+    },
+    {
+     "who": "M",
+     "start": 41.88,
+     "text": "L'atleta si mette attivamente sotto, testa e petto dritti, bilanciere vicino al corpo. Mentre scende, ruota i gomiti."
+    },
+    {
+     "who": "L",
+     "start": 50.59,
+     "text": "Così passa nella posizione di incastro."
+    },
+    {
+     "who": "M",
+     "start": 53.63,
+     "text": "Gradualmente, spalle allineate e petto alto. Con il bilanciere sopra la testa, il peso va dal mezzo piede al retropiede."
+    },
+    {
+     "who": "L",
+     "start": 62.74,
+     "text": "E i piedi?"
+    },
+    {
+     "who": "M",
+     "start": 64,
+     "text": "Si spostano verso l'esterno e un po' in avanti, per una base stabile. E atterri in uno squat basso: più è profondo, più sei stabile sopra la testa."
+    },
+    {
+     "who": "L",
+     "start": 74.38,
+     "text": "Come uno stop di petto su un lancio lungo: sotto il pallone al momento giusto."
+    },
+    {
+     "who": "M",
+     "start": 80.06,
+     "text": "Esatto. Padroneggiare drop under e catch è essenziale per chiudere lo strappo con precisione."
+    }
+   ]
+  },
+  "17": {
+   "src": "/audio/7.2/18.mp3",
+   "duration": 76.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Errori dell'incastro. Il primo: poca stabilità sopra la testa."
+    },
+    {
+     "who": "L",
+     "start": 5.5,
+     "text": "Non riesce a tenerlo su?"
+    },
+    {
+     "who": "M",
+     "start": 7.65,
+     "text": "Non lo stabilizza in alto, o non lo sostiene bene quando arriva nell'overhead squat. E perde controllo ed equilibrio."
+    },
+    {
+     "who": "L",
+     "start": 15.47,
+     "text": "Secondo?"
+    },
+    {
+     "who": "M",
+     "start": 16.73,
+     "text": "L'under-pulling, cioè tirare troppo poco: incastra troppo presto, o non porta il bilanciere abbastanza in alto prima di infilarsi sotto. Secondo te, da cosa viene?"
+    },
+    {
+     "who": "L",
+     "start": 29.48,
+     "text": "Dalla mancanza di tripla estensione?"
+    },
+    {
+     "who": "M",
+     "start": 32.34,
+     "text": "Bravo. Non usa fino in fondo la potenza delle gambe e va sotto in anticipo. Vedi? Un errore nella seconda tirata si scopre nell'incastro."
+    },
+    {
+     "who": "L",
+     "start": 42.09,
+     "text": "E il terzo?"
+    },
+    {
+     "who": "M",
+     "start": 43.59,
+     "text": "Saltare in avanti o spingere il bilanciere lontano dal corpo. Rovina la traiettoria, rende difficile riceverlo e aumenta il rischio di fallire l'alzata."
+    },
+    {
+     "who": "L",
+     "start": 53.89,
+     "text": "Come anticipare troppo un colpo di testa."
+    },
+    {
+     "who": "M",
+     "start": 56.93,
+     "text": "Esatto. Si correggono con indicazioni mirate, aggiustamenti tecnici e tanta pratica: l'atleta diventa più stabile e completa l'alzata più spesso."
+    },
+    {
+     "who": "L",
+     "start": 67.24,
+     "text": "E come lo vedo se salta in avanti?"
+    },
+    {
+     "who": "M",
+     "start": 70.02,
+     "text": "Guarda dove atterrano i piedi rispetto a dove sono partiti. Se finiscono molto più avanti, sta saltando in avanti."
+    }
+   ]
+  },
+  "18": {
+   "src": "/audio/7.2/19.mp3",
+   "duration": 79.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Abbiamo visto le fasi una per una. Ora le rimettiamo insieme in un unico movimento."
+    },
+    {
+     "who": "L",
+     "start": 6.07,
+     "text": "Dal pavimento all'incastro, senza pause."
+    },
+    {
+     "who": "M",
+     "start": 9.42,
+     "text": "Esatto: un gesto dinamico, esplosivo e fluido. Mi ripeti la catena?"
+    },
+    {
+     "who": "L",
+     "start": 16.35,
+     "text": "Posizione iniziale, prima tirata con pazienza, transizione morbida..."
+    },
+    {
+     "who": "M",
+     "start": 21.76,
+     "text": "Poi seconda tirata, la massima potenza. E infine ti infili sotto e incastri sopra la testa."
+    },
+    {
+     "who": "L",
+     "start": 29.19,
+     "text": "E se un anello si rompe?"
+    },
+    {
+     "who": "M",
+     "start": 31.5,
+     "text": "L'alzata ne risente. Ogni anello conta. Lo strappo chiede tre cose: coordinazione, forza e precisione."
+    },
+    {
+     "who": "L",
+     "start": 40.13,
+     "text": "E la spinta vera da dove nasce?"
+    },
+    {
+     "who": "M",
+     "start": 43.07,
+     "text": "Da gambe e anche: è quella potenza che manda il bilanciere in alto alla massima velocità. Le braccia guidano, ma il motore sta SOTTO."
+    },
+    {
+     "who": "L",
+     "start": 52.25,
+     "text": "Quando le fasi si legano bene, efficienza, controllo e un incastro potente."
+    },
+    {
+     "who": "M",
+     "start": 58.08,
+     "text": "Esatto. Ma serve pratica, pazienza e attenzione ai dettagli: non succede in una seduta."
+    },
+    {
+     "who": "L",
+     "start": 65.28,
+     "text": "Come una combinazione in campo: prima i passaggi singoli, poi l'azione intera a velocità di gara."
+    },
+    {
+     "who": "M",
+     "start": 72.16,
+     "text": "Stessa regola. Con impegno e concentrazione la tecnica si impara, e l'atleta esprime tutto il suo potenziale."
+    }
+   ]
+  },
+  "19": {
+   "src": "/audio/7.2/20.mp3",
+   "duration": 95.9,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Facciamo il punto. In quante fasi abbiamo diviso lo strappo?"
+    },
+    {
+     "who": "L",
+     "start": 5.07,
+     "text": "Sei. Uno, overhead squat: braccia tese e bloccate, anche sotto le ginocchia."
+    },
+    {
+     "who": "M",
+     "start": 11.69,
+     "text": "Due, la partenza: bilanciere sopra il primo occhiello, spalle davanti, schiena dritta. Tre?"
+    },
+    {
+     "who": "L",
+     "start": 20.28,
+     "text": "Prima tirata, con pazienza e angolo della schiena costante. Quattro, transizione, con la doppia flessione del ginocchio."
+    },
+    {
+     "who": "M",
+     "start": 29.07,
+     "text": "Che sfrutta il ciclo allungamento-accorciamento. Cinque, seconda tirata: tripla estensione e massima velocità del bilanciere."
+    },
+    {
+     "who": "L",
+     "start": 38.74,
+     "text": "Sei, incastro: terza tirata, gomiti che ruotano, squat profondo."
+    },
+    {
+     "who": "M",
+     "start": 44.73,
+     "text": "Perfetto. E gli errori? Overhead squat: ginocchio valgo e busto in avanti. In partenza?"
+    },
+    {
+     "who": "L",
+     "start": 53.09,
+     "text": "Spalle dietro il bilanciere, anche alte e schiena tonda."
+    },
+    {
+     "who": "M",
+     "start": 57.57,
+     "text": "Prima tirata: partenza troppo veloce e anche che salgono prima delle ginocchia. Transizione: tirata unica."
+    },
+    {
+     "who": "L",
+     "start": 65.89,
+     "text": "Seconda tirata: niente tripla estensione e tirata di braccia. Incastro: under-pulling e salto in avanti."
+    },
+    {
+     "who": "M",
+     "start": 74.2,
+     "text": "Questi errori ti danno indicazioni preziose. Come il video di fine partita: segni gli errori e sai su cosa lavorare."
+    },
+    {
+     "who": "L",
+     "start": 82.44,
+     "text": "Servono impegno, pratica e attenzione ai dettagli."
+    },
+    {
+     "who": "M",
+     "start": 86.58,
+     "text": "E se capisci ogni fase e correggi gli errori, i tuoi atleti diventano più bravi nello strappo. E più esplosivi anche in campo. Alla prossima, Luca!"
+    }
+   ]
+  }
+ }
+}

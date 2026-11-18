@@ -1,0 +1,1076 @@
+{
+ "code": "4.1",
+ "parts": {
+  "0": {
+   "src": "/audio/4.1/1.mp3",
+   "duration": 79.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Allora Luca, oggi si apre l'unità sul core. Una parola che senti ovunque, vero?"
+    },
+    {
+     "who": "L",
+     "start": 6.84,
+     "text": "In palestra, negli spogliatoi, sui social... tutti parlano di core."
+    },
+    {
+     "who": "M",
+     "start": 13.31,
+     "text": "E spesso la usiamo male. Oggi mettiamo ordine in tre tappe. Primo, che cos'è davvero il core: quali zone comprende e da cosa è formato."
+    },
+    {
+     "who": "L",
+     "start": 23.69,
+     "text": "E poi?"
+    },
+    {
+     "who": "M",
+     "start": 24.95,
+     "text": "Poi a cosa serve: la sua funzione quando corri, calci un pallone o sollevi un bilanciere. Terzo, come valuti la stabilità del core con alcuni test semplici."
+    },
+    {
+     "who": "L",
+     "start": 36.45,
+     "text": "Test tutti uguali?"
+    },
+    {
+     "who": "M",
+     "start": 38.22,
+     "text": "No. Ci sono valutazioni a BASSO carico e ad alto carico, e servono a cose diverse."
+    },
+    {
+     "who": "L",
+     "start": 44.76,
+     "text": "E l'allenamento vero e proprio?"
+    },
+    {
+     "who": "M",
+     "start": 47.3,
+     "text": "Dopo le valutazioni vediamo come programmarlo: tre leve per rendere un esercizio più facile o più difficile, così ogni atleta ha il lavoro giusto per il suo livello."
+    },
+    {
+     "who": "L",
+     "start": 57.84,
+     "text": "Chiusura?"
+    },
+    {
+     "who": "M",
+     "start": 59.34,
+     "text": "Le quattro grandi famiglie di esercizi per il core, che approfondirai nelle lezioni successive."
+    },
+    {
+     "who": "L",
+     "start": 65.33,
+     "text": "Così capisco perché il mio preparatore insiste tanto su plank, dead bug e posizioni stabili."
+    },
+    {
+     "who": "M",
+     "start": 71.79,
+     "text": "Esatto. È la riunione tecnica prima della partita: non è ancora il campo, ma senza questa parte alleni a caso."
+    }
+   ]
+  },
+  "1": {
+   "src": "/audio/4.1/2.mp3",
+   "duration": 72.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Luca, se ti dico core, cosa ti viene in mente?"
+    },
+    {
+     "who": "L",
+     "start": 4.67,
+     "text": "La tartaruga! Addominali disegnati e pochissimo grasso."
+    },
+    {
+     "who": "M",
+     "start": 10.43,
+     "text": "Ecco, è un'idea molto ristretta. Il core comprende molto di più dei soli muscoli dell'addome."
+    },
+    {
+     "who": "L",
+     "start": 17.05,
+     "text": "Quindi gli addominali non contano?"
+    },
+    {
+     "who": "M",
+     "start": 19.75,
+     "text": "Contano eccome, sono una parte davvero importante. Solo che non sono tutto."
+    },
+    {
+     "who": "L",
+     "start": 26.14,
+     "text": "E allora qual è la definizione giusta?"
+    },
+    {
+     "who": "M",
+     "start": 29.07,
+     "text": "Punto da esame: non esiste una definizione UNICA. I preparatori non sono d'accordo su cosa includere."
+    },
+    {
+     "who": "L",
+     "start": 36.89,
+     "text": "Ma ci sarà una versione più comune..."
+    },
+    {
+     "who": "M",
+     "start": 39.52,
+     "text": "Sì, la classica: la zona più centrale del corpo, cioè colonna lombare e bacino. Ha senso, ma se la guardi come un pezzo isolato perdi la visione d'insieme."
+    },
+    {
+     "who": "L",
+     "start": 51.18,
+     "text": "Tipo quando calcio di collo pieno? La forza non resta sotto l'ombelico."
+    },
+    {
+     "who": "M",
+     "start": 56.2,
+     "text": "Bravo. Coinvolge anche, busto, spalle. Allenare solo gli addominali è come allenare solo il portiere e pensare di aver sistemato la difesa."
+    },
+    {
+     "who": "L",
+     "start": 66.51,
+     "text": "Quindi: core non vuol dire addominali, e fermarsi a colonna lombare e bacino è riduttivo."
+    }
+   ]
+  },
+  "2": {
+   "src": "/audio/4.1/3.mp3",
+   "duration": 77,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Allarghiamo lo sguardo. Molti muscoli e tessuti connettivi di questa zona salgono verso l'alto e scendono verso il basso."
+    },
+    {
+     "who": "L",
+     "start": 8.47,
+     "text": "Quindi se guardo un solo punto della catena..."
+    },
+    {
+     "who": "M",
+     "start": 11.83,
+     "text": "...guardi il core nel modo sbagliato. La definizione si può estendere a tutto il busto e alle anche, su tutti i lati: davanti, dietro e ai fianchi."
+    },
+    {
+     "who": "L",
+     "start": 22.37,
+     "text": "Fin dove arriviamo?"
+    },
+    {
+     "who": "M",
+     "start": 24.28,
+     "text": "Si potrebbero includere tutti i muscoli che si attaccano alla colonna vertebrale o al bacino. E c'è un'immagine che aiuta: il cilindro."
+    },
+    {
+     "who": "L",
+     "start": 33.07,
+     "text": "Un cilindro?"
+    },
+    {
+     "who": "M",
+     "start": 34.57,
+     "text": "Il cilindro è il tronco, e da lì partono tutti gli arti: braccia e gambe. Come il fusto di un albero, da cui partono rami e radici."
+    },
+    {
+     "who": "L",
+     "start": 44.4,
+     "text": "Bella immagine. Ma è completa?"
+    },
+    {
+     "who": "M",
+     "start": 47.18,
+     "text": "Il disegno classico resta chiuso alla vecchia definizione, colonna lombare e bacino. Secondo Joyce e Lewindon, nel duemilaquattordici, conviene allungarlo in alto, fino alle scapole e alla colonna toracica."
+    },
+    {
+     "who": "L",
+     "start": 61.25,
+     "text": "Quindi conta anche il controllo della parte alta della schiena."
+    },
+    {
+     "who": "M",
+     "start": 65.31,
+     "text": "Esatto. E ricorda autori e anno: all'esame te li chiedono."
+    },
+    {
+     "who": "L",
+     "start": 70.33,
+     "text": "Core uguale cilindro del tronco, esteso a busto e anche su tutti i lati, fino a scapole e colonna toracica."
+    }
+   ]
+  },
+  "3": {
+   "src": "/audio/4.1/4.mp3",
+   "duration": 96.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Di cosa è fatto il core? Di elementi passivi e attivi. Secondo te, quali sono i passivi?"
+    },
+    {
+     "who": "L",
+     "start": 7.89,
+     "text": "Le ossa? Le vertebre?"
+    },
+    {
+     "who": "M",
+     "start": 10.67,
+     "text": "Vertebre e articolazioni della zona. Da sole non bastano: senza i muscoli intorno, circa DIECI chili basterebbero a far flettere la colonna."
+    },
+    {
+     "who": "L",
+     "start": 20.34,
+     "text": "Solo dieci chili? Allora a cosa servono?"
+    },
+    {
+     "who": "M",
+     "start": 24.32,
+     "text": "Mandano molte informazioni al sistema nervoso centrale, che influenzano il tono e l'attivazione dei muscoli. Gli attivi sono i muscoli e i tessuti non contrattili, come tendini e fascia."
+    },
+    {
+     "who": "L",
+     "start": 37.03,
+     "text": "E i muscoli come sono messi?"
+    },
+    {
+     "who": "M",
+     "start": 39.57,
+     "text": "A strati, tre, per avere più livelli di sostegno. Primo, gli stabilizzatori locali, vicini alla colonna, come il trasverso: tante informazioni sulla postura, poca forza."
+    },
+    {
+     "who": "L",
+     "start": 52.67,
+     "text": "Secondo?"
+    },
+    {
+     "who": "M",
+     "start": 53.94,
+     "text": "Gli stabilizzatori globali, più grandi, come l'obliquo esterno: frenano i movimenti del busto che non vuoi. Terzo, i motori globali, come il grande gluteo, che creano il movimento delle articolazioni."
+    },
+    {
+     "who": "L",
+     "start": 68.08,
+     "text": "Come una squadra: regista, difensori e attaccanti."
+    },
+    {
+     "who": "M",
+     "start": 72.56,
+     "text": "Proprio così, e lavorano insieme. Fonte, ancora Joyce e Lewindon, duemilaquattordici. Nel core ci sono anche retto dell'addome, obliqui interni, psoas, iliaco, erettori spinali, quadrato dei lombi, medio e piccolo gluteo."
+    },
+    {
+     "who": "L",
+     "start": 91.5,
+     "text": "Locali informano, globali stabilizzano, motori muovono."
+    }
+   ]
+  },
+  "4": {
+   "src": "/audio/4.1/5.mp3",
+   "duration": 78.5,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "A cosa serve il core? Due funzioni principali: stabilità della colonna e trasmissione della forza."
+    },
+    {
+     "who": "L",
+     "start": 7.12,
+     "text": "Stabilità vuol dire stare fermi?"
+    },
+    {
+     "who": "M",
+     "start": 10.16,
+     "text": "Due cose insieme: resistere ai movimenti che non vuoi e controllare quelli che servono, su tutti i piani. E stabilizzare la colonna con carichi diversi, per intensità e velocità."
+    },
+    {
+     "who": "L",
+     "start": 22.39,
+     "text": "Quindi contraggo sempre al massimo, così sono sicuro?"
+    },
+    {
+     "who": "M",
+     "start": 26.53,
+     "text": "No! Conta il dosaggio. Massima tensione per uno sforzo minimo vuol dire sprecare energia."
+    },
+    {
+     "who": "L",
+     "start": 34.51,
+     "text": "E la trasmissione della forza?"
+    },
+    {
+     "who": "M",
+     "start": 36.74,
+     "text": "Passare la forza tra parte alta e parte bassa del corpo. Un core stabile la trasferisce in modo efficiente; uno instabile chiede più sforzo, o parte della forza si disperde."
+    },
+    {
+     "who": "L",
+     "start": 49.05,
+     "text": "Tipo nello sprint?"
+    },
+    {
+     "who": "M",
+     "start": 51.05,
+     "text": "Esatto. Il tronco resta fermo e solido, gambe e braccia lavorano come pistoni. Se il tronco balla, la tecnica peggiora e vai più piano. È il telaio della macchina."
+    },
+    {
+     "who": "L",
+     "start": 63.68,
+     "text": "E gli infortuni?"
+    },
+    {
+     "who": "M",
+     "start": 65.59,
+     "text": "Più la colonna si muove per CREARE forza invece di trasferirla, più cresce il rischio di lesioni."
+    },
+    {
+     "who": "L",
+     "start": 72.06,
+     "text": "Core instabile: forza persa e più rischio. Core stabile: più efficace e più protetto."
+    }
+   ]
+  },
+  "5": {
+   "src": "/audio/4.1/6.mp3",
+   "duration": 75,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Come valuti il core di un atleta? Servono test a basso carico e test ad alto carico, insieme."
+    },
+    {
+     "who": "L",
+     "start": 6.88,
+     "text": "Cosa misurano?"
+    },
+    {
+     "who": "M",
+     "start": 8.46,
+     "text": "Tre qualità: stabilità, resistenza e forza del core. E regola importante: NESSUN test da solo misura la stabilità del core in tutte le sue forme."
+    },
+    {
+     "who": "L",
+     "start": 20.12,
+     "text": "E come scelgo i test?"
+    },
+    {
+     "who": "M",
+     "start": 22.27,
+     "text": "Guarda gli schemi motori che l'atleta usa in allenamento. Un calciatore non si muove come un nuotatore. E valuta più piani di movimento."
+    },
+    {
+     "who": "L",
+     "start": 31.45,
+     "text": "In pratica, cosa osservo?"
+    },
+    {
+     "who": "M",
+     "start": 33.92,
+     "text": "Secondo te?"
+    },
+    {
+     "who": "L",
+     "start": 36.27,
+     "text": "La schiena... se resta dritta?"
+    },
+    {
+     "who": "M",
+     "start": 39.46,
+     "text": "Quasi: se la colonna resta neutra, durante un movimento o una tenuta isometrica. È il segnale di buona stabilità."
+    },
+    {
+     "who": "L",
+     "start": 47.86,
+     "text": "Quindi tenute ferme o movimenti?"
+    },
+    {
+     "who": "M",
+     "start": 50.9,
+     "text": "Entrambi. Le isometrie ti dicono molto sulla resistenza; i movimenti mostrano se il core resta stabile mentre il corpo si muove, come in palestra e in partita."
+    },
+    {
+     "who": "L",
+     "start": 62.33,
+     "text": "Come giudicare un difensore da un solo contrasto: non basta."
+    },
+    {
+     "who": "M",
+     "start": 66.96,
+     "text": "Esatto. Basso e alto carico, più piani, tenute e movimenti. E sempre la domanda: la colonna resta neutra?"
+    }
+   ]
+  },
+  "6": {
+   "src": "/audio/4.1/7.mp3",
+   "duration": 75.5,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Partiamo dal basso carico. È la base su cui costruisci forza e resistenza del core."
+    },
+    {
+     "who": "L",
+     "start": 6.23,
+     "text": "Cosa misura di preciso?"
+    },
+    {
+     "who": "M",
+     "start": 8.38,
+     "text": "La resistenza muscolare e la consapevolezza: l'atleta tiene la colonna neutra con un carico leggero? Usi movimenti funzionali a corpo libero."
+    },
+    {
+     "who": "L",
+     "start": 18.06,
+     "text": "Quante ripetizioni?"
+    },
+    {
+     "who": "M",
+     "start": 19.97,
+     "text": "Il numero da ricordare è TRENTA. Abbastanza tempo da diventare una vera prova di resistenza. Anche alcuni test del primo modulo ti dicono già qualcosa sul controllo del core."
+    },
+    {
+     "who": "L",
+     "start": 31.63,
+     "text": "E il punteggio come funziona?"
+    },
+    {
+     "who": "M",
+     "start": 34.49,
+     "text": "Non c'è un vero sistema di punteggio. Sono test osservativi: il punteggio lo dà il tuo occhio, su ripetizioni che devono restare pulite."
+    },
+    {
+     "who": "L",
+     "start": 44.01,
+     "text": "Come guardare uno nei torelli: niente tabellone, ma vedi quando perde il controllo."
+    },
+    {
+     "who": "M",
+     "start": 49.85,
+     "text": "Esatto. E puoi segnare da quale ripetizione la tecnica peggiora e che errori compaiono."
+    },
+    {
+     "who": "L",
+     "start": 56.31,
+     "text": "Se un compagno crolla alla dodicesima?"
+    },
+    {
+     "who": "M",
+     "start": 59.01,
+     "text": "Resistenza bassa. Se arriva a trenta pulite, la base è buona e puoi pensare a carichi più alti. Nelle prossime due parti, due test specifici."
+    },
+    {
+     "who": "L",
+     "start": 69.23,
+     "text": "Basso carico: resistenza e controllo, corpo libero, trenta ripetizioni, valutazione a occhio."
+    }
+   ]
+  },
+  "7": {
+   "src": "/audio/4.1/8.mp3",
+   "duration": 76,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Primo test a basso carico: il Waiters Bow, l'inchino del cameriere."
+    },
+    {
+     "who": "L",
+     "start": 5.42,
+     "text": "Il cameriere? E cosa sarebbe?"
+    },
+    {
+     "who": "M",
+     "start": 9.01,
+     "text": "Un hip hinge: pieghi il corpo dalle anche. Schema motorio importantissimo nello sport e in palestra, per questo è utile a basso carico."
+    },
+    {
+     "who": "L",
+     "start": 19.15,
+     "text": "Come si esegue?"
+    },
+    {
+     "who": "M",
+     "start": 20.81,
+     "text": "In piedi, colonna neutra, ginocchia non bloccate ma leggermente piegate, morbide. Ti inclini in avanti dalle anche, senza perdere il controllo della colonna."
+    },
+    {
+     "who": "L",
+     "start": 32.55,
+     "text": "Cioè la schiena non si muove?"
+    },
+    {
+     "who": "M",
+     "start": 35.01,
+     "text": "Resta neutra per tutto il movimento: né arrotondata né inarcata. Poi torni su e ripeti, più volte, per vedere come regge il core sotto un carico basso ma ripetuto."
+    },
+    {
+     "who": "L",
+     "start": 47.01,
+     "text": "Ci metto le trenta ripetizioni di prima?"
+    },
+    {
+     "who": "M",
+     "start": 49.72,
+     "text": "Sì. E ti chiedi: la schiena resta neutra fino all'ultima? Dove si rompe la tecnica?"
+    },
+    {
+     "who": "L",
+     "start": 57.19,
+     "text": "È il gesto per raccogliere il pallone, o nella posizione di partenza."
+    },
+    {
+     "who": "M",
+     "start": 61.66,
+     "text": "E in palestra è la base dello stacco da terra. Se non controlli la colonna SENZA peso, difficilmente la controllerai con il bilanciere."
+    },
+    {
+     "who": "L",
+     "start": 70.92,
+     "text": "Waiters Bow: hip hinge con colonna neutra, ginocchia morbide, ripetuto."
+    }
+   ]
+  },
+  "8": {
+   "src": "/audio/4.1/9.mp3",
+   "duration": 78.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Secondo test a basso carico: la Supine Hip Flexion, flessione dell'anca da supino."
+    },
+    {
+     "who": "L",
+     "start": 6.96,
+     "text": "Sdraiato a pancia in su, quindi."
+    },
+    {
+     "who": "M",
+     "start": 9.66,
+     "text": "Sì, ginocchia piegate e piedi a terra. Porti un'anca a novanta gradi, gamba sollevata con il ginocchio piegato, poi la distendi finché è parallela al pavimento. Torni giù e ripeti."
+    },
+    {
+     "who": "L",
+     "start": 22.52,
+     "text": "Sembra facilissimo."
+    },
+    {
+     "who": "M",
+     "start": 25.46,
+     "text": "Sembra. Ci sono due errori da guardare. Secondo te, il primo?"
+    },
+    {
+     "who": "L",
+     "start": 31.57,
+     "text": "Mmh... la schiena che si stacca?"
+    },
+    {
+     "who": "M",
+     "start": 35,
+     "text": "Quello è il secondo. Il primo: l'atleta trattiene il fiato e si irrigidisce troppo. Per un gesto così leggero è troppa tensione, cioè spreco di energia."
+    },
+    {
+     "who": "L",
+     "start": 46.35,
+     "text": "E il secondo, appunto?"
+    },
+    {
+     "who": "M",
+     "start": 48.66,
+     "text": "La zona lombare si inarca troppo mentre la gamba si distende: il peso si allontana dal tronco e la schiena tende a staccarsi. Vuol dire che il core non controlla."
+    },
+    {
+     "who": "L",
+     "start": 59.69,
+     "text": "Quindi guardo respiro e curva lombare."
+    },
+    {
+     "who": "M",
+     "start": 63.6,
+     "text": "Esatto. Per un calciatore è utile: la flessione dell'anca è alla base di corsa e calcio. Come tenere fermo il bacino mentre carichi il tiro."
+    },
+    {
+     "who": "L",
+     "start": 73.58,
+     "text": "E come col Waiters Bow, conto le ripetizioni e segno quando arrivano gli errori."
+    }
+   ]
+  },
+  "9": {
+   "src": "/audio/4.1/10.mp3",
+   "duration": 77.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Ora l'alto carico. Applichi una forza resistente alta per mettere in crisi stabilità della colonna e controllo del core."
+    },
+    {
+     "who": "L",
+     "start": 8.32,
+     "text": "Perché così pesante?"
+    },
+    {
+     "who": "M",
+     "start": 10.47,
+     "text": "Per vedere quanto è efficiente il core con i carichi pesanti dei gesti sportivi. E può essere molto specifico per uno sport o un movimento."
+    },
+    {
+     "who": "L",
+     "start": 19.49,
+     "text": "Quindi scelgo io l'esercizio?"
+    },
+    {
+     "who": "M",
+     "start": 22.19,
+     "text": "Quasi qualsiasi schema motorio utile per l'atleta: lo carichi e osservi la colonna. Squat, stacco da terra, affondo."
+    },
+    {
+     "who": "L",
+     "start": 31.45,
+     "text": "E per noi calciatori?"
+    },
+    {
+     "who": "M",
+     "start": 33.45,
+     "text": "L'analisi della corsa nello sprint: vedi se il core perde stabilità ad alta velocità. E poi il test più comune ad alto carico: il plank."
+    },
+    {
+     "who": "L",
+     "start": 43.2,
+     "text": "Quello lo conosco. Si guarda il cronometro, no?"
+    },
+    {
+     "who": "M",
+     "start": 46.56,
+     "text": "Non solo. In posizione di push-up, corpo in linea retta e colonna neutra il più a lungo possibile. Tu osservi QUANDO arrivano gli errori e di che tipo: il bacino scende o sale troppo."
+    },
+    {
+     "who": "L",
+     "start": 59.42,
+     "text": "E la differenza col basso carico?"
+    },
+    {
+     "who": "M",
+     "start": 61.88,
+     "text": "A basso carico misuri resistenza e controllo con tante ripetizioni leggere. Ad alto carico stressi il sistema per vedere se tiene, come un difensore contro un attaccante grosso e veloce."
+    },
+    {
+     "who": "L",
+     "start": 74.28,
+     "text": "E per scegliere penso sempre a cosa deve fare l'atleta in campo."
+    }
+   ]
+  },
+  "10": {
+   "src": "/audio/4.1/11.mp3",
+   "duration": 80,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Sai valutare, ora programmi. L'allenamento del core va costruito sulle esigenze e sulle capacità di chi alleni."
+    },
+    {
+     "who": "L",
+     "start": 8.16,
+     "text": "Quindi cambio volume e carico?"
+    },
+    {
+     "who": "M",
+     "start": 11.02,
+     "text": "Anche. Ma c'è un'altra strada: modificare la tecnica dell'esercizio, per renderlo più facile o più difficile, con progressioni e regressioni."
+    },
+    {
+     "who": "L",
+     "start": 21.16,
+     "text": "E come so il livello?"
+    },
+    {
+     "who": "M",
+     "start": 23.32,
+     "text": "Te lo dicono le valutazioni della stabilità. Un problema frequente: gli atleti partono con esercizi troppo avanzati o troppo facili."
+    },
+    {
+     "who": "L",
+     "start": 32.65,
+     "text": "Tipo?"
+    },
+    {
+     "who": "M",
+     "start": 33.92,
+     "text": "Il plank. È in quasi tutti i programmi, ma è un esercizio di base abbastanza impegnativo. Per un principiante può essere troppo: la tecnica crolla in fretta e l'effetto non arriva."
+    },
+    {
+     "who": "L",
+     "start": 46.23,
+     "text": "Il plank, difficile? Non l'avrei detto."
+    },
+    {
+     "who": "M",
+     "start": 49.98,
+     "text": "E invece. Il modello di Gibson e colleghi, duemiladiciassette, dà tre modi: per rendere più difficile riduci la base di appoggio, allunghi la leva, aumenti la complessità con più articolazioni e più piani."
+    },
+    {
+     "who": "L",
+     "start": 65.09,
+     "text": "E per facilitare faccio l'opposto."
+    },
+    {
+     "who": "M",
+     "start": 68.02,
+     "text": "Base più larga, leva più corta, meno articolazioni e meno piani. Come allargare o stringere il campo in un possesso."
+    },
+    {
+     "who": "L",
+     "start": 76.81,
+     "text": "Tre parametri: base, leva, complessità."
+    }
+   ]
+  },
+  "11": {
+   "src": "/audio/4.1/12.mp3",
+   "duration": 75.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Primo strumento: la base di appoggio. L'avevi vista nel modulo sulla forza, ora la applichiamo al core."
+    },
+    {
+     "who": "L",
+     "start": 7.43,
+     "text": "Cos'è di preciso?"
+    },
+    {
+     "who": "M",
+     "start": 9.19,
+     "text": "L'area che ottieni collegando tutti i punti in cui il corpo tocca il suolo. In piedi, due punti: i piedi. In posizione di push-up?"
+    },
+    {
+     "who": "L",
+     "start": 20.34,
+     "text": "Quattro: due mani e due piedi."
+    },
+    {
+     "who": "M",
+     "start": 23.77,
+     "text": "Giusto. Regola: più la base è GRANDE, più sei stabile. Più è piccola, più il core lavora per tenerti in equilibrio."
+    },
+    {
+     "who": "L",
+     "start": 32.56,
+     "text": "Quindi nel plank, se avvicino mani e piedi..."
+    },
+    {
+     "who": "M",
+     "start": 36.39,
+     "text": "La base si riduce, l'esercizio diventa più difficile: progressione. Se li allarghi, la base cresce ed è più facile: regressione."
+    },
+    {
+     "who": "L",
+     "start": 46.69,
+     "text": "E le superfici instabili?"
+    },
+    {
+     "who": "M",
+     "start": 49.08,
+     "text": "Cambiano anche loro la base. Se alcuni punti poggiano su qualcosa che si muove, il core lavora di più per stabilizzare e tenere la postura."
+    },
+    {
+     "who": "L",
+     "start": 58.83,
+     "text": "Tipo il plank con le mani sulla bosu."
+    },
+    {
+     "who": "M",
+     "start": 61.69,
+     "text": "Esatto: due punti su quattro sono instabili, quindi è una progressione del plank normale."
+    },
+    {
+     "who": "L",
+     "start": 68.39,
+     "text": "Come il portiere a piedi larghi: base larga, stabilità; base stretta o instabile, più lavoro per il core."
+    }
+   ]
+  },
+  "12": {
+   "src": "/audio/4.1/13.mp3",
+   "duration": 71.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Secondo strumento: la complessità del movimento. La aumenti per progredire, la riduci per regredire."
+    },
+    {
+     "who": "L",
+     "start": 8.16,
+     "text": "Complessità in che senso?"
+    },
+    {
+     "who": "M",
+     "start": 10.7,
+     "text": "Il numero di articolazioni coinvolte e i piani di movimento usati. E metti alla prova non solo il fisico, ma anche la TESTA."
+    },
+    {
+     "who": "L",
+     "start": 18.94,
+     "text": "La testa?"
+    },
+    {
+     "who": "M",
+     "start": 20.52,
+     "text": "L'atleta deve controllare uno schema che forse non conosce o che è poco abituale. Prendi il dead bug, nella versione normale."
+    },
+    {
+     "who": "L",
+     "start": 29.39,
+     "text": "Come lo rendo più semplice?"
+    },
+    {
+     "who": "M",
+     "start": 31.54,
+     "text": "Secondo te?"
+    },
+    {
+     "who": "L",
+     "start": 33.73,
+     "text": "Muovo meno roba... tipo solo le gambe?"
+    },
+    {
+     "who": "M",
+     "start": 37.87,
+     "text": "Esatto: braccia ferme, solo gambe. Meno articolazioni, regressione. Per la progressione muovi una gamba e tutte e due le braccia, con un braccio su un piano diverso dall'altro."
+    },
+    {
+     "who": "L",
+     "start": 50.58,
+     "text": "Ci sono altri modi?"
+    },
+    {
+     "who": "M",
+     "start": 52.34,
+     "text": "Tanti, puoi essere creativo. L'importante è sapere cosa cambi: articolazioni e piani. Come passare da un passaggio a due a un esercizio con due palloni e una scelta da fare."
+    },
+    {
+     "who": "L",
+     "start": 64.73,
+     "text": "Lo sforzo è simile, ma serve più coordinazione: più cose da coordinare, più il core lavora con controllo."
+    }
+   ]
+  },
+  "13": {
+   "src": "/audio/4.1/14.mp3",
+   "duration": 75.9,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Terzo strumento: la leva. In biomeccanica hai visto che cambiarla dà un vantaggio o uno svantaggio meccanico."
+    },
+    {
+     "who": "L",
+     "start": 8.47,
+     "text": "E qual è la regola?"
+    },
+    {
+     "who": "M",
+     "start": 10.31,
+     "text": "Leva più LUNGA, esercizio più difficile. Leva più corta, più facile."
+    },
+    {
+     "who": "L",
+     "start": 16.23,
+     "text": "Un esempio?"
+    },
+    {
+     "who": "M",
+     "start": 17.73,
+     "text": "Il push-up. Normale, gambe distese: leva lunga. Sulle ginocchia la leva si accorcia ed è più semplice."
+    },
+    {
+     "who": "L",
+     "start": 26.28,
+     "text": "E nel core funziona uguale?"
+    },
+    {
+     "who": "M",
+     "start": 28.67,
+     "text": "Sì. Gambe non del tutto distese, meno impegno. Gambe completamente estese, leva lunga e più difficoltà. Così crei progressioni o regressioni."
+    },
+    {
+     "who": "L",
+     "start": 40.17,
+     "text": "Ma perché funziona?"
+    },
+    {
+     "who": "M",
+     "start": 42.4,
+     "text": "Più il peso è lontano dal centro, più il core lavora. Prova a tenere un pallone medicinale vicino al petto e poi a braccia tese."
+    },
+    {
+     "who": "L",
+     "start": 51.11,
+     "text": "A braccia tese è durissimo, stesso peso."
+    },
+    {
+     "who": "M",
+     "start": 55.59,
+     "text": "Ricapitoliamo Gibson e colleghi. Più difficile: base più piccola, più complessità, leva più lunga. Più facile: base più grande, meno complessità, leva più corta."
+    },
+    {
+     "who": "L",
+     "start": 69.03,
+     "text": "Tre manopole per adattare quasi qualsiasi esercizio, giocando sulla lunghezza della leva per progressioni e regressioni."
+    }
+   ]
+  },
+  "14": {
+   "src": "/audio/4.1/15.mp3",
+   "duration": 79.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Come si allena il core? Si parte dalla funzione: dare stabilità, resistere ai movimenti indesiderati e controllare quelli che servono."
+    },
+    {
+     "who": "L",
+     "start": 9.68,
+     "text": "E da lì nascono le categorie?"
+    },
+    {
+     "who": "M",
+     "start": 12.06,
+     "text": "Quattro. Prima, anti-flessione: il core si oppone al piegarsi in avanti del tronco. Seconda, anti-estensione: impedisce alla schiena di inarcarsi indietro."
+    },
+    {
+     "who": "L",
+     "start": 24.77,
+     "text": "Le altre due?"
+    },
+    {
+     "who": "M",
+     "start": 26.35,
+     "text": "Anti-flessione laterale: resisti alla spinta che ti piega di lato. E anti-rotazione: non lasci ruotare il tronco quando una forza cerca di girarlo."
+    },
+    {
+     "who": "L",
+     "start": 37.15,
+     "text": "Tutte con anti davanti..."
+    },
+    {
+     "who": "M",
+     "start": 39.46,
+     "text": "Apposta. Non alleni il core a muoversi tanto, ma a dire NO ai movimenti indesiderati: resistere e controllare."
+    },
+    {
+     "who": "L",
+     "start": 48.4,
+     "text": "Proviamo in campo. Contrasto spalla a spalla, mi spingono di lato?"
+    },
+    {
+     "who": "M",
+     "start": 53.19,
+     "text": "Anti-flessione laterale. E se ti tirano la maglia mentre corri e il tronco gira?"
+    },
+    {
+     "who": "L",
+     "start": 59.64,
+     "text": "Anti-rotazione. E atterrando da un colpo di testa, con la schiena che si inarca, anti-estensione."
+    },
+    {
+     "who": "M",
+     "start": 66.83,
+     "text": "Perfetto. Le vedrai nel dettaglio nelle prossime quattro lezioni. All'esame sono un classico."
+    },
+    {
+     "who": "L",
+     "start": 73.87,
+     "text": "Anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione."
+    }
+   ]
+  },
+  "15": {
+   "src": "/audio/4.1/16.mp3",
+   "duration": 93.8,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Facciamo il punto. Primo, la definizione: il core non è solo addominali."
+    },
+    {
+     "who": "L",
+     "start": 6.07,
+     "text": "Classica: colonna lombare e bacino. Ma meglio il cilindro, il tronco da cui partono gli arti."
+    },
+    {
+     "who": "M",
+     "start": 13.03,
+     "text": "Esteso a busto e anche e, secondo Joyce e Lewindon, duemilaquattordici, fino a scapole e colonna toracica. Di cosa è fatto?"
+    },
+    {
+     "who": "L",
+     "start": 23.79,
+     "text": "Passivi, vertebre e articolazioni. Attivi, muscoli, tendini e fascia."
+    },
+    {
+     "who": "M",
+     "start": 30.57,
+     "text": "E senza muscoli bastano circa dieci chili a flettere la colonna. Tre strati: stabilizzatori locali, globali e motori globali."
+    },
+    {
+     "who": "L",
+     "start": 40.4,
+     "text": "Funzione: stabilità della colonna e trasmissione della forza tra parte alta e bassa."
+    },
+    {
+     "who": "M",
+     "start": 46.78,
+     "text": "E un core instabile disperde forza e aumenta il rischio di lesioni. Terzo, la valutazione, a basso e ad alto carico."
+    },
+    {
+     "who": "L",
+     "start": 55.96,
+     "text": "Basso: osservativi, corpo libero, trenta ripetizioni, Waiters Bow e Supine Hip Flexion. Alto: squat, stacco, affondo, sprint e plank."
+    },
+    {
+     "who": "M",
+     "start": 68.43,
+     "text": "Con un criterio sempre uguale: la colonna NEUTRA. Quarto, la programmazione."
+    },
+    {
+     "who": "L",
+     "start": 74.82,
+     "text": "Base di appoggio, leva e complessità, Gibson e colleghi, duemiladiciassette."
+    },
+    {
+     "who": "M",
+     "start": 81.2,
+     "text": "E le quattro categorie?"
+    },
+    {
+     "who": "L",
+     "start": 84.13,
+     "text": "Anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione."
+    },
+    {
+     "who": "M",
+     "start": 90.12,
+     "text": "Ottimo lavoro, Luca. Adesso flashcard e domande."
+    }
+   ]
+  }
+ }
+}
