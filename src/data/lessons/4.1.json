@@ -1,0 +1,603 @@
+{
+  "version": 1,
+  "code": "4.1",
+  "unit": 4,
+  "title": "Allenamento del Core",
+  "summary": "Che cos'è il core, da cosa è fatto e a cosa serve: stabilità e trasmissione della forza. Come valutarlo a basso e ad alto carico e come rendere gli esercizi più facili o più difficili, fino alle 4 categorie di allenamento.",
+  "parts": [
+    {
+      "slide": 3,
+      "title": "Di cosa parliamo",
+      "narration": "Benvenuto nell'unità sul core. È una parola che senti ovunque, in palestra, negli spogliatoi, sui social. Spesso però la usiamo male. In questa lezione mettiamo ordine. Il percorso ha tre tappe. Prima capiamo che cosa intendiamo davvero per core: quali zone del corpo comprende e da cosa è formato. Poi vediamo a cosa serve, cioè la sua funzione quando ti muovi, quando corri, quando calci un pallone o sollevi un bilanciere. Infine passiamo alla parte pratica: come valuti la stabilità del core di un atleta con alcuni test semplici. Vedrai che esistono valutazioni a basso carico e valutazioni ad alto carico, e che servono a cose diverse. Dopo le valutazioni parleremo di come programmare l'allenamento del core. Imparerai tre leve per rendere un esercizio più facile o più difficile, così da dare a ogni atleta il lavoro giusto per il suo livello. Chiuderemo con le quattro grandi famiglie di esercizi per il core, che approfondirai nelle lezioni successive. Pensa a questa lezione come alla riunione tecnica prima della partita: non è ancora il campo, ma senza questa parte rischi di allenare a caso. Se sei un preparatore, ti serve per scegliere i test e gli esercizi. Se sei un calciatore, ti aiuta a capire perché il tuo preparatore insiste tanto su plank, dead bug e posizioni stabili. Partiamo subito dalla definizione, perché è lì che nascono quasi tutti gli equivoci. Ascolta con calma, una parte alla volta.",
+      "keyPoints": [
+        "Definizione e funzione del core",
+        "Metodi semplici per valutare la stabilità del core",
+        "Valutazioni a basso e ad alto carico"
+      ],
+      "analogy": "È come la riunione tecnica prima della partita: prima capisci il piano, poi scendi in campo.",
+      "check": {
+        "question": "Quali sono i tre temi principali di questa lezione?",
+        "options": [
+          "Ipertrofia, dieta e recupero",
+          "Definizione del core, sua funzione e valutazione della stabilità",
+          "Solo gli esercizi per gli addominali",
+          "Velocità, agilità e resistenza aerobica"
+        ],
+        "answer": 1,
+        "explanation": "La lezione definisce il core, ne spiega la funzione e mostra metodi semplici per valutarne la stabilità."
+      }
+    },
+    {
+      "slide": 4,
+      "title": "Il core non è solo addominali",
+      "narration": "Quando dici core, molti pensano subito alla tartaruga: addominali disegnati e pochissimo grasso. È un'idea molto ristretta. Il core comprende molto di più dei soli muscoli dell'addome. Attenzione però: gli addominali restano una parte davvero importante, solo che non sono tutto. Un altro punto da sapere per l'esame è che non esiste una definizione unica. I preparatori non sono d'accordo su cosa includere esattamente nel core. Molti indicano la zona più centrale del corpo, cioè la colonna lombare e il bacino. E non sbagliano. Questa è la definizione classica e ha senso. Il problema nasce se guardi questa zona come un pezzo isolato. In quel caso rischi di perdere la visione d'insieme, che è più ampia e più complessa. Pensa a quello che succede in campo. Quando calci di collo pieno, la forza non nasce e non finisce solo sotto l'ombelico. Coinvolge le anche, il busto, le spalle. Se alleni solo la parte bassa della pancia, alleni un pezzo della catena e non la catena intera. Quindi tieniti stretti due concetti. Primo: core non vuol dire addominali, anche se gli addominali ne fanno parte e contano molto. Secondo: colonna lombare e bacino sono il cuore della definizione tradizionale, ma fermarsi lì è riduttivo. Nella prossima parte vedrai come allargare questa definizione con un'immagine molto semplice, quella del cilindro. Ti servirà per ragionare meglio quando scegli gli esercizi.",
+      "keyPoints": [
+        "Il core è molto più dei soli addominali",
+        "Gli addominali restano una parte molto importante",
+        "Definizione classica: colonna lombare e bacino",
+        "Guardare quella zona isolata fa perdere il quadro generale"
+      ],
+      "analogy": "Allenare solo gli addominali per il core è come allenare solo il portiere e pensare di aver sistemato tutta la difesa.",
+      "check": {
+        "question": "Quale zona viene spesso indicata dai preparatori come core in senso tradizionale?",
+        "options": [
+          "Spalle e braccia",
+          "Solo il retto dell'addome",
+          "Colonna lombare e bacino",
+          "Ginocchia e caviglie"
+        ],
+        "answer": 2,
+        "explanation": "La definizione classica indica colonna lombare e bacino: corretta, ma limitata se vista in modo isolato."
+      }
+    },
+    {
+      "slide": 5,
+      "title": "Il core come un cilindro",
+      "narration": "Ora allarghiamo lo sguardo. Molti muscoli e tessuti connettivi di questa zona non si fermano lì. Salgono verso l'alto e scendono verso il basso nel corpo. Se ti concentri su un solo punto di questa catena, guardi il core nel modo sbagliato. Per questo la definizione si può estendere a tutto il busto e alle anche, su tutti i lati del corpo: davanti, dietro e ai fianchi. Si potrebbero includere tutti i muscoli che si attaccano alla colonna vertebrale o al bacino. C'è un'immagine che ti aiuta tantissimo. Pensa al core come a un cilindro. Il cilindro è il tronco, e da lì partono tutti gli arti: braccia e gambe escono da questo centro. Il disegno classico del cilindro, però, resta ancora chiuso alla vecchia definizione, cioè colonna lombare e bacino. Secondo Joyce e Lewindon, nel loro testo del 2014, può essere utile allungare il cilindro verso l'alto, fino alle scapole e alla colonna toracica. Quindi il cilindro diventa più alto: comprende anche la parte alta della schiena. Questo cambia il modo in cui pensi l'allenamento. Se il core arriva fino alle scapole, anche il controllo della parte alta del tronco conta. Ricorda il nome degli autori e l'anno, perché all'esame possono chiederteli. Ricapitolando: core uguale cilindro del tronco, da cui partono gli arti, esteso a busto e anche su tutti i lati, e allungato in alto fino a scapole e colonna toracica.",
+      "keyPoints": [
+        "Core come cilindro: il tronco da cui partono gli arti",
+        "Esteso a busto e anche, su tutti i lati",
+        "Può includere i muscoli attaccati a colonna o bacino",
+        "Joyce e Lewindon (2014): cilindro fino a scapole e colonna toracica"
+      ],
+      "analogy": "Il core è come il fusto di un albero: rami e radici partono tutti da lì, e il fusto va dal terreno fino ai primi rami alti.",
+      "check": {
+        "question": "Secondo Joyce e Lewindon (2014), fin dove può essere utile estendere il cilindro del core?",
+        "options": [
+          "Fino alle scapole e alla colonna toracica",
+          "Solo fino all'ombelico",
+          "Fino alle ginocchia",
+          "Fino alla testa e al collo"
+        ],
+        "answer": 0,
+        "explanation": "Gli autori suggeriscono di allungare il cilindro verso l'alto, fino alle scapole e alla colonna toracica."
+      }
+    },
+    {
+      "slide": 6,
+      "title": "Elementi passivi, attivi e i tre strati",
+      "narration": "Di cosa è fatto il core? Di elementi passivi e di elementi attivi. Gli elementi passivi sono le vertebre e le articolazioni della zona. Da soli non bastano a dare stabilità. Un dato da ricordare: senza i muscoli intorno, circa 10 chili di peso basterebbero a far flettere la colonna. Però gli elementi passivi mandano molte informazioni al sistema nervoso centrale, e queste influenzano il tono e il modo in cui i muscoli si attivano. Gli elementi attivi sono i muscoli e i tessuti non contrattili, come tendini e fascia. I muscoli del core sono disposti a strati, così offrono più livelli di sostegno. Gli strati sono tre. Primo, gli stabilizzatori locali: sono i più vicini alla colonna, come il trasverso dell'addome. Danno tante informazioni sulla postura, ma producono poca forza di stabilizzazione. Secondo, gli stabilizzatori globali: muscoli più grandi, come l'obliquo esterno. Creano la forza che si oppone ai movimenti del busto che non vuoi. Terzo, i motori globali: grandi muscoli che attraversano più segmenti, come il grande gluteo. Sono loro a creare il movimento delle articolazioni. I tre strati lavorano insieme per stabilizzare il core. La fonte è ancora Joyce e Lewindon, 2014. Tra i muscoli del core trovi anche retto dell'addome, obliqui interni, psoas, iliaco, erettori spinali, quadrato dei lombi, medio e piccolo gluteo. Uno schema semplice: locali informano, globali stabilizzano, motori muovono.",
+      "keyPoints": [
+        "Passivi: vertebre e articolazioni; attivi: muscoli, tendini e fascia",
+        "Senza muscoli bastano circa 10 kg per flettere la colonna",
+        "Stabilizzatori locali (trasverso): tante informazioni, poca forza",
+        "Stabilizzatori globali (obliquo esterno) frenano i movimenti indesiderati",
+        "Motori globali (grande gluteo) creano il movimento articolare"
+      ],
+      "analogy": "È come una squadra: i locali sono il regista che legge il gioco, i globali sono i difensori che chiudono, i motori sono gli attaccanti che spingono.",
+      "check": {
+        "question": "Quale muscolo è un esempio di stabilizzatore locale?",
+        "options": [
+          "Grande gluteo",
+          "Obliquo esterno",
+          "Quadricipite",
+          "Trasverso dell'addome"
+        ],
+        "answer": 3,
+        "explanation": "Il trasverso dell'addome è vicino alla colonna: dà molte informazioni sulla postura ma poca forza di stabilizzazione."
+      }
+    },
+    {
+      "slide": 7,
+      "title": "A cosa serve il core",
+      "narration": "Le due funzioni principali del core sono la stabilità della colonna e la trasmissione della forza. Stabilità vuol dire due cose insieme. Saper resistere ai movimenti che non vuoi e controllare quelli che servono, su tutti i piani di movimento. Un core stabile ti aiuta a tenere una buona postura mentre ti muovi. Deve anche stabilizzare la colonna con carichi diversi, sia per intensità che per velocità. Il dosaggio conta. Se per uno sforzo minimo i muscoli del core si contraessero al massimo, sprecheresti energia. La seconda funzione è passare la forza tra parte alta e parte bassa del corpo. In tanti gesti sportivi è fondamentale. Un core stabile trasferisce la forza in modo molto più efficiente. Se invece è instabile, ti serve più sforzo per fare lo stesso movimento, oppure parte della forza si disperde e il gesto rende meno. Prendi lo sprint. Il tronco dovrebbe restare fermo e solido, mentre gambe e braccia lavorano attorno come pistoni e ti spingono avanti. Se la spinta delle gambe fa ballare il tronco, la tecnica peggiora e quasi sicuramente vai più piano. C'è anche il tema degli infortuni. Più la colonna si muove per creare forza, invece di limitarsi a trasferirla, più cresce il rischio di lesioni. Quindi, in breve: un core instabile ti fa perdere forza e aumenta il rischio di farti male. Un core stabile ti rende più efficace e più protetto.",
+      "keyPoints": [
+        "Funzioni primarie: stabilità della colonna e trasmissione della forza",
+        "Resistere ai movimenti indesiderati e controllare quelli necessari",
+        "Tensione dosata: massima tensione per poca forza spreca energia",
+        "Core instabile: forza dispersa e più rischio di lesioni"
+      ],
+      "analogy": "Nello sprint il tronco è il telaio della macchina: se è rigido, la potenza del motore arriva alle ruote; se balla, la potenza si perde.",
+      "check": {
+        "question": "Perché è un errore contrarre al massimo il core per uno sforzo molto leggero?",
+        "options": [
+          "Perché aumenta la flessibilità",
+          "Perché spreca energia",
+          "Perché riduce la massa muscolare",
+          "Perché blocca la respirazione per sempre"
+        ],
+        "answer": 1,
+        "explanation": "La stabilizzazione va dosata in base al carico: tensione massima per forze minime è uno spreco di energia."
+      }
+    },
+    {
+      "slide": 8,
+      "title": "Come valutare la stabilità",
+      "narration": "Quando valuti il core di un atleta, devi usare sia test a basso carico sia test ad alto carico. Insieme ti danno un'idea di tre qualità: stabilità, resistenza e forza del core. Ricorda una regola importante: nessun test da solo può misurare la stabilità del core in tutte le sue forme. Per scegliere i test, guarda gli schemi motori che l'atleta usa nel suo allenamento e parti da lì. Un calciatore non si muove come un nuotatore, quindi i test possono cambiare. È anche consigliato valutare diversi piani di movimento, per capire come funziona il core nel complesso. E cosa osservi, in pratica? La cosa principale è se l'atleta riesce a mantenere la colonna in posizione neutra. Se resta neutra durante un movimento o durante una tenuta isometrica, è un segnale di buona stabilità del core. Entrambi i tipi di prova servono. Le tenute isometriche, cioè le posizioni ferme mantenute nel tempo, ti dicono molto sulla resistenza del core. I movimenti, invece, ti fanno vedere se il core resta stabile mentre il corpo si muove. Questo conta tantissimo, perché nella vita di tutti i giorni, negli esercizi in palestra e in partita ti muovi di continuo. Quindi la tua valutazione ideale ha tre ingredienti. Basso e alto carico. Più piani di movimento. Sia tenute ferme sia movimenti. E come criterio guida, sempre la stessa domanda: la colonna resta neutra oppure no?",
+      "keyPoints": [
+        "Valutare sia a basso sia ad alto carico",
+        "Nessun singolo test misura tutta la stabilità del core",
+        "Scegliere i test dagli schemi motori dell'atleta e su più piani",
+        "Criterio chiave: mantenere la colonna neutra",
+        "Isometrie per la resistenza, movimenti per la stabilità dinamica"
+      ],
+      "analogy": "Valutare il core con un solo test è come giudicare un difensore da un solo contrasto: ti servono più situazioni per capire quanto vale.",
+      "check": {
+        "question": "Qual è la cosa principale da osservare nelle valutazioni della stabilità del core?",
+        "options": [
+          "Quante calorie consuma l'atleta",
+          "La frequenza cardiaca massima",
+          "Il mantenimento della colonna in posizione neutra",
+          "La velocità di esecuzione"
+        ],
+        "answer": 2,
+        "explanation": "Se l'atleta mantiene la colonna neutra durante movimenti o tenute isometriche, la stabilità del core è buona."
+      }
+    },
+    {
+      "slide": 9,
+      "title": "Valutazione a basso carico",
+      "narration": "La stabilità a basso carico è la base su cui costruisci forza e resistenza del core. Questi test misurano la resistenza muscolare e la consapevolezza dell'atleta: riesce a tenere la colonna neutra quando il carico è leggero? Per farli puoi usare movimenti funzionali a corpo libero. Il numero da ricordare è 30 ripetizioni. È un buon obiettivo, perché richiede abbastanza tempo da diventare una vera prova di resistenza per i muscoli del core. Gli esercizi possibili sono tanti. Anzi, alcuni test che hai visto nel primo modulo già ti dicono qualcosa sul controllo del core. Nelle prossime due parti vedrai due esercizi specifici. Una cosa importante: questi test non hanno un vero sistema di punteggio. Sono soprattutto osservativi. Il punteggio lo dà il tuo occhio. Guardi una serie di ripetizioni che devono restare pulite, senza perdere stabilità né controllo. Puoi anche segnare da quale ripetizione la tecnica comincia a peggiorare e che tipo di errori compaiono. Questo ti dà informazioni molto utili. Per esempio, se un tuo calciatore perde la posizione già alla dodicesima ripetizione, sai che la sua resistenza è bassa. Se invece arriva a trenta pulite, la base è buona e puoi pensare a carichi più alti. Quindi ricorda: basso carico vuol dire resistenza e controllo, corpo libero, circa 30 ripetizioni, valutazione a occhio, annotando quando e come arrivano gli errori.",
+      "keyPoints": [
+        "Base per sviluppare forza e resistenza del core",
+        "Valuta resistenza muscolare e controllo della colonna neutra",
+        "Movimenti funzionali a corpo libero, obiettivo 30 ripetizioni",
+        "Test osservativi: annota quando e come peggiora la tecnica"
+      ],
+      "analogy": "È come guardare un giocatore nei torelli: non c'è un tabellone, ma il tuo occhio vede subito quando inizia a perdere il controllo.",
+      "check": {
+        "question": "Quante ripetizioni sono indicate come buon obiettivo nei test a basso carico?",
+        "options": [
+          "5",
+          "10",
+          "50",
+          "30"
+        ],
+        "answer": 3,
+        "explanation": "30 ripetizioni durano abbastanza da mettere alla prova la resistenza muscolare del core."
+      }
+    },
+    {
+      "slide": 10,
+      "title": "Waiters Bow (hip hinge)",
+      "narration": "Il primo test a basso carico si chiama Waiters Bow, cioè l'inchino del cameriere. In pratica è un hip hinge, un movimento che piega il corpo dalle anche. È uno schema motorio molto importante sia nello sport sia in palestra. Proprio per questo è utile per valutare la stabilità del core quando il carico è basso. Vediamo come si esegue. L'atleta sta in piedi con la colonna in posizione neutra. Le ginocchia non sono tese e bloccate: sono leggermente piegate, morbide. Da qui si inclina in avanti piegandosi alle anche. La cosa fondamentale è che non perda il controllo della colonna. La schiena deve restare neutra per tutto il movimento: non deve arrotondarsi né inarcarsi. Poi torna su e ripete. Puoi fargli ripetere il gesto più volte, così valuti come regge il core sotto un carico basso ma ripetuto. Ricordi le 30 ripetizioni della parte precedente? Qui le puoi applicare. Mentre osservi, chiediti: la schiena resta neutra fino all'ultima ripetizione? Dove si rompe la tecnica? Pensa a quante volte un calciatore si piega in avanti: per raccogliere un pallone, nei cambi di direzione, nella posizione di partenza. E in palestra l'hip hinge è la base dello stacco da terra. Se un atleta non controlla la colonna senza peso, difficilmente la controllerà con un bilanciere in mano. Ecco perché questo test semplice ti dice molto.",
+      "keyPoints": [
+        "Waiters Bow = movimento di hip hinge",
+        "In piedi, colonna neutra, ginocchia leggermente flesse e morbide",
+        "Ci si inclina avanti dalle anche senza perdere il controllo della colonna",
+        "Ripetuto più volte per valutare il core sotto carico basso ripetuto"
+      ],
+      "analogy": "È il gesto che fai per raccogliere il pallone senza piegare la schiena: se lo controlli a vuoto, potrai controllarlo anche nello stacco con il bilanciere.",
+      "check": {
+        "question": "Come devono essere le ginocchia nel Waiters Bow?",
+        "options": [
+          "Leggermente flesse e morbide",
+          "Completamente estese e rigide",
+          "Piegate a 90 gradi",
+          "A terra"
+        ],
+        "answer": 0,
+        "explanation": "Le ginocchia restano leggermente piegate, non bloccate, mentre l'atleta si inclina dalle anche con la colonna neutra."
+      }
+    },
+    {
+      "slide": 11,
+      "title": "Supine Hip Flexion",
+      "narration": "Il secondo test a basso carico è la Supine Hip Flexion, cioè la flessione dell'anca da supino. L'atleta si sdraia a terra a pancia in su. Le ginocchia sono piegate e i piedi appoggiati sul pavimento. Da questa posizione porta un'anca a 90 gradi, quindi solleva la gamba con il ginocchio piegato. Poi distende la gamba finché non è parallela al pavimento. Infine torna alla posizione di partenza e ripete. Sembra facile, ma ci sono due errori da osservare con attenzione. Il primo: l'atleta trattiene il fiato e si irrigidisce troppo. In un movimento a basso carico questo non dovrebbe succedere. Se trattiene il respiro e si blocca per un gesto così leggero, vuol dire che sta usando troppa tensione. Ricordi il concetto di spreco di energia? È proprio quello. Il secondo errore: la zona lombare si inarca troppo mentre la gamba si distende. Quando la gamba si allunga, il peso si allontana dal tronco e la schiena tende a staccarsi da terra. Se succede, il core non sta controllando bene. Quindi il tuo occhio guarda due cose: respiro e curva lombare. Per un calciatore questo test è utile perché la flessione dell'anca è alla base della corsa e del calcio. Controllare il bacino mentre la gamba si muove è proprio quello che serve in campo. E come per il Waiters Bow, puoi contare le ripetizioni e segnare quando arrivano gli errori.",
+      "keyPoints": [
+        "Supino, ginocchia piegate, piedi a terra",
+        "Anca a 90 gradi, poi gamba estesa parallela al pavimento",
+        "Errore 1: trattenere il respiro e irrigidirsi troppo",
+        "Errore 2: inarcare troppo la zona lombare"
+      ],
+      "analogy": "È come controllare il bacino mentre carichi il tiro: la gamba si muove, ma il tronco resta al suo posto.",
+      "check": {
+        "question": "Quale errore va osservato nella Supine Hip Flexion durante l'estensione della gamba?",
+        "options": [
+          "Le spalle si alzano da terra",
+          "La testa ruota di lato",
+          "Un eccessivo inarcamento della colonna lombare",
+          "I piedi si incrociano"
+        ],
+        "answer": 2,
+        "explanation": "Mentre la gamba si estende, il preparatore controlla che la zona lombare non si inarchi troppo."
+      }
+    },
+    {
+      "slide": 12,
+      "title": "Valutazione ad alto carico",
+      "narration": "Passiamo all'alto carico. Qui applichi una forza resistente alta per mettere in crisi la stabilità della colonna e il controllo del core. Così vedi quanto è efficiente il core con carichi pesanti, quelli che trovi spesso nei gesti atletici e sportivi. Queste valutazioni possono essere molto specifiche per uno sport o per un movimento. In pratica puoi scegliere quasi qualsiasi schema motorio che ritieni utile per il tuo atleta, caricarlo e osservare come controlla la colonna. Alcuni esempi. Uno squat, uno stacco da terra o un affondo ti mostrano se il core regge un carico elevato. L'analisi della corsa durante lo sprint ti fa vedere se il core perde stabilità ad alta velocità. Per un calciatore questo è prezioso. E poi c'è il test più comune ad alto carico: il plank. L'atleta si mette in posizione di piegamento, cioè di push-up. Tiene il corpo in linea retta e la colonna neutra il più a lungo possibile. Tu non guardi solo il cronometro. Osservi il momento in cui cominciano a comparire errori nello schema e che tipo di errori sono. Per esempio, il bacino scende, oppure sale troppo. Nota bene la differenza con il basso carico. A basso carico misuri resistenza e controllo con tante ripetizioni leggere. Ad alto carico metti sotto stress il sistema per vedere se tiene. Per scegliere, pensa sempre a quello che l'atleta deve fare in campo.",
+      "keyPoints": [
+        "Alta forza resistente per sfidare stabilità e controllo",
+        "Può essere molto specifica per sport o movimento",
+        "Esempi: squat, stacco, affondo, analisi della corsa nello sprint",
+        "Plank: linea retta e colonna neutra il più a lungo possibile"
+      ],
+      "analogy": "È come testare un difensore contro un attaccante grosso e veloce: in allenamento leggero sembra solido, sotto pressione vedi se regge davvero.",
+      "check": {
+        "question": "Quale test è indicato come metodo comune di valutazione ad alto carico?",
+        "options": [
+          "Plank",
+          "Waiters Bow",
+          "Supine Hip Flexion",
+          "Stretching dei flessori"
+        ],
+        "answer": 0,
+        "explanation": "Il plank, tenuto in linea retta con colonna neutra il più a lungo possibile, è un comune test ad alto carico."
+      }
+    },
+    {
+      "slide": 13,
+      "title": "Programmare l'allenamento del core",
+      "narration": "Ora che sai valutare, devi programmare. L'allenamento del core va costruito sulle esigenze e sulle capacità delle persone che alleni. Certo, se cambi volume o carico cambi anche il lavoro. Ma c'è un'altra strada: modificare la tecnica dell'esercizio per renderlo più facile o più difficile. Il tuo compito è capire cosa l'atleta sa fare e scegliere progressioni o regressioni. Le valutazioni della stabilità ti dicono proprio questo: il suo livello. Un problema frequente è che gli atleti iniziano con esercizi troppo avanzati o troppo facili. Prendi il plank. È presente in quasi tutti i programmi per il core. Eppure è un esercizio di base abbastanza impegnativo. Per un principiante può essere troppo, e allora non ottiene l'effetto voluto, perché la tecnica crolla molto in fretta. Ogni esercizio per il core può avere progressioni e regressioni. Il modello di Gibson e colleghi, del 2017, propone tre modi per farlo. Per aumentare la difficoltà: riduci la base di appoggio, allunghi la leva, aumenti la complessità aggiungendo più articolazioni e più piani di movimento. Per diminuirla fai l'opposto: allarghi la base di appoggio, accorci la leva, riduci la complessità con meno articolazioni e meno piani di movimento. Ricorda questi tre parametri: base, leva, complessità. Nelle prossime parti li vediamo uno per uno. Sono gli strumenti che ti permettono di adattare lo stesso esercizio al ragazzo della primavera e al veterano della prima squadra.",
+      "keyPoints": [
+        "Programmare su esigenze e capacità dell'atleta",
+        "Gli atleti spesso partono con esercizi troppo avanzati o troppo facili",
+        "Il plank è impegnativo: per un principiante può essere troppo",
+        "Gibson e colleghi (2017): base di appoggio, leva, complessità"
+      ],
+      "analogy": "È come dosare un esercizio di possesso: allarghi o stringi il campo e aggiungi o togli tocchi a seconda del livello della squadra.",
+      "check": {
+        "question": "Secondo il modello di Gibson e colleghi (2017), quale scelta aumenta la difficoltà di un esercizio per il core?",
+        "options": [
+          "Aumentare la base di appoggio",
+          "Accorciare la leva",
+          "Diminuire la base di appoggio",
+          "Ridurre i piani di movimento"
+        ],
+        "answer": 2,
+        "explanation": "Ridurre la base di appoggio è una progressione; le altre opzioni rendono l'esercizio più facile."
+      }
+    },
+    {
+      "slide": 14,
+      "title": "Base di appoggio",
+      "narration": "Il primo strumento è la base di appoggio. L'avevi già incontrata nel modulo precedente sulla forza, ora la applichiamo al core. La base di appoggio è l'area che ottieni collegando tutti i punti in cui il corpo tocca il suolo. In piedi di solito hai due punti di contatto: i due piedi. In posizione di push-up ne hai quattro: due mani e due piedi. La regola generale è semplice: più grande è la base di appoggio, più sei stabile. Puoi sfruttarla per fare progressioni e regressioni. Più la base è piccola, più i muscoli del core devono lavorare per tenerti in equilibrio. Prendi il plank in posizione di piegamento. Se avvicini mani e piedi, la base diventa più piccola e l'esercizio diventa più difficile. È una progressione. Anche una superficie instabile cambia la base di appoggio. Se alcuni punti di contatto poggiano su qualcosa che si muove, il core deve lavorare di più per stabilizzare il corpo e tenere una buona postura. Esempio classico: il plank con le mani su una palla bosu. Due dei quattro punti di contatto, le mani, sono su una superficie instabile. Per questo è considerato una progressione del plank normale. Al contrario, se allarghi mani e piedi, la base cresce e l'esercizio diventa più facile: è una regressione. Pensa al portiere in posizione di attesa: piedi larghi per essere stabile. Base larga uguale stabilità, base stretta o instabile uguale più lavoro per il core.",
+      "keyPoints": [
+        "Base di appoggio: area che unisce i punti di contatto col suolo",
+        "In piedi 2 punti, in posizione di push-up 4 punti",
+        "Base più grande = più stabilità; più piccola = più lavoro del core",
+        "Superficie instabile (plank su bosu) = progressione"
+      ],
+      "analogy": "Il portiere apre i piedi per essere stabile: con i piedi uniti basta una spinta per sbilanciarlo, e il core deve lavorare molto di più.",
+      "check": {
+        "question": "Quanti punti di contatto con il suolo hai nella posizione di push-up?",
+        "options": [
+          "2",
+          "4",
+          "3",
+          "6"
+        ],
+        "answer": 1,
+        "explanation": "In posizione di push-up appoggi due mani e due piedi: quattro punti di contatto."
+      }
+    },
+    {
+      "slide": 15,
+      "title": "Complessità dell'esercizio",
+      "narration": "Il secondo strumento è la complessità del movimento. Puoi aumentarla per una progressione o ridurla per una regressione. Per complessità intendiamo, per esempio, il numero di articolazioni coinvolte e i piani di movimento usati in un esercizio. Quando rendi un movimento più complesso, non metti alla prova solo il fisico. Metti alla prova anche la testa. L'atleta deve controllare ed eseguire uno schema che forse non conosce o che è poco abituale. L'esempio è il dead bug. Si parte con la versione normale, come viene di solito prescritta. Per fare una regressione e ridurre la complessità, puoi fermare le braccia e far muovere solo le gambe. Meno articolazioni in gioco, esercizio più semplice. Per fare una progressione, invece, puoi muovere una gamba e tutte e due le braccia, ma con un braccio su un piano di movimento diverso dall'altro. Così aumenti la complessità. Il messaggio finale è che le strade per cambiare la complessità sono tante. Puoi essere creativo. L'importante è sapere cosa stai cambiando: articolazioni coinvolte e piani di movimento. In campo succede la stessa cosa. Un esercizio tecnico con un solo pallone e un solo compagno è semplice. Se aggiungi un secondo pallone, un cambio di direzione e una scelta da fare, diventa molto più difficile, anche se lo sforzo fisico è simile. Con il core funziona allo stesso modo: più cose da coordinare, più il core deve lavorare con controllo.",
+      "keyPoints": [
+        "Complessità = numero di articolazioni e piani di movimento",
+        "Più complessità sfida corpo e mente",
+        "Dead bug: solo gambe = regressione",
+        "Gamba più due braccia, uno su altro piano = progressione"
+      ],
+      "analogy": "È come passare da un passaggio a due con un pallone a un esercizio con due palloni e una scelta da fare: lo sforzo è simile, ma serve molta più coordinazione.",
+      "check": {
+        "question": "Nel dead bug, come puoi applicare una regressione riducendo la complessità?",
+        "options": [
+          "Aggiungere un peso alle caviglie",
+          "Muovere un braccio su un piano diverso",
+          "Eseguirlo su una palla bosu",
+          "Fermare le braccia e muovere solo le gambe"
+        ],
+        "answer": 3,
+        "explanation": "Muovere solo le gambe coinvolge meno articolazioni e rende il dead bug più semplice."
+      }
+    },
+    {
+      "slide": 16,
+      "title": "Alterazione della leva",
+      "narration": "Il terzo strumento è la leva. Nella lezione di biomeccanica hai visto che cambiare la leva può darti un vantaggio o uno svantaggio meccanico durante un esercizio. Il principio è questo: leva più lunga, esercizio più difficile. Leva più corta, esercizio più facile. L'esempio più chiaro è il push-up. Nel push-up normale le gambe sono distese, quindi la leva è lunga. Se lo fai appoggiando le ginocchia, la leva si accorcia e l'esercizio diventa più semplice. Lo stesso vale per gli esercizi del core. Immagina un esercizio in cui le gambe non sono del tutto distese: è meno impegnativo. Se distendi completamente le gambe, la leva si allunga e la difficoltà cresce. Quindi, giocando sulla lunghezza della leva, puoi creare una progressione o una regressione per il tuo atleta. Perché funziona? Perché più il peso è lontano dal centro, più il core deve lavorare per tenere la posizione. Pensa a tenere un pallone con le braccia vicino al petto rispetto a tenerlo con le braccia tese davanti a te: è lo stesso pallone, ma con le braccia tese fai molta più fatica. Ricapitolando i tre strumenti di Gibson e colleghi: base di appoggio, complessità e leva. Per rendere più difficile: base più piccola, più complessità, leva più lunga. Per rendere più facile: base più grande, meno complessità, leva più corta. Con queste tre manopole puoi adattare quasi qualsiasi esercizio.",
+      "keyPoints": [
+        "Leva più lunga = esercizio più difficile",
+        "Push-up dalle ginocchia: leva più corta, più facile",
+        "Gambe completamente estese aumentano la difficoltà",
+        "Cambiare la leva crea progressioni o regressioni"
+      ],
+      "analogy": "Tenere un pallone medicinale vicino al petto è facile; tenerlo a braccia tese è durissimo: stesso peso, leva più lunga.",
+      "check": {
+        "question": "Perché il push-up dalle ginocchia è più facile del push-up normale?",
+        "options": [
+          "Perché la leva è più corta",
+          "Perché la base di appoggio è più piccola",
+          "Perché coinvolge più piani di movimento",
+          "Perché la leva è più lunga"
+        ],
+        "answer": 0,
+        "explanation": "Appoggiando le ginocchia la leva si accorcia e il carico sul core diminuisce."
+      }
+    },
+    {
+      "slide": 17,
+      "title": "Le 4 categorie di allenamento del core",
+      "narration": "Come si allena il core? Parti dalla sua funzione principale. Il core deve dare stabilità, resistere ai movimenti che non vuoi e controllare quelli che servono. Da qui nasce un modo pratico di dividere gli esercizi. Le categorie sono quattro. La prima è l'anti-flessione: esercizi in cui il core si oppone al piegarsi in avanti del tronco. La seconda è l'anti-estensione: il core impedisce alla schiena di inarcarsi all'indietro. La terza è l'anti-flessione laterale: il core resiste alla spinta che ti farebbe piegare di lato. La quarta è l'anti-rotazione: il core non lascia ruotare il tronco quando una forza cerca di girarlo. Nota la parola anti. Non stai allenando il core a muoversi tanto, ma a dire di no ai movimenti indesiderati. È proprio la funzione che hai visto prima: resistere e controllare. Pensa a un contrasto spalla a spalla in partita. L'avversario ti spinge di lato e tu devi restare in piedi: è anti-flessione laterale. Quando ti tirano la maglia mentre corri e il tronco tende a girarsi, serve anti-rotazione. Quando atterri da un colpo di testa e la schiena vuole inarcarsi, lavora l'anti-estensione. Nelle prossime quattro lezioni vedrai ogni categoria nel dettaglio, con esercizi specifici. Per ora fissa bene i quattro nomi: anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione. All'esame sono un classico, quindi ripetili finché non ti vengono fuori senza pensarci.",
+      "keyPoints": [
+        "Si parte dalla funzione: stabilità, resistere e controllare",
+        "Anti-flessione e anti-estensione",
+        "Anti-flessione laterale e anti-rotazione",
+        "Ogni categoria sarà approfondita nelle prossime 4 lezioni"
+      ],
+      "analogy": "Nel contrasto spalla a spalla resti in piedi grazie all'anti-flessione laterale; quando ti tirano la maglia e il tronco gira, lavora l'anti-rotazione.",
+      "check": {
+        "question": "Quale di queste NON è una delle 4 categorie di allenamento del core?",
+        "options": [
+          "Anti-estensione",
+          "Anti-rotazione",
+          "Anti-flessione laterale",
+          "Anti-abduzione"
+        ],
+        "answer": 3,
+        "explanation": "Le 4 categorie sono anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione."
+      }
+    },
+    {
+      "slide": 18,
+      "title": "Riepilogo",
+      "narration": "Facciamo il punto su tutto quello che hai visto. Primo: il core non è solo addominali. La definizione classica è colonna lombare e bacino, ma conviene pensarlo come un cilindro: il tronco da cui partono gli arti, esteso a busto e anche e, secondo Joyce e Lewindon del 2014, fino a scapole e colonna toracica. È fatto di elementi passivi, cioè vertebre e articolazioni, e attivi, cioè muscoli, tendini e fascia. Senza muscoli, circa 10 chili bastano a flettere la colonna. I muscoli lavorano su tre strati: stabilizzatori locali, stabilizzatori globali e motori globali. Secondo: la funzione. Il core serve per la stabilità della colonna e per trasmettere la forza tra parte alta e bassa del corpo. Un core instabile disperde forza e aumenta il rischio di lesioni. Terzo: la valutazione. Hai visto perché è importante valutare stabilità e controllo, e che servono test a basso e ad alto carico. A basso carico, test osservativi a corpo libero, con un obiettivo di 30 ripetizioni: Waiters Bow e Supine Hip Flexion. Ad alto carico, squat, stacco, affondo, analisi dello sprint e plank. Il criterio è sempre la colonna neutra. Quarto: la programmazione. Base di appoggio, leva e complessità, dal modello di Gibson e colleghi del 2017. Infine, le quattro categorie di allenamento: anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione. Ottimo lavoro: adesso prova le flashcard e le domande.",
+      "keyPoints": [
+        "Core come cilindro, oltre gli addominali",
+        "Funzione: stabilità e trasmissione della forza",
+        "Valutazione a basso e ad alto carico",
+        "4 categorie: anti-flessione, anti-estensione, anti-flessione laterale, anti-rotazione"
+      ],
+      "analogy": "Come il riassunto a fine primo tempo nello spogliatoio: pochi concetti chiari da portarsi in campo.",
+      "check": {
+        "question": "Quali sono le due funzioni principali del core?",
+        "options": [
+          "Respirazione e digestione",
+          "Flessibilità e velocità",
+          "Stabilità della colonna e trasmissione della forza",
+          "Ipertrofia e resistenza aerobica"
+        ],
+        "answer": 2,
+        "explanation": "Il core stabilizza la colonna e trasmette la forza tra parte superiore e inferiore del corpo."
+      }
+    }
+  ],
+  "flashcards": [
+    { "front": "Quali tre temi tratta la lezione 4.1?", "back": "Definizione del core, sua funzione e metodi di valutazione della stabilità.", "part": 0 },
+    { "front": "Il core coincide con gli addominali?", "back": "No: comprende molto di più, anche se gli addominali ne sono una parte molto importante.", "part": 1 },
+    { "front": "Definizione tradizionale di core?", "back": "Colonna lombare e regione del bacino: corretta, ma limitata se vista in modo isolato.", "part": 1 },
+    { "front": "Con quale immagine si descrive il core?", "back": "Un cilindro: il tronco, da cui partono tutti gli arti.", "part": 2 },
+    { "front": "Fin dove estendere il cilindro secondo Joyce e Lewindon (2014)?", "back": "Verso l'alto, fino alle scapole e alla colonna toracica.", "part": 2 },
+    { "front": "Quanto peso basterebbe a flettere la colonna senza muscoli?", "back": "Circa 10 kg.", "part": 3 },
+    { "front": "Elementi passivi ed elementi attivi del core?", "back": "Passivi: vertebre e articolazioni. Attivi: muscoli e tessuti non contrattili (tendini, fascia).", "part": 3 },
+    { "front": "I tre strati muscolari del core?", "back": "Stabilizzatori locali (trasverso), stabilizzatori globali (obliquo esterno), motori globali (grande gluteo).", "part": 3 },
+    { "front": "Funzioni primarie del core?", "back": "Stabilità della colonna e trasmissione della forza tra parte alta e bassa del corpo.", "part": 4 },
+    { "front": "Cosa succede con un core instabile?", "back": "Si perde forza, serve più sforzo e aumenta il rischio di lesioni.", "part": 4 },
+    { "front": "Criterio principale nelle valutazioni della stabilità del core?", "back": "La capacità di mantenere la colonna in posizione neutra.", "part": 5 },
+    { "front": "Isometrie e movimenti: cosa valutano?", "back": "Le isometrie la resistenza del core; i movimenti la capacità di restare stabile mentre ci si muove.", "part": 5 },
+    { "front": "Obiettivo di ripetizioni nei test a basso carico?", "back": "30 ripetizioni.", "part": 6 },
+    { "front": "Come si dà il punteggio nei test a basso carico?", "back": "A occhio: sono osservativi; si annota da quale ripetizione e come peggiora la tecnica.", "part": 6 },
+    { "front": "Che movimento è il Waiters Bow?", "back": "Un hip hinge: inclinarsi avanti dalle anche con colonna neutra e ginocchia morbide.", "part": 7 },
+    { "front": "Due errori da osservare nella Supine Hip Flexion?", "back": "Trattenere il respiro e irrigidirsi troppo; inarcare troppo la zona lombare.", "part": 8 },
+    { "front": "Esempi di valutazione ad alto carico?", "back": "Squat, stacco, affondo, analisi della corsa nello sprint e plank.", "part": 9 },
+    { "front": "Tre modi per progredire o regredire un esercizio (Gibson e colleghi, 2017)?", "back": "Base di appoggio, lunghezza della leva, complessità.", "part": 10 },
+    { "front": "Che cos'è la base di appoggio?", "back": "L'area che unisce tutti i punti di contatto con il suolo.", "part": 11 },
+    { "front": "Plank su bosu: progressione o regressione?", "back": "Progressione: due punti di contatto su superficie instabile.", "part": 11 },
+    { "front": "Cosa intendiamo per complessità di un esercizio?", "back": "Il numero di articolazioni e di piani di movimento coinvolti.", "part": 12 },
+    { "front": "Leva più lunga: esercizio più facile o più difficile?", "back": "Più difficile (es. push-up a gambe tese rispetto a quello dalle ginocchia).", "part": 13 },
+    { "front": "Le 4 categorie di allenamento del core?", "back": "Anti-flessione, anti-estensione, anti-flessione laterale, anti-rotazione.", "part": 14 },
+    { "front": "Riassumi la lezione in quattro parole chiave.", "back": "Cilindro, stabilità, valutazione (basso e alto carico), quattro categorie anti.", "part": 15 }
+  ],
+  "questions": [
+    {
+      "question": "Quale affermazione sul core è corretta?",
+      "options": [
+        "Il core coincide con il retto dell'addome",
+        "Il core comprende molto più degli addominali, che restano comunque importanti",
+        "Gli addominali non fanno parte del core",
+        "Esiste una definizione di core accettata da tutti i preparatori"
+      ],
+      "answer": 1,
+      "explanation": "Il core va oltre gli addominali, che però ne sono un aspetto molto importante; i preparatori non concordano su una definizione unica.",
+      "part": 1
+    },
+    {
+      "question": "Secondo Joyce e Lewindon (2014), il cilindro del core può essere utilmente esteso:",
+      "options": [
+        "Verso il basso fino alle caviglie",
+        "Solo alla parete addominale anteriore",
+        "Verso l'alto fino alle scapole e alla colonna toracica",
+        "Alla sola colonna cervicale"
+      ],
+      "answer": 2,
+      "explanation": "Gli autori suggeriscono di allungare il cilindro fino a scapole e colonna toracica.",
+      "part": 2
+    },
+    {
+      "question": "In assenza del tessuto muscolare circostante, quale peso basterebbe a far flettere la colonna?",
+      "options": [
+        "Circa 10 kg",
+        "Circa 50 kg",
+        "Circa 100 kg",
+        "Circa 2 kg"
+      ],
+      "answer": 0,
+      "explanation": "Gli elementi passivi da soli non bastano: circa 10 kg causerebbero la flessione della colonna.",
+      "part": 3
+    },
+    {
+      "question": "Quale gruppo muscolare produce la forza per resistere ai movimenti indesiderati del busto, come l'obliquo esterno?",
+      "options": [
+        "Stabilizzatori locali",
+        "Motori globali",
+        "Elementi passivi",
+        "Stabilizzatori globali"
+      ],
+      "answer": 3,
+      "explanation": "Gli stabilizzatori globali, muscoli più grandi come l'obliquo esterno, si oppongono ai movimenti indesiderati del tronco.",
+      "part": 3
+    },
+    {
+      "question": "Il grande gluteo è classificato come:",
+      "options": [
+        "Stabilizzatore locale",
+        "Motore globale",
+        "Stabilizzatore globale",
+        "Elemento passivo"
+      ],
+      "answer": 1,
+      "explanation": "I motori globali sono grandi muscoli multisegmentali, come il grande gluteo, che generano il movimento articolare.",
+      "part": 3
+    },
+    {
+      "question": "Durante uno sprint, cosa succede se il core è instabile?",
+      "options": [
+        "La forza delle gambe viene trasferita meglio",
+        "Il rischio di lesioni diminuisce",
+        "La tecnica peggiora e probabilmente la prestazione cala",
+        "Le braccia lavorano come pistoni più efficaci"
+      ],
+      "answer": 2,
+      "explanation": "Se la spinta delle gambe crea movimenti indesiderati del tronco, tecnica e prestazione peggiorano e cresce il rischio di lesioni.",
+      "part": 4
+    },
+    {
+      "question": "Quale affermazione sulla valutazione della stabilità del core è corretta?",
+      "options": [
+        "Un singolo test valuta tutte le forme di stabilità del core",
+        "Basta valutare un solo piano di movimento",
+        "Servono solo test ad alto carico",
+        "Nessun test da solo valuta la stabilità del core in tutte le sue forme"
+      ],
+      "answer": 3,
+      "explanation": "Servono test a basso e alto carico, su più piani, scelti in base agli schemi motori dell'atleta.",
+      "part": 5
+    },
+    {
+      "question": "Le tenute isometriche nella valutazione del core danno soprattutto un'idea di:",
+      "options": [
+        "Resistenza del core",
+        "Potenza esplosiva",
+        "Mobilità dell'anca",
+        "Velocità di reazione"
+      ],
+      "answer": 0,
+      "explanation": "Le isometrie indicano la resistenza; i movimenti la capacità di restare stabili muovendosi.",
+      "part": 5
+    },
+    {
+      "question": "Come si attribuisce il punteggio nelle valutazioni del core a basso carico?",
+      "options": [
+        "Con una tabella normativa a punti",
+        "Con un dinamometro",
+        "Soprattutto con l'osservazione del preparatore",
+        "Con il cardiofrequenzimetro"
+      ],
+      "answer": 2,
+      "explanation": "Sono test osservativi: l'occhio del preparatore è il principale sistema di punteggio.",
+      "part": 6
+    },
+    {
+      "question": "Nel Waiters Bow l'atleta:",
+      "options": [
+        "Si inclina in avanti dalle anche con colonna neutra e ginocchia leggermente flesse",
+        "Esegue uno squat profondo con il bilanciere",
+        "Si sdraia supino e solleva una gamba a 90 gradi",
+        "Mantiene la posizione di push-up il più a lungo possibile"
+      ],
+      "answer": 0,
+      "explanation": "Il Waiters Bow è un hip hinge: inclinazione dalle anche senza perdere il controllo della colonna.",
+      "part": 7
+    },
+    {
+      "question": "Nella Supine Hip Flexion, il fatto che l'atleta trattenga il respiro e si irrigidisca eccessivamente indica che:",
+      "options": [
+        "Il test è stato eseguito perfettamente",
+        "Sta usando troppa tensione per un movimento a basso carico",
+        "Ha una base di appoggio troppo ampia",
+        "Deve passare subito a un test ad alto carico"
+      ],
+      "answer": 1,
+      "explanation": "In un movimento a basso carico non dovrebbe trattenere il respiro né irrigidirsi troppo.",
+      "part": 8
+    },
+    {
+      "question": "Nel plank usato come valutazione ad alto carico, cosa osserva principalmente il preparatore?",
+      "options": [
+        "Solo il tempo totale sul cronometro",
+        "La frequenza respiratoria",
+        "Il numero di ripetizioni dinamiche",
+        "Quando compaiono errori nello schema motorio e di che tipo sono"
+      ],
+      "answer": 3,
+      "explanation": "Si mantiene linea retta e colonna neutra il più a lungo possibile, osservando quando e come compaiono gli errori.",
+      "part": 9
+    },
+    {
+      "question": "Quale combinazione rende un esercizio per il core più facile secondo il modello di Gibson e colleghi (2017)?",
+      "options": [
+        "Base più piccola, leva più lunga, più complessità",
+        "Base più grande, leva più corta, meno complessità",
+        "Base più grande, leva più lunga, più complessità",
+        "Base più piccola, leva più corta, meno complessità"
+      ],
+      "answer": 1,
+      "explanation": "Per una regressione si aumenta la base, si accorcia la leva e si riduce la complessità.",
+      "part": 10
+    },
+    {
+      "question": "Eseguire un plank con le mani su una palla bosu è considerato:",
+      "options": [
+        "Una regressione, perché aumenta la base di appoggio",
+        "Un esercizio di anti-rotazione",
+        "Una progressione, perché due punti di contatto sono su una superficie instabile",
+        "Una modifica della leva"
+      ],
+      "answer": 2,
+      "explanation": "La superficie instabile sotto le mani obbliga il core a lavorare di più: è una progressione.",
+      "part": 11
+    },
+    {
+      "question": "Quale elenco riporta correttamente le 4 categorie di allenamento del core?",
+      "options": [
+        "Anti-flessione, anti-estensione, anti-flessione laterale, anti-rotazione",
+        "Flessione, estensione, rotazione, circonduzione",
+        "Anti-flessione, anti-abduzione, anti-adduzione, anti-rotazione",
+        "Isometria, concentrica, eccentrica, pliometria"
+      ],
+      "answer": 0,
+      "explanation": "Le 4 categorie derivano dalla funzione del core di resistere ai movimenti indesiderati.",
+      "part": 14
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Progressioni e regressioni del plank",
+      "prompt": "Un calciatore di 17 anni al primo anno di palestra perde la posizione nel plank dopo pochi secondi: il bacino cade. Un compagno esperto invece tiene un plank pulito senza fatica. Proponi una regressione per il primo e una progressione per il secondo, spiegando quale dei tre parametri di Gibson e colleghi (2017) usi.",
+      "modelAnswer": "Per il ragazzo uso una regressione: plank dalle ginocchia. Così accorcio la leva e l'esercizio diventa più facile; posso anche allargare mani e piedi per aumentare la base di appoggio. L'obiettivo è che mantenga la colonna neutra, perché se la tecnica crolla l'esercizio non dà l'effetto voluto. Per il compagno esperto uso una progressione: avvicino mani e piedi per ridurre la base di appoggio, oppure appoggio le mani su una palla bosu, così due punti di contatto sono instabili e il core lavora di più. In alternativa posso aumentare la complessità. Cambio un parametro alla volta e osservo quando compaiono gli errori."
+    },
+    {
+      "title": "Batteria di valutazione del core",
+      "prompt": "Devi valutare il core di un'ala di 24 anni a inizio preparazione. Scrivi una breve batteria con test a basso e ad alto carico, cosa osservi in ciascuno e come registri i risultati.",
+      "modelAnswer": "Basso carico: Waiters Bow, obiettivo 30 ripetizioni con colonna neutra e ginocchia morbide; Supine Hip Flexion, guardando che non trattenga il respiro, non si irrigidisca e non inarchi la zona lombare quando estende la gamba. Annoto da quale ripetizione la tecnica peggiora e che errori compaiono. Alto carico: plank in posizione di push-up, linea retta e colonna neutra il più a lungo possibile, segnando quando e come arrivano gli errori; poi un affondo o uno squat caricato e l'analisi della corsa in sprint, importante per un'ala. Uso sia isometrie sia movimenti, su più piani, perché nessun test da solo basta. Criterio guida: la colonna resta neutra?"
+    },
+    {
+      "title": "Spiega le 4 categorie a un compagno",
+      "prompt": "Un tuo compagno di squadra ti dice: \"Per il core faccio solo crunch, tanto sono addominali\". Cosa gli rispondi? Usa la funzione del core e le 4 categorie di allenamento.",
+      "modelAnswer": "Gli spiego che il core non è solo addominali: è il cilindro del tronco da cui partono gli arti, esteso a busto e anche. La sua funzione principale è dare stabilità alla colonna e trasmettere la forza tra parte alta e bassa del corpo: deve resistere ai movimenti indesiderati e controllare quelli necessari. Per questo gli esercizi si dividono in anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione. In partita gli serve restare stabile nei contrasti spalla a spalla e non far girare il tronco quando corre o calcia. Un core instabile disperde forza e aumenta il rischio di lesioni, quindi conviene allenare tutte e quattro le categorie."
+    }
+  ]
+}

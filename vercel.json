@@ -1,0 +1,3 @@
+{
+  "functions": { "api/lezione.ts": { "maxDuration": 300 } }
+}

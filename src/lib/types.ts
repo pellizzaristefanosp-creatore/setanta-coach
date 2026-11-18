@@ -72,6 +72,9 @@ export type Settings = {
   time: string; // "HH:MM"
   restDay: number; // 0 = domenica … 6 = sabato
   startDate: ISODate;
+  voiceRate: number; // 1 = normale
+  voiceName?: string;
+  appCode?: string; // codice per importare lezioni (server)
 };
 
 export type DayLog = Record<ISODate, { minutes: number; steps: number }>;
@@ -83,6 +86,13 @@ export type ActiveTimer = {
   endsAt: number; // ms
   pausedLeft?: number; // ms rimasti, se in pausa
 };
+
+export type XpEvent = { date: ISODate; kind: XpKind; points: number };
+export type XpKind = "part" | "check" | "recall" | "card" | "quiz" | "boss" | "presentation" | "daily" | "weekly" | "exercise";
+
+export type AnswerStat = { seen: number; wrong: number; last: ISODate; lastCorrect: boolean };
+
+export type BossResult = { won: boolean; best: number; date: ISODate };
 
 export type State = {
   version: 1;
@@ -97,4 +107,12 @@ export type State = {
   settings: Settings;
   log: DayLog;
   timer: ActiveTimer | null;
-};
+  /* Gioco e studio intelligente */
+  xp: XpEvent[];
+  answers: Record<string, AnswerStat>;
+  bosses: Record<string, BossResult>; // chiave = numero dell'unità
+  badges: Record<string, ISODate>;
+  challenges: Record<string, ISODate>; // sfide già premiate: "d:2026-11-18", "w:2026-11-16"
+  lessons: import("./lesson").LessonPack[]; // lezioni importate dal PDF
+  exercisesDone: Record<string, ISODate>;
+}

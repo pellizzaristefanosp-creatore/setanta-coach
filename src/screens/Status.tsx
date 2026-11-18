@@ -4,7 +4,8 @@ import { buildPlan, currentItem, isDone, situation } from "../lib/plan";
 import { setState, useStore } from "../lib/store";
 import { streak } from "../lib/streak";
 import type { State } from "../lib/types";
-import { Box, Icon } from "../ui";
+import { BADGES, level, totalXp, weeklyChallenge, LEVELS } from "../lib/game";
+import { Box, Icon, Progress } from "../ui";
 
 /** La sessione di oggi è completa se la presentazione del giorno è finita (o oggi è giorno libero). */
 export function todayIncomplete(s: State, now = today()): boolean {
@@ -41,6 +42,8 @@ export function Status() {
       ) : (
         <div className="okbar">Oggi è a posto.</div>
       )}
+
+      <Season />
 
       <div className="stat-grid">
         <div className="card stack" style={{ gap: 6 }}>
@@ -128,5 +131,55 @@ export function Status() {
         )}
       </div>
     </div>
+  );
+}
+
+function Season() {
+  const s = useStore();
+  const now = today();
+  const xp = totalXp(s);
+  const lv = level(xp);
+  const w = weeklyChallenge(s, now);
+  return (
+    <>
+      <div className="card stack season">
+        <div className="row">
+          <span className="lv-badge big">{lv.index + 1}</span>
+          <div className="grow">
+            <p className="tiny">La tua stagione</p>
+            <p className="step-title" style={{ fontSize: 24 }}>{lv.name}</p>
+          </div>
+          <span className="pill num">{xp} pt</span>
+        </div>
+        <Progress value={Math.round(lv.progress * 100)} max={100} />
+        <p className="tiny">{lv.next ? `${lv.toNext} punti per diventare ${lv.next}.` : "Livello massimo. Ora vinci la finale."}</p>
+        <p className="tiny">Livelli: {LEVELS.map((l) => l.name).join(" → ")}</p>
+      </div>
+
+      <div className={`card challenge stack ${w.complete ? "won" : ""}`} style={{ gap: 8 }}>
+        <div className="spread">
+          <span className="tag">{w.complete ? "Sfida della settimana vinta" : "Sfida della settimana"}</span>
+          <span className="small num" style={{ fontWeight: 750 }}>{w.done}/{w.total}</span>
+        </div>
+        <Progress value={w.done} max={Math.max(1, w.total)} size="thin" />
+        <p className="tiny">{w.total > 0 ? `Chiudi ${w.codes.join(", ")} entro ${shortDate(w.endsOn)}.` : "Nessuna presentazione prevista questa settimana."}</p>
+      </div>
+
+      <div className="card stack">
+        <div className="spread"><h2>Premi</h2><span className="pill gold">{Object.keys(s.badges).length}/{BADGES.length}</span></div>
+        <div className="badges">
+          {BADGES.map((b) => {
+            const got = s.badges[b.id];
+            return (
+              <div key={b.id} className={`badge ${got ? "got" : ""}`} title={b.how}>
+                <span className="badge-icon">{got ? b.icon : "🔒"}</span>
+                <span className="badge-name">{b.name}</span>
+                <span className="tiny">{got ? shortDate(got) : b.how}</span>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </>
   );
 }

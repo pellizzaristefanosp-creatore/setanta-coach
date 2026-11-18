@@ -1,9 +1,12 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import { allLessons } from "../lib/lessons";
+import { guessCode, pagesToText, pdfPages } from "../lib/pdf";
+import { italianVoices, pickVoice, readSentences, ttsAvailable, unlockSpeech, voicesReady } from "../lib/tts";
 import { DEFAULT_STEPS, makePresentation } from "../data/seed";
 import { WEEKDAYS, dayMonth, today } from "../lib/dates";
 import { buildIcs, shiftTime } from "../lib/ics";
 import { comparePresentationCode } from "../lib/plan";
-import { exportBackup, importBackup, importQuestions, resetAll, setState, useStore } from "../lib/store";
+import { exportBackup, importBackup, importLesson, importQuestions, resetAll, setState, useStore } from "../lib/store";
 import type { Presentation } from "../lib/types";
 import { Icon, saveFile } from "../ui";
 import { StepList } from "./Today";
@@ -40,6 +43,9 @@ export function Settings() {
     <div className="stack fade-in" style={{ gap: 16 }}>
       <h1 className="page-title">Altro</h1>
       {msg && <div className="okbar" role="status" onClick={() => setMsg(null)}>{msg}</div>}
+
+      <ImportLesson />
+      <VoiceSettings />
 
       <section className="card stack">
         <h2>Promemoria</h2>
@@ -206,5 +212,134 @@ function PresentationEditor({ p }: { p: Presentation }) {
       </details>
       {p.steps.length === DEFAULT_STEPS && p.steps[0]?.title === "Slide 3" && <p className="tiny">Numero di parti stimato: correggilo quando vedi la presentazione.</p>}
     </div>
+  );
+}
+
+/* ——— Lezione nuova dal PDF ——— */
+
+type ImportStage = { kind: "idle" } | { kind: "reading" } | { kind: "ready"; code: string; title: string; text: string; pages: number } | { kind: "sending"; code: string } | { kind: "done"; code: string; title: string } | { kind: "error"; text: string };
+
+function ImportLesson() {
+  const s = useStore();
+  const input = useRef<HTMLInputElement>(null);
+  const [stage, setStage] = useState<ImportStage>({ kind: "idle" });
+  const [code, setCode] = useState("");
+  const [title, setTitle] = useState("");
+  const [appCode, setAppCode] = useState(s.settings.appCode ?? "");
+  const lessons = allLessons(s).map((l) => l.code).sort((a, b) => a.localeCompare(b, "it", { numeric: true }));
+
+  const onFile = async () => {
+    const f = input.current?.files?.[0];
+    if (!f) return;
+    input.current!.value = "";
+    setStage({ kind: "reading" });
+    try {
+      const pages = await pdfPages(f);
+      const guess = guessCode(f.name, pages[0] ?? "");
+      setCode(guess?.code ?? "");
+      setTitle(guess?.title ?? f.name.replace(/\.pdf$/i, ""));
+      setStage({ kind: "ready", code: guess?.code ?? "", title: guess?.title ?? "", text: pagesToText(pages), pages: pages.length });
+    } catch {
+      setStage({ kind: "error", text: "Non riesco a leggere questo PDF." });
+    }
+  };
+
+  const send = async (text: string) => {
+    if (!/^\d{1,2}\.\d{1,2}$/.test(code)) {
+      setStage({ kind: "error", text: "Scrivi il codice della presentazione, es. 7.2." });
+      return;
+    }
+    setState((d) => void (d.settings.appCode = appCode.trim()));
+    setStage({ kind: "sending", code });
+    try {
+      const res = await fetch("/api/lezione", {
+        method: "POST",
+        headers: { "content-type": "application/json", "x-app-code": appCode.trim() },
+        body: JSON.stringify({ text, code, title, unit: Number(code.split(".")[0]) }),
+      });
+      const data = (await res.json().catch(() => ({}))) as { lesson?: unknown; error?: string };
+      if (!res.ok || !data.lesson) {
+        setStage({ kind: "error", text: data.error ?? `Errore ${res.status}. Riprova.` });
+        return;
+      }
+      const r = importLesson(data.lesson);
+      if (!r.ok) setStage({ kind: "error", text: r.error });
+      else setStage({ kind: "done", code: r.lesson.code, title: r.lesson.title });
+    } catch {
+      setStage({ kind: "error", text: "Senza rete non si può preparare la lezione. Riprova con internet." });
+    }
+  };
+
+  return (
+    <section className="card stack">
+      <h2>Aggiungi lezione dal PDF</h2>
+      <p className="small muted">Scarica dal corso il PDF delle Note scritte e caricalo qui. Claude prepara la lezione: voce, carte, domande, flashcard ed esercizi. Ci vuole un paio di minuti.</p>
+      <input ref={input} type="file" accept="application/pdf,.pdf" hidden onChange={() => void onFile()} />
+      {(stage.kind === "idle" || stage.kind === "done" || stage.kind === "error") && (
+        <button className="btn primary block" onClick={() => input.current?.click()}>Scegli il PDF</button>
+      )}
+      {stage.kind === "reading" && <p className="small">Leggo il PDF…</p>}
+      {stage.kind === "ready" && (
+        <div className="stack fade-in">
+          <p className="tiny">{stage.pages} pagine lette nel telefono.</p>
+          <div className="row">
+            <label className="field" style={{ width: 96 }}>Codice<input type="text" inputMode="decimal" value={code} onChange={(e) => setCode(e.target.value)} placeholder="7.2" /></label>
+            <label className="field grow">Titolo<input type="text" value={title} onChange={(e) => setTitle(e.target.value)} /></label>
+          </div>
+          <label className="field">Codice di accesso<input type="text" value={appCode} onChange={(e) => setAppCode(e.target.value)} autoComplete="off" /></label>
+          <button className="btn primary block" disabled={!appCode.trim()} onClick={() => void send(stage.text)}>Prepara la lezione</button>
+          <button className="link-btn" onClick={() => setStage({ kind: "idle" })}>Annulla</button>
+        </div>
+      )}
+      {stage.kind === "sending" && (
+        <div className="card soft stack center">
+          <p className="step-title" style={{ fontSize: 20 }}>Claude sta preparando la {stage.code}…</p>
+          <p className="tiny">Non chiudere l'app. Di solito 1–3 minuti.</p>
+        </div>
+      )}
+      {stage.kind === "done" && <div className="okbar">Lezione {stage.code} pronta: la trovi in Oggi quando tocca a lei.</div>}
+      {stage.kind === "error" && <div className="alarm" role="alert"><span>{stage.text}</span></div>}
+      <p className="tiny">Lezioni nell'app: {lessons.join(", ") || "nessuna"}.</p>
+    </section>
+  );
+}
+
+/* ——— Voce ——— */
+
+function VoiceSettings() {
+  const s = useStore();
+  const [voices, setVoices] = useState<string[]>([]);
+  useEffect(() => {
+    void voicesReady().then(() => setVoices(italianVoices().map((v) => v.name)));
+  }, []);
+  if (!ttsAvailable()) return null;
+  const current = pickVoice(s.settings.voiceName)?.name ?? "";
+  return (
+    <section className="card stack">
+      <h2>Voce della lezione</h2>
+      {voices.length === 0 ? (
+        <p className="small muted">Il telefono non ha voci italiane attive. Su iPhone: Impostazioni → Accessibilità → Contenuto letto ad alta voce → Voci → Italiano.</p>
+      ) : (
+        <label className="field">
+          Voce
+          <select value={current} onChange={(e) => setState((d) => void (d.settings.voiceName = e.target.value))}>
+            {voices.map((v) => <option key={v} value={v}>{v}</option>)}
+          </select>
+        </label>
+      )}
+      <div className="row">
+        <span className="small muted grow">Velocità: {s.settings.voiceRate}×</span>
+        <button
+          className="btn sm"
+          onClick={() => {
+            unlockSpeech();
+            readSentences(["Ciao. Questa è la voce delle tue lezioni.", "Due minuti, solo play."], { rate: s.settings.voiceRate, voiceName: s.settings.voiceName, onSentence: () => {}, onEnd: () => {} });
+          }}
+        >
+          Prova
+        </button>
+      </div>
+      <p className="tiny">Per una voce più naturale su iPhone scarica una voce «migliorata» italiana (Impostazioni → Accessibilità → Contenuto letto ad alta voce → Voci).</p>
+    </section>
   );
 }

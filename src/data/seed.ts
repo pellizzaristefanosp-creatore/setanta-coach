@@ -151,13 +151,14 @@ export const SETTINGS: Settings = {
   time: "19:00",
   restDay: 0,
   startDate: "2026-11-18",
+  voiceRate: 1,
 };
 
 export function seedState(): State {
   return {
     version: 1,
     units: UNITS.map((u) => ({ ...u })),
-    presentations: P_LIST.map((p) => makePresentation(p.code, p.title, p.steps, p.done, "2026-11-17")),
+    presentations: P_LIST.map((p) => makePresentation(p.code, p.title, p.steps, p.done, "2026-10-31")),
     cards: [],
     explanations: [],
     questions: (questionsFile as { questions: Question[] }).questions,
@@ -167,5 +168,12 @@ export function seedState(): State {
     settings: { ...SETTINGS },
     log: {},
     timer: null,
+    xp: [],
+    answers: {},
+    bosses: {},
+    badges: {},
+    challenges: {},
+    lessons: [],
+    exercisesDone: {},
   };
 }

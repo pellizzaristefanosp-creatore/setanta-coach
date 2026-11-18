@@ -1,0 +1,574 @@
+{
+  "version": 1,
+  "code": "7.1",
+  "unit": 7,
+  "title": "Alzate olimpiche",
+  "summary": "Cosa sono strappo e slancio, che fisico aiuta a eseguirli e quali requisiti servono per farli completi. Rischio di infortunio, legame con potenza e gesti sportivi, e uso con i giovani.",
+  "parts": [
+    {
+      "slide": 3,
+      "title": "Di cosa parliamo",
+      "narration": "Benvenuto in questa lezione sulle alzate olimpiche. Prima di tutto, una mappa del percorso. Vedremo quattro cose. La prima: com'è fatto il corpo di chi pratica sollevamento pesi olimpico, cioè il weightlifting, e perché certe misure aiutano. La seconda: i rischi legati a queste alzate, e se sono davvero così pericolose come si sente dire. La terza: cosa dice la ricerca sul rapporto tra alzate olimpiche e prestazione sportiva. In pratica, ci chiediamo se allenarle rende un atleta più veloce ed esplosivo anche nel suo sport. La quarta: come capire se un atleta è pronto fisicamente per eseguirle. Tieni a mente una cosa importante. Questa presentazione è la parte teorica. La tecnica vera, cioè come insegnare le alzate, come correggere gli errori e come usare le varianti, arriva in una serie di video pratici a parte. Qui costruiamo le basi: il perché, prima del come. Per te, che lavori con calciatori, la domanda giusta è semplice. Vale la pena mettere strappo e girata nella scheda dei miei giocatori? E se sì, in quale forma e con quali controlli? Alla fine della lezione dovresti saper rispondere con argomenti solidi, non con le mode della palestra. Pensa a questa lezione come alla riunione tattica prima dell'allenamento sul campo. Prima capisci il piano. Poi lo provi con il pallone. Iniziamo allora dalle basi: che cosa sono, esattamente, le alzate olimpiche, e perché tutti ne parlano.",
+      "keyPoints": [
+        "Fisico degli atleti di weightlifting",
+        "Rischi e prerequisiti delle alzate",
+        "Ricerca su alzate e prestazione sportiva",
+        "Teoria qui, tecnica nei video pratici"
+      ],
+      "analogy": "È come la riunione tattica prima della partita: prima capisci il piano alla lavagna, poi lo provi in campo.",
+      "check": {
+        "question": "Che taglio ha questa presentazione sulle alzate olimpiche?",
+        "options": [
+          "È soprattutto teoria; la tecnica pratica è nei video a parte",
+          "È solo una guida tecnica passo per passo",
+          "Parla solo di alimentazione dei pesisti",
+          "Riguarda esclusivamente le gare olimpiche"
+        ],
+        "answer": 0,
+        "explanation": "La lezione introduce la teoria; coaching e correzione degli errori sono trattati nei video pratici."
+      }
+    },
+    {
+      "slide": 4,
+      "title": "Strappo e slancio",
+      "narration": "Il sollevamento pesi olimpico è uno sport delle Olimpiadi. In gara l'atleta esegue due alzate con il bilanciere. La prima è lo strappo, in inglese snatch: il bilanciere va da terra sopra la testa in un solo movimento. La seconda è lo slancio, in inglese clean and jerk: prima porti il bilanciere sulle spalle, poi lo spingi sopra la testa. In fondo sono esercizi con sovraccarico. Per questo non li usano solo i pesisti, ma anche i preparatori di tantissimi sport. Cosa li rende speciali? Sollevi carichi alti in modo molto esplosivo. Il gesto dura pochissimo, ma chiede al sistema nervoso e ai muscoli uno sforzo enorme. Sono anche schemi motori molto complessi. Per impararli servono tante ore di pratica dedicata. Ecco il punto critico: non vanno bene per tutti gli atleti o clienti. Per alcuni, il tempo di apprendimento sarebbe troppo lungo rispetto al beneficio. Però, se li impari e li esegui bene, diventano utilissimi nella maggior parte dei programmi per atleti. C'è anche una buona notizia. Essendo così complessi, puoi spezzarli in parti. L'atleta può ottenere buoni risultati imparando ed eseguendo solo alcune fasi dell'alzata. Così risparmi tempo e fatica, e il giocatore lavora comunque sull'esplosività. Per una squadra di calcio, con poco tempo in palestra, questa è spesso la strada più sensata.",
+      "keyPoints": [
+        "Due alzate: strappo (snatch) e slancio (clean and jerk)",
+        "Carichi alti, velocità altissima, richiesta neurale enorme",
+        "Molte ore per impararle: non adatte a tutti",
+        "Si possono spezzare in parti: meno tempo e fatica"
+      ],
+      "analogy": "È come la rovesciata: gesto bellissimo ma difficile, e prima di farla intera alleni le singole fasi, il salto, la torsione, il colpo.",
+      "check": {
+        "question": "Perché le alzate olimpiche non sono adatte a tutti gli atleti?",
+        "options": [
+          "Perché usano carichi troppo leggeri",
+          "Perché non sviluppano forza esplosiva",
+          "Perché per impararle servirebbe troppo tempo",
+          "Perché sono vietate fuori dalle gare olimpiche"
+        ],
+        "answer": 2,
+        "explanation": "Sono schemi motori molto complessi: per alcuni atleti il tempo di apprendimento sarebbe eccessivo."
+      }
+    },
+    {
+      "slide": 5,
+      "title": "Il fisico del pesista",
+      "narration": "Per essere un buon pesista olimpico servono forza e muscoli ben sviluppati. Questo è ovvio. Ma conta anche altro: la lunghezza delle braccia e le proporzioni del corpo. Il pesista ideale non è solo forte. È anche più massiccio e più largo della persona media. Guardiamo tre dettagli. Primo, avambracci e polpacci. Al pesista servono avambracci corti e spessi e gambe il più possibile vicine al suolo, quindi corte. Il motivo è meccanico. Se il tuo corpo è largo invece che lungo, il bilanciere deve percorrere una distanza minore. Meno strada da fare significa un vantaggio biomeccanico. Secondo, la forma generale. Larghezza e spessore battono la lunghezza, sempre per la stessa ragione: tragitto più corto del carico. Terzo, il tendine del bicipite. Più questo tendine si attacca lontano lungo l'avambraccio, migliori sono le rotazioni meccaniche del gomito. In pratica, il muscolo lavora con una leva più favorevole. Nota bene: queste sono caratteristiche che aiutano a vincere nel weightlifting. Non sono un requisito per allenarsi con le alzate. Il tuo centrocampista alto e magro può comunque usarle in palestra. Solo che, rispetto a un pesista tozzo, partirà con uno svantaggio di leve. Conoscere questi aspetti ti aiuta a capire perché un giocatore fatica più di un altro sullo stesso esercizio, anche con la stessa forza.",
+      "keyPoints": [
+        "Contano forza, muscoli e proporzioni delle braccia",
+        "Avambracci corti e spessi, gambe vicine al suolo",
+        "Larghezza invece di lunghezza: bilanciere percorre meno strada",
+        "Tendine del bicipite più lungo sull'avambraccio: rotazioni migliori"
+      ],
+      "analogy": "È come un difensore basso e piantato contro un attaccante alto: il baricentro vicino al terreno gli dà un vantaggio nei contrasti.",
+      "check": {
+        "question": "Perché al pesista conviene un corpo largo più che lungo?",
+        "options": [
+          "Perché è più flessibile nelle spalle",
+          "Perché il bilanciere percorre una distanza minore",
+          "Perché recupera più in fretta tra le serie",
+          "Perché ha più resistenza aerobica"
+        ],
+        "answer": 1,
+        "explanation": "Larghezza al posto di lunghezza riduce il tragitto del carico e dà un vantaggio biomeccanico."
+      }
+    },
+    {
+      "slide": 6,
+      "title": "Apertura alare e leve",
+      "narration": "Si è visto che la maggior parte dei pesisti di alto livello ha braccia più corte della popolazione normale. Come lo verifichi sui tuoi atleti? Con un test semplice: l'apertura alare. L'atleta apre le braccia distese, e tu misuri da un polpastrello all'altro, dalla punta delle dita di una mano a quella dell'altra. Poi confronti con l'altezza in piedi. Se l'apertura è uguale all'altezza, le braccia sono normali. Se è minore, le braccia sono più corte della norma. Se è maggiore, sono più lunghe. Conoscere il fisico dei tuoi giocatori ti aiuta a capire le loro capacità funzionali. Anche gambe e busto contano: cambiano la posizione di preparazione e di partenza nelle alzate. In generale, un fisico favorevole ha gambe corte e busto lungo. Questo dà un vantaggio meccanico e tecnico. Ricordi la biomeccanica? Arti più corti vogliono dire leve più corte, e questo aiuta. Inoltre, un atleta più basso alza il bilanciere per un tragitto minore rispetto a uno alto. Quindi compie meno lavoro. Gli arti corti vanno anche insieme a una maggiore area di sezione trasversa del muscolo, utile per produrre forza. Quindi gambe corte, busto lungo e braccia corte sono vantaggi. Ma attenzione: ad alto livello gareggiano atleti con fisici molto diversi. Un certo fisico aiuta, ma si può eccellere anche con caratteristiche diverse.",
+      "keyPoints": [
+        "Pesisti d'élite: braccia più corte della media",
+        "Apertura alare = altezza: braccia normali",
+        "Gambe corte e busto lungo: vantaggio meccanico",
+        "Arti corti: leve corte, meno lavoro, più sezione trasversa"
+      ],
+      "analogy": "È come la panca piana: chi ha braccia corte fa meno strada con il bilanciere e, a parità di forza, alza di più.",
+      "check": {
+        "question": "Un atleta alto 180 cm ha un'apertura alare di 174 cm. Cosa indica il test?",
+        "options": [
+          "Braccia nella norma",
+          "Braccia più lunghe del normale",
+          "Gambe più corte del normale",
+          "Braccia più corte del normale"
+        ],
+        "answer": 3,
+        "explanation": "Apertura alare inferiore all'altezza in piedi significa braccia più corte della norma."
+      }
+    },
+    {
+      "slide": 7,
+      "title": "Pro e contro per chi non è pesista",
+      "narration": "Le alzate olimpiche dividono i preparatori. Una scuola di pensiero dice che sono troppo enfatizzate nei programmi di chi non fa weightlifting. Secondo loro, espongono gli atleti di altri sport a più rischio di infortunio. Perché? Sono movimenti molto complessi, con forze alte, velocità alte e grandi richieste di mobilità e stabilità. In più, portare un atleta a una buona competenza richiede molto tempo. Per questo alcuni ne mettono in dubbio l'uso negli altri sport. Dall'altra parte, ci sono preparatori che le sostengono con forza per migliorare la prestazione. Chi ha ragione? Come spesso succede nell'allenamento, entrambi hanno buoni argomenti. Le alzate sono più difficili da insegnare e imparare. Però sviluppano molte qualità fisiche che si trasferiscono bene ad altri sport, quindi l'atleta ne guadagna comunque. Una cosa però è chiara. Molti atleti e giocatori non hanno le capacità fisiche per eseguire strappo e slancio completi. Spesso hanno limiti di escursione articolare, il range of motion, oppure compensi e squilibri di stabilità e forza. Questi limiti vanno valutati con lo screening dell'overhead squat, lo squat con bilanciere sopra la testa, e con test simili. Pensa alla posizione bassa dello strappo: è un overhead squat profondissimo. Richiede mobilità e stabilità estreme, che la maggior parte delle persone semplicemente non ha. Molti calciatori, rigidi in caviglie e anche, rientrano proprio in questo gruppo.",
+      "keyPoints": [
+        "Critici: rischio, complessità, troppo tempo per imparare",
+        "Sostenitori: qualità fisiche che si trasferiscono allo sport",
+        "Molti atleti hanno limiti di mobilità e stabilità",
+        "Valutare con lo screening dell'overhead squat"
+      ],
+      "analogy": "È come mettere un giocatore in un ruolo nuovo: può funzionare, ma prima controlli se ha le qualità per farlo.",
+      "check": {
+        "question": "Quale test si consiglia per valutare mobilità e stabilità prima delle alzate complete?",
+        "options": [
+          "Lo sprint sui 30 metri",
+          "Lo screening dell'overhead squat",
+          "Il test di Cooper",
+          "Il massimale di panca piana"
+        ],
+        "answer": 1,
+        "explanation": "L'overhead squat e test simili mostrano limiti di mobilità, compensi e squilibri di stabilità."
+      }
+    },
+    {
+      "slide": 8,
+      "title": "Tre requisiti e le versioni di potenza",
+      "narration": "Come decidi se un atleta può fare girata e strappo completi? Ci sono tre prerequisiti fisici chiave. Ti dicono se l'atleta sa arrivare all'accosciata completa, cioè allo squat profondo, con il busto solido e le braccia sopra la testa. Primo: saper eseguire uno squat profondo. Secondo: farlo senza inclinare troppo il busto in avanti. Terzo: tenere le braccia sopra la testa per tutta la durata del movimento. Solo se l'atleta soddisfa tutti e tre, puoi dargli il via libera per girata e strappo completi come esercizio di allenamento. Nella realtà, è probabile che pochi atleti superino tutti e tre i criteri. Allora che fai? Puoi modificare le alzate, se vuoi tenerle nel programma. La modifica più comune è usare le versioni di potenza, come la power clean e il power snatch. In queste varianti il bilanciere si incastra più in alto. Così l'atleta non deve scendere in squat profondo né in overhead squat per chiudere la girata o lo strappo. Ricorda però una regola. Qualunque modifica o variante deve comunque imitare lo schema di movimento dell'alzata originale. Solo così ottieni il massimo beneficio. Per un calciatore rigido nelle caviglie, la versione di potenza è spesso la scelta più intelligente: tieni l'esplosività e togli la posizione che non riesce a raggiungere.",
+      "keyPoints": [
+        "Requisito 1: squat profondo",
+        "Requisito 2: busto senza eccessiva inclinazione in avanti",
+        "Requisito 3: braccia sempre sopra la testa",
+        "Versioni di potenza: incastro più alto, niente squat profondo"
+      ],
+      "analogy": "È come il passaggio alla prima squadra: se non hai ancora tutti i requisiti, giochi prima in una versione adattata, ma con lo stesso stile di gioco.",
+      "check": {
+        "question": "Cosa caratterizza le versioni di potenza delle alzate olimpiche?",
+        "options": [
+          "Il bilanciere si incastra in una posizione più alta",
+          "Si usano solo manubri leggeri",
+          "Si eseguono in isometria",
+          "Si fanno solo con le braccia"
+        ],
+        "answer": 0,
+        "explanation": "L'incastro più alto evita squat profondo e overhead squat per completare girata o strappo."
+      }
+    },
+    {
+      "slide": 9,
+      "title": "Rischio di infortunio",
+      "narration": "Le alzate olimpiche sono pericolose? Guardiamo i dati. Gli studi sugli infortuni nell'allenamento con sovraccarichi e nel weightlifting indicano un rischio relativamente basso. Ci sono però due condizioni importanti. Serve una supervisione qualificata da parte di adulti, a qualsiasi età. E bisogna considerare l'età di allenamento dell'atleta, cioè da quanti anni si allena con i pesi. La revisione mostrata confronta varie attività: strongman, powerlifting, sollevamento pesi olimpico, CrossFit e bodybuilding. Sono stati inclusi solo gli studi che calcolavano un tasso di infortuni ogni 1.000 ore di allenamento. Le zone più colpite, in generale, sono la bassa schiena e le spalle. Il risultato chiave è questo: il weightlifting appare paragonabile, se non più favorevole, rispetto alle altre forme di allenamento con i sovraccarichi. C'è un altro confronto utile. Rispetto al tempo di gara e di allenamento sul campo, gli infortuni in sala pesi sono relativamente pochi. Pensa al calcio: ci si fa male molto più in partita che in palestra. Questo non ti autorizza a distrarti. Il preparatore deve prendere ogni precauzione per ridurre rischi e pericoli nell'ambiente di allenamento. Quindi il messaggio finale è chiaro. Le alzate olimpiche possono sembrare più rischiose. Ma le prove non confermano questa idea, a patto che ci siano un coaching e un monitoraggio adeguati.",
+      "keyPoints": [
+        "Rischio di infortunio relativamente basso",
+        "Servono supervisione qualificata ed età di allenamento adeguata",
+        "Studi inclusi solo con tasso per 1.000 ore",
+        "Weightlifting paragonabile o più favorevole di altri sovraccarichi"
+      ],
+      "analogy": "È come guidare la macchina della squadra: sembra rischioso, ma con istruttore e regole chiare gli incidenti sono rari.",
+      "check": {
+        "question": "Cosa conclude la lezione sul rischio di infortunio delle alzate olimpiche?",
+        "options": [
+          "È molto più alto di ogni altro allenamento con i pesi",
+          "È nullo anche senza supervisione",
+          "È basso e paragonabile o più favorevole, con coaching adeguato",
+          "Non è mai stato studiato"
+        ],
+        "answer": 2,
+        "explanation": "Le prove non supportano un rischio maggiore, purché ci siano coaching e monitoraggio adeguati."
+      }
+    },
+    {
+      "slide": 10,
+      "title": "Alzate e potenza",
+      "narration": "Perché i preparatori amano le alzate olimpiche? Per la potenza. La ricerca ha mostrato che slancio e strappo possono produrre i livelli di potenza più alti tra tutti gli esercizi con sovraccarico. Ricordi la curva forza-velocità? Nella maggior parte dei casi, i movimenti del weightlifting stanno nella zona della forza-veloce. Quindi migliorano proprio questa qualità. Il motivo è semplice. Devi spostare un carico pesante il più velocemente possibile. Per farlo serve tanta forza esplosiva. Questo è un buon argomento per inserire le alzate, o le loro varianti, anche in un programma generale. Le richieste di forza esplosiva e potenza di slancio e strappo possono contribuire a una maggiore potenza atletica. Ci sono studi che lo confermano, con legami stretti tra prestazione nelle alzate e velocità e potenza. Ricorda questo: Hoffman e colleghi hanno dimostrato che un programma di alzate olimpiche di otto settimane era superiore all'allenamento di forza tradizionale per migliorare la potenza nel salto. Poi c'è il tasso di sviluppo della forza, in inglese rate of force development. È la velocità con cui produci forza, ed è fondamentale nello sport. Le alzate olimpiche sono state collegate al miglioramento di questo parametro. Gli studi da ricordare sono Hoffman e colleghi del 2004 e Hori e colleghi del 2005 e del 2008. Per un calciatore, più tasso di sviluppo della forza significa scatti e stacchi di testa più reattivi.",
+      "keyPoints": [
+        "Slancio e strappo: potenza più alta tra gli esercizi con sovraccarico",
+        "Zona forza-veloce della curva forza-velocità",
+        "Hoffman: 8 settimane di alzate battono la forza tradizionale nel salto",
+        "Migliorano il tasso di sviluppo della forza (Hoffman 2004, Hori 2005, 2008)"
+      ],
+      "analogy": "È come lo stacco di testa su un cross: non basta essere forti, devi esprimere quella forza in un istante.",
+      "check": {
+        "question": "Cosa ha mostrato lo studio di Hoffman e colleghi?",
+        "options": [
+          "8 settimane di alzate olimpiche migliorano la potenza nel salto più della forza tradizionale",
+          "Le alzate olimpiche peggiorano lo sprint",
+          "La forza tradizionale batte sempre le alzate nel salto",
+          "Le alzate servono solo all'ipertrofia"
+        ],
+        "answer": 0,
+        "explanation": "Il programma di otto settimane di alzate è risultato superiore all'allenamento di forza tradizionale per la potenza del salto."
+      }
+    },
+    {
+      "slide": 11,
+      "title": "Posizione atletica e seconda tirata",
+      "narration": "Le alzate olimpiche non danno solo potenza. Hanno anche posizioni simili ai gesti sportivi. Le posizioni che il corpo assume per produrre forza nel sollevamento pesi somigliano, dal punto di vista biomeccanico, a molte azioni comuni nello sport. Pensa alla posizione atletica, alla corsa e al salto. Partiamo dalla posizione atletica. È la postura da \"pronti\" che vedi in quasi ogni sport, quella da cui parti per muoverti in qualsiasi direzione. Saper generare forza partendo da qui è cruciale in quasi tutti gli sport. Il weightlifting e gli esercizi derivati aiutano proprio su questo. Mettono l'atleta in una posizione simile e gli chiedono di produrre alti livelli di forza esplosiva. Questo dovrebbe trasferirsi bene nello sport. Esempio: un giocatore è in posizione atletica e all'improvviso deve saltare. In quel momento crea forza esplosiva in verticale, proprio come nelle alzate olimpiche. Ora confronta due immagini. Da una parte la posizione atletica. Dall'altra la parte alta della seconda tirata, cioè la fase in cui il pesista accelera il bilanciere al massimo. Noterai che la posizione del corpo è molto simile. Per un calciatore pensa al portiere pronto sul rigore, o al difensore che aspetta il cross per staccare di testa. È la stessa base da cui parte la spinta nelle alzate.",
+      "keyPoints": [
+        "Posizioni simili a posizione atletica, corsa e salto",
+        "Generare forza dalla posizione atletica è cruciale nello sport",
+        "Saltare dalla posizione atletica: forza esplosiva verticale",
+        "Posizione atletica simile alla parte alta della seconda tirata"
+      ],
+      "analogy": "È come il portiere pronto sul rigore: ginocchia piegate, peso avanti, pronto a esplodere, la stessa base della seconda tirata.",
+      "check": {
+        "question": "A quale fase delle alzate somiglia la posizione atletica?",
+        "options": [
+          "Alla fase di riposo tra le serie",
+          "All'appoggio del bilanciere a terra",
+          "Alla parte alta della seconda tirata",
+          "Alla presa del bilanciere con una mano"
+        ],
+        "answer": 2,
+        "explanation": "La lezione confronta posizione atletica e parte alta della seconda tirata: la postura è molto simile."
+      }
+    },
+    {
+      "slide": 12,
+      "title": "Tripla estensione e azione balistica",
+      "narration": "Il cuore delle alzate olimpiche è la tripla estensione: estendi insieme anche, ginocchia e caviglie. È lo stesso schema della corsa, del salto e di tante azioni sportive. Ed è l'azione principale delle alzate. Una tripla estensione esplosiva porta il bilanciere sopra la testa nello strappo, o nella posizione di presa nella girata. Guardando un pesista, sembra che usi soprattutto le braccia per tirare su il bilanciere. Non è così. È la tripla estensione il fattore chiave che sposta il bilanciere in verticale. Ed è lei che decide se l'alzata riesce o no. Allenare questo schema si trasferisce bene a molti gesti sportivi, quindi può migliorare la prestazione. C'è un altro vantaggio. La tripla estensione delle alzate si può considerare un'azione balistica. Perché? La parte più veloce dell'alzata arriva proprio alla fine dell'estensione. Confrontala con lo squat. Anche lo squat sviluppa forza con la tripla estensione. Ma verso la fine devi frenare il bilanciere. Altrimenti blocchi le articolazioni di colpo e le sottoponi a uno shock. Questa azione non balistica costruisce comunque molta forza. Però nello sport quasi tutte le tripla estensioni importanti sono esplosive e balistiche. Per questo le alzate olimpiche potrebbero essere più specifiche dello squat. Pensa allo stacco di testa o alla partenza dello sprint: acceleri fino all'ultimo istante, senza frenare.",
+      "keyPoints": [
+        "Tripla estensione di anche, ginocchia e caviglie",
+        "È lei, non le braccia, a spostare il bilanciere",
+        "Alzate balistiche: massima velocità alla fine dell'estensione",
+        "Squat: si frena alla fine, azione non balistica"
+      ],
+      "analogy": "È come lo stacco di testa: spingi fino all'ultimo centimetro e ti stacchi da terra, senza frenare come alla fine di uno squat.",
+      "check": {
+        "question": "Perché le alzate olimpiche possono essere più specifiche dello squat per lo sport?",
+        "options": [
+          "Perché usano sempre carichi più pesanti",
+          "Perché non coinvolgono le caviglie",
+          "Perché nello squat la parte più veloce è all'inizio",
+          "Perché sono balistiche: non serve frenare alla fine dell'estensione"
+        ],
+        "answer": 3,
+        "explanation": "Nello squat si decelera alla fine; nelle alzate la massima velocità arriva a fine estensione, come nei gesti sportivi."
+      }
+    },
+    {
+      "slide": 13,
+      "title": "Alzate olimpiche e giovani",
+      "narration": "Si possono insegnare le alzate olimpiche ai ragazzi? Vediamo cosa dicono le linee guida. La NSCA sottolinea che i bambini sotto i sette anni dovrebbero fare solo allenamenti adatti alla loro età. Però diversi enti sportivi autorevoli hanno indicato concetti avanzati come sicuri ed efficaci nei programmi dei giovani atleti. Parliamo di pliometria, periodizzazione e sollevamento pesi olimpico. In alcuni paesi i bambini imparano la tecnica delle alzate già a otto anni. Il carico sul bilanciere però si aggiunge solo quando hanno sviluppato la coordinazione corretta. Prima la tecnica, poi il peso. Ci sono anche dati sui risultati. I bambini che eseguono girata, slancio e strappo migliorano velocità e salto dopo un periodo di allenamento. I miglioramenti sono paragonabili a quelli della pliometria e persino maggiori di quelli dell'allenamento con sovraccarichi tradizionale. Quindi il sollevamento pesi non è solo considerato sicuro. Si è dimostrato anche un metodo efficace per aumentare velocità e potenza, in un'ampia gamma di età e livelli di allenamento. C'è però un denominatore comune per una pratica sicura ed efficace. L'allenatore o preparatore deve essere presente in ogni momento. E deve essere competente nell'insegnare i movimenti, o almeno le varianti delle alzate principali. Gli studi da ricordare sono Chaouachi e colleghi del 2013, Lloyd e colleghi del 2012 e Faigenbaum e colleghi del 2009. Nel settore giovanile del calcio, questo significa bastone e tecnica prima del bilanciere carico.",
+      "keyPoints": [
+        "NSCA: sotto i 7 anni solo allenamento adatto all'età",
+        "In alcuni paesi tecnica a 8 anni, carico dopo la coordinazione",
+        "Miglioramenti simili alla pliometria, maggiori dei sovraccarichi tradizionali",
+        "Serve un coach sempre presente e competente"
+      ],
+      "analogy": "È come insegnare il colpo di testa ai pulcini: prima il gesto con un pallone leggero, solo dopo il pallone vero.",
+      "check": {
+        "question": "Nei paesi dove i bambini imparano le alzate a otto anni, quando si aggiunge il carico?",
+        "options": [
+          "Subito, fin dalla prima seduta",
+          "Solo dopo aver sviluppato la coordinazione corretta",
+          "Mai prima dei diciotto anni",
+          "Solo durante le gare"
+        ],
+        "answer": 1,
+        "explanation": "Prima si impara la tecnica; il sovraccarico arriva solo con una coordinazione corretta."
+      }
+    },
+    {
+      "slide": 14,
+      "title": "Riepilogo",
+      "narration": "Facciamo il punto su tutto quello che hai visto. Abbiamo parlato del sollevamento pesi olimpico, il weightlifting, e dei suoi benefici per la prestazione sportiva. Le due alzate di gara sono lo strappo e lo slancio. Sono gesti esplosivi, con carichi alti, molto complessi da imparare, ma si possono spezzare in parti. Poi abbiamo visto il fisico dei pesisti. Braccia corte, gambe corte e busto lungo danno leve più favorevoli e un tragitto più corto del bilanciere. Il test dell'apertura alare ti dice se le braccia di un atleta sono più corte o più lunghe della norma. Ricorda però che si può eccellere anche con fisici diversi. Abbiamo parlato del rischio di infortunio. I dati dicono che è relativamente basso, paragonabile o più favorevole rispetto ad altri allenamenti con i pesi, se ci sono coaching e monitoraggio adeguati. Abbiamo visto come capire se un atleta è pronto per le alzate complete. I tre requisiti sono squat profondo, busto senza troppa inclinazione e braccia sempre sopra la testa. Se mancano, usi le versioni di potenza. Infine i benefici: potenza tra le più alte degli esercizi con sovraccarico, miglioramento del tasso di sviluppo della forza, posizioni simili ai gesti sportivi e tripla estensione balistica. Con i giovani funzionano, se c'è un coach presente e competente. Ora prova il quiz e le flashcard.",
+      "keyPoints": [
+        "Fisico ideale: leve corte, busto lungo",
+        "Rischio basso con coaching e monitoraggio",
+        "Tre requisiti per le alzate complete",
+        "Benefici: potenza, RFD, tripla estensione balistica"
+      ],
+      "analogy": "È come il video di fine partita: rivedi le azioni chiave per fissarle prima della prossima gara.",
+      "check": {
+        "question": "Se un atleta non soddisfa i tre requisiti per le alzate complete, cosa suggerisce la lezione?",
+        "options": [
+          "Eliminare ogni lavoro di potenza",
+          "Usare solo esercizi di isolamento",
+          "Usare le versioni di potenza delle alzate",
+          "Caricare di più per forzare la posizione"
+        ],
+        "answer": 2,
+        "explanation": "Le versioni di potenza evitano squat profondo e overhead squat mantenendo lo schema di movimento."
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Di cosa tratta la presentazione 7.1, in sintesi?",
+      "back": "Fisico dei pesisti, rischi, requisiti e legame tra alzate olimpiche e prestazione sportiva (teoria; la tecnica è nei video).",
+      "part": 0
+    },
+    {
+      "front": "Quali sono le due alzate del weightlifting olimpico?",
+      "back": "Lo strappo (snatch) e lo slancio (clean and jerk).",
+      "part": 1
+    },
+    {
+      "front": "Come ridurre tempo e fatica per imparare le alzate?",
+      "back": "Spezzarle in parti e far eseguire solo alcune fasi.",
+      "part": 1
+    },
+    {
+      "front": "Perché a un pesista conviene essere largo più che lungo?",
+      "back": "Il bilanciere percorre meno strada: vantaggio biomeccanico.",
+      "part": 2
+    },
+    {
+      "front": "Che effetto ha un tendine del bicipite che si estende più lungo l'avambraccio?",
+      "back": "Migliori rotazioni meccaniche.",
+      "part": 2
+    },
+    {
+      "front": "Come si misura l'apertura alare?",
+      "back": "Da un polpastrello all'altro, a braccia distese; si confronta con l'altezza in piedi.",
+      "part": 3
+    },
+    {
+      "front": "Apertura alare maggiore dell'altezza: cosa significa?",
+      "back": "Braccia più lunghe del normale.",
+      "part": 3
+    },
+    {
+      "front": "Quale corporatura favorisce il weightlifting?",
+      "back": "Gambe corte, busto lungo, braccia corte (leve corte, meno lavoro, più sezione trasversa).",
+      "part": 3
+    },
+    {
+      "front": "Con quale screening si valutano i limiti di mobilità e stabilità per le alzate?",
+      "back": "L'overhead squat e test simili.",
+      "part": 4
+    },
+    {
+      "front": "Quali sono i tre requisiti per girata e strappo completi?",
+      "back": "Squat profondo; senza eccessiva inclinazione del busto; braccia sempre sopra la testa.",
+      "part": 5
+    },
+    {
+      "front": "Cosa cambia nelle versioni di potenza?",
+      "back": "Il bilanciere si incastra più in alto: niente squat profondo o overhead squat.",
+      "part": 5
+    },
+    {
+      "front": "Quali studi sono stati inclusi nella revisione sugli infortuni?",
+      "back": "Solo quelli con un tasso di infortuni per 1.000 ore di allenamento.",
+      "part": 6
+    },
+    {
+      "front": "Rischio del weightlifting rispetto ad altri allenamenti con sovraccarichi?",
+      "back": "Paragonabile, se non più favorevole, con coaching e monitoraggio adeguati.",
+      "part": 6
+    },
+    {
+      "front": "In che zona della curva forza-velocità stanno le alzate olimpiche?",
+      "back": "Nella forza-veloce.",
+      "part": 7
+    },
+    {
+      "front": "Cosa ha dimostrato Hoffman con 8 settimane di alzate olimpiche?",
+      "back": "Superiori alla forza tradizionale per la potenza del salto.",
+      "part": 7
+    },
+    {
+      "front": "Quale fase delle alzate somiglia alla posizione atletica?",
+      "back": "La parte alta della seconda tirata.",
+      "part": 8
+    },
+    {
+      "front": "Cos'è la tripla estensione?",
+      "back": "Estensione di anche, ginocchia e caviglie: muove il bilanciere in verticale.",
+      "part": 9
+    },
+    {
+      "front": "Perché lo squat è un'azione non balistica?",
+      "back": "Alla fine bisogna decelerare il bilanciere per evitare blocco forzato e shock articolare.",
+      "part": 9
+    },
+    {
+      "front": "Cosa dice la NSCA sui bambini sotto i 7 anni?",
+      "back": "Solo allenamenti adeguati all'età.",
+      "part": 10
+    },
+    {
+      "front": "Qual è il denominatore comune per alzate sicure con i giovani?",
+      "back": "Un allenatore sempre presente e competente nell'insegnare movimenti o varianti.",
+      "part": 10
+    },
+    {
+      "front": "Quali benefici delle alzate riassume la lezione?",
+      "back": "Alta potenza, tasso di sviluppo della forza, posizioni simili allo sport, tripla estensione balistica.",
+      "part": 11
+    }
+  ],
+  "questions": [
+    {
+      "question": "Lo slancio olimpico in inglese si chiama:",
+      "options": [
+        "Snatch",
+        "Clean and jerk",
+        "Power clean",
+        "Push press"
+      ],
+      "answer": 1,
+      "explanation": "Lo slancio è il clean and jerk; lo strappo è lo snatch.",
+      "part": 1
+    },
+    {
+      "question": "Quale caratteristica fisica è tipica dei pesisti olimpici di alto livello?",
+      "options": [
+        "Braccia più lunghe della media",
+        "Avambracci lunghi e sottili",
+        "Gambe lunghe e busto corto",
+        "Braccia più corte della media"
+      ],
+      "answer": 3,
+      "explanation": "La maggior parte dei pesisti d'élite ha braccia più corte rispetto alla popolazione normale.",
+      "part": 3
+    },
+    {
+      "question": "Nel test dell'apertura alare, un valore uguale all'altezza in piedi indica:",
+      "options": [
+        "Braccia nella norma",
+        "Braccia più corte",
+        "Braccia più lunghe",
+        "Busto più lungo"
+      ],
+      "answer": 0,
+      "explanation": "Apertura alare pari all'altezza in piedi è considerata normale.",
+      "part": 3
+    },
+    {
+      "question": "Perché gli arti corti danno un vantaggio nel weightlifting?",
+      "options": [
+        "Aumentano la mobilità delle spalle",
+        "Migliorano la resistenza aerobica",
+        "Leve più corte, meno lavoro e più sezione trasversa del muscolo",
+        "Riducono il bisogno di tecnica"
+      ],
+      "answer": 2,
+      "explanation": "Leve corte, tragitto minore del bilanciere e maggiore sezione trasversa favoriscono la produzione di forza.",
+      "part": 3
+    },
+    {
+      "question": "Quale di questi NON è un argomento dei critici delle alzate olimpiche negli altri sport?",
+      "options": [
+        "Movimenti molto complessi",
+        "Forze e velocità elevate",
+        "Molto tempo per raggiungere la competenza",
+        "Non sviluppano alcuna qualità fisica utile"
+      ],
+      "answer": 3,
+      "explanation": "Anche la lezione riconosce che sviluppano molte qualità fisiche trasferibili; i critici puntano su rischio, complessità e tempo.",
+      "part": 4
+    },
+    {
+      "question": "Quale NON è uno dei tre requisiti per girata e strappo completi?",
+      "options": [
+        "Squat profondo",
+        "Busto senza eccessiva inclinazione in avanti",
+        "Saper staccare da terra il doppio del peso corporeo",
+        "Braccia sopra la testa per tutta l'esecuzione"
+      ],
+      "answer": 2,
+      "explanation": "I tre criteri sono squat profondo, busto controllato e braccia sempre sopra la testa.",
+      "part": 5
+    },
+    {
+      "question": "Qualsiasi variante delle alzate olimpiche, per dare il massimo beneficio, dovrebbe:",
+      "options": [
+        "Imitare lo schema di movimento dell'alzata originale",
+        "Usare sempre carichi massimali",
+        "Eliminare la tripla estensione",
+        "Essere eseguita lentamente"
+      ],
+      "answer": 0,
+      "explanation": "Le modifiche vanno bene se mantengono lo schema di movimento delle alzate principali.",
+      "part": 5
+    },
+    {
+      "question": "Nella revisione sugli infortuni sono stati inclusi solo gli studi che:",
+      "options": [
+        "Riguardavano atleti professionisti",
+        "Calcolavano un tasso di infortuni per 1.000 ore di allenamento",
+        "Duravano più di dieci anni",
+        "Studiavano solo il weightlifting"
+      ],
+      "answer": 1,
+      "explanation": "Il criterio era la presenza di un tasso di infortuni ogni 1.000 ore di allenamento.",
+      "part": 6
+    },
+    {
+      "question": "Rispetto al tempo di gara e di allenamento sul campo, gli infortuni nell'allenamento con sovraccarichi sono:",
+      "options": [
+        "Molto più frequenti",
+        "Uguali",
+        "Relativamente pochi",
+        "Mai registrati"
+      ],
+      "answer": 2,
+      "explanation": "L'incidenza in sala pesi è relativamente bassa rispetto a gara e campo.",
+      "part": 6
+    },
+    {
+      "question": "Le alzate olimpiche si collocano soprattutto in quale zona della curva forza-velocità?",
+      "options": [
+        "Velocità-forza con carichi minimi",
+        "Forza massima isometrica",
+        "Resistenza alla forza",
+        "Forza-veloce"
+      ],
+      "answer": 3,
+      "explanation": "Spostare carichi pesanti il più velocemente possibile le colloca nella forza-veloce.",
+      "part": 7
+    },
+    {
+      "question": "Quali studi collegano le alzate olimpiche al miglioramento del tasso di sviluppo della forza?",
+      "options": [
+        "Chaouachi 2013 e Lloyd 2012",
+        "Hoffman 2004 e Hori 2005, 2008",
+        "Faigenbaum 2009 e Keogh 2006",
+        "Calhoun 1999 e Hak 2013"
+      ],
+      "answer": 1,
+      "explanation": "La lezione cita Hoffman et al. 2004 e Hori et al. 2005 e 2008 per il rate of force development.",
+      "part": 7
+    },
+    {
+      "question": "Durante strappo e girata, qual è il fattore chiave che sposta il bilanciere in verticale?",
+      "options": [
+        "La tripla estensione di anche, ginocchia e caviglie",
+        "La tirata delle braccia",
+        "La rotazione del busto",
+        "La presa larga"
+      ],
+      "answer": 0,
+      "explanation": "Sembra che lavorino le braccia, ma è la tripla estensione a decidere se l'alzata riesce.",
+      "part": 9
+    },
+    {
+      "question": "Rispetto ai programmi tradizionali con sovraccarichi, nei bambini girata, slancio e strappo hanno dato miglioramenti di velocità e salto:",
+      "options": [
+        "Minori",
+        "Nulli",
+        "Maggiori",
+        "Solo nei maschi"
+      ],
+      "answer": 2,
+      "explanation": "Paragonabili alla pliometria e persino maggiori dell'allenamento con sovraccarichi tradizionale.",
+      "part": 10
+    },
+    {
+      "question": "Secondo la lezione, quale condizione accomuna una pratica sicura delle alzate con i giovani?",
+      "options": [
+        "Usare solo macchine guidate",
+        "Iniziare dopo i sedici anni",
+        "Allenarsi solo in gruppo",
+        "Un coach presente in ogni momento e competente"
+      ],
+      "answer": 3,
+      "explanation": "Chaouachi 2013, Lloyd 2012 e Faigenbaum 2009: serve un allenatore sempre presente e competente.",
+      "part": 10
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Screening prima delle alzate",
+      "prompt": "Arrivano in pre-campionato tre calciatori nuovi. Vuoi inserire la girata nella loro scheda. Descrivi come decidi se possono fare la girata completa o se è meglio una variante, e cosa proponi a chi non supera i controlli.",
+      "modelAnswer": "Prima faccio lo screening dell'overhead squat e test simili. Controllo i tre requisiti: squat profondo, busto senza eccessiva inclinazione in avanti, braccia che restano sopra la testa per tutto il movimento. Chi li soddisfa tutti e tre può imparare girata e strappo completi, con progressione e la mia supervisione costante. Chi non li soddisfa, magari per caviglie o anche rigide, lavora con le versioni di potenza, come la power clean: il bilanciere si incastra più in alto e non serve lo squat profondo. In ogni caso la variante deve imitare lo schema di movimento dell'alzata, soprattutto la tripla estensione esplosiva. Posso anche spezzare l'alzata in parti per risparmiare tempo di apprendimento."
+    },
+    {
+      "title": "Rispondi al direttore sportivo",
+      "prompt": "Il direttore sportivo ti dice: \"Le alzate olimpiche sono pericolose e i ragazzi dovrebbero fare solo squat. Perché le metti nel programma?\" Rispondi con gli argomenti della lezione.",
+      "modelAnswer": "Gli spiego che gli studi indicano un rischio di infortunio relativamente basso: il weightlifting è paragonabile, se non più favorevole, ad altri allenamenti con sovraccarichi, a patto di coaching e monitoraggio adeguati. In più ci si fa male molto più in partita e in campo che in palestra. Sul piano dei benefici, slancio e strappo producono tra i livelli di potenza più alti degli esercizi con sovraccarico e lavorano nella forza-veloce. Hoffman ha mostrato che 8 settimane di alzate migliorano la potenza del salto più della forza tradizionale. Lo squat sviluppa forza ma va frenato alla fine; le alzate sono balistiche come scatti e salti. Userò comunque varianti di potenza per chi non ha i requisiti."
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "version": 1,
+  "code": "5.1",
+  "unit": 5,
+  "title": "Aspetti neuromuscolari dell'ipertrofia",
+  "summary": "Come si contrae un muscolo, quali tipi di fibre abbiamo e come l'allenamento della forza cambia sistema nervoso e muscolo. Poi la base di tutta l'ipertrofia: l'equilibrio tra sintesi e disgregazione delle proteine muscolari.",
+  "parts": [
+    {
+      "slide": 3,
+      "title": "Di cosa parliamo",
+      "narration": "Benvenuto nella prima lezione sull'ipertrofia. Prima di parlare di serie, ripetizioni e carichi, devi capire cosa succede dentro il corpo. Per questo partiamo dalle basi. Oggi guardiamo tre cose. La prima è la contrazione muscolare: come un ordine del sistema nervoso diventa movimento. La seconda sono le fibre muscolari: non sono tutte uguali e non crescono tutte allo stesso modo. La terza è l'equilibrio proteico, cioè il rapporto tra le proteine che il muscolo costruisce e quelle che smonta. Vedremo anche come l'allenamento della forza modifica questi fattori neuromuscolari. Il punto è semplice. Il muscolo si muove perché il sistema nervoso lo comanda. Il muscolo cresce se costruisce più proteine di quante ne perde. Nervi e muscoli lavorano insieme, e l'allenamento agisce su entrambi. Ti sembrerà un po' di fisiologia teorica, ma ti serve in campo. Se sai perché un muscolo cresce, sai anche scegliere meglio un esercizio, capire perché un ragazzo migliora subito nelle prime settimane e perché una dieta troppo stretta gli fa perdere massa. Pensa a questa lezione come al riscaldamento prima della partita. Non è la parte più spettacolare, ma senza di essa il resto non funziona bene. Nelle prossime lezioni entreremo nei dettagli dei fattori che fanno crescere il muscolo. Tutti però torneranno sempre qui: al sistema nervoso, alle fibre e alle proteine. Tieni a mente queste tre parole chiave e seguimi passo dopo passo.",
+      "keyPoints": [
+        "Tre temi: contrazione, tipi di fibre, equilibrio proteico",
+        "L'allenamento della forza cambia i fattori neuromuscolari",
+        "L'equilibrio proteico è essenziale per l'ipertrofia"
+      ],
+      "analogy": "È come il riscaldamento prima della partita: non è la parte spettacolare, ma prepara tutto quello che viene dopo.",
+      "check": {
+        "question": "Quale fattore viene indicato come essenziale per l'ipertrofia in questa lezione?",
+        "options": [
+          "La flessibilità articolare",
+          "L'equilibrio proteico",
+          "La capacità aerobica",
+          "La densità ossea"
+        ],
+        "answer": 1,
+        "explanation": "La lezione presenta l'equilibrio tra sintesi e disgregazione proteica come base dell'ipertrofia."
+      }
+    },
+    {
+      "slide": 4,
+      "title": "Che cos'è l'ipertrofia",
+      "narration": "Partiamo dalla definizione. Ipertrofia vuol dire, in parole semplici, che il muscolo diventa più grande. A noi interessa il muscolo scheletrico, quello che muove le ossa e che alleniamo in palestra. Tanti atleti e clienti vogliono più massa muscolare. Per questo un preparatore deve sapere bene cos'è l'ipertrofia, come nasce e come si allena. I benefici sono tanti, sia per chi fa sport sia per chi non lo fa. Ma i motivi più comuni sono due. Il primo: più muscolo permette di produrre più forza. Il secondo: l'estetica, cioè un corpo asciutto e muscoloso. Attenzione però. Più massa non è sempre meglio, e non tutti vogliono crescere tanto. Ogni sport ha bisogno di una quantità diversa di ipertrofia. Pensa a tre atleti. Phil Heath è un culturista americano: per lui la massa è tutto. Ben Cousins è un giocatore di football australiano: gli serve muscolo, ma deve anche correre. Mo Farah è un fondista britannico: anche lui si è allenato e ha avuto ipertrofia, ma molto meno. Per lui tanta massa sarebbe solo un peso in più da portare per chilometri. Tutti e tre hanno avuto ipertrofia, ma a livelli molto diversi. Il messaggio per te è chiaro. Prima di allenare la massa, chiediti quanta ne serve davvero a quell'atleta nel suo sport. Un difensore centrale e un esterno che corre tutta la fascia non avranno lo stesso obiettivo.",
+      "keyPoints": [
+        "Ipertrofia: aumento delle dimensioni del muscolo scheletrico",
+        "Motivi principali: più forza ed estetica",
+        "Ogni sport richiede un livello diverso di ipertrofia",
+        "Per un fondista la massa extra è peso da trasportare"
+      ],
+      "analogy": "È come lo zaino in trasferta: per un viaggio breve puoi portare tanto, per una lunga camminata ogni chilo in più pesa.",
+      "check": {
+        "question": "Perché a Mo Farah non conviene avere molta massa muscolare?",
+        "options": [
+          "Perché il muscolo grande non produce forza",
+          "Perché i fondisti non hanno fibre di tipo 2",
+          "Perché sarebbe peso extra da portare su lunghe distanze",
+          "Perché l'ipertrofia riduce la flessibilità"
+        ],
+        "answer": 2,
+        "explanation": "Nella corsa di fondo la massa in più diventa un carico da trasportare per molti chilometri."
+      }
+    },
+    {
+      "slide": 5,
+      "title": "Dal nervo al muscolo: l'unità motoria",
+      "narration": "Senza contrazione non c'è movimento. Senza movimento non c'è allenamento della forza. E senza allenamento non c'è crescita muscolare. Per questo ripassiamo come si contrae un muscolo, un tema già visto nel modulo di valutazione funzionale. Il muscolo scheletrico lo comandi tu, in modo volontario. Il controllo spetta al sistema nervoso somatico. Ecco i passaggi. Decidi di muoverti. Il cervello o il midollo spinale manda un segnale. Questo segnale corre lungo una catena di cellule nervose chiamate motoneuroni. Il segnale ha un nome preciso: potenziale d'azione. Viaggia lungo il motoneurone finché arriva al muscolo. Ora il concetto chiave. Ogni motoneurone è collegato a un gruppo di fibre muscolari. Il motoneurone più le sue fibre formano l'unità motoria. Quando il segnale arriva, tutte le fibre di quell'unità si contraggono insieme. Non ne lavora solo una parte. Però una sola unità motoria non basta per muovere un arto o un bilanciere. Per produrre abbastanza forza devono attivarsi molte unità motorie nello stesso momento. Più forza ti serve, più unità devi accendere. Pensa a quando calci un pallone da fermo. Il cervello invia l'ordine, i motoneuroni lo portano a quadricipiti e flessori dell'anca, e tante unità motorie si attivano insieme per dare potenza al tiro. Ricorda questi tre termini: motoneurone, potenziale d'azione e unità motoria. Torneranno spesso quando parleremo di reclutamento.",
+      "keyPoints": [
+        "Contrazione volontaria: controllo del sistema nervoso somatico",
+        "Il segnale (potenziale d'azione) viaggia lungo i motoneuroni",
+        "Unità motoria: un motoneurone più le fibre collegate",
+        "Tutte le fibre dell'unità si contraggono insieme",
+        "Servono molte unità attive insieme per muoversi"
+      ],
+      "analogy": "L'unità motoria è come un reparto della squadra: quando il mister chiama la difesa alta, tutti i difensori salgono insieme, non uno solo.",
+      "check": {
+        "question": "Che cos'è un'unità motoria?",
+        "options": [
+          "Un motoneurone insieme alle fibre muscolari a cui è collegato",
+          "Un singolo sarcomero con actina e miosina",
+          "L'insieme dei muscoli di un arto",
+          "Il tratto di midollo spinale che comanda un muscolo"
+        ],
+        "answer": 0,
+        "explanation": "Un motoneurone e tutte le fibre che innerva formano l'unità motoria."
+      }
+    },
+    {
+      "slide": 6,
+      "title": "Actina, miosina e filamenti che scorrono",
+      "narration": "Ora entriamo dentro la fibra muscolare. Ogni fibra contiene tantissime miofibrille: da qualche centinaio fino a qualche migliaio. Dentro le miofibrille ci sono i sarcomeri. Il sarcomero è la piccola unità che si accorcia davvero. Contiene le parti contrattili del muscolo: due filamenti di proteine, l'actina e la miosina. Vediamo la sequenza. Il potenziale d'azione arriva alla fibra. La fibra allora libera calcio dentro le miofibrille. Il calcio fa una cosa precisa: scopre un sito di legame sul filamento di actina. A quel punto la miosina si aggancia a quel sito. Tira l'actina verso il centro del sarcomero. Poi la lascia. E ricomincia: aggancia, tira, lascia. Questo ciclo si ripete tante volte. Così il sarcomero si accorcia un po' alla volta e il muscolo si contrae. Le estremità del sarcomero si avvicinano tra loro. Questo meccanismo si chiama teoria dei filamenti scorrevoli. I filamenti non si accorciano: scorrono uno sull'altro. Pensa alla velocità di tutto questo. In uno scatto di pochi metri succedono milioni di questi cicli in una frazione di secondo. Il corpo è davvero una macchina biologica complessa. Per l'esame ricorda bene l'ordine dei passaggi: segnale nervoso, rilascio di calcio, sito di legame scoperto sull'actina, aggancio della miosina, trazione verso il centro, rilascio. E ricorda dove avviene tutto: nei sarcomeri, dentro le miofibrille.",
+      "keyPoints": [
+        "Ogni fibra: da centinaia a migliaia di miofibrille",
+        "Nei sarcomeri ci sono actina e miosina",
+        "Il calcio scopre il sito di legame sull'actina",
+        "La miosina aggancia, tira verso il centro e rilascia",
+        "Teoria dei filamenti scorrevoli"
+      ],
+      "analogy": "È come tirare una fune a mani alternate nel tiro alla fune: afferri, tiri, lasci e riafferri, e la corda avanza un pezzo alla volta.",
+      "check": {
+        "question": "Che ruolo ha il calcio nella contrazione?",
+        "options": [
+          "Fornisce energia diretta alla miosina",
+          "Accorcia i filamenti di actina",
+          "Trasporta il segnale lungo il motoneurone",
+          "Scopre il sito di legame sull'actina"
+        ],
+        "answer": 3,
+        "explanation": "Il calcio liberato rende disponibile il sito sull'actina a cui si aggancia la miosina."
+      }
+    },
+    {
+      "slide": 7,
+      "title": "I tre tipi di fibre",
+      "narration": "Per l'ipertrofia i tipi di fibra contano molto. Ne abbiamo tre principali: tipo 1, tipo 2a e tipo 2x, chiamato anche 2b. Tipo 1: fibre lente. Arrivano tardi al picco di tensione. Vanno bene per contrazioni lente, come camminare, non per uno sprint. Però resistono tantissimo alla fatica e lavorano per ore. Hanno motoneurone piccolo, potenza bassa, tanti mitocondri e tanti capillari. Capacità ossidativa alta, glicolitica bassa. Lavorano in modo aerobico e la loro riserva principale sono i trigliceridi. Tipo 2a: fibre intermedie. Più rapide delle tipo 1, meno delle 2x. Resistono un po' meno alla fatica delle tipo 1, ma fanno più forza. Motoneurone medio, potenza media. Mitocondri alti, capillari intermedi. Alte sia la capacità ossidativa sia quella glicolitica. Lavoro anaerobico di lunga durata, fino a meno di 30 minuti. Riserve: creatina fosfato e glicogeno. Tipo 2x o 2b: le più veloci. Fanno tanta forza in pochissimo tempo, con potenza molto alta. Motoneurone molto grande. Ma si stancano presto e reggono meno di un minuto. Pochi mitocondri e capillari, capacità ossidativa bassa, glicolitica alta. Lavoro anaerobico breve, riserve di creatina fosfato e glicogeno. Un esempio: perché il record dei 400 metri non è il tempo dei 100 moltiplicato per quattro? Perché le fibre rapide che danno la partenza esplosiva iniziano ad affaticarsi. Così l'atleta è costretto a rallentare nella seconda parte della gara.",
+      "keyPoints": [
+        "Tipo 1: lente, resistenti, aerobiche, durano ore",
+        "Tipo 2a: intermedie, durata sotto i 30 minuti",
+        "Tipo 2x (2b): rapidissime, potenti, durano sotto 1 minuto",
+        "Il 400 metri mostra la fatica delle fibre rapide"
+      ],
+      "analogy": "Tipo 1 è il mediano che corre 90 minuti, tipo 2x è l'attaccante che brucia tutto in uno scatto, tipo 2a sta in mezzo.",
+      "check": {
+        "question": "Quale fibra ha come principale energia immagazzinata i trigliceridi?",
+        "options": [
+          "Tipo 2x",
+          "Tipo 2a",
+          "Tipo 1",
+          "Tipo 2b"
+        ],
+        "answer": 2,
+        "explanation": "Le fibre di tipo 1, aerobiche e ossidative, usano soprattutto i trigliceridi come riserva."
+      }
+    },
+    {
+      "slide": 8,
+      "title": "Fibre diverse, crescita diversa",
+      "narration": "Le persone sono molto diverse tra loro nella distribuzione delle fibre. Le ricerche mostrano che i velocisti hanno tante fibre di tipo 2 nei quadricipiti. Gli atleti di resistenza, nello stesso muscolo, hanno invece una percentuale più alta di fibre di tipo 1. Anche alcuni muscoli hanno una loro tendenza. Soleo e gastrocnemio, i muscoli del polpaccio, lavorano quasi sempre: quando cammini, quando stai in piedi, in ogni movimento che usa i piedi. Devono resistere alla fatica. Per questo hanno una percentuale alta di fibre di tipo 1. Ora il punto più importante per l'ipertrofia. Le fibre più ossidative crescono meno. Quindi le fibre di tipo 1 hanno una capacità di crescita più limitata rispetto alle 2a, e soprattutto rispetto alle 2x. Un dato da ricordare per l'esame: le fibre di tipo 2 hanno una capacità di crescere maggiore del 50% rispetto alle fibre di tipo 1. Attenzione però: tra una persona e l'altra ci sono grandi differenze. E tutte le fibre possono andare in ipertrofia, anche le tipo 1. Ma se il tuo obiettivo è aumentare il più possibile la massa con un allenamento specifico, il bersaglio principale devono essere le fibre di tipo 2. In pratica, per un calciatore che deve mettere su massa nelle gambe, conviene un lavoro che coinvolga davvero le fibre rapide, non solo tanta corsa lenta.",
+      "keyPoints": [
+        "Velocisti: molte fibre di tipo 2 nei quadricipiti",
+        "Soleo e gastrocnemio: alta percentuale di tipo 1",
+        "Le fibre più ossidative crescono meno",
+        "Tipo 2: capacità di crescita maggiore del 50% rispetto al tipo 1",
+        "Per massimizzare la massa, puntare sulle fibre di tipo 2"
+      ],
+      "analogy": "È come scegliere su quali giocatori investire per migliorare la squadra: puoi far crescere tutti, ma alcuni hanno più margine.",
+      "check": {
+        "question": "Di quanto è maggiore la capacità di crescita delle fibre di tipo 2 rispetto alle tipo 1?",
+        "options": [
+          "Oltre il 50%",
+          "Circa il 10%",
+          "Circa il 25%",
+          "Oltre il 200%"
+        ],
+        "answer": 0,
+        "explanation": "La ricerca citata indica una capacità di crescita maggiore del 50% per le fibre di tipo 2."
+      }
+    },
+    {
+      "slide": 9,
+      "title": "Prima i nervi, poi il muscolo",
+      "narration": "Muoversi, e quindi allenare la forza, dipende da due fattori: il muscolo e il sistema nervoso. Per questo l'allenamento della forza produce adattamenti in tutti e due. Entrambi ti fanno diventare più forte. Ma non arrivano nello stesso momento. All'inizio di un nuovo programma, i primi guadagni di forza arrivano soprattutto dagli adattamenti neurali. Il motivo principale è l'apprendimento motorio. Il sistema nervoso prende confidenza con il gesto e si organizza in modo più efficiente. Prendi la panca piana. La prima volta che un atleta la prova, il gesto è instabile e il bilanciere non sale dritto. Dopo qualche seduta il movimento diventa fluido e l'atleta solleva più peso. In così poco tempo il muscolo non è cresciuto in modo apprezzabile. Il miglioramento viene dal sistema nervoso, che ha imparato lo schema e manda i segnali in modo più efficace. E l'ipertrofia quando arriva? Di solito servono un paio di mesi perché si veda bene. Però qualche cambiamento nelle dimensioni del muscolo si può notare già dopo alcune settimane di allenamento costante. Questo ti serve molto con gli atleti. Un ragazzo che migliora tanto nelle prime settimane sta soprattutto imparando il gesto. Non illuderti, e non illuderlo, che abbia già messo su chili di muscolo. Spiegaglielo: è normale, ed è il primo passo per crescere davvero.",
+      "keyPoints": [
+        "L'allenamento della forza adatta sia nervi sia muscoli",
+        "I primi guadagni di forza sono soprattutto neurali",
+        "Motivo: apprendimento motorio e maggiore efficienza",
+        "Ipertrofia evidente dopo un paio di mesi",
+        "Primi cambiamenti di volume dopo alcune settimane"
+      ],
+      "analogy": "È come un nuovo schema su punizione: le prime volte è confuso, dopo qualche allenamento esce pulito anche se i giocatori sono gli stessi.",
+      "check": {
+        "question": "Da cosa dipendono soprattutto gli aumenti di forza nelle prime settimane di un programma?",
+        "options": [
+          "Dall'aumento della massa muscolare",
+          "Dall'aumento delle fibre di tipo 1",
+          "Dagli adattamenti neurali",
+          "Dalla maggiore densità capillare"
+        ],
+        "answer": 2,
+        "explanation": "All'inizio il sistema nervoso impara il gesto e si organizza meglio, prima che il muscolo cresca."
+      }
+    },
+    {
+      "slide": 10,
+      "title": "Reclutamento e frequenza di scarica",
+      "narration": "In questo modulo vediamo quasi tutti gli adattamenti neurali, perché nervi e ipertrofia lavorano insieme per aumentare la forza. Gli adattamenti neurali aiutano anche la crescita del muscolo. Ti permettono di sollevare carichi più alti, e un carico più alto dà uno stimolo di crescita più forte. Un esempio importante è l'aumento dell'attivazione muscolare. L'attivazione nasce da due elementi. Il primo è il reclutamento: quante fibre muscolari usi in una contrazione. Il secondo è la frequenza di scarica, in inglese rate coding: quanto spesso vengono stimolate le unità motorie. Perché il reclutamento conta per l'ipertrofia? Perché una fibra si adatta solo se viene reclutata. Una fibra che resta spenta non riceve lo stimolo per crescere. Più fibre recluti, più fibre possono adattarsi. E la frequenza di scarica? Se le unità motorie ricevono stimoli più frequenti, producono più forza. Così il muscolo può fare più lavoro. E più lavoro significa più stimolo per adattarsi, cioè diventare più grande e più forte. Riassumendo: attivazione uguale reclutamento più frequenza di scarica. Reclutamento è la quantità di fibre attivate. Frequenza di scarica è il ritmo con cui le unità motorie vengono stimolate. Pensa a uno squat pesante: per spingere il bilanciere il sistema nervoso deve accendere tante unità motorie e stimolarle velocemente. È proprio questo che dà al muscolo il segnale per crescere.",
+      "keyPoints": [
+        "Attivazione = reclutamento + frequenza di scarica",
+        "Reclutamento: quantità di fibre attivate in una contrazione",
+        "Rate coding: frequenza di stimolazione delle unità motorie",
+        "Una fibra si adatta solo se viene reclutata",
+        "Più forza e più lavoro danno più stimolo di crescita"
+      ],
+      "analogy": "Il reclutamento è quanti giocatori metti in pressing, la frequenza di scarica è quanto velocemente aggrediscono: servono entrambi per recuperare palla.",
+      "check": {
+        "question": "Che cos'è il rate coding?",
+        "options": [
+          "Il numero di fibre attivate in una contrazione",
+          "La frequenza con cui vengono stimolate le unità motorie",
+          "La velocità di accorciamento del sarcomero",
+          "Il tempo per raggiungere il picco di tensione"
+        ],
+        "answer": 1,
+        "explanation": "Rate coding, o frequenza di scarica, è il ritmo di stimolazione delle unità motorie."
+      }
+    },
+    {
+      "slide": 11,
+      "title": "Equilibrio proteico: costruire e smontare",
+      "narration": "Il tuo corpo rinnova di continuo le sue proteine. Questo si chiama turnover proteico. Da una parte c'è la sintesi proteica muscolare, cioè costruire nuove proteine. Dall'altra la disgregazione proteica muscolare, cioè smontarle. Il rapporto tra le due decide se una persona guadagna o perde massa muscolare. In una giornata normale il corpo tiene in pari sintesi e disgregazione. Così la massa resta la stessa. Quando sei nutrito, cioè hai mangiato, prevale la sintesi. Quando sei a digiuno, prevale la disgregazione. È un equilibrio che si muove durante il giorno. Ed è proprio su questo equilibrio che devi agire per ottenere ipertrofia. Per far crescere il muscolo, la sintesi deve superare la disgregazione. Non basta che si pareggino. Se invece la disgregazione supera la sintesi, la persona perde muscolo. Ecco perché chi segue diete con pochissime calorie spesso perde molta massa muscolare. In quei regimi aumentano i periodi di digiuno e quindi aumenta la disgregazione. Per un calciatore questo è un messaggio pratico. Se in preparazione un ragazzo taglia troppo le calorie per dimagrire in fretta, rischia di perdere proprio il muscolo che gli serve per scattare e contrastare. Ricorda tre situazioni. Sintesi uguale a disgregazione: mantieni. Sintesi maggiore: cresci. Disgregazione maggiore: perdi. Tutto il lavoro per l'ipertrofia serve a spostare la bilancia dalla parte della sintesi.",
+      "keyPoints": [
+        "Turnover proteico: sintesi e disgregazione sempre attive",
+        "Nutrito: prevale la sintesi; digiuno: prevale la disgregazione",
+        "Ipertrofia solo se la sintesi supera la disgregazione",
+        "Diete ipocaloriche estreme fanno perdere molto muscolo"
+      ],
+      "analogy": "È come la differenza reti: se segni quanto subisci resti in pari, per salire in classifica devi segnare più di quanto incassi.",
+      "check": {
+        "question": "Cosa serve perché si verifichi ipertrofia?",
+        "options": [
+          "Che sintesi e disgregazione si bilancino",
+          "Che la disgregazione superi la sintesi",
+          "Che si allunghino i periodi di digiuno",
+          "Che la sintesi superi la disgregazione"
+        ],
+        "answer": 3,
+        "explanation": "Solo quando si costruiscono più proteine di quante se ne smontano il muscolo cresce."
+      }
+    },
+    {
+      "slide": 12,
+      "title": "Come nasce una proteina",
+      "narration": "Abbiamo detto che per avere ipertrofia bisogna aumentare la sintesi proteica. Ma come si costruisce una proteina? Il processo ha due fasi principali: trascrizione e traduzione. Prima fase, la trascrizione. Dentro la cellula, a partire dal DNA, si crea l'RNA messaggero. L'RNA messaggero porta la sequenza di una proteina specifica. È come una copia della ricetta, presa dal grande libro del DNA. Seconda fase, la traduzione. L'RNA messaggero si lega ai ribosomi della cellula. I ribosomi leggono le istruzioni e costruiscono la proteina corrispondente. Ora un dettaglio importante. Sia la trascrizione sia la traduzione hanno diverse tappe. E ogni tappa è regolata e controllata da altre proteine del corpo, le proteine regolatrici. Non serve entrare nella biologia cellulare più fine. Ti basta il concetto. La velocità con cui il muscolo produce proteine dipende da quante proteine regolatrici ci sono e da quanto sono attive. Se sono tante e attive, sei nella condizione migliore per costruire proteine e far crescere la massa muscolare. Se mancano o sono poco attive, lo stimolo per crescere diventa difficile da sfruttare. Per l'esame fissa la sequenza: DNA, trascrizione, RNA messaggero, ribosomi, traduzione, proteina. E ricorda che a decidere la velocità del processo sono la disponibilità e lo stato di attivazione delle proteine regolatrici.",
+      "keyPoints": [
+        "Sintesi proteica: trascrizione e traduzione",
+        "Trascrizione: dal DNA si crea l'RNA messaggero",
+        "Traduzione: l'RNA messaggero si lega ai ribosomi",
+        "Proteine regolatrici disponibili e attive decidono la velocità"
+      ],
+      "analogy": "Il DNA è il libro degli schemi del mister, l'RNA messaggero è il foglio con lo schema del giorno, i ribosomi sono i giocatori che lo eseguono in campo.",
+      "check": {
+        "question": "In quale fase l'RNA messaggero si lega ai ribosomi?",
+        "options": [
+          "Trascrizione",
+          "Traduzione",
+          "Disgregazione",
+          "Contrazione"
+        ],
+        "answer": 1,
+        "explanation": "Nella traduzione i ribosomi leggono l'RNA messaggero e costruiscono la proteina."
+      }
+    },
+    {
+      "slide": 13,
+      "title": "Allenamento e sintesi proteica",
+      "narration": "Nelle prossime lezioni vedremo tanti fattori che influenzano l'ipertrofia. Ma alla fine tutto passa da un solo punto: la sintesi proteica. Tutto ciò che aiuta la crescita, come il cibo o l'allenamento con i pesi, funziona spostando l'equilibrio proteico. Può farlo in tre modi: aumentando la sintesi, riducendo la disgregazione, oppure facendo entrambe le cose. Per questo devi conoscere bene la fisiologia. I risultati che vedi dopo un programma, che siano estetici o di prestazione, dipendono tutti da un corpo che funziona meglio e produce più proteine. Ora un fatto che sembra strano. Durante una seduta con i pesi la disgregazione proteica aumenta. Sembra un problema, vero? In realtà è solo metà della storia. Dopo l'allenamento la sintesi proteica sale di circa 2-5 volte. Le ricerche mostrano che questa sintesi stimolata dall'esercizio è legata a una maggiore efficienza della traduzione, cioè della fase in cui i ribosomi costruiscono le proteine. Il cuore dell'allenamento per l'ipertrofia è quindi una risposta della cellula. L'allenamento manda un segnale che dice: produci più proteine. Ricordalo bene. Ogni fattore che studieremo dipende dall'equilibrio proteico. Se sposti la bilancia verso la sintesi, puoi aumentare la massa muscolare. In pratica la seduta in palestra è lo stimolo, ma la crescita vera avviene nelle ore dopo, quando il corpo ricostruisce.",
+      "keyPoints": [
+        "Ogni fattore dell'ipertrofia agisce sull'equilibrio proteico",
+        "Durante la seduta la disgregazione aumenta",
+        "Dopo l'allenamento la sintesi sale di circa 2-5 volte",
+        "Sintesi da esercizio legata a maggiore efficienza di traduzione"
+      ],
+      "analogy": "È come il campo dopo la partita: durante il match si rovina, ma poi il giardiniere lo rizolla e torna meglio di prima.",
+      "check": {
+        "question": "Di quanto aumenta circa la sintesi proteica dopo un allenamento con i pesi?",
+        "options": [
+          "Di circa 10-20 volte",
+          "Di circa il 10%",
+          "Di circa 2-5 volte",
+          "Non cambia, aumenta solo la disgregazione"
+        ],
+        "answer": 2,
+        "explanation": "Dopo la seduta la sintesi proteica sale di circa 2-5 volte, nonostante l'aumento della disgregazione durante."
+      }
+    },
+    {
+      "slide": 14,
+      "title": "Riepilogo",
+      "narration": "Facciamo il punto su questa lezione. Abbiamo guardato gli aspetti neuromuscolari dell'allenamento per l'ipertrofia, in tre blocchi. Primo blocco: la contrazione muscolare. Il sistema nervoso somatico manda un potenziale d'azione lungo i motoneuroni. Ogni motoneurone con le sue fibre forma un'unità motoria, e le sue fibre si contraggono tutte insieme. Dentro le fibre, nei sarcomeri, il calcio scopre il sito sull'actina, la miosina aggancia, tira e lascia. È la teoria dei filamenti scorrevoli. Secondo blocco: i tipi di fibre. Tipo 1 lente e resistenti, tipo 2a intermedie, tipo 2x rapide, potenti ma poco resistenti. Le fibre di tipo 2 hanno una capacità di crescita maggiore del 50% rispetto alle tipo 1, quindi sono il bersaglio principale se vuoi massa. Abbiamo visto anche gli adattamenti neurali. All'inizio la forza cresce soprattutto per apprendimento motorio. L'ipertrofia si vede bene dopo un paio di mesi. L'attivazione dipende da reclutamento e frequenza di scarica. Terzo blocco: l'equilibrio proteico. Il muscolo cresce solo se la sintesi supera la disgregazione. La sintesi passa da trascrizione e traduzione, guidate dalle proteine regolatrici. Dopo l'allenamento la sintesi sale di circa 2-5 volte. Se dovessi spiegarlo a un compagno di squadra in una frase: il nervo accende il muscolo, le fibre rapide crescono di più, e il muscolo cresce solo quando costruisce più di quanto smonta. Ottimo lavoro, sei pronto per la prossima lezione.",
+      "keyPoints": [
+        "Contrazione: dal nervo all'unità motoria ai sarcomeri",
+        "Fibre di tipo 2: bersaglio principale per la massa",
+        "Prima adattamenti neurali, poi ipertrofia",
+        "Ipertrofia solo con sintesi maggiore della disgregazione"
+      ],
+      "analogy": "È come rivedere il video della partita a fine settimana: rimetti in fila le azioni chiave per non dimenticarle.",
+      "check": {
+        "question": "Quale frase riassume correttamente la lezione?",
+        "options": [
+          "Le fibre di tipo 1 crescono più di tutte e vanno allenate per prime",
+          "I primi guadagni di forza dipendono solo dalla crescita muscolare",
+          "La disgregazione deve superare la sintesi per crescere",
+          "Il muscolo cresce quando la sintesi proteica supera la disgregazione"
+        ],
+        "answer": 3,
+        "explanation": "È il principio di base: l'ipertrofia richiede un equilibrio proteico a favore della sintesi."
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Quali sono i tre temi della lezione?",
+      "back": "Contrazione muscolare, tipi di fibre ed equilibrio proteico.",
+      "part": 0
+    },
+    {
+      "front": "Definizione semplice di ipertrofia",
+      "back": "Aumento delle dimensioni del muscolo scheletrico.",
+      "part": 1
+    },
+    {
+      "front": "I due motivi più comuni per cercare l'ipertrofia",
+      "back": "Produrre più forza e l'estetica di un corpo asciutto e muscoloso.",
+      "part": 1
+    },
+    {
+      "front": "Quale sistema nervoso controlla la contrazione del muscolo scheletrico?",
+      "back": "Il sistema nervoso somatico, in modo volontario.",
+      "part": 2
+    },
+    {
+      "front": "Che cos'è l'unità motoria?",
+      "back": "Un motoneurone con tutte le fibre muscolari collegate, che si contraggono insieme.",
+      "part": 2
+    },
+    {
+      "front": "Come si chiama il segnale nervoso che viaggia lungo il motoneurone?",
+      "back": "Potenziale d'azione.",
+      "part": 2
+    },
+    {
+      "front": "Quante miofibrille contiene una fibra muscolare?",
+      "back": "Da diverse centinaia a diverse migliaia.",
+      "part": 3
+    },
+    {
+      "front": "Teoria dei filamenti scorrevoli: sequenza",
+      "back": "Calcio liberato, sito sull'actina scoperto, la miosina aggancia, tira verso il centro del sarcomero e rilascia, più volte.",
+      "part": 3
+    },
+    {
+      "front": "Fibre di tipo 1: caratteristiche chiave",
+      "back": "Lente, molto resistenti alla fatica, aerobiche, durano ore, potenza bassa, energia dai trigliceridi.",
+      "part": 4
+    },
+    {
+      "front": "Fibre di tipo 2a: durata massima e potenza",
+      "back": "Meno di 30 minuti, potenza media; intermedie tra tipo 1 e 2x.",
+      "part": 4
+    },
+    {
+      "front": "Fibre di tipo 2x (2b): durata massima e potenza",
+      "back": "Meno di 1 minuto, potenza molto alta, motoneurone molto grande, si stancano presto.",
+      "part": 4
+    },
+    {
+      "front": "Perché il record dei 400 m non è 4 volte quello dei 100 m?",
+      "back": "Le fibre rapide della partenza esplosiva si affaticano e l'atleta rallenta.",
+      "part": 4
+    },
+    {
+      "front": "Quanto in più crescono le fibre di tipo 2 rispetto alle tipo 1?",
+      "back": "Hanno una capacità di crescita maggiore del 50%, con grandi differenze individuali.",
+      "part": 5
+    },
+    {
+      "front": "Perché soleo e gastrocnemio hanno molte fibre di tipo 1?",
+      "back": "Lavorano di continuo (camminare, stare in piedi) e devono resistere alla fatica.",
+      "part": 5
+    },
+    {
+      "front": "Da cosa dipendono i primi guadagni di forza?",
+      "back": "Soprattutto da adattamenti neurali: apprendimento motorio e maggiore efficienza.",
+      "part": 6
+    },
+    {
+      "front": "Quando diventa evidente l'ipertrofia?",
+      "back": "In genere dopo un paio di mesi; primi cambiamenti già dopo alcune settimane costanti.",
+      "part": 6
+    },
+    {
+      "front": "Attivazione muscolare = ?",
+      "back": "Reclutamento (quante fibre) + frequenza di scarica o rate coding (quanto spesso sono stimolate le unità motorie).",
+      "part": 7
+    },
+    {
+      "front": "Perché il reclutamento conta per l'ipertrofia?",
+      "back": "Lo stimolo di adattamento di una fibra dipende dal fatto che venga reclutata.",
+      "part": 7
+    },
+    {
+      "front": "Stato nutrito e stato di digiuno: cosa prevale?",
+      "back": "Nutrito: sintesi proteica. Digiuno: disgregazione proteica.",
+      "part": 8
+    },
+    {
+      "front": "Perché le diete molto ipocaloriche fanno perdere muscolo?",
+      "back": "Aumentano i periodi di digiuno e quindi la disgregazione proteica.",
+      "part": 8
+    },
+    {
+      "front": "Le due fasi della sintesi proteica",
+      "back": "Trascrizione (dal DNA all'RNA messaggero) e traduzione (i ribosomi producono la proteina).",
+      "part": 9
+    },
+    {
+      "front": "Cosa determina la velocità di sintesi delle proteine muscolari?",
+      "back": "Disponibilità e stato di attivazione delle proteine regolatrici.",
+      "part": 9
+    },
+    {
+      "front": "Sintesi proteica dopo l'allenamento con i pesi",
+      "back": "Aumenta di circa 2-5 volte; durante la seduta aumenta la disgregazione.",
+      "part": 10
+    },
+    {
+      "front": "A cosa è legata la sintesi proteica indotta dall'esercizio?",
+      "back": "A una maggiore efficienza della traduzione.",
+      "part": 10
+    },
+    {
+      "front": "Riassunto in una frase",
+      "back": "Il nervo accende il muscolo, le fibre di tipo 2 crescono di più, si cresce solo se la sintesi supera la disgregazione.",
+      "part": 11
+    }
+  ],
+  "questions": [
+    {
+      "question": "Quale tipo di muscolo ci interessa far crescere con l'allenamento per l'ipertrofia?",
+      "options": [
+        "Muscolo liscio",
+        "Muscolo scheletrico",
+        "Muscolo cardiaco",
+        "Tutti e tre allo stesso modo"
+      ],
+      "answer": 1,
+      "explanation": "L'ipertrofia che cerchiamo con l'allenamento riguarda il muscolo scheletrico.",
+      "part": 1
+    },
+    {
+      "question": "Quando un motoneurone riceve il segnale, cosa accade alle fibre muscolari a cui è collegato?",
+      "options": [
+        "Si contrae solo la fibra più vicina",
+        "Si contraggono a turno, una dopo l'altra",
+        "Si contraggono solo se il carico è alto",
+        "Si contraggono tutte"
+      ],
+      "answer": 3,
+      "explanation": "Tutte le fibre di un'unità motoria si contraggono quando arriva il segnale.",
+      "part": 2
+    },
+    {
+      "question": "Dove si trovano actina e miosina?",
+      "options": [
+        "Nei sarcomeri, dentro le miofibrille",
+        "Nei motoneuroni",
+        "Nei capillari del muscolo",
+        "Nei ribosomi"
+      ],
+      "answer": 0,
+      "explanation": "I sarcomeri nelle miofibrille contengono i filamenti contrattili actina e miosina.",
+      "part": 3
+    },
+    {
+      "question": "Secondo la teoria dei filamenti scorrevoli, la miosina tira l'actina...",
+      "options": [
+        "verso l'esterno del sarcomero",
+        "verso il tendine",
+        "verso il centro del sarcomero",
+        "verso il motoneurone"
+      ],
+      "answer": 2,
+      "explanation": "La miosina aggancia l'actina e la tira verso il centro del sarcomero, che si accorcia.",
+      "part": 3
+    },
+    {
+      "question": "Quale fibra ha densità capillare intermedia e capacità sia ossidativa sia glicolitica alta?",
+      "options": [
+        "Tipo 1",
+        "Tipo 2a",
+        "Tipo 2x",
+        "Tipo 2b"
+      ],
+      "answer": 1,
+      "explanation": "Le fibre 2a sono intermedie: capillari intermedi, alte capacità ossidativa e glicolitica.",
+      "part": 4
+    },
+    {
+      "question": "Qual è la durata massima di utilizzo indicata per le fibre di tipo 2x (2b)?",
+      "options": [
+        "Ore",
+        "Meno di 30 minuti",
+        "Circa 5 minuti",
+        "Meno di 1 minuto"
+      ],
+      "answer": 3,
+      "explanation": "Le fibre 2x producono potenza molto alta ma reggono meno di un minuto.",
+      "part": 4
+    },
+    {
+      "question": "Quale caratteristica appartiene alle fibre di tipo 1?",
+      "options": [
+        "Densità mitocondriale alta e resistenza alla fatica alta",
+        "Motoneurone molto grande",
+        "Potenza prodotta molto alta",
+        "Capacità glicolitica alta"
+      ],
+      "answer": 0,
+      "explanation": "Le fibre di tipo 1 sono ossidative, ricche di mitocondri e molto resistenti alla fatica.",
+      "part": 4
+    },
+    {
+      "question": "Rispetto ai velocisti, gli atleti di resistenza nei quadricipiti hanno...",
+      "options": [
+        "più fibre di tipo 2x",
+        "la stessa distribuzione di fibre",
+        "una percentuale più alta di fibre di tipo 1",
+        "solo fibre di tipo 2a"
+      ],
+      "answer": 2,
+      "explanation": "Gli atleti di resistenza mostrano più fibre di tipo 1 nello stesso muscolo.",
+      "part": 5
+    },
+    {
+      "question": "Se l'obiettivo è massimizzare la massa muscolare, su quali fibre dovrebbe concentrarsi l'allenamento?",
+      "options": [
+        "Sulle fibre di tipo 1",
+        "Sulle fibre di tipo 2",
+        "Solo sulle fibre dei polpacci",
+        "Su nessuna in particolare"
+      ],
+      "answer": 1,
+      "explanation": "Le fibre di tipo 2 hanno più capacità di crescita, quindi sono il focus principale.",
+      "part": 5
+    },
+    {
+      "question": "Un atleta solleva molto di più in panca dopo poche sedute. Qual è la spiegazione principale?",
+      "options": [
+        "Grande aumento della massa del petto",
+        "Trasformazione delle fibre di tipo 1 in tipo 2",
+        "Aumento della densità capillare",
+        "Il sistema nervoso ha imparato il gesto e invia i segnali meglio"
+      ],
+      "answer": 3,
+      "explanation": "Nelle prime sedute il miglioramento è neurale: apprendimento motorio, non crescita apprezzabile.",
+      "part": 6
+    },
+    {
+      "question": "Perché gli adattamenti neurali favoriscono anche l'ipertrofia?",
+      "options": [
+        "Permettono di sollevare carichi più alti, quindi danno più stimolo di crescita",
+        "Riducono la disgregazione proteica a riposo",
+        "Aumentano il numero di miofibrille senza allenamento",
+        "Trasformano i grassi in proteine"
+      ],
+      "answer": 0,
+      "explanation": "Con carichi più alti e più fibre attivate lo stimolo per la crescita aumenta.",
+      "part": 7
+    },
+    {
+      "question": "Cosa succede se la disgregazione proteica supera la sintesi?",
+      "options": [
+        "Il muscolo cresce",
+        "La massa resta uguale",
+        "Si perde massa muscolare",
+        "Aumenta solo la forza"
+      ],
+      "answer": 2,
+      "explanation": "Con più disgregazione che sintesi l'equilibrio proteico è negativo e si perde muscolo.",
+      "part": 8
+    },
+    {
+      "question": "Nella trascrizione, cosa viene prodotto?",
+      "options": [
+        "La proteina finita",
+        "RNA messaggero a partire dal DNA",
+        "Nuovi ribosomi",
+        "Calcio per la contrazione"
+      ],
+      "answer": 1,
+      "explanation": "La trascrizione crea l'RNA messaggero che porta la sequenza di una proteina del DNA.",
+      "part": 9
+    },
+    {
+      "question": "Cosa succede alla disgregazione proteica durante una seduta con i pesi?",
+      "options": [
+        "Si azzera",
+        "Resta invariata",
+        "Diminuisce di 2-5 volte",
+        "Aumenta"
+      ],
+      "answer": 3,
+      "explanation": "Durante la seduta la disgregazione aumenta; la sintesi sale soprattutto dopo.",
+      "part": 10
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Il giovane che migliora troppo in fretta",
+      "prompt": "Un calciatore di 19 anni inizia il suo primo programma di forza. Dopo 3 settimane il suo squat è salito di 20 kg e ti chiede se ha già messo su tanto muscolo. Cosa gli rispondi e perché?",
+      "modelAnswer": "Gli spiego che il grosso del miglioramento non viene dalla crescita del muscolo. Nelle prime settimane di un programma la forza aumenta soprattutto per adattamenti neurali: il sistema nervoso impara lo schema dello squat, lo rende più fluido e manda i segnali in modo più efficiente, attivando meglio le unità motorie (reclutamento e frequenza di scarica). L'ipertrofia di solito diventa evidente dopo un paio di mesi, anche se qualche cambiamento può comparire già dopo alcune settimane di lavoro costante. Gli dico che è un ottimo segnale: ora può usare carichi più alti, che danno al muscolo uno stimolo di crescita maggiore. Se resta costante, la massa arriverà."
+    },
+    {
+      "title": "Dimagrire senza perdere muscolo",
+      "prompt": "Prima del ritiro estivo un difensore vuole perdere 5 kg in tre settimane con una dieta molto ipocalorica e lunghi digiuni. Usa il concetto di equilibrio proteico per spiegargli il rischio.",
+      "modelAnswer": "Il muscolo dipende dal turnover proteico: sintesi e disgregazione sono sempre attive. Quando sei nutrito prevale la sintesi, quando sei a digiuno prevale la disgregazione. Con una dieta molto ipocalorica e tanti digiuni la disgregazione aumenta e può superare la sintesi: in quel caso si perde massa muscolare, proprio quella che serve a un difensore per contrasti, salti e scatti. Per crescere o almeno mantenere, la sintesi deve stare alla pari o sopra la disgregazione. Gli consiglio quindi di non tagliare in modo estremo e di continuare l'allenamento con i pesi, che dopo la seduta aumenta la sintesi proteica di circa 2-5 volte, aiutando a proteggere il muscolo."
+    },
+    {
+      "title": "Quanta massa per quale ruolo",
+      "prompt": "Devi spiegare allo staff perché un esterno che corre tutta la fascia e un difensore centrale non hanno lo stesso obiettivo di ipertrofia. Usa i tipi di fibre e l'esempio degli atleti visti in lezione.",
+      "modelAnswer": "Ogni sport, e ogni ruolo, ha bisogno di un livello diverso di ipertrofia. Il culturista Phil Heath cerca la massima massa, il fondista Mo Farah ne vuole poca perché sarebbe peso extra da trasportare. L'esterno ha un profilo più vicino alla resistenza, con tante corse ripetute: troppa massa lo appesantirebbe. Il difensore centrale vive di duelli, salti e scatti brevi, dove contano forza e fibre di tipo 2. Le fibre di tipo 2 hanno una capacità di crescita maggiore del 50% rispetto alle tipo 1, quindi per lui un lavoro mirato alla massa sulle fibre rapide ha più senso. Ricordo però che le differenze individuali nella distribuzione delle fibre sono grandi."
+    }
+  ]
+}

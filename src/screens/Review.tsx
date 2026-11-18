@@ -1,25 +1,44 @@
 import { useEffect, useMemo, useRef, useState } from "react";
+import { pickQuestions, weakCount } from "../lib/coach";
 import { shortDate, today } from "../lib/dates";
+import { BOSS_QUESTIONS, BOSS_TO_WIN, bossStatus } from "../lib/game";
+import { allLessons, allQuestions } from "../lib/lessons";
 import { dueCards, type Grade } from "../lib/sm2";
-import { deleteCard, deleteExplanation, gradeCard, logMinutes, saveExplanation, saveQuizResult, useStore } from "../lib/store";
+import {
+  deleteCard,
+  deleteExplanation,
+  getState,
+  gradeCard,
+  logMinutes,
+  markExercise,
+  recordAnswer,
+  saveBossResult,
+  saveExplanation,
+  saveQuizResult,
+  useStore,
+} from "../lib/store";
 import type { Card, Explanation, Question } from "../lib/types";
 import { Icon, Progress, beep, formatClock, unlockAudio } from "../ui";
-import { CardSheet } from "./Today";
+import { CardSheet, type Intent } from "./Today";
 
-type Mode = "flash" | "quiz" | "spiega";
+type Mode = "flash" | "quiz" | "esercizi" | "spiega";
 
-export function Review() {
-  const [mode, setMode] = useState<Mode>("flash");
+export function Review({ intent, onIntentDone }: { intent?: Intent | null; onIntentDone?: () => void }) {
+  const [mode, setMode] = useState<Mode>(() =>
+    intent?.kind === "boss" || intent?.kind === "quiz" ? "quiz" : intent?.kind === "exercise" ? "esercizi" : "flash",
+  );
   return (
     <div className="stack fade-in" style={{ gap: 16 }}>
       <h1 className="page-title">Ripasso</h1>
       <div className="seg" role="tablist">
-        <button className={mode === "flash" ? "on" : ""} onClick={() => setMode("flash")}>Flashcard</button>
+        <button className={mode === "flash" ? "on" : ""} onClick={() => setMode("flash")}>Carte</button>
         <button className={mode === "quiz" ? "on" : ""} onClick={() => setMode("quiz")}>Quiz</button>
-        <button className={mode === "spiega" ? "on" : ""} onClick={() => setMode("spiega")}>Spiegamelo</button>
+        <button className={mode === "esercizi" ? "on" : ""} onClick={() => setMode("esercizi")}>Esercizi</button>
+        <button className={mode === "spiega" ? "on" : ""} onClick={() => setMode("spiega")}>Spiegami</button>
       </div>
-      {mode === "flash" && <Flashcards />}
-      {mode === "quiz" && <Quiz />}
+      {mode === "flash" && <Flashcards autostart={intent?.kind === "cards"} onStarted={onIntentDone} />}
+      {mode === "quiz" && <Quiz intent={intent} onStarted={onIntentDone} />}
+      {mode === "esercizi" && <Exercises code={intent?.kind === "exercise" ? intent.code : undefined} />}
       {mode === "spiega" && <Explanations />}
     </div>
   );
@@ -29,9 +48,13 @@ export function Review() {
 
 const REVIEW_MS = 10 * 60 * 1000;
 
-function Flashcards() {
+function Flashcards({ autostart, onStarted }: { autostart?: boolean; onStarted?: () => void }) {
   const s = useStore();
-  const [running, setRunning] = useState(false);
+  const [running, setRunning] = useState(() => !!autostart && dueCards(getState().cards, today()).length > 0);
+  useEffect(() => {
+    if (autostart) onStarted?.();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
   const [adding, setAdding] = useState(false);
   const due = dueCards(s.cards, today());
 
@@ -52,7 +75,7 @@ function Flashcards() {
         >
           Ripasso 10 minuti
         </button>
-        {s.cards.length === 0 && <p className="tiny">Le flashcard si creano durante la sessione (bottone «+ Flashcard») o qui sotto.</p>}
+        {s.cards.length === 0 && <p className="tiny">Le carte arrivano da sole quando fai le parti di una lezione. Puoi anche crearne qui sotto.</p>}
       </div>
       <button className="btn block" onClick={() => setAdding(true)}><Icon.plus /> Nuova flashcard</button>
       {s.cards.length > 0 && (
@@ -164,7 +187,7 @@ const Q_SECONDS = 54;
 const SIM_QUESTIONS = 50;
 const SIM_SECONDS = 45 * 60;
 
-type QuizConfig = { mode: "allenamento" | "simulazione"; questions: Question[] };
+type QuizConfig = { mode: "allenamento" | "simulazione" | "partita"; questions: Question[]; unit?: number };
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -175,12 +198,27 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-function Quiz() {
+function bossConfig(unit: number): QuizConfig {
+  return { mode: "partita", unit, questions: shuffle(pickQuestions(getState(), BOSS_QUESTIONS, today(), { unit })) };
+}
+
+function Quiz({ intent, onStarted }: { intent?: Intent | null; onStarted?: () => void }) {
   const s = useStore();
-  const [config, setConfig] = useState<QuizConfig | null>(null);
+  const [config, setConfig] = useState<QuizConfig | null>(() => {
+    if (intent?.kind === "boss") return bossConfig(intent.unit);
+    if (intent?.kind === "quiz") return { mode: "allenamento", questions: pickQuestions(getState(), 10, today()) };
+    return null;
+  });
+  useEffect(() => {
+    if (intent?.kind === "boss" || intent?.kind === "quiz") onStarted?.();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
   const [unit, setUnit] = useState<number | "all">("all");
-  const units = useMemo(() => [...new Set(s.questions.map((q) => q.unit).filter((u): u is number => u != null))].sort((a, b) => a - b), [s.questions]);
-  const pool = unit === "all" ? s.questions : s.questions.filter((q) => q.unit === unit);
+  const questions = useMemo(() => allQuestions(s), [s]);
+  const units = useMemo(() => [...new Set(questions.map((q) => q.unit).filter((u): u is number => u != null))].sort((a, b) => a - b), [questions]);
+  const pool = unit === "all" ? questions : questions.filter((q) => q.unit === unit);
+  const bosses = bossStatus(s);
+  const weak = weakCount(s);
 
   if (config) return <QuizRun config={config} onEnd={() => setConfig(null)} />;
 
@@ -188,27 +226,52 @@ function Quiz() {
     <div className="stack">
       <div className="card stack">
         <h2>Allenamento</h2>
-        <p className="small muted">10 domande, {Q_SECONDS} secondi l'una. Vedi subito la risposta giusta.</p>
+        <p className="small muted">10 domande, {Q_SECONDS} secondi l'una. L'app sceglie prima quelle che sbagli e mescola le unità.</p>
         <label className="field">
           Unità
           <select value={unit} onChange={(e) => setUnit(e.target.value === "all" ? "all" : Number(e.target.value))}>
-            <option value="all">Tutte ({s.questions.length} domande)</option>
+            <option value="all">Tutte, mescolate ({questions.length} domande)</option>
             {units.map((u) => (
-              <option key={u} value={u}>Unità {u} ({s.questions.filter((q) => q.unit === u).length})</option>
+              <option key={u} value={u}>Unità {u} ({questions.filter((q) => q.unit === u).length})</option>
             ))}
           </select>
         </label>
-        <button className="btn primary block" disabled={pool.length === 0} onClick={() => setConfig({ mode: "allenamento", questions: shuffle(pool).slice(0, 10) })}>
+        <button
+          className="btn primary block"
+          disabled={pool.length === 0}
+          onClick={() => setConfig({ mode: "allenamento", questions: pickQuestions(s, 10, today(), unit === "all" ? {} : { unit }) })}
+        >
           Inizia
         </button>
+        {weak > 0 && <p className="tiny">{weak} domande sbagliate l'ultima volta: torneranno finché non le azzecchi.</p>}
+      </div>
+      <div className="card stack">
+        <h2>Partite di fine unità</h2>
+        <p className="small muted">{BOSS_QUESTIONS} domande sull'unità: con {BOSS_TO_WIN} giuste la vinci. Si sbloccano quando hai finito tutte le presentazioni dell'unità.</p>
+        <ul className="plan-list">
+          {bosses
+            .filter((b) => b.questions > 0 || b.state !== "bloccata")
+            .map((b) => (
+              <li key={b.unit}>
+                <span className="grow small">
+                  <b>Unità {b.unit}</b> · {b.title}
+                  {b.state === "bloccata" && b.missing.length > 0 && <span className="tiny" style={{ display: "block" }}>Mancano: {b.missing.join(", ")}</span>}
+                  {b.best != null && <span className="tiny" style={{ display: "block" }}>Record: {b.best}/{BOSS_QUESTIONS}</span>}
+                </span>
+                {b.state === "vinta" && <span className="pill gold">🏆 vinta</span>}
+                {b.state === "pronta" && <button className="btn sm primary" onClick={() => setConfig(bossConfig(b.unit))}>Gioca</button>}
+                {b.state === "bloccata" && <span className="pill">🔒</span>}
+              </li>
+            ))}
+        </ul>
       </div>
       <div className="card stack">
         <h2>Simulazione esame</h2>
         <p className="small muted">
           {SIM_QUESTIONS} domande in 45 minuti, come il vero MCQ. Niente risposte durante: le vedi alla fine.
-          {s.questions.length < SIM_QUESTIONS && ` Per ora ci sono ${s.questions.length} domande: la simulazione usa quelle, con il tempo in proporzione.`}
+          {questions.length < SIM_QUESTIONS && ` Per ora ci sono ${questions.length} domande: la simulazione usa quelle, con il tempo in proporzione.`}
         </p>
-        <button className="btn block" disabled={s.questions.length === 0} onClick={() => setConfig({ mode: "simulazione", questions: shuffle(s.questions).slice(0, SIM_QUESTIONS) })}>
+        <button className="btn block" disabled={questions.length === 0} onClick={() => setConfig({ mode: "simulazione", questions: shuffle(questions).slice(0, SIM_QUESTIONS) })}>
           Inizia la simulazione
         </button>
       </div>
@@ -228,13 +291,15 @@ function Quiz() {
           </ul>
         </div>
       )}
-      <p className="tiny">Altre domande: Altro → Domande del quiz → Importa JSON.</p>
+      <p className="tiny">Ogni lezione nuova porta le sue domande.</p>
     </div>
   );
 }
 
 function QuizRun({ config, onEnd }: { config: QuizConfig; onEnd: () => void }) {
   const sim = config.mode === "simulazione";
+  const boss = config.mode === "partita";
+  const blind = sim || boss; // niente risposte durante: come all'esame
   const qs = config.questions;
   const totalMs = (sim ? Math.round((SIM_SECONDS * qs.length) / SIM_QUESTIONS) : Q_SECONDS) * 1000;
   const [i, setI] = useState(0);
@@ -254,7 +319,10 @@ function QuizRun({ config, onEnd }: { config: QuizConfig; onEnd: () => void }) {
 
   const end = (final: (number | null)[]) => {
     setDone(true);
-    saveQuizResult({ mode: config.mode, total: qs.length, correct: final.filter((a, k) => a === qs[k]!.answer).length, seconds: Math.round((Date.now() - quizStart) / 1000) });
+    const correct = final.filter((a, k) => a === qs[k]!.answer).length;
+    if (blind) final.forEach((a, k) => a != null && recordAnswer(qs[k]!.id, a === qs[k]!.answer));
+    if (boss && config.unit != null) saveBossResult(config.unit, correct);
+    else saveQuizResult({ mode: config.mode === "simulazione" ? "simulazione" : "allenamento", total: qs.length, correct, seconds: Math.round((Date.now() - quizStart) / 1000) });
   };
 
   const next = (final = answers) => {
@@ -269,7 +337,11 @@ function QuizRun({ config, onEnd }: { config: QuizConfig; onEnd: () => void }) {
   useEffect(() => {
     if (done || left > 0) return;
     if (sim) end(answers);
-    else if (!revealed) setRevealed(true); // tempo scaduto: mostra la risposta
+    else if (boss) next(answers); // tempo scaduto: la domanda resta senza risposta
+    else if (!revealed) {
+      recordAnswer(q!.id, false);
+      setRevealed(true); // tempo scaduto: mostra la risposta
+    }
   });
 
   if (done) {
@@ -278,8 +350,15 @@ function QuizRun({ config, onEnd }: { config: QuizConfig; onEnd: () => void }) {
     return (
       <div className="stack">
         <div className="card stack center pop">
+          {boss && <p className="trophy">{correct >= BOSS_TO_WIN ? "🏆" : "⚽"}</p>}
           <p className="big-num">{correct}/{qs.length}</p>
-          <p className="muted">{Math.round((correct / qs.length) * 100)}% giuste</p>
+          <p className="muted">
+            {boss
+              ? correct >= BOSS_TO_WIN
+                ? `Unità ${config.unit} vinta!`
+                : `Ne servivano ${BOSS_TO_WIN}. Ripassa gli errori qui sotto e gioca la rivincita.`
+              : `${Math.round((correct / qs.length) * 100)}% giuste`}
+          </p>
           <button className="btn primary block" onClick={onEnd}>Chiudi</button>
         </div>
         {wrong.length > 0 && (
@@ -321,8 +400,11 @@ function QuizRun({ config, onEnd }: { config: QuizConfig; onEnd: () => void }) {
               onClick={() => {
                 const nextAnswers = answers.map((a, n) => (n === i ? k : a));
                 setAnswers(nextAnswers);
-                if (sim) next(nextAnswers);
-                else setRevealed(true);
+                if (blind) next(nextAnswers);
+                else {
+                  recordAnswer(q.id, k === q.answer);
+                  setRevealed(true);
+                }
               }}
             >
               <span className="letter">{"ABCD"[k]}</span>
@@ -343,10 +425,10 @@ function QuizRun({ config, onEnd }: { config: QuizConfig; onEnd: () => void }) {
       <button
         className="link-btn"
         onClick={() => {
-          if (confirm(sim ? "Chiudere la simulazione? Conta come consegnata." : "Chiudere il quiz?")) end(answers);
+          if (confirm(blind ? "Chiudere? Conta come consegnata." : "Chiudere il quiz?")) end(answers);
         }}
       >
-        {sim ? "Consegna adesso" : "Chiudi"}
+        {blind ? "Consegna adesso" : "Chiudi"}
       </button>
     </div>
   );
@@ -402,6 +484,75 @@ function Explanations() {
           {e.text && <p className="small">{e.text}</p>}
           {e.analogy && <p className="small" style={{ color: "var(--brand)" }}>⚽ {e.analogy}</p>}
         </button>
+      ))}
+    </div>
+  );
+}
+
+/* ——— Esercizi pratici delle lezioni ——— */
+
+function Exercises({ code }: { code?: string }) {
+  const s = useStore();
+  const lessons = allLessons(s).sort((a, b) => a.code.localeCompare(b.code, "it", { numeric: true }));
+  const [open, setOpen] = useState<string | null>(code ? `${code}#0` : null);
+  const [answer, setAnswer] = useState("");
+  const [shown, setShown] = useState(false);
+
+  if (lessons.length === 0) return <p className="tiny center">Gli esercizi arrivano con le lezioni.</p>;
+
+  if (open) {
+    const [c, i] = open.split("#");
+    const lesson = lessons.find((l) => l.code === c);
+    const ex = lesson?.exercises[Number(i)];
+    if (lesson && ex) {
+      return (
+        <div className="card stack fade-in">
+          <span className="tag" style={{ alignSelf: "flex-start" }}>{lesson.code} · Esercizio</span>
+          <h2>{ex.title}</h2>
+          <p>{ex.prompt}</p>
+          <textarea aria-label="La tua risposta" placeholder="Scrivi la tua risposta, anche a punti." value={answer} onChange={(e) => setAnswer(e.target.value)} />
+          {shown ? (
+            <div className="card soft stack fade-in">
+              <p className="small" style={{ fontWeight: 750 }}>Risposta di riferimento</p>
+              <p className="small">{ex.modelAnswer}</p>
+              <button
+                className="btn primary block"
+                onClick={() => {
+                  markExercise(open);
+                  setOpen(null);
+                  setAnswer("");
+                  setShown(false);
+                }}
+              >
+                Fatto
+              </button>
+            </div>
+          ) : (
+            <button className="btn primary block" onClick={() => setShown(true)}>Confronta con la risposta</button>
+          )}
+          <button className="link-btn" onClick={() => setOpen(null)}>Indietro</button>
+        </div>
+      );
+    }
+  }
+
+  return (
+    <div className="stack">
+      {lessons.map((l) => (
+        <div key={l.code} className="card">
+          <h2>{l.code} · {l.title}</h2>
+          <ul className="plan-list">
+            {l.exercises.map((e, i) => {
+              const id = `${l.code}#${i}`;
+              return (
+                <li key={id}>
+                  <span className="grow small">{e.title}</span>
+                  {s.exercisesDone[id] ? <span className="pill green">fatto</span> : <button className="btn sm" onClick={() => setOpen(id)}>Apri</button>}
+                </li>
+              );
+            })}
+          </ul>
+        </div>
       ))}
     </div>
   );

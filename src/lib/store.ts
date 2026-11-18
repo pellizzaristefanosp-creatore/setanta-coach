@@ -2,8 +2,12 @@ import { useSyncExternalStore } from "react";
 import { makePresentation, seedState } from "../data/seed";
 import { today } from "./dates";
 import { isDone } from "./plan";
+import { BADGES, BOSS_TO_WIN, POINTS, dailyChallenge, earnedBadges, weeklyChallenge } from "./game";
+import { LessonPackSchema, type LessonPack } from "./lesson";
+import { cardsForPart, lessonFor, syncLessons } from "./lessons";
 import { newCard, review, type Grade } from "./sm2";
-import type { Explanation, Question, QuizResult, State } from "./types";
+import { weekStart } from "./dates";
+import type { Explanation, Question, QuizResult, State, XpKind } from "./types";
 
 const KEY = "setanta-coach:v1";
 const STEP_MS = 2 * 60 * 1000;
@@ -13,16 +17,25 @@ function load(): State {
     const raw = localStorage.getItem(KEY);
     if (raw) {
       const parsed = JSON.parse(raw) as State;
-      if (parsed && parsed.version === 1) return { ...seedState(), ...parsed };
+      if (parsed && parsed.version === 1) {
+        const merged: State = { ...seedState(), ...parsed, settings: { ...seedState().settings, ...parsed.settings } };
+        // Le presentazioni già fatte prima dell'app avevano una data finta: non contano per sfide e premi.
+        merged.presentations.forEach((p) => p.doneAt === "2026-11-17" && (p.doneAt = "2026-10-31"));
+        syncLessons(merged);
+        return merged;
+      }
     }
   } catch {
     /* localStorage non disponibile o dati rotti: si riparte dal seed */
   }
-  return seedState();
+  const fresh = seedState();
+  syncLessons(fresh);
+  return fresh;
 }
 
 let state: State = load();
 const listeners = new Set<() => void>();
+queueMicrotask(() => persist());
 
 function persist() {
   try {
@@ -36,9 +49,65 @@ export function getState(): State {
   return state;
 }
 
+/* ——— Avvisi del gioco (punti, premi): non si salvano ——— */
+
+export type Toast = { id: number; text: string; big?: boolean };
+let toasts: Toast[] = [];
+let toastId = 0;
+const toastListeners = new Set<() => void>();
+export function pushToast(text: string, big = false) {
+  toasts = [...toasts, { id: ++toastId, text, big }];
+  toastListeners.forEach((l) => l());
+  const id = toastId;
+  setTimeout(() => dismissToast(id), big ? 3800 : 1800);
+}
+export function dismissToast(id: number) {
+  toasts = toasts.filter((t) => t.id !== id);
+  toastListeners.forEach((l) => l());
+}
+export function useToasts(): Toast[] {
+  return useSyncExternalStore(
+    (l) => {
+      toastListeners.add(l);
+      return () => toastListeners.delete(l);
+    },
+    () => toasts,
+    () => toasts,
+  );
+}
+
+function award(s: State, kind: XpKind, times = 1) {
+  if (times <= 0) return;
+  s.xp.push({ date: today(), kind, points: POINTS[kind] * times });
+}
+
+/** Dopo ogni azione: sfide completate e premi nuovi, con il loro avviso. */
+function settle(s: State) {
+  const d = today();
+  const daily = dailyChallenge(s, d);
+  if (daily.complete && daily.done > 0 && !s.challenges[`d:${d}`]) {
+    s.challenges[`d:${d}`] = d;
+    award(s, "daily");
+    queueMicrotask(() => pushToast(`Sfida del giorno vinta · +${POINTS.daily}`, true));
+  }
+  const w = weekStart(d);
+  const weekly = weeklyChallenge(s, d);
+  if (weekly.complete && weekly.done > 0 && !s.challenges[`w:${w}`]) {
+    s.challenges[`w:${w}`] = d;
+    award(s, "weekly");
+    queueMicrotask(() => pushToast(`Sfida della settimana vinta · +${POINTS.weekly}`, true));
+  }
+  for (const id of earnedBadges(s, d)) {
+    s.badges[id] = d;
+    const b = BADGES.find((x) => x.id === id);
+    if (b) queueMicrotask(() => pushToast(`${b.icon} Premio: ${b.name}`, true));
+  }
+}
+
 export function setState(update: (draft: State) => void) {
   const draft = structuredClone(state);
   update(draft);
+  settle(draft);
   state = draft;
   persist();
   listeners.forEach((l) => l());
@@ -104,13 +173,26 @@ export function finishStep() {
   const t = state.timer;
   if (!t) return;
   const elapsed = t.pausedLeft != null ? t.endsAt - t.startedAt - t.pausedLeft : Math.min(Date.now(), t.endsAt) - t.startedAt;
-  const minutes = Math.max(0, Math.round((elapsed / 60_000) * 10) / 10);
+  const minutes = Math.max(0, Math.min(15, Math.round((elapsed / 60_000) * 10) / 10));
   const d = today();
+  pushToast(`+${POINTS.part}`);
   setState((s) => {
     const p = s.presentations.find((x) => x.id === t.presentationId);
     const step = p?.steps.find((x) => x.id === t.stepId);
-    if (step) step.done = true;
-    if (p && isDone(p) && !p.doneAt) p.doneAt = d;
+    if (step && !step.done) {
+      step.done = true;
+      award(s, "part");
+      const lesson = p ? lessonFor(s, p.code) : undefined;
+      const idx = p ? p.steps.findIndex((x) => x.id === t.stepId) : -1;
+      if (lesson && p && idx >= 0) {
+        const have = new Set(s.cards.map((c) => c.id));
+        for (const c of cardsForPart(lesson, idx, p.id, d)) if (!have.has(c.id)) s.cards.push(c);
+      }
+    }
+    if (p && isDone(p) && !p.doneAt) {
+      p.doneAt = d;
+      award(s, "presentation");
+    }
     const l = s.log[d] ?? { minutes: 0, steps: 0 };
     s.log[d] = { minutes: Math.round((l.minutes + minutes) * 10) / 10, steps: l.steps + 1 };
     s.timer = null;
@@ -139,7 +221,9 @@ export function saveRecall(presentationId: string, afterStep: number, text: stri
   setState((s) => {
     const p = s.presentations.find((x) => x.id === presentationId);
     p?.recalls.push({ afterStep, text, date: today() });
+    award(s, "recall");
   });
+  pushToast(`Richiamo · +${POINTS.recall}`);
 }
 
 /* ——— Flashcard ——— */
@@ -154,6 +238,7 @@ export function gradeCard(id: string, grade: Grade) {
   setState((s) => {
     const i = s.cards.findIndex((c) => c.id === id);
     if (i >= 0) s.cards[i] = review(s.cards[i]!, grade, today());
+    award(s, "card");
   });
 }
 
@@ -170,6 +255,51 @@ export function logMinutes(minutes: number) {
     const l = s.log[d] ?? { minutes: 0, steps: 0 };
     s.log[d] = { minutes: Math.round((l.minutes + minutes) * 10) / 10, steps: l.steps };
   });
+}
+
+/* ——— Domande, partite, esercizi ——— */
+
+/** Risposta a una domanda d'esame (quiz, partita o domanda veloce dopo una parte). */
+export function recordAnswer(questionId: string, correct: boolean, kind: "quiz" | "check" = "quiz") {
+  setState((s) => {
+    const a = s.answers[questionId] ?? { seen: 0, wrong: 0, last: today(), lastCorrect: true };
+    s.answers[questionId] = { seen: a.seen + 1, wrong: a.wrong + (correct ? 0 : 1), last: today(), lastCorrect: correct };
+    if (correct) award(s, kind);
+  });
+  if (correct) pushToast(`+${POINTS[kind]}`);
+}
+
+export function saveBossResult(unit: number, correct: number) {
+  const won = correct >= BOSS_TO_WIN;
+  setState((s) => {
+    const prev = s.bosses[String(unit)];
+    const firstWin = won && !prev?.won;
+    s.bosses[String(unit)] = { won: won || !!prev?.won, best: Math.max(prev?.best ?? 0, correct), date: today() };
+    if (firstWin) award(s, "boss");
+  });
+  if (won) pushToast(`🏆 Unità ${unit} vinta · +${POINTS.boss}`, true);
+}
+
+export function markExercise(id: string) {
+  setState((s) => {
+    if (s.exercisesDone[id]) return;
+    s.exercisesDone[id] = today();
+    award(s, "exercise");
+  });
+  pushToast(`Esercizio · +${POINTS.exercise}`);
+}
+
+/** Salva una lezione importata (validata) e costruisce il suo percorso. */
+export function importLesson(data: unknown): { ok: true; lesson: LessonPack } | { ok: false; error: string } {
+  const r = LessonPackSchema.safeParse(data);
+  if (!r.success) return { ok: false, error: "La lezione ricevuta non è completa. Riprova." };
+  const lesson = r.data;
+  setState((s) => {
+    s.lessons = [...(s.lessons ?? []).filter((l) => l.code !== lesson.code), lesson];
+    if (!s.units.some((u) => u.n === lesson.unit)) return;
+    syncLessons(s);
+  });
+  return { ok: true, lesson };
 }
 
 /* ——— Spiegazioni, quiz, backup ——— */
@@ -231,7 +361,8 @@ export function importBackup(text: string): string | null {
     const parsed = JSON.parse(text) as State;
     if (parsed?.version !== 1 || !Array.isArray(parsed.presentations)) return "Questo file non è un backup di Setanta Coach.";
     setState((s) => {
-      Object.assign(s, seedState(), parsed, { timer: null });
+      Object.assign(s, seedState(), parsed, { timer: null, settings: { ...seedState().settings, ...parsed.settings } });
+      syncLessons(s);
     });
     return null;
   } catch {
@@ -242,5 +373,6 @@ export function importBackup(text: string): string | null {
 export function resetAll() {
   setState((s) => {
     Object.assign(s, seedState());
+    syncLessons(s);
   });
 }
