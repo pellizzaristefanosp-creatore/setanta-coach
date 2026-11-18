@@ -1,0 +1,770 @@
+{
+  "code": "7.3",
+  "parts": [
+    {
+      "part": 0,
+      "lines": [
+        {
+          "who": "M",
+          "text": "[excited] Allora Luca, oggi lasciamo un attimo lo strappo completo e guardiamo le sue varianti."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Varianti? Cioè esercizi diversi?"
+        },
+        {
+          "who": "M",
+          "text": "No, versioni dello stesso gesto, cambiate in un punto preciso: da dove parte il bilanciere, fin dove sale, oppure dove lo prendi."
+        },
+        {
+          "who": "L",
+          "text": "E quali vediamo?"
+        },
+        {
+          "who": "M",
+          "text": "Lo stacco da terra con la presa da strappo, lo snatch pull, cioè la tirata, e lo snatch balance, che allena l'incastro sopra la testa. Poi il power snatch, preso più in alto, e le varianti hang, che partono con il bilanciere sollevato da terra, sopra il ginocchio."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] E per ognuna cosa devo sapere?"
+        },
+        {
+          "who": "M",
+          "text": "Tre cose: a cosa serve, come si esegue bene, e quali errori vedrai più spesso in palestra, con il modo per correggerli."
+        },
+        {
+          "who": "L",
+          "text": "Il nome lo imparo in fretta, dai."
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Il nome è facile. Riconoscere l'errore al volo, mentre il ragazzo solleva, e dargli l'indicazione giusta... quello è il VERO lavoro del preparatore."
+        },
+        {
+          "who": "L",
+          "text": "Tipo il mio compagno con le anche rigide, che in squat profondo non scende?"
+        },
+        {
+          "who": "M",
+          "text": "Esatto. O chi ha poco tempo per imparare tutta la tecnica: con le varianti prendi la parte utile, la potenza, senza pretendere il gesto perfetto da pesista."
+        },
+        {
+          "who": "L",
+          "text": "Come negli esercizi di tiro: ognuno allena il suo punto debole."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Proprio così. La variante giusta dipende dall'atleta che hai davanti, non da una regola fissa."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Partiamo dal perché. Secondo te, se lo strappo completo è così buono, a cosa servono le varianti?"
+        },
+        {
+          "who": "L",
+          "text": "[pause] Mah... a cambiare un po'?"
+        },
+        {
+          "who": "M",
+          "text": "Lo strappo completo resta un pilastro per costruire forza e potenza. Ma non sempre è la scelta più comoda, né la più adatta."
+        },
+        {
+          "who": "L",
+          "text": "E a chi servono le varianti?"
+        },
+        {
+          "who": "M",
+          "text": "A due tipi di persone: gli atleti di altri sport, come i calciatori, e i pesisti veri, cioè chi fa weightlifting."
+        },
+        {
+          "who": "L",
+          "text": "Per noi calciatori cosa cambia?"
+        },
+        {
+          "who": "M",
+          "text": "Due vantaggi. Primo: un'alternativa quando ci sono problemi o limiti di mobilità, con una versione che non richiede la posizione che non raggiungi."
+        },
+        {
+          "who": "L",
+          "text": "E il secondo?"
+        },
+        {
+          "who": "M",
+          "text": "Lavori su un aspetto preciso della prestazione, su misura. Per esempio solo la parte esplosiva della tirata."
+        },
+        {
+          "who": "L",
+          "text": "[curious] E il pesista?"
+        },
+        {
+          "who": "M",
+          "text": "Per lui sono esercizi complementari, che rinforzano i singoli pezzi dello strappo. Se è debole nella partenza da terra o nell'incastro sopra la testa, lavora quel pezzo da solo e poi lo rimette nel gesto intero."
+        },
+        {
+          "who": "L",
+          "text": "Come il cross dal fondo provato a parte e poi rimesso nella partita intera."
+        },
+        {
+          "who": "M",
+          "text": "[confident] Esatto. La variante non sostituisce per forza lo strappo: lo completa, o lo rende possibile a chi ancora non può farlo per intero."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Prima variante: lo stacco da terra con la presa da strappo. Mani larghe, nella stessa posizione dello strappo."
+        },
+        {
+          "who": "L",
+          "text": "Già solo la presa serve a qualcosa?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, aiuta a sviluppare la mobilità che serve per lo strappo vero."
+        },
+        {
+          "who": "L",
+          "text": "E la partenza è uguale?"
+        },
+        {
+          "who": "M",
+          "text": "Molto simile, con due differenze. Il bilanciere viene tirato meno verso il corpo, all'indietro, e il double knee bend, la doppia flessione del ginocchio, è meno marcato."
+        },
+        {
+          "who": "L",
+          "text": "Quindi più lento?"
+        },
+        {
+          "who": "M",
+          "text": "Più lento e controllato, senza la parte esplosiva finale. Secondo te... che muscoli lavora?"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Schiena e dietro le gambe?"
+        },
+        {
+          "who": "M",
+          "text": "Bravo: la catena posteriore. Schiena alta, glutei e muscoli posteriori della coscia, che a un calciatore proteggono nello sprint e nei contrasti."
+        },
+        {
+          "who": "L",
+          "text": "E per lo strappo che vantaggio dà?"
+        },
+        {
+          "who": "M",
+          "text": "Ripetendo quelle posizioni impari a conoscerle. Così parti da terra più forte e tieni meglio la posizione di tirata: prestazione migliore."
+        },
+        {
+          "who": "L",
+          "text": "Come provare la rincorsa del rigore senza calciare."
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Esatto. Lo usi come accessorio accanto allo strappo, per sistemare la partenza, oppure come base per chi sta imparando: è semplice da insegnare e facile da caricare in modo progressivo."
+        },
+        {
+          "who": "L",
+          "text": "Per questo è spesso il primo passo verso le alzate olimpiche."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Errori dello stacco. Il primo: manca la mobilità per arrivare alla posizione di partenza."
+        },
+        {
+          "who": "L",
+          "text": "Colpa di cosa?"
+        },
+        {
+          "who": "M",
+          "text": "Spesso delle anche rigide. Allora la bassa schiena si arrotonda, e questo va evitato."
+        },
+        {
+          "who": "L",
+          "text": "[curious] E come lo sistemo?"
+        },
+        {
+          "who": "M",
+          "text": "Alzi il punto di partenza: bilanciere sopra una pila di dischi. L'atleta scende meno e tiene la schiena in posizione."
+        },
+        {
+          "who": "L",
+          "text": "E se si curva la parte alta della schiena?"
+        },
+        {
+          "who": "M",
+          "text": "Può essere poca estensione della colonna toracica, e serve mobilità specifica. A volte però basta dire: petto e testa alti."
+        },
+        {
+          "who": "L",
+          "text": "Tutto qui?"
+        },
+        {
+          "who": "M",
+          "text": "Oppure: leggi la scritta sulla tua maglietta. Per farlo apre il petto, e la posizione migliora subito."
+        },
+        {
+          "who": "L",
+          "text": "[laughs] Furbo. E il terzo?"
+        },
+        {
+          "who": "M",
+          "text": "Strappare il bilanciere da terra, partendo troppo brusco e aggressivo. Con pesi leggeri forse non succede niente, ma con carichi alti la colonna riceve molta pressione e la posizione è rischiosa."
+        },
+        {
+          "who": "L",
+          "text": "E come lo evito?"
+        },
+        {
+          "who": "M",
+          "text": "[serious] Crei tanta tensione nella posizione bassa, prima che il bilanciere si muova. Così si attivano i muscoli del core e l'alzata è molto più sicura."
+        },
+        {
+          "who": "L",
+          "text": "Come nel contrasto: mi irrigidisco PRIMA dell'impatto. Tensione prima, movimento dopo!"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Ora lo snatch pull, la tirata da strappo. Migliora la potenza e il tasso di sviluppo della forza."
+        },
+        {
+          "who": "L",
+          "text": "Cioè?"
+        },
+        {
+          "who": "M",
+          "text": "La rapidità con cui produci forza. Ti ricordi in quale momento dello strappo il bilanciere va più veloce?"
+        },
+        {
+          "who": "L",
+          "text": "[pause] ... La seconda tirata?"
+        },
+        {
+          "who": "M",
+          "text": "Bravo, lì raggiunge velocità e potenza massime. Lo snatch pull lavora proprio lì."
+        },
+        {
+          "who": "L",
+          "text": "Come si fa?"
+        },
+        {
+          "who": "M",
+          "text": "Arrivi alla tripla estensione: caviglie, ginocchia e anche distese del tutto. Il bilanciere resta sempre vicino al corpo."
+        },
+        {
+          "who": "L",
+          "text": "E in cima?"
+        },
+        {
+          "who": "M",
+          "text": "Scrollata decisa delle spalle, e i gomiti si piegano mentre il bilanciere sale. Non va sopra la testa: la tirata finisce lì."
+        },
+        {
+          "who": "L",
+          "text": "Le posizioni sono quelle dello strappo?"
+        },
+        {
+          "who": "M",
+          "text": "Le stesse. Peso sul centro del piede, braccia distese, spalle e ginocchia davanti al bilanciere, anche un po' più alte delle ginocchia, schiena solida dall'inizio alla fine."
+        },
+        {
+          "who": "L",
+          "text": "Come lo stacco di testa senza pallone: solo la spinta esplosiva verso l'alto."
+        },
+        {
+          "who": "M",
+          "text": "[cheerfully] Esatto. E c'è l'high pull, la tirata alta: utile a chi fatica con l'overhead squat, lo squat con il bilanciere sopra la testa."
+        },
+        {
+          "who": "L",
+          "text": "Così prendo i benefici principali dello strappo, senza la parte più tecnica."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Errori della tirata. Primo: il bilanciere spinto in avanti, che invece di salire vicino al corpo si allontana."
+        },
+        {
+          "who": "L",
+          "text": "E come lo correggo?"
+        },
+        {
+          "who": "M",
+          "text": "Con un bastone come guida, davanti all'atleta. Gli chiedi di tenere il bilanciere vicino al corpo senza toccare il bastone."
+        },
+        {
+          "who": "L",
+          "text": "Come il cinesino da non toccare nello slalom!"
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Proprio quello. Secondo errore: inclinarsi troppo all'indietro durante la tirata."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Ma così non si estende di più?"
+        },
+        {
+          "who": "M",
+          "text": "È quello che pensano. In realtà si allontanano dal bilanciere, e poi fanno fatica a incastrarlo sopra la testa."
+        },
+        {
+          "who": "L",
+          "text": "Quindi cosa gli dico?"
+        },
+        {
+          "who": "M",
+          "text": "Tieni il bilanciere vicino e cura il tempismo, il momento giusto dell'estensione. Aiutano anche le tirate con carichi più leggeri, mantenendo la tripla estensione."
+        },
+        {
+          "who": "L",
+          "text": "E il bastone serve anche qui?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, come aiuto tattile: l'atleta sente fisicamente dove deve stare. Terzo errore: non arrivare alla tripla estensione."
+        },
+        {
+          "who": "L",
+          "text": "Caviglie, ginocchia e anche che non si distendono del tutto?"
+        },
+        {
+          "who": "M",
+          "text": "Esatto, e crea problemi a catena in tutta l'alzata. Bastano piccole indicazioni verbali o tattili, come il bastone, che aumenta la consapevolezza della posizione."
+        },
+        {
+          "who": "L",
+          "text": "Il bastone costa niente e dà un riferimento che le parole da sole non danno."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Ora lo snatch balance. Secondo te, quale parte dello strappo allena?"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Dal nome... l'equilibrio sopra la testa?"
+        },
+        {
+          "who": "M",
+          "text": "Quasi. Allena il turnover, cioè quando passi sotto il bilanciere ruotando le braccia, e l'incastro finale sopra la testa."
+        },
+        {
+          "who": "L",
+          "text": "Da dove parto?"
+        },
+        {
+          "who": "M",
+          "text": "In piedi, dritto, con il bilanciere appoggiato sulla schiena come in uno squat. Presa larga da strappo, piedi alla larghezza delle anche."
+        },
+        {
+          "who": "L",
+          "text": "E poi?"
+        },
+        {
+          "who": "M",
+          "text": "Un dip and drive: piccola flessione delle ginocchia e subito una spinta verso l'alto. Poi scendi veloce sotto e incastri in overhead squat, braccia distese sopra la testa."
+        },
+        {
+          "who": "L",
+          "text": "Che benefici dà?"
+        },
+        {
+          "who": "M",
+          "text": "Più stabilità quando incastri e più capacità di sostenere il carico sopra la testa. E affina tempismo e coordinazione del turnover e del movimento dei piedi."
+        },
+        {
+          "who": "L",
+          "text": "Solo fisici?"
+        },
+        {
+          "who": "M",
+          "text": "[warmly] No, anche mentali. Dà fiducia: l'atleta capisce che è capace di arrivare all'incastro, soprattutto con carichi leggeri."
+        },
+        {
+          "who": "L",
+          "text": "Utile per chi ha paura di finire sotto il bilanciere."
+        },
+        {
+          "who": "M",
+          "text": "Vale moltissimo. È come la parata in tuffo del portiere, ripetuta finché diventa automatica e sicura."
+        },
+        {
+          "who": "L",
+          "text": "Quindi alleno la parte finale, dove tutto deve essere sincronizzato al millimetro."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Errori dello snatch balance. Primo: poca stabilità generale."
+        },
+        {
+          "who": "L",
+          "text": "Cioè?"
+        },
+        {
+          "who": "M",
+          "text": "Se l'atleta non sostiene bene il carico, sia con la parte alta sia con la parte bassa del corpo, l'incastro diventa molto instabile. L'obiettivo è un atterraggio stabile."
+        },
+        {
+          "who": "L",
+          "text": "E il secondo?"
+        },
+        {
+          "who": "M",
+          "text": "La tempistica. Secondo te, quando devi spingere contro il bilanciere?"
+        },
+        {
+          "who": "L",
+          "text": "[pause] ... Quando atterro con i piedi?"
+        },
+        {
+          "who": "M",
+          "text": "[confident] Esatto, i due momenti devono coincidere, come nel turnover e nell'incastro dello strappo. Se non coincidono, il movimento si rompe."
+        },
+        {
+          "who": "L",
+          "text": "Come un colpo di testa: se salto troppo presto o troppo tardi, anche con tanta forza non lo prendo bene."
+        },
+        {
+          "who": "M",
+          "text": "[serious] Terzo errore: trasformarlo in una overhead press, usando troppo braccia e spalle. Invece spingi il bilanciere e intanto scendi TU, sotto in squat, e da lì lo sostieni."
+        },
+        {
+          "who": "L",
+          "text": "Come si corregge?"
+        },
+        {
+          "who": "M",
+          "text": "Prima con un carico più leggero, anche un semplice bastone, così si concentra sulla tempistica. Poi con indicazioni specifiche, su misura per quell'atleta."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Non è facile, ma sistemare tempistica e coordinazione nell'incastro dà un grande vantaggio."
+        }
+      ]
+    },
+    {
+      "part": 8,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Passiamo al power snatch, utile sia ai pesisti sia agli atleti di altri sport."
+        },
+        {
+          "who": "L",
+          "text": "Che differenza c'è con lo strappo?"
+        },
+        {
+          "who": "M",
+          "text": "L'incastro. Nello strappo completo prendi il bilanciere in squat profondo, nel power snatch più in alto, a circa un quarto di squat."
+        },
+        {
+          "who": "L",
+          "text": "[excited] Allora è perfetto per chi non scende bene in squat completo!"
+        },
+        {
+          "who": "M",
+          "text": "Esatto: il gesto è più accessibile e l'atleta migliora la tecnica senza scendere fino in fondo."
+        },
+        {
+          "who": "L",
+          "text": "E al pesista a cosa serve?"
+        },
+        {
+          "who": "M",
+          "text": "A sviluppare velocità e a tenere alta la velocità del bilanciere per tutto il movimento."
+        },
+        {
+          "who": "L",
+          "text": "Come si parte?"
+        },
+        {
+          "who": "M",
+          "text": "Come nello strappo: spalle davanti al bilanciere, testa e petto alti, anche sopra le ginocchia, ginocchia davanti al bilanciere. Parte alta della schiena stabile, scapole tirate indietro."
+        },
+        {
+          "who": "L",
+          "text": "E poi?"
+        },
+        {
+          "who": "M",
+          "text": "Tripla estensione con il bilanciere vicino al corpo. Superato il ginocchio tiri in modo aggressivo, e lo incastri alto, a un quarto di squat."
+        },
+        {
+          "who": "L",
+          "text": "Come un tiro di collo senza rincorsa lunga: più compatto, ma sempre esplosivo."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Esatto. È una versione più gestibile dello strappo, e grazie all'incastro alto è ottima anche nelle schede dei calciatori."
+        }
+      ]
+    },
+    {
+      "part": 9,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Errori del power snatch. Il primo l'hai già sentito... secondo te?"
+        },
+        {
+          "who": "L",
+          "text": "[confident] Bilanciere lanciato in avanti!"
+        },
+        {
+          "who": "M",
+          "text": "Bravo. Rende più difficile l'incastro, e l'atleta può perdere il controllo e addirittura cadere in avanti."
+        },
+        {
+          "who": "L",
+          "text": "Quindi bilanciere vicino al corpo."
+        },
+        {
+          "who": "M",
+          "text": "Sì, e c'è un trucco: mentre il bilanciere passa, l'atleta deve quasi sollevarsi la maglietta con il bilanciere."
+        },
+        {
+          "who": "L",
+          "text": "[laughs] Così sente quanto deve stare vicino."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Secondo errore: l'altezza dell'incastro. Alcuni prendono il bilanciere troppo in alto, altri scendono in squat completo."
+        },
+        {
+          "who": "L",
+          "text": "E perdono il quarto di squat."
+        },
+        {
+          "who": "M",
+          "text": "Giusto, aiutali a concentrarsi su quell'altezza. Ma attenzione: se incastra troppo in basso, spesso il carico è troppo pesante."
+        },
+        {
+          "who": "L",
+          "text": "[surprised] Il peso?"
+        },
+        {
+          "who": "M",
+          "text": "Sì. Non riesce a completare il power snatch come si deve, e allora scende di più per salvarsi."
+        },
+        {
+          "who": "L",
+          "text": "Come chi si butta in scivolata perché arriva in ritardo."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Allora abbassa il peso e, nello stesso momento, chiedigli di puntare a un incastro più alto."
+        },
+        {
+          "who": "L",
+          "text": "Con queste correzioni affina la tecnica e migliora la prestazione nel power snatch."
+        }
+      ]
+    },
+    {
+      "part": 10,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Ora le varianti hang. Hang vuol dire appeso: il bilanciere non parte da terra, ma da una posizione sollevata."
+        },
+        {
+          "who": "L",
+          "text": "Da dove esattamente?"
+        },
+        {
+          "who": "M",
+          "text": "Oggi partiamo appena sopra il ginocchio. La prima è l'hang snatch."
+        },
+        {
+          "who": "L",
+          "text": "A chi serve?"
+        },
+        {
+          "who": "M",
+          "text": "A chi fatica con la partenza dello strappo completo, con il bilanciere a terra. Partendo più in alto quei problemi si riducono."
+        },
+        {
+          "who": "L",
+          "text": "E si concentra su cosa?"
+        },
+        {
+          "who": "M",
+          "text": "Tasso di sviluppo della forza, potenza ed esplosività in tutto il movimento. Poi c'è l'hang power snatch."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Sempre sopra il ginocchio?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, ma incastri come nel power snatch: alto, a un quarto di squat. Utile a chi fatica a raggiungere lo squat profondo e l'incastro completo sopra la testa."
+        },
+        {
+          "who": "L",
+          "text": "Quindi affino la tecnica e produco la massima potenza."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, e partire alto aiuta chi ha limiti di mobilità. L'altezza di partenza poi si cambia: più su, o più giù, per esempio sotto il ginocchio."
+        },
+        {
+          "who": "L",
+          "text": "Come il tiro al volo con il pallone già alzato: salto la parte difficile."
+        },
+        {
+          "who": "M",
+          "text": "[confident] Proprio così. Per un calciatore sono spesso le più pratiche: meno mobilità, e dritte alla potenza."
+        }
+      ]
+    },
+    {
+      "part": 11,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Errori delle varianti hang. Molti sono quelli già visti, ma uno è tipico di queste versioni."
+        },
+        {
+          "who": "L",
+          "text": "Quale?"
+        },
+        {
+          "who": "M",
+          "text": "L'atleta si chiude troppo nella sua posizione. Le spalle davanti al bilanciere sono giuste..."
+        },
+        {
+          "who": "L",
+          "text": "E allora dov'è il problema?"
+        },
+        {
+          "who": "M",
+          "text": "Se si piega troppo in avanti e in più tiene le gambe rigide, nascono due problemi. Secondo te, quali?"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Mmh... non si estende bene?"
+        },
+        {
+          "who": "M",
+          "text": "Bravo: fa fatica a raggiungere una tripla estensione corretta. E il bilanciere viene spinto troppo in avanti."
+        },
+        {
+          "who": "L",
+          "text": "Così incastrarlo sopra la testa diventa difficile."
+        },
+        {
+          "who": "M",
+          "text": "Molto difficile. Come un difensore troppo piegato in avanti: perde equilibrio e non salta bene di testa."
+        },
+        {
+          "who": "L",
+          "text": "Come lo correggo?"
+        },
+        {
+          "who": "M",
+          "text": "Con un'indicazione semplice, adattata al momento: alza il petto, in modo che si veda la scritta sulla maglietta. Così sistema la postura."
+        },
+        {
+          "who": "L",
+          "text": "[laughs] Di nuovo la maglietta!"
+        },
+        {
+          "who": "M",
+          "text": "Leggere la scritta, sollevarla con il bilanciere, mostrarla alzando il petto. Indicazioni concrete, che l'atleta capisce subito anche in una seduta intensa."
+        },
+        {
+          "who": "L",
+          "text": "Quindi: troppo chiuso? Petto alto e maglietta in vista."
+        }
+      ]
+    },
+    {
+      "part": 12,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Tiriamo le somme. Hai visto lo stacco con presa da strappo, lo snatch pull, lo snatch balance, il power snatch e le varianti hang."
+        },
+        {
+          "who": "L",
+          "text": "E il messaggio più importante?"
+        },
+        {
+          "who": "M",
+          "text": "La scelta dell'esercizio va adattata alla persona: all'atleta, ai suoi obiettivi di allenamento e a quello che chiede il suo sport."
+        },
+        {
+          "who": "L",
+          "text": "Quindi non c'è una variante migliore?"
+        },
+        {
+          "who": "M",
+          "text": "[emphatic] Non esiste in assoluto. Secondo te, quando sono più utili le varianti?"
+        },
+        {
+          "who": "L",
+          "text": "Quando l'atleta ha limiti di mobilità..."
+        },
+        {
+          "who": "M",
+          "text": "E quando ha poco tempo per imparare la tecnica dello strappo completo."
+        },
+        {
+          "who": "L",
+          "text": "Come me: mi alleno con la squadra quasi ogni giorno, e in palestra ho poco tempo."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Lo strappo intero richiede mesi, una variante ti dà subito la parte utile. E sviluppa in modo efficiente potenza e RFD, il tasso di sviluppo della forza."
+        },
+        {
+          "who": "L",
+          "text": "Quello che serve per scattare, saltare e cambiare direzione."
+        },
+        {
+          "who": "M",
+          "text": "Proprio. Alla fine la decisione spetta al preparatore: sei tu che scegli la variante per i tuoi atleti e gli obiettivi del momento."
+        },
+        {
+          "who": "L",
+          "text": "Come l'allenatore che sceglie il modulo in base ai giocatori che ha, non allo schema di moda."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Esatto. Scelte informate ottimizzano i risultati e aiutano i giocatori a raggiungere il loro pieno potenziale. Alla prossima, Luca!"
+        }
+      ]
+    }
+  ]
+}
