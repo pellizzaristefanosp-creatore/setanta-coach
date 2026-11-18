@@ -1,0 +1,978 @@
+{
+ "code": "5.3",
+ "parts": {
+  "0": {
+   "src": "/audio/5.3/1.mp3",
+   "duration": 90,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Allora Luca, oggi scopriamo come nasce davvero l'ipertrofia. Partiamo da un'idea semplice: per il corpo l'allenamento della forza è uno stress."
+    },
+    {
+     "who": "L",
+     "start": 10.46,
+     "text": "Uno stress? Cioè ogni volta che sollevo un peso lo metto in difficoltà?"
+    },
+    {
+     "who": "M",
+     "start": 15.56,
+     "text": "Esatto. E con il tempo il corpo si adatta, così lo stesso lavoro lo disturba di meno."
+    },
+    {
+     "who": "L",
+     "start": 22.26,
+     "text": "Come quando marco sempre lo stesso attaccante veloce... partita dopo partita soffro meno."
+    },
+    {
+     "who": "M",
+     "start": 28.49,
+     "text": "Proprio così. Crescere di massa è uno di questi adattamenti: un muscolo più grosso e più forte sopporta meglio fatica e carichi, è una forma di difesa."
+    },
+    {
+     "who": "L",
+     "start": 40.07,
+     "text": "Ok, ma come fa il peso a dire al muscolo di crescere?"
+    },
+    {
+     "who": "M",
+     "start": 44.13,
+     "text": "Secondo la lezione ci sono tre meccanismi principali. Tutti e tre aumentano la sintesi proteica, cioè fanno costruire più proteine muscolari."
+    },
+    {
+     "who": "L",
+     "start": 53.96,
+     "text": "E quali sono?"
+    },
+    {
+     "who": "M",
+     "start": 55.62,
+     "text": "Il primo è la tensione meccanica, la forza che il muscolo sente sotto carico. Il secondo è lo stress metabolico, l'accumulo di scarti che senti come bruciore."
+    },
+    {
+     "who": "L",
+     "start": 66.42,
+     "text": "E il terzo?"
+    },
+    {
+     "who": "M",
+     "start": 67.92,
+     "text": "Il danno muscolare: le piccole lesioni alle fibre causate dall'allenamento. Questa terna all'esame torna SEMPRE."
+    },
+    {
+     "who": "L",
+     "start": 76.24,
+     "text": "Tensione meccanica, stress metabolico, danno muscolare. Fissato."
+    },
+    {
+     "who": "M",
+     "start": 82.23,
+     "text": "Li vediamo uno alla volta... e alla fine capiremo quale sembra il più importante, e perché non è facile dirlo con certezza."
+    }
+   ]
+  },
+  "1": {
+   "src": "/audio/5.3/2.mp3",
+   "duration": 84.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Partiamo dal primo: la tensione meccanica. È la tensione che si crea dentro il muscolo quando il carico tira e spinge."
+    },
+    {
+     "who": "L",
+     "start": 8.63,
+     "text": "Ed è importante per crescere?"
+    },
+    {
+     "who": "M",
+     "start": 11.41,
+     "text": "È considerata uno dei grandi inneschi dell'ipertrofia. Il muscolo scheletrico reagisce molto ai cambiamenti del carico meccanico."
+    },
+    {
+     "who": "L",
+     "start": 19.88,
+     "text": "Qual è la teoria?"
+    },
+    {
+     "who": "M",
+     "start": 21.64,
+     "text": "La tensione disturba l'integrità del muscolo. Lui risponde con un segnale: aumenta la sintesi proteica."
+    },
+    {
+     "who": "L",
+     "start": 28.84,
+     "text": "Quindi è la contrazione che faccio quando sposto un carico."
+    },
+    {
+     "who": "M",
+     "start": 32.82,
+     "text": "Sì, quella è la parte principale. Ma secondo te... si crea tensione anche allungando il muscolo?"
+    },
+    {
+     "who": "L",
+     "start": 40.86,
+     "text": "Con lo stretching? Direi di sì."
+    },
+    {
+     "who": "M",
+     "start": 44.14,
+     "text": "Giusto, e potrebbe portare a una risposta di crescita. Distinzione d'esame: lo stretching porta più probabilmente all'ipertrofia in serie, cioè sarcomeri aggiunti in lunghezza."
+    },
+    {
+     "who": "L",
+     "start": 56.53,
+     "text": "E i pesi?"
+    },
+    {
+     "who": "M",
+     "start": 57.87,
+     "text": "Esercizi di forza e contrazioni portano all'ipertrofia in parallelo: la fibra diventa più spessa."
+    },
+    {
+     "who": "L",
+     "start": 65.23,
+     "text": "Come una rete da porta: tirata si allunga, con tanti palloni appesi diventa più spessa."
+    },
+    {
+     "who": "M",
+     "start": 71.85,
+     "text": "Perfetto. Per la massima dimensione punti sul parallelo, anche se quella in serie ha il suo valore."
+    },
+    {
+     "who": "L",
+     "start": 80.08,
+     "text": "Quindi per un calciatore la base sono i pesi, e lo stretching è un'aggiunta."
+    }
+   ]
+  },
+  "2": {
+   "src": "/audio/5.3/3.mp3",
+   "duration": 88.9,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "La tensione meccanica è la forza che il muscolo produce quando lavora sotto carico. Due elementi sembrano decisivi."
+    },
+    {
+     "who": "L",
+     "start": 7.98,
+     "text": "Quali?"
+    },
+    {
+     "who": "M",
+     "start": 9.09,
+     "text": "Il primo è il picco di tensione, la tensione più alta che il muscolo raggiunge. Un picco più alto si associa a una risposta ipertrofica migliore."
+    },
+    {
+     "who": "L",
+     "start": 18.92,
+     "text": "Allora il picco è all'1RM, no? È il carico più pesante."
+    },
+    {
+     "who": "M",
+     "start": 23.94,
+     "text": "Domanda furba... ma no. La tensione nel muscolo può toccare il massimo già intorno al NOVANTA per cento dell'1RM."
+    },
+    {
+     "who": "L",
+     "start": 32.97,
+     "text": "E perché?"
+    },
+    {
+     "who": "M",
+     "start": 34.54,
+     "text": "Con il massimale tendini e legamenti, le strutture passive, si prendono più carico. Altri muscoli aiutano di più, e spesso la tecnica peggiora."
+    },
+    {
+     "who": "L",
+     "start": 44.85,
+     "text": "Quindi sollevo più chili, ma il muscolo che voglio allenare non è per forza più in tensione."
+    },
+    {
+     "who": "M",
+     "start": 50.76,
+     "text": "Esatto, il carico in più può arrivare da altri fattori."
+    },
+    {
+     "who": "L",
+     "start": 54.82,
+     "text": "Come un tiro a tutta forza: rovini la tecnica e la potenza non va dove serve."
+    },
+    {
+     "who": "M",
+     "start": 60.42,
+     "text": "Bravo. Il secondo elemento è il tempo sotto tensione, quanto a lungo il muscolo resta in tensione: anche questo è un fattore chiave."
+    },
+    {
+     "who": "L",
+     "start": 70.96,
+     "text": "E come lo allungo?"
+    },
+    {
+     "who": "M",
+     "start": 73.03,
+     "text": "Per esempio eseguendo l'esercizio più lentamente: in teoria stimoli l'ipertrofia con la tensione meccanica. Ci torniamo nelle prossime lezioni."
+    },
+    {
+     "who": "L",
+     "start": 83.18,
+     "text": "Quindi il singolo massimale non è automaticamente lo stimolo migliore per quadricipiti e femorali."
+    }
+   ]
+  },
+  "3": {
+   "src": "/audio/5.3/4.mp3",
+   "duration": 89.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Come fa la tensione a diventare muscolo nuovo? Non basta spingere un peso."
+    },
+    {
+     "who": "L",
+     "start": 5.26,
+     "text": "Cioè la fibra non cresce solo perché è in tensione?"
+    },
+    {
+     "who": "M",
+     "start": 9.09,
+     "text": "No, serve un passaggio in mezzo. Le forze meccaniche vengono trasformate in segnali molecolari dentro le cellule muscolari."
+    },
+    {
+     "who": "L",
+     "start": 18.03,
+     "text": "Fammi la catena."
+    },
+    {
+     "who": "M",
+     "start": 19.79,
+     "text": "Il carico crea tensione. La tensione attiva le vie di segnalazione anabolica, che danno l'ordine di aumentare la sintesi proteica muscolare."
+    },
+    {
+     "who": "L",
+     "start": 29.39,
+     "text": "Carico, tensione, segnale, sintesi proteica. Come un filtrante che l'attaccante trasforma in tiro e poi in rete!"
+    },
+    {
+     "who": "M",
+     "start": 37.7,
+     "text": "Esatto. E ricorda: tutto nell'ipertrofia alla fine si riduce a un effetto positivo sulla sintesi proteica muscolare."
+    },
+    {
+     "who": "L",
+     "start": 46.73,
+     "text": "Allora la tensione è il meccanismo più importante?"
+    },
+    {
+     "who": "M",
+     "start": 50.55,
+     "text": "È uno stimolo molto potente, alcuni autori dicono il più importante. Ma da sola difficilmente è l'unica responsabile dei guadagni di massa."
+    },
+    {
+     "who": "L",
+     "start": 60.78,
+     "text": "Ma non basta caricare pesantissimo?"
+    },
+    {
+     "who": "M",
+     "start": 63.56,
+     "text": "Poche ripetizioni con carichi molto alti creano tantissima tensione... eppure potrebbero non essere il modo migliore per massimizzare l'ipertrofia."
+    },
+    {
+     "who": "L",
+     "start": 73.62,
+     "text": "Come un powerlifter che fa solo singole e doppie: fortissimo, ma non per forza il più grosso."
+    },
+    {
+     "who": "M",
+     "start": 79.85,
+     "text": "Proprio così. La tensione è necessaria, ma servono anche gli altri meccanismi."
+    },
+    {
+     "who": "L",
+     "start": 85.45,
+     "text": "Quindi in un blocco di ipertrofia non mi limito mai ai carichi massimali."
+    }
+   ]
+  },
+  "4": {
+   "src": "/audio/5.3/5.mp3",
+   "duration": 78.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Anche lo stretching crea tensione. Nei pesi il muscolo si allunga già nell'eccentrica, ma qui parliamo dello stretching fatto a parte."
+    },
+    {
+     "who": "L",
+     "start": 8.94,
+     "text": "Si usa tanto per crescere?"
+    },
+    {
+     "who": "M",
+     "start": 11.18,
+     "text": "È un approccio molto meno comune. Negli animali ci sono molte ricerche: allungare un muscolo per alcune settimane ha dato una grande crescita della sezione trasversa."
+    },
+    {
+     "who": "L",
+     "start": 22.44,
+     "text": "E negli esseri umani?"
+    },
+    {
+     "who": "M",
+     "start": 24.44,
+     "text": "Gli studi sono pochi. Sembra però che stretching attivo e passivo, insieme alla forza, possano aiutare a massimizzare l'ipertrofia."
+    },
+    {
+     "who": "L",
+     "start": 33.62,
+     "text": "E in pratica come lo uso?"
+    },
+    {
+     "who": "M",
+     "start": 36.09,
+     "text": "Allunghi il muscolo che alleni durante il recupero tra le serie. Oppure a fine serie, subito dopo l'ultima ripetizione."
+    },
+    {
+     "who": "L",
+     "start": 44.48,
+     "text": "Perché dovrebbe funzionare?"
+    },
+    {
+     "who": "M",
+     "start": 46.63,
+     "text": "Secondo te... cosa aggiunge al muscolo?"
+    },
+    {
+     "who": "L",
+     "start": 50.76,
+     "text": "Più tempo sotto tensione?"
+    },
+    {
+     "who": "M",
+     "start": 53.23,
+     "text": "Esatto, probabilmente è quello, ed è un forte stimolo. Però da solo lo stretching NON è un metodo efficace per l'ipertrofia."
+    },
+    {
+     "who": "L",
+     "start": 62.4,
+     "text": "Diventa utile se lo abbino ai pesi."
+    },
+    {
+     "who": "M",
+     "start": 65.18,
+     "text": "Sì. Il riferimento da ricordare è Mohamad e colleghi, duemilaundici."
+    },
+    {
+     "who": "L",
+     "start": 71.25,
+     "text": "Quindi dopo il leg curl tengo i femorali allungati nella pausa. Come il cross dopo il dribbling: da solo non fa gol."
+    }
+   ]
+  },
+  "5": {
+   "src": "/audio/5.3/6.mp3",
+   "duration": 75.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Secondo meccanismo: lo stress metabolico. È l'accumulo di metaboliti e scarti prodotti dalle reazioni che danno energia al muscolo."
+    },
+    {
+     "who": "L",
+     "start": 9.26,
+     "text": "Che scarti?"
+    },
+    {
+     "who": "M",
+     "start": 10.76,
+     "text": "Gli esempi da sapere sono tre: fosfato inorganico, lattato e ioni idrogeno."
+    },
+    {
+     "who": "L",
+     "start": 17.38,
+     "text": "E quando si accumulano?"
+    },
+    {
+     "who": "M",
+     "start": 19.37,
+     "text": "Negli sforzi anaerobici che portano a fatica, come i pesi. Creano fatica periferica e accumulo di scarti."
+    },
+    {
+     "who": "L",
+     "start": 27.19,
+     "text": "Il bruciore dopo una serie a esaurimento!"
+    },
+    {
+     "who": "M",
+     "start": 31.25,
+     "text": "Proprio quello. Ma c'è dell'altro: mentre si contrae, il muscolo schiaccia i vasi sanguigni al suo interno."
+    },
+    {
+     "who": "L",
+     "start": 39.15,
+     "text": "E cosa succede?"
+    },
+    {
+     "who": "M",
+     "start": 40.99,
+     "text": "Arriva meno sangue, gli scarti non vengono portati via bene e si accumulano ancora di più. Lo stress metabolico cresce."
+    },
+    {
+     "who": "L",
+     "start": 49.54,
+     "text": "Come l'ultimo minuto di una ripetuta di sprint, quando le gambe bruciano."
+    },
+    {
+     "who": "M",
+     "start": 54.41,
+     "text": "Esatto. I bodybuilder usano da sempre il bruciore come segnale di una seduta di qualità, e sono l'esempio migliore di ciò che funziona... quindi lo stress metabolico deve contare."
+    },
+    {
+     "who": "L",
+     "start": 66,
+     "text": "E come porta alla crescita?"
+    },
+    {
+     "who": "M",
+     "start": 68.3,
+     "text": "Dipende da diversi fattori. Noi ne vediamo due: più reclutamento di fibre e più rigonfiamento delle cellule."
+    }
+   ]
+  },
+  "6": {
+   "src": "/audio/5.3/7.mp3",
+   "duration": 87.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Primo effetto dello stress metabolico: si reclutano più fibre. Ripassiamo: le unità motorie si attivano in un ordine preciso."
+    },
+    {
+     "who": "L",
+     "start": 9.34,
+     "text": "Prima quelle a soglia bassa e poca forza, poi quelle a soglia alta e tanta forza."
+    },
+    {
+     "who": "M",
+     "start": 15.49,
+     "text": "Bravo. Così il corpo non spreca energia e si muove in modo efficiente."
+    },
+    {
+     "who": "L",
+     "start": 21.16,
+     "text": "Tipo alzarsi da una sedia rispetto a uno squat?"
+    },
+    {
+     "who": "M",
+     "start": 24.6,
+     "text": "Esatto. Movimenti simili, ma per la sedia serve molta meno azione muscolare: accendere le unità ad alta forza sarebbe energia sprecata."
+    },
+    {
+     "who": "L",
+     "start": 34.9,
+     "text": "E in palestra?"
+    },
+    {
+     "who": "M",
+     "start": 37.05,
+     "text": "Con un carico leggero o moderato potresti non attivare le unità a soglia molto alta e le fibre di tipo due."
+    },
+    {
+     "who": "L",
+     "start": 44.56,
+     "text": "Ma sono quelle che crescono di più!"
+    },
+    {
+     "who": "M",
+     "start": 47.26,
+     "text": "Proprio così, hanno il maggior potenziale di crescita. E con carichi moderati servono abbastanza ripetizioni per creare stress metabolico."
+    },
+    {
+     "who": "L",
+     "start": 56.36,
+     "text": "Perché aiuta?"
+    },
+    {
+     "who": "M",
+     "start": 58.02,
+     "text": "Con fatica e stress metabolico la soglia delle unità ad alta soglia si ABBASSA. Forse perché gli scarti disturbano la capacità di contrarsi."
+    },
+    {
+     "who": "L",
+     "start": 67.61,
+     "text": "Quindi il muscolo deve reclutare più fibre per mantenere la stessa forza."
+    },
+    {
+     "who": "M",
+     "start": 72.72,
+     "text": "Sì: grande attivazione muscolare, fondamentale per l'ipertrofia. Come un allenatore che manda in campo i titolari quando la partita si fa dura."
+    },
+    {
+     "who": "L",
+     "start": 82.32,
+     "text": "Ecco perché una serie da dodici vicino al cedimento accende anche le fibre più grosse."
+    }
+   ]
+  },
+  "7": {
+   "src": "/audio/5.3/8.mp3",
+   "duration": 86.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Secondo effetto: la cellula si gonfia. Si pensa che lo stress metabolico degli sforzi anaerobici con fatica favorisca il rigonfiamento cellulare."
+    },
+    {
+     "who": "L",
+     "start": 10.38,
+     "text": "E a cosa serve?"
+    },
+    {
+     "who": "M",
+     "start": 12.3,
+     "text": "Rigonfiamento e maggiore idratazione sembrano aumentare la sintesi proteica e ridurre la disgregazione delle proteine."
+    },
+    {
+     "who": "L",
+     "start": 20.28,
+     "text": "Come funziona?"
+    },
+    {
+     "who": "M",
+     "start": 21.93,
+     "text": "Se nella cellula entra più acqua, sale la pressione sulla membrana. Pensa a un palloncino pieno d'acqua che spinge sulle pareti."
+    },
+    {
+     "who": "L",
+     "start": 30.56,
+     "text": "O a un pallone gonfiato troppo, con la cucitura che tira."
+    },
+    {
+     "who": "M",
+     "start": 34.78,
+     "text": "Esatto. La cellula sente questa pressione come una minaccia alla sua struttura."
+    },
+    {
+     "who": "L",
+     "start": 41.32,
+     "text": "E allora?"
+    },
+    {
+     "who": "M",
+     "start": 42.66,
+     "text": "Per difendersi aumenta la sintesi proteica e rinforza le pareti. Si formano cellule capaci di resistere al rigonfiamento: effetto positivo sull'ipertrofia."
+    },
+    {
+     "who": "L",
+     "start": 53.78,
+     "text": "Quindi sappiamo tutto di come funziona?"
+    },
+    {
+     "who": "M",
+     "start": 56.82,
+     "text": "No, come i fattori dello stress metabolico interagiscono con l'ipertrofia non è chiaro: sono difficili da studiare. Ma la lezione è netta: è un meccanismo chiave."
+    },
+    {
+     "who": "L",
+     "start": 68.48,
+     "text": "Ricapitolo: recluta più fibre, anche quelle che crescono di più, e gonfia la cellula, che costruisce più proteine."
+    },
+    {
+     "who": "M",
+     "start": 76.53,
+     "text": "Perfetto. E il pompaggio dopo una serie lunga di curl o leg extension?"
+    },
+    {
+     "who": "L",
+     "start": 83.06,
+     "text": "Quel muscolo pieno e teso... è il rigonfiamento!"
+    }
+   ]
+  },
+  "8": {
+   "src": "/audio/5.3/9.mp3",
+   "duration": 80.3,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Terzo meccanismo: il danno muscolare indotto dall'esercizio. Succede quando i pesi danneggiano le fibre."
+    },
+    {
+     "who": "L",
+     "start": 7.82,
+     "text": "Sembra una cosa brutta."
+    },
+    {
+     "who": "M",
+     "start": 10.29,
+     "text": "In realtà quasi ogni allenamento con i pesi crea qualche microtrauma. Se non è eccessivo, è una conseguenza normale."
+    },
+    {
+     "who": "L",
+     "start": 18.26,
+     "text": "E serve a qualcosa?"
+    },
+    {
+     "who": "M",
+     "start": 20.1,
+     "text": "Si pensa che porti a una risposta ipertrofica che protegge dai danni futuri. Un muscolo più grosso e forte, in teoria, resiste meglio a nuove lesioni."
+    },
+    {
+     "who": "L",
+     "start": 30.25,
+     "text": "Da cosa dipende quanto è grave?"
+    },
+    {
+     "who": "M",
+     "start": 32.79,
+     "text": "Da tre fattori: tipo, intensità e volume dell'allenamento. Più alti volume e intensità, più è probabile il danno."
+    },
+    {
+     "who": "L",
+     "start": 41.66,
+     "text": "E il tipo di esercizio?"
+    },
+    {
+     "who": "M",
+     "start": 43.66,
+     "text": "Secondo te... un esercizio mai fatto prima cosa provoca?"
+    },
+    {
+     "who": "L",
+     "start": 49.06,
+     "text": "Più danno, perché il corpo non è abituato a quello stress."
+    },
+    {
+     "who": "M",
+     "start": 53.54,
+     "text": "Esatto. Come chi è in forma, fa una lezione con esercizi insoliti e il giorno dopo si sveglia pieno di dolori."
+    },
+    {
+     "who": "L",
+     "start": 61.36,
+     "text": "O la prima partita sul sintetico dopo mesi sull'erba: il giorno dopo sono a pezzi."
+    },
+    {
+     "who": "M",
+     "start": 67.35,
+     "text": "Proprio così. Nella slide una foto confronta una fibra dopo l'allenamento con una di controllo e mostra il danno."
+    },
+    {
+     "who": "L",
+     "start": 76.22,
+     "text": "Quindi a inizio preparazione introduco i movimenti nuovi con calma."
+    }
+   ]
+  },
+  "9": {
+   "src": "/audio/5.3/10.mp3",
+   "duration": 74.9,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Conta anche il tipo di contrazione. Concentriche e isometriche possono danneggiare il muscolo... ma l'eccentrica è di gran lunga la più dannosa."
+    },
+    {
+     "who": "L",
+     "start": 9.99,
+     "text": "Perché proprio l'eccentrica?"
+    },
+    {
+     "who": "M",
+     "start": 12.3,
+     "text": "Perché le teste di actina e miosina vengono separate a forza. Questo strappo porta a un danno maggiore."
+    },
+    {
+     "who": "L",
+     "start": 19.73,
+     "text": "Un esempio?"
+    },
+    {
+     "who": "M",
+     "start": 21.07,
+     "text": "Il classico è il Nordic hamstring curl, che nella slide vedi in un video."
+    },
+    {
+     "who": "L",
+     "start": 26.57,
+     "text": "Lo conosco... la prima settimana i femorali sono distrutti per giorni."
+    },
+    {
+     "who": "M",
+     "start": 31.75,
+     "text": "E dopo qualche seduta?"
+    },
+    {
+     "who": "L",
+     "start": 34.83,
+     "text": "Lo stesso esercizio dà molto meno fastidio."
+    },
+    {
+     "who": "M",
+     "start": 38.18,
+     "text": "Ecco l'effetto degli sforzi ripetuti: se ripeti lo stesso esercizio, il danno DIMINUISCE. Il corpo si abitua e disturba meno le fibre."
+    },
+    {
+     "who": "L",
+     "start": 47.52,
+     "text": "Allora negli atleti ben allenati il danno non conta più per crescere?"
+    },
+    {
+     "who": "M",
+     "start": 52.47,
+     "text": "Era l'idea, ma gli studi dicono altro. Il danno si verifica comunque anche negli allenati, solo in misura minore."
+    },
+    {
+     "who": "L",
+     "start": 60.86,
+     "text": "Quindi può ancora avere un ruolo nella loro ipertrofia."
+    },
+    {
+     "who": "M",
+     "start": 64.77,
+     "text": "Sì. E il Nordic continua a servire: il danno c'è ancora, solo più piccolo."
+    },
+    {
+     "who": "L",
+     "start": 71.15,
+     "text": "Per questo lo introduco con poco volume e lo aumento gradualmente."
+    }
+   ]
+  },
+  "10": {
+   "src": "/audio/5.3/11.mp3",
+   "duration": 86.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "L'ipertrofia può avvenire anche senza danno muscolare. Però il danno aiuta, probabilmente perché aumenta i segnali per la sintesi proteica."
+    },
+    {
+     "who": "L",
+     "start": 9.44,
+     "text": "Allora più danno faccio, meglio è?"
+    },
+    {
+     "who": "M",
+     "start": 12.72,
+     "text": "No, il punto è QUANTO danno. Se è eccessivo cala la forza, compaiono rigidità e gonfiore, e arrivano i DOMS."
+    },
+    {
+     "who": "L",
+     "start": 21.82,
+     "text": "I DOMS?"
+    },
+    {
+     "who": "M",
+     "start": 23.47,
+     "text": "L'indolenzimento muscolare a insorgenza ritardata. Tutto questo può rovinare le sedute successive."
+    },
+    {
+     "who": "L",
+     "start": 30.51,
+     "text": "Ma se sono dolorante vuol dire che ho lavorato duro, no?"
+    },
+    {
+     "who": "M",
+     "start": 34.41,
+     "text": "Ecco la trappola. Chi cerca apposta il dolore si limita da solo e poi non lavora bene nelle sedute dopo."
+    },
+    {
+     "who": "L",
+     "start": 41.76,
+     "text": "E perde volume."
+    },
+    {
+     "who": "M",
+     "start": 43.52,
+     "text": "Esatto, e il volume è fondamentale per crescere. Regola: se sei troppo dolorante per allenarti bene, il danno è stato eccessivo."
+    },
+    {
+     "who": "L",
+     "start": 53.75,
+     "text": "Però i DOMS dicono quanto danno c'è, giusto?"
+    },
+    {
+     "who": "M",
+     "start": 57.5,
+     "text": "Nascono dal danno, ma sono poco correlati con i tempi e l'entità dei suoi marcatori chimici. Puoi avere un danno quasi riparato ed essere ancora molto dolorante."
+    },
+    {
+     "who": "L",
+     "start": 68.45,
+     "text": "Come giudicare una partita dai lividi."
+    },
+    {
+     "who": "M",
+     "start": 71.31,
+     "text": "Proprio così. Sono il disturbo più comune dopo i pesi, ma il dolore non misura quanto ti sei allenato duro."
+    },
+    {
+     "who": "L",
+     "start": 79.63,
+     "text": "Quindi niente caccia ai DOMS: se un giocatore arriva al giovedì con le gambe bloccate, la seduta del martedì era troppo."
+    }
+   ]
+  },
+  "11": {
+   "src": "/audio/5.3/12.mp3",
+   "duration": 86.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Arriviamo alla domanda che tutti si fanno: quale dei tre conta di più?"
+    },
+    {
+     "who": "L",
+     "start": 5.88,
+     "text": "La tensione meccanica, dicono tutti."
+    },
+    {
+     "who": "M",
+     "start": 9.07,
+     "text": "Molti sì, ma in realtà è difficile stabilirlo. Carico meccanico e stress metabolico di solito si presentano insieme."
+    },
+    {
+     "who": "L",
+     "start": 17.78,
+     "text": "E il danno?"
+    },
+    {
+     "who": "M",
+     "start": 19.28,
+     "text": "L'accumulo di metaboliti di solito arriva insieme al danno alle fibre. Separarli è molto complicato: nella slide sono tre cerchi che si sovrappongono."
+    },
+    {
+     "who": "L",
+     "start": 29.66,
+     "text": "Quindi non si può dire niente?"
+    },
+    {
+     "who": "M",
+     "start": 32.36,
+     "text": "L'argomento per la tensione meccanica resta probabilmente il più forte. Secondo te perché?"
+    },
+    {
+     "who": "L",
+     "start": 39.6,
+     "text": "Perché senza carico non succede niente?"
+    },
+    {
+     "who": "M",
+     "start": 42.87,
+     "text": "Esatto. Lo stress metabolico non avviene senza sovraccarico meccanico, e il danno non avviene senza carico e tensione meccanica."
+    },
+    {
+     "who": "L",
+     "start": 52.21,
+     "text": "La tensione è la porta d'ingresso per gli altri due."
+    },
+    {
+     "who": "M",
+     "start": 55.88,
+     "text": "Sì. Ma comunque interagiscano, tutti e tre possono almeno potenzialmente migliorare la sintesi proteica e, col tempo, portare all'ipertrofia."
+    },
+    {
+     "who": "L",
+     "start": 66.1,
+     "text": "E nella scheda cosa cambia?"
+    },
+    {
+     "who": "M",
+     "start": 68.72,
+     "text": "Non la basi su un solo meccanismo. Carichi che creano tensione, serie abbastanza lunghe per lo stress metabolico e un danno gestito, che non rovini le sedute dopo."
+    },
+    {
+     "who": "L",
+     "start": 79.76,
+     "text": "Come centravanti, regista e difensore: la tensione è la candidata più forte, ma contano tutti e tre."
+    }
+   ]
+  },
+  "12": {
+   "src": "/audio/5.3/13.mp3",
+   "duration": 86.3,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Chiudiamo mettendo in fila i tre meccanismi della crescita con i pesi. Qual è il primo?"
+    },
+    {
+     "who": "L",
+     "start": 6.69,
+     "text": "La tensione meccanica: il carico mette in tensione il muscolo, e la tensione diventa segnali che aumentano la sintesi proteica."
+    },
+    {
+     "who": "M",
+     "start": 15.24,
+     "text": "E cosa conta?"
+    },
+    {
+     "who": "L",
+     "start": 17.85,
+     "text": "Il picco di tensione, che può arrivare intorno al novanta per cento dell'1RM, e il tempo sotto tensione."
+    },
+    {
+     "who": "M",
+     "start": 24.96,
+     "text": "Bene. Stretching e pesi?"
+    },
+    {
+     "who": "L",
+     "start": 28.44,
+     "text": "Lo stretching favorisce l'ipertrofia in serie, i pesi quella in parallelo."
+    },
+    {
+     "who": "M",
+     "start": 33.93,
+     "text": "Secondo: lo stress metabolico. Fosfato inorganico, lattato e ioni idrogeno si accumulano, anche perché la contrazione schiaccia i vasi."
+    },
+    {
+     "who": "L",
+     "start": 44.39,
+     "text": "Così si reclutano più fibre, perché si abbassa la soglia delle unità ad alta soglia. E la cellula si gonfia e costruisce proteine."
+    },
+    {
+     "who": "M",
+     "start": 52.95,
+     "text": "Terzo: il danno muscolare indotto dall'esercizio. Dipende da tipo, intensità e volume, e l'eccentrica è la più dannosa."
+    },
+    {
+     "who": "L",
+     "start": 62.39,
+     "text": "Con l'effetto degli sforzi ripetuti cala, ma negli allenati non sparisce."
+    },
+    {
+     "who": "M",
+     "start": 67.57,
+     "text": "E i DOMS non sono un buon termometro: un danno eccessivo riduce il volume delle sedute dopo."
+    },
+    {
+     "who": "L",
+     "start": 74.27,
+     "text": "E il più forte è la tensione meccanica... ma contano tutti e tre."
+    },
+    {
+     "who": "M",
+     "start": 78.82,
+     "text": "Perfetto. Ripetili come le marcature prima della partita: se li spieghi con un esempio di palestra, sei pronto per l'esame."
+    }
+   ]
+  }
+ }
+}
