@@ -1,0 +1,691 @@
+{
+  "version": 1,
+  "code": "5.2",
+  "unit": 5,
+  "title": "Tipi di ipertrofia e ormoni",
+  "summary": "Come può crescere un muscolo: ipertrofia contrattile e sarcoplasmatica, cellule satellite e iperplasia. Poi gli ormoni che costruiscono e smontano il muscolo e il dibattito sull'ipotesi ormonale.",
+  "parts": [
+    {
+      "slide": 3,
+      "title": "Di cosa parliamo",
+      "narration": "Nella lezione precedente hai visto la base di tutto: un muscolo cresce quando costruisce più proteine di quante ne smonta. Adesso andiamo un passo più in là. La domanda di oggi è questa: in che modo, concretamente, un muscolo diventa più grande? Non esiste una sola strada. Vedremo diversi tipi di ipertrofia e capiremo come ognuno cambia le dimensioni del muscolo. Parleremo di ipertrofia contrattile, detta anche miofibrillare, e di ipertrofia sarcoplasmatica. Poi vedremo il lavoro delle cellule satellite e un tema molto discusso, l'iperplasia. Nella seconda parte cambiamo argomento e passiamo agli ormoni. Capirai cos'è il sistema endocrino e perché alcuni ormoni sono così importanti per la massa muscolare. Guarderemo da vicino i principali: il fattore di crescita insulino-simile, il testosterone, l'ormone della crescita e l'insulina. Vedremo anche il cortisolo, che spesso gioca nella squadra opposta. Alla fine arriva la parte più interessante per chi allena: la cosiddetta ipotesi ormonale. È l'idea che il picco di ormoni dopo la seduta sia la chiave della crescita. Vedremo due studi che l'hanno messa in dubbio. Perché ti serve tutto questo in campo e in palestra? Perché quando un giocatore ti chiede come mettere su muscolo, o ti racconta un consiglio letto online, devi saper distinguere quello che conta davvero da quello che fa solo rumore. Segui le parti una alla volta e tieni a mente tre parole: tipi, ormoni, ipotesi.",
+      "keyPoints": [
+        "Tipi di ipertrofia e come cambiano le dimensioni del muscolo",
+        "Ruolo dei principali ormoni anabolici",
+        "L'ipotesi ormonale e le critiche recenti"
+      ],
+      "analogy": "È come la lettura della partita prima del fischio: prima capisci i modi in cui puoi segnare, poi chi ti aiuta e chi ti ostacola.",
+      "check": {
+        "question": "Quali sono i tre grandi temi di questa lezione?",
+        "options": [
+          "Riscaldamento, defaticamento e stretching",
+          "Fibre lente, fibre veloci e capacità aerobica",
+          "Tipi di ipertrofia, ormoni anabolici e ipotesi ormonale",
+          "Dieta, integratori e riposo"
+        ],
+        "answer": 2,
+        "explanation": "La lezione tratta i tipi di ipertrofia, i principali ormoni anabolici e l'ipotesi ormonale."
+      }
+    },
+    {
+      "slide": 4,
+      "title": "Ipertrofia contrattile: in parallelo e in serie",
+      "narration": "Partiamo dalla definizione. Ipertrofia vuol dire che il muscolo scheletrico aumenta di dimensioni. Può succedere in modi diversi. Il primo è l'ipertrofia contrattile, chiamata anche miofibrillare. Qui il muscolo aggiunge sarcomeri, quindi più filamenti di actina e miosina. Ricorda che il sarcomero è l'unità funzionale più piccola della miofibrilla. È il pezzo base che si contrae. Più sarcomeri e più proteine contrattili, più grande e più grosso diventa il muscolo. Questa crescita può avvenire in due direzioni. La prima è in parallelo. I nuovi sarcomeri si mettono uno accanto all'altro dentro la miofibrilla. Così il diametro della fibra aumenta, e con lui la dimensione del muscolo. La seconda è in serie. Qui i sarcomeri si aggiungono in lunghezza, uno dopo l'altro, come anelli che allungano una catena. Il muscolo cresce allungandosi. Un esempio: se tieni un arto in posizione molto estesa, con un peso che lo blocca lì, il muscolo in allungamento aggiunge sarcomeri e diventa davvero più lungo. Però l'ipertrofia in serie non fa aumentare molto il diametro della fibra o la sezione trasversa del muscolo. Quindi, se il tuo obiettivo è far crescere il muscolo il più possibile, devi puntare all'ipertrofia in parallelo. L'ipertrofia contrattile è la più utile perché aggiunge elementi che si contraggono. Più elementi contrattili significano più forza. E questo serve sia al calciatore sia a chi si allena per stare bene.",
+      "keyPoints": [
+        "Contrattile o miofibrillare: più sarcomeri, più actina e miosina",
+        "Sarcomero: unità contrattile più piccola della miofibrilla",
+        "In parallelo aumenta il diametro; in serie aumenta la lunghezza",
+        "Per massimizzare la dimensione si punta all'ipertrofia in parallelo",
+        "Più elementi contrattili significano più forza"
+      ],
+      "analogy": "In parallelo è come aggiungere giocatori in barriera uno accanto all'altro: la barriera diventa più larga. In serie è come mettere i giocatori in fila indiana: la fila si allunga ma non si allarga.",
+      "check": {
+        "question": "Che tipo di ipertrofia aumenta di più il diametro delle fibre?",
+        "options": [
+          "Ipertrofia contrattile in parallelo",
+          "Ipertrofia contrattile in serie",
+          "Ipertrofia sarcoplasmatica da glicogeno",
+          "Iperplasia"
+        ],
+        "answer": 0,
+        "explanation": "In parallelo i sarcomeri si affiancano e il diametro cresce; in serie il muscolo si allunga senza ingrossarsi molto."
+      }
+    },
+    {
+      "slide": 5,
+      "title": "Ipertrofia sarcoplasmatica",
+      "narration": "Il secondo tipo è l'ipertrofia sarcoplasmatica. Il sarcoplasma è la parte della fibra che non si contrae: liquidi e organelli. Se il sarcoplasma aumenta, il muscolo si gonfia e sembra più grande, ma nessuna parte contrattile è diventata più forte. Per questo spesso la chiamano ipertrofia non funzionale. Non aiuta a produrre più forza, che è uno degli scopi principali dell'allenamento per l'ipertrofia. È un tema che fa discutere molto. È difficile da studiare e le ricerche sono poche. Una teoria dice che l'allenamento fa immagazzinare più glicogeno nel muscolo. Per tenere il glicogeno serve anche acqua, quindi il muscolo si riempie e cresce di volume. Ma attenzione. Questo accumulo di glicogeno sarebbe solo temporaneo e probabilmente avrebbe un effetto minimo sull'ipertrofia sarcoplasmatica. In realtà questo tipo di crescita è ancora poco capito e servono altri studi. C'è un altro punto importante per l'esame. Non ci sono prove reali che l'ipertrofia contrattile e quella sarcoplasmatica avvengano separate. Molto probabilmente succedono insieme. Forse una va un po' più veloce dell'altra, ma non si staccano mai del tutto. Quindi, quando senti in palestra frasi come «quel metodo fa crescere solo il sarcoplasma», prendile con le pinze. La scienza non lo dimostra. Per te che alleni conta questo: il muscolo cresce come un insieme, e l'obiettivo resta aggiungere parti che producono forza.",
+      "keyPoints": [
+        "Aumento del sarcoplasma: liquidi e organelli, non elementi contrattili",
+        "Detta non funzionale: non aumenta la forza",
+        "Teoria del glicogeno che trattiene acqua: effetto transitorio e minimo",
+        "Contrattile e sarcoplasmatica probabilmente avvengono insieme"
+      ],
+      "analogy": "È come un pallone gonfiato di più: diventa più grande, ma il cuoio non è più resistente.",
+      "check": {
+        "question": "Perché l'ipertrofia sarcoplasmatica è detta non funzionale?",
+        "options": [
+          "Perché riduce il numero di fibre",
+          "Perché avviene solo negli animali",
+          "Perché dura solo pochi minuti",
+          "Perché non aumenta la produzione di forza"
+        ],
+        "answer": 3,
+        "explanation": "Aumentano liquidi e organelli, non gli elementi contrattili, quindi la forza non cresce."
+      }
+    },
+    {
+      "slide": 6,
+      "title": "Le cellule satellite",
+      "narration": "Quando un muscolo viene danneggiato e va riparato e rimodellato, entrano in campo le cellule satellite. L'allenamento di forza crea piccoli danni nel muscolo. Il corpo risponde costruendo fibre più grandi e più forti, e le cellule satellite possono avere un ruolo chiave in questo lavoro. Come aiutano la crescita? Si pensa che regalino nuclei alle fibre muscolari. Più nuclei significano più capacità di produrre proteine contrattili. Il motivo è questo. Ogni nucleo di una fibra riesce a controllare solo una certa quantità di sarcoplasma. Quando la fibra cresce, arriva un momento in cui i nuclei non bastano più a gestire tutto quello che succede nella cellula. A quel punto le cellule satellite donano nuovi nuclei. Con più nuclei, la fibra può continuare a crescere e gestire dimensioni maggiori. Un dettaglio importante: forse le cellule satellite diventano davvero decisive solo dopo che il muscolo è già cresciuto un bel po'. I nuclei che la fibra ha già possono seguire una prima parte di crescita. Se l'ipertrofia va avanti, però, potrebbero aver bisogno di rinforzi. Questo farebbe pensare che le cellule satellite contino di più nelle persone ben allenate. Pensa a un ragazzo al primo anno di palestra e a un difensore che solleva da dieci anni. Nel primo bastano i nuclei che ha. Nel secondo, per crescere ancora, servono nuclei nuovi. Ricordalo: danno, riparazione, nuclei donati, fibre più grandi.",
+      "keyPoints": [
+        "Si attivano quando il muscolo va riparato e rimodellato",
+        "Donano nuclei alle fibre: più sintesi di proteine contrattili",
+        "Ogni nucleo controlla una quantità limitata di sarcoplasma",
+        "Contano di più nelle persone ben allenate"
+      ],
+      "analogy": "È come un allenatore che segue bene solo 10 giocatori: se la rosa cresce, servono altri membri dello staff per seguire tutti.",
+      "check": {
+        "question": "In che modo le cellule satellite favoriscono l'ipertrofia?",
+        "options": [
+          "Dividono le fibre in due",
+          "Donano nuclei alle fibre muscolari",
+          "Aumentano il glicogeno nel muscolo",
+          "Bloccano il rilascio di cortisolo"
+        ],
+        "answer": 1,
+        "explanation": "Con più nuclei la fibra può sintetizzare più proteine contrattili e gestire dimensioni maggiori."
+      }
+    },
+    {
+      "slide": 7,
+      "title": "Iperplasia",
+      "narration": "Quando si parla di tipi di ipertrofia, spesso salta fuori anche l'iperplasia. Ma che cos'è? È la teoria secondo cui le fibre muscolari si dividono. Una fibra diventa due, quindi il numero di fibre aumenta e il muscolo cresce. Guarda bene la differenza con l'ipertrofia vera e propria. Nell'ipertrofia la stessa fibra diventa più grande. Nell'iperplasia le fibre diventano di più. Nel disegno della slide vedi proprio questo: una cellula normale, poi una che si moltiplica e una che si ingrossa. Cosa dice la ricerca? Negli studi sugli animali l'iperplasia è stata dimostrata. Negli esseri umani, invece, la divisione delle fibre e il suo peso nella crescita del muscolo non sono molto chiari. Alcune ricerche indicano che nell'uomo potrebbe essere possibile, e che l'allenamento della forza ad alta intensità potrebbe provocarla. Però le prove dicono soprattutto un'altra cosa. Il fattore principale che decide quanto è grande un muscolo è l'ipertrofia delle fibre. Anche se l'iperplasia avvenisse nell'uomo, conterebbe solo per il 5-10% della dimensione totale del muscolo. Questo numero è da sapere per l'esame. Cosa significa per te? Che non devi inseguire metodi strani che promettono di creare fibre nuove. Il grosso del lavoro lo fa sempre la crescita delle fibre che hai già. Un buon programma di forza, ben costruito e costante, resta la strada principale per far crescere i muscoli di un calciatore.",
+      "keyPoints": [
+        "Iperplasia: le fibre si dividono e aumentano di numero",
+        "Dimostrata negli animali, poco chiara nell'uomo",
+        "Forse indotta da forza ad alta intensità",
+        "Nell'uomo conterebbe al massimo il 5-10% della dimensione muscolare"
+      ],
+      "analogy": "Ipertrofia è far diventare più forti i giocatori che hai; iperplasia è aggiungere giocatori alla rosa. Nel muscolo umano conta quasi tutto la prima.",
+      "check": {
+        "question": "Quanto potrebbe contare l'iperplasia sulla dimensione muscolare nell'uomo?",
+        "options": [
+          "Circa il 50%",
+          "Circa il 25-30%",
+          "Solo il 5-10%",
+          "Oltre il 70%"
+        ],
+        "answer": 2,
+        "explanation": "La crescita delle fibre è il fattore principale; l'iperplasia, se c'è, varrebbe solo il 5-10%."
+      }
+    },
+    {
+      "slide": 8,
+      "title": "Il sistema endocrino",
+      "narration": "Passiamo agli ormoni. Il sistema endocrino è l'insieme dei tessuti e delle ghiandole che producono ormoni. Gli ormoni sono messaggeri chimici. Le ghiandole endocrine, e anche alcune altre cellule, li producono, li conservano e poi li liberano nel sangue. Puoi vederli come sostanze che comandano o regolano il lavoro di certe cellule o di certi organi. Il sangue li porta fino alle cellule bersaglio, ed è lì che agiscono. Gli ormoni hanno effetti su quasi tutti i sistemi del corpo. In questa lezione però ci interessa solo il loro effetto sull'ipertrofia. Un primo punto chiave: la quantità di base di ormoni anabolici che hai nel corpo può influenzare la crescita e la rigenerazione del muscolo scheletrico. Ma cosa vuol dire anabolico? Anabolismo significa costruire. Gli ormoni anabolici sono quelli che costruiscono e riparano il muscolo. Ecco perché sono così importanti quando parliamo di massa muscolare. Gli ormoni funzionano come regolatori dei processi che costruiscono, come la sintesi proteica. Quindi la loro attività e la loro concentrazione possono cambiare quanta proteina produci. Ricordi la lezione precedente? Nell'ipertrofia tutto torna alla sintesi proteica dentro la cellula. Più sintesi, più massa. Gli ormoni sono uno dei comandi che alzano o abbassano questo processo. Nelle prossime parti guardiamo gli ormoni più importanti per la crescita del muscolo, uno alla volta, e vediamo cosa fa ognuno.",
+      "keyPoints": [
+        "Sistema endocrino: tessuti e ghiandole che secernono ormoni",
+        "Ormoni: messaggeri chimici portati dal sangue alle cellule bersaglio",
+        "Anabolico significa che costruisce e ripara il muscolo",
+        "Gli ormoni regolano la sintesi proteica"
+      ],
+      "analogy": "Gli ormoni sono come le indicazioni che il mister manda dalla panchina: viaggiano fino al giocatore giusto e cambiano quello che fa in campo.",
+      "check": {
+        "question": "Cosa significa anabolismo?",
+        "options": [
+          "Degradazione delle proteine",
+          "Produzione di energia dai grassi",
+          "Eliminazione degli ormoni",
+          "Costruzione, per esempio di tessuto muscolare"
+        ],
+        "answer": 3,
+        "explanation": "Anabolismo vuol dire costruire: gli ormoni anabolici costruiscono e riparano il muscolo."
+      }
+    },
+    {
+      "slide": 9,
+      "title": "Fattore di crescita insulino-simile (IGF)",
+      "narration": "Il primo ormone è il fattore di crescita insulino-simile, in breve IGF. È stato indicato come l'ormone anabolico più importante. Eppure quasi tutti conoscono di più testosterone e ormone della crescita. Il nome dice già una cosa: la sua struttura somiglia a quella dell'insulina. L'IGF ha un doppio effetto, anabolico e anticatabolico. Anabolico vuol dire che spinge la sintesi proteica, cioè costruisce. Catabolico invece vuol dire degradare le proteine, cosa che vuoi evitare se cerchi massa. Anticatabolico quindi significa che frena questa degradazione. Per questo l'IGF è due volte utile per l'ipertrofia: costruisce di più e smonta di meno. Non solo. L'IGF influenza anche l'attivazione e l'uso delle cellule satellite. Come hai visto, queste cellule sono importanti per riparare e rigenerare le fibre. C'è poi un aspetto fondamentale, cioè dove nasce. L'IGF può essere prodotto dal fegato e poi girare nel corpo con il sangue. Ma l'esercizio e il sovraccarico meccanico fanno sì che sia il muscolo stesso a produrlo. Questo è un punto da esame. Il muscolo che si contrae sotto carico produce uno degli ormoni anabolici più importanti. È uno dei motivi per cui l'allenamento della forza porta all'ipertrofia. In pratica, quando il tuo giocatore spinge forte nello squat, i suoi muscoli non solo lavorano: producono da soli un segnale per crescere.",
+      "keyPoints": [
+        "Considerato l'ormone anabolico più importante",
+        "Effetto anabolico e anticatabolico: doppiamente utile",
+        "Influenza attivazione e uso delle cellule satellite",
+        "Prodotto dal fegato, ma anche dal muscolo sotto sovraccarico meccanico"
+      ],
+      "analogy": "È come un centrocampista che sia costruisce gioco sia recupera palloni: fa doppio lavoro per la squadra.",
+      "check": {
+        "question": "Perché l'IGF è considerato doppiamente benefico per l'ipertrofia?",
+        "options": [
+          "Perché è sia anabolico sia anticatabolico",
+          "Perché si produce solo durante il sonno",
+          "Perché aumenta il cortisolo",
+          "Perché aumenta il numero di fibre"
+        ],
+        "answer": 0,
+        "explanation": "Aumenta la sintesi proteica e riduce la degradazione delle proteine."
+      }
+    },
+    {
+      "slide": 10,
+      "title": "Testosterone",
+      "narration": "Il testosterone è forse l'ormone anabolico più famoso. E ha senso, perché i suoi effetti anabolici sono indiscutibili. È un ormone sessuale. Nei maschi ce n'è in circolo fino a 10 volte di più che nelle femmine. Questa differenza può spiegare in buona parte perché, dopo la pubertà, i maschi mettono su più massa muscolare. Da qui viene un'altra cosa: il testosterone può far crescere il muscolo anche senza esercizio. Però i suoi effetti anabolici sembrano diventare più forti quando si unisce all'allenamento della forza. Ormone e carico insieme funzionano meglio. Come agisce? Su due fronti. Aumenta la sintesi proteica e riduce la disgregazione delle proteine. Più costruzione, meno smontaggio. In più si è visto che lavora anche con il sistema nervoso e migliora la trasmissione dei segnali nervosi. Questo potrebbe aiutare a produrre più forza in allenamento, e quindi a sollevare carichi più alti. Carichi più alti danno uno stimolo maggiore al muscolo. Infine il testosterone è stato collegato ai segnali che fanno rilasciare altri ormoni anabolici, utili per ottenere il massimo dall'ipertrofia. Quindi non lavora da solo: chiama anche gli altri. Per l'esame ricordati tre cose. Fino a 10 volte di più nei maschi. Effetti amplificati dalla forza. Più sintesi, meno disgregazione, segnale nervoso migliore. Come preparatore, ricorda anche che le tue ragazze crescono di meno in massa, ma rispondono comunque all'allenamento.",
+      "keyPoints": [
+        "Ormone sessuale: fino a 10 volte di più nei maschi",
+        "Può far crescere il muscolo anche senza esercizio",
+        "Effetti amplificati con l'allenamento della forza",
+        "Più sintesi, meno disgregazione, migliore segnale nervoso",
+        "Collegato al rilascio di altri ormoni anabolici"
+      ],
+      "analogy": "È come il capitano: gioca bene da solo, ma rende di più quando la squadra si allena forte, e trascina anche i compagni.",
+      "check": {
+        "question": "Quanto testosterone circola nei maschi rispetto alle femmine?",
+        "options": [
+          "Circa la metà",
+          "Fino a 10 volte di più",
+          "Lo stesso",
+          "Fino a 2 volte di più"
+        ],
+        "answer": 1,
+        "explanation": "Nei maschi il testosterone circolante può essere fino a 10 volte superiore."
+      }
+    },
+    {
+      "slide": 11,
+      "title": "Cortisolo",
+      "narration": "Il cortisolo di solito gioca nella squadra avversaria. È visto come un ormone catabolico per il muscolo scheletrico ed è noto come ormone dello stress. In realtà il suo compito principale è fare da segnale per il metabolismo dei carboidrati, ed è legato alle riserve di glicogeno nel muscolo. Quando il glicogeno è basso, il corpo deve smontare altre fonti, come le proteine, per avere energia e tenere stabile il glucosio nel sangue. Il cortisolo ha due effetti catabolici principali. Spinge a trasformare le proteine in carboidrati. E frena la sintesi proteica. Testosterone e insulina lavorano al contrario: cercano di tenere il muscolo in stato anabolico e contrastano il cortisolo. Se la loro attività è alta e quella del cortisolo è bassa, la massa muscolare resta o aumenta. Il cortisolo colpisce di più le fibre di tipo II. Forse perché contengono più proteine delle fibre di tipo I. Ed è un problema, perché le fibre di tipo II sono quelle che possono crescere di più. Quindi è un danno sia per l'ipertrofia sia per la forza. Ultimo punto. Qualcuno ha proposto il rapporto testosterone/cortisolo per capire se il corpo sta costruendo o smontando proteine. Ma questo rapporto ha avuto solo un successo limitato nel seguire i cambiamenti di forza e potenza. Quindi potrebbe non essere una misura valida. Non affidarti solo a quel numero per giudicare un tuo giocatore.",
+      "keyPoints": [
+        "Ormone catabolico, noto come ormone dello stress",
+        "Segnale per il metabolismo dei carboidrati, legato al glicogeno",
+        "Trasforma proteine in carboidrati e inibisce la sintesi proteica",
+        "Colpisce di più le fibre di tipo II",
+        "Rapporto testosterone/cortisolo: successo limitato, forse non valido"
+      ],
+      "analogy": "Se la squadra resta senza panchina, il mister deve far giocare anche i giovani della primavera: senza glicogeno, il corpo usa le proteine del muscolo.",
+      "check": {
+        "question": "Su quali fibre il cortisolo ha effetti catabolici maggiori?",
+        "options": [
+          "Fibre di tipo I",
+          "Fibre cardiache",
+          "Fibre di tipo II",
+          "Su tutte allo stesso modo"
+        ],
+        "answer": 2,
+        "explanation": "Le fibre di tipo II contengono più proteine e sono le più colpite dal cortisolo."
+      }
+    },
+    {
+      "slide": 12,
+      "title": "Ormone della crescita (GH)",
+      "narration": "L'ormone della crescita, chiamato GH, in realtà non è un solo ormone. È una famiglia di ormoni che il corpo rilascia a impulsi, a ondate. Oltre all'esercizio, il momento in cui se ne libera di più è il sonno. Ecco uno dei motivi per cui dormire è essenziale per recuperare e riparare il muscolo. Quando dici a un giocatore di dormire bene prima e dopo la partita, questa è una delle ragioni. Cosa fa il GH? Aumenta la scomposizione dei grassi. E aumenta anche l'assorbimento degli aminoacidi da parte delle cellule, che poi li trasformano in proteine. Però per l'ipertrofia la sua azione forse più importante è un'altra: stimolare il fattore di crescita insulino-simile, l'IGF che hai visto prima. Quindi il GH lavora molto attraverso l'IGF. Nella slide c'è uno schema con alcune azioni del GH. Ci sono due regolatori da ricordare. Il GHRH, cioè l'ormone di rilascio della somatotropina, stimola la secrezione di GH. È l'acceleratore. Il GHIH, chiamato anche somatostatina, invece inibisce la secrezione di GH. È il freno. Poi lo schema mostra che gli IGF stimolano le cellule bersaglio ad assorbire aminoacidi, e così favoriscono la sintesi proteica. Riassumendo: il GH esce a impulsi, soprattutto con l'esercizio e nel sonno, brucia grassi, aiuta l'ingresso degli aminoacidi e soprattutto accende l'IGF. Acceleratore GHRH, freno somatostatina.",
+      "keyPoints": [
+        "Famiglia di ormoni rilasciati a impulsi",
+        "Rilascio maggiore nel sonno, oltre che con l'esercizio",
+        "Più scomposizione dei grassi e assorbimento di aminoacidi",
+        "Azione chiave: stimolare l'IGF",
+        "GHRH stimola il GH, GHIH (somatostatina) lo inibisce"
+      ],
+      "analogy": "Il GH è come il direttore sportivo che non scende in campo ma manda in campo il giocatore decisivo, l'IGF.",
+      "check": {
+        "question": "Quale sostanza inibisce la secrezione dell'ormone della crescita?",
+        "options": [
+          "GHRH",
+          "IGF",
+          "Insulina",
+          "Somatostatina (GHIH)"
+        ],
+        "answer": 3,
+        "explanation": "Il GHIH, o somatostatina, frena il GH; il GHRH invece lo stimola."
+      }
+    },
+    {
+      "slide": 13,
+      "title": "Insulina: il ruolo principale",
+      "narration": "L'insulina la conosci quasi sicuramente per il diabete. Ma è anche un ormone molto importante quando parliamo di ipertrofia, quindi vale la pena capirla bene. Partiamo da dove nasce. L'insulina viene prodotta dal pancreas. Nel disegno della slide vedi il percorso. Nel pancreas ci sono le isole di Langerhans. Dentro queste isole ci sono le cellule beta, che producono l'insulina. L'insulina entra in un vaso sanguigno e arriva fino alla fibra muscolare, insieme al glucosio. Qual è il suo lavoro principale? Permette al corpo di usare il glucosio per produrre energia, oppure di metterlo da parte per usarlo più tardi. In più aiuta a tenere il glucosio nel sangue nel giusto range: né troppo alto, né troppo basso. Pensa a quello che succede in una giornata di un calciatore. Mangia, il glucosio nel sangue sale, e l'insulina aiuta a portarlo dove serve. Una parte viene usata subito per l'energia, un'altra viene conservata per gli sforzi futuri, come l'allenamento del pomeriggio. Così il livello nel sangue resta stabile. Questa è la funzione di base, quella che quasi tutti conoscono. Ma per chi allena la forza c'è un lato meno noto e molto interessante. L'insulina non si occupa solo di zuccheri. Ha anche altri compiti che toccano direttamente la costruzione del muscolo. Li vediamo nella prossima parte. Per ora fissa questo: prodotta dal pancreas, serve a usare o conservare il glucosio e a tenerlo stabile nel sangue.",
+      "keyPoints": [
+        "Prodotta dal pancreas, dalle cellule beta delle isole di Langerhans",
+        "Permette di usare il glucosio per energia o di conservarlo",
+        "Tiene il glucosio nel sangue né troppo alto né troppo basso"
+      ],
+      "analogy": "È come il magazziniere del club: il materiale che arriva lo distribuisce subito a chi serve o lo mette in magazzino per la prossima partita.",
+      "check": {
+        "question": "Quale organo produce l'insulina?",
+        "options": [
+          "Il fegato",
+          "Il pancreas",
+          "Il muscolo scheletrico",
+          "Il rene"
+        ],
+        "answer": 1,
+        "explanation": "L'insulina viene prodotta dal pancreas, nelle cellule beta delle isole di Langerhans."
+      }
+    },
+    {
+      "slide": 14,
+      "title": "Insulina e sintesi proteica",
+      "narration": "Il compito principale dell'insulina è gestire il glucosio. Ma ha anche funzioni secondarie molto importanti per te. Una di queste è favorire la sintesi proteica, che è decisiva per l'ipertrofia. Come lo fa? Agisce sulle fasi di traduzione della sintesi proteica. Ricordi la lezione precedente? La traduzione è il momento in cui la cellula costruisce la proteina seguendo le istruzioni. Se l'insulina migliora questa fase, la cellula diventa più brava a creare proteine e la massa muscolare può aumentare. C'è di più. Si pensa che l'insulina riduca anche la disgregazione delle proteine. Il meccanismo preciso però non è ancora stato capito bene. Quindi anche l'insulina, come IGF e testosterone, lavora su due lati: aiuta a costruire e frena lo smontaggio. Con questa parte chiudiamo il giro degli ormoni chiave per la crescita muscolare. Attenzione però a due cose. Primo, questa non è una lista completa: altri ormoni possono avere un ruolo nell'ipertrofia. Secondo, il modo in cui ormoni e vie di segnalazione si parlano dentro il corpo è molto complesso e non è ancora del tutto capito. Una cosa invece è chiara. Gli ormoni possono influenzare sia la sintesi sia la disgregazione delle proteine. Per questo, quando parli di ipertrofia, li devi sempre considerare. Non sono l'unico fattore, ma fanno parte della squadra. Nella prossima parte vediamo un'idea famosa che li mette al centro di tutto.",
+      "keyPoints": [
+        "Funzione secondaria: favorisce la sintesi proteica",
+        "Agisce sulle fasi di traduzione della sintesi proteica",
+        "Riduce la disgregazione proteica, meccanismo non ancora chiaro",
+        "La lista degli ormoni non è completa e le interazioni sono complesse"
+      ],
+      "analogy": "È come un terzino che oltre a difendere spinge sulla fascia e fa assist: il compito principale è un altro, ma aiuta anche a costruire.",
+      "check": {
+        "question": "Su quale fase della sintesi proteica agisce l'insulina?",
+        "options": [
+          "Sulla traduzione",
+          "Sulla divisione delle fibre",
+          "Sulla secrezione di cortisolo",
+          "Sull'accumulo di grassi nel muscolo"
+        ],
+        "answer": 0,
+        "explanation": "L'insulina agisce sulle fasi di traduzione e migliora la capacità della cellula di creare proteine."
+      }
+    },
+    {
+      "slide": 15,
+      "title": "L'ipotesi ormonale",
+      "narration": "Arriviamo a un tema molto discusso: gli ormoni e il loro effetto sulla sintesi proteica e sull'ipertrofia. Il dibattito riguarda soprattutto la risposta acuta degli ormoni anabolici, cioè cosa succede subito dopo una singola seduta. Dopo un allenamento di forza, ormoni anabolici chiave come testosterone, IGF e ormone della crescita possono avere un picco. È un aumento di concentrazione che dura poco. Da qui è nata l'ipotesi ormonale. Dice che l'aumento di massa muscolare nel lungo periodo è legato direttamente a quanto salgono gli ormoni anabolici in circolo dopo l'allenamento. In parole semplici: più grande è il picco dopo la seduta, più muscolo metti su nel tempo. Con tutto quello che hai visto finora, l'idea sembra logica. Se dopo l'allenamento ci sono più ormoni anabolici nel sangue, è più facile che si attacchino ai loro recettori. E se si attaccano, possono spingere di più la sintesi proteica. Per anni molti hanno costruito le schede pensando proprio a questo, cercando esercizi e sedute che facessero salire il più possibile gli ormoni. Però ricerche più recenti hanno messo in dubbio questa posizione. È stato suggerito che il picco acuto di ormoni dopo la forza potrebbe avere un effetto minimo, o addirittura nullo, sulla crescita del muscolo. Quindi la domanda è aperta: il picco conta davvero, o è solo un effetto collaterale della seduta? Nelle prossime due parti vediamo gli studi che hanno acceso questa discussione.",
+      "keyPoints": [
+        "Dopo la forza: picco transitorio di testosterone, IGF e GH",
+        "Ipotesi: massa a lungo termine legata al picco post allenamento",
+        "Logica: più ormoni, più legame ai recettori, più sintesi",
+        "Ricerche recenti: effetto del picco minimo o nullo"
+      ],
+      "analogy": "È come pensare che una squadra vinca il campionato perché i tifosi esultano tanto dopo ogni allenamento: l'esultanza c'è, ma non è detto che porti punti.",
+      "check": {
+        "question": "Cosa sostiene l'ipotesi ormonale?",
+        "options": [
+          "Che gli ormoni non hanno alcun ruolo nella sintesi proteica",
+          "Che il cortisolo è il principale ormone anabolico",
+          "Che la massa a lungo termine dipende dal picco di ormoni anabolici dopo l'allenamento",
+          "Che l'iperplasia è la causa principale della crescita"
+        ],
+        "answer": 2,
+        "explanation": "L'ipotesi lega la crescita a lungo termine all'aumento acuto degli ormoni anabolici dopo la seduta."
+      }
+    },
+    {
+      "slide": 16,
+      "title": "Lo studio di West (2010)",
+      "narration": "Uno studio chiave su questo tema è quello di West e colleghi, del 2010. Hanno preso dodici giovani non allenati. Ognuno ha fatto il curl per bicipiti con un braccio alla volta, in giorni diversi, in due condizioni ormonali diverse. Nella prima condizione, stimolo ormonale basso, un braccio faceva solo il curl. Nella seconda, stimolo ormonale alto, l'altro braccio faceva il curl e subito dopo veniva eseguito un lavoro di forza per le gambe. Perché le gambe? Perché lavorare con muscoli grandi serviva a far salire di più il picco ormonale dopo l'allenamento. Lo studio è durato 15 settimane. I risultati sugli ormoni sono stati quelli attesi. Dopo la seduta con stimolo alto, gli ormoni anabolici sono saliti in modo significativo. Dopo la seduta con stimolo basso, invece, sono rimasti quasi uguali. Ma la parte importante è un'altra. La circonferenza della parte alta del braccio è cresciuta in modo simile in tutte e due le condizioni. Nessuna differenza significativa. Se l'ipotesi ormonale fosse vera, il braccio con più ormoni avrebbe dovuto crescere di più. Non è successo. Quindi questi risultati indicano che gli aumenti acuti di ormoni dopo la forza non sono responsabili degli adattamenti ipertrofici a lungo termine. Per questo lo studio di West è considerato una prova chiave contro l'ipotesi ormonale. Ricorda i numeri: 2010, dodici soggetti, 15 settimane, nessuna differenza nella circonferenza delle braccia.",
+      "keyPoints": [
+        "West e colleghi, 2010: 12 giovani non allenati",
+        "Curl a un braccio; l'altro braccio curl più lavoro gambe",
+        "Esercizi per le gambe per aumentare il picco ormonale",
+        "Dopo 15 settimane nessuna differenza nella circonferenza delle braccia",
+        "Prova chiave contro l'ipotesi ormonale"
+      ],
+      "analogy": "È come due gemelli che fanno lo stesso allenamento, ma uno con lo stadio pieno che urla: alla fine migliorano allo stesso modo.",
+      "check": {
+        "question": "Qual è stato il risultato principale dello studio di West (2010)?",
+        "options": [
+          "Il braccio con più ormoni è cresciuto il doppio",
+          "Nessun braccio è cresciuto",
+          "Solo le gambe sono cresciute",
+          "Le braccia sono cresciute in modo simile nelle due condizioni"
+        ],
+        "answer": 3,
+        "explanation": "Nonostante il picco ormonale diverso, la circonferenza è aumentata in modo simile senza differenze significative."
+      }
+    },
+    {
+      "slide": 18,
+      "title": "Lo studio di Morton (2016) e il dibattito aperto",
+      "narration": "Più di recente è arrivato uno studio di Morton e colleghi, del 2016. Hanno confrontato due modi di allenarsi. Da una parte carichi alti con poche ripetizioni. Dall'altra carichi bassi con tante ripetizioni. Hanno guardato l'effetto sull'ipertrofia. In più hanno misurato gli ormoni anabolici e hanno cercato un legame tra il picco di ormoni dopo l'esercizio e i cambiamenti nella composizione corporea e nella massa muscolare. Il risultato? Nessuna correlazione significativa tra il picco ormonale dopo l'allenamento e gli indicatori di ipertrofia. Questo aggiunge altre prove contro l'ipotesi ormonale. Ma attenzione, perché all'esame conta anche l'altro lato. Molti studi hanno invece trovato legami tra i picchi ormonali dopo l'esercizio e la crescita del muscolo. Per questo il dibattito non è chiuso e continua ancora. Comunque vada a finire, una cosa non si può negare. Gli ormoni hanno un ruolo chiave nella sintesi proteica e nell'ipertrofia. Il punto in discussione è solo il peso del picco acuto subito dopo la seduta, che non è ancora del tutto chiaro. Invece la produzione cronica di ormoni anabolici, cioè i livelli che hai nel tempo, influenza la sintesi proteica e aiuta a decidere quanto cresce il muscolo. Riassumendo la slide: i livelli ormonali cronici possono aiutare; i picchi acuti possono aiutare oppure no. Per il tuo lavoro significa questo: non costruire una seduta solo per far salire gli ormoni. Punta su un buon allenamento costante nel tempo.",
+      "keyPoints": [
+        "Morton e colleghi, 2016: carico alto e poche ripetizioni contro carico basso e tante",
+        "Nessuna correlazione tra picco ormonale e indicatori di ipertrofia",
+        "Altri studi trovano correlazioni: il dibattito continua",
+        "I livelli cronici aiutano; i picchi acuti forse sì, forse no"
+      ],
+      "analogy": "Conta di più la forma costante di un giocatore per tutta la stagione che l'adrenalina di un singolo derby.",
+      "check": {
+        "question": "Secondo la lezione, quale aspetto degli ormoni aiuta sicuramente l'ipertrofia?",
+        "options": [
+          "I livelli cronici di ormoni anabolici",
+          "Il picco acuto subito dopo la seduta",
+          "L'aumento del cortisolo",
+          "Il rapporto testosterone/cortisolo dopo ogni seduta"
+        ],
+        "answer": 0,
+        "explanation": "La produzione cronica di ormoni anabolici influenza la sintesi proteica; il ruolo dei picchi acuti è ancora discusso."
+      }
+    },
+    {
+      "slide": 19,
+      "title": "Riepilogo",
+      "narration": "Facciamo il punto su tutta la lezione. Prima parte: i tipi di ipertrofia. L'ipertrofia contrattile, o miofibrillare, aggiunge sarcomeri e quindi actina e miosina. In parallelo allarga la fibra, in serie la allunga. Se vuoi il massimo della dimensione, punti al parallelo, e ottieni anche più forza. L'ipertrofia sarcoplasmatica aumenta liquidi e organelli. Viene detta non funzionale perché non porta forza, è poco studiata e probabilmente avviene insieme a quella contrattile. Le cellule satellite donano nuclei alle fibre e diventano più importanti nelle persone ben allenate. L'iperplasia, cioè la divisione delle fibre, è dimostrata negli animali e nell'uomo conterebbe al massimo il 5-10%. Seconda parte: gli ormoni. Gli ormoni anabolici costruiscono e riparano il muscolo e regolano la sintesi proteica. L'IGF è considerato il più importante, è anabolico e anticatabolico, e lo produce anche il muscolo sotto carico. Il testosterone è fino a 10 volte più alto nei maschi e rende di più con l'allenamento di forza. Il cortisolo è catabolico e colpisce soprattutto le fibre di tipo II. L'ormone della crescita esce a impulsi, molto nel sonno, e stimola l'IGF. L'insulina gestisce il glucosio e aiuta la traduzione delle proteine. Terza parte: l'ipotesi ormonale. Dice che il picco di ormoni dopo la seduta fa crescere il muscolo. Gli studi di West nel 2010 e di Morton nel 2016 l'hanno messa in discussione. I livelli cronici contano, sui picchi acuti il dibattito resta aperto.",
+      "keyPoints": [
+        "Contrattile in parallelo: più dimensione e più forza",
+        "Sarcoplasmatica, cellule satellite e iperplasia (5-10%)",
+        "IGF, testosterone, GH e insulina anabolici; cortisolo catabolico",
+        "Ipotesi ormonale messa in dubbio da West 2010 e Morton 2016"
+      ],
+      "analogy": "È come rivedere gli highlights a fine partita: in pochi minuti ripassi le azioni che hanno deciso il risultato.",
+      "check": {
+        "question": "Quali studi hanno messo in discussione l'ipotesi ormonale?",
+        "options": [
+          "Morton 2010 e West 2016",
+          "Solo studi sugli animali",
+          "West 2010 e Morton 2016",
+          "Nessuno studio, è stata confermata"
+        ],
+        "answer": 2,
+        "explanation": "West e colleghi nel 2010 e Morton e colleghi nel 2016 non hanno trovato un ruolo del picco acuto nella crescita."
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Che cos'è il sarcomero?",
+      "back": "L'unità funzionale più piccola della miofibrilla, la base della contrazione.",
+      "part": 1
+    },
+    {
+      "front": "Ipertrofia in parallelo o in serie: quale aumenta di più la dimensione?",
+      "back": "In parallelo: i sarcomeri si affiancano e il diametro della fibra cresce.",
+      "part": 1
+    },
+    {
+      "front": "Cosa succede nell'ipertrofia in serie?",
+      "back": "I sarcomeri si aggiungono in lunghezza: il muscolo si allunga, il diametro cresce poco.",
+      "part": 1
+    },
+    {
+      "front": "Che cosa aumenta nell'ipertrofia sarcoplasmatica?",
+      "back": "Il sarcoplasma: liquidi e organelli, non gli elementi contrattili.",
+      "part": 2
+    },
+    {
+      "front": "Ipertrofia contrattile e sarcoplasmatica avvengono separate?",
+      "back": "Probabilmente no: avvengono insieme, forse a velocità un po' diverse.",
+      "part": 2
+    },
+    {
+      "front": "Cosa donano le cellule satellite alle fibre?",
+      "back": "Nuclei, che aumentano la capacità di sintetizzare proteine contrattili.",
+      "part": 3
+    },
+    {
+      "front": "In chi contano di più le cellule satellite?",
+      "back": "Nelle persone ben allenate, quando i nuclei esistenti non bastano più.",
+      "part": 3
+    },
+    {
+      "front": "Quanto potrebbe contare l'iperplasia nell'uomo?",
+      "back": "Solo il 5-10% della dimensione muscolare complessiva.",
+      "part": 4
+    },
+    {
+      "front": "Che cosa sono gli ormoni?",
+      "back": "Messaggeri chimici rilasciati nel sangue che regolano l'attività di cellule o organi.",
+      "part": 5
+    },
+    {
+      "front": "Che cosa significa catabolismo?",
+      "back": "Degradazione delle proteine: da evitare se vuoi aumentare la massa.",
+      "part": 6
+    },
+    {
+      "front": "Dove viene prodotto l'IGF?",
+      "back": "Nel fegato, ma anche nel muscolo stesso con esercizio e sovraccarico meccanico.",
+      "part": 6
+    },
+    {
+      "front": "In che modo il testosterone favorisce l'ipertrofia?",
+      "back": "Aumenta la sintesi, riduce la disgregazione proteica e migliora il segnale nervoso.",
+      "part": 7
+    },
+    {
+      "front": "Quali sono i due principali effetti catabolici del cortisolo?",
+      "back": "Trasforma le proteine in carboidrati e inibisce la sintesi proteica.",
+      "part": 8
+    },
+    {
+      "front": "Il rapporto testosterone/cortisolo è una misura valida?",
+      "back": "Forse no: ha avuto solo un successo limitato nel seguire forza e potenza.",
+      "part": 8
+    },
+    {
+      "front": "Quando si ha il maggiore rilascio di GH oltre all'esercizio?",
+      "back": "Durante il sonno.",
+      "part": 9
+    },
+    {
+      "front": "GHRH e GHIH: cosa fanno?",
+      "back": "Il GHRH stimola la secrezione di GH; il GHIH (somatostatina) la inibisce.",
+      "part": 9
+    },
+    {
+      "front": "Qual è la funzione principale dell'insulina?",
+      "back": "Permettere di usare il glucosio per energia o conservarlo, e tenerlo stabile nel sangue.",
+      "part": 10
+    },
+    {
+      "front": "Come favorisce l'insulina la sintesi proteica?",
+      "back": "Agendo sulle fasi di traduzione; si pensa riduca anche la disgregazione.",
+      "part": 11
+    },
+    {
+      "front": "Cosa afferma l'ipotesi ormonale?",
+      "back": "Che la massa a lungo termine dipende dai picchi di ormoni anabolici dopo l'allenamento.",
+      "part": 12
+    },
+    {
+      "front": "Studio di West 2010: disegno e risultato?",
+      "back": "12 giovani, curl a un braccio con o senza lavoro gambe, 15 settimane: nessuna differenza nelle braccia.",
+      "part": 13
+    },
+    {
+      "front": "Studio di Morton 2016: cosa ha trovato?",
+      "back": "Nessuna correlazione significativa tra picco ormonale post esercizio e ipertrofia.",
+      "part": 14
+    },
+    {
+      "front": "Livelli ormonali cronici o picchi acuti: cosa conta?",
+      "back": "I livelli cronici aiutano; i picchi acuti possono aiutare o no.",
+      "part": 14
+    }
+  ],
+  "questions": [
+    {
+      "question": "L'ipertrofia contrattile o miofibrillare consiste in:",
+      "options": [
+        "Un aumento di liquidi e organelli nella fibra",
+        "L'aggiunta di sarcomeri, quindi di actina e miosina",
+        "La divisione delle fibre in nuove fibre",
+        "Un aumento del glicogeno immagazzinato"
+      ],
+      "answer": 1,
+      "explanation": "L'ipertrofia contrattile aggiunge sarcomeri e quindi più proteine contrattili.",
+      "part": 1
+    },
+    {
+      "question": "Quale affermazione sull'ipertrofia in serie è corretta?",
+      "options": [
+        "È la più indicata per aumentare al massimo la dimensione del muscolo",
+        "Aumenta molto l'area della sezione trasversa",
+        "Aggiunge sarcomeri uno accanto all'altro",
+        "Non porta a un grande aumento del diametro delle fibre"
+      ],
+      "answer": 3,
+      "explanation": "In serie i sarcomeri si aggiungono in lunghezza: il muscolo si allunga ma non si ingrossa molto.",
+      "part": 1
+    },
+    {
+      "question": "Secondo la lezione, l'accumulo di glicogeno come causa di ipertrofia sarcoplasmatica:",
+      "options": [
+        "Avrebbe un effetto transitorio e probabilmente minimo",
+        "È la causa principale dimostrata della crescita muscolare",
+        "Aumenta la produzione di forza",
+        "Riduce il contenuto di acqua nel muscolo"
+      ],
+      "answer": 0,
+      "explanation": "Il glicogeno trattiene acqua, ma l'effetto sarebbe temporaneo e minimo.",
+      "part": 2
+    },
+    {
+      "question": "Perché le cellule satellite diventano importanti quando la fibra cresce molto?",
+      "options": [
+        "Perché producono testosterone",
+        "Perché trasformano le fibre di tipo I in tipo II",
+        "Perché ogni nucleo controlla solo una quantità limitata di sarcoplasma",
+        "Perché aumentano il glicogeno nella fibra"
+      ],
+      "answer": 2,
+      "explanation": "Servono nuovi nuclei per gestire una fibra più grande: le cellule satellite li donano.",
+      "part": 3
+    },
+    {
+      "question": "Cosa dice la lezione sull'iperplasia?",
+      "options": [
+        "È il principale fattore della dimensione muscolare nell'uomo",
+        "Non è mai stata osservata nemmeno negli animali",
+        "È provocata solo da allenamenti a basso carico",
+        "È dimostrata negli animali, ma nell'uomo il suo ruolo è poco chiaro"
+      ],
+      "answer": 3,
+      "explanation": "L'iperplasia è dimostrata negli animali; nell'uomo è possibile ma varrebbe solo il 5-10%.",
+      "part": 4
+    },
+    {
+      "question": "Gli ormoni anabolici sono importanti per l'ipertrofia perché:",
+      "options": [
+        "Regolano processi come la sintesi proteica",
+        "Aumentano la degradazione delle proteine",
+        "Agiscono solo sul sistema nervoso",
+        "Non viaggiano nel sangue"
+      ],
+      "answer": 0,
+      "explanation": "Gli ormoni anabolici costruiscono e riparano il muscolo regolando la sintesi proteica.",
+      "part": 5
+    },
+    {
+      "question": "Quale ormone è stato indicato come l'ormone anabolico più importante?",
+      "options": [
+        "Il testosterone",
+        "Il cortisolo",
+        "Il fattore di crescita insulino-simile (IGF)",
+        "L'ormone della crescita"
+      ],
+      "answer": 2,
+      "explanation": "L'IGF è considerato il più importante, anche se testosterone e GH sono più conosciuti.",
+      "part": 6
+    },
+    {
+      "question": "Perché la produzione di IGF è collegata all'allenamento di forza?",
+      "options": [
+        "Perché l'IGF si produce solo durante il sonno",
+        "Perché esercizio e sovraccarico meccanico fanno produrre IGF al muscolo",
+        "Perché l'allenamento blocca la produzione di IGF nel fegato",
+        "Perché l'IGF aumenta il cortisolo"
+      ],
+      "answer": 1,
+      "explanation": "Il muscolo che si contrae sotto carico produce IGF: un motivo per cui la forza porta all'ipertrofia.",
+      "part": 6
+    },
+    {
+      "question": "Quale affermazione sul testosterone è corretta?",
+      "options": [
+        "Agisce solo se c'è allenamento",
+        "Aumenta la disgregazione proteica",
+        "Circola in quantità uguale in maschi e femmine",
+        "I suoi effetti anabolici sono amplificati dall'allenamento della forza"
+      ],
+      "answer": 3,
+      "explanation": "Può aumentare la massa anche senza esercizio, ma rende di più con la forza.",
+      "part": 7
+    },
+    {
+      "question": "Il cortisolo è legato soprattutto a:",
+      "options": [
+        "Il metabolismo dei carboidrati e le riserve di glicogeno",
+        "La divisione delle fibre muscolari",
+        "La donazione di nuclei alle fibre",
+        "Il rilascio di insulina dal fegato"
+      ],
+      "answer": 0,
+      "explanation": "Con glicogeno basso, il cortisolo favorisce l'uso delle proteine per produrre energia.",
+      "part": 8
+    },
+    {
+      "question": "Quale tra queste è considerata una delle azioni chiave dell'ormone della crescita nell'ipertrofia?",
+      "options": [
+        "Inibire la sintesi proteica",
+        "Stimolare il fattore di crescita insulino-simile",
+        "Aumentare il cortisolo",
+        "Ridurre l'assorbimento degli aminoacidi"
+      ],
+      "answer": 1,
+      "explanation": "Il GH aumenta grassi usati e aminoacidi assorbiti, ma soprattutto stimola l'IGF.",
+      "part": 9
+    },
+    {
+      "question": "Sull'insulina e la disgregazione proteica, la lezione dice che:",
+      "options": [
+        "L'insulina la aumenta",
+        "L'insulina non ha alcun effetto",
+        "Si pensa che la riduca, ma il meccanismo non è ancora chiaro",
+        "La riduce tramite il cortisolo"
+      ],
+      "answer": 2,
+      "explanation": "Si ritiene che l'insulina riduca la disgregazione, ma il meccanismo preciso non è ben compreso.",
+      "part": 11
+    },
+    {
+      "question": "Nello studio di West e colleghi (2010), a cosa serviva l'esercizio per le gambe?",
+      "options": [
+        "Ad aumentare il picco ormonale acuto dopo l'allenamento",
+        "A ridurre il cortisolo",
+        "A misurare la forza delle gambe",
+        "A stancare il braccio allenato"
+      ],
+      "answer": 0,
+      "explanation": "Il lavoro gambe creava una condizione di stimolo ormonale elevato per un solo braccio.",
+      "part": 13
+    },
+    {
+      "question": "Quanto è durato l'allenamento nello studio di West (2010)?",
+      "options": [
+        "4 settimane",
+        "15 settimane",
+        "10 settimane",
+        "6 mesi"
+      ],
+      "answer": 1,
+      "explanation": "Le sedute si sono svolte nel corso di 15 settimane.",
+      "part": 13
+    },
+    {
+      "question": "Qual è la conclusione della lezione sull'ipotesi ormonale?",
+      "options": [
+        "È stata confermata da tutti gli studi",
+        "È stata smentita in modo definitivo",
+        "Gli ormoni non hanno ruolo nell'ipertrofia",
+        "Il dibattito continua, ma i livelli cronici di ormoni contano"
+      ],
+      "answer": 3,
+      "explanation": "Alcuni studi trovano correlazioni, altri no; la produzione cronica di ormoni anabolici influenza comunque la crescita.",
+      "part": 14
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Il compagno che vuole solo «gonfiarsi»",
+      "prompt": "Un giovane centrocampista ti dice: «Voglio fare un metodo che mi faccia gonfiare i muscoli col sarcoplasma, la forza non mi interessa». Cosa gli rispondi, usando quello che sai sui tipi di ipertrofia?",
+      "modelAnswer": "Gli spiego che l'ipertrofia sarcoplasmatica aumenta liquidi e organelli, non le parti che si contraggono, per questo è detta non funzionale: non porta forza. È anche poco studiata, e non ci sono prove reali che possa avvenire da sola: con ogni probabilità cresce insieme a quella contrattile. L'idea del glicogeno che trattiene acqua darebbe solo un effetto temporaneo e minimo. Per un calciatore conta l'ipertrofia contrattile, soprattutto in parallelo: più sarcomeri affiancati, fibre più grosse e più forza nei contrasti, nei salti e negli sprint. Gli propongo quindi un programma di forza ben fatto e costante, non un metodo «da pompaggio»."
+    },
+    {
+      "title": "La seduta per alzare gli ormoni",
+      "prompt": "Un collega vuole aggiungere squat pesanti alla fine di ogni seduta per la parte alta del corpo, «così salgono gli ormoni e crescono di più anche le braccia». Cosa gli rispondi?",
+      "modelAnswer": "Gli dico che questa è l'ipotesi ormonale: l'idea che il picco di testosterone, IGF e GH dopo la seduta sia la chiave della crescita. Lo studio di West e colleghi (2010) ha testato proprio questo: 12 giovani non allenati, un braccio solo curl, l'altro curl seguito da lavoro per le gambe per alzare gli ormoni. Dopo 15 settimane gli ormoni erano saliti solo nella seconda condizione, ma le braccia erano cresciute in modo simile. Anche Morton (2016) non ha trovato correlazioni tra picco ormonale e ipertrofia. Il dibattito è aperto, ma non ha senso aggiungere esercizi solo per il picco: gli squat vanno messi se servono al giocatore, non per gli ormoni."
+    },
+    {
+      "title": "Sonno, stress e massa muscolare",
+      "prompt": "Un difensore dorme 5 ore a notte, è molto stressato e non riesce a mettere su massa nonostante si alleni bene. Spiegagli in modo semplice quali ormoni possono entrare in gioco.",
+      "modelAnswer": "Gli spiego che il muscolo cresce quando la sintesi proteica supera la disgregazione, e che gli ormoni regolano questo equilibrio. L'ormone della crescita viene rilasciato a impulsi e, oltre che con l'esercizio, soprattutto durante il sonno: dormire poco toglie uno dei momenti di recupero e riparazione. Il GH serve anche a stimolare l'IGF, considerato l'ormone anabolico più importante. Il cortisolo, l'ormone dello stress, è catabolico: trasforma proteine in carboidrati e frena la sintesi proteica, e colpisce di più le fibre di tipo II, quelle che crescono di più. Testosterone e insulina lo contrastano. Gli consiglio di curare sonno e recupero, oltre all'allenamento."
+    }
+  ]
+}
