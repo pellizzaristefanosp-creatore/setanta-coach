@@ -1,0 +1,774 @@
+{
+ "code": "6.1",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "[warmly] Allora Luca, oggi si passa alla pratica. Hai visto perché il muscolo cresce sotto stress... ora vediamo le variabili che decidi tu quando scrivi un programma con i pesi."
+    },
+    {
+     "who": "L",
+     "text": "[curious] E quante sono?"
+    },
+    {
+     "who": "M",
+     "text": "Quattro: volume, frequenza, carico e sforzo. Tienile a mente, tutta la lezione gira intorno a loro."
+    },
+    {
+     "who": "L",
+     "text": "Ma non basta dire \"vai in palestra e solleva pesi\"?"
+    },
+    {
+     "who": "M",
+     "text": "[laughs] No! Ogni scelta cambia il risultato, e il mio lavoro è scegliere la strategia giusta per l'atleta che ho davanti."
+    },
+    {
+     "who": "L",
+     "text": "Tipo un difensore centrale che deve mettere su massa per reggere i contrasti?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. O un giovane appena arrivato in prima squadra, con un fisico ancora leggero: devi sapere quali leve muovere e quanto spingerle."
+    },
+    {
+     "who": "L",
+     "text": "Quindi le domande sono: quante serie, quante volte a settimana alleno un muscolo, con che peso..."
+    },
+    {
+     "who": "M",
+     "text": "...e quanto vicino alla fatica totale porti ogni serie. E l'obiettivo sono programmi EFFICACI, che portano davvero più massa, ed efficienti, senza sprecare tempo ed energie."
+    },
+    {
+     "who": "L",
+     "text": "[thoughtful] Nel calcio conta doppio: il tempo in palestra è poco e va diviso con campo, tattica e partite."
+    },
+    {
+     "who": "M",
+     "text": "Appunto, ogni seduta deve rendere al massimo. Pensa a un mixer: il pezzo suona bene solo se regoli ogni cursore nel modo giusto."
+    },
+    {
+     "who": "L",
+     "text": "Quattro cursori: volume, frequenza, carico e sforzo. Programmi efficaci ed efficienti."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Partiamo dalle definizioni, perché all'esame contano. Secondo te, come misuri il volume?"
+    },
+    {
+     "who": "L",
+     "text": "[pause] Con le ore di allenamento?"
+    },
+    {
+     "who": "M",
+     "text": "È il modo grezzo, ore e minuti di allenamento ad alto livello. Il modo più preciso è contare le serie e le ripetizioni che programmi."
+    },
+    {
+     "who": "L",
+     "text": "La frequenza invece è il numero di sedute in una settimana."
+    },
+    {
+     "who": "M",
+     "text": "Sì, e qui entra il recupero. Tra una seduta e l'altra serve il giusto riposo, perché è lì che il corpo si adatta e fai progressi."
+    },
+    {
+     "who": "L",
+     "text": "Il carico è facile: il peso che sollevo."
+    },
+    {
+     "who": "M",
+     "text": "Esatto, nell'allenamento con i sovraccarichi. Spesso lo si usa come misura dell'intensità, cioè di quanto ti stai impegnando."
+    },
+    {
+     "who": "L",
+     "text": "E lo sforzo?"
+    },
+    {
+     "who": "M",
+     "text": "È l'energia fisica che usi, o che percepisci di usare. Di solito indica un lavoro faticoso e pesante per i muscoli."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Ma una scheda scritta male fa crescere lo stesso?"
+    },
+    {
+     "who": "M",
+     "text": "Un po' sì: qualsiasi allenamento con i pesi, fatto con costanza nel tempo, porta un po' di ipertrofia. Ma esistono modi precisi di manipolare le variabili per la risposta MASSIMA."
+    },
+    {
+     "who": "L",
+     "text": "E per un calciatore il tempo in palestra è prezioso: non posso buttare sedute."
+    },
+    {
+     "who": "M",
+     "text": "Pensa alla corsa: il volume sono i chilometri in settimana, la frequenza quante volte esci, il carico la pendenza, lo sforzo quanto sei a pezzi alla fine."
+    },
+    {
+     "who": "L",
+     "text": "Quattro leve per ogni programma di ipertrofia, dalla preparazione estiva ai mesi di campionato."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Prima di vederle una per una, fissa un concetto: le variabili quasi mai agiscono in modo indipendente. Se ne cambi una, le altre si muovono."
+    },
+    {
+     "who": "L",
+     "text": "Per esempio?"
+    },
+    {
+     "who": "M",
+     "text": "Volume e carico. Secondo te, da cosa dipende quante ripetizioni fai in una serie?"
+    },
+    {
+     "who": "L",
+     "text": "[thoughtful] Dal peso che metto sul bilanciere?"
+    },
+    {
+     "who": "M",
+     "text": "Bravo: il carico detta il volume."
+    },
+    {
+     "who": "L",
+     "text": "Quindi se scrivo dieci ripetizioni al novanta per cento dell'1RM..."
+    },
+    {
+     "who": "M",
+     "text": "[laughs] ...l'atleta si ferma molto prima. Quel peso è troppo alto, e la scheda è sbagliata già sulla carta."
+    },
+    {
+     "who": "L",
+     "text": "E questo crea problemi anche negli studi?"
+    },
+    {
+     "who": "M",
+     "text": "Sì. Per capire l'effetto di una sola variabile, uno studio deve tenere ferme le altre il più possibile, e non è facile."
+    },
+    {
+     "who": "L",
+     "text": "Perché se cambi il carico cambi anche le ripetizioni, e quindi il volume."
+    },
+    {
+     "who": "M",
+     "text": "Esatto, e non sai più quale delle due ha prodotto il risultato."
+    },
+    {
+     "who": "L",
+     "text": "In palestra allora: alzo il peso, scendono le ripetizioni. Aggiungo una seduta, sale il volume settimanale."
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Ragionamento da preparatore esperto. È come cambiare modulo: se passi a tre difensori, cambiano per forza i compiti di esterni e centrocampisti."
+    },
+    {
+     "who": "L",
+     "text": "Ogni volta che tocco una variabile, mi chiedo che effetto a catena avrà sulle altre."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Prima variabile: il volume. Puoi vederlo come le ripetizioni totali completate in un esercizio, oppure come quelle programmate nella scheda."
+    },
+    {
+     "who": "L",
+     "text": "E conta tanto per la massa?"
+    },
+    {
+     "who": "M",
+     "text": "È una delle variabili più importanti. I dati dicono che più volume tende a dare più crescita muscolare."
+    },
+    {
+     "who": "L",
+     "text": "[curious] Come fanno a saperlo?"
+    },
+    {
+     "who": "M",
+     "text": "Ci sono studi che misurano la sintesi proteica dopo l'allenamento, cioè il processo con cui il muscolo costruisce nuove proteine."
+    },
+    {
+     "who": "L",
+     "text": "Solo quella?"
+    },
+    {
+     "who": "M",
+     "text": "Anche le vie di segnalazione, i segnali interni che accendono quel processo. Con un volume maggiore, la sintesi proteica è più alta."
+    },
+    {
+     "who": "L",
+     "text": "Bene, allora più serie e via."
+    },
+    {
+     "who": "M",
+     "text": "C'è di più: con volumi alti la sintesi resta elevata più a LUNGO dopo la seduta, rispetto a volumi bassi."
+    },
+    {
+     "who": "L",
+     "text": "Come un cantiere che resta aperto più ore?"
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Esatto, più operai che lavorano anche dopo che sei andato via. Però sono studi di breve durata: misurano le ore dopo l'allenamento."
+    },
+    {
+     "who": "L",
+     "text": "Quindi mostrano un buon potenziale, ma da soli non bastano?"
+    },
+    {
+     "who": "M",
+     "text": "Giusto. Per sapere se diventa davvero più massa servono studi a lungo termine, che seguono gli atleti per settimane o mesi."
+    },
+    {
+     "who": "L",
+     "text": "Più volume, più sintesi proteica, e più a lungo. La conferma arriva dalla crescita reale nel tempo."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora gli studi a lungo termine. Confermano una relazione dose-risposta: più volume fai, maggiore è la crescita muscolare."
+    },
+    {
+     "who": "L",
+     "text": "Allora la serie singola è inutile?"
+    },
+    {
+     "who": "M",
+     "text": "No! Le serie multiple danno più ipertrofia, ma anche la serie singola fa crescere il muscolo, solo meno."
+    },
+    {
+     "who": "L",
+     "text": "E quante ripetizioni servono?"
+    },
+    {
+     "who": "M",
+     "text": "Dipende dal livello: un non allenato o principiante può puntare a sedute con più serie, quaranta-settanta ripetizioni in totale. Un avanzato potrebbe aver bisogno di più serie e più ripetizioni totali per continuare a crescere."
+    },
+    {
+     "who": "L",
+     "text": "[excited] Quindi si sale sempre!"
+    },
+    {
+     "who": "M",
+     "text": "[serious] No, c'è un punto critico, di non ritorno. Troppo volume stressa troppo il sistema muscolare, nervoso e ormonale, e frena l'ipertrofia nel lungo periodo."
+    },
+    {
+     "who": "L",
+     "text": "E aumenta anche il danno muscolare?"
+    },
+    {
+     "who": "M",
+     "text": "Sì: recuperi più lentamente e devi allenarti meno spesso. La curva parte dalla serie singola, sale al volume ottimale e scende verso il sovrallenamento."
+    },
+    {
+     "who": "L",
+     "text": "Dove sta il punto critico?"
+    },
+    {
+     "who": "M",
+     "text": "Dipende da genetica, alimentazione, sonno e altri fattori. Come i minuti in campo per un giovane: più gioca più cresce, ma ogni tre giorni per mesi arriva scoppiato."
+    },
+    {
+     "who": "L",
+     "text": "E il dettaglio da esame?"
+    },
+    {
+     "who": "M",
+     "text": "Negli studi ogni serie arrivava al cedimento o molto vicino. Il volume funziona se ogni serie è davvero impegnativa."
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Passiamo alla frequenza: quante volte ti alleni. Ne esistono due tipi."
+    },
+    {
+     "who": "L",
+     "text": "Due?"
+    },
+    {
+     "who": "M",
+     "text": "La frequenza delle sessioni, cioè le sedute a settimana. E la frequenza dei gruppi muscolari, quante volte alleni uno stesso muscolo nella settimana."
+    },
+    {
+     "who": "L",
+     "text": "Tipo vado in palestra quattro volte, ma i quadricipiti li alleno solo due."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Ora, secondo te, se aggiungo una seduta cosa succede?"
+    },
+    {
+     "who": "L",
+     "text": "[pause] ...Sale anche il volume settimanale!"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Quindi uno studio che aggiunge solo una seduta non misura solo la frequenza: ha cambiato anche il volume."
+    },
+    {
+     "who": "L",
+     "text": "Servono studi che tengono fermo il volume, allora."
+    },
+    {
+     "who": "M",
+     "text": "Sì, e sono piuttosto scarsi. Uno su bodybuilder, con lo stesso volume totale: un gruppo lo divideva in quattro giorni, l'altro in sei."
+    },
+    {
+     "who": "L",
+     "text": "E chi è cresciuto di più?"
+    },
+    {
+     "who": "M",
+     "text": "Nessuna differenza significativa. Come novanta minuti di tattica in due sedute da quarantacinque o tre da trenta."
+    },
+    {
+     "who": "L",
+     "text": "E guardando tutti gli studi?"
+    },
+    {
+     "who": "M",
+     "text": "Nei non allenati cambiare frequenza non ha un grande effetto. Negli allenati i dati sono incerti, forse un po' a favore di frequenze più alte."
+    },
+    {
+     "who": "L",
+     "text": "A parità di volume la frequenza conta meno di quanto si pensi, soprattutto con atleti poco allenati."
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "lines": [
+    {
+     "who": "L",
+     "text": "[curious] Marco, meglio la split routine o il full body?"
+    },
+    {
+     "who": "M",
+     "text": "Tema molto discusso. Nella split, usata da molti bodybuilder, il corpo è diviso in parti: un gruppo muscolare con tanto volume in un'unica seduta, una volta a settimana, al massimo due."
+    },
+    {
+     "who": "L",
+     "text": "E perché farla così?"
+    },
+    {
+     "who": "M",
+     "text": "Per alzare l'intensità della singola seduta e spingere l'ipertrofia. E ogni muscolo ha più tempo per recuperare, così sfrutti al massimo la sintesi proteica e recuperi meglio tra le sedute."
+    },
+    {
+     "who": "L",
+     "text": "Il full body invece?"
+    },
+    {
+     "who": "M",
+     "text": "Al contrario: in ogni seduta alleni molti muscoli, quindi il volume per muscolo nella singola seduta è più basso."
+    },
+    {
+     "who": "L",
+     "text": "Allora cresci meno?"
+    },
+    {
+     "who": "M",
+     "text": "Non per forza. Sommando la settimana, il volume può essere uguale a quello della split, e allenare un muscolo più spesso porta aumenti di forza e ipertrofia."
+    },
+    {
+     "who": "L",
+     "text": "E per un principiante?"
+    },
+    {
+     "who": "M",
+     "text": "[confident] Il full body può essere la scelta migliore. Non è abituato e potrebbe non reggere i volumi alti di una split."
+    },
+    {
+     "who": "L",
+     "text": "Tipo un ragazzo della Primavera alla prima stagione in palestra?"
+    },
+    {
+     "who": "M",
+     "text": "Sì: tre full body a settimana, stimolo frequente senza distruggerlo. Un atleta esperto può valutare anche una split."
+    },
+    {
+     "who": "L",
+     "text": "Split come i calci piazzati solo il martedì, full body un po' di tutto in ogni seduta."
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Eccoci al carico, il peso che sollevi. Spesso misura l'intensità, ma è solo una parte: per il quadro completo serve anche lo sforzo."
+    },
+    {
+     "who": "L",
+     "text": "E come lo scrivo in scheda?"
+    },
+    {
+     "who": "M",
+     "text": "Di solito in percentuale dell'1RM. Se il tuo massimale di panca è cento chili, all'ottanta per cento usi ottanta chili."
+    },
+    {
+     "who": "L",
+     "text": "E quante ripetizioni ci faccio?"
+    },
+    {
+     "who": "M",
+     "text": "Ci sono tabelle che lo stimano. Cento per cento: una; novantacinque: due; novantatré: tre; novanta: quattro; ottantasette: cinque; ottantacinque: sei; ottantatré: sette; ottanta: otto."
+    },
+    {
+     "who": "L",
+     "text": "E sotto?"
+    },
+    {
+     "who": "M",
+     "text": "Settantasette: nove; settantacinque: dieci; settanta: undici; sessantasette: dodici; sessantacinque: quindici."
+    },
+    {
+     "who": "L",
+     "text": "Quindi all'ottanta per cento in panca circa otto ripetizioni."
+    },
+    {
+     "who": "M",
+     "text": "Sì, con sforzo massimo: la tabella vale per serie fino al cedimento."
+    },
+    {
+     "who": "L",
+     "text": "[surprised] Allora devo arrivare sempre al cedimento?"
+    },
+    {
+     "who": "M",
+     "text": "No, ti dice solo il massimo possibile. Serve a evitare errori: tre serie da dodici all'ottanta per cento quasi sicuramente sono impossibili."
+    },
+    {
+     "who": "L",
+     "text": "E vale per tutti?"
+    },
+    {
+     "who": "M",
+     "text": "È una STIMA. Persone ed esercizi sono diversi: a parità di percentuale, uno fa più o meno ripetizioni di un altro."
+    },
+    {
+     "who": "L",
+     "text": "Come il navigatore: tempo stimato, ma il traffico vero può cambiarlo. Una guida, non una regola fissa."
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "lines": [
+    {
+     "who": "M",
+     "text": "La percentuale dell'1RM ha un limite: non tutti gli esercizi permettono di testare l'1RM."
+    },
+    {
+     "who": "L",
+     "text": "Tipo?"
+    },
+    {
+     "who": "M",
+     "text": "Un affondo bulgaro con manubri, la macchina per i polpacci, un lavoro per gli adduttori. Lì il massimale ha poco senso, a volte non è nemmeno sicuro."
+    },
+    {
+     "who": "L",
+     "text": "E allora come faccio?"
+    },
+    {
+     "who": "M",
+     "text": "Usi le zone di carico, basate sulle ripetizioni massime in una serie a sforzo massimo. Sono tre: pesante, completi da una a cinque ripetizioni; moderato, da sei a dodici."
+    },
+    {
+     "who": "L",
+     "text": "E leggero?"
+    },
+    {
+     "who": "M",
+     "text": "Superi le quindici ripetizioni. Ti danno un intervallo chiaro e funzionano con QUALSIASI esercizio."
+    },
+    {
+     "who": "L",
+     "text": "Senza conoscere il massimale?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto: scegli un peso che porta l'atleta alla fatica nel range che vuoi."
+    },
+    {
+     "who": "L",
+     "text": "Allora negli stacchi rumeni con manubri, per un moderato, un peso con cui arriva al limite tra sei e dodici."
+    },
+    {
+     "who": "M",
+     "text": "Bravo. Se ne fa venti è troppo leggero per quella zona, e con i calciatori, che spesso non hanno test di forza per ogni esercizio, è comodissimo."
+    },
+    {
+     "who": "L",
+     "text": "Come le zone di velocità nella corsa: piano, medio o forte, senza cronometro al centesimo."
+    },
+    {
+     "who": "M",
+     "text": "[curious] E quale zona dà l'ipertrofia migliore? Lo vediamo tra poco."
+    }
+   ]
+  },
+  {
+   "part": 9,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Per tradizione l'ipertrofia si allena con carichi moderati, tra sei e dodici ripetizioni massime. Secondo te perché?"
+    },
+    {
+     "who": "L",
+     "text": "[thoughtful] Per tensione meccanica e stress metabolico?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Con carichi pesanti, da una a cinque, crei moltissima tensione meccanica: uno stimolo forte."
+    },
+    {
+     "who": "L",
+     "text": "E dov'è il problema?"
+    },
+    {
+     "who": "M",
+     "text": "La serie dura poco e non accumuli abbastanza stress metabolico. E i pesanti portano soprattutto adattamenti neurali e forza, più che ipertrofia."
+    },
+    {
+     "who": "L",
+     "text": "E i leggeri, sopra quindici?"
+    },
+    {
+     "who": "M",
+     "text": "Il contrario. Si era teorizzato che non stimolassero al massimo il muscolo, in particolare le fibre di tipo 2, le più adatte a crescere."
+    },
+    {
+     "who": "L",
+     "text": "Quindi inutili?"
+    },
+    {
+     "who": "M",
+     "text": "No: quelle serie lunghe creano tanto stress metabolico, il classico bruciore, e portano comunque una certa crescita."
+    },
+    {
+     "who": "L",
+     "text": "E il moderato?"
+    },
+    {
+     "who": "M",
+     "text": "Il meglio dei due mondi: peso abbastanza alto per una buona tensione meccanica, ripetizioni e tempo sotto tensione per molto stress metabolico."
+    },
+    {
+     "who": "L",
+     "text": "Come un box-to-box: la forza del difensore e la resistenza dell'esterno."
+    },
+    {
+     "who": "M",
+     "text": "[laughs] Esatto. In teoria massimizza la risposta, per questo le schede di massa stanno quasi sempre tra sei e dodici."
+    },
+    {
+     "who": "M",
+     "text": "Per le gambe di un calciatore, squat o stacchi in quel range sono un buon punto di partenza... ma non è l'unica zona che funziona."
+    }
+   ]
+  },
+  {
+   "part": 10,
+   "lines": [
+    {
+     "who": "L",
+     "text": "[curious] Quindi fuori dal sei-dodici non si cresce?"
+    },
+    {
+     "who": "M",
+     "text": "Sì che si cresce: l'ipertrofia avviene tra una e VENTI ripetizioni massime. Il moderato forse è il migliore, ma il range è molto più ampio."
+    },
+    {
+     "who": "L",
+     "text": "Anche con le ripetizioni basse?"
+    },
+    {
+     "who": "M",
+     "text": "Da sole forse non bastano per l'ipertrofia massima, ma la grande tensione che creano ha sicuramente un ruolo importante. E aumentano la forza: così sollevi più peso anche nel range moderato, e questo aiuta la crescita."
+    },
+    {
+     "who": "L",
+     "text": "E le fibre?"
+    },
+    {
+     "who": "M",
+     "text": "Con carichi più alti stimoli per prime le fibre di tipo 2: le alleni meglio e ottieni più ipertrofia in quelle fibre."
+    },
+    {
+     "who": "L",
+     "text": "E le tipo 1?"
+    },
+    {
+     "who": "M",
+     "text": "Potrebbero crescere di più con tante ripetizioni e carichi bassi, perché lì sono le principali al lavoro. Le ripetizioni alte aumentano anche la resistenza muscolare."
+    },
+    {
+     "who": "L",
+     "text": "Così col tempo completo più ripetizioni."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Il moderato resta il consigliato nella maggior parte dei programmi, ma integrando pesante e leggero massimizzi il potenziale di crescita."
+    },
+    {
+     "who": "L",
+     "text": "Tipo un giorno squat pesante a poche ripetizioni, uno moderato e qualche serie lunga per i polpacci?"
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Perfetto. Come allenare tutta la squadra e non solo gli attaccanti."
+    },
+    {
+     "who": "L",
+     "text": "Pesante, moderato e leggero: tutte le fibre e tutti i meccanismi."
+    }
+   ]
+  },
+  {
+   "part": 11,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ultima variabile: lo sforzo, cioè quanto vicino arrivi al cedimento muscolare. È legata sia al carico sia al volume."
+    },
+    {
+     "who": "L",
+     "text": "Cos'è esattamente il cedimento?"
+    },
+    {
+     "who": "M",
+     "text": "Il momento in cui il muscolo non produce più forza sufficiente per spostare il peso nella fase concentrica, quella di spinta."
+    },
+    {
+     "who": "L",
+     "text": "E per la massa ci devo arrivare?"
+    },
+    {
+     "who": "M",
+     "text": "In generale fai abbastanza ripetizioni da arrivare al cedimento o molto vicino. Secondo te, se con un peso da dieci massime ne fai cinque?"
+    },
+    {
+     "who": "L",
+     "text": "[pause] ...Sono troppo lontano?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Il muscolo non recluta il numero massimo di fibre, e il reclutamento è un fattore chiave per crescere."
+    },
+    {
+     "who": "L",
+     "text": "Allora sempre fino in fondo!"
+    },
+    {
+     "who": "M",
+     "text": "[serious] Calma, il cedimento completo è ancora dibattuto. Con i carichi leggeri può contare di più: non attivano del tutto le unità motorie di ordine superiore, se non spingi al limite."
+    },
+    {
+     "who": "L",
+     "text": "E poi?"
+    },
+    {
+     "who": "M",
+     "text": "Il cedimento aumenta stress metabolico e tempo sotto tensione, e migliora la risposta ipertrofica. Ma alza il rischio di sovrallenamento e richiede recuperi più lunghi."
+    },
+    {
+     "who": "L",
+     "text": "E io gioco la domenica..."
+    },
+    {
+     "who": "M",
+     "text": "Appunto. Solo alcune serie per seduta al cedimento, soprattutto con carichi più bassi; le altre chiudile comunque vicino al limite."
+    },
+    {
+     "who": "L",
+     "text": "Come le ripetute: le ultime, quando non tieni più il passo, sono quelle che allenano. Equilibrio tra stimolo e recupero."
+    }
+   ]
+  },
+  {
+   "part": 12,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ricapitoliamo. Volume: una delle leve più forti, più sintesi proteica e, nel lungo periodo, più crescita, con relazione dose-risposta."
+    },
+    {
+     "who": "L",
+     "text": "Serie multiple meglio della singola, che però funziona. Principianti quaranta-settanta ripetizioni per seduta, avanzati qualcosa in più."
+    },
+    {
+     "who": "M",
+     "text": "E oltre il punto critico?"
+    },
+    {
+     "who": "L",
+     "text": "Arriva il sovrallenamento."
+    },
+    {
+     "who": "M",
+     "text": "La frequenza?"
+    },
+    {
+     "who": "L",
+     "text": "A volume uguale conta poco: bodybuilder, quattro o sei giorni, nessuna differenza. Full body spesso meglio per i principianti, la split dà più riposo a ogni muscolo."
+    },
+    {
+     "who": "M",
+     "text": "Bravo. Il carico: percentuale dell'1RM, ricorda l'ottanta per cento per otto ripetizioni. Oppure le zone?"
+    },
+    {
+     "who": "L",
+     "text": "Pesante da una a cinque, moderato da sei a dodici, leggero oltre quindici."
+    },
+    {
+     "who": "M",
+     "text": "Il moderato unisce tensione meccanica e stress metabolico. Ma l'ipertrofia avviene tra una e venti, e mescolare pesante e leggero allena tutte le fibre."
+    },
+    {
+     "who": "L",
+     "text": "Lo sforzo: serie vicino al cedimento, qualcuna fino in fondo, soprattutto con carichi leggeri."
+    },
+    {
+     "who": "M",
+     "text": "Senza esagerare, per non allungare troppo il recupero. E il messaggio di fondo?"
+    },
+    {
+     "who": "L",
+     "text": "[thoughtful] Le variabili sono collegate: quando ne cambi una, le altre si muovono."
+    },
+    {
+     "who": "M",
+     "text": "[warmly] Il buon preparatore le regola insieme, come un allenatore che sistema tutta la squadra e non un solo giocatore."
+    },
+    {
+     "who": "L",
+     "text": "Volume, frequenza, carico e sforzo: reparti che giocano insieme. Alla prossima, Marco!"
+    }
+   ]
+  }
+ ]
+}
