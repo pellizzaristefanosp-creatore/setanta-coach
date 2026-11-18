@@ -1,0 +1,42 @@
+{
+ "luca_mouth": [
+  442,
+  316
+ ],
+ "luca_eyes": [
+  366,
+  191
+ ],
+ "marco_campo_mouth": [
+  449,
+  481
+ ],
+ "marco_campo_eyes": [
+  366,
+  311
+ ],
+ "marco_camera_mouth": [
+  449,
+  601
+ ],
+ "marco_camera_eyes": [
+  306,
+  391
+ ],
+ "scena_mouth": [
+  612,
+  356
+ ],
+ "scena_finale_mouth": [
+  222,
+  261
+ ],
+ "luca_sorpreso_mouth": [
+  427,
+  431
+ ],
+ "luca_sorpreso_eyes": [
+  377,
+  266
+ ]
+}
