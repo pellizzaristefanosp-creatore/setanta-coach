@@ -1,0 +1,797 @@
+{
+ "code": "7.1",
+ "parts": {
+  "0": {
+   "src": "/audio/7.1/1.mp3",
+   "duration": 76.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Allora Luca, oggi si parla di alzate olimpiche. Prima però ti do la mappa: quattro tappe."
+    },
+    {
+     "who": "L",
+     "start": 7.12,
+     "text": "Spara, sono pronto."
+    },
+    {
+     "who": "M",
+     "start": 9.19,
+     "text": "Uno: com'è fatto il corpo di chi fa sollevamento pesi olimpico, il weightlifting, e perché certe misure aiutano."
+    },
+    {
+     "who": "M",
+     "start": 17.43,
+     "text": "Due: i rischi. Sono davvero così pericolose come si dice? Tre: cosa dice la ricerca su alzate e prestazione sportiva."
+    },
+    {
+     "who": "L",
+     "start": 27.18,
+     "text": "Cioè se allenarle mi rende più veloce ed esplosivo anche in campo?"
+    },
+    {
+     "who": "M",
+     "start": 31.5,
+     "text": "Esatto. Quattro: come capire se un atleta è pronto fisicamente per eseguirle."
+    },
+    {
+     "who": "L",
+     "start": 37.97,
+     "text": "E la tecnica? Come si insegnano, gli errori, le varianti?"
+    },
+    {
+     "who": "M",
+     "start": 42.6,
+     "text": "Quella arriva in una serie di video pratici a parte. Qui facciamo la teoria: il perché, prima del come."
+    },
+    {
+     "who": "L",
+     "start": 50.19,
+     "text": "Quindi la mia domanda è: metto strappo e girata nella scheda dei miei calciatori?"
+    },
+    {
+     "who": "M",
+     "start": 55.94,
+     "text": "E se sì, in che forma e con quali controlli. A fine lezione rispondi con argomenti solidi, non con le mode della palestra."
+    },
+    {
+     "who": "L",
+     "start": 64.97,
+     "text": "Tipo la riunione tattica: prima il piano alla lavagna, poi si prova in campo."
+    },
+    {
+     "who": "M",
+     "start": 70.46,
+     "text": "Proprio così. Si parte dalle basi: cosa sono le alzate olimpiche e perché tutti ne parlano."
+    }
+   ]
+  },
+  "1": {
+   "src": "/audio/7.1/2.mp3",
+   "duration": 81.8,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Il sollevamento pesi olimpico è uno sport delle Olimpiadi. In gara, due alzate col bilanciere. Le sai?"
+    },
+    {
+     "who": "L",
+     "start": 8.51,
+     "text": "Lo strappo... e lo slancio?"
+    },
+    {
+     "who": "M",
+     "start": 11.63,
+     "text": "Bravo. Lo strappo, lo snatch: il bilanciere va da terra sopra la testa in un solo movimento."
+    },
+    {
+     "who": "M",
+     "start": 19.61,
+     "text": "Lo slancio, il clean and jerk: prima porti il bilanciere sulle spalle, poi lo spingi sopra la testa."
+    },
+    {
+     "who": "L",
+     "start": 27.28,
+     "text": "E perché li usano anche i preparatori di altri sport?"
+    },
+    {
+     "who": "M",
+     "start": 30.94,
+     "text": "Perché in fondo sono esercizi con sovraccarico. E sollevi carichi alti in modo molto esplosivo."
+    },
+    {
+     "who": "M",
+     "start": 37.98,
+     "text": "Il gesto dura pochissimo, ma chiede al sistema nervoso e ai muscoli uno sforzo ENORME."
+    },
+    {
+     "who": "L",
+     "start": 44.29,
+     "text": "Allora li faccio fare a tutti!"
+    },
+    {
+     "who": "M",
+     "start": 46.67,
+     "text": "Calma. Sono schemi motori molto complessi: servono tante ore di pratica. Per alcuni il tempo di apprendimento supera il beneficio."
+    },
+    {
+     "who": "M",
+     "start": 57.13,
+     "text": "Però, se li impari e li esegui bene, sono utilissimi nella maggior parte dei programmi per atleti."
+    },
+    {
+     "who": "L",
+     "start": 63.67,
+     "text": "Come la rovesciata: prima alleni il salto, la torsione, il colpo."
+    },
+    {
+     "who": "M",
+     "start": 68.94,
+     "text": "Esatto, puoi spezzarli in parti e fare solo alcune fasi. Risparmi tempo e fatica e lavori comunque sull'esplosività."
+    },
+    {
+     "who": "L",
+     "start": 77.41,
+     "text": "Per una squadra con poco tempo in palestra, è spesso la strada più sensata."
+    }
+   ]
+  },
+  "2": {
+   "src": "/audio/7.1/3.mp3",
+   "duration": 72.8,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Com'è fatto un buon pesista olimpico, secondo te?"
+    },
+    {
+     "who": "L",
+     "start": 4.36,
+     "text": "Forte e muscoloso, ovvio."
+    },
+    {
+     "who": "M",
+     "start": 7.06,
+     "text": "Sì, ma contano anche la lunghezza delle braccia e le proporzioni. È più massiccio e più largo della persona media."
+    },
+    {
+     "who": "L",
+     "start": 15.12,
+     "text": "E nel dettaglio?"
+    },
+    {
+     "who": "M",
+     "start": 16.77,
+     "text": "Primo: avambracci corti e spessi, e gambe il più possibile vicine al suolo, quindi corte."
+    },
+    {
+     "who": "L",
+     "start": 23.97,
+     "text": "Perché corte?"
+    },
+    {
+     "who": "M",
+     "start": 25.73,
+     "text": "Meccanica pura. Se il corpo è largo invece che lungo, il bilanciere percorre meno strada. È un vantaggio biomeccanico."
+    },
+    {
+     "who": "M",
+     "start": 34.83,
+     "text": "Secondo: la forma generale. Larghezza e spessore battono la lunghezza, sempre per il tragitto più corto del carico."
+    },
+    {
+     "who": "M",
+     "start": 43.77,
+     "text": "Terzo: il tendine del bicipite. Più si attacca lontano lungo l'avambraccio, migliori sono le rotazioni del gomito. Leva più favorevole."
+    },
+    {
+     "who": "L",
+     "start": 53.84,
+     "text": "Quindi il mio centrocampista alto e magro non può farle?"
+    },
+    {
+     "who": "M",
+     "start": 57.98,
+     "text": "Può. Queste caratteristiche aiutano a vincere nel weightlifting, non sono un requisito per allenarsi. Parte solo con leve meno favorevoli."
+    },
+    {
+     "who": "L",
+     "start": 67.42,
+     "text": "Ecco perché, a parità di forza, uno fatica più di un altro sullo stesso esercizio."
+    }
+   ]
+  },
+  "3": {
+   "src": "/audio/7.1/4.mp3",
+   "duration": 74.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "La maggior parte dei pesisti di alto livello ha braccia più corte della popolazione normale. Come lo verifichi?"
+    },
+    {
+     "who": "L",
+     "start": 8.04,
+     "text": "Con un metro?"
+    },
+    {
+     "who": "M",
+     "start": 9.62,
+     "text": "Quasi. Test dell'apertura alare: braccia distese, misuri da un polpastrello all'altro e confronti con l'altezza in piedi."
+    },
+    {
+     "who": "L",
+     "start": 18.49,
+     "text": "E come lo leggo?"
+    },
+    {
+     "who": "M",
+     "start": 20.41,
+     "text": "Uguale all'altezza: braccia normali. Minore: più corte della norma. Maggiore: più lunghe."
+    },
+    {
+     "who": "M",
+     "start": 28.38,
+     "text": "Contano anche gambe e busto: cambiano la posizione di preparazione e di partenza. Il fisico favorevole ha gambe corte e busto lungo."
+    },
+    {
+     "who": "L",
+     "start": 38.22,
+     "text": "Leve corte, come nella biomeccanica."
+    },
+    {
+     "who": "M",
+     "start": 41.33,
+     "text": "Esatto. E un atleta più basso alza il bilanciere per un tragitto minore, quindi compie meno lavoro."
+    },
+    {
+     "who": "M",
+     "start": 48.76,
+     "text": "In più gli arti corti vanno con una maggiore area di sezione trasversa del muscolo, utile per produrre forza."
+    },
+    {
+     "who": "L",
+     "start": 56.43,
+     "text": "Come in panca: braccia corte, meno strada, e a parità di forza alzi di più."
+    },
+    {
+     "who": "M",
+     "start": 62.26,
+     "text": "Però attenzione: ad alto livello gareggiano fisici molto diversi."
+    },
+    {
+     "who": "L",
+     "start": 67.94,
+     "text": "Quindi gambe corte, busto lungo e braccia corte aiutano... ma si può eccellere anche senza."
+    }
+   ]
+  },
+  "4": {
+   "src": "/audio/7.1/5.mp3",
+   "duration": 73.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Le alzate olimpiche dividono i preparatori. Una scuola dice che sono troppo enfatizzate per chi non fa weightlifting."
+    },
+    {
+     "who": "L",
+     "start": 7.82,
+     "text": "Perché?"
+    },
+    {
+     "who": "M",
+     "start": 9.09,
+     "text": "Più rischio di infortunio: movimenti complessi, forze e velocità alte, grandi richieste di mobilità e stabilità. E serve tanto tempo per diventare competenti."
+    },
+    {
+     "who": "L",
+     "start": 20.75,
+     "text": "E l'altra scuola?"
+    },
+    {
+     "who": "M",
+     "start": 22.66,
+     "text": "Le sostiene con forza per la prestazione. Secondo te chi ha ragione?"
+    },
+    {
+     "who": "L",
+     "start": 28.7,
+     "text": "Un po' tutti e due?"
+    },
+    {
+     "who": "M",
+     "start": 31.01,
+     "text": "Esatto. Sono più difficili da insegnare, ma sviluppano qualità fisiche che si trasferiscono bene ad altri sport."
+    },
+    {
+     "who": "M",
+     "start": 38.83,
+     "text": "Però molti atleti non hanno le capacità per strappo e slancio completi. Limiti di range of motion, o compensi e squilibri di stabilità e forza."
+    },
+    {
+     "who": "L",
+     "start": 49.05,
+     "text": "E come li scopro?"
+    },
+    {
+     "who": "M",
+     "start": 51.12,
+     "text": "Con lo screening dell'overhead squat, lo squat col bilanciere sopra la testa, e test simili."
+    },
+    {
+     "who": "M",
+     "start": 57.67,
+     "text": "La posizione bassa dello strappo è un overhead squat profondissimo: mobilità e stabilità estreme, che quasi nessuno ha."
+    },
+    {
+     "who": "L",
+     "start": 66.22,
+     "text": "Tipo i miei calciatori, rigidi in caviglie e anche. Prima controllo se hanno le qualità, come per un ruolo nuovo."
+    }
+   ]
+  },
+  "5": {
+   "src": "/audio/7.1/6.mp3",
+   "duration": 70.9,
+   "lines": [
+    {
+     "who": "L",
+     "start": 0,
+     "text": "Allora come decido se uno può fare girata e strappo completi?"
+    },
+    {
+     "who": "M",
+     "start": 4.48,
+     "text": "Tre prerequisiti fisici. Ti dicono se arriva all'accosciata completa col busto solido e le braccia sopra la testa."
+    },
+    {
+     "who": "M",
+     "start": 12.46,
+     "text": "Primo: saper fare uno squat profondo. Secondo: senza inclinare troppo il busto in avanti."
+    },
+    {
+     "who": "M",
+     "start": 19.96,
+     "text": "Terzo: tenere le braccia sopra la testa per tutta la durata del movimento."
+    },
+    {
+     "who": "L",
+     "start": 25.56,
+     "text": "E se ne passa due su tre?"
+    },
+    {
+     "who": "M",
+     "start": 27.64,
+     "text": "Niente via libera. Servono TUTTI e tre per usare girata e strappo completi come esercizio."
+    },
+    {
+     "who": "L",
+     "start": 34.18,
+     "text": "Ma saranno pochissimi!"
+    },
+    {
+     "who": "M",
+     "start": 36.25,
+     "text": "Probabile. Allora modifichi le alzate. La modifica più comune sono le versioni di potenza: power clean e power snatch."
+    },
+    {
+     "who": "L",
+     "start": 45.43,
+     "text": "Cosa cambia?"
+    },
+    {
+     "who": "M",
+     "start": 46.85,
+     "text": "Il bilanciere si incastra più in alto. Niente squat profondo né overhead squat per chiudere l'alzata."
+    },
+    {
+     "who": "M",
+     "start": 53.81,
+     "text": "Ma regola fissa: ogni variante deve imitare lo schema di movimento dell'alzata originale. Solo così hai il massimo beneficio."
+    },
+    {
+     "who": "L",
+     "start": 63.15,
+     "text": "Quindi col calciatore rigido nelle caviglie scelgo la versione di potenza: tengo l'esplosività, tolgo la posizione che non raggiunge."
+    }
+   ]
+  },
+  "6": {
+   "src": "/audio/7.1/7.mp3",
+   "duration": 72.2,
+   "lines": [
+    {
+     "who": "L",
+     "start": 0,
+     "text": "Ma alla fine queste alzate sono pericolose o no?"
+    },
+    {
+     "who": "M",
+     "start": 4.22,
+     "text": "I dati su sovraccarichi e weightlifting indicano un rischio relativamente basso. Con due condizioni."
+    },
+    {
+     "who": "M",
+     "start": 11.41,
+     "text": "Una supervisione qualificata da parte di adulti, a qualsiasi età. E l'età di allenamento: da quanti anni si allena coi pesi."
+    },
+    {
+     "who": "L",
+     "start": 20.2,
+     "text": "Confrontato con cosa?"
+    },
+    {
+     "who": "M",
+     "start": 22.35,
+     "text": "La revisione mette insieme strongman, powerlifting, sollevamento pesi olimpico, CrossFit e bodybuilding."
+    },
+    {
+     "who": "M",
+     "start": 30.51,
+     "text": "Solo studi con un tasso di infortuni ogni mille ore di allenamento. Zone più colpite: bassa schiena e spalle."
+    },
+    {
+     "who": "L",
+     "start": 38.83,
+     "text": "E il weightlifting come esce?"
+    },
+    {
+     "who": "M",
+     "start": 41.37,
+     "text": "Paragonabile, se non più favorevole, rispetto agli altri allenamenti con sovraccarichi."
+    },
+    {
+     "who": "M",
+     "start": 47.29,
+     "text": "E rispetto a gara e allenamento sul campo, in sala pesi ci si fa male relativamente poco."
+    },
+    {
+     "who": "L",
+     "start": 53.36,
+     "text": "Vero, mi sono fatto male molto più in partita che in palestra."
+    },
+    {
+     "who": "M",
+     "start": 58.7,
+     "text": "Però niente distrazioni: il preparatore prende ogni precauzione per ridurre rischi e pericoli."
+    },
+    {
+     "who": "L",
+     "start": 65.81,
+     "text": "Quindi sembrano rischiose, ma le prove non lo confermano... se ci sono coaching e monitoraggio adeguati."
+    }
+   ]
+  },
+  "7": {
+   "src": "/audio/7.1/8.mp3",
+   "duration": 73.4,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Perché i preparatori amano le alzate olimpiche, secondo te?"
+    },
+    {
+     "who": "L",
+     "start": 4.99,
+     "text": "Per la potenza?"
+    },
+    {
+     "who": "M",
+     "start": 6.64,
+     "text": "Esatto. Slancio e strappo possono produrre i livelli di potenza più alti tra tutti gli esercizi con sovraccarico."
+    },
+    {
+     "who": "M",
+     "start": 14.39,
+     "text": "Sulla curva forza-velocità stanno quasi sempre nella zona della forza-veloce, quindi migliorano proprio quella."
+    },
+    {
+     "who": "L",
+     "start": 22.05,
+     "text": "Perché sposti un carico pesante il più veloce possibile."
+    },
+    {
+     "who": "M",
+     "start": 25.95,
+     "text": "E serve tanta forza esplosiva. Per questo vanno bene, loro o le varianti, anche in un programma generale."
+    },
+    {
+     "who": "M",
+     "start": 33.62,
+     "text": "Ci sono legami stretti tra prestazione nelle alzate e velocità e potenza. Hoffman e colleghi: otto settimane di alzate battono la forza tradizionale nella potenza del salto."
+    },
+    {
+     "who": "L",
+     "start": 46.25,
+     "text": "E il rate of force development?"
+    },
+    {
+     "who": "M",
+     "start": 48.71,
+     "text": "Il tasso di sviluppo della forza: la velocità con cui produci forza. Fondamentale nello sport, e le alzate lo migliorano."
+    },
+    {
+     "who": "M",
+     "start": 57.73,
+     "text": "Studi da ricordare: Hoffman e colleghi duemilaquattro, Hori e colleghi duemilacinque e duemilaotto."
+    },
+    {
+     "who": "L",
+     "start": 65.55,
+     "text": "Per me vuol dire scatti e stacchi di testa più reattivi. Non basta essere forti, la forza va espressa in un istante."
+    }
+   ]
+  },
+  "8": {
+   "src": "/audio/7.1/9.mp3",
+   "duration": 70.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Le alzate non danno solo potenza. Le loro posizioni somigliano, biomeccanicamente, a molti gesti sportivi."
+    },
+    {
+     "who": "L",
+     "start": 8.24,
+     "text": "Tipo quali?"
+    },
+    {
+     "who": "M",
+     "start": 9.74,
+     "text": "Posizione atletica, corsa e salto. Partiamo dalla posizione atletica: la postura da \"pronti\", da cui ti muovi in ogni direzione."
+    },
+    {
+     "who": "L",
+     "start": 19.81,
+     "text": "E perché è così importante?"
+    },
+    {
+     "who": "M",
+     "start": 22.19,
+     "text": "Perché generare forza da lì è cruciale in quasi tutti gli sport. Weightlifting e derivati ti mettono in una posizione simile."
+    },
+    {
+     "who": "M",
+     "start": 30.75,
+     "text": "E ti chiedono alti livelli di forza esplosiva. Questo dovrebbe trasferirsi bene nello sport."
+    },
+    {
+     "who": "L",
+     "start": 37.29,
+     "text": "Quindi se sono in posizione atletica e devo saltare all'improvviso..."
+    },
+    {
+     "who": "M",
+     "start": 41.84,
+     "text": "...crei forza esplosiva in verticale, proprio come nelle alzate olimpiche."
+    },
+    {
+     "who": "M",
+     "start": 46.79,
+     "text": "Ora confronta la posizione atletica con la parte alta della seconda tirata, quando il pesista accelera il bilanciere al massimo."
+    },
+    {
+     "who": "L",
+     "start": 55.19,
+     "text": "Il corpo è messo quasi uguale!"
+    },
+    {
+     "who": "M",
+     "start": 57.73,
+     "text": "Esatto. Pensa al portiere pronto sul rigore, o al difensore che aspetta il cross per staccare di testa."
+    },
+    {
+     "who": "L",
+     "start": 64.85,
+     "text": "Ginocchia piegate, peso avanti: la stessa base da cui parte la spinta nelle alzate."
+    }
+   ]
+  },
+  "9": {
+   "src": "/audio/7.1/10.mp3",
+   "duration": 73.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Il cuore delle alzate è la tripla estensione. Secondo te, quali articolazioni?"
+    },
+    {
+     "who": "L",
+     "start": 6.69,
+     "text": "Anche, ginocchia e caviglie?"
+    },
+    {
+     "who": "M",
+     "start": 9.88,
+     "text": "Esatto, insieme. Lo stesso schema di corsa e salto. È lei che porta il bilanciere sopra la testa nello strappo, o in presa nella girata."
+    },
+    {
+     "who": "L",
+     "start": 19.64,
+     "text": "Ma il pesista non tira su con le braccia?"
+    },
+    {
+     "who": "M",
+     "start": 22.34,
+     "text": "Sembra, ma no. È la tripla estensione a spostare il bilanciere in verticale e a decidere se l'alzata riesce."
+    },
+    {
+     "who": "M",
+     "start": 30.08,
+     "text": "E allenarla si trasferisce bene a molti gesti sportivi, quindi può migliorare la prestazione."
+    },
+    {
+     "who": "L",
+     "start": 36.62,
+     "text": "Altri vantaggi?"
+    },
+    {
+     "who": "M",
+     "start": 38.38,
+     "text": "È un'azione balistica: la parte più veloce arriva proprio alla fine dell'estensione."
+    },
+    {
+     "who": "L",
+     "start": 44.22,
+     "text": "E lo squat? Anche lì estendo tutto."
+    },
+    {
+     "who": "M",
+     "start": 47.65,
+     "text": "Sì, ma alla fine devi frenare il bilanciere, sennò blocchi le articolazioni di colpo con uno shock. Non balistico, ma costruisce tanta forza."
+    },
+    {
+     "who": "M",
+     "start": 58.11,
+     "text": "Nello sport quasi tutte le tripla estensioni importanti sono esplosive e balistiche. Per questo le alzate potrebbero essere più specifiche dello squat."
+    },
+    {
+     "who": "L",
+     "start": 68.18,
+     "text": "Come lo stacco di testa o la partenza dello sprint: acceleri fino all'ultimo, senza frenare."
+    }
+   ]
+  },
+  "10": {
+   "src": "/audio/7.1/11.mp3",
+   "duration": 76.3,
+   "lines": [
+    {
+     "who": "L",
+     "start": 0,
+     "text": "E coi ragazzi? Si possono insegnare le alzate?"
+    },
+    {
+     "who": "M",
+     "start": 3.67,
+     "text": "La NSCA dice che sotto i sette anni si fa solo allenamento adatto all'età."
+    },
+    {
+     "who": "M",
+     "start": 9.97,
+     "text": "Ma diversi enti autorevoli indicano come sicuri ed efficaci per i giovani pliometria, periodizzazione e sollevamento pesi olimpico."
+    },
+    {
+     "who": "L",
+     "start": 19,
+     "text": "Davvero?"
+    },
+    {
+     "who": "M",
+     "start": 20.57,
+     "text": "In alcuni paesi imparano la tecnica a otto anni. Il carico arriva solo quando hanno la coordinazione corretta."
+    },
+    {
+     "who": "L",
+     "start": 28.55,
+     "text": "Prima la tecnica, poi il peso. Come il colpo di testa ai pulcini, prima col pallone leggero."
+    },
+    {
+     "who": "M",
+     "start": 35.17,
+     "text": "Esatto. E i bambini che fanno girata, slancio e strappo migliorano velocità e salto."
+    },
+    {
+     "who": "M",
+     "start": 41.87,
+     "text": "Miglioramenti paragonabili alla pliometria e persino maggiori dei sovraccarichi tradizionali. Sicuro ed efficace in un'ampia gamma di età e livelli."
+    },
+    {
+     "who": "L",
+     "start": 52.17,
+     "text": "C'è una condizione, immagino."
+    },
+    {
+     "who": "M",
+     "start": 54.79,
+     "text": "Sì: il preparatore SEMPRE presente, e competente nell'insegnare i movimenti, o almeno le varianti."
+    },
+    {
+     "who": "M",
+     "start": 62.07,
+     "text": "Studi da ricordare: Chaouachi e colleghi duemilatredici, Lloyd e colleghi duemiladodici, Faigenbaum e colleghi duemilanove."
+    },
+    {
+     "who": "L",
+     "start": 71.74,
+     "text": "Nel settore giovanile: bastone e tecnica prima del bilanciere carico."
+    }
+   ]
+  },
+  "11": {
+   "src": "/audio/7.1/12.mp3",
+   "duration": 74.9,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Facciamo il punto. Le due alzate di gara?"
+    },
+    {
+     "who": "L",
+     "start": 4.36,
+     "text": "Strappo e slancio: esplosivi, carichi alti, complessi da imparare, ma si spezzano in parti."
+    },
+    {
+     "who": "M",
+     "start": 11.4,
+     "text": "Bravo. Il fisico del pesista?"
+    },
+    {
+     "who": "L",
+     "start": 15.18,
+     "text": "Braccia corte, gambe corte e busto lungo: leve favorevoli e tragitto più corto del bilanciere."
+    },
+    {
+     "who": "M",
+     "start": 22.3,
+     "text": "E l'apertura alare ti dice se le braccia sono più corte o più lunghe della norma. Ma si eccelle anche con fisici diversi."
+    },
+    {
+     "who": "L",
+     "start": 30.54,
+     "text": "Il rischio era basso, giusto?"
+    },
+    {
+     "who": "M",
+     "start": 33.32,
+     "text": "Relativamente basso, paragonabile o più favorevole di altri allenamenti coi pesi, con coaching e monitoraggio adeguati."
+    },
+    {
+     "who": "M",
+     "start": 41.37,
+     "text": "Per le alzate complete, i tre requisiti?"
+    },
+    {
+     "who": "L",
+     "start": 45.58,
+     "text": "Squat profondo, busto senza troppa inclinazione, braccia sempre sopra la testa. Se mancano, versioni di potenza."
+    },
+    {
+     "who": "M",
+     "start": 54.21,
+     "text": "Benefici: potenza tra le più alte coi sovraccarichi, più tasso di sviluppo della forza, posizioni simili ai gesti sportivi, tripla estensione balistica."
+    },
+    {
+     "who": "L",
+     "start": 65.24,
+     "text": "E coi giovani funzionano, con un coach presente e competente."
+    },
+    {
+     "who": "M",
+     "start": 69.88,
+     "text": "Come il video di fine partita. Ora quiz e flashcard: ci sentiamo alla prossima!"
+    }
+   ]
+  }
+ }
+}
