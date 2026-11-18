@@ -8,7 +8,7 @@ import { buildIcs, shiftTime } from "../lib/ics";
 import { comparePresentationCode } from "../lib/plan";
 import { exportBackup, importBackup, importLesson, importQuestions, resetAll, setState, useStore } from "../lib/store";
 import type { Presentation } from "../lib/types";
-import { Icon, saveFile } from "../ui";
+import { Box, Icon, saveFile } from "../ui";
 import { StepList } from "./Today";
 
 const HOOKS = ["dopo l'allenamento", "dopo cena", "dopo pranzo", "appena sveglio", "in macchina"];
@@ -215,93 +215,137 @@ function PresentationEditor({ p }: { p: Presentation }) {
   );
 }
 
-/* ——— Lezione nuova dal PDF ——— */
+/* ——— Lezioni nuove dai PDF (anche più di una, anche dal .zip della cartella) ——— */
 
-type ImportStage = { kind: "idle" } | { kind: "reading" } | { kind: "ready"; code: string; title: string; text: string; pages: number } | { kind: "sending"; code: string } | { kind: "done"; code: string; title: string } | { kind: "error"; text: string };
+type Job = { id: string; file: string; code: string; title: string; text: string; pages: number; pick: boolean; status: "attesa" | "preparo" | "pronta" | "errore"; error?: string };
 
 function ImportLesson() {
   const s = useStore();
   const input = useRef<HTMLInputElement>(null);
-  const [stage, setStage] = useState<ImportStage>({ kind: "idle" });
-  const [code, setCode] = useState("");
-  const [title, setTitle] = useState("");
+  const [jobs, setJobs] = useState<Job[]>([]);
+  const [reading, setReading] = useState(false);
+  const [running, setRunning] = useState(false);
+  const [problem, setProblem] = useState<string | null>(null);
   const [appCode, setAppCode] = useState(s.settings.appCode ?? "");
-  const lessons = allLessons(s).map((l) => l.code).sort((a, b) => a.localeCompare(b, "it", { numeric: true }));
+  const have = new Set(allLessons(s).map((l) => l.code));
+  const lessons = [...have].sort((a, b) => a.localeCompare(b, "it", { numeric: true }));
+  const update = (id: string, patch: Partial<Job>) => setJobs((js) => js.map((j) => (j.id === id ? { ...j, ...patch } : j)));
 
-  const onFile = async () => {
-    const f = input.current?.files?.[0];
-    if (!f) return;
+  const onFiles = async () => {
+    const files = [...(input.current?.files ?? [])];
     input.current!.value = "";
-    setStage({ kind: "reading" });
+    if (files.length === 0) return;
+    setReading(true);
+    setProblem(null);
     try {
-      const pages = await pdfPages(f);
-      const guess = guessCode(f.name, pages[0] ?? "");
-      setCode(guess?.code ?? "");
-      setTitle(guess?.title ?? f.name.replace(/\.pdf$/i, ""));
-      setStage({ kind: "ready", code: guess?.code ?? "", title: guess?.title ?? "", text: pagesToText(pages), pages: pages.length });
+      const pdfs = await expandFiles(files);
+      if (pdfs.length === 0) setProblem("Non ho trovato PDF nei file scelti.");
+      const found: Job[] = [];
+      for (const f of pdfs) {
+        try {
+          const pages = await pdfPages(f);
+          const g = guessCode(f.name.split("/").pop() ?? f.name, pages[0] ?? "");
+          found.push({ id: `${f.name}-${found.length}`, file: f.name.split("/").pop() ?? f.name, code: g?.code ?? "", title: g?.title ?? "", text: pagesToText(pages), pages: pages.length, pick: !(g && have.has(g.code)), status: "attesa" });
+        } catch {
+          found.push({ id: `${f.name}-${found.length}`, file: f.name, code: "", title: "", text: "", pages: 0, pick: false, status: "errore", error: "Non riesco a leggerlo" });
+        }
+      }
+      found.sort((a, b) => a.code.localeCompare(b.code, "it", { numeric: true }));
+      setJobs(found);
     } catch {
-      setStage({ kind: "error", text: "Non riesco a leggere questo PDF." });
+      setProblem("Non riesco ad aprire questi file.");
+    } finally {
+      setReading(false);
     }
   };
 
-  const send = async (text: string) => {
-    if (!/^\d{1,2}\.\d{1,2}$/.test(code)) {
-      setStage({ kind: "error", text: "Scrivi il codice della presentazione, es. 7.2." });
-      return;
-    }
+  const runAll = async () => {
     setState((d) => void (d.settings.appCode = appCode.trim()));
-    setStage({ kind: "sending", code });
-    try {
-      const res = await fetch("/api/lezione", {
-        method: "POST",
-        headers: { "content-type": "application/json", "x-app-code": appCode.trim() },
-        body: JSON.stringify({ text, code, title, unit: Number(code.split(".")[0]) }),
-      });
-      const data = (await res.json().catch(() => ({}))) as { lesson?: unknown; error?: string };
-      if (!res.ok || !data.lesson) {
-        setStage({ kind: "error", text: data.error ?? `Errore ${res.status}. Riprova.` });
-        return;
+    setRunning(true);
+    for (const j of jobs) {
+      if (!j.pick || j.status === "pronta") continue;
+      if (!/^\d{1,2}\.\d{1,2}$/.test(j.code)) {
+        update(j.id, { status: "errore", error: "Scrivi il codice, es. 7.2" });
+        continue;
       }
-      const r = importLesson(data.lesson);
-      if (!r.ok) setStage({ kind: "error", text: r.error });
-      else setStage({ kind: "done", code: r.lesson.code, title: r.lesson.title });
-    } catch {
-      setStage({ kind: "error", text: "Senza rete non si può preparare la lezione. Riprova con internet." });
+      update(j.id, { status: "preparo", error: undefined });
+      try {
+        const res = await fetch("/api/lezione", {
+          method: "POST",
+          headers: { "content-type": "application/json", "x-app-code": appCode.trim() },
+          body: JSON.stringify({ text: j.text, code: j.code, title: j.title, unit: Number(j.code.split(".")[0]) }),
+        });
+        const data = (await res.json().catch(() => ({}))) as { lesson?: unknown; error?: string };
+        if (!res.ok || !data.lesson) {
+          update(j.id, { status: "errore", error: data.error ?? `Errore ${res.status}` });
+          if (res.status === 401 || res.status === 500) break; // codice o chiave sbagliati: inutile continuare
+          continue;
+        }
+        const r = importLesson(data.lesson);
+        update(j.id, r.ok ? { status: "pronta" } : { status: "errore", error: r.error });
+      } catch {
+        update(j.id, { status: "errore", error: "Senza rete. Riprova con internet." });
+      }
     }
+    setRunning(false);
   };
+
+  const picked = jobs.filter((j) => j.pick && j.status !== "pronta").length;
 
   return (
     <section className="card stack">
-      <h2>Aggiungi lezione dal PDF</h2>
-      <p className="small muted">Scarica dal corso il PDF delle Note scritte e caricalo qui. Claude prepara la lezione: voce, carte, domande, flashcard ed esercizi. Ci vuole un paio di minuti.</p>
-      <input ref={input} type="file" accept="application/pdf,.pdf" hidden onChange={() => void onFile()} />
-      {(stage.kind === "idle" || stage.kind === "done" || stage.kind === "error") && (
-        <button className="btn primary block" onClick={() => input.current?.click()}>Scegli il PDF</button>
-      )}
-      {stage.kind === "reading" && <p className="small">Leggo il PDF…</p>}
-      {stage.kind === "ready" && (
-        <div className="stack fade-in">
-          <p className="tiny">{stage.pages} pagine lette nel telefono.</p>
-          <div className="row">
-            <label className="field" style={{ width: 96 }}>Codice<input type="text" inputMode="decimal" value={code} onChange={(e) => setCode(e.target.value)} placeholder="7.2" /></label>
-            <label className="field grow">Titolo<input type="text" value={title} onChange={(e) => setTitle(e.target.value)} /></label>
-          </div>
-          <label className="field">Codice di accesso<input type="text" value={appCode} onChange={(e) => setAppCode(e.target.value)} autoComplete="off" /></label>
-          <button className="btn primary block" disabled={!appCode.trim()} onClick={() => void send(stage.text)}>Prepara la lezione</button>
-          <button className="link-btn" onClick={() => setStage({ kind: "idle" })}>Annulla</button>
+      <h2>Aggiungi lezioni dai PDF</h2>
+      <p className="small muted">
+        Scegli uno o più PDF delle Note scritte, oppure il file .zip di «Download folder». Claude prepara ogni lezione: voce, carte, domande, flashcard ed
+        esercizi. Circa 1–3 minuti a lezione.
+      </p>
+      <input ref={input} type="file" multiple accept="application/pdf,.pdf,application/zip,.zip" hidden onChange={() => void onFiles()} />
+      {!running && <button className="btn primary block" onClick={() => input.current?.click()}>{jobs.length ? "Scegli altri file" : "Scegli i PDF o lo .zip"}</button>}
+      {reading && <p className="small">Leggo i file nel telefono…</p>}
+      {problem && <div className="alarm" role="alert"><span>{problem}</span></div>}
+      {jobs.length > 0 && (
+        <div className="stack fade-in" style={{ gap: 8 }}>
+          {jobs.map((j) => (
+            <div key={j.id} className="card soft row" style={{ padding: 10, gap: 8 }}>
+              <button className="check" style={{ width: "auto", minHeight: 44 }} aria-pressed={j.pick} aria-label={`Prepara ${j.code || j.file}`} disabled={running || j.status === "pronta"} onClick={() => update(j.id, { pick: !j.pick })}>
+                <Box on={j.pick || j.status === "pronta"} />
+              </button>
+              <input type="text" inputMode="decimal" aria-label="Codice" value={j.code} disabled={running} onChange={(e) => update(j.id, { code: e.target.value })} style={{ width: 70, minHeight: 40, padding: "8px 10px" }} />
+              <span className="grow small" style={{ lineHeight: 1.25 }}>
+                {j.title || j.file}
+                <span className="tiny" style={{ display: "block" }}>
+                  {j.status === "attesa" && (have.has(j.code) ? "già nell'app: rifalla solo se vuoi" : `${j.pages} pagine`)}
+                  {j.status === "preparo" && "Claude la sta preparando…"}
+                  {j.status === "pronta" && "✓ pronta"}
+                  {j.status === "errore" && <span style={{ color: "var(--alarm)" }}>{j.error}</span>}
+                </span>
+              </span>
+            </div>
+          ))}
+          <label className="field">Codice di accesso<input type="text" value={appCode} onChange={(e) => setAppCode(e.target.value)} autoComplete="off" disabled={running} /></label>
+          <button className="btn primary block" disabled={running || picked === 0 || !appCode.trim()} onClick={() => void runAll()}>
+            {running ? "Preparo… non chiudere l'app" : `Prepara ${picked} ${picked === 1 ? "lezione" : "lezioni"}`}
+          </button>
         </div>
       )}
-      {stage.kind === "sending" && (
-        <div className="card soft stack center">
-          <p className="step-title" style={{ fontSize: 20 }}>Claude sta preparando la {stage.code}…</p>
-          <p className="tiny">Non chiudere l'app. Di solito 1–3 minuti.</p>
-        </div>
-      )}
-      {stage.kind === "done" && <div className="okbar">Lezione {stage.code} pronta: la trovi in Oggi quando tocca a lei.</div>}
-      {stage.kind === "error" && <div className="alarm" role="alert"><span>{stage.text}</span></div>}
       <p className="tiny">Lezioni nell'app: {lessons.join(", ") || "nessuna"}.</p>
     </section>
   );
+}
+
+/** I .zip si aprono nel telefono: restano solo i PDF. */
+async function expandFiles(files: File[]): Promise<File[]> {
+  const out: File[] = [];
+  for (const f of files) {
+    if (/\.zip$/i.test(f.name) || f.type.includes("zip")) {
+      const { unzipSync } = await import("fflate");
+      const entries = unzipSync(new Uint8Array(await f.arrayBuffer()), { filter: (e) => /\.pdf$/i.test(e.name) && !e.name.includes("__MACOSX") });
+      for (const [name, data] of Object.entries(entries)) out.push(new File([new Uint8Array(data)], name, { type: "application/pdf" }));
+    } else if (/\.pdf$/i.test(f.name) || f.type === "application/pdf") {
+      out.push(f);
+    }
+  }
+  return out;
 }
 
 /* ——— Voce ——— */
