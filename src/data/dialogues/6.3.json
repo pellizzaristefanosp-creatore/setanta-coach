@@ -1,0 +1,229 @@
+{
+  "code": "6.3",
+  "parts": [
+    {
+      "part": 0,
+      "lines": [
+        { "who": "M", "text": "[cheerfully] Allora Luca, oggi passiamo alla pratica. Variabili e meccanismi dell'ipertrofia li hai già studiati." },
+        { "who": "L", "text": "[curious] E adesso cosa cambia?" },
+        { "who": "M", "text": "Le basi restano le stesse: volume, carico, sforzo vicino al cedimento. Cambia il modo in cui le usi in una seduta per l'ipertrofia." },
+        { "who": "L", "text": "Quindi vediamo strumenti concreti?" },
+        { "who": "M", "text": "Sì. Le tecniche: pre-esaurimento, detto anche pre-affaticamento... la serie doppia concentrica-eccentrica, le pause isometriche." },
+        { "who": "M", "text": "Poi il drop set classico e quello meccanico, e le serie cluster." },
+        { "who": "L", "text": "E dopo le tecniche?" },
+        { "who": "M", "text": "Gli schemi di serie e ripetizioni più diffusi per la massa, quelli che molti preparatori usano davvero. Infine il focus dell'attenzione: a cosa pensa l'atleta in ogni ripetizione." },
+        { "who": "L", "text": "[thoughtful] Tipo un difensore centrale che d'estate deve mettere su gambe e schiena?" },
+        { "who": "M", "text": "Esatto. Con le stesse variabili puoi dargli un drop set, un cluster o un German Volume Training. Dipende dal livello, dal tempo e dal momento della stagione." },
+        { "who": "L", "text": "Come passare dalla lavagna tattica al campo." },
+        { "who": "M", "text": "[warmly] Proprio così. È una cassetta degli attrezzi: non usi tutto insieme, ma di ogni attrezzo sai come funziona, quando ha senso e che limiti ha." }
+      ]
+    },
+    {
+      "part": 1,
+      "lines": [
+        { "who": "M", "text": "Partiamo dal pre-esaurimento, o pre-affaticamento. Uno dei metodi più conosciuti in palestra." },
+        { "who": "L", "text": "[curious] Come funziona?" },
+        { "who": "M", "text": "Prima un esercizio di isolamento, che coinvolge una sola articolazione. Subito dopo un esercizio composto, multi-articolare, con più articolazioni e più muscoli." },
+        { "who": "L", "text": "E l'ordine conta?" },
+        { "who": "M", "text": "[emphatic] Conta eccome: PRIMA isolamento, poi multi-articolare. Secondo te perché?" },
+        { "who": "L", "text": "[thoughtful] Perché il muscolo arriva al movimento grande già stanco?" },
+        { "who": "M", "text": "Bravo. Secondo questa logica dovrà lavorare di più. Il corpo, per continuare a spingere, recluta più unità motorie e più fibre." },
+        { "who": "L", "text": "E più fibre lavorano, più stimolo per crescere." },
+        { "who": "M", "text": "Esatto. L'esempio classico: leg curl da sdraiato, poi stacco da terra. Col leg curl stanchi i posteriori della coscia, con lo stacco li fai lavorare di nuovo." },
+        { "who": "L", "text": "[laughs] Come far fare un giro di campo a un attaccante prima della partitella!" },
+        { "who": "M", "text": "Proprio così. Pensa a un'ala che vuole ischiocrurali più grossi e resistenti per gli scatti: arrivano già cotti al movimento principale." },
+        { "who": "L", "text": "Così si spera che facciano loro la parte più dura." },
+        { "who": "M", "text": "[pause] Si spera... e nella prossima parte vediamo perché non convince tutti gli esperti." }
+      ]
+    },
+    {
+      "part": 2,
+      "lines": [
+        { "who": "M", "text": "Guardiamo meglio l'esempio. Leg curl e stacco lavorano tutti e due sui posteriori, ma in modo diverso." },
+        { "who": "L", "text": "In che senso?" },
+        { "who": "M", "text": "Il leg curl lavora soprattutto sulla flessione del ginocchio, con gli ischiocrurali al centro. Lo stacco punta sull'estensione dell'anca, ma chiama ancora gli ischiocrurali." },
+        { "who": "L", "text": "[confident] Allora sulla carta funziona." },
+        { "who": "M", "text": "[serious] Sulla carta. Non è sicuro che il pre-affaticamento faccia davvero reclutare più fibre nel composto." },
+        { "who": "L", "text": "Ma perché non dovrebbe?" },
+        { "who": "M", "text": "Primo problema: la fatica può spostare il lavoro sui muscoli di supporto. Per esempio la parte bassa della schiena." },
+        { "who": "M", "text": "Secondo: arrivi stanco al multi-articolare e ci fai meno volume. E il volume complessivo è fondamentale per l'ipertrofia." },
+        { "who": "L", "text": "[thoughtful] Un mediano sfinito dal leg curl tira lo stacco con la schiena bassa..." },
+        { "who": "M", "text": "Esatto: sbaglia muscolo e fa meno serie buone. Il contrario di quello che cercavi. Come un titolare già stanco: i compagni corrono per lui e la squadra rende meno." },
+        { "who": "L", "text": "Quindi va vietato?" },
+        { "who": "M", "text": "No. È molto usato nel bodybuilding, ma non sempre dà i risultati sperati. Pesa questi svantaggi quando lo metti in una scheda per l'ipertrofia." }
+      ]
+    },
+    {
+      "part": 3,
+      "lines": [
+        { "who": "M", "text": "Avvicinarsi al cedimento è la chiave. Di solito il cedimento arriva in concentrica: alla panca spingi finché il bilanciere non sale più." },
+        { "who": "L", "text": "E lì è finita, no?" },
+        { "who": "M", "text": "[pause] Puoi andare oltre e portare al cedimento anche l'eccentrica, quando il peso scende. Secondo te perché ha senso?" },
+        { "who": "L", "text": "[curious] Perché in discesa sono più forte?" },
+        { "who": "M", "text": "Esatto. Mentre il muscolo si allunga sotto carico, le strutture passive ti aiutano. L'eccentrica è più efficiente e costa meno energia." },
+        { "who": "L", "text": "Quindi quando non spingo più, in discesa ho ancora riserve." },
+        { "who": "M", "text": "Sì. L'atleta arriva vicino al cedimento concentrico, il preparatore o un assistente lo aiuta a sollevare, e lui pensa solo a controllare la discesa." },
+        { "who": "L", "text": "E così fa qualche ripetizione in più." },
+        { "who": "M", "text": "E si avvicina al cedimento totale. Un portiere alla panca: il compagno lo aiuta a salire, lui frena per tre ripetizioni in più." },
+        { "who": "L", "text": "Come un attaccante senza fiato che riesce ancora a rientrare in copertura!" },
+        { "who": "M", "text": "[serious] Bello. Però da solo è difficile, soprattutto coi pesi liberi: serve un aiutante, per sicurezza ed efficacia." },
+        { "who": "M", "text": "Ed è molto faticosa. Usala con parsimonia, per esempio solo nell'ultima serie, o con un buon recupero tra le sedute." }
+      ]
+    },
+    {
+      "part": 4,
+      "lines": [
+        { "who": "M", "text": "Altro metodo del bodybuilding: la pausa isometrica. Niente movimento, ma il muscolo resta in tensione." },
+        { "who": "L", "text": "[curious] E a cosa serve stare fermi?" },
+        { "who": "M", "text": "Aumenta molto il tempo sotto tensione, fondamentale per l'ipertrofia. Esempio: split squat col piede posteriore sollevato. In basso ti fermi per un tempo deciso prima." },
+        { "who": "L", "text": "Come in barriera prima della punizione: fermo, ma gambe in tensione." },
+        { "who": "M", "text": "[laughs] Esatto. Punto chiave: cambia l'angolo. Fermandoti sempre allo stesso stimoli solo una parte del muscolo." },
+        { "who": "L", "text": "E cambiandolo a ogni serie lo prendo tutto." },
+        { "who": "M", "text": "Sì, una stimolazione più completa, essenziale per crescere. Secondo te, perché non metterla a ogni ripetizione?" },
+        { "who": "L", "text": "[thoughtful] Perché poi non reggo il peso?" },
+        { "who": "M", "text": "Bravo. Il tempo sotto tensione sale tanto, ma devi abbassare il carico, e lo stimolo ipertrofico può calare." },
+        { "who": "M", "text": "Quindi parsimonia: di solito a fine serie o nell'ultima ripetizione. Quattro serie di split squat, pausa nell'ultima ripetizione, ogni volta a un angolo diverso." },
+        { "who": "L", "text": "Tipo un terzino col bulgaro: prima serie in basso, poi a metà discesa, poi più in alto." },
+        { "who": "M", "text": "[warmly] Perfetto. Ogni volta la coscia lavora in un punto diverso, e il lavoro è completo." }
+      ]
+    },
+    {
+      "part": 5,
+      "lines": [
+        { "who": "M", "text": "Ora il drop set classico. Secondo te, quando un muscolo arriva al cedimento è del tutto esaurito?" },
+        { "who": "L", "text": "[confident] Beh, sì... non ce la fa più." },
+        { "who": "M", "text": "No: semplicemente non lavora più con QUEL carico. Si chiama cedimento concentrico. E il drop set sfrutta questa riserva." },
+        { "who": "L", "text": "[curious] Come?" },
+        { "who": "M", "text": "Fai le ripetizioni vicino al cedimento. Poi, quasi senza riposo, togli peso in fretta e il muscolo continua con un carico più basso." },
+        { "who": "M", "text": "Ripeti togliendo altro peso, finché resta solo la sbarra. Ogni volta più ripetizioni possibili fino a un nuovo cedimento." },
+        { "who": "L", "text": "Tipo un centrocampista allo squat con due dischi per lato: i compagni ne sfilano uno e lui riparte subito, poi chiude con la sbarra." },
+        { "who": "M", "text": "Esatto. Il punto forte è la fatica muscolare profonda: il muscolo lavora oltre il primo cedimento." },
+        { "who": "L", "text": "Quindi più intensità nella seduta." },
+        { "who": "M", "text": "E massimo reclutamento delle fibre, con più stimolo per la crescita. Se vuoi portare un muscolo al limite, è una buona strategia." },
+        { "who": "L", "text": "Come un pressing che non molla: non corri più forte, ma non ti fermi." },
+        { "who": "M", "text": "[serious] Bello. Ma regola bene i carichi a ogni scalata e ascolta il corpo, per lavorare sicuro ed efficace." }
+      ]
+    },
+    {
+      "part": 6,
+      "lines": [
+        { "who": "M", "text": "C'è una variante: il drop set meccanico. Nel classico togli peso. Qui il peso resta uguale." },
+        { "who": "L", "text": "[surprised] E allora cosa cambia?" },
+        { "who": "M", "text": "Cambi l'esercizio per aumentare il vantaggio meccanico. Ogni passaggio diventa un po' più facile." },
+        { "who": "M", "text": "Esempio: rematore supino, a corpo libero sotto una sbarra. Si parte dalla variante più dura, piedi sollevati su una panca: più peso corporeo da sollevare." },
+        { "who": "L", "text": "E vado fino al cedimento?" },
+        { "who": "M", "text": "[emphatic] Vicino, ma non del tutto. Il cedimento farebbe crollare la resa nelle varianti dopo." },
+        { "who": "L", "text": "Poi?" },
+        { "who": "M", "text": "Variante più facile: corpo dritto e allineato, piedi a terra. Infine la più semplice: piedi vicini al corpo e ginocchia piegate, il vantaggio meccanico più alto." },
+        { "who": "L", "text": "Dalla più difficile alla più facile, sempre vicino al cedimento. Come un torello prima a un tocco, poi a due, poi libero!" },
+        { "who": "M", "text": "[laughs] Esatto. Di solito si usa nell'ultima serie di un esercizio, o con parsimonia, per stancare del tutto il muscolo e dare uno stimolo ipertrofico." },
+        { "who": "L", "text": "[thoughtful] E la tecnica?" },
+        { "who": "M", "text": "Fondamentale, perché è proprio la tecnica che cambia tra una variante e l'altra. Forma perfetta in ogni ripetizione." }
+      ]
+    },
+    {
+      "part": 7,
+      "lines": [
+        { "who": "M", "text": "Ora le serie cluster, dette anche rest-pause. Carichi abbastanza pesanti e brevi pause DENTRO la stessa serie." },
+        { "who": "L", "text": "[curious] A cosa servono le pause?" },
+        { "who": "M", "text": "A fare ripetizioni in più. Così aumenta il volume complessivo, chiave per l'ipertrofia." },
+        { "who": "L", "text": "E in pratica?" },
+        { "who": "M", "text": "Ripetizioni decise prima, per esempio tre. Poi un recupero parziale di dieci-venti secondi. Poi altre ripetizioni, di solito due. E si può ripetere qualche volta." },
+        { "who": "L", "text": "Alla panca allora: tre ripetizioni, quindici secondi, altre due?" },
+        { "who": "M", "text": "Sì, e se ce la fai altri quindici secondi e ancora due. Pensa a un difensore che con quel carico non arriva a sette: tre, due e due, e le completa tutte." },
+        { "who": "L", "text": "Come le ripetute con micro-pause!" },
+        { "who": "M", "text": "Esatto. Alzi sia la tensione meccanica sia il volume. Porti il muscolo quasi al cedimento più volte nella stessa serie: stimolo potente." },
+        { "who": "L", "text": "[thoughtful] Sembra durissimo." },
+        { "who": "M", "text": "[serious] Lo è. Tra una serie e l'altra serve un riposo adeguato. Dentro il cluster pause tra dieci e venti secondi, per tenere alta l'intensità." },
+        { "who": "M", "text": "E adatta carico e pause al livello di forma e agli obiettivi dell'atleta." }
+      ]
+    },
+    {
+      "part": 8,
+      "lines": [
+        { "who": "M", "text": "Finite le tecniche, passiamo agli schemi di carico. Sono tantissimi, vediamo solo quelli degni di nota. Il primo: il German Volume Training." },
+        { "who": "L", "text": "[curious] Dal nome punta sul volume?" },
+        { "who": "M", "text": "Esatto, variabile chiave per l'ipertrofia. Dieci serie da dieci, con lo stesso carico, per ogni esercizio." },
+        { "who": "L", "text": "Che carico?" },
+        { "who": "M", "text": "Uno con cui faresti circa venti ripetizioni prima del cedimento. Più o meno il sessanta per cento dell'1RM. E recuperi brevi, circa sessanta secondi." },
+        { "who": "L", "text": "[surprised] Volume altissimo! E quanti esercizi?" },
+        { "who": "M", "text": "Uno per gruppo muscolare, e due gruppi per seduta. Visto che è uno solo, scegli un multi-articolare: panca piana, squat, stacco da terra o military press." },
+        { "who": "L", "text": "Posso aggiungere altro?" },
+        { "who": "M", "text": "Sì, ma con volume molto più basso, per esempio tre serie da dieci-quindici. Secondo te come si progredisce?" },
+        { "who": "L", "text": "[thoughtful] Quando chiudo tutto il dieci per dieci alzo il peso?" },
+        { "who": "M", "text": "Bravo: tutte e dieci con sessanta secondi costanti, poi più quattro-cinque per cento e ripeti il ciclo. Sovraccarico, e il corpo resta in adattamento." },
+        { "who": "L", "text": "Tipo un attaccante nel precampionato: squat dieci per dieci al sessanta per cento, un minuto di recupero, poi più cinque per cento." },
+        { "who": "M", "text": "[warmly] Esatto. Come una lunga serie di possessi palla, poco tempo per rifiatare." }
+      ]
+    },
+    {
+      "part": 9,
+      "lines": [
+        { "who": "M", "text": "Uno degli schemi più semplici ed efficaci: quattro serie da otto-dieci ripetizioni al settanta per cento dell'1RM." },
+        { "who": "L", "text": "[curious] È per principianti?" },
+        { "who": "M", "text": "Molto utile per loro: li introduce a una giusta quantità di carico e di stress. Ma ne traggono vantaggio anche intermedi e avanzati." },
+        { "who": "L", "text": "Per questo lo usano in tanti." },
+        { "who": "M", "text": "Sì, è un punto fermo per molti preparatori. Di solito si mettono più esercizi per i gruppi da colpire, e la frequenza si regola sulla persona." },
+        { "who": "L", "text": "[thoughtful] Ma non per tutti gli esercizi ho l'1RM." },
+        { "who": "M", "text": "Allora si va per tentativi: cerchi un carico che l'atleta solleva per dieci-dodici ripetizioni." },
+        { "who": "L", "text": "E perché funziona?" },
+        { "who": "M", "text": "Carico e volume moderati: come hai visto, le fasce moderate spesso danno lo stimolo migliore. Poi alzi il carico pian piano, man mano che si adatta." },
+        { "who": "L", "text": "Quindi alzo su tutti gli esercizi insieme?" },
+        { "who": "M", "text": "[serious] No, rischi di sovraccaricarlo troppo. Uno o due esercizi alla volta: così i progressi durano." },
+        { "who": "L", "text": "Un ragazzo della primavera alla prima scheda: squat, panca e rematore quattro per otto-dieci, e ogni settimana alzo solo su uno o due." },
+        { "who": "M", "text": "[warmly] Perfetto. Come il riscaldamento tecnico: niente di spettacolare, ma con costanza porta risultati." }
+      ]
+    },
+    {
+      "part": 10,
+      "lines": [
+        { "who": "M", "text": "Ora le onde sette-cinque-tre. Blocchi di tre serie dello stesso esercizio: a ogni serie il carico sale e le ripetizioni scendono." },
+        { "who": "L", "text": "[curious] Mi fai un esempio?" },
+        { "who": "M", "text": "Sette ripetizioni con cinquanta chili, cinque con cinquantacinque, tre con sessanta. Tra una serie e l'altra il tuo recupero normale." },
+        { "who": "L", "text": "E finisce lì?" },
+        { "who": "M", "text": "Di solito due onde, sei serie in tutto. Nella seconda il carico sale. Secondo te da dove riparti?" },
+        { "who": "L", "text": "[thoughtful] Dal peso delle cinque ripetizioni?" },
+        { "who": "M", "text": "Esatto: diventa il peso delle sette. Quindi sette con cinquantacinque, cinque con sessanta, tre con sessantacinque." },
+        { "who": "L", "text": "Poche ripetizioni, quindi carichi pesanti." },
+        { "who": "M", "text": "Sì, tanta tensione meccanica: stimolo forte per ipertrofia e forza. Come ripetute in salita sempre più ripide." },
+        { "who": "L", "text": "Lo uso per tutta la seduta?" },
+        { "who": "M", "text": "[serious] No. Per l'esercizio principale. Per i complementari quattro serie da otto-dieci. Mescolare schemi dà stimolazione e adattamento completi." },
+        { "who": "L", "text": "Tipo un centrale: stacco a onde come primo esercizio, poi affondi e rematore quattro per otto-dieci." },
+        { "who": "M", "text": "[warmly] Esatto: carichi pesanti e volume moderato nella stessa giornata." }
+      ]
+    },
+    {
+      "part": 11,
+      "lines": [
+        { "who": "M", "text": "Un aspetto cruciale per l'ipertrofia: il focus dell'attenzione. A cosa pensa l'atleta in ogni ripetizione." },
+        { "who": "L", "text": "[curious] E ce ne sono diversi?" },
+        { "who": "M", "text": "Due principali. Focus interno: pensi alla contrazione del muscolo e al movimento del corpo. Focus esterno: ti concentri sul movimento in sé e sul sollevare il peso." },
+        { "who": "L", "text": "Nello sport ci dicono sempre di pensare fuori." },
+        { "who": "M", "text": "Sì, in molti sport si consiglia l'esterno: gesto fluido ed efficiente. Secondo te in palestra per la massa vale lo stesso?" },
+        { "who": "L", "text": "[thoughtful] Forse no..." },
+        { "who": "M", "text": "Bravo, è un caso particolare. Qui l'interno può essere utile, grazie alla connessione mente-muscolo." },
+        { "who": "M", "text": "La ricerca suggerisce che se visualizzi un muscolo o un'azione e ti concentri su quello, puoi aumentarne l'attivazione. In linea con una vecchia idea del bodybuilding." },
+        { "who": "L", "text": "Quindi più attivazione, più crescita?" },
+        { "who": "M", "text": "[serious] Attento: non è dimostrato in modo definitivo. Però l'idea ha delle basi, quindi il focus interno coi pesi per l'ipertrofia può essere vantaggioso." },
+        { "who": "L", "text": "Sul campo, quando calcio, penso alla porta, non al quadricipite. Al leg curl invece penso ai posteriori che si contraggono." },
+        { "who": "M", "text": "[warmly] Esatto. Quando tiri guardi l'angolino, al leg extension pensi al quadricipite che si stringe." }
+      ]
+    },
+    {
+      "part": 12,
+      "lines": [
+        { "who": "M", "text": "Mettiamo in fila tutto. Pre-affaticamento: prima isolamento, poi multi-articolare. I dubbi?" },
+        { "who": "L", "text": "[confident] La fatica finisce sui muscoli di supporto e cala il volume nel composto." },
+        { "who": "M", "text": "Bravo. Serie doppia: l'aiutante ti fa salire, tu controlli la discesa, perché in eccentrica sei più forte." },
+        { "who": "L", "text": "Pause isometriche: più tempo sotto tensione, angolo diverso a ogni serie, di solito nell'ultima ripetizione." },
+        { "who": "M", "text": "Drop set classico: togli peso fino alla sola sbarra. Meccanico: tieni il peso e rendi l'esercizio più facile. Cluster: carichi pesanti, pause di dieci-venti secondi dentro la serie." },
+        { "who": "L", "text": "E gli schemi?" },
+        { "who": "M", "text": "German Volume Training: dieci per dieci al sessanta per cento circa, sessanta secondi di recupero, più quattro-cinque per cento quando lo completi." },
+        { "who": "L", "text": "Quattro serie da otto-dieci al settanta per cento dell'1RM, valide per tutti i livelli. E le onde sette-cinque-tre, due onde col carico che sale nella seconda." },
+        { "who": "M", "text": "Infine il focus: quello interno può aiutare l'ipertrofia, soprattutto per la connessione mente-muscolo." },
+        { "who": "L", "text": "[thoughtful] Come avere più moduli pronti: quattro-tre-tre, quattro-quattro-due, tre-cinque-due." },
+        { "who": "M", "text": "[warmly] Esatto. Per ogni giocatore scegli lo strumento giusto: livello, tempo che hai e fase della stagione. Alla prossima, Luca!" }
+      ]
+    }
+  ]
+}

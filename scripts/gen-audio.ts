@@ -19,7 +19,7 @@ export type AudioPart = { src: string; duration: number; lines: { who: "M" | "L"
 const args = process.argv.slice(2);
 const budgetIdx = args.indexOf("--budget");
 const budget = budgetIdx >= 0 ? Number(args[budgetIdx + 1]) : Infinity;
-const codes = args.filter((a, i) => !a.startsWith("--") && i !== budgetIdx + 1);
+const codes = args.filter((a, i) => !a.startsWith("--") && (budgetIdx < 0 || i !== budgetIdx + 1));
 let spent = 0;
 
 const tmp = join(tmpdir(), "setanta-audio");
