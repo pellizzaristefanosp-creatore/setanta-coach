@@ -1,4 +1,5 @@
 import { useState, type JSX } from "react";
+import { Celebration } from "./Celebration";
 import { dismissToast, useStore, useToasts } from "./lib/store";
 import { Review } from "./screens/Review";
 import { Settings } from "./screens/Settings";
@@ -38,6 +39,7 @@ export default function App() {
         {tab === "altro" && <Settings />}
       </main>
       <Toasts />
+      <Celebration />
       {!inSession && (
         <div className="tabbar">
           <nav aria-label="Sezioni">

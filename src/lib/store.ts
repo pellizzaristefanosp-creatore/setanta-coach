@@ -2,7 +2,7 @@ import { useSyncExternalStore } from "react";
 import { makePresentation, seedState } from "../data/seed";
 import { today } from "./dates";
 import { isDone } from "./plan";
-import { BADGES, BOSS_TO_WIN, POINTS, dailyChallenge, earnedBadges, weeklyChallenge } from "./game";
+import { BADGES, BOSS_TO_WIN, POINTS, dailyChallenge, earnedBadges, level, totalXp, weeklyChallenge } from "./game";
 import { LessonPackSchema, type LessonPack } from "./lesson";
 import { cardsForPart, lessonFor, syncLessons } from "./lessons";
 import { newCard, review, type Grade } from "./sm2";
@@ -76,6 +76,31 @@ export function useToasts(): Toast[] {
   );
 }
 
+/* ——— Feste a tutto schermo per premi, livelli, sfide e partite ——— */
+
+export type Celebration = { id: number; kind: "badge" | "level" | "daily" | "weekly" | "boss"; icon: string; title: string; subtitle: string; points: number };
+let celebrations: Celebration[] = [];
+let celebrationId = 0;
+const celebrationListeners = new Set<() => void>();
+export function celebrate(c: Omit<Celebration, "id">) {
+  celebrations = [...celebrations, { ...c, id: ++celebrationId }];
+  celebrationListeners.forEach((l) => l());
+}
+export function dismissCelebration(id: number) {
+  celebrations = celebrations.filter((c) => c.id !== id);
+  celebrationListeners.forEach((l) => l());
+}
+export function useCelebrations(): Celebration[] {
+  return useSyncExternalStore(
+    (l) => {
+      celebrationListeners.add(l);
+      return () => celebrationListeners.delete(l);
+    },
+    () => celebrations,
+    () => celebrations,
+  );
+}
+
 function award(s: State, kind: XpKind, times = 1) {
   if (times <= 0) return;
   s.xp.push({ date: today(), kind, points: POINTS[kind] * times });
@@ -88,26 +113,29 @@ function settle(s: State) {
   if (daily.complete && daily.done > 0 && !s.challenges[`d:${d}`]) {
     s.challenges[`d:${d}`] = d;
     award(s, "daily");
-    queueMicrotask(() => pushToast(`Sfida del giorno vinta · +${POINTS.daily}`, true));
+    queueMicrotask(() => celebrate({ kind: "daily", icon: "🎯", title: "Sfida del giorno vinta", subtitle: "Hai fatto quello che serviva oggi.", points: POINTS.daily }));
   }
   const w = weekStart(d);
   const weekly = weeklyChallenge(s, d);
   if (weekly.complete && weekly.done > 0 && !s.challenges[`w:${w}`]) {
     s.challenges[`w:${w}`] = d;
     award(s, "weekly");
-    queueMicrotask(() => pushToast(`Sfida della settimana vinta · +${POINTS.weekly}`, true));
+    queueMicrotask(() => celebrate({ kind: "weekly", icon: "📅", title: "Settimana vinta", subtitle: "Tutte le presentazioni della settimana, chiuse.", points: POINTS.weekly }));
   }
   for (const id of earnedBadges(s, d)) {
     s.badges[id] = d;
     const b = BADGES.find((x) => x.id === id);
-    if (b) queueMicrotask(() => pushToast(`${b.icon} Premio: ${b.name}`, true));
+    if (b) queueMicrotask(() => celebrate({ kind: "badge", icon: b.icon, title: b.name, subtitle: b.how, points: 0 }));
   }
 }
 
 export function setState(update: (draft: State) => void) {
   const draft = structuredClone(state);
+  const before = level(totalXp(state));
   update(draft);
   settle(draft);
+  const after = level(totalXp(draft));
+  if (after.index > before.index) queueMicrotask(() => celebrate({ kind: "level", icon: "⬆️", title: `Sei ${after.name}!`, subtitle: after.next ? `Prossimo livello: ${after.next}.` : "Livello massimo raggiunto.", points: 0 }));
   state = draft;
   persist();
   listeners.forEach((l) => l());
@@ -277,7 +305,7 @@ export function saveBossResult(unit: number, correct: number) {
     s.bosses[String(unit)] = { won: won || !!prev?.won, best: Math.max(prev?.best ?? 0, correct), date: today() };
     if (firstWin) award(s, "boss");
   });
-  if (won) pushToast(`🏆 Unità ${unit} vinta · +${POINTS.boss}`, true);
+  if (won) celebrate({ kind: "boss", icon: "🏆", title: `Unità ${unit} vinta`, subtitle: `${correct} risposte giuste su 10.`, points: POINTS.boss });
 }
 
 export function markExercise(id: string) {
