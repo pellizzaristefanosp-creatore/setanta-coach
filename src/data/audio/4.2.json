@@ -1,0 +1,624 @@
+{
+ "code": "4.2",
+ "parts": {
+  "0": {
+   "src": "/audio/4.2/1.mp3",
+   "duration": 73,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Allora Luca, oggi entriamo negli esercizi anti-flessione per il core."
+    },
+    {
+     "who": "L",
+     "start": 5.34,
+     "text": "Nome complicato... cosa vuol dire?"
+    },
+    {
+     "who": "M",
+     "start": 8.69,
+     "text": "L'idea è semplice: impedisci alla colonna di piegarsi in avanti mentre un carico prova a farlo."
+    },
+    {
+     "who": "L",
+     "start": 15.23,
+     "text": "E che esercizi vediamo?"
+    },
+    {
+     "who": "M",
+     "start": 17.31,
+     "text": "Sei tappe. Si parte dall'hip hinge, la cerniera dell'anca, base di tanti esercizi da palestra. Poi il Romanian deadlift, la stessa cerniera col bilanciere."
+    },
+    {
+     "who": "L",
+     "start": 29.13,
+     "text": "E dopo?"
+    },
+    {
+     "who": "M",
+     "start": 30.31,
+     "text": "Terza, i face pulls, una tirata verso il viso con cavo o elastico. Quarta, il single-arm row, la rematore a un braccio. Quinta, la tenuta statica: resti fermo e lotti contro la gravità."
+    },
+    {
+     "who": "L",
+     "start": 46.15,
+     "text": "E la sesta?"
+    },
+    {
+     "who": "M",
+     "start": 47.57,
+     "text": "I punti chiave: come inserire questo lavoro nel programma e quando gli esercizi classici rischiano di non bastare."
+    },
+    {
+     "who": "L",
+     "start": 55.32,
+     "text": "Ma questi li faccio già, pensando a gambe e schiena!"
+    },
+    {
+     "who": "M",
+     "start": 59.06,
+     "text": "Appunto. La novità è lo sguardo: li vedrai anche come lavoro per il core, soprattutto per la parte POSTERIORE del tronco."
+    },
+    {
+     "who": "L",
+     "start": 68.01,
+     "text": "Come nel riscaldamento: lo stesso esercizio ha più scopi, dipende da cosa cerchi."
+    }
+   ]
+  },
+  "1": {
+   "src": "/audio/4.2/2.mp3",
+   "duration": 81,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Luca, quando si parla di core, a cosa pensano quasi tutti?"
+    },
+    {
+     "who": "L",
+     "start": 5.41,
+     "text": "Agli addominali allo specchio."
+    },
+    {
+     "who": "M",
+     "start": 8.84,
+     "text": "Retto dell'addome e obliqui. Così l'anti-flessione finisce in secondo piano. Ma il core è tutta la parte centrale del tronco."
+    },
+    {
+     "who": "L",
+     "start": 18.02,
+     "text": "E l'anti-flessione cosa allena?"
+    },
+    {
+     "who": "M",
+     "start": 20.56,
+     "text": "I muscoli che si oppongono alla flessione della colonna: soprattutto posteriori, in primo luogo gli ERETTORI spinali. Resisti a ogni forza che ti curva, schiena forte e neutra."
+    },
+    {
+     "who": "L",
+     "start": 33.19,
+     "text": "E quando la uso?"
+    },
+    {
+     "who": "M",
+     "start": 35.11,
+     "text": "In quasi tutti gli esercizi con sovraccarico, spesso senza accorgertene. Nel bent-over row tieni la schiena piatta mentre il peso ti tira giù."
+    },
+    {
+     "who": "L",
+     "start": 45.1,
+     "text": "Quindi la alleno già in modo indiretto."
+    },
+    {
+     "who": "M",
+     "start": 48.21,
+     "text": "Sì. Qui vediamo esercizi scelti per stimolare in modo diretto gli erettori. E c'è un motivo pratico per la popolazione generale: tanti sedentari, ore al computer, postura curva in avanti."
+    },
+    {
+     "who": "L",
+     "start": 61.65,
+     "text": "E se allenano solo la parte davanti?"
+    },
+    {
+     "who": "M",
+     "start": 64.51,
+     "text": "Rischiano di peggiorare e tirarsi ancora di più in quella posizione. Serve il contrappeso degli estensori della schiena, per tornare verso una colonna neutra."
+    },
+    {
+     "who": "L",
+     "start": 74.26,
+     "text": "Con i pesi in modo indiretto e con esercizi dedicati: insieme correggono la postura e tengono sana la colonna."
+    }
+   ]
+  },
+  "2": {
+   "src": "/audio/4.2/3.mp3",
+   "duration": 72.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Primo pilastro: l'hip hinge. Fa lavorare per forza gli erettori spinali, e ancora di più col carico."
+    },
+    {
+     "who": "L",
+     "start": 7.82,
+     "text": "Tipo nello stacco?"
+    },
+    {
+     "who": "M",
+     "start": 9.66,
+     "text": "Deadlift, Romanian deadlift, kettlebell swing: gli erettori si oppongono al peso esterno. Ma prima di caricare si sistema la tecnica, con un semplice bastone."
+    },
+    {
+     "who": "L",
+     "start": 21.9,
+     "text": "Un bastone? E come si usa?"
+    },
+    {
+     "who": "M",
+     "start": 24.94,
+     "text": "Lo appoggi lungo la schiena. Deve toccare tre punti. Secondo te, quali?"
+    },
+    {
+     "who": "L",
+     "start": 31.28,
+     "text": "La testa... e il sedere?"
+    },
+    {
+     "who": "M",
+     "start": 34.4,
+     "text": "Quasi: coccige, zona tra le scapole e testa. Se tieni i tre contatti mentre ti pieghi, sei allineato."
+    },
+    {
+     "who": "L",
+     "start": 42.88,
+     "text": "E se ne perdo uno?"
+    },
+    {
+     "who": "M",
+     "start": 44.64,
+     "text": "Di solito incurvi la schiena o la inarchi troppo. Va corretto. Il bastone è come i coni: ti dice subito se esci dal percorso."
+    },
+    {
+     "who": "L",
+     "start": 53.89,
+     "text": "Poi passo ai pesi?"
+    },
+    {
+     "who": "M",
+     "start": 55.73,
+     "text": "Quando la cerniera col bastone è pulita, sì. E rinforza la meccanica giusta, per i pesi e per l'anti-flessione. Tre elementi: ginocchia leggermente piegate, anche indietro, colonna NEUTRA."
+    },
+    {
+     "who": "L",
+     "start": 68.52,
+     "text": "E lo metto nel riscaldamento, così arrivo pronto alla parte principale."
+    }
+   ]
+  },
+  "3": {
+   "src": "/audio/4.2/4.mp3",
+   "duration": 76.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Se alla cerniera aggiungi un carico, tipo un bilanciere, cosa ottieni?"
+    },
+    {
+     "who": "L",
+     "start": 6.53,
+     "text": "Il Romanian deadlift, l'RDL."
+    },
+    {
+     "who": "M",
+     "start": 10.35,
+     "text": "Esatto. L'esecuzione è quasi uguale: ginocchia leggermente piegate, anche indietro, colonna neutra per tutto il movimento. Poi risali e senti glutei e ischiocrurali."
+    },
+    {
+     "who": "L",
+     "start": 23.29,
+     "text": "È un classico delle schede gambe."
+    },
+    {
+     "who": "M",
+     "start": 25.68,
+     "text": "Base della sala pesi: colpisce bene glutei, zona lombare e ischiocrurali. Ma c'è un secondo effetto, meno evidente."
+    },
+    {
+     "who": "L",
+     "start": 34.86,
+     "text": "Quale?"
+    },
+    {
+     "who": "M",
+     "start": 36.13,
+     "text": "È un esercizio anti-flessione INDIRETTO per il core. Mentre abbassi il bilanciere, il carico tende a piegarti la colonna in avanti."
+    },
+    {
+     "who": "L",
+     "start": 45.07,
+     "text": "E chi lo impedisce?"
+    },
+    {
+     "who": "M",
+     "start": 46.99,
+     "text": "Gli estensori della schiena e gli altri muscoli anti-flessione del core, che tengono la colonna integra. La schiena non si arrotonda, mentre anche e gambe fanno il movimento."
+    },
+    {
+     "who": "L",
+     "start": 58.1,
+     "text": "Quindi il focus resta sulle gambe, ma il tronco lavora."
+    },
+    {
+     "who": "M",
+     "start": 62.89,
+     "text": "Doppio vantaggio: per questo l'RDL è così versatile. Come un filtrante che taglia due linee."
+    },
+    {
+     "who": "L",
+     "start": 70.24,
+     "text": "Se la cerniera col bastone è pulita, passare all'RDL è naturale: cambia il peso, non la tecnica."
+    }
+   ]
+  },
+  "4": {
+   "src": "/audio/4.2/5.mp3",
+   "duration": 73.2,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Altro esercizio utile: il face pull. Di solito al cavo, ma va bene anche con un elastico."
+    },
+    {
+     "who": "L",
+     "start": 7.35,
+     "text": "Come si fa?"
+    },
+    {
+     "who": "M",
+     "start": 8.85,
+     "text": "Tiri l'elastico verso il viso. Lavorano la parte alta della schiena e i retrattori delle scapole, quelli che le portano indietro."
+    },
+    {
+     "who": "L",
+     "start": 17.4,
+     "text": "E il core dove entra?"
+    },
+    {
+     "who": "M",
+     "start": 19.87,
+     "text": "L'elastico cerca di tirarti in avanti. Tu resisti e resti dritto: servono gli erettori spinali attivi per tenere la colonna integra."
+    },
+    {
+     "who": "L",
+     "start": 29.05,
+     "text": "Come quando un avversario mi trattiene la maglia da davanti."
+    },
+    {
+     "who": "M",
+     "start": 32.72,
+     "text": "Esatto: spalle indietro, busto dritto. Un altro effetto indiretto dei sovraccarichi sull'anti-flessione."
+    },
+    {
+     "who": "L",
+     "start": 40.95,
+     "text": "E come regolo la fatica?"
+    },
+    {
+     "who": "M",
+     "start": 43.11,
+     "text": "Cambi la distanza dal punto di fissaggio dell'elastico. Cambia il carico e cambia quanto si allunga. Così adatti l'esercizio al livello senza cambiare attrezzo, anche a bordo campo."
+    },
+    {
+     "who": "L",
+     "start": 54.92,
+     "text": "Ricapitolo: tiro al viso, resisto in avanti, schiena neutra tutta la serie."
+    },
+    {
+     "who": "M",
+     "start": 61,
+     "text": "E alleni dorso alto, retrattori ed erettori insieme. Non è nato per il core, ma il core lavora LO STESSO."
+    },
+    {
+     "who": "L",
+     "start": 69.23,
+     "text": "Tanti esercizi da palestra allenano il tronco anche quando non ci penso."
+    }
+   ]
+  },
+  "5": {
+   "src": "/audio/4.2/6.mp3",
+   "duration": 74.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Ora una variante della rematore che aumenta il lavoro del core: il single-arm row, a un braccio, con elastico o cavo."
+    },
+    {
+     "who": "L",
+     "start": 8.55,
+     "text": "Cosa cambia tirando con un braccio solo?"
+    },
+    {
+     "who": "M",
+     "start": 11.49,
+     "text": "Secondo te?"
+    },
+    {
+     "who": "L",
+     "start": 13.92,
+     "text": "Il busto... tende a girarsi?"
+    },
+    {
+     "who": "M",
+     "start": 17.27,
+     "text": "Bravo. Oltre alla forza che ti porta in flessione compare una forza ROTAZIONALE. Alleni anti-flessione e anti-rotazione insieme."
+    },
+    {
+     "who": "L",
+     "start": 27.26,
+     "text": "Come lo imposto?"
+    },
+    {
+     "who": "M",
+     "start": 28.84,
+     "text": "Elastico un po' più in basso rispetto ai face pulls. Cammini indietro per mettere tensione, posizione atletica con anche e ginocchia leggermente piegate. Poi tiri."
+    },
+    {
+     "who": "L",
+     "start": 40.5,
+     "text": "E mentre tiro?"
+    },
+    {
+     "who": "M",
+     "start": 42.42,
+     "text": "Due lavori: resisti all'elastico che ti porta in avanti o in flessione, e contrasti la forza che vuole ruotarti il busto. Una prova completa per il core."
+    },
+    {
+     "who": "L",
+     "start": 53.03,
+     "text": "E la schiena come muscoli?"
+    },
+    {
+     "who": "M",
+     "start": 55.58,
+     "text": "Non perdi i vantaggi del sovraccarico: sviluppi i muscoli, in particolare i retrattori delle scapole. Un solo movimento per schiena, anti-flessione e anti-rotazione."
+    },
+    {
+     "who": "L",
+     "start": 66.85,
+     "text": "Come difendere palla col braccio largo: il busto non si piega né si gira. Elastico più basso, un braccio alla volta."
+    }
+   ]
+  },
+  "6": {
+   "src": "/audio/4.2/7.mp3",
+   "duration": 78.7,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Un'altra variante efficace: la tenuta statica, in inglese static hold."
+    },
+    {
+     "who": "L",
+     "start": 5.99,
+     "text": "Come si fa?"
+    },
+    {
+     "who": "M",
+     "start": 7.49,
+     "text": "Su una panca, col busto che sporge oltre la fine. La gravità tira il tronco giù e cerca di portarti in flessione."
+    },
+    {
+     "who": "L",
+     "start": 15.89,
+     "text": "E io cosa faccio?"
+    },
+    {
+     "who": "M",
+     "start": 18.12,
+     "text": "Gli estensori della schiena lavorano per tenere la posizione ferma. Obiettivo: non farti piegare per tutta la tenuta, estensori attivi dall'inizio alla fine."
+    },
+    {
+     "who": "L",
+     "start": 29,
+     "text": "Lavora solo la schiena?"
+    },
+    {
+     "who": "M",
+     "start": 30.91,
+     "text": "No, anche fianchi e glutei, così sviluppi tutta la catena posteriore."
+    },
+    {
+     "who": "L",
+     "start": 36.33,
+     "text": "E l'errore tipico?"
+    },
+    {
+     "who": "M",
+     "start": 38.4,
+     "text": "Rilassare la schiena. La colonna va subito in flessione e l'esercizio perde senso. Gli erettori devono restare SEMPRE in tensione."
+    },
+    {
+     "who": "L",
+     "start": 47.74,
+     "text": "Qui però non mi muovo."
+    },
+    {
+     "who": "M",
+     "start": 50.05,
+     "text": "Esatto: non tiri, non sollevi, non ti pieghi. Resti fermo e combatti la gravità. È lavoro dedicato agli estensori, diverso dall'effetto indiretto di RDL o face pull."
+    },
+    {
+     "who": "L",
+     "start": 63.8,
+     "text": "Come stare in barriera su una punizione: fermo, ma ogni muscolo lavora."
+    },
+    {
+     "who": "M",
+     "start": 69.4,
+     "text": "Completa bene un programma per colpire in modo diretto la parte posteriore del tronco."
+    },
+    {
+     "who": "L",
+     "start": 74.82,
+     "text": "Regola d'oro: schiena attiva tutto il tempo, mai appesa."
+    }
+   ]
+  },
+  "7": {
+   "src": "/audio/4.2/8.mp3",
+   "duration": 85.1,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Dibattito classico del fitness: panca piana, deadlift, squat e trazioni bastano per il core?"
+    },
+    {
+     "who": "L",
+     "start": 8.44,
+     "text": "Io direi di sì. Se sollevo pesante, il core lavora."
+    },
+    {
+     "who": "M",
+     "start": 12.91,
+     "text": "In tanti la pensano così, soprattutto per squat e deadlift. E in parte è vero: attivano molto gli erettori spinali, perché l'anti-flessione protegge la colonna."
+    },
+    {
+     "who": "L",
+     "start": 23.87,
+     "text": "Allora dov'è il problema?"
+    },
+    {
+     "who": "M",
+     "start": 26.1,
+     "text": "Potrebbero non stimolare a fondo i muscoli DAVANTI: retto dell'addome e obliqui rischiano di ricevere meno."
+    },
+    {
+     "who": "L",
+     "start": 33.37,
+     "text": "E i muscoli profondi?"
+    },
+    {
+     "who": "M",
+     "start": 35.37,
+     "text": "Multifido e trasverso dell'addome probabilmente lavorano, perché la colonna va stabilizzata. I più superficiali potrebbero non essere coinvolti abbastanza."
+    },
+    {
+     "who": "L",
+     "start": 45.83,
+     "text": "E per la parte davanti cosa uso?"
+    },
+    {
+     "who": "M",
+     "start": 48.61,
+     "text": "Piegamenti sulle braccia o plank sono probabilmente più efficaci, grazie alla posizione del corpo."
+    },
+    {
+     "who": "L",
+     "start": 55.57,
+     "text": "Quindi la risposta giusta?"
+    },
+    {
+     "who": "M",
+     "start": 58.5,
+     "text": "Dipende da obiettivi e bisogni dell'atleta. I fondamentali contano per alcuni muscoli, ma per forza e stabilità del core nel suo insieme possono servire esercizi in più."
+    },
+    {
+     "who": "L",
+     "start": 70.24,
+     "text": "Come allenarsi solo con partitelle: i calci piazzati vanno curati a parte."
+    },
+    {
+     "who": "M",
+     "start": 75.74,
+     "text": "Esatto. Se fai solo squat e stacchi, tanti erettori e poca parte davanti."
+    },
+    {
+     "who": "L",
+     "start": 81.89,
+     "text": "Nella scheda guardo il core intero e completo dove serve."
+    }
+   ]
+  },
+  "8": {
+   "src": "/audio/4.2/9.mp3",
+   "duration": 92.6,
+   "lines": [
+    {
+     "who": "M",
+     "start": 0,
+     "text": "Facciamo il punto. Tutti questi esercizi hanno lo stesso filo. Qual è?"
+    },
+    {
+     "who": "L",
+     "start": 6.27,
+     "text": "Un carico o la gravità prova a piegarmi in avanti e io tengo la colonna neutra."
+    },
+    {
+     "who": "M",
+     "start": 11.95,
+     "text": "Perfetto. Primo, l'hip hinge, la base. Come si insegna?"
+    },
+    {
+     "who": "L",
+     "start": 18.21,
+     "text": "Col bastone e tre contatti: coccige, tra le scapole e testa. Ginocchia leggermente piegate, anche indietro, colonna neutra."
+    },
+    {
+     "who": "M",
+     "start": 28.05,
+     "text": "Secondo, il Romanian deadlift: la cerniera col bilanciere. Glutei e ischiocrurali e, in modo indiretto, estensori della schiena."
+    },
+    {
+     "who": "L",
+     "start": 38.51,
+     "text": "Terzo, i face pulls: tiro al viso con cavo o elastico, dorso alto e retrattori delle scapole, resisto alla trazione in avanti."
+    },
+    {
+     "who": "M",
+     "start": 48.65,
+     "text": "Quarto, il single-arm row. Cosa aggiunge il braccio singolo?"
+    },
+    {
+     "who": "L",
+     "start": 54.45,
+     "text": "Una forza rotazionale: anti-flessione più anti-rotazione."
+    },
+    {
+     "who": "M",
+     "start": 59.32,
+     "text": "Quinto, la tenuta statica: busto oltre la panca, gravità che tira giù, erettori SEMPRE in tensione."
+    },
+    {
+     "who": "L",
+     "start": 68.11,
+     "text": "E i punti chiave?"
+    },
+    {
+     "who": "M",
+     "start": 69.61,
+     "text": "Squat, deadlift e panca allenano bene alcuni muscoli, come gli erettori, ma possono lasciare indietro quelli davanti. Valuta obiettivi e bisogni e, se serve, aggiungi esercizi mirati."
+    },
+    {
+     "who": "L",
+     "start": 83.67,
+     "text": "Come il video dell'analista: rivedi le azioni chiave una per una."
+    },
+    {
+     "who": "M",
+     "start": 88.38,
+     "text": "Ora le domande. Se ne sbagli una, riascolta la parte con calma."
+    }
+   ]
+  }
+ }
+}
