@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
+import { audioFor, lineAt, type AudioPart } from "../lib/audio";
 import { nextAction } from "../lib/coach";
 import { today } from "../lib/dates";
 import { dailyChallenge, level, totalXp } from "../lib/game";
@@ -61,6 +62,8 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
         finishStep();
         afterPart(p.id, index);
       };
+      const audio = lesson ? audioFor(lesson.code, index) : undefined;
+      if (lesson?.parts[index] && audio) return <AudioLessonSession p={p} lesson={lesson} index={index} audio={audio} onDone={onDone} />;
       return lesson?.parts[index] ? <LessonSession p={p} lesson={lesson} index={index} onDone={onDone} /> : <TimerSession p={p} onDone={onDone} />;
     }
   }
@@ -600,5 +603,127 @@ function ParagoneButton({ presentationId, concept, context }: { presentationId: 
       </button>
       {error && <p className="tiny" style={{ color: "var(--alarm)" }}>{error}</p>}
     </>
+  );
+}
+
+/* ——— Lezione con audio vero (Marco e Luca): va anche a schermo bloccato ——— */
+
+const AUDIO_RATES = [1, 1.15, 1.3, 0.9];
+
+function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentation; lesson: LessonPack; index: number; audio: AudioPart; onDone: () => void }) {
+  const s = useStore();
+  const part = lesson.parts[index]!;
+  const el = useRef<HTMLAudioElement | null>(null);
+  const [t, setT] = useState(0);
+  const [playing, setPlaying] = useState(false);
+  const [ended, setEnded] = useState(false);
+  const [blocked, setBlocked] = useState(false);
+  const [showText, setShowText] = useState(false);
+  const [card, setCard] = useState(false);
+  const doneCount = p.steps.filter((x) => x.done).length;
+  const rate = AUDIO_RATES.includes(s.settings.voiceRate) ? s.settings.voiceRate : 1;
+  const cur = lineAt(audio.lines, t);
+  const progress = audio.duration > 0 ? Math.min(1, t / audio.duration) : 0;
+  const shown = ended ? part.keyPoints.length : Math.max(1, Math.ceil(progress * part.keyPoints.length));
+
+  useEffect(() => {
+    const a = el.current;
+    if (!a) return;
+    a.playbackRate = rate;
+    a.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
+    if ("mediaSession" in navigator) {
+      navigator.mediaSession.metadata = new MediaMetadata({ title: `${p.code} · ${part.title}`, artist: "Marco e Luca", album: "Setanta Coach", artwork: [{ src: "/icon-512.png", sizes: "512x512", type: "image/png" }] });
+      navigator.mediaSession.setActionHandler("play", () => void a.play());
+      navigator.mediaSession.setActionHandler("pause", () => a.pause());
+      navigator.mediaSession.setActionHandler("seekbackward", () => (a.currentTime = Math.max(0, a.currentTime - 10)));
+      navigator.mediaSession.setActionHandler("seekforward", () => (a.currentTime = Math.min(a.duration, a.currentTime + 10)));
+    }
+    return () => a.pause();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [index]);
+
+  const toggle = () => {
+    const a = el.current;
+    if (!a) return;
+    if (a.paused) {
+      if (ended) {
+        a.currentTime = 0;
+        setEnded(false);
+      }
+      void a.play().then(() => setBlocked(false));
+    } else a.pause();
+  };
+
+  return (
+    <div className="stack fade-in" style={{ gap: 16 }}>
+      <audio
+        ref={el}
+        src={audio.src}
+        preload="auto"
+        onTimeUpdate={(e) => setT(e.currentTarget.currentTime)}
+        onPlay={() => setPlaying(true)}
+        onPause={() => setPlaying(false)}
+        onEnded={() => {
+          setPlaying(false);
+          setEnded(true);
+        }}
+      />
+      <div className="session-head">
+        <button className="icon-btn" aria-label="Chiudi senza segnare questa parte" onClick={() => confirm("Chiudere? Questa parte non viene segnata.") && cancelStep()}>
+          <Icon.close />
+        </button>
+        <div className="grow">
+          <p className="tiny">{p.code} · {lesson.title}</p>
+          <p className="small muted num">Parte {index + 1} di {p.steps.length}</p>
+        </div>
+        <button className="btn sm" onClick={() => setCard(true)}><Icon.plus /> Flashcard</button>
+      </div>
+
+      <Progress value={doneCount} max={p.steps.length} size="big" />
+
+      <div className="card lesson-card stack" style={{ gap: 12 }}>
+        <span className="listen-label"><Icon.headphones /> {playing ? "Marco e Luca" : ended ? "Fatto l'ascolto" : "Pronto"}</span>
+        <p className="step-title">{part.title}</p>
+        <ul className="keypoints">
+          {part.keyPoints.slice(0, shown).map((k, i) => <li key={i} className="pop">{k}</li>)}
+        </ul>
+        {ended && <p className="analogy pop">⚽ {part.analogy}</p>}
+        <ParagoneButton presentationId={p.id} concept={part.title} context={part.narration} />
+      </div>
+
+      {showText ? (
+        <div className="card soft stack" style={{ gap: 6 }}>
+          {audio.lines.map((l, i) => (
+            <p key={i} className={`small ${i === cur && playing ? "now-line" : ""}`}><b>{l.who === "M" ? "Marco" : "Luca"}:</b> {l.text}</p>
+          ))}
+        </div>
+      ) : (
+        <p className="caption" aria-live="polite"><b>{audio.lines[cur]?.who === "M" ? "Marco" : "Luca"}:</b> {audio.lines[cur]?.text}</p>
+      )}
+
+      <div className="timer-bar" aria-hidden="true"><span style={{ width: `${progress * 100}%` }} /></div>
+
+      <div className="row">
+        <button className="btn grow" onClick={() => el.current && (el.current.currentTime = Math.max(0, el.current.currentTime - 10))} aria-label="Indietro di 10 secondi">−10 s</button>
+        <button className="btn primary grow" onClick={toggle}>{playing ? <><Icon.pause /> Pausa</> : <><Icon.play /> {ended ? "Riascolta" : blocked ? "Ascolta" : "Riprendi"}</>}</button>
+        <button
+          className="btn"
+          aria-label="Velocità"
+          onClick={() => {
+            const next = AUDIO_RATES[(AUDIO_RATES.indexOf(rate) + 1) % AUDIO_RATES.length] ?? 1;
+            setState((d) => void (d.settings.voiceRate = next));
+            if (el.current) el.current.playbackRate = next;
+          }}
+        >
+          {rate}×
+        </button>
+        <button className="btn" onClick={() => setShowText(!showText)}>{showText ? "Nascondi" : "Testo"}</button>
+      </div>
+
+      <button className={`btn field huge block ${ended ? "pulse" : ""}`} onClick={() => { el.current?.pause(); onDone(); }}>
+        <Icon.check /> Fatto
+      </button>
+      {card && <CardSheet presentationId={p.id} onClose={() => setCard(false)} />}
+    </div>
   );
 }

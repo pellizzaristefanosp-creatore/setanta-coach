@@ -1,0 +1,665 @@
+{
+  "code": "5.1",
+  "parts": [
+    {
+      "part": 0,
+      "lines": [
+        {
+          "who": "M",
+          "text": "[excited] Allora Luca, oggi si parte con l'ipertrofia. Ma prima di serie, ripetizioni e carichi... guardiamo cosa succede DENTRO il corpo."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Fisiologia teorica? Io pensavo di andare subito in palestra."
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Ti serve in campo, fidati. Oggi tre cose: la contrazione muscolare, cioè come un ordine del sistema nervoso diventa movimento."
+        },
+        {
+          "who": "L",
+          "text": "E la seconda?"
+        },
+        {
+          "who": "M",
+          "text": "Le fibre muscolari: non sono tutte uguali e non crescono allo stesso modo. La terza è l'equilibrio proteico, il rapporto tra proteine che il muscolo costruisce e quelle che smonta."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] E l'allenamento della forza che c'entra?"
+        },
+        {
+          "who": "M",
+          "text": "Modifica proprio questi fattori neuromuscolari. Il muscolo si muove perché il sistema nervoso lo comanda... e cresce se costruisce più proteine di quante ne perde."
+        },
+        {
+          "who": "L",
+          "text": "Quindi nervi e muscoli lavorano insieme, e l'allenamento agisce su entrambi."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Così capisci perché un ragazzo migliora subito nelle prime settimane, o perché una dieta troppo stretta gli fa perdere massa."
+        },
+        {
+          "who": "L",
+          "text": "[cheerfully] Tipo il riscaldamento prima della partita: non è spettacolare, ma senza il resto non funziona."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Proprio così. Tre parole chiave: sistema nervoso, fibre, proteine. Ci torneremo sempre."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Partiamo dalla definizione. Secondo te, cos'è l'ipertrofia?"
+        },
+        {
+          "who": "L",
+          "text": "[confident] Il muscolo che diventa più grande?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, e a noi interessa il muscolo scheletrico, quello che muove le ossa e che alleniamo in palestra."
+        },
+        {
+          "who": "L",
+          "text": "E perché la vogliono tutti?"
+        },
+        {
+          "who": "M",
+          "text": "I motivi più comuni sono due. Più muscolo produce più forza... e poi l'estetica, un corpo asciutto e muscoloso."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Ma più massa non è sempre meglio?"
+        },
+        {
+          "who": "M",
+          "text": "[serious] No. Ogni sport ha bisogno di una quantità diversa di ipertrofia. Phil Heath, culturista americano: per lui la massa è tutto."
+        },
+        {
+          "who": "M",
+          "text": "Ben Cousins, football australiano: gli serve muscolo, ma deve anche correre. Mo Farah, fondista britannico: ha avuto ipertrofia, ma molto meno."
+        },
+        {
+          "who": "L",
+          "text": "Perché per lui sarebbe peso da portare per chilometri!"
+        },
+        {
+          "who": "M",
+          "text": "Esatto, come lo zaino in una lunga camminata: ogni chilo in più pesa. Tutti e tre hanno avuto ipertrofia, ma a livelli molto diversi."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Quindi un difensore centrale e un esterno che corre tutta la fascia non hanno lo stesso obiettivo."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Bravo. Prima di allenare la massa, chiediti quanta ne serve DAVVERO a quell'atleta nel suo sport."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Senza contrazione niente movimento, senza movimento niente allenamento della forza... e niente crescita."
+        },
+        {
+          "who": "L",
+          "text": "Ok, ma chi comanda il muscolo scheletrico?"
+        },
+        {
+          "who": "M",
+          "text": "Tu, in modo volontario. Il controllo spetta al sistema nervoso somatico."
+        },
+        {
+          "who": "L",
+          "text": "[curious] E come arriva l'ordine?"
+        },
+        {
+          "who": "M",
+          "text": "Il cervello o il midollo spinale manda un segnale lungo una catena di cellule nervose, i motoneuroni. Quel segnale si chiama potenziale d'azione."
+        },
+        {
+          "who": "M",
+          "text": "Ora il concetto chiave. Ogni motoneurone è collegato a un gruppo di fibre: insieme formano l'unità motoria."
+        },
+        {
+          "who": "L",
+          "text": "E quando arriva il segnale lavora solo una parte delle fibre?"
+        },
+        {
+          "who": "M",
+          "text": "[emphatic] No, si contraggono TUTTE insieme. Come la difesa alta: salgono tutti i difensori, non uno solo."
+        },
+        {
+          "who": "L",
+          "text": "Allora basta un'unità per alzare un bilanciere?"
+        },
+        {
+          "who": "M",
+          "text": "Non basta. Per abbastanza forza devono attivarsi molte unità motorie nello stesso momento. Più forza ti serve, più unità accendi."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Tipo il tiro da fermo: i motoneuroni portano l'ordine a quadricipiti e flessori dell'anca, e tante unità si attivano insieme."
+        },
+        {
+          "who": "M",
+          "text": "Perfetto. Ricorda: motoneurone, potenziale d'azione, unità motoria. Torneranno con il reclutamento."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Entriamo nella fibra. Ogni fibra contiene da qualche centinaio a qualche migliaio di miofibrille."
+        },
+        {
+          "who": "L",
+          "text": "E dentro le miofibrille?"
+        },
+        {
+          "who": "M",
+          "text": "I sarcomeri, la piccola unità che si accorcia davvero. Ci sono due filamenti di proteine: actina e miosina."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Cosa succede quando arriva il potenziale d'azione?"
+        },
+        {
+          "who": "M",
+          "text": "La fibra libera calcio dentro le miofibrille. Secondo te, a cosa serve il calcio?"
+        },
+        {
+          "who": "L",
+          "text": "Ad attaccare i filamenti?"
+        },
+        {
+          "who": "M",
+          "text": "Quasi. Scopre un sito di legame sull'actina. Lì la miosina si aggancia, tira l'actina verso il centro del sarcomero... e la lascia."
+        },
+        {
+          "who": "L",
+          "text": "[excited] Come il tiro alla fune: afferri, tiri, lasci e riafferri!"
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Il ciclo si ripete, le estremità del sarcomero si avvicinano e il muscolo si contrae. È la teoria dei filamenti scorrevoli."
+        },
+        {
+          "who": "L",
+          "text": "Quindi i filamenti si accorciano?"
+        },
+        {
+          "who": "M",
+          "text": "[serious] No, scorrono uno sull'altro. E in uno scatto di pochi metri succedono milioni di cicli in una frazione di secondo."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Ordine d'esame: segnale, calcio, sito scoperto sull'actina, aggancio della miosina, trazione verso il centro, rilascio."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] E tutto nei sarcomeri, dentro le miofibrille."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Tre fibre principali: tipo 1, tipo 2a e tipo 2x, detta anche 2b. Le tipo 1 sono lente: arrivano tardi al picco di tensione."
+        },
+        {
+          "who": "L",
+          "text": "Quindi vanno bene per camminare, non per uno sprint."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, ma lavorano per ore. Motoneurone piccolo, potenza bassa, tanti mitocondri e capillari; ossidative alte, glicolitiche basse, aerobiche, riserva di trigliceridi."
+        },
+        {
+          "who": "L",
+          "text": "[curious] E le 2a?"
+        },
+        {
+          "who": "M",
+          "text": "Intermedie: più forza delle tipo 1, un po' meno resistenza. Motoneurone e potenza medi, mitocondri alti, capillari intermedi."
+        },
+        {
+          "who": "M",
+          "text": "Alte sia la capacità ossidativa sia la glicolitica. Lavoro anaerobico lungo, sotto i trenta minuti, con creatina fosfato e glicogeno."
+        },
+        {
+          "who": "L",
+          "text": "E le 2x sono le più veloci, giusto?"
+        },
+        {
+          "who": "M",
+          "text": "Sì: tanta forza in pochissimo tempo, potenza molto alta, motoneurone molto grande. Ma reggono meno di un MINUTO."
+        },
+        {
+          "who": "M",
+          "text": "Pochi mitocondri e capillari, ossidative basse, glicolitiche alte, anaerobiche brevi con creatina fosfato e glicogeno."
+        },
+        {
+          "who": "L",
+          "text": "[laughs] Il mediano da novanta minuti e l'attaccante che brucia tutto in uno scatto."
+        },
+        {
+          "who": "M",
+          "text": "E perché il record dei 400 non è quello dei 100 per quattro?"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Perché le fibre rapide della partenza esplosiva si affaticano, e nella seconda parte rallenti."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Le persone sono molto diverse nella distribuzione delle fibre. Secondo te, nei quadricipiti di un velocista cosa troviamo?"
+        },
+        {
+          "who": "L",
+          "text": "Tante fibre di tipo 2?"
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Gli atleti di resistenza, nello stesso muscolo, hanno più fibre di tipo 1."
+        },
+        {
+          "who": "L",
+          "text": "[curious] E i singoli muscoli?"
+        },
+        {
+          "who": "M",
+          "text": "Soleo e gastrocnemio, i polpacci, lavorano quasi sempre: camminare, stare in piedi. Devono resistere, quindi tanta tipo 1."
+        },
+        {
+          "who": "M",
+          "text": "Ora il punto chiave: le fibre più ossidative crescono meno. Le tipo 1 crescono meno delle 2a, e soprattutto delle 2x."
+        },
+        {
+          "who": "L",
+          "text": "Di quanto?"
+        },
+        {
+          "who": "M",
+          "text": "[emphatic] Dato d'esame: le fibre di tipo 2 hanno una capacità di crescita maggiore del CINQUANTA per cento rispetto alle tipo 1."
+        },
+        {
+          "who": "L",
+          "text": "[surprised] Allora le tipo 1 non crescono?"
+        },
+        {
+          "who": "M",
+          "text": "Tutte possono andare in ipertrofia, e tra una persona e l'altra ci sono grandi differenze. Ma per massimizzare la massa, il bersaglio principale sono le tipo 2."
+        },
+        {
+          "who": "L",
+          "text": "Come scegliere su quali giocatori investire: crescono tutti, alcuni hanno più margine."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Quindi per mettere massa nelle gambe di un calciatore, lavoro che coinvolga le fibre rapide, non solo tanta corsa lenta."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Allenare la forza dipende da due fattori: muscolo e sistema nervoso. Si adattano tutti e due."
+        },
+        {
+          "who": "L",
+          "text": "Insieme?"
+        },
+        {
+          "who": "M",
+          "text": "No, in momenti diversi. Secondo te, da dove arrivano i primi guadagni di forza?"
+        },
+        {
+          "who": "L",
+          "text": "[confident] Dal muscolo che cresce?"
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Errore classico. Arrivano soprattutto dagli adattamenti neurali, per l'apprendimento motorio."
+        },
+        {
+          "who": "M",
+          "text": "Il sistema nervoso prende confidenza con il gesto e si organizza in modo più efficiente."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Tipo la panca la prima volta: il bilanciere non sale dritto, dopo qualche seduta è fluido e alzi di più."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, e il muscolo non è cresciuto in modo apprezzabile. Il sistema nervoso ha imparato lo schema e manda segnali più efficaci."
+        },
+        {
+          "who": "L",
+          "text": "Come uno schema su punizione: confuso all'inizio, poi esce pulito con gli stessi giocatori."
+        },
+        {
+          "who": "L",
+          "text": "E l'ipertrofia quando arriva?"
+        },
+        {
+          "who": "M",
+          "text": "Per vederla bene di solito un paio di mesi. Qualche cambiamento di dimensione però già dopo alcune settimane di allenamento costante."
+        },
+        {
+          "who": "M",
+          "text": "[serious] Quindi un ragazzo che migliora tanto subito sta soprattutto imparando il gesto. Spiegaglielo: è normale, ed è il primo passo per crescere."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Gli adattamenti neurali aiutano anche la crescita: sollevi carichi più alti, e un carico più alto dà uno stimolo più forte."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Tipo quale adattamento?"
+        },
+        {
+          "who": "M",
+          "text": "L'aumento dell'attivazione muscolare. Nasce da due elementi: reclutamento e frequenza di scarica."
+        },
+        {
+          "who": "L",
+          "text": "Reclutamento è quante fibre uso?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, quante fibre usi in una contrazione. La frequenza di scarica, in inglese rate coding, è quanto spesso vengono stimolate le unità motorie."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, perché il reclutamento conta per l'ipertrofia?"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Perché una fibra spenta non cresce?"
+        },
+        {
+          "who": "M",
+          "text": "[emphatic] Esatto: una fibra si adatta SOLO se viene reclutata. Più fibre recluti, più fibre possono adattarsi."
+        },
+        {
+          "who": "L",
+          "text": "E la frequenza?"
+        },
+        {
+          "who": "M",
+          "text": "Stimoli più frequenti, più forza. Più forza vuol dire più lavoro, e più lavoro più stimolo per diventare più grande e più forte."
+        },
+        {
+          "who": "L",
+          "text": "[cheerfully] Come il pressing: quanti giocatori metti e quanto velocemente aggrediscono."
+        },
+        {
+          "who": "M",
+          "text": "Bello. Nello squat pesante il sistema nervoso accende tante unità e le stimola velocemente: è quello il segnale per crescere."
+        },
+        {
+          "who": "L",
+          "text": "Quindi attivazione uguale reclutamento più frequenza di scarica."
+        }
+      ]
+    },
+    {
+      "part": 8,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Il corpo rinnova di continuo le proteine: è il turnover proteico."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Cioè?"
+        },
+        {
+          "who": "M",
+          "text": "Da una parte la sintesi proteica muscolare, costruire proteine. Dall'altra la disgregazione, smontarle. Il rapporto decide se guadagni o perdi massa."
+        },
+        {
+          "who": "L",
+          "text": "E in una giornata normale?"
+        },
+        {
+          "who": "M",
+          "text": "Restano in pari, e la massa non cambia. Da nutrito prevale la sintesi, a digiuno la disgregazione."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Allora per crescere basta che si pareggino?"
+        },
+        {
+          "who": "M",
+          "text": "[serious] No. La sintesi deve SUPERARE la disgregazione. Se succede il contrario, perdi muscolo."
+        },
+        {
+          "who": "L",
+          "text": "Come la differenza reti: per salire in classifica devi segnare più di quanto incassi."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Ecco perché chi fa diete con pochissime calorie perde molta massa: aumentano i periodi di digiuno, quindi la disgregazione."
+        },
+        {
+          "who": "L",
+          "text": "[surprised] Quindi se in preparazione taglio troppo per dimagrire in fretta..."
+        },
+        {
+          "who": "M",
+          "text": "Rischi di perdere proprio il muscolo che ti serve per scattare e contrastare."
+        },
+        {
+          "who": "L",
+          "text": "Ricapitolo: sintesi uguale disgregazione, mantengo; sintesi maggiore, cresco; disgregazione maggiore, perdo."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Perfetto. Tutto il lavoro per l'ipertrofia serve a spostare la bilancia verso la sintesi."
+        }
+      ]
+    },
+    {
+      "part": 9,
+      "lines": [
+        {
+          "who": "L",
+          "text": "[curious] Ok, bisogna aumentare la sintesi. Ma come si costruisce una proteina?"
+        },
+        {
+          "who": "M",
+          "text": "In due fasi: trascrizione e traduzione. Nella trascrizione, dentro la cellula, dal DNA si crea l'RNA messaggero."
+        },
+        {
+          "who": "L",
+          "text": "E cosa porta l'RNA messaggero?"
+        },
+        {
+          "who": "M",
+          "text": "La sequenza di una proteina specifica. Una copia della ricetta, presa dal grande libro del DNA."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Tipo il foglio con lo schema del giorno, preso dal libro del mister."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Poi la traduzione: l'RNA messaggero si lega ai ribosomi, che leggono le istruzioni e costruiscono la proteina."
+        },
+        {
+          "who": "L",
+          "text": "I ribosomi sono i giocatori che eseguono in campo!"
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Proprio loro. Ogni tappa di trascrizione e traduzione è regolata da altre proteine: le proteine regolatrici."
+        },
+        {
+          "who": "L",
+          "text": "Devo sapere tutta la biologia cellulare?"
+        },
+        {
+          "who": "M",
+          "text": "No, basta il concetto. La velocità con cui il muscolo produce proteine dipende da quante regolatrici ci sono e da quanto sono attive."
+        },
+        {
+          "who": "L",
+          "text": "E se mancano?"
+        },
+        {
+          "who": "M",
+          "text": "Lo stimolo per crescere diventa difficile da sfruttare. Se sono tante e attive, sei nella condizione migliore."
+        },
+        {
+          "who": "L",
+          "text": "Sequenza d'esame: DNA, trascrizione, RNA messaggero, ribosomi, traduzione, proteina."
+        }
+      ]
+    },
+    {
+      "part": 10,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Tanti fattori influenzano l'ipertrofia, ma tutto passa da un solo punto: la sintesi proteica."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Anche il cibo e i pesi?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, spostano l'equilibrio proteico in tre modi: aumentano la sintesi, riducono la disgregazione, o fanno entrambe le cose."
+        },
+        {
+          "who": "M",
+          "text": "I risultati, estetici o di prestazione, dipendono da un corpo che funziona meglio e produce più proteine. Ora un fatto strano."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, durante una seduta con i pesi cosa succede alla disgregazione?"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Scende?"
+        },
+        {
+          "who": "M",
+          "text": "Aumenta. Sembra un problema, ma è solo metà della storia."
+        },
+        {
+          "who": "L",
+          "text": "E l'altra metà?"
+        },
+        {
+          "who": "M",
+          "text": "[emphatic] Dopo l'allenamento la sintesi sale di circa due-cinque VOLTE."
+        },
+        {
+          "who": "L",
+          "text": "[surprised] E da cosa dipende?"
+        },
+        {
+          "who": "M",
+          "text": "Le ricerche la legano a una maggiore efficienza della traduzione, la fase in cui i ribosomi costruiscono le proteine."
+        },
+        {
+          "who": "L",
+          "text": "Quindi l'allenamento manda alla cellula il segnale: produci più proteine."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Come il campo dopo la partita: si rovina, poi il giardiniere lo rizolla e torna meglio."
+        },
+        {
+          "who": "L",
+          "text": "[cheerfully] La seduta è lo stimolo, la crescita vera avviene nelle ore dopo."
+        }
+      ]
+    },
+    {
+      "part": 11,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Facciamo il punto. Primo blocco: la contrazione. Secondo te, come parte?"
+        },
+        {
+          "who": "L",
+          "text": "[confident] Il sistema nervoso somatico manda un potenziale d'azione lungo i motoneuroni."
+        },
+        {
+          "who": "M",
+          "text": "E ogni motoneurone con le sue fibre forma un'unità motoria, che si contrae tutta insieme."
+        },
+        {
+          "who": "L",
+          "text": "Poi, nei sarcomeri, il calcio scopre il sito sull'actina, la miosina aggancia, tira e lascia. Teoria dei filamenti scorrevoli."
+        },
+        {
+          "who": "M",
+          "text": "Secondo blocco: le fibre. Tipo 1 lente e resistenti, 2a intermedie, 2x rapide, potenti ma poco resistenti."
+        },
+        {
+          "who": "L",
+          "text": "E le tipo 2 crescono il cinquanta per cento in più delle tipo 1: sono il bersaglio per la massa."
+        },
+        {
+          "who": "M",
+          "text": "Poi gli adattamenti neurali: all'inizio la forza cresce per apprendimento motorio, l'ipertrofia si vede bene dopo un paio di mesi."
+        },
+        {
+          "who": "L",
+          "text": "E l'attivazione è reclutamento più frequenza di scarica."
+        },
+        {
+          "who": "M",
+          "text": "Terzo blocco: il muscolo cresce solo se la sintesi supera la disgregazione. Passa da trascrizione e traduzione, guidate dalle proteine regolatrici."
+        },
+        {
+          "who": "L",
+          "text": "E dopo l'allenamento la sintesi sale di circa due-cinque volte."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] In una frase, a un compagno di squadra?"
+        },
+        {
+          "who": "L",
+          "text": "Il nervo accende il muscolo, le fibre rapide crescono di più... e il muscolo cresce solo quando costruisce più di quanto smonta."
+        },
+        {
+          "who": "M",
+          "text": "[cheerfully] Ottimo lavoro, Luca. Sei pronto per la prossima lezione."
+        }
+      ]
+    }
+  ]
+}
