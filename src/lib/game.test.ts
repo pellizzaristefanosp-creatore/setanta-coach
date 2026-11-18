@@ -4,6 +4,7 @@ import { nextAction, pickQuestions } from "./coach";
 import { BOSS_QUESTIONS, bossStatus, dailyChallenge, earnedBadges, level, weeklyChallenge } from "./game";
 import { LessonPackSchema } from "./lesson";
 import { allQuestions, bundledLessons, cardsForPart, syncLessons } from "./lessons";
+import { buildSchedule } from "./schedule";
 import { newCard } from "./sm2";
 import type { State } from "./types";
 
@@ -51,11 +52,12 @@ describe("gioco", () => {
     expect(level(99999)).toMatchObject({ name: "Campione", next: null });
   });
 
-  it("sfida del giorno: finire la presentazione di oggi", () => {
+  it("sfida del giorno: le parti che il piano chiede oggi", () => {
     const s = fresh();
     const d = dailyChallenge(s, TODAY);
-    const p45 = s.presentations.find((p) => p.code === "4.5")!;
-    expect(d.target).toBe(p45.steps.length);
+    expect(d.target).toBe(buildSchedule(s, TODAY).todayTarget);
+    expect(d.target).toBeGreaterThan(0);
+    expect(d.reason).toContain("4.5");
     expect(d.complete).toBe(false);
   });
 

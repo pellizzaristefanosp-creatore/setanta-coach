@@ -2,7 +2,8 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
 import { audioFor, lineAt, type AudioPart } from "../lib/audio";
 import { nextAction } from "../lib/coach";
-import { today } from "../lib/dates";
+import { addDays, daysBetween, shortDate, today, weekStart, weekday } from "../lib/dates";
+import { MINUTES_PER_PART, buildSchedule, formatMinutes, minutesOf } from "../lib/schedule";
 import { dailyChallenge, level, totalXp } from "../lib/game";
 import type { LessonPack } from "../lib/lesson";
 import { lessonFor } from "../lib/lessons";
@@ -126,7 +127,9 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
   return <Home goTo={goTo} />;
 }
 
-/* ——— Schermata iniziale: barra del gioco + un solo bottone ——— */
+/* ——— Schermata iniziale: a che punto sei, cosa fare oggi, il bottone ——— */
+
+const WD = ["dom", "lun", "mar", "mer", "gio", "ven", "sab"];
 
 function Home({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?: Intent) => void }) {
   const s = useStore();
@@ -135,8 +138,26 @@ function Home({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?: Intent)
   const xp = totalXp(s);
   const lv = level(xp);
   const st = streak(s, now);
-  const daily = dailyChallenge(s, now);
+  const sch = buildSchedule(s, now);
   const saved = daySaved(s, now);
+  const mcqDays = daysBetween(now, s.exams.mcqTarget);
+
+  // Ogni nuovo giorno: ricorda il piano e, se ieri sono rimaste parti, dillo chiaramente una volta.
+  useEffect(() => {
+    const cur = getState();
+    const lp = cur.lastPlan;
+    if (lp?.date === now) return;
+    const fresh = buildSchedule(cur, now);
+    let note: typeof cur.replanNote;
+    if (lp && lp.date < now) {
+      const missed = Math.max(0, lp.target - (cur.log[lp.date]?.steps ?? 0));
+      if (missed > 0) note = { date: now, missed, from: lp.perDay, to: fresh.perDay };
+    }
+    setState((d) => {
+      d.lastPlan = { date: now, perDay: fresh.perDay, target: fresh.todayTarget };
+      d.replanNote = note;
+    });
+  }, [now]);
 
   const go = () => {
     unlockAudio();
@@ -153,8 +174,23 @@ function Home({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?: Intent)
     else goTo("ripasso", { kind: "quiz" });
   };
 
+  const sunday = addDays(weekStart(now), 6);
+  const monday = weekStart(now);
+  const week = Array.from({ length: 7 }, (_, i) => {
+    const date = addDays(monday, i);
+    const planned = sch.days.find((d) => d.date === date);
+    const doneThere = s.log[date]?.steps ?? 0;
+    const parts = date < now ? doneThere : date === now ? sch.todayTarget : planned?.parts.length ?? 0;
+    return { date, parts, rest: weekday(date) === s.settings.restDay, past: date < now, isToday: date === now };
+  });
+  const maxWeek = Math.max(1, ...week.map((w) => w.parts));
+  const weekMinutes = minutesOf(sch.weekParts);
+  const todayDone = Math.min(sch.todayDone, sch.todayTarget);
+  const restToday = weekday(now) === s.settings.restDay;
+  const note = s.replanNote?.date === now ? s.replanNote : undefined;
+
   return (
-    <div className="stack fade-in" style={{ gap: 14, flex: 1 }}>
+    <div className="stack fade-in" style={{ gap: 14 }}>
       <button className="gamebar" onClick={() => goTo("situazione")} aria-label="Vai alla stagione">
         <span className="lv-badge">{lv.index + 1}</span>
         <span className="grow" style={{ textAlign: "left" }}>
@@ -165,26 +201,86 @@ function Home({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?: Intent)
         <span className="pill num">{xp} pt</span>
       </button>
 
-      <div className="hero" style={{ minHeight: "54dvh" }}>
+      <section className="card progress-hero" aria-label="A che punto sei">
+        <Ring percent={sch.percent} />
+        <div className="stack" style={{ gap: 4 }}>
+          <p className="tiny">A che punto sei</p>
+          <p className="ph-title">Corso al {sch.percent}%</p>
+          <p className="small muted num">{sch.doneParts} parti fatte su {sch.totalParts}</p>
+          <p className="small num">Fine prevista: <b>{sch.end ? shortDate(sch.end) : "–"}</b></p>
+          <p className="small muted num">MCQ tra {mcqDays} giorni · mancano circa {formatMinutes(minutesOf(sch.remainingParts))}</p>
+        </div>
+      </section>
+
+      {note && (
+        <div className="replan fade-in" role="status">
+          <b>Il piano si è aggiornato.</b> L'ultima volta sono rimaste {note.missed} {note.missed === 1 ? "parte" : "parti"}: le ho spostate nei prossimi giorni.
+          {note.to > note.from ? ` Ora bastano ${note.to} parti al giorno (circa ${formatMinutes(minutesOf(note.to))}).` : ` Il minimo resta ${note.to} parti al giorno.`}
+        </div>
+      )}
+
+      <section className={`card today-card ${sch.todayDone >= sch.todayTarget && sch.todayTarget > 0 ? "won" : ""}`} aria-label="Oggi">
+        <div className="spread">
+          <h2>Oggi</h2>
+          <span className="small num" style={{ fontWeight: 750 }}>{restToday ? "giorno libero" : `${todayDone}/${sch.todayTarget} parti`}</span>
+        </div>
+        {!restToday && <Progress value={todayDone} max={Math.max(1, sch.todayTarget)} size="big" />}
+        <p className="small">
+          {restToday
+            ? "Oggi è il giorno della partita: niente obbligo. Se vuoi, 2 minuti di ripasso."
+            : sch.todayLeft > 0
+              ? <>Bastano <b>{formatMinutes(minutesOf(sch.todayLeft))}</b>: {sch.todayCodes.map((c) => `${c.count} ${c.count === 1 ? "parte" : "parti"} della ${c.code}`).join(" e ")}.</>
+              : <>✓ Fatto per oggi. Tutto quello che fai adesso è vantaggio per domani.</>}
+        </p>
+      </section>
+
+      <div className="hero compact">
         {saved && <div className="saved"><Icon.check /> Giornata salvata</div>}
-        <button className={`go ${action.kind === "part" ? "" : "calm"}`} onClick={go} aria-label={`${action.label}: ${action.sub}`}>
+        <button className={`go small-go ${action.kind === "part" ? "" : "calm"}`} onClick={go} aria-label={`${action.label}: ${action.sub}`}>
           <Icon.play />
           <span className="go-label">{action.label}</span>
         </button>
         <p className="muted small">{action.sub}</p>
       </div>
 
-      {daily.target > 0 && (
-        <div className={`card challenge ${daily.complete ? "won" : ""}`}>
-          <div className="spread">
-            <span className="tag">{daily.complete ? "Sfida vinta" : "Sfida di oggi"}</span>
-            <span className="small num" style={{ fontWeight: 750 }}>{Math.min(daily.done, daily.target)}/{daily.target} parti</span>
-          </div>
-          <Progress value={Math.min(daily.done, daily.target)} max={daily.target} size="thin" />
-          <p className="tiny">{daily.complete ? "Tutto quello che fai adesso è vantaggio." : daily.reason}</p>
+      <section className="card stack" aria-label="Questa settimana" style={{ gap: 10 }}>
+        <div className="spread">
+          <h2>Questa settimana</h2>
+          <span className="small muted num">fino a {shortDate(sunday)}</span>
         </div>
-      )}
+        <p className="small">
+          Ancora <b>{sch.weekDays} {sch.weekDays === 1 ? "giorno" : "giorni"}</b> di studio · circa <b>{formatMinutes(weekMinutes)}</b> in tutto.
+        </p>
+        <div className="week-bars" role="img" aria-label="Parti per giorno questa settimana">
+          {week.map((w) => (
+            <div key={w.date} className={`wb ${w.isToday ? "today" : ""} ${w.past ? "past" : ""}`}>
+              <span className="wb-min num">{w.rest ? "" : w.parts ? `${minutesOf(w.parts)}′` : ""}</span>
+              <span className="wb-bar"><span style={{ height: `${w.rest || w.parts === 0 ? 0 : Math.max(6, (w.parts / maxWeek) * 100)}%` }} /></span>
+              <span className="wb-day">{w.rest ? "⚽" : WD[weekday(w.date)]}</span>
+            </div>
+          ))}
+        </div>
+        <p className="tiny">Ogni parte è circa {MINUTES_PER_PART} minuti: ascolto, domanda veloce e richiamo. Se un giorno salti, il piano si ricalcola da solo.</p>
+      </section>
     </div>
+  );
+}
+
+function Ring({ percent }: { percent: number }) {
+  const r = 46;
+  const c = 2 * Math.PI * r;
+  return (
+    <svg className="ring" viewBox="0 0 110 110" role="img" aria-label={`${percent}% del corso`}>
+      <defs>
+        <linearGradient id="ringg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stopColor="var(--gold)" />
+          <stop offset="100%" stopColor="var(--brand)" />
+        </linearGradient>
+      </defs>
+      <circle cx="55" cy="55" r={r} fill="none" stroke="var(--surface-2)" strokeWidth="11" />
+      <circle cx="55" cy="55" r={r} fill="none" stroke="url(#ringg)" strokeWidth="11" strokeLinecap="round" strokeDasharray={c} strokeDashoffset={c * (1 - percent / 100)} transform="rotate(-90 55 55)" className="ring-arc" />
+      <text x="55" y="61" textAnchor="middle" className="ring-text">{percent}%</text>
+    </svg>
   );
 }
 

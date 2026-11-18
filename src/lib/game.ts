@@ -1,6 +1,7 @@
 import { addDays, weekStart } from "./dates";
 import { allQuestions } from "./lessons";
-import { buildPlan, isDone, situation } from "./plan";
+import { buildPlan, isDone } from "./plan";
+import { buildSchedule } from "./schedule";
 import { streak } from "./streak";
 import type { ISODate, State, XpKind } from "./types";
 
@@ -54,30 +55,14 @@ export function level(xp: number) {
 
 export type Daily = { target: number; done: number; reason: string; complete: boolean };
 
+/** Sfida del giorno = le parti che il piano chiede oggi (ricalcolato ogni giorno). */
 export function dailyChallenge(state: State, now: ISODate): Daily {
-  const done = state.log[now]?.steps ?? 0;
-  const plan = buildPlan(state, now);
-  const today = plan.find((d) => d.date === now);
-  let target = 0;
-  let reason = "Oggi è libero: se vuoi, 2 minuti di ripasso.";
-  if (today?.kind === "study") {
-    const it = today.item;
-    const left = it.kind === "real" ? it.presentation.steps.filter((s) => !s.done).length : 10;
-    const code = it.kind === "real" ? it.presentation.code : it.code;
-    target = done + left;
-    reason = `Finisci la ${code}.`;
-    const sit = situation(state, now);
-    if (sit.marginDays != null && sit.marginDays < 3) {
-      target += 4;
-      reason = `Finisci la ${code} e 4 parti della prossima: sei vicino alla scadenza.`;
-    }
-  } else if (today?.kind === "wait") {
-    reason = "Nessuna lezione nuova oggi: ripasso ed esame pratico.";
-  }
-  target = Math.min(target, done + 20);
-  // Chi ha già finito la presentazione del giorno ha la sfida vinta.
-  const finishedToday = state.presentations.some((p) => p.doneAt === now && isDone(p));
-  return { target, done, reason, complete: finishedToday || done >= target };
+  const sch = buildSchedule(state, now);
+  const target = sch.todayTarget;
+  const done = sch.todayDone;
+  const what = sch.todayCodes.map((c) => `${c.count} della ${c.code}`).join(", ");
+  const reason = target === 0 ? "Oggi è libero: se vuoi, 2 minuti di ripasso." : sch.todayLeft > 0 ? `Oggi: ${what}.` : "Fatto per oggi.";
+  return { target, done, reason, complete: done >= target };
 }
 
 /* ——— Sfida della settimana: chiudere le presentazioni previste fino a domenica ——— */

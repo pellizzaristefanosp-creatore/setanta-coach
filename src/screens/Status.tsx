@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { dayMonth, daysBetween, shortDate, today, weekday } from "../lib/dates";
-import { buildPlan, currentItem, isDone, situation } from "../lib/plan";
+import { situation } from "../lib/plan";
+import { buildSchedule, formatMinutes, minutesOf } from "../lib/schedule";
 import { setState, useStore } from "../lib/store";
 import { streak } from "../lib/streak";
 import type { State } from "../lib/types";
@@ -10,8 +11,8 @@ import { Box, Icon, Progress } from "../ui";
 /** La sessione di oggi è completa se la presentazione del giorno è finita (o oggi è giorno libero). */
 export function todayIncomplete(s: State, now = today()): boolean {
   if (weekday(now) === s.settings.restDay) return false;
-  if (s.presentations.some((p) => p.doneAt === now && isDone(p))) return false;
-  return currentItem(s, now) !== null;
+  const sch = buildSchedule(s, now);
+  return sch.todayTarget > 0 && sch.todayDone < sch.todayTarget;
 }
 
 export function Status() {
@@ -19,7 +20,9 @@ export function Status() {
   const now = today();
   const sit = situation(s, now);
   const st = streak(s, now);
-  const plan = buildPlan(s, now);
+  const sch = buildSchedule(s, now);
+  const plan = sch.days;
+  const margin = sch.end ? daysBetween(sch.end, s.exams.mcqTarget) - 1 : null;
   const [all, setAll] = useState(false);
   const incomplete = todayIncomplete(s, now);
   const daysToMcq = daysBetween(now, s.exams.mcqTarget);
@@ -53,27 +56,27 @@ export function Status() {
           <p className="tiny">Jolly della settimana: <b>{st.jollyUsedThisWeek ? "usato" : "libero"}</b></p>
         </div>
         <div className="card stack" style={{ gap: 6 }}>
-          <span className={`pill ${sit.marginDays != null && sit.marginDays < 0 ? "red" : "green"}`} style={{ alignSelf: "flex-start" }}>MCQ</span>
-          {sit.marginDays != null && sit.marginDays < 0 ? (
+          <span className={`pill ${margin != null && margin < 0 ? "red" : "green"}`} style={{ alignSelf: "flex-start" }}>MCQ</span>
+          {margin != null && margin < 0 ? (
             <>
-              <p className="big-num" style={{ color: "var(--alarm)" }}>{-sit.marginDays}</p>
+              <p className="big-num" style={{ color: "var(--alarm)" }}>{-margin}</p>
               <p className="tiny">giorni di ritardo rispetto al {dayMonth(s.exams.mcqTarget)}</p>
             </>
           ) : (
             <>
-              <p className="big-num">{sit.marginDays ?? "–"}</p>
+              <p className="big-num">{margin ?? "–"}</p>
               <p className="tiny">giorni di margine prima del {dayMonth(s.exams.mcqTarget)}</p>
             </>
           )}
-          {sit.finish && <p className="tiny">Fine studio prevista: <b>{shortDate(sit.finish)}</b></p>}
+          {sch.end && <p className="tiny">Fine studio prevista: <b>{shortDate(sch.end)}</b></p>}
         </div>
       </div>
 
       <div className="card stack" style={{ gap: 8 }}>
         <h2>Detto onestamente</h2>
         <p className="small">
-          Restano <b>{sit.remaining}</b> presentazioni{sit.estimated > 0 && <> (di cui {sit.estimated} stimate per le unità non ancora uscite)</>}.
-          {" "}Una al giorno, {s.settings.restDay >= 0 && <>riposo il {["domenica", "lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato"][s.settings.restDay]}</>}.
+          Corso al <b>{sch.percent}%</b>. Restano <b>{sch.remainingParts}</b> parti (circa {formatMinutes(minutesOf(sch.remainingParts))}){sch.estimatedParts > 0 && <>, di cui {sch.estimatedParts} stimate per le unità non ancora uscite</>}.
+          {" "}Servono <b>{sch.perDay} parti al giorno</b> (circa {formatMinutes(minutesOf(sch.perDay))}), riposo il {["domenica", "lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato"][s.settings.restDay]}. Se salti un giorno, il conto si rifà da solo.
         </p>
         <p className="small muted">
           MCQ tra <b className="num">{daysToMcq}</b> giorni (obiettivo {dayMonth(s.exams.mcqTarget)}, chiude il 10 gen alle 23:59). Esame pratico: obiettivo {dayMonth(s.exams.practicalTarget)}
@@ -119,9 +122,16 @@ export function Status() {
             <li key={d.date} className={d.date === now ? "is-today" : ""}>
               <span className="d">{d.date === now ? "Oggi" : shortDate(d.date)}</span>
               <span className="grow small">
-                {d.kind === "study" && (d.item.kind === "real" ? `${d.item.presentation.code} · ${d.item.presentation.title}` : `${d.item.code} · ${d.item.title} (stima)`)}
-                {d.kind === "rest" && <span className="muted">Giorno libero</span>}
-                {d.kind === "wait" && <span className="muted">Ripasso + esame pratico (nuova unità il {dayMonth(d.nextRelease)})</span>}
+                {d.rest ? (
+                  <span className="muted">Giorno libero</span>
+                ) : d.parts.length === 0 ? (
+                  <span className="muted">Ripasso, quiz ed esame pratico</span>
+                ) : (
+                  <>
+                    {groupCodes(d.parts).map((g) => `${g.code}${g.estimated ? " (stima)" : ""} · ${g.count} ${g.count === 1 ? "parte" : "parti"}`).join(" + ")}
+                    <span className="tiny" style={{ display: "block" }}>circa {formatMinutes(minutesOf(d.parts.length))}</span>
+                  </>
+                )}
               </span>
             </li>
           ))}
@@ -182,4 +192,14 @@ function Season() {
       </div>
     </>
   );
+}
+
+function groupCodes(parts: { code: string; estimated: boolean }[]) {
+  const out: { code: string; count: number; estimated: boolean }[] = [];
+  for (const p of parts) {
+    const last = out.at(-1);
+    if (last && last.code === p.code) last.count++;
+    else out.push({ code: p.code, count: 1, estimated: p.estimated });
+  }
+  return out;
 }

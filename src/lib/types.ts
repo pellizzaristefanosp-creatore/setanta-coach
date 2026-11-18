@@ -115,4 +115,7 @@ export type State = {
   challenges: Record<string, ISODate>; // sfide già premiate: "d:2026-11-18", "w:2026-11-16"
   lessons: import("./lesson").LessonPack[]; // lezioni importate dal PDF
   exercisesDone: Record<string, ISODate>;
+  /** Ultimo piano visto (per dire quando si è ricalcolato) */
+  lastPlan?: { date: ISODate; perDay: number; target: number };
+  replanNote?: { date: ISODate; missed: number; from: number; to: number };
 }
