@@ -1,0 +1,780 @@
+{
+  "code": "6.2",
+  "parts": [
+    {
+      "part": 0,
+      "lines": [
+        {
+          "who": "M",
+          "text": "[excited] Allora Luca, oggi andiamo avanti. Nella lezione scorsa hai visto volume, frequenza, carico e sforzo."
+        },
+        {
+          "who": "L",
+          "text": "[curious] E adesso cosa manca? Mi sembrava già tutto."
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Mancano altre SEI leve, sempre per la massima crescita muscolare. Prima: la scelta degli esercizi, cioè quali movimenti metti nella scheda."
+        },
+        {
+          "who": "L",
+          "text": "Seconda?"
+        },
+        {
+          "who": "M",
+          "text": "I tempi di recupero, quanto riposi tra una serie e l'altra. Terza, il tempo di esecuzione: quanto dura ogni ripetizione."
+        },
+        {
+          "who": "L",
+          "text": "E poi?"
+        },
+        {
+          "who": "M",
+          "text": "Quarta, l'azione muscolare: il tipo di contrazione mentre sollevi o abbassi il peso. Quinta l'ordine degli esercizi nella seduta, sesta il range of motion, l'ampiezza del movimento."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Ma se due preparatori danno a un terzino le stesse serie e lo stesso carico... cambia davvero qualcosa?"
+        },
+        {
+          "who": "M",
+          "text": "Secondo te? [pause] Sì, uno ottiene più massa: spesso per quanto lo fa riposare, quanto scende nello squat, quale esercizio mette per primo."
+        },
+        {
+          "who": "L",
+          "text": "Come la messa a punto di una macchina da corsa: motore e gomme ci sono, ora regoli assetto, freni e marce."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, scelte piccole che sommate, dopo settimane, fanno la differenza. Alla fine unirai tutto in linee guida pratiche, per l'esame e per schede vere."
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "lines": [
+        {
+          "who": "M",
+          "text": "[thoughtful] Il corpo si muove in tante direzioni e su piani diversi. Quindi anche i muscoli sono costruiti per gestire movimenti diversi."
+        },
+        {
+          "who": "L",
+          "text": "E a me che serve saperlo?"
+        },
+        {
+          "who": "M",
+          "text": "Se cambi un dettaglio dell'esercizio, il muscolo lavora in modo diverso. Puoi spostare il carico, cambiare la posizione di mani o piedi, o il piano in cui ti muovi."
+        },
+        {
+          "who": "L",
+          "text": "Così posso ottimizzare l'ipertrofia di un muscolo specifico?"
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. E c'è un secondo punto: molti muscoli non sono un unico fascio di fibre che fanno tutte lo stesso lavoro."
+        },
+        {
+          "who": "L",
+          "text": "[surprised] Ah no?"
+        },
+        {
+          "who": "M",
+          "text": "Le prove dicono che sono divisi in compartimenti, zone con compiti un po' diversi. Prendi il bicipite brachiale: ha il capo lungo e il capo breve."
+        },
+        {
+          "who": "L",
+          "text": "E cosa fanno le varie zone?"
+        },
+        {
+          "who": "M",
+          "text": "Le fibre della parte laterale esterna piegano il gomito; quelle della parte laterale interna fanno la supinazione, cioè girano il palmo verso l'alto. Le centrali lavorano in ENTRAMBI i movimenti."
+        },
+        {
+          "who": "L",
+          "text": "[laughs] Tipo un centrocampo: chi rompe il gioco, chi lo costruisce e chi fa tutte e due le cose."
+        },
+        {
+          "who": "M",
+          "text": "Bravo. Quindi lo stesso muscolo non risponde uguale a ogni esercizio: dipende da cosa chiedi all'articolazione."
+        },
+        {
+          "who": "L",
+          "text": "E se un esercizio esclude un movimento, una parte delle fibre lavora meno."
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Restiamo sul capo lungo del bicipite, ricordi? Zona esterna piega il gomito, zona interna gira il palmo in su, il centro fa tutte e due."
+        },
+        {
+          "who": "L",
+          "text": "Sì. E quindi?"
+        },
+        {
+          "who": "M",
+          "text": "Confronta due esercizi: nel hammer curl tieni i palmi uno di fronte all'altro, come se impugnassi un martello. Nel curl classico il palmo guarda in alto."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Quindi nel classico l'avambraccio è molto più supinato. E se faccio solo hammer curl?"
+        },
+        {
+          "who": "M",
+          "text": "Secondo te? [pause] Con poca supinazione una parte delle fibre riceve uno stimolo meno efficace: non lavora male... lavora meno di quanto potrebbe."
+        },
+        {
+          "who": "L",
+          "text": "Allora devo colpire ogni compartimento con l'esercizio giusto!"
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Piano, non sappiamo ancora se in palestra si riesca davvero a colpire un singolo compartimento. E servirebbe soprattutto agli avanzati con l'ipertrofia come obiettivo principale."
+        },
+        {
+          "who": "L",
+          "text": "Quindi per un calciatore con due sedute di forza a settimana non è la priorità."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Il messaggio è un altro: la scelta degli esercizi pesa sull'ipertrofia, e serve VARIETÀ."
+        },
+        {
+          "who": "L",
+          "text": "Come col piede: se fai solo tiri di collo pieno, piatto ed esterno restano indietro."
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. Due esercizi simili sulla carta possono stimolare zone diverse dello stesso muscolo."
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Quando scegli gli esercizi, guarda anche il tipo. I monoarticolari, di isolamento, muovono una sola articolazione; i multiarticolari ne muovono diverse."
+        },
+        {
+          "who": "L",
+          "text": "Tipo lo stacco da terra e il leg curl? Usano tutti e due gli ischiocrurali."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Secondo te uno li allena di più, o lavorano su zone diverse? [pause]"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Direi lo stacco, è più pesante..."
+        },
+        {
+          "who": "M",
+          "text": "Nel complesso la ricerca non dà una risposta chiara su quale tipo sia meglio per l'ipertrofia. Quindi usa ENTRAMBI."
+        },
+        {
+          "who": "L",
+          "text": "E quanti esercizi per un muscolo?"
+        },
+        {
+          "who": "M",
+          "text": "Sembra che più varietà aiuti a far crescere tutto il muscolo bersaglio. Perché i muscoli non crescono in modo uniforme: si parla di ipertrofia regionale."
+        },
+        {
+          "who": "L",
+          "text": "Cioè alcune parti crescono di più con certi esercizi?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, parti di un muscolo o muscoli di un gruppo. Se modifichi o aggiungi un esercizio, stimoli regioni diverse."
+        },
+        {
+          "who": "L",
+          "text": "E negli ischiocrurali?"
+        },
+        {
+          "who": "M",
+          "text": "Li usano sia gli esercizi che estendono l'anca sia quelli che flettono il ginocchio, ma con parti diverse più o meno attive. Lo hanno mostrato Schoenfeld e colleghi nel 2015."
+        },
+        {
+          "who": "L",
+          "text": "Come in difesa: l'uno contro uno e la linea a quattro migliorano aspetti diversi dello stesso reparto."
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Più esercizi e più piani di movimento sembrano utili per l'ipertrofia. Però la varietà va dosata."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Ma non è meglio cambiare spesso, per sorprendere il muscolo?"
+        },
+        {
+          "who": "M",
+          "text": "Se cambi troppo, troppo spesso, l'atleta passa tanto tempo a imparare schemi motori nuovi. E mentre impara usa pesi più bassi e fa più ripetizioni."
+        },
+        {
+          "who": "L",
+          "text": "Quindi lo stimolo non è quello ideale."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Per questo i principianti, o chi è nelle prime fasi, dovrebbero avere POCA varietà: così gli schemi si fissano bene a livello neurale."
+        },
+        {
+          "who": "L",
+          "text": "E poi aumentano il carico nel tempo, sviluppando forza e massa."
+        },
+        {
+          "who": "M",
+          "text": "Sì. Gli esperti invece possono provare più varietà: hanno già connessioni nervose ben sviluppate per i movimenti chiave della forza."
+        },
+        {
+          "who": "L",
+          "text": "Come col ragazzo appena arrivato: non cambi modulo ogni settimana, prima impara le basi."
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Bravo. E stravolgere spesso il programma non è la strategia migliore: bastano piccoli cambiamenti."
+        },
+        {
+          "who": "L",
+          "text": "Tipo?"
+        },
+        {
+          "who": "M",
+          "text": "Stringere la presa nella panca piana: esercizio nuovo, schema quasi uguale. O cambiare resistenza: pesi liberi, cavi, macchine con pacco pesi."
+        },
+        {
+          "who": "L",
+          "text": "Quindi, in un programma periodizzato, varietà per l'ipertrofia di tutto il corpo... ma ragionata, non caos."
+        }
+      ]
+    },
+    {
+      "part": 5,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Tempi di recupero tra le serie: tre fasce. Brevi, trenta secondi o meno; moderati, tra sessanta e novanta secondi; lunghi, oltre tre minuti."
+        },
+        {
+          "who": "L",
+          "text": "E quale è meglio per l'ipertrofia?"
+        },
+        {
+          "who": "M",
+          "text": "Torna ai due meccanismi della crescita: tensione meccanica e stress metabolico. Con recuperi brevi, secondo te? [pause]"
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Più stress metabolico, perché non smaltisci i metaboliti?"
+        },
+        {
+          "who": "M",
+          "text": "Giusto. Ma con lo stesso peso la fatica ti fa fare meno ripetizioni: cala il volume e cala la tensione meccanica."
+        },
+        {
+          "who": "L",
+          "text": "E con quelli lunghi il contrario."
+        },
+        {
+          "who": "M",
+          "text": "Sì: i metaboliti si smaltiscono, lo stress resta basso, ma mantieni le ripetizioni. La tensione meccanica diventa lo stimolo PRINCIPALE."
+        },
+        {
+          "who": "L",
+          "text": "Hai un esempio?"
+        },
+        {
+          "who": "M",
+          "text": "Panca piana, quattro serie da dieci con il proprio 10RM. A riposa trenta secondi: dieci, otto, sette, cinque, totale trenta."
+        },
+        {
+          "who": "L",
+          "text": "E B?"
+        },
+        {
+          "who": "M",
+          "text": "Riposa tre minuti: dieci, dieci, nove, otto, totale trentasette. A ha più metaboliti, più fatica, meno volume; B meno fatica, volume quasi mantenuto e più tensione meccanica."
+        },
+        {
+          "who": "L",
+          "text": "Come le ripetute da trenta metri: con venti secondi di pausa alla quarta sei lento, con tre minuti tieni la velocità ma bruci meno."
+        }
+      ]
+    },
+    {
+      "part": 6,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Allora, quale recupero scegli? Una prima risposta sono i moderati, sessanta-novanta secondi."
+        },
+        {
+          "who": "L",
+          "text": "Perché proprio quelli?"
+        },
+        {
+          "who": "M",
+          "text": "La fatica cala abbastanza da mantenere il volume, e intanto i metaboliti si accumulano un po' alla volta. Sfrutti tensione meccanica e stress metabolico."
+        },
+        {
+          "who": "L",
+          "text": "Ok. Allora sessanta-novanta e basta."
+        },
+        {
+          "who": "M",
+          "text": "La ricerca però suggerisce che un recupero un po' più lungo, intorno ai DUE minuti, potrebbe essere la scelta migliore."
+        },
+        {
+          "who": "L",
+          "text": "[surprised] Aspetta, ma è una contraddizione! Prima sessanta-novanta secondi, ora due minuti?"
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Per l'esame ricorda ENTRAMBE le cifre: moderati sessanta-novanta secondi, e circa due minuti come scelta migliore. Mantieni il volume con un buono stress metabolico."
+        },
+        {
+          "who": "L",
+          "text": "E i recuperi più lunghi hanno altri vantaggi?"
+        },
+        {
+          "who": "M",
+          "text": "Ti lasciano usare carichi più alti, quindi cresce la forza. Per un calciatore che vuole massa per rendere nello sport è un bonus, non una spesa inutile."
+        },
+        {
+          "who": "L",
+          "text": "E i recuperi brevi non servono mai?"
+        },
+        {
+          "who": "M",
+          "text": "Ogni tanto sì: danno varietà e potrebbero aiutare a reclutare più fibre, soprattutto con carichi bassi. Tipo l'ultimo esercizio con peso leggero."
+        },
+        {
+          "who": "L",
+          "text": "Quindi base circa due minuti, poi lo allungo o lo accorcio. Come tra due esercitazioni: rifiati, ma non ti raffreddi."
+        }
+      ]
+    },
+    {
+      "part": 7,
+      "lines": [
+        {
+          "who": "M",
+          "text": "L'azione muscolare è il tipo di contrazione durante l'esercizio. Negli esercizi dinamici ce ne sono due principali."
+        },
+        {
+          "who": "L",
+          "text": "Eccentrica e concentrica, giusto?"
+        },
+        {
+          "who": "M",
+          "text": "Sì: nell'eccentrica il muscolo si ALLUNGA mentre produce forza, come i pettorali quando abbassi il bilanciere in panca. Nella concentrica si accorcia, quando spingi su."
+        },
+        {
+          "who": "L",
+          "text": "E quale conta di più per la massa?"
+        },
+        {
+          "who": "M",
+          "text": "Secondo te? [pause] È stato proposto l'eccentrica, perché lì sei più forte: puoi abbassare un bilanciere molto più pesante di quello che spingi su."
+        },
+        {
+          "who": "L",
+          "text": "Come nel Nordic: scendo lento e gli ischiocrurali frenano più forza di quanta ne farei risalendo."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, alcuni studi hanno trovato un vantaggio dell'eccentrico. Ma probabilmente servono tutte e due, perché si completano."
+        },
+        {
+          "who": "L",
+          "text": "In che senso si completano?"
+        },
+        {
+          "who": "M",
+          "text": "L'eccentrica può dare più ipertrofia in serie, cioè in lunghezza, e agire sulle estremità del muscolo. La concentrica più ipertrofia in parallelo e sulla parte centrale."
+        },
+        {
+          "who": "L",
+          "text": "Quindi esercizi con entrambe le fasi."
+        },
+        {
+          "who": "M",
+          "text": "Sì, magari con qualche serie eccentrica pesante. Nel video della slide un compagno aiuta nella concentrica, così l'atleta usa più chili di quanti ne alzerebbe da solo."
+        }
+      ]
+    },
+    {
+      "part": 8,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Il tempo di esecuzione è la durata di una ripetizione. Tre fasi: eccentrica, pausa, concentrica."
+        },
+        {
+          "who": "L",
+          "text": "In panca: abbasso il bilanciere, piccola sosta in basso, spingo su."
+        },
+        {
+          "who": "M",
+          "text": "Perfetto. Nei programmi si scrive con tre numeri, uno per fase, per esempio panca con tempo tre-zero-tre."
+        },
+        {
+          "who": "L",
+          "text": "[curious] E come lo leggo?"
+        },
+        {
+          "who": "M",
+          "text": "Primo numero, l'eccentrica: scendi in tre secondi; secondo, la pausa: lo ZERO vuol dire nessuna sosta prolungata, riparti il più veloce possibile. Ultimo, la concentrica: sali in tre secondi."
+        },
+        {
+          "who": "L",
+          "text": "Come una rimessa dettata dal mister: tre secondi per caricare, nessuna esitazione, tre per lanciare."
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Esatto. Ma il preparatore può scegliere qualsiasi durata: quattro-due-tre, cinque-due-cinque, e così via."
+        },
+        {
+          "who": "L",
+          "text": "Quattro-due-tre allora è... scendo in quattro, mi fermo due, risalgo in tre?"
+        },
+        {
+          "who": "M",
+          "text": "Giusto. E ogni volta che cambi il tempo, cambi quanto il muscolo resta sotto tensione: il famoso tempo sotto tensione."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Quindi se rallento e resto più sotto tensione, ottengo più massa?"
+        },
+        {
+          "who": "M",
+          "text": "Lo pensano in tanti in palestra. Nella prossima parte vediamo cosa dice davvero la ricerca... e potrebbe sorprenderti."
+        }
+      ]
+    },
+    {
+      "part": 9,
+      "lines": [
+        {
+          "who": "M",
+          "text": "In teoria più tempo sotto tensione dovrebbe dare più crescita. Ma la ricerca non lo conferma."
+        },
+        {
+          "who": "L",
+          "text": "[surprised] Davvero?"
+        },
+        {
+          "who": "M",
+          "text": "Con ripetizioni tra zero virgola cinque e sei secondi, portate fino al cedimento, c'è solo una PICCOLA differenza di crescita."
+        },
+        {
+          "who": "L",
+          "text": "E perché?"
+        },
+        {
+          "who": "M",
+          "text": "Secondo te? [pause] Se rallenti e vuoi fare le stesse ripetizioni, devi abbassare il peso: meno peso, meno forza, cala la tensione meccanica."
+        },
+        {
+          "who": "L",
+          "text": "Quindi lento: più tempo sotto tensione ma carichi leggeri. Veloce: più peso e più tensione, ma per meno tempo."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, è un compromesso: nessuno dei due vince in modo netto. Una cosa però è chiara: le ripetizioni super lente, oltre dieci secondi, non sono ottimali, evitale."
+        },
+        {
+          "who": "L",
+          "text": "E allora in pratica che faccio?"
+        },
+        {
+          "who": "M",
+          "text": "Se vuoi allungare una fase, allunga l'eccentrica, dove il muscolo è più forte. Pausa e concentrica, il più esplosive e veloci possibile."
+        },
+        {
+          "who": "L",
+          "text": "Come in partita: freno controllato e riparto esplosivo."
+        },
+        {
+          "who": "M",
+          "text": "Bravo. In palestra puoi scriverlo per esempio come tempo tre-zero-uno nello squat: discesa lenta, salita rapida."
+        }
+      ]
+    },
+    {
+      "part": 10,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Anche l'ordine degli esercizi influisce sull'ipertrofia. Molti credono che i grandi multiarticolari vadano SEMPRE per primi."
+        },
+        {
+          "who": "L",
+          "text": "[confident] Beh, è così, no?"
+        },
+        {
+          "who": "M",
+          "text": "La ricerca non ha davvero confermato questa idea. Allora qual è il criterio, secondo te? [pause]"
+        },
+        {
+          "who": "L",
+          "text": "Mettere prima i muscoli che mi interessano di più?"
+        },
+        {
+          "who": "M",
+          "text": "Esatto: all'inizio sei più fresco, e gran parte di energia e concentrazione va agli esercizi iniziali. Lì lavori sui muscoli che hanno bisogno di più lavoro o che contano di più."
+        },
+        {
+          "who": "L",
+          "text": "E i muscoli in ritardo o difficili da stimolare?"
+        },
+        {
+          "who": "M",
+          "text": "Anche quelli possono andare per primi, così dai loro la priorità. L'esempio della slide è la catena posteriore: prima lo stacco da terra, il più importante della seduta, poi l'hyperextension a completare."
+        },
+        {
+          "who": "L",
+          "text": "Quindi se un calciatore ha gli ischiocrurali come punto debole..."
+        },
+        {
+          "who": "M",
+          "text": "Li metti all'inizio, con testa e gambe fresche: in fondo, stanco, li alleni peggio. Lo stesso per un'atleta con i glutei poco sviluppati."
+        },
+        {
+          "who": "L",
+          "text": "Come le esercitazioni importanti: a inizio seduta, non dopo la partitella."
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. L'ordine non segue una regola fissa sul tipo di esercizio: segue le priorità dell'atleta."
+        }
+      ]
+    },
+    {
+      "part": 11,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Range of motion: il tema è il confronto tra movimento parziale e completo. Prima la definizione."
+        },
+        {
+          "who": "L",
+          "text": "Completo vuol dire fino in fondo?"
+        },
+        {
+          "who": "M",
+          "text": "Sì: l'articolazione si muove per tutta la sua ampiezza, finché le strutture passive non fermano il movimento. Nell'isolamento è facile."
+        },
+        {
+          "who": "L",
+          "text": "E nei multiarticolari?"
+        },
+        {
+          "who": "M",
+          "text": "Meno chiaro: non tutte le articolazioni fanno tutto l'arco. Pensa al ginocchio nello stacco da terra: non fa un movimento completo, ma partecipa."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Quindi come lo chiamo?"
+        },
+        {
+          "who": "M",
+          "text": "Range of motion MAGGIORE, non completo. E dici sempre di quale articolazione parli."
+        },
+        {
+          "who": "L",
+          "text": "E per l'ipertrofia cosa dice la ricerca?"
+        },
+        {
+          "who": "M",
+          "text": "È chiara: completo o maggiore dà un beneficio evidente. Quando mobilità e stabilità lo permettono, fai muovere gli atleti con l'ampiezza più grande possibile."
+        },
+        {
+          "who": "L",
+          "text": "Tipo quei mezzi squat con tanto peso e poca discesa?"
+        },
+        {
+          "who": "M",
+          "text": "Ecco: se un difensore ha caviglie e anche che lo permettono, meglio scendere di più con meno carico. Se la mobilità non basta, prima lavori su quella."
+        },
+        {
+          "who": "L",
+          "text": "E non forzo mai un'ampiezza che non controlla. Un affondo a metà è come un passaggio di cinque metri invece di un lancio lungo."
+        }
+      ]
+    },
+    {
+      "part": 12,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Ora uniamo le due lezioni sulle variabili: ne escono linee guida per un programma di massa. Ecco le prime cinque."
+        },
+        {
+          "who": "L",
+          "text": "Vai, la prima?"
+        },
+        {
+          "who": "M",
+          "text": "Uno: più volume fai, meglio è, sempre in sicurezza. Il volume è il motore della crescita, ma deve restare gestibile."
+        },
+        {
+          "who": "L",
+          "text": "Due?"
+        },
+        {
+          "who": "M",
+          "text": "Full body e split routine possono essere entrambe vantaggiose, a seconda della categoria di atleta. Un principiante e un esperto possono trarre beneficio da organizzazioni diverse."
+        },
+        {
+          "who": "L",
+          "text": "[curious] Tre?"
+        },
+        {
+          "who": "M",
+          "text": "Usa una varietà di carichi: non sempre lo stesso peso e le stesse ripetizioni. Alterna pesanti e leggeri per stimolare il muscolo in modi diversi."
+        },
+        {
+          "who": "L",
+          "text": "E la quattro, secondo me, riguarda lo sforzo."
+        },
+        {
+          "who": "M",
+          "text": "[laughs] Esatto: porta le serie fino al cedimento muscolare, o vicino. Una serie interrotta troppo presto stimola poco la crescita."
+        },
+        {
+          "who": "L",
+          "text": "E la cinque?"
+        },
+        {
+          "who": "M",
+          "text": "Varietà di esercizi per allenare in modo completo i muscoli bersaglio, come oggi con bicipite e ischiocrurali. Un solo esercizio non basta."
+        },
+        {
+          "who": "L",
+          "text": "Quindi vengono soprattutto dalla lezione scorsa, più la scelta degli esercizi. Come la lista prima della partita: salti una voce e paghi in campo."
+        }
+      ]
+    },
+    {
+      "part": 13,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Adesso le linee guida dalle variabili di oggi. Primo, i recuperi: circa due minuti per la maggior parte delle serie."
+        },
+        {
+          "who": "L",
+          "text": "Sempre due minuti?"
+        },
+        {
+          "who": "M",
+          "text": "No, non è rigido. A volte lo allunghi o lo accorci, per sfruttare di più la tensione o lo stress metabolico."
+        },
+        {
+          "who": "L",
+          "text": "Secondo, il tempo di esecuzione."
+        },
+        {
+          "who": "M",
+          "text": "Se possibile allunga l'eccentrica, poi solleva nella concentrica il più VELOCE possibile."
+        },
+        {
+          "who": "L",
+          "text": "Terzo, l'azione muscolare. Concentriche ed eccentriche, giusto?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, tutte e due. Più un po' di lavoro eccentrico specifico, per esempio qualche serie eccentrica pesante con l'aiuto di un compagno."
+        },
+        {
+          "who": "L",
+          "text": "Quarto e quinto?"
+        },
+        {
+          "who": "M",
+          "text": "L'ordine: gli esercizi per i muscoli più importanti da sviluppare per primi. E il range of motion: l'ampiezza più grande possibile, nei limiti di mobilità e stabilità."
+        },
+        {
+          "who": "L",
+          "text": "[thoughtful] Provo su un attaccante: apre con il punto debole, scende controllato e spinge rapido, fa tutta l'ampiezza che controlla."
+        },
+        {
+          "who": "M",
+          "text": "E poi?"
+        },
+        {
+          "who": "L",
+          "text": "Riposa circa due minuti e ogni tanto fa qualche serie eccentrica pesante."
+        },
+        {
+          "who": "M",
+          "text": "[warmly] Perfetto, con le cinque di prima l'allenamento è davvero mirato alla massa. Come un calcio piazzato: ogni scelta ha il suo compito."
+        }
+      ]
+    },
+    {
+      "part": 14,
+      "lines": [
+        {
+          "who": "M",
+          "text": "Facciamo il punto: sei variabili per progettare un programma. La prima, secondo te? [pause]"
+        },
+        {
+          "who": "L",
+          "text": "La scelta degli esercizi: muscoli divisi in compartimenti, crescita regionale, quindi varietà."
+        },
+        {
+          "who": "M",
+          "text": "Sì, monoarticolari e multiarticolari, ma dosata sull'esperienza dell'atleta. Seconda, i recuperi."
+        },
+        {
+          "who": "L",
+          "text": "Brevi più stress metabolico, lunghi mantengono volume e tensione. Circa due minuti è un buon compromesso."
+        },
+        {
+          "who": "M",
+          "text": "Terza, l'azione muscolare: eccentrica e concentrica si completano, e qualche serie eccentrica pesante aiuta."
+        },
+        {
+          "who": "L",
+          "text": "Quarta, il tempo: tra zero virgola cinque e sei secondi cambia poco, oltre dieci non conviene."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, meglio un'eccentrica controllata e una concentrica ESPLOSIVA. Quinta?"
+        },
+        {
+          "who": "L",
+          "text": "L'ordine: prima i muscoli che mi interessano di più, quando sono fresco."
+        },
+        {
+          "who": "M",
+          "text": "Sesta, il range of motion: più è ampio meglio è, se mobilità e stabilità lo permettono."
+        },
+        {
+          "who": "L",
+          "text": "E ognuna ha un ruolo per massimizzare l'ipertrofia."
+        },
+        {
+          "who": "M",
+          "text": "Poi hai raccolto tutto nelle linee guida, che uniscono questa lezione e la precedente. Come il resoconto del mister a fine allenamento."
+        },
+        {
+          "who": "L",
+          "text": "[cheerfully] Ora posso scrivere una scheda di massa completa... e spiegare ogni scelta al mio atleta."
+        }
+      ]
+    }
+  ]
+}
