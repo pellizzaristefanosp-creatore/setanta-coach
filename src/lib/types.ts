@@ -1,0 +1,100 @@
+export type ISODate = string; // "YYYY-MM-DD", sempre data locale
+
+export type Step = { id: string; title: string; done: boolean };
+
+export type Recall = { afterStep: number; text: string; date: ISODate };
+
+export type Presentation = {
+  id: string;
+  code: string; // "5.1"
+  title: string;
+  unit: number;
+  steps: Step[];
+  doneAt?: ISODate;
+  recalls: Recall[];
+};
+
+export type Unit = { n: number; title: string; topic: string; release: ISODate };
+
+export type Card = {
+  id: string;
+  presentationId?: string;
+  front: string;
+  back: string;
+  ef: number;
+  interval: number;
+  reps: number;
+  due: ISODate;
+  created: ISODate;
+};
+
+export type Explanation = {
+  id: string;
+  presentationId?: string;
+  concept: string;
+  text: string;
+  analogy: string;
+  created: ISODate;
+};
+
+export type Question = {
+  id: string;
+  presentation?: string;
+  unit?: number;
+  question: string;
+  options: string[];
+  answer: number;
+  explanation?: string;
+};
+
+export type QuizResult = {
+  id: string;
+  date: ISODate;
+  mode: "allenamento" | "simulazione";
+  total: number;
+  correct: number;
+  seconds: number;
+};
+
+export type ChecklistItem = { id: string; title: string; due: ISODate; done: boolean };
+
+export type Exams = {
+  practicalOpen: ISODate;
+  practicalDeadline: string; // "2026-12-27 23:59"
+  practicalTarget: ISODate;
+  mcqOpen: string;
+  mcqClose: string;
+  mcqTarget: ISODate;
+};
+
+export type Settings = {
+  hook: string; // "dopo cena"
+  time: string; // "HH:MM"
+  restDay: number; // 0 = domenica … 6 = sabato
+  startDate: ISODate;
+};
+
+export type DayLog = Record<ISODate, { minutes: number; steps: number }>;
+
+export type ActiveTimer = {
+  presentationId: string;
+  stepId: string;
+  startedAt: number; // ms
+  endsAt: number; // ms
+  pausedLeft?: number; // ms rimasti, se in pausa
+};
+
+export type State = {
+  version: 1;
+  units: Unit[];
+  presentations: Presentation[];
+  cards: Card[];
+  explanations: Explanation[];
+  questions: Question[];
+  quizResults: QuizResult[];
+  checklist: ChecklistItem[];
+  exams: Exams;
+  settings: Settings;
+  log: DayLog;
+  timer: ActiveTimer | null;
+};
