@@ -75,6 +75,7 @@ export type Settings = {
   voiceRate: number; // 1 = normale
   voiceName?: string;
   appCode?: string; // codice per importare lezioni (server)
+  lessonView?: "cartoon" | "audio"; // come guardare le lezioni con audio
 };
 
 export type DayLog = Record<ISODate, { minutes: number; steps: number }>;

@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
+import { Cartoon } from "../Cartoon";
 import { audioFor, lineAt, type AudioPart } from "../lib/audio";
 import { nextAction } from "../lib/coach";
 import { addDays, daysBetween, shortDate, today, weekStart, weekday } from "../lib/dates";
@@ -718,6 +719,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   const [card, setCard] = useState(false);
   const doneCount = p.steps.filter((x) => x.done).length;
   const rate = AUDIO_RATES.includes(s.settings.voiceRate) ? s.settings.voiceRate : 1;
+  const view = s.settings.lessonView ?? "cartoon";
   const cur = lineAt(audio.lines, t);
   const progress = audio.duration > 0 ? Math.min(1, t / audio.duration) : 0;
   const shown = ended ? part.keyPoints.length : Math.max(1, Math.ceil(progress * part.keyPoints.length));
@@ -777,6 +779,19 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
 
       <Progress value={doneCount} max={p.steps.length} size="big" />
 
+      <div className="view-switch" role="tablist" aria-label="Come vuoi la lezione">
+        <button className={view === "cartoon" ? "on" : ""} onClick={() => setState((d) => void (d.settings.lessonView = "cartoon"))}>🎬 Cartone</button>
+        <button className={view === "audio" ? "on" : ""} onClick={() => setState((d) => void (d.settings.lessonView = "audio"))}>🎧 Solo ascolto</button>
+      </div>
+
+      {view === "cartoon" ? (
+        <>
+          <Cartoon audioRef={el} audio={audio} keyPoints={part.keyPoints} analogy={part.analogy} title={part.title} />
+          <p className="step-title" style={{ fontSize: 20 }}>{part.title}</p>
+          <ParagoneButton presentationId={p.id} concept={part.title} context={part.narration} />
+        </>
+      ) : (
+        <>
       <div className="card lesson-card stack" style={{ gap: 12 }}>
         <span className="listen-label"><Icon.headphones /> {playing ? "Marco e Luca" : ended ? "Fatto l'ascolto" : "Pronto"}</span>
         <p className="step-title">{part.title}</p>
@@ -795,6 +810,9 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         </div>
       ) : (
         <p className="caption" aria-live="polite"><b>{audio.lines[cur]?.who === "M" ? "Marco" : "Luca"}:</b> {audio.lines[cur]?.text}</p>
+      )}
+
+        </>
       )}
 
       <div className="timer-bar" aria-hidden="true"><span style={{ width: `${progress * 100}%` }} /></div>

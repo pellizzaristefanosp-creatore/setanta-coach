@@ -331,3 +331,30 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 .wb-day { font-size: 12px; font-weight: 700; color: var(--ink-3); text-transform: capitalize; }
 .wb.today .wb-day { color: var(--brand); }
 .wb.today .wb-bar { outline: 2px solid var(--brand); outline-offset: 2px; }
+
+/* ——— Cartone animato ——— */
+.cartoon { position: relative; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); box-shadow: var(--shadow); background: #fbefd9; }
+.cartoon-svg { display: block; width: 100%; height: auto; }
+.char { transition: opacity 200ms ease; }
+.char:not(.speaking) { opacity: .92; }
+.char .eyes { animation: blink 4.2s infinite; transform-box: fill-box; transform-origin: center; }
+.char.speaking .arm-gesture { animation: gesture 1.1s ease-in-out infinite; transform-box: view-box; }
+@keyframes blink { 0%, 94%, 100% { transform: scaleY(1); } 96% { transform: scaleY(.1); } }
+@keyframes gesture { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-28deg); } }
+.sign-in { animation: sign 420ms cubic-bezier(.2,1.4,.4,1) both; transform-box: fill-box; transform-origin: center top; }
+@keyframes sign { from { transform: translateY(-40px) rotate(-6deg); opacity: 0; } to { transform: none; opacity: 1; } }
+.sign-text { font: 700 12.5px/1.25 -apple-system, system-ui, sans-serif; color: #2b2118; display: flex; align-items: center; justify-content: center; text-align: center; height: 40px; padding: 0 4px; }
+.cartoon-caption { position: relative; min-height: 92px; padding: 14px 10px 10px; background: #e9c99a; }
+.bubble { position: relative; max-width: 88%; background: #fff; border: 2px solid #2b2118; border-radius: 16px; padding: 8px 12px; font-size: 14.5px; line-height: 1.35; box-shadow: 0 4px 0 rgb(43 33 24 / 12%); animation: bubble 260ms ease-out both; }
+.bubble b { display: block; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--brand); }
+.bubble.left { margin-right: auto; border-top-left-radius: 4px; }
+.bubble.right { margin-left: auto; border-top-right-radius: 4px; }
+.bubble.left::before, .bubble.right::before { content: ""; position: absolute; top: -10px; width: 14px; height: 10px; background: #2b2118; clip-path: polygon(0 100%, 50% 0, 100% 100%); }
+.bubble.left::before { left: 26%; }
+.bubble.right::before { right: 26%; }
+.bubble.right b { color: var(--field); }
+.bubble.center { max-width: none; background: var(--field-soft); border-color: var(--field); }
+@keyframes bubble { from { opacity: 0; transform: translateY(8px) scale(.96); } to { opacity: 1; transform: none; } }
+.view-switch { display: grid; grid-template-columns: 1fr 1fr; background: var(--surface-2); padding: 4px; border-radius: 14px; gap: 4px; }
+.view-switch button { border: 0; background: transparent; border-radius: 10px; min-height: 40px; font-weight: 700; color: var(--ink-2); font-size: 15px; }
+.view-switch button.on { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
