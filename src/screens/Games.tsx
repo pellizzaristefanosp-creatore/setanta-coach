@@ -10,6 +10,7 @@ import {
   type TrueFalseItem,
   type WhoItem,
 } from "../lib/games";
+import { episodesFor, type Episode } from "../data/episodes";
 import { finishGame, useStore } from "../lib/store";
 import { Icon, Progress, beep, unlockAudio } from "../ui";
 
@@ -56,6 +57,9 @@ export function Games() {
           Tutte
         </button>
       </div>
+      {episodesFor(code === ALL ? null : code).map((e) => (
+        <EpisodeCard key={e.src} episode={e} />
+      ))}
       <GameCard
         emoji="🧩"
         title="Metti in ordine"
@@ -83,6 +87,20 @@ export function Games() {
           setGame("tf");
         }}
       />
+    </div>
+  );
+}
+
+function EpisodeCard({ episode }: { episode: Episode }) {
+  return (
+    <div className="card stack episode-card" style={{ gap: 10 }}>
+      <div className="row" style={{ justifyContent: "space-between" }}>
+        <span className="tag">🎬 Puntata · lezione {episode.code}</span>
+        <span className="tiny">{episode.minutes} min</span>
+      </div>
+      <video className="episode-video" src={episode.src} poster={episode.poster} controls playsInline preload="none" />
+      <h2>{episode.title}</h2>
+      <p className="muted">{episode.subtitle}</p>
     </div>
   );
 }
