@@ -89,7 +89,7 @@ export type ActiveTimer = {
 };
 
 export type XpEvent = { date: ISODate; kind: XpKind; points: number };
-export type XpKind = "part" | "check" | "recall" | "card" | "quiz" | "boss" | "presentation" | "daily" | "weekly" | "exercise";
+export type XpKind = "part" | "check" | "recall" | "card" | "quiz" | "boss" | "presentation" | "daily" | "weekly" | "exercise" | "game";
 
 export type AnswerStat = { seen: number; wrong: number; last: ISODate; lastCorrect: boolean };
 

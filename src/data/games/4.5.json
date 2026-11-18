@@ -1,0 +1,261 @@
+{
+ "code": "4.5",
+ "order": [
+  {
+   "title": "Le tappe della lezione",
+   "steps": [
+    "Shoulder taps",
+    "Pull-under con kettlebell",
+    "Pallof press da sdraiato, poi in piedi",
+    "Panca con un manubrio",
+    "Lanci con la palla medica",
+    "Riepilogo delle famiglie di esercizi per il core"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Come eseguire gli shoulder taps",
+   "steps": [
+    "Parti in plank a braccia tese",
+    "Stacca una mano da terra",
+    "Tocca la spalla opposta senza ruotare il bacino",
+    "Riporta la mano a terra",
+    "Ripeti con l'altra mano"
+   ],
+   "slide": 5
+  },
+  {
+   "title": "Come iniziare il Pallof press in piedi",
+   "steps": [
+    "Fissa l'elastico all'altezza delle spalle",
+    "Afferra l'elastico con due mani",
+    "Fai un passo lontano dal supporto",
+    "Sistemati con una base piuttosto larga",
+    "Spingi le mani avanti senza ruotare il tronco"
+   ],
+   "slide": 8
+  },
+  {
+   "title": "Come eseguire il lancio rotazionale",
+   "steps": [
+    "Mettiti di fianco alla parete",
+    "Tieni la palla all'anca più lontana dal muro",
+    "Carica ruotando verso il fianco esterno",
+    "Spingi con le anche e lancia contro la parete"
+   ],
+   "slide": 10
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Controllo i movimenti involontari che ti fanno perdere la posizione.",
+    "Il core mantiene il tronco stabile e allineato.",
+    "Una forza vuole farti girare il busto, ma tu non cedi."
+   ],
+   "answer": "Anti-rotazione",
+   "distractors": [
+    "Anti-flessione",
+    "Anti-estensione",
+    "Anti-flessione laterale"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Puoi inserirmi nel riscaldamento o nel blocco dedicato al core.",
+    "In plank a braccia tese, perdi un appoggio alla volta.",
+    "Tocchi la spalla opposta alternando le mani."
+   ],
+   "answer": "Shoulder taps",
+   "distractors": [
+    "Pull-under con kettlebell",
+    "Pallof press in piedi",
+    "Panca con un manubrio"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Alleno anche l'anti-estensione.",
+    "Divento più difficile se aumenti il peso.",
+    "In plank, trascini un attrezzo sotto il corpo e poi lo riporti indietro."
+   ],
+   "answer": "Pull-under con kettlebell",
+   "distractors": [
+    "Shoulder taps",
+    "Pallof press da sdraiato",
+    "Panca con un manubrio"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Puoi rendermi più difficile sollevando entrambi i piedi.",
+    "La retroversione del bacino appiattisce la zona lombare sul pavimento.",
+    "Con la schiena a terra, spingi le mani verso l'alto mentre l'elastico tira di lato."
+   ],
+   "answer": "Pallof press da sdraiato",
+   "distractors": [
+    "Pallof press in piedi",
+    "Panca con un manubrio",
+    "Shoulder taps"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Puoi eseguirmi a ripetizioni oppure mantenere la posizione per il tempo indicato.",
+    "Sono più difficile quando le mani sono alla massima distanza dal petto.",
+    "Con l'elastico ancorato all'altezza delle spalle, spingi le mani avanti senza farti girare."
+   ],
+   "answer": "Pallof press in piedi",
+   "distractors": [
+    "Pallof press da sdraiato",
+    "Shoulder taps",
+    "Pull-under con kettlebell"
+   ],
+   "slide": 8
+  },
+  {
+   "clues": [
+    "Se riduci la base di appoggio, probabilmente sollevi meno peso.",
+    "Senti soprattutto durante la discesa il bisogno di resistere alla rotazione.",
+    "Parti disteso, sollevi il carico da un solo lato e tieni entrambi i piedi a terra."
+   ],
+   "answer": "Panca con un manubrio",
+   "distractors": [
+    "Pallof press da sdraiato",
+    "Pallof press in piedi",
+    "Pull-under con kettlebell"
+   ],
+   "slide": 9
+  },
+  {
+   "clues": [
+    "La zona lombare resta stabile mentre le anche danno la spinta.",
+    "Carichi girandoti verso il fianco esterno rispetto alla parete.",
+    "Parti di fianco al muro, con la palla medica all'altezza dell'anca più lontana."
+   ],
+   "answer": "Lancio rotazionale",
+   "distractors": [
+    "Lancio laterale in piedi",
+    "Pallof press in piedi",
+    "Pull-under con kettlebell"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "Usi anche il polso per dare potenza al gesto.",
+    "Tieni i gomiti alti e spingi attraverso il gomito.",
+    "Sei di fianco al muro e parti con la palla medica più alta rispetto alla variante che parte dall'anca."
+   ],
+   "answer": "Lancio laterale in piedi",
+   "distractors": [
+    "Lancio rotazionale",
+    "Pallof press in piedi",
+    "Panca con un manubrio"
+   ],
+   "slide": 10
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Nel calcio, resistere alla rotazione aiuta a restare in controllo quando vieni spinto di lato.",
+   "true": true,
+   "why": "Il core contrasta la forza che cerca di farti girare durante il contrasto.",
+   "slide": 3
+  },
+  {
+   "text": "Negli esercizi rotazionali, la zona lombare è il motore della rotazione.",
+   "true": false,
+   "why": "La rotazione viene soprattutto dalle anche e dalla zona toracica. La lombare resta stabile.",
+   "slide": 4
+  },
+  {
+   "text": "Negli shoulder taps, spalle e bacino restano paralleli al pavimento.",
+   "true": true,
+   "why": "Quando stacchi una mano, il core deve impedire al tronco di ruotare.",
+   "slide": 5
+  },
+  {
+   "text": "Se le anche dondolano a ogni shoulder tap, stai eseguendo bene l'esercizio.",
+   "true": false,
+   "why": "Il bacino deve restare fermo mentre tocchi la spalla opposta.",
+   "slide": 5
+  },
+  {
+   "text": "Nel pull-under, un kettlebell più pesante aumenta la forza rotazionale da contrastare.",
+   "true": true,
+   "why": "Sposti più peso mentre hai una mano in meno a terra.",
+   "slide": 6
+  },
+  {
+   "text": "Nel pull-under, puoi ruotare le anche verso il kettlebell mentre lo trascini.",
+   "true": false,
+   "why": "Devi mantenere la posizione di plank senza far ruotare le anche.",
+   "slide": 6
+  },
+  {
+   "text": "Nel Pallof press da sdraiato, la retroversione del bacino appiattisce la zona lombare sul pavimento.",
+   "true": true,
+   "why": "La retroversione aiuta ad attivare il core anteriore nella posizione supina.",
+   "slide": 7
+  },
+  {
+   "text": "Nel Pallof press da sdraiato, stringere i piedi rende l'esercizio più facile.",
+   "true": false,
+   "why": "Stringere i piedi riduce la stabilità. Per facilitare l'esercizio, allargali.",
+   "slide": 7
+  },
+  {
+   "text": "Nel Pallof press in piedi, il punto più difficile è a braccia distese.",
+   "true": true,
+   "why": "Quando le mani sono più lontane dal petto, aumenta la richiesta di resistere alla rotazione.",
+   "slide": 8
+  },
+  {
+   "text": "Nel Pallof press in piedi, allontanarti dall'ancoraggio riduce la tensione dell'elastico.",
+   "true": false,
+   "why": "Allontanarti aumenta la tensione. Per ridurla, avvicinati.",
+   "slide": 8
+  },
+  {
+   "text": "Nella panca con un manubrio, il carico su un solo lato mette alla prova la stabilità del core.",
+   "true": true,
+   "why": "Il carico asimmetrico tende a farti ruotare e il core deve opporsi.",
+   "slide": 9
+  },
+  {
+   "text": "Nella panca con un manubrio, portare i piedi sulla panca aumenta la stabilità.",
+   "true": false,
+   "why": "Togliendo i piedi da terra riduci la base di appoggio e aumenti l'instabilità.",
+   "slide": 9
+  },
+  {
+   "text": "Nel lancio rotazionale, la palla parte all'altezza dell'anca più lontana dal muro.",
+   "true": true,
+   "why": "Carichi verso il fianco esterno, poi spingi con le anche e lanci verso la parete.",
+   "slide": 10
+  },
+  {
+   "text": "Nel lancio laterale in piedi, la palla parte più in basso rispetto al lancio rotazionale.",
+   "true": false,
+   "why": "Nel lancio laterale la palla parte più in alto.",
+   "slide": 10
+  },
+  {
+   "text": "Gli esercizi anti-movimento insegnano a controllare forze indesiderate che arrivano da direzioni diverse.",
+   "true": true,
+   "why": "Anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione allenano il core a resistere a sollecitazioni diverse.",
+   "slide": 11
+  },
+  {
+   "text": "Per allenare il core in modo completo bastano gli esercizi anti-movimento.",
+   "true": false,
+   "why": "Una scheda bilanciata comprende sia esercizi anti-movimento sia esercizi con movimento.",
+   "slide": 11
+  }
+ ]
+}

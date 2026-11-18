@@ -1,0 +1,235 @@
+{
+ "code": "4.3",
+ "order": [
+  {
+   "title": "Dal setup al movimento nel dead bug",
+   "steps": [
+    "Sdraiati sulla schiena",
+    "Porta le gambe a 90 gradi",
+    "Punta le braccia verso il soffitto",
+    "Premi la zona lombare contro il pavimento",
+    "Allunga un braccio e la gamba opposta"
+   ],
+   "slide": 9
+  },
+  {
+   "title": "Eseguire un crunch controllato",
+   "steps": [
+    "Scegli dove mettere le mani",
+    "Appoggia i piedi piatti a terra",
+    "Sali lentamente senza usare lo slancio",
+    "Completa la contrazione in alto",
+    "Scendi lentamente"
+   ],
+   "slide": 15
+  },
+  {
+   "title": "Perché si usa l’elastico nel sit-up",
+   "steps": [
+    "Metti la banda dietro le caviglie",
+    "I posteriori della coscia si contraggono contro resistenza",
+    "I flessori dell’anca contribuiscono meno al movimento",
+    "Il lavoro si sposta sul core anteriore"
+   ],
+   "slide": 17
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mantengo la stessa funzione della versione classica.",
+    "Sono un’alternativa se l’appoggio sui gomiti dà fastidio.",
+    "Ti fermi in cima a una flessione, a braccia tese."
+   ],
+   "answer": "Plank alto",
+   "distractors": [
+    "Plank classico",
+    "Plank sulle ginocchia",
+    "Vertical press con elastico"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Rendo più facile resistere alla gravità.",
+    "Accorcio la leva senza cambiare la posizione neutra della colonna.",
+    "Sposti l’appoggio dai piedi a un punto più vicino alle anche."
+   ],
+   "answer": "Plank sulle ginocchia",
+   "distractors": [
+    "Plank alto",
+    "Plank classico",
+    "Plank con un piede sollevato"
+   ],
+   "slide": 8
+  },
+  {
+   "clues": [
+    "Il peso degli arti tende a inarcare la colonna.",
+    "Parti da sdraiato, con le gambe a 90 gradi.",
+    "Allunghi un braccio e la gamba opposta senza staccare la zona lombare da terra."
+   ],
+   "answer": "Dead bug",
+   "distractors": [
+    "Plank classico",
+    "Crunch isometrico",
+    "Sit-up"
+   ],
+   "slide": 9
+  },
+  {
+   "clues": [
+    "La resistenza aumenta soprattutto nella posizione allungata.",
+    "Tieni un sovraccarico con entrambe le mani.",
+    "Porti il peso verso il pavimento dietro la testa mentre allunghi una gamba."
+   ],
+   "answer": "Dead bug con kettlebell",
+   "distractors": [
+    "Dead bug con elastico",
+    "Vertical press con elastico",
+    "Crunch isometrico"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "In piedi, una leggera sfalsatura dei piedi aiuta l’equilibrio.",
+    "Puoi eseguirmi anche in affondo o in ginocchio.",
+    "Spingi una banda sopra la testa senza aprire le costole."
+   ],
+   "answer": "Vertical press con elastico",
+   "distractors": [
+    "Dead bug con elastico",
+    "Dead bug con kettlebell",
+    "Plank alto"
+   ],
+   "slide": 13
+  },
+  {
+   "clues": [
+    "Mi puoi scegliere se la versione classica dà fastidio.",
+    "Il muscolo lavora senza cambiare lunghezza durante la tenuta.",
+    "Sollevi le spalle da terra di uno o due centimetri e resti fermo."
+   ],
+   "answer": "Crunch isometrico",
+   "distractors": [
+    "Crunch classico",
+    "Plank classico",
+    "Sit-up"
+   ],
+   "slide": 16
+  },
+  {
+   "clues": [
+    "Oltre agli addominali, coinvolgo molto i flessori dell’anca.",
+    "Puoi farti tenere i piedi da un compagno.",
+    "Parti sdraiato e cerchi di toccare le ginocchia con i gomiti."
+   ],
+   "answer": "Sit-up",
+   "distractors": [
+    "Crunch classico",
+    "Crunch isometrico",
+    "Dead bug"
+   ],
+   "slide": 17
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "L’anti-estensione consiste nel resistere alla tendenza della colonna a inarcarsi all’indietro.",
+   "true": true,
+   "why": "L’obiettivo è frenare l’estensione, non impedire la flessione in avanti.",
+   "slide": 3
+  },
+  {
+   "text": "Negli esercizi per il core anteriore gli obliqui lavorano più del retto dell’addome.",
+   "true": false,
+   "why": "Lavora soprattutto il retto dell’addome; gli obliqui contribuiscono in misura minore.",
+   "slide": 4
+  },
+  {
+   "text": "Nel plank sui gomiti la colonna mantiene le sue curve naturali.",
+   "true": true,
+   "why": "L’obiettivo è tenere la colonna neutra, senza lasciarla inarcare.",
+   "slide": 5
+  },
+  {
+   "text": "Nel plank alto, far scendere le anche verso il pavimento aiuta a resistere all’estensione.",
+   "true": false,
+   "why": "Quando le anche cedono verso il pavimento, la colonna va in estensione.",
+   "slide": 6
+  },
+  {
+   "text": "Quando l’atleta tiene il plank per 90 secondi o due minuti senza problemi, conviene allungare ancora il tempo prima di togliere un appoggio.",
+   "true": false,
+   "why": "A quel punto è meglio aumentare la difficoltà togliendo un appoggio, purché la tecnica resti pulita.",
+   "slide": 7
+  },
+  {
+   "text": "Appoggiare le ginocchia al posto dei piedi rende il plank più facile perché accorcia la leva.",
+   "true": true,
+   "why": "Con la leva più corta, la gravità tende meno a far inarcare la colonna.",
+   "slide": 8
+  },
+  {
+   "text": "Nel dead bug classico si allungano insieme il braccio e la gamba dello stesso lato.",
+   "true": false,
+   "why": "Si allungano un braccio e la gamba opposta.",
+   "slide": 9
+  },
+  {
+   "text": "Nel dead bug con elastico puoi aumentare la difficoltà allontanandoti dall’ancoraggio.",
+   "true": true,
+   "why": "Allontanandoti aumenti la tensione della banda.",
+   "slide": 10
+  },
+  {
+   "text": "Nel dead bug con kettlebell, se la zona lombare si stacca dal pavimento, bisogna aumentare il peso.",
+   "true": false,
+   "why": "Se la zona lombare si stacca, il peso è troppo e va ridotto.",
+   "slide": 11
+  },
+  {
+   "text": "Per rendere il dead bug più facile puoi tenere ferme le braccia e allungare una sola gamba alla volta.",
+   "true": true,
+   "why": "Muovere solo una gamba riduce le forze che tendono a inarcare la colonna.",
+   "slide": 12
+  },
+  {
+   "text": "Nella vertical press in piedi è meglio tenere i piedi paralleli per resistere alla trazione della banda.",
+   "true": false,
+   "why": "Tenere i piedi leggermente sfalsati aiuta a restare in equilibrio.",
+   "slide": 13
+  },
+  {
+   "text": "Nel crunch e nel sit-up la colonna si flette, anche se lavorano i muscoli che frenano l’estensione.",
+   "true": true,
+   "why": "Il retto dell’addome e gli obliqui lavorano anche quando la colonna si flette in avanti.",
+   "slide": 14
+  },
+  {
+   "text": "Nel crunch, tenere le braccia tese dietro la testa è più facile che tenere le mani sul petto.",
+   "true": false,
+   "why": "Dietro la testa il peso delle braccia è più lontano dal fulcro e rende l’esercizio più difficile.",
+   "slide": 15
+  },
+  {
+   "text": "Nel crunch isometrico sollevi appena le spalle e poi mantieni la posizione.",
+   "true": true,
+   "why": "La flessione è minima e gli addominali restano in tensione senza continuare il movimento.",
+   "slide": 16
+  },
+  {
+   "text": "Nel sit-up l’elastico dietro le caviglie serve ad aumentare il contributo dei flessori dell’anca.",
+   "true": false,
+   "why": "La banda offre resistenza ai posteriori della coscia per ridurre il contributo dei flessori dell’anca.",
+   "slide": 17
+  },
+  {
+   "text": "La difficoltà va aumentata solo quando l’atleta mantiene una tecnica pulita.",
+   "true": true,
+   "why": "Si sceglie il livello adatto all’atleta e si progredisce solo se la forma resta corretta.",
+   "slide": 18
+  }
+ ]
+}

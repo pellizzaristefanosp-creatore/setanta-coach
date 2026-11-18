@@ -1,0 +1,244 @@
+{
+ "code": "5.3",
+ "order": [
+  {
+   "title": "Dal carico alla sintesi proteica",
+   "steps": [
+    "Il carico meccanico agisce sul muscolo",
+    "Nel muscolo si crea tensione",
+    "Si attivano le vie di segnalazione anabolica",
+    "Aumenta la sintesi proteica muscolare"
+   ],
+   "slide": 6
+  },
+  {
+   "title": "Perché i metaboliti si accumulano",
+   "steps": [
+    "Il muscolo si contrae",
+    "La contrazione comprime i vasi sanguigni",
+    "Il flusso di sangue si riduce",
+    "Meno metaboliti vengono portati via",
+    "Lo stress metabolico aumenta"
+   ],
+   "slide": 8
+  },
+  {
+   "title": "Come la fatica porta a reclutare più fibre",
+   "steps": [
+    "I metaboliti si accumulano durante lo sforzo",
+    "La capacità del muscolo di contrarsi diminuisce",
+    "Si abbassa la soglia delle unità motorie ad alta soglia",
+    "Il muscolo recluta più fibre per mantenere la forza"
+   ],
+   "slide": 9
+  },
+  {
+   "title": "Dal rigonfiamento cellulare alla sintesi proteica",
+   "steps": [
+    "Entra più acqua nella cellula",
+    "Aumenta la pressione sulla membrana",
+    "La cellula percepisce una minaccia alla propria struttura",
+    "La cellula aumenta la sintesi proteica"
+   ],
+   "slide": 10
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Il muscolo scheletrico è molto sensibile alle mie variazioni.",
+    "Posso comparire anche quando il muscolo viene allungato.",
+    "Mi generi nel muscolo quando sollevi un peso."
+   ],
+   "answer": "Tensione meccanica",
+   "distractors": [
+    "Stress metabolico",
+    "Danno muscolare",
+    "Rigonfiamento cellulare"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Non raggiungo per forza il massimo con il carico più alto.",
+    "Posso raggiungere il massimo già intorno al 90% dell’1RM.",
+    "Indico il valore più alto raggiunto dalla forza nel muscolo, non quanto dura."
+   ],
+   "answer": "Picco di tensione",
+   "distractors": [
+    "Tempo sotto tensione",
+    "Stress metabolico",
+    "Sintesi proteica"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Aumento quando la contrazione comprime i vasi sanguigni.",
+    "Sono legato all’accumulo di fosfato inorganico, lattato e ioni idrogeno.",
+    "Mi riconosci dal bruciore dopo una serie portata a esaurimento."
+   ],
+   "answer": "Stress metabolico",
+   "distractors": [
+    "Tensione meccanica",
+    "Danno muscolare",
+    "DOMS"
+   ],
+   "slide": 8
+  },
+  {
+   "clues": [
+    "Potrei favorire la sintesi proteica e ridurre la disgregazione delle proteine.",
+    "Aumento la pressione sulla membrana.",
+    "Succedo quando entra più acqua nella cellula e questa si gonfia."
+   ],
+   "answer": "Rigonfiamento cellulare",
+   "distractors": [
+    "Reclutamento delle fibre",
+    "Danno muscolare",
+    "Tensione meccanica"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "Dipendo dal tipo, dall’intensità e dal volume dell’allenamento.",
+    "Posso essere più marcato quando provi un esercizio nuovo.",
+    "Consisto in piccole lesioni alle fibre dopo il lavoro con i pesi."
+   ],
+   "answer": "Danno muscolare",
+   "distractors": [
+    "Stress metabolico",
+    "Rigonfiamento cellulare",
+    "Tensione meccanica"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "In me le teste di actina e miosina vengono separate a forza.",
+    "Posso provocare più danno di una contrazione concentrica o isometrica.",
+    "Sono il tipo di contrazione dominante nel Nordic hamstring curl."
+   ],
+   "answer": "Eccentrica",
+   "distractors": [
+    "Concentrica",
+    "Isometrica",
+    "Stretching passivo"
+   ],
+   "slide": 12
+  },
+  {
+   "clues": [
+    "Non seguo bene né i tempi né l’entità dei marcatori chimici del danno.",
+    "Se sono troppo forte, posso compromettere la seduta successiva.",
+    "Sono l’indolenzimento muscolare che compare in ritardo dopo l’allenamento."
+   ],
+   "answer": "DOMS",
+   "distractors": [
+    "Stress metabolico",
+    "Rigonfiamento cellulare",
+    "Danno muscolare"
+   ],
+   "slide": 13
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "L’ipertrofia è uno degli adattamenti del corpo all’allenamento della forza.",
+   "true": true,
+   "why": "Con il tempo il muscolo si adatta e sopporta meglio i carichi.",
+   "slide": 3
+  },
+  {
+   "text": "Lo stretching favorisce soprattutto l’ipertrofia in parallelo.",
+   "true": false,
+   "why": "Secondo la lezione, lo stretching favorisce più probabilmente l’ipertrofia in serie.",
+   "slide": 4
+  },
+  {
+   "text": "Il picco di tensione nel muscolo può arrivare già intorno al 90% dell’1RM.",
+   "true": true,
+   "why": "All’1RM un carico maggiore non garantisce più tensione nel muscolo che vuoi allenare.",
+   "slide": 5
+  },
+  {
+   "text": "Eseguire una ripetizione più lentamente riduce il tempo sotto tensione.",
+   "true": false,
+   "why": "Se rallenti l’esecuzione, il muscolo può restare in tensione più a lungo.",
+   "slide": 5
+  },
+  {
+   "text": "La tensione meccanica viene trasformata in segnali molecolari nella fibra muscolare.",
+   "true": true,
+   "why": "La tensione attiva vie di segnalazione che aumentano la sintesi proteica.",
+   "slide": 6
+  },
+  {
+   "text": "Lo stretching da solo è un metodo efficace per far crescere il muscolo.",
+   "true": false,
+   "why": "Secondo la lezione, lo stretching può aiutare se abbinato ai pesi, ma da solo non basta.",
+   "slide": 7
+  },
+  {
+   "text": "La contrazione può comprimere i vasi sanguigni e favorire l’accumulo di metaboliti.",
+   "true": true,
+   "why": "Se il flusso di sangue si riduce, vengono portati via meno metaboliti.",
+   "slide": 8
+  },
+  {
+   "text": "Le unità motorie ad alta soglia si attivano prima di quelle a bassa soglia.",
+   "true": false,
+   "why": "Si attivano prima le unità a bassa soglia e poi quelle ad alta soglia.",
+   "slide": 9
+  },
+  {
+   "text": "Una serie con carico moderato portata vicino al cedimento può reclutare anche unità motorie ad alta soglia.",
+   "true": true,
+   "why": "Con la fatica il muscolo può reclutare più fibre per mantenere la forza.",
+   "slide": 9
+  },
+  {
+   "text": "Secondo il meccanismo proposto nella lezione, il rigonfiamento cellulare riduce la sintesi proteica.",
+   "true": false,
+   "why": "La risposta ipotizzata è opposta: la cellula aumenta la sintesi proteica.",
+   "slide": 10
+  },
+  {
+   "text": "Anche un atleta in buona forma può subire più danno muscolare quando prova un esercizio nuovo.",
+   "true": true,
+   "why": "Il muscolo non è ancora abituato allo stress di quel movimento.",
+   "slide": 11
+  },
+  {
+   "text": "Ripetere lo stesso esercizio nel tempo aumenta il danno muscolare che provoca.",
+   "true": false,
+   "why": "Per l’effetto degli sforzi ripetuti, il muscolo si abitua e il danno diminuisce.",
+   "slide": 12
+  },
+  {
+   "text": "Una contrazione eccentrica può causare più danno di una contrazione isometrica.",
+   "true": true,
+   "why": "Nella lezione l’eccentrica è indicata come il tipo di contrazione più dannoso.",
+   "slide": 12
+  },
+  {
+   "text": "Più forti sono i DOMS, più intensa è stata la seduta.",
+   "true": false,
+   "why": "L’indolenzimento del giorno dopo non è una misura affidabile dell’intensità.",
+   "slide": 13
+  },
+  {
+   "text": "Un danno muscolare eccessivo può ridurre il volume delle sedute successive.",
+   "true": true,
+   "why": "Il calo di forza e l’indolenzimento possono limitare il lavoro che riesci a fare.",
+   "slide": 13
+  },
+  {
+   "text": "È facile capire quale meccanismo conta di più perché i tre si presentano separatamente.",
+   "true": false,
+   "why": "I tre meccanismi spesso si presentano insieme, quindi è difficile isolarne gli effetti.",
+   "slide": 14
+  }
+ ]
+}

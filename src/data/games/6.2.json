@@ -1,0 +1,250 @@
+{
+ "code": "6.2",
+ "order": [
+  {
+   "title": "Panca piana: la catena degli effetti dei recuperi brevi",
+   "steps": [
+    "Riposi 30 secondi tra le serie",
+    "I metaboliti restano accumulati",
+    "Aumenta la fatica",
+    "Fai meno ripetizioni nelle serie successive",
+    "Cala il volume sollevato"
+   ],
+   "slide": 8
+  },
+  {
+   "title": "Le prime cinque linee guida, nell'ordine della slide",
+   "steps": [
+    "Aumenta il volume entro limiti gestibili",
+    "Scegli full body o split in base all'atleta",
+    "Usa carichi diversi",
+    "Arriva al cedimento o vicino",
+    "Usa una varietà di esercizi"
+   ],
+   "slide": 15
+  },
+  {
+   "title": "Le altre cinque linee guida, nell'ordine della slide",
+   "steps": [
+    "Riposa circa due minuti",
+    "Scendi controllato e solleva più velocemente possibile",
+    "Includi azioni concentriche ed eccentriche",
+    "Metti per primi gli esercizi prioritari",
+    "Usa l'ampiezza più grande che controlli"
+   ],
+   "slide": 16
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Se usi solo me, alcune fibre del bicipite ricevono meno stimolo.",
+    "Con me la supinazione è limitata.",
+    "Durante il movimento i palmi si guardano."
+   ],
+   "answer": "Hammer curl",
+   "distractors": [
+    "Curl classico",
+    "Leg curl",
+    "Panca piana"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Aiuto a capire perché può servire più di un esercizio per un muscolo.",
+    "Certi esercizi fanno crescere alcune zone più di altre.",
+    "Indico che la crescita di un muscolo non è uniforme."
+   ],
+   "answer": "Ipertrofia regionale",
+   "distractors": [
+    "Ipertrofia in serie",
+    "Ipertrofia in parallelo",
+    "Stress metabolico"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Mi puoi affiancare al lavoro multiarticolare.",
+    "Il leg curl è un mio esempio.",
+    "Muovo una sola articolazione."
+   ],
+   "answer": "Esercizio monoarticolare",
+   "distractors": [
+    "Esercizio multiarticolare",
+    "Lavoro eccentrico specifico",
+    "Movimento parziale"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Posso ridurre il volume sollevato a parità di carico.",
+    "Lascio meno possibilità di smaltire i metaboliti tra le serie.",
+    "Duro 30 secondi o meno."
+   ],
+   "answer": "Recupero breve",
+   "distractors": [
+    "Recupero moderato",
+    "Recupero lungo",
+    "Pausa in basso"
+   ],
+   "slide": 8
+  },
+  {
+   "clues": [
+    "In me puoi reggere un carico che non riusciresti a sollevare.",
+    "Nella panca piana avvengo mentre abbassi il bilanciere.",
+    "Con me il muscolo si allunga mentre produce forza."
+   ],
+   "answer": "Contrazione eccentrica",
+   "distractors": [
+    "Contrazione concentrica",
+    "Pausa in basso",
+    "Tempo sotto tensione"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "Posso contribuire di più alla crescita della parte centrale del muscolo.",
+    "Nella panca piana avvengo mentre spingi il bilanciere verso l'alto.",
+    "Con me il muscolo si accorcia mentre produce forza."
+   ],
+   "answer": "Contrazione concentrica",
+   "distractors": [
+    "Contrazione eccentrica",
+    "Pausa in basso",
+    "Tensione meccanica"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "Se mi cambi, il muscolo può restare più o meno a lungo sotto tensione.",
+    "In una scheda mi puoi trovare scritto come 303.",
+    "Indico quanto dura ogni fase della ripetizione."
+   ],
+   "answer": "Tempo di esecuzione",
+   "distractors": [
+    "Tempo di recupero",
+    "Tempo sotto tensione",
+    "Ordine degli esercizi"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "Nei multiarticolari conviene specificare a quale articolazione mi riferisco.",
+    "Mobilità e stabilità limitano quanto puoi aumentarmi.",
+    "Indico l'ampiezza del movimento."
+   ],
+   "answer": "Range of motion",
+   "distractors": [
+    "Piano di movimento",
+    "Tempo di esecuzione",
+    "Posizione del carico"
+   ],
+   "slide": 14
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Le fibre centrali del bicipite lavorano sia nella flessione del gomito sia nella supinazione.",
+   "true": true,
+   "why": "La zona centrale partecipa a entrambi i movimenti.",
+   "slide": 4
+  },
+  {
+   "text": "È dimostrato che con un esercizio puoi colpire in modo mirato un singolo compartimento del bicipite.",
+   "true": false,
+   "why": "Non è ancora dimostrato che si possa isolare così un compartimento in palestra.",
+   "slide": 5
+  },
+  {
+   "text": "Gli esercizi di estensione dell'anca e quelli di flessione del ginocchio possono attivare zone diverse degli ischiocrurali.",
+   "true": true,
+   "why": "Le zone più attive cambiano in base al movimento richiesto.",
+   "slide": 6
+  },
+  {
+   "text": "Un principiante dovrebbe cambiare spesso esercizi per imparare meglio gli schemi motori.",
+   "true": false,
+   "why": "Con poca varietà ha il tempo di imparare e consolidare gli schemi motori.",
+   "slide": 7
+  },
+  {
+   "text": "Nell'esempio della panca, con 30 secondi di recupero si fanno meno ripetizioni totali che con 3 minuti.",
+   "true": true,
+   "why": "Con 30 secondi si fanno 30 ripetizioni; con 3 minuti se ne fanno 37.",
+   "slide": 8
+  },
+  {
+   "text": "Per l'ipertrofia bisogna riposare circa due minuti tra tutte le serie.",
+   "true": false,
+   "why": "Due minuti sono un riferimento: puoi allungare o accorciare le pause.",
+   "slide": 9
+  },
+  {
+   "text": "Per l'ipertrofia conviene usare esercizi che includano sia la fase concentrica sia quella eccentrica.",
+   "true": true,
+   "why": "Le due azioni si completano e possono stimolare zone diverse del muscolo.",
+   "slide": 10
+  },
+  {
+   "text": "Nella panca piana, quando abbassi il bilanciere, i pettorali si accorciano.",
+   "true": false,
+   "why": "In discesa i pettorali si allungano mentre producono forza.",
+   "slide": 10
+  },
+  {
+   "text": "Nel tempo 423, il 2 indica una pausa di due secondi tra la discesa e la risalita.",
+   "true": true,
+   "why": "Il secondo numero indica la durata della pausa.",
+   "slide": 11
+  },
+  {
+   "text": "Le ripetizioni che durano oltre 10 secondi sono la scelta migliore per l'ipertrofia.",
+   "true": false,
+   "why": "Le ripetizioni così lente non sono ottimali per la crescita muscolare.",
+   "slide": 12
+  },
+  {
+   "text": "Tra 0,5 e 6 secondi per ripetizione, gli studi mostrano poca differenza nella crescita quando le serie arrivano al cedimento.",
+   "true": true,
+   "why": "Con le ripetizioni lente aumenta il tempo sotto tensione, ma il carico tende a diminuire.",
+   "slide": 12
+  },
+  {
+   "text": "Gli esercizi multiarticolari devono sempre venire prima di quelli monoarticolari.",
+   "true": false,
+   "why": "L'ordine segue le priorità dell'atleta, non una regola fissa sul tipo di esercizio.",
+   "slide": 13
+  },
+  {
+   "text": "Negli esercizi multiarticolari è utile indicare a quale articolazione si riferisce il ROM.",
+   "true": true,
+   "why": "Non tutte le articolazioni coinvolte percorrono l'intero arco di movimento.",
+   "slide": 14
+  },
+  {
+   "text": "Nello squat bisogna aumentare la profondità anche se l'atleta non riesce a controllarla.",
+   "true": false,
+   "why": "L'ampiezza va aumentata solo se mobilità e stabilità lo consentono.",
+   "slide": 14
+  },
+  {
+   "text": "Sia il full body sia le split routine possono essere utili per l'ipertrofia.",
+   "true": true,
+   "why": "La scelta dipende dalla categoria di atleta.",
+   "slide": 15
+  },
+  {
+   "text": "Per stimolare bene la crescita, è meglio fermare le serie molto prima del cedimento.",
+   "true": false,
+   "why": "La linea guida è arrivare al cedimento o vicino: fermarsi troppo presto dà poco stimolo.",
+   "slide": 15
+  }
+ ]
+}

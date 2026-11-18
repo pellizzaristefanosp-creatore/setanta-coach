@@ -1,0 +1,252 @@
+{
+ "code": "5.1",
+ "order": [
+  {
+   "title": "Dal comando volontario alla contrazione",
+   "steps": [
+    "Decidi di muoverti",
+    "Il cervello o il midollo spinale invia un segnale",
+    "Il potenziale d’azione viaggia lungo il motoneurone",
+    "Il segnale raggiunge il muscolo",
+    "Le fibre dell’unità motoria si contraggono insieme"
+   ],
+   "slide": 5
+  },
+  {
+   "title": "Come scorrono actina e miosina",
+   "steps": [
+    "Il potenziale d’azione arriva alla fibra",
+    "La fibra libera calcio",
+    "Il calcio scopre un sito di legame sull’actina",
+    "La miosina si aggancia al sito",
+    "La miosina tira l’actina verso il centro",
+    "La miosina lascia l’actina",
+    "Il ciclo si ripete e il sarcomero si accorcia"
+   ],
+   "slide": 6
+  },
+  {
+   "title": "Dal DNA alla proteina",
+   "steps": [
+    "Si parte dal DNA",
+    "La trascrizione produce l’RNA messaggero",
+    "L’RNA messaggero si lega ai ribosomi",
+    "I ribosomi leggono le istruzioni",
+    "La traduzione produce la proteina corrispondente"
+   ],
+   "slide": 12
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Per sollevare un bilanciere, molte di noi lavorano insieme.",
+    "Quando arriva il segnale, tutte le fibre che mi appartengono si contraggono insieme.",
+    "Sono formata da un motoneurone e dalle fibre a cui è collegato."
+   ],
+   "answer": "Unità motoria",
+   "distractors": [
+    "Motoneurone",
+    "Potenziale d’azione",
+    "Sarcomero"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Mi trovi dentro una miofibrilla.",
+    "Contengo i filamenti di actina e miosina.",
+    "Le mie estremità si avvicinano quando i filamenti scorrono."
+   ],
+   "answer": "Sarcomero",
+   "distractors": [
+    "Miofibrilla",
+    "Fibra muscolare",
+    "Unità motoria"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "La nostra riserva principale sono i trigliceridi.",
+    "Abbiamo molti mitocondri e capillari.",
+    "Siamo le fibre più lente e resistiamo molto alla fatica."
+   ],
+   "answer": "Fibre di tipo 1",
+   "distractors": [
+    "Fibre di tipo 2a",
+    "Fibre di tipo 2x",
+    "Unità motorie"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Abbiamo pochi mitocondri e capillari.",
+    "Produciamo molta potenza, ma ci stanchiamo presto.",
+    "Siamo le fibre più veloci."
+   ],
+   "answer": "Fibre di tipo 2x",
+   "distractors": [
+    "Fibre di tipo 1",
+    "Fibre di tipo 2a",
+    "Unità motorie"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Sono uno dei due elementi dell’attivazione muscolare.",
+    "Se aumento, le unità motorie producono più forza.",
+    "Indico quanto spesso vengono stimolate le unità motorie."
+   ],
+   "answer": "Frequenza di scarica",
+   "distractors": [
+    "Reclutamento",
+    "Potenziale d’azione",
+    "Apprendimento motorio"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "Vengo prima del lavoro dei ribosomi.",
+    "Produco la copia della ricetta per una proteina.",
+    "Sono la fase in cui dal DNA si crea l’RNA messaggero."
+   ],
+   "answer": "Trascrizione",
+   "distractors": [
+    "Traduzione",
+    "Disgregazione proteica",
+    "Turnover proteico"
+   ],
+   "slide": 12
+  },
+  {
+   "clues": [
+    "Sono uno dei due processi del turnover.",
+    "Prevalgo durante il digiuno.",
+    "Smonto le proteine del muscolo invece di costruirle."
+   ],
+   "answer": "Disgregazione proteica",
+   "distractors": [
+    "Sintesi proteica",
+    "Trascrizione",
+    "Traduzione"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "Non tutti gli sport ne richiedono la stessa quantità.",
+    "Mi si ricerca soprattutto per aumentare la forza o per motivi estetici.",
+    "Sono l’aumento delle dimensioni del muscolo scheletrico."
+   ],
+   "answer": "Ipertrofia",
+   "distractors": [
+    "Apprendimento motorio",
+    "Reclutamento",
+    "Contrazione muscolare"
+   ],
+   "slide": 4
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La quantità di massa muscolare utile cambia a seconda dello sport.",
+   "true": true,
+   "why": "Per un fondista, per esempio, la massa extra è un peso da trasportare.",
+   "slide": 4
+  },
+  {
+   "text": "Quando arriva il segnale, si contrae solo una parte delle fibre dell’unità motoria.",
+   "true": false,
+   "why": "Tutte le fibre di quell’unità motoria si contraggono insieme.",
+   "slide": 5
+  },
+  {
+   "text": "Il calcio scopre un sito di legame sull’actina.",
+   "true": true,
+   "why": "Quando il sito è scoperto, la miosina può agganciarsi all’actina.",
+   "slide": 6
+  },
+  {
+   "text": "Il sarcomero si accorcia perché i filamenti di actina e miosina diventano più corti.",
+   "true": false,
+   "why": "I filamenti scorrono uno sull’altro senza accorciarsi.",
+   "slide": 6
+  },
+  {
+   "text": "Le fibre di tipo 2a sono più rapide delle fibre di tipo 1.",
+   "true": true,
+   "why": "Le fibre di tipo 2a sono intermedie tra le fibre di tipo 1 e quelle di tipo 2x.",
+   "slide": 7
+  },
+  {
+   "text": "Le fibre di tipo 2x resistono alla fatica più delle fibre di tipo 1.",
+   "true": false,
+   "why": "Le fibre di tipo 2x sono più potenti, ma si stancano prima.",
+   "slide": 7
+  },
+  {
+   "text": "Anche le fibre di tipo 1 possono andare in ipertrofia.",
+   "true": true,
+   "why": "Tutti i tipi di fibre possono crescere, anche se la loro capacità di crescita è diversa.",
+   "slide": 8
+  },
+  {
+   "text": "I primi guadagni di forza dipendono soprattutto dall’aumento della massa muscolare.",
+   "true": false,
+   "why": "All’inizio contano soprattutto gli adattamenti neurali, in particolare l’apprendimento motorio.",
+   "slide": 9
+  },
+  {
+   "text": "Nelle prime settimane di panca piana, un atleta può sollevare di più senza un aumento apprezzabile della massa muscolare.",
+   "true": true,
+   "why": "Imparando il gesto, il sistema nervoso lo controlla in modo più efficiente.",
+   "slide": 9
+  },
+  {
+   "text": "Il reclutamento indica quanto spesso vengono stimolate le unità motorie.",
+   "true": false,
+   "why": "Il reclutamento riguarda quante fibre si attivano. Il ritmo degli stimoli è la frequenza di scarica.",
+   "slide": 10
+  },
+  {
+   "text": "Una fibra non reclutata non riceve lo stimolo per crescere.",
+   "true": true,
+   "why": "La fibra deve essere attivata per ricevere lo stimolo dell’allenamento.",
+   "slide": 10
+  },
+  {
+   "text": "Se sintesi e disgregazione si pareggiano, la massa muscolare aumenta.",
+   "true": false,
+   "why": "Se si pareggiano, la massa resta stabile. Per crescere, la sintesi deve superare la disgregazione.",
+   "slide": 11
+  },
+  {
+   "text": "Il turnover proteico comprende sia la sintesi sia la disgregazione.",
+   "true": true,
+   "why": "Il corpo rinnova le proteine costruendole e smontandole di continuo.",
+   "slide": 11
+  },
+  {
+   "text": "Durante la traduzione si crea l’RNA messaggero a partire dal DNA.",
+   "true": false,
+   "why": "L’RNA messaggero si forma durante la trascrizione. Nella traduzione, i ribosomi lo leggono per produrre una proteina.",
+   "slide": 12
+  },
+  {
+   "text": "Dopo l’allenamento con i pesi, la sintesi proteica aumenta.",
+   "true": true,
+   "why": "L’esercizio stimola la sintesi rendendo più efficiente la traduzione.",
+   "slide": 13
+  },
+  {
+   "text": "Uno stimolo può favorire la crescita muscolare solo aumentando la sintesi proteica.",
+   "true": false,
+   "why": "L’equilibrio può migliorare anche se diminuisce la disgregazione.",
+   "slide": 13
+  }
+ ]
+}

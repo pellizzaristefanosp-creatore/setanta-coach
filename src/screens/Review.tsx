@@ -20,9 +20,10 @@ import {
 } from "../lib/store";
 import type { Card, Explanation, Question } from "../lib/types";
 import { Icon, Progress, beep, formatClock, unlockAudio } from "../ui";
+import { Games } from "./Games";
 import { CardSheet, type Intent } from "./Today";
 
-type Mode = "flash" | "quiz" | "esercizi" | "spiega";
+type Mode = "flash" | "quiz" | "giochi" | "esercizi" | "spiega";
 
 export function Review({ intent, onIntentDone }: { intent?: Intent | null; onIntentDone?: () => void }) {
   const [mode, setMode] = useState<Mode>(() =>
@@ -34,11 +35,13 @@ export function Review({ intent, onIntentDone }: { intent?: Intent | null; onInt
       <div className="seg" role="tablist">
         <button className={mode === "flash" ? "on" : ""} onClick={() => setMode("flash")}>Carte</button>
         <button className={mode === "quiz" ? "on" : ""} onClick={() => setMode("quiz")}>Quiz</button>
+        <button className={mode === "giochi" ? "on" : ""} onClick={() => setMode("giochi")}>Giochi</button>
         <button className={mode === "esercizi" ? "on" : ""} onClick={() => setMode("esercizi")}>Esercizi</button>
         <button className={mode === "spiega" ? "on" : ""} onClick={() => setMode("spiega")}>Spiegami</button>
       </div>
       {mode === "flash" && <Flashcards autostart={intent?.kind === "cards"} onStarted={onIntentDone} />}
       {mode === "quiz" && <Quiz intent={intent} onStarted={onIntentDone} />}
+      {mode === "giochi" && <Games />}
       {mode === "esercizi" && <Exercises code={intent?.kind === "exercise" ? intent.code : undefined} />}
       {mode === "spiega" && <Explanations />}
     </div>

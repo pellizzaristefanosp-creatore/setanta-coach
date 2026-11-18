@@ -1,0 +1,257 @@
+{
+ "code": "5.2",
+ "order": [
+  {
+   "title": "Come le cellule satellite sostengono la crescita",
+   "steps": [
+    "La fibra muscolare cresce",
+    "I nuclei presenti non bastano più",
+    "Le cellule satellite donano nuovi nuclei",
+    "La fibra può continuare a crescere"
+   ],
+   "slide": 6
+  },
+  {
+   "title": "Dal pancreas alla fibra muscolare",
+   "steps": [
+    "Le cellule beta producono insulina",
+    "L’insulina entra nel sangue",
+    "L’insulina raggiunge la fibra muscolare",
+    "Il glucosio viene usato o conservato"
+   ],
+   "slide": 13
+  },
+  {
+   "title": "Come il GHRH favorisce la sintesi proteica",
+   "steps": [
+    "Il GHRH stimola la secrezione di GH",
+    "Il GH stimola l’IGF",
+    "L’IGF favorisce l’assorbimento di aminoacidi",
+    "Le cellule bersaglio sintetizzano proteine"
+   ],
+   "slide": 12
+  },
+  {
+   "title": "La condizione a stimolo ormonale alto nello studio di West",
+   "steps": [
+    "Il soggetto esegue il curl con un braccio",
+    "Subito dopo allena le gambe",
+    "Gli ormoni anabolici aumentano dopo la seduta",
+    "Dopo 15 settimane si confrontano le circonferenze"
+   ],
+   "slide": 16
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Influenzo l’attivazione delle cellule satellite.",
+    "Favorisco la sintesi proteica e freno la disgregazione.",
+    "Mi produce il fegato, ma anche il muscolo sotto carico."
+   ],
+   "answer": "IGF",
+   "distractors": [
+    "Testosterone",
+    "Insulina",
+    "GH"
+   ],
+   "slide": 9
+  },
+  {
+   "clues": [
+    "Posso migliorare la trasmissione dei segnali nervosi.",
+    "I miei effetti anabolici si amplificano con l’allenamento di forza.",
+    "Sono un ormone sessuale fino a 10 volte più abbondante nei maschi."
+   ],
+   "answer": "Testosterone",
+   "distractors": [
+    "IGF",
+    "GH",
+    "Cortisolo"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "La mia azione è legata alle riserve di glicogeno.",
+    "Inibisco la sintesi proteica e colpisco di più le fibre di tipo II.",
+    "Sono noto come ormone dello stress."
+   ],
+   "answer": "Cortisolo",
+   "distractors": [
+    "Testosterone",
+    "Insulina",
+    "GH"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "Favorisco la scomposizione dei grassi.",
+    "Una delle mie azioni principali è stimolare l’IGF.",
+    "Vengo rilasciato a impulsi, soprattutto nel sonno e con l’esercizio."
+   ],
+   "answer": "GH",
+   "distractors": [
+    "IGF",
+    "Cortisolo",
+    "Testosterone"
+   ],
+   "slide": 12
+  },
+  {
+   "clues": [
+    "Aiuto a usare il glucosio subito o a conservarlo per dopo.",
+    "Mi producono le cellule beta delle isole di Langerhans.",
+    "Sono l’ormone del pancreas che aiuta a regolare il glucosio nel sangue."
+   ],
+   "answer": "Insulina",
+   "distractors": [
+    "IGF",
+    "Cortisolo",
+    "GH"
+   ],
+   "slide": 13
+  },
+  {
+   "clues": [
+    "Potrei contare di più quando la fibra è già cresciuta molto.",
+    "Mi attivo quando il muscolo va riparato e rimodellato.",
+    "Posso donare nuovi nuclei alle fibre muscolari."
+   ],
+   "answer": "Cellule satellite",
+   "distractors": [
+    "Cellule beta",
+    "Sarcomeri",
+    "Miofibrille"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Il mio contributo alla crescita nell’uomo non è chiaro.",
+    "Sono stata dimostrata negli animali.",
+    "Con me aumenta il numero di fibre, non la dimensione di ogni fibra."
+   ],
+   "answer": "Iperplasia",
+   "distractors": [
+    "Ipertrofia in parallelo",
+    "Ipertrofia in serie",
+    "Ipertrofia sarcoplasmatica"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Non è dimostrato che io avvenga separatamente dalla crescita contrattile.",
+    "Una teoria mi collega all’acqua trattenuta dal glicogeno.",
+    "Aumento liquidi e organelli, non gli elementi contrattili."
+   ],
+   "answer": "Ipertrofia sarcoplasmatica",
+   "distractors": [
+    "Ipertrofia in parallelo",
+    "Ipertrofia in serie",
+    "Iperplasia"
+   ],
+   "slide": 5
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Aggiungere sarcomeri in parallelo aumenta il diametro della fibra.",
+   "true": true,
+   "why": "I sarcomeri si dispongono uno accanto all’altro.",
+   "slide": 4
+  },
+  {
+   "text": "Aggiungere sarcomeri in serie fa crescere soprattutto il diametro della fibra.",
+   "true": false,
+   "why": "In serie i sarcomeri si aggiungono uno dopo l’altro: aumenta soprattutto la lunghezza.",
+   "slide": 4
+  },
+  {
+   "text": "È dimostrato che alcuni metodi fanno crescere solo il sarcoplasma.",
+   "true": false,
+   "why": "Non ci sono prove che la crescita sarcoplasmatica e quella contrattile avvengano separatamente.",
+   "slide": 5
+  },
+  {
+   "text": "I nuclei già presenti nella fibra possono sostenere la prima parte della crescita.",
+   "true": true,
+   "why": "Le cellule satellite possono diventare più importanti quando la fibra è già cresciuta.",
+   "slide": 6
+  },
+  {
+   "text": "Nell’uomo il fattore principale della crescita muscolare è l’aumento del numero di fibre.",
+   "true": false,
+   "why": "Il fattore principale è l’ipertrofia delle fibre già presenti.",
+   "slide": 7
+  },
+  {
+   "text": "Gli ormoni sono messaggeri chimici che raggiungono le cellule bersaglio attraverso il sangue.",
+   "true": true,
+   "why": "Il sangue trasporta gli ormoni fino alle cellule su cui agiscono.",
+   "slide": 8
+  },
+  {
+   "text": "L’IGF può favorire la sintesi proteica e frenare la degradazione delle proteine.",
+   "true": true,
+   "why": "Ha sia un effetto anabolico sia un effetto anticatabolico.",
+   "slide": 9
+  },
+  {
+   "text": "L’IGF che agisce sul muscolo viene prodotto solo dal fegato.",
+   "true": false,
+   "why": "Anche il muscolo può produrre IGF in risposta al sovraccarico meccanico.",
+   "slide": 9
+  },
+  {
+   "text": "Il testosterone può favorire la crescita muscolare anche senza esercizio.",
+   "true": true,
+   "why": "L’allenamento di forza può amplificarne gli effetti anabolici.",
+   "slide": 10
+  },
+  {
+   "text": "Il rapporto testosterone/cortisolo è una misura affidabile dei cambiamenti di forza e potenza.",
+   "true": false,
+   "why": "Ha avuto un successo limitato nel seguire questi cambiamenti.",
+   "slide": 11
+  },
+  {
+   "text": "La somatostatina stimola la secrezione di GH.",
+   "true": false,
+   "why": "La somatostatina la inibisce. A stimolarla è il GHRH.",
+   "slide": 12
+  },
+  {
+   "text": "L’insulina può favorire la sintesi proteica agendo sulla traduzione.",
+   "true": true,
+   "why": "La traduzione è la fase in cui la cellula costruisce la proteina seguendo le istruzioni.",
+   "slide": 14
+  },
+  {
+   "text": "L’ipotesi ormonale collega la crescita a lungo termine al picco ormonale dopo una singola seduta.",
+   "true": true,
+   "why": "Secondo l’ipotesi, a un picco più alto dovrebbe corrispondere più crescita nel tempo.",
+   "slide": 15
+  },
+  {
+   "text": "Nello studio di West, il braccio allenato nella condizione con il picco più alto è cresciuto di più.",
+   "true": false,
+   "why": "Dopo 15 settimane, la circonferenza è aumentata in modo simile nelle due condizioni.",
+   "slide": 16
+  },
+  {
+   "text": "Nello studio di Morton, chi aveva un picco ormonale più alto mostrava più ipertrofia.",
+   "true": false,
+   "why": "Lo studio non ha trovato una correlazione significativa tra il picco e gli indicatori di ipertrofia.",
+   "slide": 18
+  },
+  {
+   "text": "Il dubbio sui picchi acuti non esclude che i livelli ormonali cronici influenzino la sintesi proteica.",
+   "true": true,
+   "why": "Il dibattito riguarda il picco dopo la seduta, non il ruolo dei livelli ormonali nel tempo.",
+   "slide": 18
+  }
+ ]
+}

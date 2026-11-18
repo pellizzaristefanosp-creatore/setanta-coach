@@ -1,0 +1,249 @@
+{
+ "code": "4.4",
+ "order": [
+  {
+   "title": "Eseguire il side plank",
+   "steps": [
+    "Mettiti di fianco con il corpo allineato",
+    "Appoggia l’avambraccio a terra sotto la spalla",
+    "Solleva il corpo in linea dalla testa ai piedi",
+    "Allunga il braccio libero verso l’alto",
+    "Mantieni la posizione senza far scendere i fianchi"
+   ],
+   "slide": 7
+  },
+  {
+   "title": "Perché il side plank sulle ginocchia è più facile",
+   "steps": [
+    "Piega le ginocchia e usale come appoggio",
+    "La leva si accorcia",
+    "Il corpo deve sostenere meno peso",
+    "La tenuta diventa più gestibile"
+   ],
+   "slide": 8
+  },
+  {
+   "title": "Ripercorri gli esercizi nell’ordine del riepilogo",
+   "steps": [
+    "Carries con sovraccarico",
+    "Side plank",
+    "Side lying hold",
+    "Single-arm shoulder press",
+    "Esercizi a carico sbilanciato"
+   ],
+   "slide": 12
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi trovo tra le ultime costole e il bacino.",
+    "Sono un muscolo profondo della parte bassa della schiena.",
+    "Sto ai lati della colonna lombare e aiuto a non cedere di lato."
+   ],
+   "answer": "Quadrato dei lombi",
+   "distractors": [
+    "Retto dell’addome",
+    "Obliqui interni",
+    "Obliqui esterni"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Anche con un carico bilanciato, ogni passo crea instabilità.",
+    "Mi esegui con il busto eretto, senza sbandare.",
+    "Cammini con due manubri, uno per mano."
+   ],
+   "answer": "Farmer’s walk",
+   "distractors": [
+    "Suitcase carry",
+    "Overhead carry",
+    "Single-arm shoulder press"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Il lato opposto al carico lavora di più per tenerti allineato.",
+    "Mi esegui camminando con un peso in una mano sola.",
+    "Il peso si porta al fianco, come una valigia."
+   ],
+   "answer": "Suitcase carry",
+   "distractors": [
+    "Farmer’s walk",
+    "Overhead carry",
+    "Single-arm shoulder press"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Uso carichi più leggeri delle altre varianti di camminata.",
+    "Metto alla prova la stabilità delle spalle senza inarcare troppo la schiena.",
+    "Cammini con il peso sopra la testa, di solito un kettlebell."
+   ],
+   "answer": "Overhead carry",
+   "distractors": [
+    "Farmer’s walk",
+    "Suitcase carry",
+    "Single-arm shoulder press"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Se il core cede, i fianchi scendono verso il pavimento.",
+    "Ti appoggi a terra con l’avambraccio sotto la spalla.",
+    "Di fianco, mantieni una linea retta dalla testa ai piedi."
+   ],
+   "answer": "Side plank",
+   "distractors": [
+    "Side lying hold",
+    "Suitcase carry",
+    "Farmer’s walk"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Allungare le braccia o aggiungere un peso mi rende più difficile.",
+    "Le gambe restano ferme grazie alle barre di sicurezza o a un compagno.",
+    "Sei di fianco su una panca e tieni in linea il busto che sporge."
+   ],
+   "answer": "Side lying hold",
+   "distractors": [
+    "Side plank",
+    "Overhead carry",
+    "Stacco da terra"
+   ],
+   "slide": 9
+  },
+  {
+   "clues": [
+    "Alleno il core indirettamente mentre lavori sulle spalle.",
+    "Mi esegui in piedi su entrambi i lati, uno alla volta.",
+    "Spingi un peso sopra la testa con un braccio solo."
+   ],
+   "answer": "Single-arm shoulder press",
+   "distractors": [
+    "Overhead carry",
+    "Suitcase carry",
+    "Farmer’s walk"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "L’obiettivo principale resta aumentare la forza, ma il core riceve uno stimolo in più.",
+    "Il lato più pesante tira verso il basso mentre sollevi il bilanciere da terra.",
+    "Nell’esempio metti 15 kg su un lato del bilanciere e 10 kg sull’altro."
+   ],
+   "answer": "Stacco a carico sbilanciato",
+   "distractors": [
+    "Suitcase carry",
+    "Single-arm shoulder press",
+    "Farmer’s walk"
+   ],
+   "slide": 11
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Per allenare l’anti-flessione laterale devi piegare il busto di lato e poi raddrizzarlo.",
+   "true": false,
+   "why": "Devi resistere alla spinta laterale, non cercare la flessione.",
+   "slide": 4
+  },
+  {
+   "text": "Un minimo di movimento naturale del busto è normale.",
+   "true": true,
+   "why": "Il bersaglio è lo spostamento laterale non voluto, soprattutto se estremo sotto carico.",
+   "slide": 4
+  },
+  {
+   "text": "Il quadrato dei lombi aiuta a impedire che il tronco ceda di lato.",
+   "true": true,
+   "why": "È uno dei muscoli che contrastano la flessione laterale.",
+   "slide": 5
+  },
+  {
+   "text": "Con due pesi uguali, il core non deve contrastare l’instabilità laterale durante la camminata.",
+   "true": false,
+   "why": "Camminare crea instabilità anche quando i pesi sono bilanciati.",
+   "slide": 6
+  },
+  {
+   "text": "Nel suitcase carry il lato opposto al peso lavora di più per mantenere il busto allineato.",
+   "true": true,
+   "why": "Il carico è su un solo lato e tende a inclinare il busto verso di sé.",
+   "slide": 6
+  },
+  {
+   "text": "Per l’overhead carry si usano carichi più pesanti che nel farmer’s walk.",
+   "true": false,
+   "why": "Nell’overhead carry si usano carichi più leggeri e si allena anche la stabilità delle spalle.",
+   "slide": 6
+  },
+  {
+   "text": "Nel side plank l’avambraccio d’appoggio va direttamente sotto la spalla.",
+   "true": true,
+   "why": "È il punto di appoggio da cui sollevi il corpo e lo mantieni in linea.",
+   "slide": 7
+  },
+  {
+   "text": "Nel side plank di base devi abbassare e rialzare i fianchi.",
+   "true": false,
+   "why": "La tenuta è statica: devi impedire ai fianchi di scendere.",
+   "slide": 7
+  },
+  {
+   "text": "Appoggiare le ginocchia nel side plank accorcia la leva e rende l’esercizio più facile.",
+   "true": true,
+   "why": "Con una leva più corta, il corpo deve sostenere meno peso.",
+   "slide": 8
+  },
+  {
+   "text": "Portare il braccio libero sotto il corpo e poi in alto è una regressione del side plank.",
+   "true": false,
+   "why": "È una progressione: il movimento mette alla prova stabilità ed equilibrio.",
+   "slide": 8
+  },
+  {
+   "text": "Nel side lying hold, far sporgere meno il busto dalla panca rende la tenuta più difficile.",
+   "true": false,
+   "why": "Se sporge meno busto, la leva si accorcia e il core lavora meno.",
+   "slide": 9
+  },
+  {
+   "text": "Nel side lying hold, un compagno può tenerti ferme le gambe.",
+   "true": true,
+   "why": "Il compagno è un’alternativa alle barre di sicurezza del rack.",
+   "slide": 9
+  },
+  {
+   "text": "Nel single-arm shoulder press il core contrasta l’inclinazione solo alla fine della spinta.",
+   "true": false,
+   "why": "Il core mantiene il busto stabile per tutta la ripetizione.",
+   "slide": 10
+  },
+  {
+   "text": "Il single-arm shoulder press va eseguito su entrambi i lati.",
+   "true": true,
+   "why": "Lavorare su entrambi i lati aiuta a mantenere uno sviluppo bilanciato.",
+   "slide": 10
+  },
+  {
+   "text": "Nello stacco con 15 kg su un lato e 10 kg sull’altro, il core contrasta la trazione del lato più pesante.",
+   "true": true,
+   "why": "La differenza di carico tende a portare il busto di lato.",
+   "slide": 11
+  },
+  {
+   "text": "Nello stacco a carico sbilanciato, allenare il core diventa l’obiettivo principale al posto della forza.",
+   "true": false,
+   "why": "Aumentare la forza resta l’obiettivo principale; il lavoro del core è uno stimolo in più.",
+   "slide": 11
+  }
+ ]
+}

@@ -18,6 +18,7 @@ export const POINTS: Record<XpKind, number> = {
   daily: 20,
   weekly: 60,
   exercise: 15,
+  game: 10,
 };
 
 export const LEVELS = [

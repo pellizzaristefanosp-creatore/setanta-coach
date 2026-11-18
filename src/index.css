@@ -358,3 +358,36 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 .view-switch { display: grid; grid-template-columns: 1fr 1fr; background: var(--surface-2); padding: 4px; border-radius: 14px; gap: 4px; }
 .view-switch button { border: 0; background: transparent; border-radius: 10px; min-height: 40px; font-weight: 700; color: var(--ink-2); font-size: 15px; }
 .view-switch button.on { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
+
+/* ——— Giochi per studiare ——— */
+.games-lessons { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+.games-lessons::-webkit-scrollbar { display: none; }
+.games-lessons .chip { flex-shrink: 0; font-variant-numeric: tabular-nums; }
+.game-card { display: flex; gap: 14px; align-items: flex-start; }
+.game-emoji { font-size: 34px; line-height: 1; width: 52px; height: 52px; display: grid; place-items: center; background: var(--surface-2); border-radius: 16px; flex-shrink: 0; }
+.order-list, .order-correct { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 6px; }
+.order-correct { list-style: decimal; padding-left: 22px; gap: 4px; }
+.order-slot { display: flex; align-items: center; gap: 10px; min-height: 48px; border: 1px dashed var(--line); border-radius: 12px; padding: 4px 8px; }
+.order-slot.filled { border-style: solid; background: var(--surface-2); }
+.order-slot.right { border-color: var(--field); background: var(--field-soft); }
+.order-slot.wrong { border-color: var(--alarm); background: var(--alarm-soft); }
+.order-n { width: 26px; height: 26px; border-radius: 999px; background: var(--surface); display: grid; place-items: center; font-weight: 800; font-size: 13px; flex-shrink: 0; font-variant-numeric: tabular-nums; }
+.order-step { border: 0; background: transparent; text-align: left; font: inherit; color: var(--ink); padding: 6px 0; flex: 1; min-height: 40px; }
+.order-empty { color: var(--ink-3); }
+.order-pool { display: flex; flex-wrap: wrap; gap: 8px; }
+.order-chip { text-align: left; border-radius: 14px; line-height: 1.3; }
+.who-clue { font-size: 17px; line-height: 1.4; padding-left: 12px; position: relative; }
+.who-clue::before { content: ""; position: absolute; left: 0; top: 0.55em; width: 6px; height: 6px; border-radius: 999px; background: var(--brand); }
+.who-clue.fresh { animation: pop-in 260ms ease-out; }
+.tf-clock { font-weight: 850; font-size: 22px; font-variant-numeric: tabular-nums; }
+.tf-clock.hot { color: var(--alarm); }
+.tf-card { min-height: 170px; display: flex; flex-direction: column; justify-content: center; gap: 10px; transition: background 160ms ease; }
+.tf-card.right { background: var(--field-soft); }
+.tf-card.wrong { background: var(--alarm-soft); }
+.tf-text { font-size: 21px; font-weight: 700; line-height: 1.35; }
+.tf-why { font-size: 15px; color: var(--ink-2); }
+.tf-buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.btn.tf-true { background: var(--field); color: #fff; }
+.btn.tf-false { background: var(--alarm); color: #fff; }
+@keyframes pop-in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .who-clue.fresh { animation: none; } .tf-card { transition: none; } }

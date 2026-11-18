@@ -1,0 +1,230 @@
+{
+ "code": "6.1",
+ "order": [
+  {
+   "title": "Tabella %1RM: dal carico più alto al più basso",
+   "steps": [
+    "100%: 1 ripetizione",
+    "95%: 2 ripetizioni",
+    "93%: 3 ripetizioni",
+    "90%: 4 ripetizioni",
+    "87%: 5 ripetizioni",
+    "85%: 6 ripetizioni",
+    "83%: 7 ripetizioni"
+   ],
+   "slide": 10
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Puoi stimarmi in modo grezzo con ore e minuti.",
+    "Per misurarmi meglio, guarda cosa hai scritto nella scheda.",
+    "Mi misuri contando serie e ripetizioni."
+   ],
+   "answer": "Volume",
+   "distractors": [
+    "Frequenza",
+    "Carico",
+    "Sforzo"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Posso restare uguale anche se vai in palestra più spesso.",
+    "Non conto tutte le sedute della settimana.",
+    "Per i quadricipiti, conto quante volte li alleni in una settimana."
+   ],
+   "answer": "Frequenza dei gruppi muscolari",
+   "distractors": [
+    "Frequenza delle sessioni",
+    "Volume",
+    "Full body"
+   ],
+   "slide": 8
+  },
+  {
+   "clues": [
+    "Posso dare lo stesso lavoro settimanale per muscolo di una split.",
+    "Distribuisco il lavoro in modo da fare meno per muscolo in ciascuna seduta.",
+    "In ogni seduta alleno molti gruppi muscolari."
+   ],
+   "answer": "Full body",
+   "distractors": [
+    "Split routine",
+    "Serie singola",
+    "Frequenza delle sessioni"
+   ],
+   "slide": 9
+  },
+  {
+   "clues": [
+    "Sono il riferimento di una tabella che stima le ripetizioni massime.",
+    "Se in panca valgo 100 kg, l'80% corrisponde a 80 kg.",
+    "Al 100% di me completi una sola ripetizione."
+   ],
+   "answer": "1RM",
+   "distractors": [
+    "Carico moderato",
+    "Cedimento muscolare",
+    "Sforzo"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "Puoi prescrivermi anche senza testare il massimale.",
+    "Se con quel peso completi 20 ripetizioni, non sei nella mia zona.",
+    "Con me completi da 6 a 12 ripetizioni a sforzo massimo."
+   ],
+   "answer": "Carico moderato",
+   "distractors": [
+    "Carico pesante",
+    "Carico leggero",
+    "1RM"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "I carichi pesanti ne producono poco perché la serie dura poco.",
+    "Le serie lunghe con pesi leggeri ne producono molto.",
+    "Nella lezione mi riconosci dal classico bruciore."
+   ],
+   "answer": "Stress metabolico",
+   "distractors": [
+    "Tensione meccanica",
+    "Sintesi proteica",
+    "Adattamenti neurali"
+   ],
+   "slide": 12
+  },
+  {
+   "clues": [
+    "Con un volume maggiore resto elevata più a lungo dopo la seduta.",
+    "Misurarmi nelle ore dopo l'allenamento non basta per dimostrare che il muscolo crescerà.",
+    "Sono il processo con cui il muscolo costruisce nuove proteine."
+   ],
+   "answer": "Sintesi proteica",
+   "distractors": [
+    "Stress metabolico",
+    "Tensione meccanica",
+    "Danno muscolare"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Con i pesi leggeri può essere più utile raggiungermi.",
+    "Per limitare la fatica, la lezione propone di raggiungermi solo in alcune serie.",
+    "Arrivo quando non riesci più a spostare il peso nella fase concentrica."
+   ],
+   "answer": "Cedimento muscolare",
+   "distractors": [
+    "Sforzo",
+    "Stress metabolico",
+    "Danno muscolare"
+   ],
+   "slide": 14
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Per programmare l'ipertrofia regoli volume, frequenza, carico e sforzo.",
+   "true": true,
+   "why": "Sono le quattro variabili presentate nella lezione.",
+   "slide": 3
+  },
+  {
+   "text": "Carico e sforzo indicano la stessa cosa.",
+   "true": false,
+   "why": "Il carico è il peso sollevato. Lo sforzo è l'energia fisica usata o percepita.",
+   "slide": 4
+  },
+  {
+   "text": "Aumentare il peso in una serie può ridurre le ripetizioni che l'atleta riesce a fare.",
+   "true": true,
+   "why": "Il carico condiziona quante ripetizioni puoi completare.",
+   "slide": 5
+  },
+  {
+   "text": "Misurare la sintesi proteica nelle ore dopo la seduta basta per dimostrare una maggiore crescita muscolare nel tempo.",
+   "true": false,
+   "why": "Per verificare la crescita reale servono studi a lungo termine.",
+   "slide": 6
+  },
+  {
+   "text": "Anche una serie singola può far crescere il muscolo, ma in genere meno delle serie multiple.",
+   "true": true,
+   "why": "Negli studi, le serie multiple hanno prodotto più ipertrofia.",
+   "slide": 7
+  },
+  {
+   "text": "Oltre il volume ottimale, aggiungere altre serie continua a migliorare la crescita.",
+   "true": false,
+   "why": "Oltre un punto critico, troppo volume può aumentare il danno muscolare e rallentare il recupero.",
+   "slide": 7
+  },
+  {
+   "text": "Nello studio sui bodybuilder, a parità di volume, allenarsi 4 o 6 giorni non ha prodotto differenze significative nella crescita muscolare.",
+   "true": true,
+   "why": "I due gruppi hanno distribuito lo stesso volume su un numero diverso di giorni.",
+   "slide": 8
+  },
+  {
+   "text": "Se aggiungi una seduta e aumenti il volume settimanale, puoi attribuire l'eventuale crescita in più alla sola frequenza.",
+   "true": false,
+   "why": "Hai cambiato due variabili. Per isolare la frequenza devi mantenere uguale il volume.",
+   "slide": 8
+  },
+  {
+   "text": "Una split routine e un programma full body possono avere lo stesso volume settimanale per muscolo.",
+   "true": true,
+   "why": "Il full body può distribuire su più sedute lo stesso lavoro totale.",
+   "slide": 9
+  },
+  {
+   "text": "La tabella %1RM indica che all'80% puoi fare circa 12 ripetizioni a sforzo massimo.",
+   "true": false,
+   "why": "La tabella stima circa 8 ripetizioni all'80% dell'1RM.",
+   "slide": 10
+  },
+  {
+   "text": "La tabella %1RM stima le ripetizioni massime, ma il numero può cambiare da una persona o da un esercizio all'altro.",
+   "true": true,
+   "why": "È una guida, non una regola fissa.",
+   "slide": 10
+  },
+  {
+   "text": "Un peso con cui riesci a fare 5 ripetizioni a sforzo massimo è un carico moderato.",
+   "true": false,
+   "why": "Da 1 a 5 ripetizioni massime il carico è pesante. Quello moderato va da 6 a 12.",
+   "slide": 11
+  },
+  {
+   "text": "I carichi moderati combinano una buona tensione meccanica con un alto stress metabolico.",
+   "true": true,
+   "why": "Il peso crea tensione e la serie dura abbastanza da produrre stress metabolico.",
+   "slide": 12
+  },
+  {
+   "text": "Per ottenere ipertrofia devi restare sempre tra 6 e 12 ripetizioni massime.",
+   "true": false,
+   "why": "La lezione indica che la crescita è possibile anche fuori dalla zona moderata, tra 1 e 20 ripetizioni massime.",
+   "slide": 13
+  },
+  {
+   "text": "Fare 5 ripetizioni con un peso che ne permette al massimo 10 ti lascia lontano dal cedimento.",
+   "true": true,
+   "why": "Ti fermi ben prima del limite della serie.",
+   "slide": 14
+  },
+  {
+   "text": "Per stimolare l'ipertrofia devi portare tutte le serie al cedimento.",
+   "true": false,
+   "why": "Puoi fermare le serie vicino al limite e riservare il cedimento ad alcune, perché richiede più recupero.",
+   "slide": 14
+  }
+ ]
+}

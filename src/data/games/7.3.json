@@ -1,0 +1,224 @@
+{
+ "code": "7.3",
+ "order": [
+  {
+   "title": "Esecuzione dello snatch balance",
+   "steps": [
+    "Parti in piedi con il bilanciere sulla schiena",
+    "Fletti leggermente le ginocchia",
+    "Spingi subito verso l’alto",
+    "Scendi velocemente sotto il bilanciere",
+    "Incastra il bilanciere in overhead squat"
+   ],
+   "slide": 9
+  },
+  {
+   "title": "Dalla partenza all’incastro nel power snatch",
+   "steps": [
+    "Parti con le spalle davanti al bilanciere",
+    "Porta il bilanciere oltre il ginocchio",
+    "Tira in modo aggressivo cercando la tripla estensione",
+    "Incastra il bilanciere a circa un quarto di squat"
+   ],
+   "slide": 11
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Rinforzo schiena alta, glutei e femorali.",
+    "Ho una doppia flessione del ginocchio meno marcata rispetto all’alzata completa.",
+    "Parto da terra con le mani larghe e non ho una fase esplosiva finale."
+   ],
+   "answer": "Stacco presa strappo",
+   "distractors": [
+    "Snatch pull",
+    "Power snatch",
+    "Hang snatch"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Alleno la rapidità con cui produci forza.",
+    "Mi concentro sulla seconda tirata.",
+    "Finisco con una scrollata decisa delle spalle, senza portare il bilanciere sopra la testa."
+   ],
+   "answer": "Snatch pull",
+   "distractors": [
+    "Stacco presa strappo",
+    "Snatch balance",
+    "Power snatch"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Aiuto chi ha paura di passare sotto il bilanciere a prendere fiducia.",
+    "Alleno il turnover e la coordinazione dei piedi.",
+    "Parto con il bilanciere sulla schiena: dopo un dip and drive, lo incastro in overhead squat."
+   ],
+   "answer": "Snatch balance",
+   "distractors": [
+    "Power snatch",
+    "Hang snatch",
+    "Snatch pull"
+   ],
+   "slide": 9
+  },
+  {
+   "clues": [
+    "Aiuto i pesisti a mantenere alta la velocità del bilanciere.",
+    "Parto da terra come nello strappo completo.",
+    "A differenza dello strappo completo, incastro il bilanciere a circa un quarto di squat."
+   ],
+   "answer": "Power snatch",
+   "distractors": [
+    "Hang power snatch",
+    "Hang snatch",
+    "Snatch balance"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "Permetto di concentrarsi sulla rapidità con cui si produce forza.",
+    "Sono utile a chi fatica a partire da terra.",
+    "Nella versione della lezione parto appena sopra il ginocchio e incastro in squat profondo."
+   ],
+   "answer": "Hang snatch",
+   "distractors": [
+    "Hang power snatch",
+    "Power snatch",
+    "Snatch balance"
+   ],
+   "slide": 13
+  },
+  {
+   "clues": [
+    "Sono utile a chi fatica a raggiungere lo squat profondo.",
+    "Nella versione della lezione parto appena sopra il ginocchio.",
+    "Parto con il bilanciere già sollevato e lo incastro a circa un quarto di squat."
+   ],
+   "answer": "Hang power snatch",
+   "distractors": [
+    "Hang snatch",
+    "Power snatch",
+    "Snatch pull"
+   ],
+   "slide": 13
+  },
+  {
+   "clues": [
+    "Se non mi completi, possono comparire problemi nel resto dell’alzata.",
+    "Nello snatch pull puoi allenarmi con carichi più leggeri per curare la tecnica.",
+    "Mi completi quando caviglie, ginocchia e anche si distendono del tutto."
+   ],
+   "answer": "Tripla estensione",
+   "distractors": [
+    "Doppia flessione del ginocchio",
+    "Turnover",
+    "Dip and drive"
+   ],
+   "slide": 8
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Per un pesista, le varianti possono rinforzare singole fasi dello strappo completo.",
+   "true": true,
+   "why": "Il pesista può lavorare separatamente sulla partenza o sull’incastro.",
+   "slide": 4
+  },
+  {
+   "text": "Nello stacco con presa da strappo, la doppia flessione del ginocchio è più marcata che nello strappo completo.",
+   "true": false,
+   "why": "Nello stacco la doppia flessione del ginocchio è meno marcata.",
+   "slide": 5
+  },
+  {
+   "text": "Se la bassa schiena si arrotonda in partenza per la scarsa mobilità delle anche, puoi rialzare il bilanciere.",
+   "true": true,
+   "why": "Partendo da più in alto, l’atleta scende meno e tiene meglio la schiena in posizione.",
+   "slide": 6
+  },
+  {
+   "text": "Con carichi alti, nello stacco con presa da strappo conviene sollevare il bilanciere di colpo e creare tensione dopo.",
+   "true": false,
+   "why": "La tensione si crea nella posizione bassa, prima di muovere il bilanciere.",
+   "slide": 6
+  },
+  {
+   "text": "La tirata alta è utile per chi fatica a raggiungere la posizione di overhead squat.",
+   "true": true,
+   "why": "Permette di allenare la tirata senza dover incastrare il bilanciere in overhead squat.",
+   "slide": 7
+  },
+  {
+   "text": "Nello snatch pull, inclinarsi molto all’indietro aiuta a tenere il bilanciere vicino al corpo.",
+   "true": false,
+   "why": "Inclinarsi troppo all’indietro fa allontanare l’atleta dal bilanciere.",
+   "slide": 8
+  },
+  {
+   "text": "Nello snatch pull, un bastone davanti all’atleta può fare da guida per la traiettoria del bilanciere.",
+   "true": true,
+   "why": "L’atleta tiene il bilanciere vicino al corpo senza toccare il bastone.",
+   "slide": 8
+  },
+  {
+   "text": "Nello snatch balance si spinge il bilanciere sopra la testa con le braccia e solo dopo si scende in squat.",
+   "true": false,
+   "why": "Si spinge contro il bilanciere mentre si scende sotto di esso, non prima di scendere.",
+   "slide": 10
+  },
+  {
+   "text": "Nello snatch balance, la spinta contro il bilanciere va sincronizzata con l’atterraggio dei piedi.",
+   "true": true,
+   "why": "Questa sincronia riproduce la sequenza del turnover e dell’incastro dello strappo.",
+   "slide": 10
+  },
+  {
+   "text": "Nel power snatch, prendere il bilanciere in squat profondo è la tecnica corretta.",
+   "true": false,
+   "why": "Nel power snatch l’incastro è alto, a circa un quarto di squat.",
+   "slide": 11
+  },
+  {
+   "text": "Se nel power snatch l’atleta incastra troppo in basso perché il carico è troppo pesante, conviene ridurre il peso.",
+   "true": true,
+   "why": "Con meno peso può puntare a un incastro più alto.",
+   "slide": 12
+  },
+  {
+   "text": "Nel power snatch, spingere il bilanciere in avanti facilita l’incastro.",
+   "true": false,
+   "why": "Un bilanciere che va in avanti è più difficile da incastrare e controllare.",
+   "slide": 12
+  },
+  {
+   "text": "Nelle varianti hang, il bilanciere può partire anche da sotto il ginocchio.",
+   "true": true,
+   "why": "L’altezza di partenza si può cambiare. La lezione si concentra sulla partenza sopra il ginocchio.",
+   "slide": 13
+  },
+  {
+   "text": "Nelle varianti hang, tenere le gambe rigide e piegarsi molto in avanti facilita la tripla estensione.",
+   "true": false,
+   "why": "Le gambe rigide e il busto troppo inclinato ostacolano la tripla estensione.",
+   "slide": 14
+  },
+  {
+   "text": "Le varianti possono essere utili quando c’è poco tempo per imparare lo strappo completo.",
+   "true": true,
+   "why": "Permettono di allenare qualità come la potenza senza dover imparare subito tutto il gesto.",
+   "slide": 15
+  },
+  {
+   "text": "Per tutti i calciatori va scelta la stessa variante dello strappo.",
+   "true": false,
+   "why": "La scelta dipende dall’atleta, dai suoi obiettivi e dalle richieste dello sport.",
+   "slide": 15
+  }
+ ]
+}

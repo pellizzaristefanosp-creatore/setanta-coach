@@ -317,6 +317,13 @@ export function markExercise(id: string) {
   pushToast(`Esercizio · +${POINTS.exercise}`);
 }
 
+/** Fine di un gioco per studiare: punti se almeno il 70% è giusto. */
+export function finishGame(game: "order" | "who" | "tf", right: number, total: number) {
+  if (total === 0 || right / total < 0.7) return;
+  setState((s) => award(s, "game"));
+  pushToast(`${game === "order" ? "Metti in ordine" : game === "who" ? "Chi sono?" : "Vero o falso"} · +${POINTS.game}`);
+}
+
 /** Salva una lezione importata (validata) e costruisce il suo percorso. */
 export function importLesson(data: unknown): { ok: true; lesson: LessonPack } | { ok: false; error: string } {
   const r = LessonPackSchema.safeParse(data);

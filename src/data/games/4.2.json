@@ -1,0 +1,225 @@
+{
+ "code": "4.2",
+ "order": [
+  {
+   "title": "Metti in ordine le sei tappe della lezione",
+   "steps": [
+    "Hip hinge",
+    "Romanian deadlift",
+    "Face pulls",
+    "Single-arm row",
+    "Tenuta statica",
+    "Punti chiave per il programma"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Dalla preparazione alla tirata nel single-arm row",
+   "steps": [
+    "Fissa l’elastico più in basso rispetto ai face pulls",
+    "Cammina all’indietro per mettere in tensione l’elastico",
+    "Assumi la posizione atletica",
+    "Tira con un braccio"
+   ],
+   "slide": 8
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Puoi inserirlo nel riscaldamento prima della parte principale.",
+    "Puoi impararlo con un bastone a tre punti di contatto.",
+    "Con le ginocchia leggermente piegate, porti le anche indietro."
+   ],
+   "answer": "Hip hinge",
+   "distractors": [
+    "Romanian deadlift",
+    "Single-arm row",
+    "Tenuta statica"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Lo trovi spesso nelle schede per la parte bassa del corpo.",
+    "Allena glutei e ischiocrurali mentre la schiena resiste alla flessione.",
+    "Esegui la cerniera dell’anca con un bilanciere in mano."
+   ],
+   "answer": "Romanian deadlift",
+   "distractors": [
+    "Hip hinge con bastone",
+    "Face pulls",
+    "Single-arm row"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Fa lavorare il core mentre alleni i retrattori delle scapole.",
+    "Puoi usare un cavo o un elastico e resistere alla trazione in avanti.",
+    "Tiri verso il viso mantenendo la schiena neutra."
+   ],
+   "answer": "Face pulls",
+   "distractors": [
+    "Single-arm row",
+    "Bent-over row",
+    "Romanian deadlift"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Sviluppa anche i retrattori delle scapole.",
+    "Parti in posizione atletica, con anche e ginocchia leggermente piegate.",
+    "Tiri con un solo braccio e resisti alla rotazione del busto."
+   ],
+   "answer": "Single-arm row",
+   "distractors": [
+    "Face pulls",
+    "Bent-over row",
+    "Romanian deadlift"
+   ],
+   "slide": 8
+  },
+  {
+   "clues": [
+    "Fa lavorare direttamente gli estensori della schiena.",
+    "Anche fianchi e glutei aiutano a mantenere la posizione.",
+    "Resti fermo con il busto oltre il bordo della panca."
+   ],
+   "answer": "Tenuta statica",
+   "distractors": [
+    "Hip hinge",
+    "Romanian deadlift",
+    "Plank"
+   ],
+   "slide": 9
+  },
+  {
+   "clues": [
+    "Fanno parte della zona centrale del tronco.",
+    "Lavorano anche quando mantieni la posizione nel bent-over row.",
+    "Sono i principali muscoli posteriori che si oppongono alla flessione della colonna."
+   ],
+   "answer": "Erettori spinali",
+   "distractors": [
+    "Retto dell’addome",
+    "Obliqui",
+    "Trasverso dell’addome"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Puoi allenarla anche senza sceglierla come obiettivo principale.",
+    "Nel Romanian deadlift la alleni mentre muovi le anche.",
+    "Il tuo compito è impedire alla colonna di piegarsi in avanti."
+   ],
+   "answer": "Anti-flessione",
+   "distractors": [
+    "Anti-rotazione",
+    "Hip hinge",
+    "Tenuta statica"
+   ],
+   "slide": 11
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Il core comprende anche la parte posteriore del tronco.",
+   "true": true,
+   "why": "Il core è tutta la zona centrale del tronco, non solo gli addominali.",
+   "slide": 4
+  },
+  {
+   "text": "Nel bent-over row l’anti-flessione non lavora perché l’esercizio è una tirata.",
+   "true": false,
+   "why": "Mentre tiri, i muscoli della schiena resistono al peso che ti tira verso il basso.",
+   "slide": 4
+  },
+  {
+   "text": "Nel hip hinge le anche vanno indietro e le ginocchia restano leggermente piegate.",
+   "true": true,
+   "why": "Sono due punti chiave della cerniera, insieme alla colonna neutra.",
+   "slide": 5
+  },
+  {
+   "text": "Durante l’hip hinge con il bastone, la testa deve staccarsi dal bastone.",
+   "true": false,
+   "why": "La testa è uno dei tre punti di contatto, insieme al coccige e alla zona tra le scapole.",
+   "slide": 5
+  },
+  {
+   "text": "Il Romanian deadlift allena glutei e ischiocrurali e dà anche uno stimolo indiretto di anti-flessione.",
+   "true": true,
+   "why": "Le anche si muovono mentre gli estensori della schiena resistono alla flessione.",
+   "slide": 6
+  },
+  {
+   "text": "Nella discesa del Romanian deadlift devi lasciare che la schiena si arrotondi.",
+   "true": false,
+   "why": "Durante la discesa mantieni la colonna neutra mentre le anche vanno indietro.",
+   "slide": 6
+  },
+  {
+   "text": "Nei face pulls con elastico puoi cambiare il carico cambiando la distanza dal fissaggio.",
+   "true": true,
+   "why": "La distanza cambia quanto si allunga l’elastico.",
+   "slide": 7
+  },
+  {
+   "text": "Nei face pulls devi lasciare che l’elastico ti porti in avanti mentre tiri.",
+   "true": false,
+   "why": "Devi resistere alla trazione in avanti e mantenere la schiena neutra.",
+   "slide": 7
+  },
+  {
+   "text": "Nel single-arm row il braccio singolo aggiunge una forza che cerca di ruotare il busto.",
+   "true": true,
+   "why": "Per questo l’esercizio allena anche l’anti-rotazione.",
+   "slide": 8
+  },
+  {
+   "text": "Per il single-arm row l’elastico si fissa più in alto che per i face pulls.",
+   "true": false,
+   "why": "L’elastico va fissato un po’ più in basso.",
+   "slide": 8
+  },
+  {
+   "text": "Nella tenuta statica sulla panca anche fianchi e glutei contribuiscono a mantenere la posizione.",
+   "true": true,
+   "why": "Non lavora solo la schiena: partecipano anche fianchi e glutei.",
+   "slide": 9
+  },
+  {
+   "text": "Nella tenuta statica puoi rilassare la schiena una volta raggiunta la posizione.",
+   "true": false,
+   "why": "Se rilassi la schiena, la colonna va in flessione. Gli estensori devono restare attivi.",
+   "slide": 9
+  },
+  {
+   "text": "Squat e deadlift fanno lavorare molto gli erettori spinali.",
+   "true": true,
+   "why": "In entrambi gli esercizi la muscolatura anti-flessione è molto attiva.",
+   "slide": 10
+  },
+  {
+   "text": "Squat e deadlift pesanti danno sempre uno stimolo sufficiente al retto dell’addome e agli obliqui.",
+   "true": false,
+   "why": "Retto dell’addome e obliqui possono ricevere meno stimolo degli erettori spinali.",
+   "slide": 10
+  },
+  {
+   "text": "La scelta di aggiungere esercizi mirati per il core dipende dagli obiettivi e dai bisogni dell’atleta.",
+   "true": true,
+   "why": "I fondamentali allenano alcuni muscoli del core, ma non sempre bastano per tutti.",
+   "slide": 10
+  },
+  {
+   "text": "La tenuta statica e il Romanian deadlift allenano entrambi gli estensori della schiena solo in modo indiretto.",
+   "true": false,
+   "why": "Nella tenuta il lavoro sugli estensori è diretto. Nel Romanian deadlift è indiretto.",
+   "slide": 9
+  }
+ ]
+}

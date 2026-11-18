@@ -1,0 +1,240 @@
+{
+ "code": "4.1",
+ "order": [
+  {
+   "title": "Come si esegue il Waiters Bow",
+   "steps": [
+    "Parti in piedi con la colonna neutra",
+    "Piega leggermente le ginocchia",
+    "Inclinati dalle anche mantenendo la colonna neutra",
+    "Torna in piedi",
+    "Ripeti il movimento"
+   ],
+   "slide": 10
+  },
+  {
+   "title": "Come si esegue la Supine Hip Flexion",
+   "steps": [
+    "Sdraiati a pancia in su",
+    "Piega le ginocchia e appoggia i piedi",
+    "Porta un’anca a 90 gradi",
+    "Distendi la gamba fino a renderla parallela al pavimento",
+    "Torna alla posizione di partenza",
+    "Ripeti il movimento"
+   ],
+   "slide": 11
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Sono uno schema motorio alla base dello stacco da terra.",
+    "Come test a basso carico, posso essere ripetuto fino a 30 volte.",
+    "Parti in piedi e ti inclini in avanti piegandoti dalle anche."
+   ],
+   "answer": "Waiters Bow",
+   "distractors": [
+    "Supine Hip Flexion",
+    "Dead bug",
+    "Plank"
+   ],
+   "slide": 10
+  },
+  {
+   "clues": [
+    "Durante il test si osserva se trattieni il respiro.",
+    "Un altro errore è inarcare troppo la zona lombare mentre distendi la gamba.",
+    "Parti a pancia in su con i piedi a terra e porti un’anca a 90 gradi."
+   ],
+   "answer": "Supine Hip Flexion",
+   "distractors": [
+    "Waiters Bow",
+    "Plank",
+    "Affondo"
+   ],
+   "slide": 11
+  },
+  {
+   "clues": [
+    "Produco poca forza di stabilizzazione.",
+    "Do molte informazioni sulla postura.",
+    "Sono l’esempio di stabilizzatore locale vicino alla colonna."
+   ],
+   "answer": "Trasverso dell’addome",
+   "distractors": [
+    "Obliquo esterno",
+    "Grande gluteo",
+    "Retto dell’addome"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Appartengo a uno strato formato da muscoli più grandi di quelli locali.",
+    "Produco forza per contrastare i movimenti indesiderati del busto.",
+    "Sono l’esempio di stabilizzatore globale citato nella lezione."
+   ],
+   "answer": "Obliquo esterno",
+   "distractors": [
+    "Trasverso dell’addome",
+    "Grande gluteo",
+    "Obliquo interno"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Il mio strato comprende muscoli che attraversano più segmenti.",
+    "Il mio compito è creare movimento articolare.",
+    "Sono l’esempio di motore globale citato nella lezione."
+   ],
+   "answer": "Grande gluteo",
+   "distractors": [
+    "Medio gluteo",
+    "Obliquo esterno",
+    "Trasverso dell’addome"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Nel mio test, il cronometro da solo non basta.",
+    "Un errore tipico è lasciare che il bacino scenda o salga troppo.",
+    "In posizione di push-up, tieni il corpo in linea retta il più a lungo possibile."
+   ],
+   "answer": "Plank",
+   "distractors": [
+    "Squat",
+    "Stacco da terra",
+    "Waiters Bow"
+   ],
+   "slide": 12
+  },
+  {
+   "clues": [
+    "Puoi modificarmi per creare una progressione senza cambiare il carico.",
+    "In posizione di push-up, dipendo dai quattro punti di contatto con il suolo.",
+    "Se avvicini mani e piedi, mi restringi e il plank diventa più difficile."
+   ],
+   "answer": "Base di appoggio",
+   "distractors": [
+    "Leva",
+    "Complessità",
+    "Volume"
+   ],
+   "slide": 14
+  },
+  {
+   "clues": [
+    "Sono una delle quattro categorie di allenamento del core.",
+    "Entro in gioco se ti tirano la maglia mentre corri e il busto tende a girarsi.",
+    "Mi oppongo a una forza che cerca di far girare il tronco."
+   ],
+   "answer": "Anti-rotazione",
+   "distractors": [
+    "Anti-flessione",
+    "Anti-estensione",
+    "Anti-flessione laterale"
+   ],
+   "slide": 17
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Colonna lombare e bacino sono al centro della definizione classica del core.",
+   "true": true,
+   "why": "La definizione classica parte da queste due zone, ma non esaurisce il concetto di core.",
+   "slide": 4
+  },
+  {
+   "text": "Nel modello di Joyce e Lewindon, il cilindro si ferma alla zona lombare e al bacino.",
+   "true": false,
+   "why": "Gli autori propongono di estenderlo fino alle scapole e alla colonna toracica.",
+   "slide": 5
+  },
+  {
+   "text": "Vertebre e articolazioni sono elementi passivi del core.",
+   "true": true,
+   "why": "Sono elementi passivi e da soli non bastano a dare stabilità.",
+   "slide": 6
+  },
+  {
+   "text": "Per stabilizzare la colonna durante uno sforzo leggero, conviene contrarre al massimo i muscoli del core.",
+   "true": false,
+   "why": "La tensione va dosata. Contrarsi al massimo per uno sforzo leggero spreca energia.",
+   "slide": 7
+  },
+  {
+   "text": "Un core stabile aiuta a trasmettere la forza tra la parte alta e quella bassa del corpo.",
+   "true": true,
+   "why": "La trasmissione della forza è una delle due funzioni principali del core, insieme alla stabilità della colonna.",
+   "slide": 7
+  },
+  {
+   "text": "Un solo test basta per valutare tutte le forme di stabilità del core.",
+   "true": false,
+   "why": "Servono prove diverse per carico, piano di movimento e tipo di compito.",
+   "slide": 8
+  },
+  {
+   "text": "Le tenute isometriche aiutano a valutare la resistenza del core.",
+   "true": true,
+   "why": "Mostrano se l’atleta mantiene la posizione nel tempo.",
+   "slide": 8
+  },
+  {
+   "text": "Nei test a basso carico, il punteggio dipende solo dal numero totale di ripetizioni.",
+   "true": false,
+   "why": "Non c’è un vero punteggio: si osserva quando e come peggiora la tecnica.",
+   "slide": 9
+  },
+  {
+   "text": "Nei test a basso carico a corpo libero, 30 ripetizioni sono un buon obiettivo.",
+   "true": true,
+   "why": "Una serie così lunga mette alla prova la resistenza dei muscoli del core.",
+   "slide": 9
+  },
+  {
+   "text": "Nel Waiters Bow l’atleta si inclina in avanti arrotondando la schiena.",
+   "true": false,
+   "why": "L’inclinazione parte dalle anche e la colonna resta neutra.",
+   "slide": 10
+  },
+  {
+   "text": "Nella Supine Hip Flexion si osservano sia il respiro sia la curva lombare.",
+   "true": true,
+   "why": "I due errori da cercare sono trattenere il fiato e inarcare troppo la zona lombare.",
+   "slide": 11
+  },
+  {
+   "text": "Per valutare il plank basta misurare quanto dura la tenuta.",
+   "true": false,
+   "why": "Conta anche quando compaiono gli errori e quali sono, per esempio se il bacino scende o sale troppo.",
+   "slide": 12
+  },
+  {
+   "text": "Uno squat con carico elevato può servire per valutare il controllo del core.",
+   "true": true,
+   "why": "Il carico mette alla prova la capacità di controllare la colonna durante il movimento.",
+   "slide": 12
+  },
+  {
+   "text": "Nel plank, allargare mani e piedi rende l’esercizio più difficile.",
+   "true": false,
+   "why": "Allargare mani e piedi aumenta la base di appoggio e rende l’esercizio più facile.",
+   "slide": 14
+  },
+  {
+   "text": "Nel dead bug, tenere ferme le braccia e muovere solo le gambe riduce la complessità.",
+   "true": true,
+   "why": "La variante coinvolge meno articolazioni.",
+   "slide": 15
+  },
+  {
+   "text": "Fare il push-up sulle ginocchia allunga la leva rispetto alla versione con le gambe distese.",
+   "true": false,
+   "why": "L’appoggio sulle ginocchia accorcia la leva e rende il push-up più facile.",
+   "slide": 16
+  }
+ ]
+}
