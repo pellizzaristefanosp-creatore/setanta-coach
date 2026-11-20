@@ -3,6 +3,7 @@ import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
 import { Cartoon } from "../Cartoon";
 import { audioFor, lineAt, type AudioLine, type AudioPart } from "../lib/audio";
 import { pickTurn, turnsFor, type Turn } from "../lib/turns";
+import { lessonVideo } from "../data/lessonVideos";
 import { afterPart as practiceAfterPart, finalRound, type PracticeQuestion } from "../lib/practice";
 import { nextAction } from "../lib/coach";
 import { addDays, daysBetween, shortDate, today, weekStart, weekday } from "../lib/dates";
@@ -962,6 +963,9 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   const cur = lineAt(audio.lines, t);
   const progress = audio.duration > 0 ? Math.min(1, t / audio.duration) : 0;
   const shown = ended ? part.keyPoints.length : Math.max(1, Math.ceil(progress * part.keyPoints.length));
+  // video animato della lezione: parte con la voce e poi lascia il posto al cartone
+  const video = lessonVideo(p.code, index);
+  const [videoOn, setVideoOn] = useState(!!video);
   // "Tocca a te": a caso, una domanda del dialogo la fa rispondere a te prima della risposta vera
   const [turn] = useState(() => pickTurn(turnsFor(p.code, index), audio.lines, Math.random()));
   const [turnState, setTurnState] = useState<"attesa" | "domanda" | "fatto">("attesa");
@@ -1042,7 +1046,17 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
 
       {view === "cartoon" ? (
         <>
-          <Cartoon audioRef={el} audio={audio} keyPoints={part.keyPoints} analogy={part.analogy} title={part.title} />
+          {video && videoOn ? (
+            <figure className="lesson-video">
+              <video src={video.src} poster={video.poster} autoPlay playsInline onEnded={() => setVideoOn(false)} onError={() => setVideoOn(false)} />
+              <figcaption>
+                <span className="small">{video.caption}</span>
+                <button className="btn sm ghost" onClick={() => setVideoOn(false)}>Cartone</button>
+              </figcaption>
+            </figure>
+          ) : (
+            <Cartoon audioRef={el} audio={audio} keyPoints={part.keyPoints} analogy={part.analogy} title={part.title} />
+          )}
           <p className="step-title" style={{ fontSize: 20 }}>{part.title}</p>
           <ParagoneButton presentationId={p.id} concept={part.title} context={part.narration} />
         </>

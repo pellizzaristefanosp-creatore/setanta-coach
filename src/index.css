@@ -412,3 +412,6 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 .tutor-x { color: var(--alarm); font-weight: 800; margin-right: 4px; }
 .tutor-ok { color: var(--field); font-weight: 800; margin-right: 4px; }
 .tutor-corrected { background: var(--field-soft); border-radius: 12px; padding: 10px 12px; line-height: 1.45; }
+.lesson-video { margin: 0; border-radius: 20px; overflow: hidden; background: #14100c; position: relative; }
+.lesson-video video { display: block; width: 100%; max-height: 58vh; aspect-ratio: 2 / 3; object-fit: cover; }
+.lesson-video figcaption { display: flex; align-items: center; gap: 10px; justify-content: space-between; padding: 10px 12px; background: var(--surface); }
