@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
 import { Cartoon } from "../Cartoon";
-import { audioFor, lineAt, type AudioPart } from "../lib/audio";
+import { audioFor, lineAt, type AudioLine, type AudioPart } from "../lib/audio";
+import { pickTurn, turnsFor, type Turn } from "../lib/turns";
 import { nextAction } from "../lib/coach";
 import { addDays, daysBetween, shortDate, today, weekStart, weekday } from "../lib/dates";
 import { MINUTES_PER_PART, buildSchedule, formatMinutes, minutesOf } from "../lib/schedule";
@@ -65,7 +66,7 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
         afterPart(p.id, index);
       };
       const audio = lesson ? audioFor(lesson.code, index) : undefined;
-      if (lesson?.parts[index] && audio) return <AudioLessonSession p={p} lesson={lesson} index={index} audio={audio} onDone={onDone} />;
+      if (lesson?.parts[index] && audio) return <AudioLessonSession key={`${p.code}-${index}`} p={p} lesson={lesson} index={index} audio={audio} onDone={onDone} />;
       return lesson?.parts[index] ? <LessonSession p={p} lesson={lesson} index={index} onDone={onDone} /> : <TimerSession p={p} onDone={onDone} />;
     }
   }
@@ -723,6 +724,23 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   const cur = lineAt(audio.lines, t);
   const progress = audio.duration > 0 ? Math.min(1, t / audio.duration) : 0;
   const shown = ended ? part.keyPoints.length : Math.max(1, Math.ceil(progress * part.keyPoints.length));
+  // "Tocca a te": a caso, una domanda del dialogo la fa rispondere a te prima della risposta vera
+  const [turn] = useState(() => pickTurn(turnsFor(p.code, index), audio.lines, Math.random()));
+  const [turnState, setTurnState] = useState<"attesa" | "domanda" | "fatto">("attesa");
+
+  useEffect(() => {
+    if (!turn || turnState !== "attesa" || !playing) return;
+    const id = window.setInterval(() => {
+      const a = el.current;
+      if (!a || document.visibilityState !== "visible") return; // a schermo spento l'ascolto non si interrompe
+      if (a.currentTime >= turn.at && a.currentTime < turn.at + 2) {
+        a.pause();
+        navigator.vibrate?.(30);
+        setTurnState("domanda");
+      } else if (a.currentTime >= turn.at + 2) setTurnState("fatto"); // superata (es. salto in avanti)
+    }, 50);
+    return () => window.clearInterval(id);
+  }, [turn, turnState, playing]);
 
   useEffect(() => {
     const a = el.current;
@@ -838,6 +856,84 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         <Icon.check /> Fatto
       </button>
       {card && <CardSheet presentationId={p.id} onClose={() => setCard(false)} />}
+      {turn && turnState === "domanda" && (
+        <TurnSheet
+          code={p.code}
+          turn={turn.turn}
+          asker={audio.lines[turn.turn.line]!}
+          onDone={() => {
+            setTurnState("fatto");
+            void el.current?.play();
+          }}
+        />
+      )}
     </div>
+  );
+}
+
+/** Frasi di Marco dopo la tua risposta (file in public/audio/turni). */
+const MARCO_SAYS = {
+  giusto: ["Esatto. Hai ragionato da preparatore.", "Bravo! Proprio così.", "Giusto. Luca, prendi appunti.", "Perfetto: è il ragionamento giusto."],
+  sbagliato: ["Quasi. Ragioniamoci un attimo insieme.", "Ci sei vicino. Guarda bene qui.", "Tranquillo, è l'errore più comune. Vediamo perché.", "Non proprio. Ma ci arriviamo in un attimo."],
+} as const;
+
+/** "Tocca a te": rispondi tu al posto di chi risponde nel dialogo, Marco ti corregge, poi senti la risposta vera. */
+function TurnSheet({ code, turn, asker, onDone }: { code: string; turn: Turn; asker: AudioLine; onDone: () => void }) {
+  const [chosen, setChosen] = useState<number | null>(null);
+  const [say, setSay] = useState(0);
+  const voice = useRef<HTMLAudioElement | null>(null);
+  const right = chosen === turn.answer;
+  useEffect(() => () => voice.current?.pause(), []);
+  const finish = () => {
+    voice.current?.pause();
+    onDone();
+  };
+  return (
+    <Sheet label="Tocca a te" onClose={finish}>
+      <span className="tag">🎯 Tocca a te</span>
+      <p className="tiny">{asker.who === "M" ? "Marco ti chiede:" : "Luca chiede. Rispondi tu, prima di Marco:"}</p>
+      <h2 className="step-title" style={{ fontSize: 21 }}>{turn.question}</h2>
+      <div className="stack" style={{ gap: 8 }}>
+        {turn.options.map((o, k) => {
+          const cls = chosen == null ? "" : k === turn.answer ? "right" : k === chosen ? "wrong" : "";
+          return (
+            <button
+              key={k}
+              className={`btn option ${cls}`}
+              disabled={chosen != null}
+              onClick={() => {
+                setChosen(k);
+                recordAnswer(`T-${code}-${turn.part}-${turn.line}`, k === turn.answer, "check");
+                if (k !== turn.answer) navigator.vibrate?.(80);
+                // Marco risponde a voce: complimenti o correzione gentile
+                const n = Math.floor(Math.random() * 4);
+                setSay(n);
+                voice.current = new Audio(`/audio/turni/${k === turn.answer ? "giusto" : "sbagliato"}-${n + 1}.mp3`);
+                void voice.current.play().catch(() => {});
+              }}
+            >
+              <span className="letter">{"ABCD"[k]}</span>
+              <span>{o}</span>
+            </button>
+          );
+        })}
+      </div>
+      {chosen != null && (
+        <div className="card soft stack fade-in" style={{ gap: 8 }}>
+          <p style={{ fontWeight: 750, color: right ? "var(--field)" : "var(--alarm)" }}>
+            <span className="turn-who">Marco</span> {MARCO_SAYS[right ? "giusto" : "sbagliato"][say]}
+          </p>
+          <p className="small muted">{turn.why}</p>
+          <button className="btn primary block" onClick={finish}>
+            <Icon.play /> Senti la risposta di {asker.who === "M" ? "Luca" : "Marco"}
+          </button>
+        </div>
+      )}
+      {chosen == null && (
+        <button className="btn ghost sm" onClick={finish}>
+          Salta questa domanda
+        </button>
+      )}
+    </Sheet>
   );
 }

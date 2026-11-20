@@ -1,0 +1,434 @@
+{
+ "code": "7.1",
+ "turns": [
+  {
+   "part": 0,
+   "line": 4,
+   "question": "Oltre ai possibili benefici in campo, cosa valuta la lezione per decidere se usare le alzate olimpiche?",
+   "options": [
+    "Se l’atleta è fisicamente pronto a eseguirle.",
+    "Se l’atleta ha le proporzioni tipiche di un pesista.",
+    "Se l’atleta ha già aumentato il proprio carico massimale.",
+    "Se l’atleta preferisce il bilanciere agli altri attrezzi."
+   ],
+   "answer": 0,
+   "why": "Un esercizio può essere utile per la prestazione, ma questo non significa che ogni atleta sia fisicamente pronto a eseguirlo."
+  },
+  {
+   "part": 0,
+   "line": 6,
+   "question": "Dove impari a insegnare le alzate olimpiche, correggere gli errori e usare le varianti?",
+   "options": [
+    "Nella parte teorica sui benefici per la prestazione.",
+    "Nei video pratici, separati dalla lezione teorica.",
+    "Nella parte dedicata alle proporzioni dei pesisti.",
+    "Nella parte teorica sui tassi di infortunio."
+   ],
+   "answer": 1,
+   "why": "La teoria aiuta a decidere perché usare le alzate; i video pratici mostrano come insegnarle e adattarle."
+  },
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Qual è il modo più ragionato di decidere se inserire strappo e girata nel programma dei calciatori?",
+   "options": [
+    "Adottare le versioni più diffuse nelle palestre di altre squadre.",
+    "Scegliere le alzate complete se l’obiettivo è migliorare l’esplosività.",
+    "Valutare se inserirle, poi scegliere la forma e i controlli adatti.",
+    "Scegliere la variante in base al carico che i giocatori sollevano."
+   ],
+   "answer": 2,
+   "why": "Il possibile beneficio è solo il primo passo: occorre anche capire quale forma è adatta ai giocatori e quali verifiche fare."
+  },
+  {
+   "part": 1,
+   "line": 1,
+   "question": "Come riconosci uno strappo rispetto a uno slancio osservando il percorso del bilanciere?",
+   "options": [
+    "Nello strappo arriva prima alle spalle e poi sopra la testa.",
+    "Nello strappo si ferma sulle spalle, senza andare sopra la testa.",
+    "Nello strappo parte dalle spalle e viene spinto sopra la testa.",
+    "Nello strappo va da terra sopra la testa in un solo movimento."
+   ],
+   "answer": 3,
+   "why": "La differenza è il passaggio sulle spalle: nello slancio separa le due fasi, mentre nello strappo il bilanciere va direttamente sopra la testa."
+  },
+  {
+   "part": 1,
+   "line": 4,
+   "question": "Perché un preparatore può usare le alzate olimpiche anche con chi non gareggia nel sollevamento pesi?",
+   "options": [
+    "Permettono di muovere carichi elevati in modo esplosivo.",
+    "Permettono di sviluppare forza soprattutto muovendo carichi elevati lentamente.",
+    "Richiedono meno pratica tecnica degli altri esercizi con sovraccarico.",
+    "Riproducono direttamente la tecnica dei gesti di gara del calciatore."
+   ],
+   "answer": 0,
+   "why": "L’interesse per gli altri sport sta nel produrre forza rapidamente contro un carico, non nell’imparare un’alzata da gara."
+  },
+  {
+   "part": 2,
+   "line": 3,
+   "question": "Quali caratteristiche di avambracci e gambe possono favorire un pesista, oltre alla forza?",
+   "options": [
+    "Avambracci lunghi e spessi, gambe corte.",
+    "Avambracci corti e spessi, gambe corte.",
+    "Avambracci corti e spessi, gambe lunghe.",
+    "Avambracci lunghi e sottili, gambe lunghe."
+   ],
+   "answer": 1,
+   "why": "A parità di forza, proporzioni più compatte possono offrire un vantaggio meccanico riducendo il tragitto del bilanciere."
+  },
+  {
+   "part": 2,
+   "line": 5,
+   "question": "Perché proporzioni corporee più compatte possono dare un vantaggio nel sollevamento pesi?",
+   "options": [
+    "Fanno aumentare la velocità del bilanciere allungandone il percorso.",
+    "Spostano sulle braccia gran parte del lavoro delle gambe.",
+    "Possono ridurre la distanza che il bilanciere deve percorrere.",
+    "Riducono il peso del bilanciere nella fase di tirata."
+   ],
+   "answer": 2,
+   "why": "A parità di carico, sollevare il bilanciere per una distanza verticale minore richiede meno lavoro contro la gravità."
+  },
+  {
+   "part": 2,
+   "line": 9,
+   "question": "Le proporzioni di un centrocampista alto e magro bastano per escludere le alzate olimpiche dal suo programma?",
+   "options": [
+    "Sì, perché le leve favorevoli in gara sono necessarie anche in allenamento.",
+    "Sì, finché non raggiunge una corporatura simile a quella dei pesisti.",
+    "No, perché le proporzioni corporee non influenzano la meccanica dell’alzata.",
+    "No, perché leve meno favorevoli non gli impediscono di allenarsi."
+   ],
+   "answer": 3,
+   "why": "Una caratteristica che facilita la gara non è per forza un requisito di allenamento. Le leve possono rendere il gesto più impegnativo senza precluderlo."
+  },
+  {
+   "part": 3,
+   "line": 1,
+   "question": "Come valuti la lunghezza relativa delle braccia di un atleta con il test dell’apertura alare?",
+   "options": [
+    "Misuri da punta a punta delle dita a braccia distese e confronti con l’altezza.",
+    "Misuri da punta a punta delle dita e confronti con la lunghezza delle gambe.",
+    "Misuri da gomito a gomito a braccia distese e confronti con l’altezza.",
+    "Misuri da spalla a polso e confronti con l’altezza del busto."
+   ],
+   "answer": 0,
+   "why": "La misura tra i polpastrelli dà l’apertura alare; confrontarla con la statura permette di interpretarla in rapporto alla taglia dell’atleta."
+  },
+  {
+   "part": 3,
+   "line": 3,
+   "question": "Come interpreti un’apertura alare minore della statura nel test presentato nella lezione?",
+   "options": [
+    "Come indicazione di braccia relativamente lunghe rispetto alla statura.",
+    "Come indicazione di braccia relativamente corte rispetto alla statura.",
+    "Come indicazione di braccia proporzionate, come con due misure uguali.",
+    "Come indicazione che un braccio è più corto dell’altro."
+   ],
+   "answer": 1,
+   "why": "Il riferimento del test è l’uguaglianza tra apertura alare e statura. Se l’apertura è minore, la lezione la interpreta come relativamente corta."
+  },
+  {
+   "part": 4,
+   "line": 1,
+   "question": "Perché alcuni preparatori sono cauti nell’usare le alzate olimpiche con chi pratica altri sport?",
+   "options": [
+    "Perché muovere il carico velocemente limita la produzione di forza.",
+    "Perché le varianti richiedono più mobilità delle alzate complete.",
+    "Perché complessità, velocità e forze elevate richiedono mobilità, stabilità e molta pratica.",
+    "Perché il rischio dipende dalla quantità di muscolo più che dalla tecnica."
+   ],
+   "answer": 2,
+   "why": "Il timore è che un atleta non ancora competente debba gestire forze elevate, ad alta velocità, in posizioni che richiedono mobilità e controllo."
+  },
+  {
+   "part": 4,
+   "line": 3,
+   "question": "Perché alcuni preparatori sostengono l’uso delle alzate olimpiche anche in altri sport?",
+   "options": [
+    "Perché richiedono meno tempo di apprendimento della forza tradizionale.",
+    "Perché migliorano la tecnica con cui il calciatore usa il pallone.",
+    "Perché rendono superflua la valutazione della mobilità dell’atleta.",
+    "Perché possono sviluppare qualità fisiche utili alla prestazione sportiva."
+   ],
+   "answer": 3,
+   "why": "Il valore per un altro sport sta nelle qualità che l’atleta può sviluppare, come la capacità di produrre forza in modo esplosivo."
+  },
+  {
+   "part": 4,
+   "line": 5,
+   "question": "Come concili la difficoltà tecnica delle alzate olimpiche con il loro possibile valore per altri sport?",
+   "options": [
+    "Richiedono tempo per essere imparate, ma possono sviluppare qualità utili anche altrove.",
+    "Sono tecnicamente difficili, quindi i benefici restano limitati ai pesisti.",
+    "Sviluppano qualità utili, quindi il tempo per impararle conta poco.",
+    "Sono utili soprattutto quando il gesto sul campo riproduce l’intera alzata."
+   ],
+   "answer": 0,
+   "why": "La complessità è un costo da considerare, mentre le qualità fisiche sviluppate sono un possibile beneficio. Nessuno dei due aspetti annulla l’altro."
+  },
+  {
+   "part": 4,
+   "line": 8,
+   "question": "Come individui limiti di mobilità e stabilità prima di proporre le alzate olimpiche complete?",
+   "options": [
+    "Misuri l’apertura alare e la confronti con la statura.",
+    "Osservi l’overhead squat e usi test simili per valutare i compensi.",
+    "Misuri il carico massimo nello squat e lo confronti con il peso corporeo.",
+    "Valuti l’altezza del salto per stimare la capacità di ricevere il bilanciere."
+   ],
+   "answer": 1,
+   "why": "L’overhead squat riprende una posizione chiave dello strappo. Osservandolo puoi vedere se l’atleta raggiunge la profondità richiesta e mantiene il controllo."
+  },
+  {
+   "part": 5,
+   "line": 0,
+   "question": "Quale capacità fisica cerca lo screening proposto prima di introdurre girata e strappo completi?",
+   "options": [
+    "Produrre una spinta rapida delle gambe senza scendere in accosciata.",
+    "Sostenere un carico elevato sopra la testa stando in piedi.",
+    "Raggiungere l’accosciata completa con busto stabile e braccia sopra la testa.",
+    "Raggiungere l’accosciata completa con le braccia distese in avanti."
+   ],
+   "answer": 2,
+   "why": "Scendere in profondità non basta: lo screening verifica se l’atleta riesce a farlo mantenendo insieme il controllo del busto e la posizione delle braccia."
+  },
+  {
+   "part": 5,
+   "line": 4,
+   "question": "Secondo la lezione, due criteri su tre bastano per dare il via libera a girata e strappo completi?",
+   "options": [
+    "Sì, se uno dei due criteri soddisfatti è la profondità dello squat.",
+    "Sì, purché l’atleta inizi con un bilanciere leggero.",
+    "Sì, se l’atleta sa già sviluppare forza in modo esplosivo.",
+    "No, per le alzate complete vanno soddisfatti tutti e tre i criteri."
+   ],
+   "answer": 3,
+   "why": "I criteri verificano capacità diverse. Raggiungere la profondità, per esempio, non compensa la perdita di controllo del busto o delle braccia."
+  },
+  {
+   "part": 5,
+   "line": 8,
+   "question": "Perché power clean e power snatch possono aiutare chi fatica a raggiungere l’accosciata profonda?",
+   "options": [
+    "Il bilanciere si riceve più in alto, senza dover scendere in accosciata profonda.",
+    "Il bilanciere parte più in alto, ma si riceve alla stessa profondità.",
+    "Il bilanciere si riceve più in basso, così deve salire meno.",
+    "Il bilanciere si riceve alla stessa profondità, ma si risale più rapidamente."
+   ],
+   "answer": 0,
+   "why": "La modifica riguarda la ricezione: l’atleta può mantenere il gesto esplosivo senza dover controllare la posizione più bassa."
+  },
+  {
+   "part": 6,
+   "line": 0,
+   "question": "Quale conclusione sul rischio delle alzate olimpiche è coerente con i dati presentati?",
+   "options": [
+    "È elevato, perché velocità e complessità comportano necessariamente più infortuni.",
+    "È relativamente basso, tenendo conto della supervisione e dell’esperienza con i pesi.",
+    "È basso anche senza considerare come l’atleta viene seguito.",
+    "È basso per chi gareggia, ma necessariamente alto negli altri sport."
+   ],
+   "answer": 1,
+   "why": "Un gesto complesso può sembrare pericoloso, ma la stima si basa sugli infortuni osservati e va letta considerando esperienza e supervisione."
+  },
+  {
+   "part": 6,
+   "line": 3,
+   "question": "Quali attività sono state confrontate per valutare il rischio di infortunio nel weightlifting?",
+   "options": [
+    "Weightlifting, powerlifting, corsa, calcio e bodybuilding.",
+    "Weightlifting, strongman, pliometria, calcio e CrossFit.",
+    "Weightlifting, strongman, powerlifting, CrossFit e bodybuilding.",
+    "Weightlifting, powerlifting, atletica leggera, calcio e CrossFit."
+   ],
+   "answer": 2,
+   "why": "La revisione confronta attività con sovraccarichi. Il confronto tra sala pesi e campo è un altro passaggio della lezione."
+  },
+  {
+   "part": 6,
+   "line": 6,
+   "question": "Come si colloca il weightlifting rispetto alle altre attività con sovraccarichi per infortuni ogni mille ore?",
+   "options": [
+    "Ha un tasso più alto perché i gesti sono più esplosivi.",
+    "Ha un tasso più alto, ma solo negli infortuni alla schiena.",
+    "Ha un tasso più basso di ciascuna attività in ogni studio.",
+    "Ha un tasso paragonabile, se non più favorevole."
+   ],
+   "answer": 3,
+   "why": "Rapportare gli infortuni alle ore di allenamento rende il confronto più utile dei conteggi assoluti. I dati riportati non indicano un rischio maggiore nel weightlifting."
+  },
+  {
+   "part": 7,
+   "line": 1,
+   "question": "Quale qualità rende strappo e slancio particolarmente interessanti per un preparatore atletico?",
+   "options": [
+    "L’elevata potenza prodotta muovendo rapidamente un carico.",
+    "La capacità di produrre forza massima muovendo il carico lentamente.",
+    "La resistenza muscolare sviluppata mantenendo a lungo il bilanciere sollevato.",
+    "La stabilità sviluppata soprattutto tenendo il carico immobile."
+   ],
+   "answer": 0,
+   "why": "La potenza dipende sia dalla forza sia dalla velocità. Le due alzate sono interessanti perché chiedono di applicare molta forza rapidamente."
+  },
+  {
+   "part": 7,
+   "line": 7,
+   "question": "Che cos’è il tasso di sviluppo della forza e come possono influenzarlo le alzate olimpiche?",
+   "options": [
+    "È la forza massima raggiunta, che cresce spostando carichi più pesanti.",
+    "È la rapidità con cui aumenta la forza, che le alzate possono migliorare.",
+    "È la velocità del bilanciere, che aumenta riducendo il carico.",
+    "È la durata dello sforzo, che migliora mantenendo la contrazione."
+   ],
+   "answer": 1,
+   "why": "Negli scatti e nei salti il tempo per spingere è breve. Conta quindi non solo quanta forza produci, ma anche quanto rapidamente ci arrivi."
+  },
+  {
+   "part": 8,
+   "line": 1,
+   "question": "A quali azioni o posizioni sportive sono accostate le alzate olimpiche nella lezione?",
+   "options": [
+    "Alla postura da pronti, alla frenata e alla difesa del pallone.",
+    "Alla corsa, al dribbling e al tiro in porta.",
+    "Alla postura da pronti, alla corsa e al salto.",
+    "Al salto, al contrasto e al controllo del pallone."
+   ],
+   "answer": 2,
+   "why": "Il confronto riguarda come il corpo si dispone per produrre forza. Non significa che l’alzata riproduca la tecnica specifica di un gesto con il pallone."
+  },
+  {
+   "part": 8,
+   "line": 3,
+   "question": "Perché allenare la produzione di forza da una postura simile alla posizione atletica può essere utile?",
+   "options": [
+    "Perché quella postura elimina la necessità di reagire velocemente.",
+    "Perché consente di applicare la stessa spinta in qualunque gesto sportivo.",
+    "Perché il suo scopo principale è tenere il corpo fermo.",
+    "Perché da quella postura l’atleta deve spesso produrre forza per muoversi."
+   ],
+   "answer": 3,
+   "why": "La posizione atletica è una base di partenza. Le alzate e le loro varianti allenano a generare forza esplosiva da una postura simile."
+  },
+  {
+   "part": 9,
+   "line": 1,
+   "question": "Quali articolazioni si estendono insieme per accelerare il bilanciere nella tripla estensione?",
+   "options": [
+    "Anche, ginocchia e caviglie.",
+    "Anche, ginocchia e gomiti.",
+    "Ginocchia, caviglie e spalle.",
+    "Anche, spalle e gomiti."
+   ],
+   "answer": 0,
+   "why": "La spinta principale nasce dall’estensione coordinata della parte inferiore del corpo, come accade nella corsa e nel salto."
+  },
+  {
+   "part": 9,
+   "line": 3,
+   "question": "Anche se il pesista sembra tirare soprattutto con le braccia, cosa accelera principalmente il bilanciere verso l’alto?",
+   "options": [
+    "La flessione rapida dei gomiti dopo il distacco da terra.",
+    "La spinta coordinata della tripla estensione di anche, ginocchia e caviglie.",
+    "L’estensione dei gomiti mentre il bilanciere sale verso la ricezione.",
+    "La distensione delle ginocchia, con anche e caviglie quasi ferme."
+   ],
+   "answer": 1,
+   "why": "Il movimento visibile delle braccia può trarre in inganno: la maggior parte della spinta verticale viene dall’estensione coordinata di anche, ginocchia e caviglie."
+  },
+  {
+   "part": 9,
+   "line": 6,
+   "question": "Cosa rende balistica la tripla estensione delle alzate olimpiche nel confronto con lo squat?",
+   "options": [
+    "La velocità massima arriva all’inizio, prima di frenare.",
+    "La velocità resta quasi costante durante tutta l’estensione.",
+    "La velocità massima arriva verso la fine dell’estensione.",
+    "La velocità massima arriva a metà, prima del tratto finale."
+   ],
+   "answer": 2,
+   "why": "Nelle alzate l’atleta può continuare ad accelerare fino alla fine della spinta. Nello squat, invece, deve rallentare il bilanciere prima di finire il movimento."
+  },
+  {
+   "part": 10,
+   "line": 0,
+   "question": "Quale criterio indica la NSCA, secondo la lezione, per allenare i bambini sotto i sette anni?",
+   "options": [
+    "Usare il programma degli adulti riducendo soltanto il peso.",
+    "Scegliere il programma in base alla forza, indipendentemente dall’età.",
+    "Anticipare le progressioni dei ragazzi più grandi se il bambino è coordinato.",
+    "Proporre soltanto attività di allenamento adatte alla loro età."
+   ],
+   "answer": 3,
+   "why": "La scelta parte dall’età del bambino: ridurre il peso di un programma per adulti non basta, da solo, a renderlo adatto."
+  },
+  {
+   "part": 10,
+   "line": 3,
+   "question": "Quando si aggiunge carico al bilanciere nella progressione per i giovani descritta nella lezione?",
+   "options": [
+    "Dopo che il giovane ha sviluppato la coordinazione corretta per il gesto.",
+    "Appena il giovane raggiunge l’età in cui inizia a imparare la tecnica.",
+    "Quando il giovane sa generare potenza, anche se la tecnica è incostante.",
+    "Dall’inizio, usando il carico per far acquisire la coordinazione."
+   ],
+   "answer": 0,
+   "why": "Saper coordinare il movimento viene prima di doverlo controllare sotto carico. L’età di inizio della pratica tecnica non è un via libera ad aggiungere peso."
+  },
+  {
+   "part": 11,
+   "line": 0,
+   "question": "Quale descrizione delle due alzate olimpiche di gara suggerisce come adattarle all’allenamento di altri atleti?",
+   "options": [
+    "Strappo e slancio sono esplosivi, quindi conviene impararli completi fin dall’inizio.",
+    "Strappo e slancio sono esplosivi e complessi, ma si possono allenare per fasi.",
+    "Strappo e girata sono le due alzate complete da imparare per fasi.",
+    "Strappo e slancio sono soprattutto prove di forza lenta con carichi elevati."
+   ],
+   "answer": 1,
+   "why": "Poiché i gesti completi richiedono molta pratica, allenarne singole fasi permette di lavorare sull’esplosività senza imparare subito tutta l’alzata."
+  },
+  {
+   "part": 11,
+   "line": 2,
+   "question": "Quale combinazione di proporzioni può favorire la meccanica di un pesista olimpico?",
+   "options": [
+    "Braccia lunghe, gambe corte e busto lungo.",
+    "Braccia corte, gambe lunghe e busto corto.",
+    "Braccia corte, gambe corte e busto lungo.",
+    "Braccia lunghe, gambe lunghe e busto corto."
+   ],
+   "answer": 2,
+   "why": "Arti più corti possono offrire leve favorevoli e ridurre il tragitto del bilanciere. Sono vantaggi meccanici, non requisiti per riuscire nel weightlifting."
+  },
+  {
+   "part": 11,
+   "line": 5,
+   "question": "Come dovrebbe interpretare un preparatore il rischio di infortunio delle alzate olimpiche?",
+   "options": [
+    "È trascurabile, quindi il monitoraggio serve soltanto nelle prime sedute.",
+    "È superiore a quello degli altri sovraccarichi anche con una buona supervisione.",
+    "È basso solo con le varianti, non con le alzate complete.",
+    "È relativamente basso e comparabile agli altri sovraccarichi, con supervisione e monitoraggio adeguati."
+   ],
+   "answer": 3,
+   "why": "I dati non giustificano considerare le alzate più pericolose a priori. Un rischio relativamente basso non è però un motivo per ridurre la supervisione."
+  },
+  {
+   "part": 11,
+   "line": 7,
+   "question": "Quali tre criteri fisici usa la lezione per decidere se proporre girata e strappo completi?",
+   "options": [
+    "Squat profondo, busto non troppo inclinato e braccia sempre sopra la testa.",
+    "Squat profondo, busto non troppo inclinato e braccia sopra la testa solo alla fine.",
+    "Squat parziale, busto non troppo inclinato e braccia sempre sopra la testa.",
+    "Squat profondo, busto molto inclinato e braccia sempre sopra la testa."
+   ],
+   "answer": 0,
+   "why": "La profondità deve andare insieme al controllo del busto e delle braccia per tutto il movimento. Se manca un criterio, si possono valutare varianti di potenza."
+  }
+ ]
+}

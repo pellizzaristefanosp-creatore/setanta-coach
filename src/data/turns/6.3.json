@@ -1,0 +1,525 @@
+{
+ "code": "6.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 1,
+   "question": "Passando dalla teoria alla pratica dell’ipertrofia, cosa cambia nella progettazione della seduta?",
+   "options": [
+    "Le tecniche speciali prendono il posto di volume, carico e sforzo.",
+    "Volume, carico e sforzo restano le basi; cambia come li combini.",
+    "Il carico diventa un dettaglio; contano soprattutto volume e scelta degli esercizi.",
+    "Volume e carico restano le basi; lo sforzo conta solo nei test."
+   ],
+   "answer": 1,
+   "why": "Una tecnica cambia il modo in cui organizzi il lavoro, non le variabili da cui dipende lo stimolo."
+  },
+  {
+   "part": 0,
+   "line": 3,
+   "question": "Quale gruppo contiene solo tecniche che modificano il modo di svolgere le serie per l’ipertrofia?",
+   "options": [
+    "Pre-affaticamento, German Volume Training e onde 7-5-3.",
+    "Pause isometriche, quattro serie da 8-10 e focus interno.",
+    "Serie doppia concentrica-eccentrica, onde 7-5-3 e focus esterno.",
+    "Pre-affaticamento, serie doppia concentrica-eccentrica e pause isometriche."
+   ],
+   "answer": 3,
+   "why": "Queste tecniche cambiano l’ordine degli esercizi, il lavoro nelle due fasi della ripetizione o la presenza di una pausa. Non sono schemi di ripetizioni."
+  },
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Come scegli il metodo per sviluppare gambe e schiena di un difensore centrale?",
+   "options": [
+    "Scegli in base al ruolo e usa lo stesso metodo con tutti i difensori.",
+    "Scegli il metodo con più volume, indipendentemente dal tempo che hai a disposizione.",
+    "Valuta il livello dell’atleta, il tempo disponibile e la fase della stagione.",
+    "Scegli il metodo più faticoso, purché lavori sia sulle gambe sia sulla schiena."
+   ],
+   "answer": 2,
+   "why": "Lo stesso obiettivo si può raggiungere organizzando il lavoro in modi diversi. Conta quale metodo è adatto all’atleta in quel momento."
+  },
+  {
+   "part": 1,
+   "line": 1,
+   "question": "Come imposti il pre-esaurimento per un muscolo bersaglio?",
+   "options": [
+    "Prima un multi-articolare, poi un esercizio di isolamento per lo stesso muscolo.",
+    "Prima un isolamento, subito dopo un multi-articolare che coinvolge lo stesso muscolo.",
+    "Due multi-articolari di seguito, scegliendo il secondo con un carico più leggero.",
+    "Due isolamenti di seguito, scegliendo il secondo con un carico più leggero."
+   ],
+   "answer": 1,
+   "why": "L’isolamento affatica il muscolo bersaglio prima che debba contribuire a un gesto che coinvolge anche altri muscoli."
+  },
+  {
+   "part": 1,
+   "line": 3,
+   "question": "Vuoi pre-affaticare gli ischiocrurali nello stacco: in quale ordine metti i due esercizi?",
+   "options": [
+    "Prima il leg curl, poi lo stacco.",
+    "Prima lo stacco, poi il leg curl.",
+    "Alterni quale esercizio viene prima a ogni coppia.",
+    "Metti per primo l’esercizio con il carico maggiore."
+   ],
+   "answer": 0,
+   "why": "Il leg curl deve affaticare gli ischiocrurali prima dello stacco. Invertendo l’ordine, li affaticheresti dopo il movimento composto."
+  },
+  {
+   "part": 1,
+   "line": 4,
+   "question": "Perché nel pre-affaticamento l’esercizio di isolamento precede quello multi-articolare?",
+   "options": [
+    "Per far arrivare al multi-articolare già stanchi soprattutto i muscoli di supporto.",
+    "Per usare più carico nel multi-articolare senza affaticare il muscolo bersaglio.",
+    "Per finire di affaticare il muscolo bersaglio dopo il movimento composto.",
+    "Per far iniziare il multi-articolare con il muscolo bersaglio già affaticato."
+   ],
+   "answer": 3,
+   "why": "L’isolamento concentra il lavoro iniziale sul muscolo scelto, così la sua fatica è già presente quando comincia il gesto composto."
+  },
+  {
+   "part": 1,
+   "line": 5,
+   "question": "Secondo la logica del pre-affaticamento, come dovrebbe reagire il muscolo bersaglio nel movimento composto?",
+   "options": [
+    "Dovrebbe reclutare meno fibre, perché l’isolamento ha già fornito tutto lo stimolo.",
+    "Dovrebbe conservare lo stesso reclutamento, perché cambia solo l’ordine degli esercizi.",
+    "Dovrebbe reclutare più unità motorie e fibre per continuare a produrre forza.",
+    "Dovrebbe avere più riserve, perché l’isolamento lo prepara senza affaticarlo."
+   ],
+   "answer": 2,
+   "why": "L’ipotesi è che, per continuare a produrre forza nonostante la fatica, il muscolo coinvolga più fibre. Non è un risultato garantito."
+  },
+  {
+   "part": 2,
+   "line": 1,
+   "question": "Perché leg curl e stacco coinvolgono entrambi gli ischiocrurali pur essendo movimenti diversi?",
+   "options": [
+    "Nel leg curl flettono il ginocchio; nello stacco contribuiscono a estendere l’anca.",
+    "Nel leg curl estendono l’anca; nello stacco contribuiscono a flettere il ginocchio.",
+    "In entrambi flettono il ginocchio; nello stacco cambia soltanto il carico.",
+    "In entrambi estendono l’anca; nel leg curl cambia soltanto il carico."
+   ],
+   "answer": 0,
+   "why": "Gli ischiocrurali possono contribuire a due azioni diverse: flettere il ginocchio ed estendere l’anca. I due esercizi mettono l’accento su azioni diverse."
+  },
+  {
+   "part": 2,
+   "line": 10,
+   "question": "Come decidi se usare il pre-affaticamento in una scheda per l’ipertrofia?",
+   "options": [
+    "Lo escludi sempre, perché arrivare affaticati al composto annulla lo stimolo.",
+    "Valuti se usarlo, tenendo conto delle compensazioni e del possibile calo di volume.",
+    "Lo scegli ogni volta che il muscolo bersaglio è quello da sviluppare.",
+    "Lo mantieni se aumenta la fatica percepita, anche quando cala il lavoro utile."
+   ],
+   "answer": 1,
+   "why": "Affaticare prima il bersaglio non garantisce più stimolo: altri muscoli possono compensare e nel composto potresti completare meno lavoro."
+  },
+  {
+   "part": 3,
+   "line": 1,
+   "question": "Alla panca, se non riesci più a spingere il bilanciere, quale lavoro può ancora essere possibile?",
+   "options": [
+    "Altre spinte con lo stesso carico, senza aiuto né recupero.",
+    "Solo una tenuta immobile, perché non puoi più controllare la discesa.",
+    "Altre discese controllate, se un assistente ti aiuta a risollevare il bilanciere.",
+    "Altre discese soltanto riducendo il carico, anche se qualcuno ti aiuta a risalire."
+   ],
+   "answer": 2,
+   "why": "Il cedimento nella spinta non esaurisce per forza la capacità di frenare il carico. L’assistente si occupa della fase che non riesci più a completare."
+  },
+  {
+   "part": 3,
+   "line": 2,
+   "question": "Perché puoi ancora controllare la discesa quando non riesci più a sollevare lo stesso carico?",
+   "options": [
+    "Perché in eccentrica puoi gestire più carico che in concentrica.",
+    "Perché hai la stessa forza nelle due fasi, ma scendere richiede meno attenzione.",
+    "Perché la prima discesa ripristina subito la forza persa nella spinta.",
+    "Perché nella discesa controllata il muscolo bersaglio smette di produrre tensione."
+   ],
+   "answer": 0,
+   "why": "Quando il muscolo si allunga sotto carico conserva una riserva: non riuscire più a sollevare il peso non significa non riuscire più a frenarlo."
+  },
+  {
+   "part": 3,
+   "line": 3,
+   "question": "Cosa contribuisce a rendere la fase eccentrica più efficiente della concentrica?",
+   "options": [
+    "Le strutture passive aiutano soprattutto quando il muscolo si accorcia durante la spinta.",
+    "Il muscolo si rilassa durante la discesa, mentre il carico continua a muoversi.",
+    "La maggiore efficienza deriva dal recupero tra una discesa e quella successiva.",
+    "Le strutture passive aiutano il muscolo mentre si allunga, riducendo il costo energetico."
+   ],
+   "answer": 3,
+   "why": "Durante l’allungamento sotto carico, le strutture passive contribuiscono alla tensione. Per frenare il peso serve quindi meno energia rispetto alla fase di salita."
+  },
+  {
+   "part": 4,
+   "line": 1,
+   "question": "A cosa serve fermarsi in basso nello split squat mantenendo la posizione?",
+   "options": [
+    "A recuperare tra le ripetizioni, perché il muscolo smette di sostenere il carico.",
+    "A prolungare il tempo sotto tensione, anche se il corpo resta fermo.",
+    "Ad aumentare il numero di ripetizioni senza prolungare il tempo sotto tensione.",
+    "Ad accorciare la serie mantenendo invariata la durata del lavoro muscolare."
+   ],
+   "answer": 1,
+   "why": "Fermare il movimento non equivale a riposare: il muscolo continua a produrre tensione per mantenere la posizione."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Perché non conviene inserire automaticamente una pausa isometrica in ogni ripetizione?",
+   "options": [
+    "Perché tenere la posizione più a lungo può costringerti a ridurre il carico.",
+    "Perché ripetere la pausa fa diminuire il tempo totale sotto tensione.",
+    "Perché la pausa rende la serie più facile e richiede quindi più carico.",
+    "Perché la pausa conta solo se il muscolo si rilassa tra le ripetizioni."
+   ],
+   "answer": 0,
+   "why": "Ogni sosta aggiunge lavoro senza che il muscolo si rilassi. Ripetendola sempre, potresti non riuscire a mantenere il carico previsto."
+  },
+  {
+   "part": 4,
+   "line": 7,
+   "question": "Se le pause isometriche allungano ogni ripetizione, perché lo stimolo ipertrofico potrebbe comunque calare?",
+   "options": [
+    "Perché mantenere una posizione non aggiunge tempo sotto tensione utile.",
+    "Perché la pausa conta solo quando permette di aumentare il carico nella stessa serie.",
+    "Perché potresti dover ridurre il carico per sostenere il lavoro più a lungo.",
+    "Perché il tempo sotto tensione aumenta soltanto se le pause sono sempre allo stesso angolo."
+   ],
+   "answer": 2,
+   "why": "Più tempo sotto tensione non basta per concludere che lo stimolo sia maggiore. Devi considerare anche la riduzione del carico necessaria a completare la serie."
+  },
+  {
+   "part": 5,
+   "line": 3,
+   "question": "Come continui un drop set classico dopo esserti avvicinato al cedimento?",
+   "options": [
+    "Mantieni il carico, fai una breve pausa e riparti con lo stesso movimento.",
+    "Mantieni il carico e passi subito a una variante con leve più favorevoli.",
+    "Riduci il carico dopo un recupero completo e inizi una nuova serie.",
+    "Riduci subito il carico e continui a fare ripetizioni quasi senza riposo."
+   ],
+   "answer": 3,
+   "why": "Non riuscire più a sollevare un certo carico non significa aver esaurito ogni capacità di lavoro. Abbassando il peso puoi continuare subito."
+  },
+  {
+   "part": 6,
+   "line": 1,
+   "question": "Come rendi più facile un drop set meccanico senza togliere peso?",
+   "options": [
+    "Mantieni la variante e allunghi il recupero tra i blocchi.",
+    "Passi a una variante che offre un vantaggio meccanico maggiore.",
+    "Passi a una variante più difficile e riduci le ripetizioni.",
+    "Mantieni la variante e fai meno ripetizioni a ogni passaggio."
+   ],
+   "answer": 1,
+   "why": "Cambiando la posizione o la variante, rendi il gesto meno impegnativo. Puoi così continuare nonostante la fatica, senza togliere peso."
+  },
+  {
+   "part": 6,
+   "line": 4,
+   "question": "Quanto ti spingi nella prima variante, la più difficile, di un drop set meccanico?",
+   "options": [
+    "Fino al cedimento, perché la variante più facile ripristina subito la resa.",
+    "Ben lontano dal cedimento, per concentrare tutto lo sforzo nell’ultima variante.",
+    "Vicino al cedimento, ma senza raggiungerlo, per rendere ancora nelle varianti successive.",
+    "Oltre il cedimento concentrico, prima di passare alla variante seguente."
+   ],
+   "answer": 2,
+   "why": "Le varianti successive alleggeriscono il gesto, ma non cancellano la fatica accumulata. Fermarti poco prima del cedimento ti lascia margine per continuare."
+  },
+  {
+   "part": 6,
+   "line": 6,
+   "question": "Nel drop set di rematore inverso, quali varianti seguono quella con i piedi rialzati?",
+   "options": [
+    "Prima corpo dritto e piedi a terra, poi piedi più vicini e ginocchia piegate.",
+    "Prima piedi vicini e ginocchia piegate, poi corpo dritto e piedi a terra.",
+    "Prima corpo dritto e piedi a terra, poi di nuovo piedi rialzati.",
+    "Prima piedi vicini e ginocchia piegate, poi di nuovo piedi rialzati."
+   ],
+   "answer": 0,
+   "why": "Appoggiare i piedi a terra riduce la difficoltà; avvicinarli e piegare le ginocchia rende il gesto ancora più favorevole mentre la fatica aumenta."
+  },
+  {
+   "part": 6,
+   "line": 10,
+   "question": "Perché devi curare l’esecuzione in ogni variante di un drop set meccanico?",
+   "options": [
+    "Perché la posizione deve restare identica e cambia soltanto il ritmo.",
+    "Perché la forma è importante nella prima variante, mentre dopo conta solo continuare.",
+    "Perché la difficoltà deve diminuire grazie alla fatica, non alla posizione.",
+    "Perché è il cambio controllato di variante a rendere il gesto più facile."
+   ],
+   "answer": 3,
+   "why": "Il vantaggio meccanico deriva da una modifica voluta della posizione. Perdere il controllo del gesto per la fatica non equivale a passare a una variante più facile."
+  },
+  {
+   "part": 7,
+   "line": 1,
+   "question": "Come possono le brevi pause dentro una serie cluster aumentare il volume?",
+   "options": [
+    "Ti fanno recuperare del tutto, eliminando la fatica prima del blocco seguente.",
+    "Ti fanno recuperare in parte, così puoi completare più ripetizioni con quel carico.",
+    "Ti permettono di abbassare il carico a ogni blocco senza cambiare esercizio.",
+    "Aumentano il volume aggiungendo tempo di riposo, anche a ripetizioni invariate."
+   ],
+   "answer": 1,
+   "why": "Il recupero parziale permette di aggiungere ripetizioni che non riusciresti a fare di seguito con lo stesso peso."
+  },
+  {
+   "part": 7,
+   "line": 3,
+   "question": "Come organizzi le ripetizioni e le pause dentro una serie cluster?",
+   "options": [
+    "Fai tutte le ripetizioni di fila, poi recuperi 10-20 secondi prima della serie successiva.",
+    "Fai tre ripetizioni, togli peso senza riposare e continui con altre due.",
+    "Fai tre ripetizioni, recuperi completamente e ricominci con un altro blocco da tre.",
+    "Fai tre ripetizioni, riposi 10-20 secondi e ne aggiungi due; se riesci, ripeti."
+   ],
+   "answer": 3,
+   "why": "I blocchi appartengono alla stessa serie: la pausa deve dare un recupero parziale, non quello completo che cercheresti tra due serie distinte."
+  },
+  {
+   "part": 7,
+   "line": 5,
+   "question": "Alla panca non completi sette ripetizioni di fila: come le distribuisci nel cluster dell’esempio?",
+   "options": [
+    "Tre, poi due e altre due, con 15 secondi tra i blocchi.",
+    "Tre, poi due e altre due, togliendo peso invece di fare pause.",
+    "Tre, poi due e altre due, con recupero completo tra i blocchi.",
+    "Sette di fila, poi 15 secondi di recupero prima di ripartire."
+   ],
+   "answer": 0,
+   "why": "Spezzare le sette ripetizioni consente di recuperare quel tanto che basta per proseguire con lo stesso carico."
+  },
+  {
+   "part": 8,
+   "line": 1,
+   "question": "Come costruisci l’alto volume di un esercizio nel German Volume Training?",
+   "options": [
+    "Con dieci serie da dieci, aumentando il carico a ogni serie.",
+    "Con dieci ripetizioni per serie, distribuendo dieci serie tra più esercizi.",
+    "Con dieci serie da dieci ripetizioni, tutte con lo stesso carico.",
+    "Con dieci serie allo stesso carico, facendo in ognuna più ripetizioni possibili."
+   ],
+   "answer": 2,
+   "why": "Il volume deriva dall’accumulo di cento ripetizioni sullo stesso esercizio, non dal cambiare carico o distribuire le serie tra esercizi diversi."
+  },
+  {
+   "part": 8,
+   "line": 3,
+   "question": "Nel German Volume Training, quale carico iniziale e quale recupero scegli per il 10×10?",
+   "options": [
+    "Un carico da circa 10 ripetizioni, con 60 secondi di recupero.",
+    "Un carico da circa 20 ripetizioni, con 10-20 secondi di recupero.",
+    "Un carico da circa 20 ripetizioni, con recupero completo tra le serie.",
+    "Un carico da circa 20 ripetizioni, attorno al 60% dell’1RM, con 60 secondi."
+   ],
+   "answer": 3,
+   "why": "Il margine iniziale serve perché devi ripetere dieci volte lo stesso lavoro e hai solo circa un minuto per recuperare tra le serie."
+  },
+  {
+   "part": 8,
+   "line": 5,
+   "question": "Dato l’alto volume del German Volume Training, come distribuisci i 10×10 nella seduta?",
+   "options": [
+    "Un multi-articolare per gruppo muscolare e due gruppi nella seduta.",
+    "Due multi-articolari per gruppo muscolare e due gruppi nella seduta.",
+    "Un isolamento per gruppo muscolare e due gruppi nella seduta.",
+    "Un multi-articolare per gruppo muscolare e tutti i gruppi nella seduta."
+   ],
+   "answer": 0,
+   "why": "Ogni 10×10 comporta già molto lavoro. Limitare gli esercizi evita di accumularne troppo, e un multi-articolare permette di coinvolgere più muscoli con un solo gesto."
+  },
+  {
+   "part": 8,
+   "line": 7,
+   "question": "Come aggiungi lavoro supplementare a una seduta di German Volume Training?",
+   "options": [
+    "Aggiungi un altro 10×10 con lo stesso carico relativo del principale.",
+    "Aggiungi poche serie, per esempio tre da 10-15 ripetizioni.",
+    "Aggiungi dieci serie, ma riduci il recupero per contenere la durata.",
+    "Aggiungi un secondo blocco con lo stesso volume, ma usando un esercizio di isolamento."
+   ],
+   "answer": 1,
+   "why": "Il blocco principale fornisce già molto volume. Il lavoro accessorio lo integra senza duplicarne la quantità."
+  },
+  {
+   "part": 8,
+   "line": 8,
+   "question": "Quale risultato ti segnala che puoi aumentare il carico nel German Volume Training?",
+   "options": [
+    "Completi dieci ripetizioni nella prima serie con margine.",
+    "Completi dieci serie, anche se nelle ultime scendi sotto le dieci ripetizioni.",
+    "Completi tutte le dieci serie da dieci ripetizioni con il recupero previsto.",
+    "Completi cento ripetizioni totali, anche se servono più di dieci serie."
+   ],
+   "answer": 2,
+   "why": "La progressione dipende dalla riuscita dell’intero schema, non da una sola serie o dal totale di ripetizioni ottenuto cambiando la struttura."
+  },
+  {
+   "part": 8,
+   "line": 9,
+   "question": "Hai completato il 10×10 con 60 secondi di recupero costanti: come progredisci?",
+   "options": [
+    "Aumenti il carico del 4-5% e riparti con lo stesso schema.",
+    "Mantieni il carico e aggiungi una serie da dieci ripetizioni.",
+    "Mantieni il carico e aumenti del 4-5% la durata del recupero.",
+    "Aumenti il carico del 4-5% e passi a dieci serie da cinque."
+   ],
+   "answer": 0,
+   "why": "Una volta rispettati sia il volume sia i recuperi, puoi aumentare la difficoltà con un piccolo incremento di peso, senza cambiare lo schema."
+  },
+  {
+   "part": 9,
+   "line": 1,
+   "question": "A chi è adatto lo schema di quattro serie da 8-10 ripetizioni al 70% dell’1RM?",
+   "options": [
+    "Solo ai principianti, perché carico e volume moderati non servono agli altri.",
+    "Soprattutto agli avanzati, perché quattro serie sono troppe per chi inizia.",
+    "Solo agli intermedi, perché i principianti devono partire con le onde 7-5-3.",
+    "È utile ai principianti, ma può funzionare anche per intermedi e avanzati."
+   ],
+   "answer": 3,
+   "why": "Carico e volume moderati offrono un punto di partenza gestibile, ma possono continuare a dare uno stimolo utile anche a chi ha più esperienza."
+  },
+  {
+   "part": 9,
+   "line": 7,
+   "question": "Perché quattro serie da 8-10 ripetizioni possono funzionare per l’ipertrofia?",
+   "options": [
+    "Perché privilegiano il carico elevato e tengono basso il volume complessivo.",
+    "Perché combinano carico e volume moderati, lasciando spazio a progressi graduali.",
+    "Perché accumulano un volume molto alto mantenendo il carico sempre invariato.",
+    "Perché funzionano solo quando ogni serie arriva al cedimento completo."
+   ],
+   "answer": 1,
+   "why": "La combinazione dà uno stimolo senza puntare su un carico o un volume estremi. Puoi poi aumentare il peso man mano che l’atleta si adatta."
+  },
+  {
+   "part": 9,
+   "line": 9,
+   "question": "Come distribuisci gli aumenti di carico tra gli esercizi di una seduta per l’ipertrofia?",
+   "options": [
+    "Aumenti su tutti gli esercizi insieme, purché l’incremento sia uguale per tutti.",
+    "Aumenti sempre su tutti i multi-articolari e lasci invariati gli esercizi di isolamento.",
+    "Aumenti su uno o due esercizi alla volta, lasciando per ora invariati gli altri.",
+    "Aspetti che tutti gli esercizi siano facili, poi aumenti su tutti insieme."
+   ],
+   "answer": 2,
+   "why": "Scaglionare gli aumenti evita di alzare contemporaneamente le richieste di tutta la seduta e rende più gestibile la progressione."
+  },
+  {
+   "part": 10,
+   "line": 1,
+   "question": "Quale sequenza rappresenta una singola onda 7-5-3 con recupero normale tra le serie?",
+   "options": [
+    "7 ripetizioni a 60 kg, 5 a 55 kg e 3 a 50 kg.",
+    "7 ripetizioni a 50 kg, 5 a 50 kg e 3 a 50 kg.",
+    "7 ripetizioni a 50 kg, 5 a 60 kg e 3 a 55 kg.",
+    "7 ripetizioni a 50 kg, 5 a 55 kg e 3 a 60 kg."
+   ],
+   "answer": 3,
+   "why": "Nell’onda ogni serie ha meno ripetizioni della precedente, così puoi aumentare il carico a ogni passaggio."
+  },
+  {
+   "part": 10,
+   "line": 3,
+   "question": "Come prosegue di solito il metodo 7-5-3 dopo le prime tre serie?",
+   "options": [
+    "Ripeti il 7-5-3 con carichi più alti, per un totale di sei serie.",
+    "Ripeti il 7-5-3 con gli stessi carichi, per un totale di sei serie.",
+    "Ripeti il 7-5-3 con carichi più bassi, per un totale di sei serie.",
+    "Ripeti soltanto la serie da tre con più carico, per quattro serie totali."
+   ],
+   "answer": 0,
+   "why": "La seconda onda riprende lo stesso andamento delle ripetizioni, ma fa salire il carico rispetto alle serie corrispondenti della prima."
+  },
+  {
+   "part": 10,
+   "line": 5,
+   "question": "Nella prima onda 7-5-3 usi 50, 55 e 60 kg: con quali carichi fai la seconda?",
+   "options": [
+    "7 a 50 kg, 5 a 55 kg, 3 a 60 kg.",
+    "7 a 60 kg, 5 a 65 kg, 3 a 70 kg.",
+    "7 a 55 kg, 5 a 60 kg, 3 a 65 kg.",
+    "7 a 55 kg, 5 a 55 kg, 3 a 60 kg."
+   ],
+   "answer": 2,
+   "why": "Il peso delle cinque ripetizioni della prima onda diventa quello delle sette della seconda. Da lì aumenti il carico man mano che le ripetizioni scendono."
+  },
+  {
+   "part": 10,
+   "line": 9,
+   "question": "Come inserisci le onde 7-5-3 in una seduta con un esercizio principale e dei complementari?",
+   "options": [
+    "Usi le onde in tutti gli esercizi, anche nei complementari.",
+    "Usi le onde nel principale e quattro serie da 8-10 nei complementari.",
+    "Usi quattro serie da 8-10 nel principale e le onde nei complementari.",
+    "Abbini le onde e il 4×8-10 nel principale e togli i complementari."
+   ],
+   "answer": 1,
+   "why": "Le onde concentrano i carichi più pesanti nell’esercizio principale; con i complementari aggiungi lavoro a ripetizioni e carichi moderati."
+  },
+  {
+   "part": 11,
+   "line": 1,
+   "question": "Quale coppia di indicazioni distingue il focus interno da quello esterno durante un leg curl?",
+   "options": [
+    "Interno: solleva il peso. Esterno: senti gli ischiocrurali contrarsi.",
+    "Interno: solleva il peso. Esterno: controlla come fletti il ginocchio.",
+    "Interno: contrai gli ischiocrurali. Esterno: senti il muscolo allungarsi in discesa.",
+    "Interno: senti gli ischiocrurali contrarsi. Esterno: solleva il peso in modo fluido."
+   ],
+   "answer": 3,
+   "why": "Nel focus interno l’attenzione va al muscolo o al corpo; in quello esterno va al compito, come muovere il peso."
+  },
+  {
+   "part": 11,
+   "line": 8,
+   "question": "Se il focus interno aumenta l’attivazione del muscolo, puoi concludere che lo farà crescere di più?",
+   "options": [
+    "Sì: ogni aumento dell’attivazione produce necessariamente più crescita.",
+    "Non con certezza: il focus interno può essere utile, ma l’attivazione non dimostra maggiore crescita.",
+    "No: se misuri più attivazione, il focus interno ostacola la crescita.",
+    "Sì: una maggiore attivazione è sufficiente anche senza considerare carico e volume."
+   ],
+   "answer": 1,
+   "why": "L’attivazione descrive ciò che accade durante l’esercizio; la crescita è un adattamento nel tempo. Osservare la prima non basta a dimostrare la seconda."
+  },
+  {
+   "part": 12,
+   "line": 0,
+   "question": "Quali due limiti valuti prima di inserire il pre-affaticamento in una seduta per l’ipertrofia?",
+   "options": [
+    "Il lavoro può spostarsi sui muscoli di supporto e il volume nel composto può calare.",
+    "Il muscolo bersaglio può lavorare troppo nel composto e aumentarne il volume.",
+    "Il volume può calare nell’isolamento, mentre la resa nel composto resta invariata.",
+    "Il volume nel composto può calare, ma il lavoro resta sicuramente sul bersaglio."
+   ],
+   "answer": 0,
+   "why": "La fatica anticipata può cambiare quali muscoli sostengono il gesto e ridurre quanto lavoro riesci a completare nell’esercizio composto."
+  },
+  {
+   "part": 12,
+   "line": 5,
+   "question": "Quale piano combina correttamente volume, carico, recupero e progressione nel German Volume Training?",
+   "options": [
+    "10×10 al 70% dell’1RM; 60 secondi; aumento del 4-5% quando completi lo schema.",
+    "10×10 al 60% dell’1RM; 15 secondi; aumento del 4-5% quando completi lo schema.",
+    "10×10 al 60% circa dell’1RM; 60 secondi; aumento del 4-5% quando completi lo schema.",
+    "10×10 al 60% dell’1RM; 60 secondi; aumento del 4-5% a ogni seduta."
+   ],
+   "answer": 2,
+   "why": "Un carico iniziale moderato rende gestibile il volume con recuperi brevi. Aumenti solo quando riesci a rispettare tutte le serie con quei recuperi."
+  }
+ ]
+}

@@ -1,0 +1,421 @@
+{
+ "code": "4.4",
+ "turns": [
+  {
+   "part": 0,
+   "line": 1,
+   "question": "Se un peso tende a inclinarti di lato, qual è il compito del core nell’anti-flessione laterale?",
+   "options": [
+    "Lasciare che il busto si inclini e poi riportarlo al centro.",
+    "Contrastare la spinta del peso e mantenere il busto allineato.",
+    "Inclinare il busto dalla parte opposta per compensare il peso.",
+    "Seguire l’inclinazione del peso rallentando la discesa del busto."
+   ],
+   "answer": 1,
+   "why": "Il lavoro consiste nel frenare l’inclinazione prima che il busto ceda, non nel recuperare la posizione dopo essersi piegati."
+  },
+  {
+   "part": 0,
+   "line": 3,
+   "question": "Nelle cinque tappe, quali due esercizi introducono il lavoro camminando e poi in tenuta?",
+   "options": [
+    "Prima cammini con i pesi, poi esegui una tenuta di fianco sulla panca.",
+    "Prima cammini con un peso sopra la testa, poi lo spingi verso l’alto.",
+    "Prima tieni il plank laterale, poi cammini con un peso in mano.",
+    "Prima cammini con i pesi, poi provi il plank laterale e le sue varianti."
+   ],
+   "answer": 3,
+   "why": "Le prime due tappe mostrano come mantenere il busto allineato sia durante i passi sia in una tenuta statica adattabile a più livelli."
+  },
+  {
+   "part": 0,
+   "line": 5,
+   "question": "Quale coppia abbina una tenuta laterale su panca a una spinta sopra la testa con un braccio?",
+   "options": [
+    "Side lying hold e single-arm shoulder press.",
+    "Side plank e single-arm shoulder press.",
+    "Side lying hold e overhead carry.",
+    "Side plank e overhead carry."
+   ],
+   "answer": 0,
+   "why": "Nella tenuta su panca il busto sporge oltre il bordo; nella spinta il peso sale. Nell’overhead carry, invece, cammini col peso già in alto."
+  },
+  {
+   "part": 0,
+   "line": 7,
+   "question": "Come si crea il carico sbilanciato sul bilanciere nella quinta tappa?",
+   "options": [
+    "Si aumenta dello stesso valore il peso su entrambi i lati.",
+    "Si riduce dello stesso valore il peso su entrambi i lati.",
+    "Si mette più peso su un lato del bilanciere che sull’altro.",
+    "Si usa lo stesso peso sui due lati alternando la presa."
+   ],
+   "answer": 2,
+   "why": "È la differenza tra i due lati a creare la tendenza a inclinarsi, non la quantità totale di peso sul bilanciere."
+  },
+  {
+   "part": 1,
+   "line": 3,
+   "question": "Perché allenare il core resistendo alla flessione laterale invece di piegarsi sotto carico?",
+   "options": [
+    "Per rinforzare e stabilizzare il core senza cercare inclinazioni estreme sotto carico.",
+    "Per rinforzare il core aumentando l’ampiezza dell’inclinazione sotto carico.",
+    "Per allenare soprattutto il ritorno del busto in posizione dopo ogni inclinazione.",
+    "Per mantenere la stabilità spostando il busto dalla parte opposta al carico."
+   ],
+   "answer": 0,
+   "why": "I muscoli si allenano già opponendosi al carico: non serve portare il busto a fine corsa per farli lavorare."
+  },
+  {
+   "part": 1,
+   "line": 5,
+   "question": "Un piccolo movimento naturale del busto è sempre un errore nell’anti-flessione laterale?",
+   "options": [
+    "Sì, ogni movimento laterale annulla il lavoro di stabilizzazione.",
+    "No, purché l’inclinazione aumenti quando il carico si fa più pesante.",
+    "No, un piccolo movimento è normale; va evitata l’inclinazione estrema, soprattutto sotto carico.",
+    "Sì, anche con poco peso il busto deve restare completamente immobile."
+   ],
+   "answer": 2,
+   "why": "L’obiettivo è evitare che il busto ceda vistosamente sotto carico, non eliminare ogni piccolo aggiustamento della postura."
+  },
+  {
+   "part": 1,
+   "line": 7,
+   "question": "Quali muscoli della parete addominale collaborano per stabilizzare il busto contro un carico laterale?",
+   "options": [
+    "Gli obliqui interni ed esterni, senza il contributo dei muscoli anteriori o profondi.",
+    "Il trasverso e il retto addominale, senza il contributo degli obliqui.",
+    "Il retto e gli obliqui esterni, senza il contributo degli strati profondi.",
+    "Il trasverso, gli obliqui interni ed esterni e il retto addominale."
+   ],
+   "answer": 3,
+   "why": "La stabilità non dipende solo dai muscoli sui fianchi: anche lo strato profondo e quello anteriore contribuiscono a contenere il movimento del busto."
+  },
+  {
+   "part": 1,
+   "line": 9,
+   "question": "Come agiscono insieme i muscoli addominali quando il carico tende a piegare il busto di lato?",
+   "options": [
+    "Guidano l’inclinazione verso il carico e riportano il busto al centro.",
+    "Agiscono come una fascia che stabilizza il busto e ne limita il cedimento.",
+    "Spingono il busto verso il lato opposto per controbilanciare il carico.",
+    "Lasciano inclinare il busto e intervengono solo a fine movimento."
+   ],
+   "answer": 1,
+   "why": "La tensione combinata dei muscoli si oppone al carico fin dall’inizio: il core fa da freno, non da motore del movimento."
+  },
+  {
+   "part": 2,
+   "line": 3,
+   "question": "Oltre agli obliqui, quali muscoli contribuiscono a impedire che il busto ceda di lato?",
+   "options": [
+    "Il retto dell’addome e il quadrato dei lombi.",
+    "Il retto dell’addome, ma non il quadrato dei lombi.",
+    "Il quadrato dei lombi, ma non il retto dell’addome.",
+    "Il trasverso dell’addome al posto del retto e del quadrato dei lombi."
+   ],
+   "answer": 0,
+   "why": "A impedire il cedimento non sono solo gli obliqui: collaborano anche muscoli della parte anteriore del tronco e della zona lombare."
+  },
+  {
+   "part": 2,
+   "line": 7,
+   "question": "Perché l’anti-flessione laterale rinforza il core senza richiedere posizioni estreme della colonna?",
+   "options": [
+    "Perché il busto si piega al massimo solo dopo aver tolto il carico.",
+    "Perché il core lavora soltanto quando riporta il busto al centro.",
+    "Perché il carico viene ridotto finché non mette più alla prova il core.",
+    "Perché il core lavora opponendosi al carico prima che il busto si inclini troppo."
+   ],
+   "answer": 3,
+   "why": "Anche se il busto non si piega, la resistenza continua a sollecitarlo e i muscoli devono produrre tensione per mantenerlo in posizione."
+  },
+  {
+   "part": 3,
+   "line": 1,
+   "question": "Perché il core lavora contro la flessione laterale anche camminando con due pesi uguali?",
+   "options": [
+    "Perché due pesi uguali tirano costantemente il busto verso lo stesso lato.",
+    "Perché il busto deve inclinarsi verso il piede che appoggia a ogni passo.",
+    "Perché ogni passo mette alla prova l’equilibrio e il core deve limitare gli sbandamenti.",
+    "Perché il core interviene solo quando i due pesi smettono di essere allineati."
+   ],
+   "answer": 2,
+   "why": "La simmetria dei pesi non rende statico l’esercizio: i passi cambiano gli appoggi e il tronco deve stabilizzarsi durante la camminata."
+  },
+  {
+   "part": 3,
+   "line": 3,
+   "question": "Oltre alla stabilità del tronco, cosa allenano i carries con sovraccarico?",
+   "options": [
+    "La presa, mentre la parte alta del corpo non contribuisce al trasporto.",
+    "La presa e la parte alta del corpo, coinvolgendo più gruppi muscolari insieme.",
+    "La parte alta del corpo, mentre la presa non viene messa alla prova.",
+    "Soprattutto le gambe, mentre mani e braccia servono solo a bilanciarsi."
+   ],
+   "answer": 1,
+   "why": "Mentre cammini, le mani devono trattenere i pesi e la parte alta del corpo deve sostenerli: il compito non si limita al busto."
+  },
+  {
+   "part": 3,
+   "line": 5,
+   "question": "Quale esecuzione distingue il farmer’s walk dalle altre varianti di carry?",
+   "options": [
+    "Camminare con un peso sopra la testa e tenere il busto eretto.",
+    "Camminare con un peso in una mano e tenere il busto eretto.",
+    "Camminare con due pesi lungo i fianchi e inclinarsi a ogni passo.",
+    "Camminare con un peso per mano e tenere il busto eretto, senza sbandare."
+   ],
+   "answer": 3,
+   "why": "Il farmer’s walk carica entrambi i lati. Un solo peso al fianco caratterizza il suitcase carry; un peso sopra la testa caratterizza l’overhead carry."
+  },
+  {
+   "part": 3,
+   "line": 7,
+   "question": "Cosa cambia passando dal farmer’s walk al suitcase carry?",
+   "options": [
+    "Porti un peso solo al fianco e il lato opposto contrasta l’inclinazione.",
+    "Porti un peso solo al fianco e lasci inclinare il busto verso il carico.",
+    "Porti un peso sopra la testa e mantieni la stessa distribuzione del carico.",
+    "Porti due pesi uguali e sposti il busto verso un lato a ogni passo."
+   ],
+   "answer": 0,
+   "why": "Senza un secondo peso a bilanciare il primo, il carico tende a inclinarti dalla sua parte e il fianco opposto aiuta a tenerti dritto."
+  },
+  {
+   "part": 3,
+   "line": 11,
+   "question": "Quale accorgimento posturale conta quando cammini con un peso sopra la testa?",
+   "options": [
+    "Inarcare la schiena per riuscire a tenere il peso più in alto.",
+    "Inclinare il busto dal lato opposto per compensare il peso.",
+    "Mantenere una postura neutra senza inarcare troppo la schiena.",
+    "Piegare il busto verso il peso per tenerlo in equilibrio."
+   ],
+   "answer": 2,
+   "why": "La posizione sopra la testa mette alla prova anche la stabilità della spalla; inarcare la schiena per sostenerla fa perdere la postura neutra."
+  },
+  {
+   "part": 4,
+   "line": 5,
+   "question": "Una volta sollevato il corpo nel side plank di base, cosa fai?",
+   "options": [
+    "Abbassi e rialzi i fianchi sotto il controllo del core.",
+    "Mantieni la posizione e impedisci alla gravità di abbassare i fianchi.",
+    "Ruoti il busto verso terra per contrastare la gravità.",
+    "Sposti i fianchi verso l’alto e verso il basso per trovare l’equilibrio."
+   ],
+   "answer": 1,
+   "why": "Nella versione di base la sfida è statica: la gravità tende già a piegare il busto, quindi non serve aggiungere movimento."
+  },
+  {
+   "part": 4,
+   "line": 7,
+   "question": "Cosa succede se rilassi il core nel side plank, e cosa dimostra?",
+   "options": [
+    "I fianchi cadono verso terra: il core stava resistendo alla flessione laterale.",
+    "Le spalle ruotano verso terra: il core serviva soprattutto a impedire la rotazione.",
+    "I fianchi restano in linea: a impedire l’inclinazione bastano gli appoggi.",
+    "I fianchi scendono verso terra: la discesa è il movimento da allenare."
+   ],
+   "answer": 0,
+   "why": "Il cedimento mostra la direzione in cui agisce la gravità. Tenere i fianchi in linea significa opporsi proprio a quella piega laterale."
+  },
+  {
+   "part": 4,
+   "line": 9,
+   "question": "Quali due riferimenti controlli quando insegni il side plank di base?",
+   "options": [
+    "Avambraccio sotto la spalla e fianchi leggermente abbassati verso terra.",
+    "Avambraccio davanti alla spalla e corpo allineato dalla testa ai piedi.",
+    "Avambraccio sotto la spalla e busto ruotato verso il pavimento.",
+    "Avambraccio sotto la spalla e corpo allineato dalla testa ai piedi."
+   ],
+   "answer": 3,
+   "why": "L’appoggio sotto la spalla dà una base stabile e la linea testa-piedi fa vedere subito se i fianchi stanno cedendo."
+  },
+  {
+   "part": 5,
+   "line": 3,
+   "question": "Perché appoggiarsi sulle ginocchia rende il side plank più facile?",
+   "options": [
+    "La leva diventa più lunga, ma il busto viene sostenuto meglio.",
+    "La leva diventa più corta e l’appoggio più stabile.",
+    "La leva non cambia, ma il braccio libero sostiene più peso.",
+    "La leva diventa più corta e il busto può cedere verso terra."
+   ],
+   "answer": 1,
+   "why": "Portare l’appoggio dai piedi alle ginocchia lo avvicina al busto: il core continua a opporsi alla gravità, ma deve fare meno fatica."
+  },
+  {
+   "part": 5,
+   "line": 7,
+   "question": "Quale movimento del braccio libero rende più impegnativo il side plank?",
+   "options": [
+    "Lo appoggi a terra per aggiungere un sostegno e lo tieni fermo.",
+    "Lo lasci lungo il fianco mentre abbassi e rialzi i fianchi.",
+    "Lo porti sotto il corpo e poi lo riporti verso l’alto.",
+    "Lo sollevi verso l’alto e lo tieni fermo per tutta la tenuta."
+   ],
+   "answer": 2,
+   "why": "Muovere il braccio mette alla prova l’equilibrio mentre il core continua a impedire ai fianchi di cedere."
+  },
+  {
+   "part": 6,
+   "line": 1,
+   "question": "Come posizioni il corpo nel side lying hold su panca per resistere alla gravità?",
+   "options": [
+    "Di fianco, con tutto il busto appoggiato e le gambe oltre il bordo.",
+    "Di fianco, con il busto oltre il bordo, lasciandolo scendere e risalire.",
+    "Di fianco, con il busto sulla panca, premendo l’avambraccio contro il piano.",
+    "Di fianco, con i fianchi sulla panca e il busto sporgente tenuto in linea."
+   ],
+   "answer": 3,
+   "why": "La parte del busto senza appoggio tende a scendere per gravità. Il core lavora per tenerla in linea, non per sollevarla dopo una discesa."
+  },
+  {
+   "part": 6,
+   "line": 5,
+   "question": "Quali due modifiche aumentano la difficoltà del side lying hold?",
+   "options": [
+    "Allungare le braccia verso l’esterno oppure tenere un peso.",
+    "Tenere le braccia vicino al busto oppure far sporgere meno il busto.",
+    "Accorciare la parte di busto sporgente oppure sollevare i piedi.",
+    "Appoggiare più busto sulla panca oppure avvicinare le braccia al corpo."
+   ],
+   "answer": 0,
+   "why": "Allungare le braccia aumenta la leva, mentre tenere un peso aggiunge carico. In entrambi i casi il core deve contrastare una maggiore tendenza al cedimento."
+  },
+  {
+   "part": 6,
+   "line": 7,
+   "question": "Come puoi facilitare il side lying hold riducendo la leva?",
+   "options": [
+    "Lasci sporgere più busto e allunghi le braccia verso l’esterno.",
+    "Lasci sporgere più busto e sollevi i piedi.",
+    "Lasci sporgere meno busto dalla panca e sollevi i piedi.",
+    "Mantieni la stessa sporgenza del busto e aggiungi un peso."
+   ],
+   "answer": 2,
+   "why": "Con meno busto oltre il bordo si accorcia la leva su cui agisce la gravità, quindi serve meno tensione per tenere il tronco allineato."
+  },
+  {
+   "part": 6,
+   "line": 9,
+   "question": "Come mantieni ferme le gambe durante il side lying hold su panca?",
+   "options": [
+    "Le lasci libere di muoversi per bilanciare il busto.",
+    "Le stabilizzi con le barre di sicurezza del rack o con un compagno.",
+    "Le tieni ferme solo stringendole tra loro, senza un supporto esterno.",
+    "Le sposti quando il busto scende per recuperare l’equilibrio."
+   ],
+   "answer": 1,
+   "why": "Stabilizzare le gambe crea un appoggio sicuro, così puoi concentrarti sulla tenuta del busto senza dover compensare con gli arti inferiori."
+  },
+  {
+   "part": 7,
+   "line": 1,
+   "question": "Quale spinta unilaterale allena indirettamente il core contro la flessione laterale?",
+   "options": [
+    "Spingere un peso sopra la testa con un braccio, da in piedi.",
+    "Spingere due pesi uguali sopra la testa contemporaneamente, da in piedi.",
+    "Camminare tenendo un peso sopra la testa con un braccio.",
+    "Camminare tenendo un peso con una mano lungo il fianco."
+   ],
+   "answer": 0,
+   "why": "Nella spinta con un solo braccio il peso mette alla prova l’allineamento del busto. Nei carries, invece, trasporti il carico senza eseguire la spinta."
+  },
+  {
+   "part": 7,
+   "line": 3,
+   "question": "Perché il single-arm shoulder press da in piedi coinvolge il core?",
+   "options": [
+    "Perché il core inclina il busto verso il peso per aiutarlo a salire.",
+    "Perché il core interviene solo per riportare al centro il busto dopo la spinta.",
+    "Perché il core inclina il busto dal lato opposto durante tutta la ripetizione.",
+    "Perché il core contrasta la tendenza del carico unilaterale a inclinare il busto."
+   ],
+   "answer": 3,
+   "why": "Poiché il peso è su un solo lato, il core deve stabilizzare il busto mentre il braccio esegue la spinta."
+  },
+  {
+   "part": 7,
+   "line": 5,
+   "question": "Quando deve lavorare il core durante una ripetizione di single-arm shoulder press?",
+   "options": [
+    "Solo prima della spinta, per impostare la posizione di partenza.",
+    "Per tutta la ripetizione, anche mentre il peso sale sopra la testa.",
+    "Solo alla fine della spinta, quando il peso raggiunge la posizione più alta.",
+    "Solo durante la discesa, quando il peso ritorna verso la spalla."
+   ],
+   "answer": 1,
+   "why": "Sollevare il peso non elimina il compito di stabilizzare il busto: l’allineamento va controllato mentre il braccio si muove, non solo agli estremi."
+  },
+  {
+   "part": 7,
+   "line": 7,
+   "question": "Come distribuisci il single-arm shoulder press per favorire uno sviluppo bilanciato?",
+   "options": [
+    "Lo esegui solo con il braccio più forte, che regge meglio il peso.",
+    "Lo esegui solo con il braccio più debole, per compensare la differenza.",
+    "Lo esegui con entrambi i bracci, un lato alla volta.",
+    "Lo esegui con il braccio dominante, alternando la posizione dei piedi."
+   ],
+   "answer": 2,
+   "why": "Cambiando braccio, cambi il lato da cui il peso tende a inclinarti. Così alleni la spinta e il controllo del busto in entrambe le direzioni."
+  },
+  {
+   "part": 8,
+   "line": 1,
+   "question": "Come distribuisci un disco da 15 kg e uno da 10 kg per sbilanciare il bilanciere?",
+   "options": [
+    "Usi due dischi da 15 kg, uno per lato.",
+    "Usi due dischi da 10 kg, uno per lato.",
+    "Metti un disco da 15 kg e uno da 10 kg su ciascun lato.",
+    "Metti il disco da 15 kg su un lato e quello da 10 kg sull’altro."
+   ],
+   "answer": 3,
+   "why": "In questo modo un lato ha 5 kg in più dell’altro. Replicare la stessa combinazione sui due lati lascerebbe il bilanciere bilanciato."
+  },
+  {
+   "part": 8,
+   "line": 4,
+   "question": "Nello stacco con più peso su un lato del bilanciere, verso dove tende a inclinarsi il busto?",
+   "options": [
+    "Verso il lato più pesante, che viene tirato maggiormente verso il basso.",
+    "Verso il lato più leggero, perché offre meno resistenza all’inclinazione.",
+    "Verso nessun lato, perché impugnare la barra con due mani annulla lo sbilanciamento.",
+    "Verso il lato del primo piede in appoggio, indipendentemente dai dischi."
+   ],
+   "answer": 0,
+   "why": "La presa a due mani non elimina la differenza di carico: il lato più pesante crea una tendenza all’inclinazione che il core deve contrastare."
+  },
+  {
+   "part": 8,
+   "line": 7,
+   "question": "Lo stacco con carico sbilanciato cambia obiettivo principale?",
+   "options": [
+    "Sì, diventa principalmente una tenuta per il core anziché un esercizio di forza.",
+    "No, la forza resta l’obiettivo principale, ma il carico sbilanciato non coinvolge il core.",
+    "No, la forza resta l’obiettivo principale; lo sbilanciamento aggiunge uno stimolo per il core.",
+    "Sì, l’obiettivo principale diventa inclinare e riallineare il busto a ogni ripetizione."
+   ],
+   "answer": 2,
+   "why": "Il compito principale resta sollevare il bilanciere. La distribuzione disuguale aggiunge un secondo compito: impedire al busto di cedere lateralmente."
+  },
+  {
+   "part": 9,
+   "line": 0,
+   "question": "Quale gruppo di esercizi allena l’anti-flessione laterale camminando con il carico in posizioni diverse?",
+   "options": [
+    "Le tenute statiche: side plank, side plank sulle ginocchia e side lying hold.",
+    "I carries: farmer’s walk con due pesi, suitcase a un fianco, overhead sopra la testa.",
+    "Le spinte: shoulder press con due bracci, con un braccio o alternato.",
+    "Gli stacchi: con pesi uguali, con pesi diversi o a un braccio."
+   ],
+   "answer": 1,
+   "why": "Nelle tre varianti cambia la posizione del carico, ma il compito comune resta camminare mantenendo il busto allineato."
+  }
+ ]
+}

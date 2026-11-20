@@ -1,0 +1,1084 @@
+{
+ "code": "7.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 1,
+   "question": "Perché tirare forte non basta per eseguire bene lo strappo?",
+   "options": [
+    "Perché la velocità deve restare uguale per tutta l’alzata.",
+    "Perché ogni fase richiede la posizione giusta al momento giusto.",
+    "Perché la forza delle braccia conta più del ritmo.",
+    "Perché basta curare la partenza per rendere preciso il resto."
+   ],
+   "answer": 1,
+   "why": "La forza è utile solo se l’atleta la applica nelle posizioni e nei momenti che permettono di controllare il bilanciere."
+  },
+  {
+   "part": 0,
+   "line": 3,
+   "question": "Come conviene studiare la tecnica dello strappo prima di eseguire il gesto completo?",
+   "options": [
+    "Partire da terra e ripetere subito l’alzata completa.",
+    "Isolare solo la tirata più veloce, poi provare il gesto completo.",
+    "Studiare solo partenza e arrivo, lasciando spontaneo il resto.",
+    "Scomporre il gesto in fasi, iniziando dallo squat con il bilanciere sopra la testa."
+   ],
+   "answer": 3,
+   "why": "Studiare una posizione alla volta aiuta a capire che cosa deve succedere prima di collegare le fasi."
+  },
+  {
+   "part": 0,
+   "line": 5,
+   "question": "Quale sequenza si studia dopo l’overhead squat per ricostruire lo strappo?",
+   "options": [
+    "Partenza da terra, prima tirata, transizione, seconda tirata, incastro.",
+    "Partenza da terra, transizione, prima tirata, seconda tirata, incastro.",
+    "Partenza da terra, prima tirata, seconda tirata, transizione, incastro.",
+    "Partenza da terra, prima tirata, transizione, incastro, seconda tirata."
+   ],
+   "answer": 0,
+   "why": "La prima tirata solleva la sbarra, la transizione prepara l’accelerazione della seconda e solo dopo si riceve il bilanciere."
+  },
+  {
+   "part": 1,
+   "line": 0,
+   "question": "Quale affermazione distingue correttamente le alzate olimpiche?",
+   "options": [
+    "Strappo e slancio sono due fasi della stessa alzata.",
+    "Lo strappo è la gara, mentre lo slancio è solo un esercizio preparatorio.",
+    "Strappo e slancio sono due alzate distinte.",
+    "Lo slancio è la gara, mentre lo strappo è solo un esercizio preparatorio."
+   ],
+   "answer": 2,
+   "why": "Strappo e slancio sono due gesti distinti, non due momenti di un’unica alzata."
+  },
+  {
+   "part": 1,
+   "line": 1,
+   "question": "Che cosa rende riconoscibile uno strappo completo?",
+   "options": [
+    "Il bilanciere passa da terra alle spalle, poi viene spinto sopra la testa.",
+    "Il bilanciere va da terra sopra la testa in un gesto, con ricezione in squat.",
+    "Il bilanciere parte da terra e si ferma alle spalle in uno squat.",
+    "Il bilanciere parte dall’anca e viene ricevuto sopra la testa in uno squat."
+   ],
+   "answer": 1,
+   "why": "Nello strappo completo si parte da terra e si arriva direttamente alla ricezione sopra la testa, senza passaggi intermedi."
+  },
+  {
+   "part": 1,
+   "line": 3,
+   "question": "Come deve procedere il bilanciere da terra al blocco sopra la testa nello strappo?",
+   "options": [
+    "Con una pausa al ginocchio prima di riprendere la tirata.",
+    "Con un appoggio sulle spalle prima di distendere le braccia.",
+    "Con una pausa all’anca per preparare l’incastro.",
+    "Con un movimento continuo, senza pause né appoggi sulle spalle."
+   ],
+   "answer": 3,
+   "why": "Le fasi hanno compiti diversi, ma rimangono parti di un solo movimento."
+  },
+  {
+   "part": 1,
+   "line": 5,
+   "question": "Perché lo strappo può essere utile nella preparazione di un calciatore?",
+   "options": [
+    "Allena a produrre forza rapidamente e a esprimere potenza.",
+    "Allena soprattutto la forza massima, a prescindere dalla velocità.",
+    "Allena soprattutto a sostenere uno sforzo prolungato.",
+    "Allena soprattutto la forza delle braccia nei movimenti di tirata."
+   ],
+   "answer": 0,
+   "why": "In uno scatto o in uno stacco il tempo a disposizione è breve: conta quanta forza si riesce a produrre in quel tempo."
+  },
+  {
+   "part": 1,
+   "line": 9,
+   "question": "Come cambia il ruolo dello strappo tra un pesista e un calciatore?",
+   "options": [
+    "Per entrambi è un’alzata da gara; cambia solo il carico utilizzato.",
+    "Per il pesista è un esercizio accessorio; per il calciatore è una prova da gara.",
+    "Per il pesista è un’alzata da gara; per il calciatore è un mezzo per allenarsi.",
+    "Per entrambi serve soprattutto a migliorare la forza massima."
+   ],
+   "answer": 2,
+   "why": "Il pesista gareggia nello strappo; il calciatore lo usa per allenare qualità utili in campo, come l’esplosività."
+  },
+  {
+   "part": 2,
+   "line": 1,
+   "question": "Perché una progressione top-down dello strappo comincia dall’overhead squat?",
+   "options": [
+    "Perché questa posizione riproduce la partenza con il bilanciere a terra.",
+    "Perché allena prima la posizione in cui l’atleta dovrà ricevere il bilanciere.",
+    "Perché permette di imparare subito come accelerare il bilanciere.",
+    "Perché corregge direttamente la traiettoria del bilanciere sotto le ginocchia."
+   ],
+   "answer": 1,
+   "why": "Se la ricezione non è stabile, anche una buona tirata può non bastare a chiudere l’alzata."
+  },
+  {
+   "part": 2,
+   "line": 3,
+   "question": "Come puoi trovare una larghezza di presa adatta allo strappo?",
+   "options": [
+    "Stringi la presa finché la sbarra appoggia a metà coscia.",
+    "Usa la larghezza delle spalle e regola solo la posizione dei piedi.",
+    "Allarga la presa finché la sbarra arriva sopra la piega dell’anca.",
+    "Regola la presa perché la sbarra appoggi nella piega dell’anca, a ginocchia leggermente piegate."
+   ],
+   "answer": 3,
+   "why": "La piega dell’anca dà un riferimento sul corpo dell’atleta, senza imporre a tutti la stessa distanza tra le mani."
+  },
+  {
+   "part": 2,
+   "line": 5,
+   "question": "Come sistemi i piedi per l’overhead squat descritto nella lezione?",
+   "options": [
+    "Alla larghezza delle anche, con le punte leggermente in fuori.",
+    "Alla larghezza delle anche, con le punte leggermente in dentro.",
+    "Molto più larghi delle anche, con le punte dritte.",
+    "Più stretti delle anche, con le punte leggermente in fuori."
+   ],
+   "answer": 0,
+   "why": "La posizione dei piedi serve a costruire una base stabile da cui scendere mantenendo il controllo del bilanciere."
+  },
+  {
+   "part": 2,
+   "line": 7,
+   "question": "Quali riferimenti guidano la discesa in un overhead squat completo?",
+   "options": [
+    "Peso verso l’avampiede e anche sotto le ginocchia.",
+    "Peso verso i talloni e anche sopra le ginocchia.",
+    "Peso verso i talloni e anche sotto le ginocchia.",
+    "Peso verso l’avampiede e anche all’altezza delle ginocchia."
+   ],
+   "answer": 2,
+   "why": "L’appoggio posteriore è il riferimento per la discesa; il livello delle anche rispetto alle ginocchia indica se lo squat è completo."
+  },
+  {
+   "part": 2,
+   "line": 9,
+   "question": "Come devono stare le braccia durante l’overhead squat per sostenere il bilanciere?",
+   "options": [
+    "Leggermente piegate, per assorbire la discesa.",
+    "Completamente distese e bloccate, per sostenere la sbarra.",
+    "Piegate in discesa e distese solo in risalita.",
+    "Distese all’inizio e poi piegate per ritrovare l’equilibrio."
+   ],
+   "answer": 1,
+   "why": "Con i gomiti bloccati il sostegno resta stabile mentre l’atleta cambia altezza durante lo squat."
+  },
+  {
+   "part": 2,
+   "line": 11,
+   "question": "Perché non conviene aumentare il carico se l’overhead squat è instabile?",
+   "options": [
+    "Perché un carico maggiore riduce soprattutto la velocità della prima tirata.",
+    "Perché il carico maggiore limita soltanto la profondità dello squat.",
+    "Perché l’instabilità sparisce solo allenando la tirata da terra.",
+    "Perché un carico maggiore aumenta il rischio di perdere il bilanciere."
+   ],
+   "answer": 3,
+   "why": "Se l’atleta fatica già a controllare la sbarra sopra la testa, aggiungere peso rende più difficile stabilizzarla nella ricezione."
+  },
+  {
+   "part": 3,
+   "line": 0,
+   "question": "Che cosa osservi quando un atleta mostra un ginocchio valgo durante l’overhead squat?",
+   "options": [
+    "Le ginocchia cedono verso l’interno durante la discesa.",
+    "Le ginocchia si spostano in avanti durante la discesa.",
+    "Le ginocchia si allargano quando l’atleta raggiunge il fondo.",
+    "Le ginocchia restano ferme mentre il busto si inclina."
+   ],
+   "answer": 0,
+   "why": "Il segnale da cercare è il cedimento verso l’interno, non il semplice spostamento delle ginocchia durante lo squat."
+  },
+  {
+   "part": 3,
+   "line": 3,
+   "question": "Perché un overhead squat poco profondo può creare problemi nello strappo?",
+   "options": [
+    "Perché rende più difficile far passare la sbarra davanti alle ginocchia.",
+    "Perché costringe a cambiare presa prima della tirata.",
+    "Perché rende più difficile ricevere bene la sbarra sopra la testa.",
+    "Perché impedisce alle spalle di stare davanti alla sbarra in partenza."
+   ],
+   "answer": 2,
+   "why": "La profondità serve nella ricezione: se l’atleta non sa scendere abbastanza, ha meno possibilità di sistemarsi sotto il bilanciere."
+  },
+  {
+   "part": 3,
+   "line": 5,
+   "question": "Che effetto può avere un busto troppo inclinato in avanti nell’overhead squat?",
+   "options": [
+    "La sbarra tende ad arretrare mentre l’appoggio resta stabile.",
+    "La sbarra tende a scappare in avanti e diventa più difficile controllarla.",
+    "La sbarra resta stabile, ma le ginocchia tendono a cedere all’interno.",
+    "La sbarra resta in linea, ma la risalita diventa più lenta."
+   ],
+   "answer": 1,
+   "why": "Inclinandosi troppo, l’atleta fatica a mantenere il bilanciere controllato sopra la propria base d’appoggio."
+  },
+  {
+   "part": 3,
+   "line": 7,
+   "question": "Che cosa controlli se il bilanciere scappa dietro la linea delle spalle nell’overhead squat?",
+   "options": [
+    "Se l’atleta ha accelerato troppo appena staccato il bilanciere da terra.",
+    "Se l’atleta è sceso troppo in profondità con le anche.",
+    "Se l’atleta ha tenuto le spalle avanti troppo a lungo nella tirata.",
+    "Se l’atleta ha perso tensione nelle spalle e nella parte alta del corpo."
+   ],
+   "answer": 3,
+   "why": "La tensione della parte alta aiuta a controllare la sbarra sopra la testa e a evitare che arretri."
+  },
+  {
+   "part": 3,
+   "line": 11,
+   "question": "Quali due punti di partenza puoi scegliere per insegnare lo strappo?",
+   "options": [
+    "La ricezione sopra la testa oppure le prime fasi da terra.",
+    "La prima tirata da terra oppure la stessa tirata con più carico.",
+    "La ricezione profonda oppure la stessa ricezione con i piedi più stretti.",
+    "La seconda tirata dall’anca oppure la stessa tirata dalle ginocchia."
+   ],
+   "answer": 0,
+   "why": "Una progressione parte dal punto d’arrivo, l’altra dalle fasi iniziali: non è obbligatorio insegnare il gesto in ordine cronologico."
+  },
+  {
+   "part": 4,
+   "line": 0,
+   "question": "Come impugni il bilanciere con la presa normale, senza usare la presa a gancio?",
+   "options": [
+    "Blocchi il pollice contro la sbarra con le altre dita.",
+    "Appoggi la sbarra sulle dita senza chiudere la mano.",
+    "Avvolgi la sbarra con tutta la mano, senza bloccare il pollice sotto le dita.",
+    "Tieni il pollice sullo stesso lato delle altre dita senza avvolgere la sbarra."
+   ],
+   "answer": 2,
+   "why": "Entrambe le prese avvolgono la sbarra; a distinguere il gancio è il pollice bloccato sotto le altre dita."
+  },
+  {
+   "part": 4,
+   "line": 3,
+   "question": "Perché i pesisti preferiscono la presa a gancio nello strappo?",
+   "options": [
+    "Perché serve soprattutto a tenere i gomiti bloccati nella ricezione.",
+    "Perché aiuta a tirare con potenza sia nella prima sia nella seconda tirata.",
+    "Perché mantiene la sbarra sopra il mezzo piede nella posizione iniziale.",
+    "Perché permette di piegare prima le braccia nella seconda tirata."
+   ],
+   "answer": 1,
+   "why": "Bloccare il pollice con le dita rende salda la presa nelle due fasi in cui l’atleta applica forza alla sbarra."
+  },
+  {
+   "part": 4,
+   "line": 5,
+   "question": "Come sistemi piedi e bilanciere prima di partire da terra nello strappo?",
+   "options": [
+    "Carico sui talloni, con la sbarra già a contatto con le tibie.",
+    "Carico sull’avampiede, con la sbarra davanti alla punta delle scarpe.",
+    "Carico sul mezzo piede, con la sbarra a contatto con le tibie.",
+    "Piedi piantati, carico sul mezzo piede, sbarra sopra il primo occhiello e staccata dalle tibie."
+   ],
+   "answer": 3,
+   "why": "L’appoggio centrale dà una base stabile; il riferimento sulla scarpa posiziona la sbarra appena davanti alle tibie."
+  },
+  {
+   "part": 4,
+   "line": 7,
+   "question": "Come sistemi spalle, petto e schiena nella partenza da terra dello strappo?",
+   "options": [
+    "Spalle davanti alla sbarra, petto e testa alti, schiena dritta e in tensione.",
+    "Spalle dietro la sbarra, petto alto, schiena dritta e in tensione.",
+    "Spalle davanti alla sbarra, petto basso, schiena rilassata.",
+    "Spalle sopra la sbarra, testa bassa, schiena arrotondata."
+   ],
+   "answer": 0,
+   "why": "Le spalle davanti e la schiena in tensione preparano una prima tirata controllata fin dal distacco."
+  },
+  {
+   "part": 5,
+   "line": 1,
+   "question": "Quale alternativa hai se non vuoi insegnare lo strappo partendo dal pavimento?",
+   "options": [
+    "Insegnare subito l’alzata completa, riducendo soltanto il carico.",
+    "Iniziare comunque dalla prima tirata, ma eseguirla più lentamente.",
+    "Partire dalla fase finale e introdurre gradualmente le posizioni più basse.",
+    "Partire dalla seconda tirata e passare direttamente allo strappo da terra."
+   ],
+   "answer": 2,
+   "why": "La progressione top-down rende familiare il punto d’arrivo prima di aggiungere le fasi che lo precedono."
+  },
+  {
+   "part": 5,
+   "line": 3,
+   "question": "Come progredisci dopo l’overhead squat in un percorso top-down per lo strappo?",
+   "options": [
+    "Passi subito da terra e solo dopo provi le partenze in sospensione.",
+    "Aggiungi le partenze in sospensione, prima dall’anca e poi dalle ginocchia.",
+    "Aggiungi le partenze in sospensione, prima dalle ginocchia e poi dall’anca.",
+    "Ripeti solo l’overhead squat finché puoi aumentare il carico."
+   ],
+   "answer": 1,
+   "why": "Abbassando gradualmente il punto di partenza, aggiungi porzioni di movimento senza introdurre subito tutta l’alzata."
+  },
+  {
+   "part": 5,
+   "line": 5,
+   "question": "Per quale atleta è particolarmente utile una progressione top-down nello strappo?",
+   "options": [
+    "Per chi parte bene da terra, ma deve ancora stabilizzare la ricezione.",
+    "Per chi ha una ricezione stabile, ma tende a partire troppo rapidamente.",
+    "Per chi non riesce a tenere le braccia tese nella seconda tirata.",
+    "Per chi ha mobilità limitata e fatica a sistemarsi nella partenza da terra."
+   ],
+   "answer": 3,
+   "why": "Iniziando da posizioni più alte, l’atleta può imparare le fasi finali senza essere subito bloccato dalla difficoltà di partire da terra."
+  },
+  {
+   "part": 5,
+   "line": 7,
+   "question": "Su che cosa lavori inizialmente con una progressione bottom-up per lo strappo?",
+   "options": [
+    "Sulla partenza dal pavimento e sulle prime tirate, rimandando la ricezione sopra la testa.",
+    "Sulla ricezione in squat e sulle partenze dall’anca, rimandando il lavoro da terra.",
+    "Solo sulla terza tirata, per imparare a infilarsi sotto il bilanciere.",
+    "Sull’alzata completa da terra, concentrandoti soltanto sulla posizione finale."
+   ],
+   "answer": 0,
+   "why": "Partire dalle tirate permette di imparare le fasi iniziali anche se l’atleta non sa ancora ricevere stabilmente sopra la testa."
+  },
+  {
+   "part": 5,
+   "line": 9,
+   "question": "Quale progressione scegli se la rigidità di anche e caviglie impedisce una buona partenza da terra?",
+   "options": [
+    "Dal basso, insistendo subito sulla posizione da terra.",
+    "Dal basso, usando la ricezione profonda come primo esercizio.",
+    "Dall’alto, introducendo gradualmente partenze da posizioni più basse.",
+    "Dall’alto, passando subito dall’overhead squat allo strappo da terra."
+   ],
+   "answer": 2,
+   "why": "Una partenza più alta permette di apprendere il gesto senza forzare subito la posizione che l’atleta non riesce ad assumere."
+  },
+  {
+   "part": 6,
+   "line": 1,
+   "question": "Come correggi un atleta che parte con le spalle dietro il bilanciere?",
+   "options": [
+    "Gli chiedi di tenerle dietro fino al passaggio delle ginocchia.",
+    "Gli chiedi di portarle davanti alla sbarra prima del distacco.",
+    "Gli chiedi di spostarle davanti dopo aver staccato il bilanciere.",
+    "Gli chiedi di compensare spostando il peso sull’avampiede."
+   ],
+   "answer": 1,
+   "why": "Correggere l’allineamento prima del distacco evita di doverlo recuperare mentre la sbarra è già in movimento."
+  },
+  {
+   "part": 6,
+   "line": 3,
+   "question": "Quale errore della partenza può dipendere dalla difficoltà a scendere nella posizione iniziale?",
+   "options": [
+    "Le braccia si piegano durante la seconda tirata.",
+    "Le ginocchia si spostano all’interno durante la ricezione.",
+    "Le spalle si allineano alla sbarra al termine della spinta.",
+    "Le anche restano troppo alte prima del distacco."
+   ],
+   "answer": 3,
+   "why": "Se l’atleta fatica a scendere, può sistemarsi con il bacino troppo alto già prima di sollevare il bilanciere."
+  },
+  {
+   "part": 6,
+   "line": 4,
+   "question": "Che cosa può spiegare perché un atleta tiene le anche troppo alte in partenza?",
+   "options": [
+    "La mobilità limitata gli rende difficile assumere una posizione più bassa.",
+    "La presa a gancio gli rende difficile tenere le braccia distese.",
+    "La scarsa potenza gli impedisce di accelerare dopo le ginocchia.",
+    "L’instabilità sopra la testa gli impedisce di bloccare i gomiti."
+   ],
+   "answer": 0,
+   "why": "L’errore è presente prima che il bilanciere si muova: conviene verificare se l’atleta riesce a raggiungere una posizione più bassa."
+  },
+  {
+   "part": 6,
+   "line": 7,
+   "question": "Quale errore in partenza richiede attenzione particolare quando il carico è pesante?",
+   "options": [
+    "Le ginocchia sono leggermente avanzate davanti al corpo.",
+    "Il peso è distribuito sulla parte centrale del piede.",
+    "La schiena è già arrotondata prima del distacco.",
+    "Le spalle sono davanti alla linea del bilanciere."
+   ],
+   "answer": 2,
+   "why": "Se l’atleta parte con la colonna flessa, affronta il distacco senza la posizione della schiena richiesta dalla lezione."
+  },
+  {
+   "part": 6,
+   "line": 9,
+   "question": "Quali limiti di mobilità valuti se l’atleta parte con la schiena arrotondata?",
+   "options": [
+    "Poca mobilità di polsi e gomiti nella ricezione.",
+    "Scarsa estensione toracica e ridotta mobilità delle anche.",
+    "Poca apertura delle spalle e difficoltà a chiudere la presa.",
+    "Scarsa flessione plantare e ridotta estensione delle ginocchia."
+   ],
+   "answer": 1,
+   "why": "Valutare torace e anche aiuta a capire se l’atleta riesce ad assumere la posizione iniziale senza arrotondare la schiena."
+  },
+  {
+   "part": 7,
+   "line": 5,
+   "question": "Come controlli spalle, testa e petto durante la prima tirata?",
+   "options": [
+    "Spalle in linea con la sbarra, testa bassa e petto alto.",
+    "Spalle dietro la sbarra, testa e petto alti.",
+    "Spalle davanti alla sbarra, testa e petto abbassati.",
+    "Spalle davanti alla sbarra, testa e petto alti."
+   ],
+   "answer": 3,
+   "why": "Questi riferimenti aiutano l’atleta a mantenere un assetto controllato prima della transizione, senza anticipare l’estensione della seconda tirata."
+  },
+  {
+   "part": 7,
+   "line": 7,
+   "question": "Nella variante descritta per gli atleti d’élite, cosa succede quando il bilanciere arriva alle ginocchia?",
+   "options": [
+    "Le ginocchia si distendono leggermente; il peso resta tra avampiede e mezzo piede.",
+    "Le ginocchia si distendono leggermente; il peso passa tutto sui talloni.",
+    "Le ginocchia si flettono ancora; il peso resta tra avampiede e mezzo piede.",
+    "Le ginocchia mantengono la flessione iniziale; il peso si sposta sul retropiede."
+   ],
+   "answer": 0,
+   "why": "In questa variante le ginocchia liberano il passaggio della sbarra mentre la pressione resta più avanti rispetto alla variante orientata al retropiede."
+  },
+  {
+   "part": 7,
+   "line": 9,
+   "question": "Perché nella prima tirata alcuni atleti tengono il peso tra avampiede e mezzo piede alle ginocchia?",
+   "options": [
+    "Per iniziare la ricezione senza aspettare la seconda tirata.",
+    "Per trasferire subito tutto il peso sui talloni.",
+    "Per preparare l’attivazione muscolare necessaria a produrre potenza nella fase successiva.",
+    "Per evitare che le ginocchia si distendano al passaggio della sbarra."
+   ],
+   "answer": 2,
+   "why": "Lo scopo indicato nella lezione è preparare la spinta successiva, non anticipare l’incastro o impedire alle ginocchia di liberare il passaggio."
+  },
+  {
+   "part": 7,
+   "line": 11,
+   "question": "Che cosa devono fare le ginocchia nella prima tirata, indipendentemente dalla distribuzione del peso sul piede?",
+   "options": [
+    "Restare avanzate finché la sbarra non le supera.",
+    "Liberare il passaggio senza deviare la sbarra in avanti.",
+    "Piegarsi di nuovo prima che la sbarra raggiunga le tibie.",
+    "Spingere leggermente la sbarra in avanti per lasciarla salire."
+   ],
+   "answer": 1,
+   "why": "Qualunque sia l’appoggio scelto, la sbarra deve poter salire senza dover aggirare le ginocchia."
+  },
+  {
+   "part": 8,
+   "line": 3,
+   "question": "Oltre alla posizione delle spalle, quale riferimento del busto controlli lungo tutta la prima tirata?",
+   "options": [
+    "Quanto presto il petto diventa verticale.",
+    "Quanto velocemente le spalle raggiungono la linea della sbarra.",
+    "Quanto indietro si inclina il busto al distacco.",
+    "Se l’angolo della schiena resta costante mentre la sbarra sale."
+   ],
+   "answer": 3,
+   "why": "Se l’angolo cambia troppo presto, cambia anche la posizione da cui l’atleta dovrà iniziare la transizione."
+  },
+  {
+   "part": 8,
+   "line": 5,
+   "question": "Come tieni la schiena mentre il bilanciere sale nella prima tirata?",
+   "options": [
+    "Piatta e in tensione, mantenendo lo stesso angolo.",
+    "Piatta e in tensione, raddrizzandola subito dopo il distacco.",
+    "Rilassata al distacco, mettendola in tensione sopra le ginocchia.",
+    "Arrotondata all’inizio, raddrizzandola al passaggio delle ginocchia."
+   ],
+   "answer": 0,
+   "why": "Una schiena stabile conserva l’assetto di partenza mentre il bilanciere sale e prepara la transizione."
+  },
+  {
+   "part": 8,
+   "line": 7,
+   "question": "Che cosa succede se la schiena si raddrizza troppo presto o si arrotonda nella prima tirata?",
+   "options": [
+    "Si perde velocità solo al distacco, ma la transizione non cambia.",
+    "Diventa più facile allineare le spalle alla sbarra nella seconda tirata.",
+    "Si perde l’assetto da cui dovrebbero iniziare le fasi successive.",
+    "Si riduce solo la profondità dello squat di ricezione."
+   ],
+   "answer": 2,
+   "why": "La transizione parte dalla posizione lasciata dalla prima tirata: se il busto ha perso l’assetto, anche la fase successiva ne risente."
+  },
+  {
+   "part": 8,
+   "line": 11,
+   "question": "Come applichi le indicazioni sullo strappo ad atleti con proporzioni corporee diverse?",
+   "options": [
+    "Imponi la stessa postura a tutti e adatti soltanto il carico.",
+    "Adatti i dettagli delle posizioni alle leve e alle caratteristiche dell’atleta.",
+    "Cambi l’ordine delle fasi per gli atleti con leve più lunghe.",
+    "Usi come riferimento obbligatorio le posizioni di un pesista compatto."
+   ],
+   "answer": 1,
+   "why": "Atleti con leve diverse possono rispettare gli stessi principi tecnici senza assumere posizioni identiche."
+  },
+  {
+   "part": 9,
+   "line": 1,
+   "question": "Quale errore commette chi dà uno strattone al bilanciere appena parte da terra?",
+   "options": [
+    "Anticipa la flessione delle braccia nella ricezione.",
+    "Perde tensione soltanto dopo il passaggio delle ginocchia.",
+    "Mantiene troppo a lungo la posizione iniziale durante la transizione.",
+    "Forza il distacco invece di iniziare la prima tirata in modo controllato."
+   ],
+   "answer": 3,
+   "why": "Lo strattone rompe il ritmo prima che l’atleta abbia guidato la sbarra verso la posizione da cui accelerare."
+  },
+  {
+   "part": 9,
+   "line": 3,
+   "question": "Se lo strappo è esplosivo, perché non conviene tirare di colpo appena il bilanciere lascia terra?",
+   "options": [
+    "Perché un distacco brusco rompe il ritmo della prima tirata.",
+    "Perché la sbarra deve fermarsi alle ginocchia prima di accelerare.",
+    "Perché l’intera alzata deve mantenere la velocità del distacco.",
+    "Perché la spinta principale va riservata alla ricezione sopra la testa."
+   ],
+   "answer": 0,
+   "why": "Un distacco deciso ma controllato permette di preparare l’accelerazione quando l’atleta è nella posizione giusta."
+  },
+  {
+   "part": 9,
+   "line": 5,
+   "question": "Che cosa diventa più difficile se il bilanciere viene strappato di colpo da terra?",
+   "options": [
+    "Decidere quanto allargare la presa prima di partire.",
+    "Riconoscere la profondità raggiunta nello squat di ricezione.",
+    "Gestire la velocità della sbarra nelle fasi successive.",
+    "Mantenere la stessa larghezza dei piedi prima del distacco."
+   ],
+   "answer": 2,
+   "why": "Un avvio brusco altera il ritmo e rende più difficile arrivare alla seconda tirata pronti ad accelerare la sbarra."
+  },
+  {
+   "part": 9,
+   "line": 7,
+   "question": "In quale fase esprimi la massima esplosività e che cosa fai prima?",
+   "options": [
+    "Nella prima tirata; nelle fasi successive cerchi soprattutto di frenare.",
+    "Nella seconda tirata; prima crei tensione e guidi la sbarra in posizione.",
+    "Nella transizione; dalla seconda tirata in poi mantieni la velocità costante.",
+    "Nell’incastro; nelle tirate precedenti sali lentamente per risparmiare forza."
+   ],
+   "answer": 1,
+   "why": "La prima tirata prepara la posizione; la seconda sfrutta quella posizione per imprimere velocità al bilanciere."
+  },
+  {
+   "part": 10,
+   "line": 1,
+   "question": "Che assetto assume l’atleta se le anche salgono troppo presto nella prima tirata?",
+   "options": [
+    "Resta con le ginocchia molto flesse e il busto troppo verticale.",
+    "Si raddrizza troppo presto e lascia la sbarra dietro il corpo.",
+    "Porta il busto indietro mentre le anche rimangono basse.",
+    "Si ritrova quasi a gambe tese, con il busto troppo inclinato in avanti."
+   ],
+   "answer": 3,
+   "why": "Se le anche salgono troppo presto, cambia l’angolo del busto e la sbarra fatica a seguire la traiettoria prevista."
+  },
+  {
+   "part": 10,
+   "line": 5,
+   "question": "Come riconosci la perdita di tensione nella parte alta subito dopo il distacco?",
+   "options": [
+    "Le spalle si chiudono e la parte alta della schiena si arrotonda.",
+    "Le spalle restano davanti e la schiena mantiene l’angolo iniziale.",
+    "Le spalle si allineano alla sbarra alla fine della spinta.",
+    "Le spalle salgono mentre l’atleta entra nell’incastro."
+   ],
+   "answer": 0,
+   "why": "Una buona posizione iniziale non basta: la chiusura delle spalle mostra che l’atleta non ha mantenuto la tensione mentre la sbarra saliva."
+  },
+  {
+   "part": 10,
+   "line": 9,
+   "question": "Come aiuti un atleta le cui anche salgono presto o le cui spalle si chiudono?",
+   "options": [
+    "Ripeti sempre la stessa indicazione e aggiungi carico per consolidarla.",
+    "Mostri il gesto completo, ma rimandi ogni correzione fino alla ricezione.",
+    "Dai indicazioni mirate, mostri le posizioni e lavori sulla mobilità se serve.",
+    "Tratti entrambi gli errori come problemi di mobilità, senza rivedere la tecnica."
+   ],
+   "answer": 2,
+   "why": "L’atleta deve capire quale posizione cambiare; il lavoro di mobilità serve se un limite fisico ostacola quella correzione."
+  },
+  {
+   "part": 10,
+   "line": 11,
+   "question": "Come usi il video per capire se nella prima tirata salgono prima le anche?",
+   "options": [
+    "Riprendi da davanti e osservi soltanto la larghezza dei piedi.",
+    "Riprendi di lato e confronti con l’atleta il movimento di anche e ginocchia.",
+    "Riprendi da dietro e osservi soltanto l’altezza del bilanciere.",
+    "Riprendi solo la ricezione e ricostruisci da quella la partenza."
+   ],
+   "answer": 1,
+   "why": "La vista laterale mostra quando si muovono anche e ginocchia e come cambia l’inclinazione del busto."
+  },
+  {
+   "part": 11,
+   "line": 1,
+   "question": "A cosa serve la transizione tra prima e seconda tirata nello strappo?",
+   "options": [
+    "A sospendere il movimento alle ginocchia per cambiare posizione.",
+    "A iniziare la discesa sotto la sbarra prima della spinta.",
+    "A trasferire la spinta dalle gambe alle braccia.",
+    "A collegare le tirate con fluidità e preparare la produzione di potenza."
+   ],
+   "answer": 3,
+   "why": "La posizione raggiunta superando le ginocchia non è ancora quella di potenza: la transizione prepara la spinta senza interrompere il gesto."
+  },
+  {
+   "part": 11,
+   "line": 3,
+   "question": "Qual è il primo movimento delle ginocchia nella sequenza che porta alla doppia flessione?",
+   "options": [
+    "Si distendono quanto basta per liberare la traiettoria della sbarra.",
+    "Si piegano di nuovo prima che la sbarra le raggiunga.",
+    "Avanzano per spostare la sbarra lontano dagli stinchi.",
+    "Restano ferme finché il bilanciere raggiunge i fianchi."
+   ],
+   "answer": 0,
+   "why": "Prima di potersi flettere di nuovo, le ginocchia devono lasciare passare il bilanciere senza deviarlo."
+  },
+  {
+   "part": 11,
+   "line": 5,
+   "question": "Come passi dal superamento delle ginocchia alla posizione di potenza nello strappo?",
+   "options": [
+    "Porti subito le spalle dietro la sbarra e tieni le ginocchia estese.",
+    "Pieghi subito le braccia e mantieni il peso sul retropiede.",
+    "Tieni inizialmente spalle avanti e braccia tese; vicino ai fianchi riflet­ti le ginocchia.",
+    "Distendi subito le caviglie e porti il peso sulle punte prima della riflessione."
+   ],
+   "answer": 2,
+   "why": "La sbarra supera le ginocchia con le braccia ancora tese; quando raggiunge i fianchi, le ginocchia si piegano di nuovo per preparare la spinta."
+  },
+  {
+   "part": 11,
+   "line": 7,
+   "question": "Perché le ginocchia si piegano di nuovo quando il bilanciere si avvicina ai fianchi?",
+   "options": [
+    "Per frenare la sbarra e aspettare che il corpo si stabilizzi.",
+    "Per preparare la spinta esplosiva sfruttando il ciclo allungamento-accorciamento.",
+    "Per iniziare a ricevere il bilanciere prima di estendere le anche.",
+    "Per spostare la spinta dalle gambe alle braccia."
+   ],
+   "answer": 1,
+   "why": "La nuova flessione prepara la posizione di potenza e permette ai muscoli di caricarsi prima di una rapida estensione."
+  },
+  {
+   "part": 12,
+   "line": 1,
+   "question": "Quando riconosci una strategia one-pull nella transizione dello strappo?",
+   "options": [
+    "Quando l’atleta distingue le due tirate senza fermare la sbarra.",
+    "Quando l’atleta usa la sbarra per tirarsi sotto dopo la spinta.",
+    "Quando l’atleta ripiega le ginocchia dopo il passaggio della sbarra.",
+    "Quando l’atleta affretta la transizione e tira tutto senza preparare la seconda tirata."
+   ],
+   "answer": 3,
+   "why": "Il problema non è che il gesto sia continuo, ma che venga saltato il cambio di posizione che prepara la spinta esplosiva."
+  },
+  {
+   "part": 12,
+   "line": 3,
+   "question": "Perché una strategia a tirata unica può ridurre la potenza dello strappo?",
+   "options": [
+    "Perché l’atleta salta la preparazione della posizione di potenza.",
+    "Perché l’atleta mantiene una transizione troppo distinta dalla prima tirata.",
+    "Perché l’atleta prolunga troppo il blocco delle braccia sopra la testa.",
+    "Perché l’atleta riceve la sbarra con uno squat troppo profondo."
+   ],
+   "answer": 0,
+   "why": "Senza una transizione efficace, l’atleta sfrutta meno il caricamento che precede la rapida estensione."
+  },
+  {
+   "part": 12,
+   "line": 5,
+   "question": "Come correggi un atleta che salta la transizione e tira tutto in un colpo solo?",
+   "options": [
+    "Gli chiedi di tirare più forte fin dal distacco.",
+    "Gli chiedi di fermarsi nella transizione a ogni alzata completa.",
+    "Gli fai distinguere i compiti delle fasi mantenendo il movimento controllato.",
+    "Gli chiedi di cominciare a piegare le braccia prima delle ginocchia."
+   ],
+   "answer": 2,
+   "why": "L’atleta deve sentire quando passa dal guidare la sbarra al preparare la spinta, senza trasformare il gesto in movimenti separati."
+  },
+  {
+   "part": 12,
+   "line": 7,
+   "question": "Quale errore delle spalle in transizione può ridurre la potenza della seconda tirata?",
+   "options": [
+    "Restano davanti alla sbarra mentre questa supera le ginocchia.",
+    "Arretrano troppo rispetto alla sbarra prima della seconda tirata.",
+    "Si allineano alla sbarra al termine della seconda tirata.",
+    "Restano attive quando l’atleta riceve il bilanciere sopra la testa."
+   ],
+   "answer": 1,
+   "why": "Portare troppo presto le spalle dietro mette l’atleta in una posizione meno favorevole per iniziare la spinta esplosiva."
+  },
+  {
+   "part": 12,
+   "line": 9,
+   "question": "Che indicazione dai se l’atleta arretra troppo le spalle durante la transizione?",
+   "options": [
+    "«Porta subito tutto il peso sulle punte.»",
+    "«Raddrizza prima il busto e porta indietro il petto.»",
+    "«Piega prima le braccia per avvicinare la sbarra.»",
+    "«Rimani ancora un po’ sopra la sbarra con il busto.»"
+   ],
+   "answer": 3,
+   "why": "Restare leggermente inclinati sopra il bilanciere evita di anticipare l’arretramento e prepara una posizione migliore per la seconda tirata."
+  },
+  {
+   "part": 13,
+   "line": 5,
+   "question": "Quali articolazioni partecipano alla tripla estensione nella seconda tirata?",
+   "options": [
+    "Anche, ginocchia e caviglie, con salita sulle punte.",
+    "Anche e ginocchia, mentre le caviglie restano ferme.",
+    "Ginocchia e caviglie, mentre le anche restano flesse.",
+    "Anche, ginocchia e gomiti, con i talloni ancora a terra."
+   ],
+   "answer": 0,
+   "why": "Alla spinta coordinata di anche e ginocchia si aggiunge la flessione plantare della caviglia, visibile quando i talloni si sollevano."
+  },
+  {
+   "part": 13,
+   "line": 7,
+   "question": "Come si muovono le spalle mentre la seconda tirata raggiunge il culmine?",
+   "options": [
+    "Restano davanti alla sbarra fino alla ricezione.",
+    "Arretrano subito e poi si abbassano mentre sale la sbarra.",
+    "Si allineano alla sbarra e infine salgono con una scrollata decisa.",
+    "Si allineano alla sbarra solo dopo il blocco sopra la testa."
+   ],
+   "answer": 2,
+   "why": "L’allineamento avviene mentre l’atleta completa la spinta; la scrollata verso l’alto accompagna la parte finale della tirata."
+  },
+  {
+   "part": 13,
+   "line": 9,
+   "question": "In quale fase la sbarra raggiunge la velocità più alta nello strappo?",
+   "options": [
+    "Al distacco, quando inizia la prima tirata.",
+    "Al culmine della seconda tirata, dopo la spinta esplosiva.",
+    "In transizione, appena la sbarra supera le ginocchia.",
+    "Nella ricezione, quando le braccia si bloccano."
+   ],
+   "answer": 1,
+   "why": "La seconda tirata è la fase in cui l’atleta imprime alla sbarra la spinta più esplosiva, prima di infilarsi sotto."
+  },
+  {
+   "part": 14,
+   "line": 1,
+   "question": "Che cosa significa che manca la tripla estensione nella seconda tirata?",
+   "options": [
+    "L’atleta distende le gambe ma non piega abbastanza i gomiti.",
+    "L’atleta si estende del tutto ma non scrolla le spalle.",
+    "L’atleta piega di nuovo le ginocchia prima della seconda tirata.",
+    "L’atleta non completa l’estensione di anche, ginocchia e caviglie."
+   ],
+   "answer": 3,
+   "why": "La tripla estensione riguarda la spinta delle tre articolazioni della parte bassa, non il movimento delle braccia."
+  },
+  {
+   "part": 14,
+   "line": 3,
+   "question": "Quale movimento del piede può mancare quando la tripla estensione resta incompleta?",
+   "options": [
+    "La flessione plantare: l’atleta non termina la spinta salendo sulle punte.",
+    "Il ritorno al mezzo piede: l’atleta non prepara correttamente la transizione.",
+    "Lo spostamento verso il retropiede: l’atleta non controlla la prima tirata.",
+    "L’apertura delle punte: l’atleta non allarga abbastanza la base di ricezione."
+   ],
+   "answer": 0,
+   "why": "La salita sulle punte è il segno visibile del contributo della caviglia al termine della spinta."
+  },
+  {
+   "part": 14,
+   "line": 5,
+   "question": "Quale conseguenza ha una tripla estensione incompleta sulla salita del bilanciere?",
+   "options": [
+    "La sbarra raggiunge la stessa velocità, ma riduce la profondità di ricezione.",
+    "La sbarra accelera prima e costringe l’atleta a ritardare l’incastro.",
+    "La sbarra riceve meno spinta e può salire meno e più lentamente.",
+    "La sbarra sale più in alto perché l’atleta passa prima sotto."
+   ],
+   "answer": 2,
+   "why": "Se la spinta resta incompleta, meno potenza arriva alla sbarra e l’atleta ha meno margine per sistemarsi sotto."
+  },
+  {
+   "part": 14,
+   "line": 9,
+   "question": "Che cosa cerchi di lato per verificare la tripla estensione al culmine della seconda tirata?",
+   "options": [
+    "Anche aperte, ginocchia piegate e talloni sollevati.",
+    "Anche aperte, ginocchia distese e talloni sollevati.",
+    "Anche flesse, ginocchia distese e talloni sollevati.",
+    "Anche aperte, ginocchia distese e talloni a terra."
+   ],
+   "answer": 1,
+   "why": "I tre riferimenti permettono di controllare separatamente il contributo di anche, ginocchia e caviglie."
+  },
+  {
+   "part": 15,
+   "line": 1,
+   "question": "Quale errore del busto può spingere il bilanciere lontano dal corpo nella seconda tirata?",
+   "options": [
+    "Mantenere l’inclinazione iniziale durante la prima tirata.",
+    "Restare sopra il bilanciere all’inizio della transizione.",
+    "Tenere il petto alto mentre si riceve il bilanciere.",
+    "Inclinarsi eccessivamente all’indietro durante la seconda tirata."
+   ],
+   "answer": 3,
+   "why": "Arretrando troppo con il busto, l’atleta può mandare la sbarra in avanti invece di guidarla vicino al corpo."
+  },
+  {
+   "part": 15,
+   "line": 5,
+   "question": "Che cosa indica una seconda tirata poco decisa, affidata soprattutto alle braccia?",
+   "options": [
+    "L’atleta non sfrutta abbastanza la spinta esplosiva di gambe e anche.",
+    "L’atleta ha spinto troppo con le gambe e deve frenare con le braccia.",
+    "L’atleta ha tenuto la sbarra troppo vicina durante la salita.",
+    "L’atleta è entrato troppo in profondità nello squat prima della spinta."
+   ],
+   "answer": 0,
+   "why": "Gambe e anche sono la fonte principale della spinta; tirare soprattutto di braccia non dà alla sbarra la stessa accelerazione."
+  },
+  {
+   "part": 15,
+   "line": 11,
+   "question": "Che indicazione dai a chi piega troppo presto le braccia nella seconda tirata?",
+   "options": [
+    "«Piega i gomiti appena la sbarra supera il ginocchio.»",
+    "«Inizia con le braccia e completa la spinta con le gambe.»",
+    "«Tieni le braccia tese finché le gambe non finiscono di spingere.»",
+    "«Tieni le braccia tese anche mentre ti infili sotto la sbarra.»"
+   ],
+   "answer": 2,
+   "why": "Prima le braccia trasmettono alla sbarra la spinta di gambe e anche; poi si piegano per aiutarti a scendere sotto."
+  },
+  {
+   "part": 16,
+   "line": 1,
+   "question": "Che cosa distingue il drop under dal catch nello strappo?",
+   "options": [
+    "Nel drop under acceleri con le gambe; nel catch ti infili sotto.",
+    "Nel drop under ti infili sotto la sbarra; nel catch la ricevi e la blocchi.",
+    "Nel drop under blocchi la sbarra; nel catch inizi a scendere sotto.",
+    "Nel drop under superi le ginocchia; nel catch completi la seconda tirata."
+   ],
+   "answer": 1,
+   "why": "Prima l’atleta cambia posizione rispetto alla sbarra, poi la stabilizza sopra la testa."
+  },
+  {
+   "part": 16,
+   "line": 3,
+   "question": "Come cambia il modo di applicare forza nella terza tirata rispetto alle prime due?",
+   "options": [
+    "Nelle prime due tiri contro la sbarra; nella terza spingi contro il terreno.",
+    "Nelle tre tirate spingi sempre contro il terreno; cambia solo la velocità.",
+    "Nella terza smetti di agire sulla sbarra e ti lasci cadere sotto.",
+    "Nelle prime due spingi contro il terreno; nella terza usi la sbarra per scendere sotto."
+   ],
+   "answer": 3,
+   "why": "Dopo aver accelerato il bilanciere con la spinta delle gambe, l’obiettivo è spostare attivamente il corpo sotto la sbarra."
+  },
+  {
+   "part": 16,
+   "line": 5,
+   "question": "Che cosa fa l’atleta mentre il bilanciere raggiunge il punto più alto?",
+   "options": [
+    "Si tira attivamente sotto, tiene la sbarra vicina e ruota i gomiti.",
+    "Aspetta che la sbarra scenda e poi inizia a piegare le gambe.",
+    "Spinge ancora contro il terreno e allontana la sbarra per farle spazio.",
+    "Blocca i gomiti prima di scendere e porta la sbarra in avanti."
+   ],
+   "answer": 0,
+   "why": "Scendere attivamente e ruotare i gomiti prepara il blocco sopra la testa senza dover rincorrere la sbarra."
+  },
+  {
+   "part": 16,
+   "line": 9,
+   "question": "Come si sistemano i piedi per creare la base di ricezione nello strappo?",
+   "options": [
+    "Si stringono e l’atleta riceve la sbarra con le gambe quasi tese.",
+    "Saltano molto avanti per raggiungere la sbarra prima dello squat.",
+    "Si allargano, con un piccolo avanzamento, per ricevere in uno squat basso.",
+    "Restano stretti mentre l’atleta cerca stabilità sollevando i talloni."
+   ],
+   "answer": 2,
+   "why": "Lo spostamento serve a costruire una base stabile per lo squat; non è un salto per rincorrere una sbarra finita avanti."
+  },
+  {
+   "part": 17,
+   "line": 1,
+   "question": "Come riconosci una ricezione poco stabile sopra la testa?",
+   "options": [
+    "Il bilanciere sale lentamente, ma si ferma saldo sopra la testa.",
+    "L’atleta non stabilizza la sbarra nello squat e perde controllo o equilibrio.",
+    "L’atleta riceve in profondità e mantiene la sbarra ferma.",
+    "Il bilanciere resta vicino al corpo durante la discesa sotto."
+   ],
+   "answer": 1,
+   "why": "La stabilità si valuta quando l’atleta deve sostenere e controllare la sbarra, non soltanto da quanto in alto è salita."
+  },
+  {
+   "part": 17,
+   "line": 3,
+   "question": "Che cosa osservi nell’incastro quando l’atleta commette un errore di under-pulling?",
+   "options": [
+    "Aspetta troppo dopo la spinta prima di infilarsi sotto.",
+    "Riceve il bilanciere a un’altezza sufficiente ma non lo stabilizza.",
+    "Completa la tirata ma allarga troppo i piedi nella ricezione.",
+    "Cerca l’incastro troppo presto o va sotto una sbarra salita troppo poco."
+   ],
+   "answer": 3,
+   "why": "L’atleta prova a ricevere il bilanciere senza che la tirata gli abbia dato altezza sufficiente per sistemarsi sotto."
+  },
+  {
+   "part": 17,
+   "line": 5,
+   "question": "Quale errore della seconda tirata può causare un under-pulling nell’incastro?",
+   "options": [
+    "Una tripla estensione incompleta, che riduce la spinta delle gambe.",
+    "Una presa larga che fa appoggiare la sbarra nella piega dell’anca.",
+    "Il passaggio del peso verso il centro del piede in transizione.",
+    "La rotazione dei gomiti dopo la discesa sotto la sbarra."
+   ],
+   "answer": 0,
+   "why": "Se la spinta si interrompe troppo presto, il bilanciere può non salire abbastanza prima che l’atleta provi a riceverlo."
+  },
+  {
+   "part": 17,
+   "line": 7,
+   "question": "Perché saltare in avanti o spingere la sbarra avanti rende più difficile l’incastro?",
+   "options": [
+    "Perché obbliga a scendere più in profondità anche se la traiettoria resta buona.",
+    "Perché impedisce alle ginocchia di distendersi nel distacco da terra.",
+    "Perché altera la traiettoria e costringe l’atleta a inseguire il bilanciere.",
+    "Perché rallenta il passaggio delle ginocchia nella prima tirata."
+   ],
+   "answer": 2,
+   "why": "Se la ricezione avviene in avanti anziché su una base stabile, è più difficile controllare la sbarra sopra la testa."
+  },
+  {
+   "part": 17,
+   "line": 11,
+   "question": "Come verifichi se durante lo strappo l’atleta salta troppo in avanti?",
+   "options": [
+    "Confronti la larghezza dei piedi prima e dopo la tirata.",
+    "Confronti dove partono e dove atterrano i piedi per vedere quanto avanzano.",
+    "Controlli se i talloni si alzano al culmine della seconda tirata.",
+    "Controlli se le punte si aprono mentre l’atleta scende sotto la sbarra."
+   ],
+   "answer": 1,
+   "why": "È lo spostamento in avanti rispetto al punto di partenza, non il semplice allargamento dei piedi, a rivelare il salto."
+  },
+  {
+   "part": 18,
+   "line": 2,
+   "question": "In quale ordine colleghi le fasi dello strappo completo dopo averle studiate separatamente?",
+   "options": [
+    "Partenza, transizione, prima tirata, seconda tirata, incastro.",
+    "Partenza, prima tirata, incastro, transizione, seconda tirata.",
+    "Partenza, seconda tirata, transizione, prima tirata, incastro.",
+    "Partenza, prima tirata controllata, transizione, seconda tirata esplosiva, incastro."
+   ],
+   "answer": 3,
+   "why": "Il controllo iniziale prepara la transizione, la transizione prepara la spinta e la spinta permette di infilarsi sotto la sbarra."
+  },
+  {
+   "part": 18,
+   "line": 5,
+   "question": "Perché un errore in una fase dello strappo può compromettere l’intera alzata?",
+   "options": [
+    "Perché la posizione in cui finisce una fase prepara quella successiva.",
+    "Perché tutte le fasi devono avere la stessa velocità.",
+    "Perché solo la ricezione determina la riuscita del gesto.",
+    "Perché la forza può compensare un errore soltanto alla partenza."
+   ],
+   "answer": 0,
+   "why": "Le fasi non ripartono da zero: una sbarra mal posizionata in transizione, per esempio, rende più difficile la spinta successiva."
+  },
+  {
+   "part": 18,
+   "line": 7,
+   "question": "Da dove nasce la spinta che dà al bilanciere la massima velocità nello strappo?",
+   "options": [
+    "Dalle braccia, mentre le gambe servono soprattutto a stabilizzare.",
+    "Dalle spalle, mentre anche e ginocchia guidano la traiettoria.",
+    "Da gambe e anche, mentre le braccia guidano il bilanciere.",
+    "Dai gomiti durante l’incastro, mentre le gambe assorbono il carico."
+   ],
+   "answer": 2,
+   "why": "L’estensione della parte bassa imprime velocità alla sbarra; le braccia ne guidano il movimento e aiutano poi l’atleta a scendere sotto."
+  },
+  {
+   "part": 19,
+   "line": 0,
+   "question": "Perché l’overhead squat compare tra i sei elementi studiati, anche se non precede la partenza nello strappo?",
+   "options": [
+    "Perché riproduce la posizione in cui si prepara il distacco.",
+    "Perché descrive la ricezione profonda, con le braccia tese e bloccate.",
+    "Perché permette di fermare il bilanciere prima della seconda tirata.",
+    "Perché descrive la massima estensione prima di scendere sotto."
+   ],
+   "answer": 1,
+   "why": "L’ordine didattico non coincide con l’ordine dell’alzata: l’overhead squat si studia per primo perché rappresenta il punto d’arrivo."
+  },
+  {
+   "part": 19,
+   "line": 2,
+   "question": "Come distingui il compito della prima tirata da quello della transizione?",
+   "options": [
+    "Nella prima tiri forte da terra; nella transizione mantieni le ginocchia distese.",
+    "Nella prima raddrizzi subito il busto; nella transizione inizi a ricevere la sbarra.",
+    "Nella prima ripieghi le ginocchia; nella transizione stabilizzi il bilanciere sopra la testa.",
+    "Nella prima mantieni l’angolo della schiena; nella transizione ripieghi le ginocchia per preparare la spinta."
+   ],
+   "answer": 3,
+   "why": "La prima tirata guida la sbarra oltre le ginocchia; la nuova flessione aiuta a raggiungere la posizione di potenza."
+  },
+  {
+   "part": 19,
+   "line": 6,
+   "question": "Quale combinazione di errori riconosci ancora prima che il bilanciere lasci il pavimento?",
+   "options": [
+    "Spalle dietro la sbarra, anche troppo alte e schiena arrotondata.",
+    "Distacco troppo brusco, anche che salgono presto e spalle che si chiudono.",
+    "Spinta incompleta, braccia piegate presto e bilanciere lontano dal corpo.",
+    "Instabilità sopra la testa, ricezione troppo precoce e salto in avanti."
+   ],
+   "answer": 0,
+   "why": "Questi sono difetti dell’assetto di partenza; le altre combinazioni si manifestano quando la sbarra è già in movimento."
+  }
+ ]
+}

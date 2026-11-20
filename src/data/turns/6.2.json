@@ -1,0 +1,616 @@
+{
+ "code": "6.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 3,
+   "question": "Se cambi la pausa tra le serie e la durata delle ripetizioni, quali variabili modifichi?",
+   "options": [
+    "Recupero tra le serie e tempo di esecuzione.",
+    "Frequenza delle sedute e tempo di esecuzione.",
+    "Recupero tra le serie e ampiezza del movimento.",
+    "Frequenza delle sedute e ampiezza del movimento."
+   ],
+   "answer": 0,
+   "why": "La pausa si misura tra due serie; il tempo di esecuzione si misura durante una singola ripetizione."
+  },
+  {
+   "part": 0,
+   "line": 5,
+   "question": "Come classifichi il tipo di contrazione, la sequenza degli esercizi e l’ampiezza del movimento?",
+   "options": [
+    "Tempo di esecuzione, ordine degli esercizi e range of motion.",
+    "Azione muscolare, scelta degli esercizi e tempo di esecuzione.",
+    "Azione muscolare, ordine degli esercizi e range of motion.",
+    "Tempo di esecuzione, scelta degli esercizi e range of motion."
+   ],
+   "answer": 2,
+   "why": "Sono tre decisioni distinte: come il muscolo produce forza, quando esegui un esercizio e quanto si muove l’articolazione."
+  },
+  {
+   "part": 0,
+   "line": 7,
+   "question": "Due terzini usano gli stessi carichi e fanno le stesse serie: perché potrebbero crescere diversamente?",
+   "options": [
+    "A parità di serie e carico, conta soltanto la frequenza settimanale.",
+    "Possono cambiare i recuperi, la profondità dello squat e l’ordine degli esercizi.",
+    "A parità di serie e carico, conta soltanto la durata delle ripetizioni.",
+    "Possono crescere diversamente solo se usano esercizi completamente diversi."
+   ],
+   "answer": 1,
+   "why": "Serie e carico non descrivono tutto: le pause cambiano la fatica, la profondità cambia l’ampiezza del movimento e l’ordine incide sulla freschezza."
+  },
+  {
+   "part": 1,
+   "line": 3,
+   "question": "Perché cambiare presa o piano di movimento può aiutarti a sviluppare un muscolo specifico?",
+   "options": [
+    "Perché la variante più difficile aumenta allo stesso modo il lavoro di tutti i muscoli.",
+    "Perché cambi il compito del muscolo bersaglio e quindi il modo in cui lavora.",
+    "Perché tutte le varianti allenano le stesse fibre nello stesso modo.",
+    "Perché modificare la presa equivale ad aumentare il carico sul muscolo bersaglio."
+   ],
+   "answer": 1,
+   "why": "Non serve aumentare il peso per cambiare lo stimolo: una variante può chiedere al muscolo di contribuire diversamente al movimento."
+  },
+  {
+   "part": 1,
+   "line": 5,
+   "question": "Perché le fibre di uno stesso muscolo possono contribuire diversamente a due movimenti?",
+   "options": [
+    "Perché il muscolo può avere compartimenti con compiti in parte diversi.",
+    "Perché ogni capo svolge sempre un solo movimento e non condivide altri compiti.",
+    "Perché le fibre cambiano compito soltanto quando aumenta il carico.",
+    "Perché tutte le fibre hanno lo stesso compito e cambia soltanto la velocità."
+   ],
+   "answer": 0,
+   "why": "Un muscolo non è necessariamente un blocco uniforme: al suo interno, zone diverse possono contribuire in modo diverso allo stesso gesto."
+  },
+  {
+   "part": 1,
+   "line": 7,
+   "question": "Come si dividono flessione del gomito e supinazione tra le zone del capo lungo del bicipite?",
+   "options": [
+    "Esterna: supinazione; interna: flessione; centrale: entrambe.",
+    "Esterna: flessione; interna: entrambe; centrale: supinazione.",
+    "Esterna: entrambe; interna: supinazione; centrale: flessione.",
+    "Esterna: flessione; interna: supinazione; centrale: entrambe."
+   ],
+   "answer": 3,
+   "why": "Piegare il gomito e ruotare il palmo verso l’alto sono richieste diverse: le zone esterna e interna contribuiscono diversamente, mentre quella centrale partecipa a entrambe."
+  },
+  {
+   "part": 2,
+   "line": 1,
+   "question": "Quale differenza tra hammer curl e curl classico cambia la richiesta al bicipite?",
+   "options": [
+    "Nell’hammer curl i palmi guardano in alto; nel classico si fronteggiano.",
+    "I palmi si fronteggiano in entrambi; cambia soltanto quanto pieghi il gomito.",
+    "Nell’hammer curl i palmi si fronteggiano; nel classico guardano in alto.",
+    "I palmi guardano in alto in entrambi; cambia soltanto la velocità di salita."
+   ],
+   "answer": 2,
+   "why": "In entrambi pieghi il gomito, ma nel curl classico l’avambraccio è più supinato: la posizione del palmo cambia la richiesta al bicipite."
+  },
+  {
+   "part": 2,
+   "line": 3,
+   "question": "Quale limite può avere usare solo l’hammer curl per allenare il bicipite?",
+   "options": [
+    "La supinazione limitata può ridurre lo stimolo per alcune fibre del bicipite.",
+    "La presa neutra impedisce al bicipite di contribuire alla flessione del gomito.",
+    "La flessione del gomito garantisce uno stimolo uguale a tutte le fibre.",
+    "La presa neutra stimola soprattutto le fibre che contribuiscono alla supinazione."
+   ],
+   "answer": 0,
+   "why": "Il bicipite continua a piegare il gomito, ma la presa neutra richiede meno supinazione e può quindi coinvolgere meno le fibre che vi contribuiscono."
+  },
+  {
+   "part": 3,
+   "line": 5,
+   "question": "Perché può essere utile scegliere più di un esercizio per lo stesso muscolo?",
+   "options": [
+    "Perché ogni nuovo esercizio sostituisce la necessità di aumentare il carico.",
+    "Perché tutti gli esercizi stimolano le stesse regioni, ma con più volume.",
+    "Perché esercizi diversi possono favorire la crescita di regioni diverse del muscolo.",
+    "Perché variare impedisce al muscolo di adattarsi al lavoro con i pesi."
+   ],
+   "answer": 2,
+   "why": "La crescita non è uniforme: due movimenti possono porre richieste diverse sullo stesso muscolo e completarsi."
+  },
+  {
+   "part": 3,
+   "line": 7,
+   "question": "Cosa significa che l’ipertrofia è regionale quando confronti due esercizi?",
+   "options": [
+    "Ogni esercizio fa crescere uniformemente il muscolo, ma a un ritmo diverso.",
+    "Esercizi diversi possono favorire regioni diverse o muscoli diversi dello stesso gruppo.",
+    "La crescita regionale dipende dal carico, non dal movimento scelto.",
+    "La crescita può differire tra gruppi muscolari, ma non all’interno di uno stesso muscolo."
+   ],
+   "answer": 1,
+   "why": "Cambiare il movimento cambia il contributo delle varie regioni: allenare lo stesso muscolo non significa stimolarne sempre tutte le parti allo stesso modo."
+  },
+  {
+   "part": 3,
+   "line": 9,
+   "question": "Perché abbinare un esercizio di estensione dell’anca e uno di flessione del ginocchio per gli ischiocrurali?",
+   "options": [
+    "Perché gli ischiocrurali lavorano soltanto quando il ginocchio si flette.",
+    "Perché l’estensione dell’anca stimola tutte le regioni più della flessione del ginocchio.",
+    "Perché entrambi coinvolgono allo stesso modo tutte le regioni, aumentando il volume.",
+    "Perché entrambi coinvolgono gli ischiocrurali, ma l’attività delle loro regioni può differire."
+   ],
+   "answer": 3,
+   "why": "Estendere l’anca e flettere il ginocchio sono due compiti diversi: anche quando lavora lo stesso gruppo muscolare, non tutte le sue parti contribuiscono allo stesso modo."
+  },
+  {
+   "part": 4,
+   "line": 1,
+   "question": "Perché cambiare esercizi troppo spesso può ostacolare la progressione di un principiante?",
+   "options": [
+    "Perché continua a imparare gesti nuovi e fatica a progredire con i carichi.",
+    "Perché i gesti nuovi aumentano il carico prima che cresca la forza.",
+    "Perché ogni variante allena un muscolo diverso e il lavoro precedente diventa inutile.",
+    "Perché la varietà rende impossibile lavorare su regioni diverse dello stesso muscolo."
+   ],
+   "answer": 0,
+   "why": "Finché sta imparando un gesto, l’atleta tende a usare carichi più bassi. Ripetere i movimenti di base gli permette di consolidarli e poi progredire."
+  },
+  {
+   "part": 5,
+   "line": 2,
+   "question": "Che effetto hanno i recuperi brevi sui metaboliti prodotti durante una serie?",
+   "options": [
+    "Ne favoriscono lo smaltimento perché mantengono il muscolo attivo.",
+    "Ne favoriscono l’accumulo perché c’è meno tempo per smaltirli.",
+    "Ne lasciano invariato l’accumulo se il carico resta lo stesso.",
+    "Ne riducono l’accumulo perché nelle serie successive fai meno ripetizioni."
+   ],
+   "answer": 1,
+   "why": "Con una pausa breve inizi la serie successiva prima di aver smaltito i metaboliti accumulati, quindi lo stress metabolico aumenta."
+  },
+  {
+   "part": 5,
+   "line": 3,
+   "question": "A parità di carico, quale svantaggio possono avere i recuperi brevi nelle serie successive?",
+   "options": [
+    "Lo stress metabolico diminuisce anche se mantieni il volume.",
+    "La fatica cala abbastanza da farti mantenere o aumentare le ripetizioni.",
+    "Il volume resta uguale perché il peso sulla barra non cambia.",
+    "La fatica riduce le ripetizioni, quindi calano volume e stimolo di tensione meccanica."
+   ],
+   "answer": 3,
+   "why": "Il carico per ripetizione non cambia, ma se la fatica ti fa completare meno ripetizioni, accumuli meno lavoro con quel carico."
+  },
+  {
+   "part": 5,
+   "line": 7,
+   "question": "Nell’esempio della panca con carico da 10RM, quale andamento illustrano quattro serie con pause brevi?",
+   "options": [
+    "Parti da dieci ripetizioni, poi ne perdi progressivamente fino a farne cinque.",
+    "Parti da dieci ripetizioni e le mantieni perché il carico non cambia.",
+    "Parti sotto le dieci ripetizioni e migliori man mano che ti scaldi.",
+    "Mantieni dieci ripetizioni fino alla terza serie, poi cali solo nell’ultima."
+   ],
+   "answer": 0,
+   "why": "Il 10RM vale quando sei fresco. Con soli trenta secondi di pausa, la fatica si accumula e non riesci a ripetere la prestazione iniziale."
+  },
+  {
+   "part": 5,
+   "line": 9,
+   "question": "Nell’esempio della panca a parità di carico, perché tre minuti di pausa danno più ripetizioni totali?",
+   "options": [
+    "Perché aumentano l’accumulo di metaboliti, sostenendo le ripetizioni successive.",
+    "Perché consentono di ridurre il carico nelle serie in cui sei più stanco.",
+    "Perché smaltisci più fatica e mantieni meglio le ripetizioni nelle serie successive.",
+    "Perché aumentano le ripetizioni della prima serie, lasciando invariate le altre."
+   ],
+   "answer": 2,
+   "why": "La differenza emerge dopo la prima serie: con più recupero perdi meno ripetizioni e completi più lavoro con lo stesso carico."
+  },
+  {
+   "part": 6,
+   "line": 1,
+   "question": "Perché recuperi di 60–90 secondi possono essere un compromesso per l’ipertrofia?",
+   "options": [
+    "Perché eliminano lo stress metabolico e garantiscono tutte le ripetizioni.",
+    "Perché riducono parte della fatica senza azzerare l’accumulo di metaboliti.",
+    "Perché massimizzano lo stress metabolico anche se il volume crolla.",
+    "Perché mantengono il volume aumentando il carico a ogni serie."
+   ],
+   "answer": 1,
+   "why": "Il recupero parziale aiuta a sostenere le ripetizioni; allo stesso tempo, rimane parte dello stress metabolico prodotto dalle serie precedenti."
+  },
+  {
+   "part": 6,
+   "line": 5,
+   "question": "Perché la lezione distingue le pause moderate di 60–90 secondi dalla raccomandazione pratica di circa due minuti?",
+   "options": [
+    "Perché due minuti producono più stress metabolico di una pausa più breve.",
+    "Perché 60–90 secondi valgono per l’ipertrofia, due minuti soltanto per la forza.",
+    "Perché le due durate sono equivalenti e non cambiano il volume tra serie.",
+    "Perché 60–90 secondi indicano una fascia; due minuti possono preservare meglio il volume."
+   ],
+   "answer": 3,
+   "why": "La fascia è una classificazione, non un limite: un po’ più di riposo può aiutarti a mantenere le ripetizioni senza rinunciare allo stress metabolico."
+  },
+  {
+   "part": 6,
+   "line": 7,
+   "question": "Oltre a sostenere il volume, perché pause più lunghe possono aiutare un calciatore a sviluppare forza?",
+   "options": [
+    "Gli permettono di recuperare e usare carichi più alti nelle serie successive.",
+    "Gli permettono di accumulare più metaboliti mantenendo il carico basso.",
+    "Gli permettono di aumentare la forza anche se deve ridurre il carico.",
+    "Gli permettono di sostituire il lavoro con carichi alti con ripetizioni più lente."
+   ],
+   "answer": 0,
+   "why": "Con meno fatica residua, l’atleta riesce a lavorare con carichi più alti, utili per sviluppare forza oltre alla massa."
+  },
+  {
+   "part": 6,
+   "line": 9,
+   "question": "Quando può avere senso abbreviare le pause in una seduta per l’ipertrofia?",
+   "options": [
+    "Prima delle serie più pesanti, per mantenere tutte le ripetizioni previste.",
+    "Negli esercizi prioritari, per sollevare più peso nelle serie successive.",
+    "In un esercizio finale leggero, per variare lo stimolo e aumentare lo stress metabolico.",
+    "In ogni esercizio, perché pause brevi mantengono sempre il volume programmato."
+   ],
+   "answer": 2,
+   "why": "Con un carico leggero puoi usare la fatica per variare lo stimolo e favorire il reclutamento di fibre, senza penalizzare le serie prioritarie già svolte."
+  },
+  {
+   "part": 7,
+   "line": 1,
+   "question": "Nella panca piana, come distingui la fase eccentrica da quella concentrica dei pettorali?",
+   "options": [
+    "Sono concentrici in discesa e si allungano sotto tensione durante la spinta.",
+    "Si allungano producendo forza in discesa e si accorciano producendo forza nella spinta.",
+    "Restano della stessa lunghezza in discesa e si accorciano durante la spinta.",
+    "Si accorciano sia in discesa sia in salita, ma con sforzi diversi."
+   ],
+   "answer": 1,
+   "why": "I pettorali producono forza in entrambe le fasi. La distinzione è che frenano il peso mentre si allungano e lo spingono mentre si accorciano."
+  },
+  {
+   "part": 7,
+   "line": 3,
+   "question": "Perché si è ipotizzato che la fase eccentrica possa stimolare di più l’ipertrofia?",
+   "options": [
+    "Perché in discesa il muscolo evita di produrre forza e recupera prima.",
+    "Perché l’eccentrica richiede sempre più tempo della concentrica, anche a parità di carico.",
+    "Perché in discesa il muscolo si accorcia contro una resistenza maggiore.",
+    "Perché puoi controllare in discesa un carico maggiore di quello che riesci a sollevare."
+   ],
+   "answer": 3,
+   "why": "Mentre si allunga sotto carico, il muscolo può produrre più forza: questo spiega il possibile vantaggio, ma non dimostra che la concentrica sia superflua."
+  },
+  {
+   "part": 7,
+   "line": 7,
+   "question": "In che senso eccentrica e concentrica possono completarsi nello sviluppo dello stesso muscolo?",
+   "options": [
+    "L’eccentrica può favorire la crescita in lunghezza e alle estremità; la concentrica in parallelo e al centro.",
+    "La concentrica può favorire la crescita in lunghezza e alle estremità; l’eccentrica in parallelo e al centro.",
+    "Entrambe favoriscono soprattutto la crescita al centro; combinarle serve soltanto ad aumentare il volume.",
+    "Entrambe favoriscono soprattutto la crescita alle estremità; combinarle serve soltanto a cambiare il ritmo."
+   ],
+   "answer": 0,
+   "why": "Le due azioni sollecitano il muscolo mentre cambia lunghezza in direzioni opposte e possono favorire adattamenti diversi per forma e posizione."
+  },
+  {
+   "part": 8,
+   "line": 3,
+   "question": "Come esegui una ripetizione di panca piana con tempo 303?",
+   "options": [
+    "Scendi in tre secondi, attendi tre secondi e risali senza rallentare.",
+    "Scendi senza rallentare, attendi tre secondi e risali in tre secondi.",
+    "Scendi in tre secondi, non fai una sosta prolungata e risali in tre secondi.",
+    "Scendi in tre secondi, non fai una sosta prolungata e risali alla massima velocità."
+   ],
+   "answer": 2,
+   "why": "Le cifre assegnano i secondi a discesa, pausa e salita. Lo zero elimina la sosta prolungata, ma non cambia i tre secondi previsti per salire."
+  },
+  {
+   "part": 8,
+   "line": 7,
+   "question": "Come distribuisci i secondi tra discesa, pausa e salita con un tempo 423?",
+   "options": [
+    "Quattro per scendere, tre di pausa, due per salire.",
+    "Quattro per scendere, due di pausa, tre per salire.",
+    "Tre per scendere, due di pausa, quattro per salire.",
+    "Due per scendere, quattro di pausa, tre per salire."
+   ],
+   "answer": 1,
+   "why": "Leggi il codice nella sequenza delle fasi: prima controlli il peso in discesa, poi fai la sosta e infine lo sollevi."
+  },
+  {
+   "part": 9,
+   "line": 1,
+   "question": "Se le serie arrivano al cedimento, rallentare le ripetizioni da 0,5 a 6 secondi aumenta molto l’ipertrofia?",
+   "options": [
+    "Sì, perché più tempo sotto tensione aumenta nettamente la crescita.",
+    "No, perché le ripetizioni da mezzo secondo fanno crescere nettamente di più.",
+    "Sì, perché rallentare permette di mantenere più carico fino al cedimento.",
+    "No, in questo intervallo la differenza di crescita è piccola."
+   ],
+   "answer": 3,
+   "why": "Più tempo sotto tensione non basta a prevedere più crescita: rallentare può richiedere un carico minore, compensando il vantaggio della durata."
+  },
+  {
+   "part": 9,
+   "line": 3,
+   "question": "Perché ripetizioni più lente, a parità di ripetizioni previste, non garantiscono più crescita?",
+   "options": [
+    "Perché il carico può dover scendere, riducendo lo stimolo di tensione meccanica.",
+    "Perché rallentare riduce il tempo sotto tensione anche se ogni ripetizione dura di più.",
+    "Perché rallentare aumenta il carico ma impedisce di completare la fase eccentrica.",
+    "Perché lo sforzo dipende solo dal numero di ripetizioni, non dal carico usato."
+   ],
+   "answer": 0,
+   "why": "Conta sia quanto dura lo sforzo sia il carico che riesci a sostenere: guadagnare tempo può voler dire rinunciare a parte della tensione."
+  },
+  {
+   "part": 9,
+   "line": 7,
+   "question": "Se vuoi allungare una fase della ripetizione nello squat, quale ritmo suggerisce la lezione?",
+   "options": [
+    "Discesa rapida, pausa lunga e risalita controllata.",
+    "Discesa e risalita entrambe lente, senza pausa prolungata.",
+    "Discesa controllata, senza pausa prolungata, e risalita rapida.",
+    "Discesa rapida, senza pausa prolungata, e risalita lenta."
+   ],
+   "answer": 2,
+   "why": "Puoi dedicare più tempo alla discesa, perché il muscolo è più forte in eccentrica, senza rallentare deliberatamente anche la spinta."
+  },
+  {
+   "part": 10,
+   "line": 1,
+   "question": "Per l’ipertrofia, i grandi esercizi multiarticolari devono sempre aprire la seduta?",
+   "options": [
+    "Sì, perché coinvolgere più articolazioni rende sempre più importante eseguirli da freschi.",
+    "No, la ricerca non conferma che debbano sempre venire per primi.",
+    "Sì, purché la seduta comprenda anche esercizi monoarticolari.",
+    "No, gli esercizi monoarticolari dovrebbero sempre precederli per isolare meglio il muscolo."
+   ],
+   "answer": 1,
+   "why": "Il numero di articolazioni coinvolte non stabilisce la priorità: conta quale esercizio serve meglio l’obiettivo della seduta."
+  },
+  {
+   "part": 10,
+   "line": 2,
+   "question": "Quale criterio usi per decidere quale esercizio mettere per primo in una seduta di ipertrofia?",
+   "options": [
+    "Scegli quello con cui l’atleta può sollevare più chili.",
+    "Scegli quello che coinvolge il maggior numero di articolazioni.",
+    "Scegli quello che allena il muscolo già più sviluppato.",
+    "Scegli quello che allena meglio il muscolo prioritario per l’atleta."
+   ],
+   "answer": 3,
+   "why": "All’inizio della seduta l’atleta ha più energie e concentrazione: conviene usarle sullo stimolo che conta di più per il suo obiettivo."
+  },
+  {
+   "part": 10,
+   "line": 3,
+   "question": "Perché conviene allenare un muscolo prioritario all’inizio della seduta?",
+   "options": [
+    "Perché da fresco hai più energia e concentrazione da dedicare al suo allenamento.",
+    "Perché la fatica degli esercizi iniziali migliora il lavoro sul muscolo nelle serie finali.",
+    "Perché il primo esercizio richiede sempre meno concentrazione di quelli successivi.",
+    "Perché iniziare da quel muscolo rende irrilevanti il carico e lo sforzo."
+   ],
+   "answer": 0,
+   "why": "Il lavoro precedente assorbe energie e attenzione. Anticipare l’esercizio prioritario evita che debba essere svolto quando l’atleta è già affaticato."
+  },
+  {
+   "part": 10,
+   "line": 5,
+   "question": "Come organizzi la seduta se un muscolo è in ritardo o difficile da stimolare?",
+   "options": [
+    "Lo alleni alla fine, perché la fatica degli altri esercizi facilita il lavoro mirato.",
+    "Lo lasci nella posizione abituale e aumenti soltanto il peso.",
+    "Puoi aprire con l’esercizio che lo allena meglio e completare il lavoro dopo.",
+    "Apri sempre con il multiarticolare più pesante, anche se allena altri muscoli."
+   ],
+   "answer": 2,
+   "why": "Un muscolo carente può diventare la priorità: metterlo all’inizio gli riserva le energie migliori, invece di allenarlo con quelle che restano."
+  },
+  {
+   "part": 11,
+   "line": 1,
+   "question": "Che cosa rende completo il range of motion di una singola articolazione?",
+   "options": [
+    "Completi la ripetizione lungo la traiettoria che usi di solito.",
+    "L’articolazione percorre tutto il suo arco, fino al limite delle strutture passive.",
+    "Percorri l’arco in cui riesci a usare il carico più alto.",
+    "Ti fermi nel punto in cui inizi a sentire tensione nel muscolo."
+   ],
+   "answer": 1,
+   "why": "La completezza riguarda l’arco dell’articolazione, non il peso usato né il fatto che tu abbia concluso una ripetizione secondo la tua abitudine."
+  },
+  {
+   "part": 11,
+   "line": 3,
+   "question": "Perché è meno chiaro parlare di range of motion completo in un esercizio multiarticolare?",
+   "options": [
+    "Perché conta solo la distanza percorsa dal peso, non quella delle articolazioni.",
+    "Perché tutte le articolazioni devono muoversi allo stesso modo per completare la ripetizione.",
+    "Perché le articolazioni coinvolte si muovono soltanto durante la fase eccentrica.",
+    "Perché ciascuna articolazione può partecipare senza percorrere tutto il proprio arco."
+   ],
+   "answer": 3,
+   "why": "Nello stacco, per esempio, il ginocchio contribuisce al gesto anche se non percorre tutta la sua ampiezza: completare l’esercizio non significa completare ogni arco articolare."
+  },
+  {
+   "part": 11,
+   "line": 5,
+   "question": "Come descrivi correttamente un aumento dell’ampiezza in un esercizio multiarticolare?",
+   "options": [
+    "Parli di range of motion maggiore e specifichi quale articolazione si muove di più.",
+    "Parli di range of motion completo appena il peso percorre più distanza.",
+    "Parli di range of motion maggiore senza distinguere tra le articolazioni coinvolte.",
+    "Parli di range of motion completo se una sola articolazione raggiunge il suo limite."
+   ],
+   "answer": 0,
+   "why": "Le articolazioni coinvolte non aumentano necessariamente l’ampiezza insieme. Specificare quale si muove di più chiarisce che cosa è cambiato."
+  },
+  {
+   "part": 11,
+   "line": 7,
+   "question": "Quale ampiezza di movimento conviene privilegiare per l’ipertrofia?",
+   "options": [
+    "Un arco ridotto che permetta sempre di caricare più peso.",
+    "L’arco massimo teorico, anche se l’atleta perde stabilità.",
+    "Un arco ampio, entro i limiti di mobilità e stabilità dell’atleta.",
+    "Un arco parziale finché l’atleta non riesce a sollevare carichi elevati."
+   ],
+   "answer": 2,
+   "why": "Un’ampiezza maggiore può favorire la crescita dei muscoli coinvolti, ma il vantaggio non giustifica forzare posizioni che l’atleta non controlla."
+  },
+  {
+   "part": 11,
+   "line": 9,
+   "question": "Un difensore fa mezzi squat pesanti: come aumenti l’ampiezza senza perdere il controllo?",
+   "options": [
+    "Mantieni la stessa profondità e aumenta il carico per sviluppare la mobilità.",
+    "Riduci il carico e scendi di più se può; altrimenti lavora prima sulla mobilità.",
+    "Mantieni il carico e imponi una discesa più profonda anche se perde stabilità.",
+    "Riduci il carico ma mantieni sempre la stessa profondità, anche se può scendere."
+   ],
+   "answer": 1,
+   "why": "La profondità utile è quella che l’atleta controlla. Se anche o caviglie limitano la discesa, aggiungere peso non risolve il limite di mobilità."
+  },
+  {
+   "part": 12,
+   "line": 1,
+   "question": "Quando ha senso aumentare il volume in un programma per l’ipertrofia?",
+   "options": [
+    "Ogni volta che puoi aggiungere serie, anche se l’atleta non gestisce il lavoro.",
+    "Solo quando puoi aumentare anche il carico in tutte le serie.",
+    "Quando il volume attuale è difficile da sostenere e vuoi accelerare l’adattamento.",
+    "Quando il lavoro aggiuntivo resta sicuro e gestibile per l’atleta."
+   ],
+   "answer": 3,
+   "why": "Il volume contribuisce alla crescita, ma aggiungere lavoro ha senso solo finché l’atleta riesce a sostenerlo senza compromettere la sicurezza."
+  },
+  {
+   "part": 12,
+   "line": 3,
+   "question": "Come scegli tra sedute full body e split routine per l’ipertrofia?",
+   "options": [
+    "Consideri il profilo dell’atleta: entrambe le organizzazioni possono funzionare.",
+    "Preferisci sempre la full body perché allenare più muscoli insieme aumenta la crescita.",
+    "Preferisci sempre la split perché separare i gruppi muscolari aumenta la crescita.",
+    "Consideri le due organizzazioni intercambiabili, senza tener conto dell’esperienza dell’atleta."
+   ],
+   "answer": 0,
+   "why": "Organizzare il lavoro è una scelta pratica: un principiante e un atleta esperto possono trarre beneficio da modi diversi di distribuire le sedute."
+  },
+  {
+   "part": 12,
+   "line": 5,
+   "question": "Come programmi i carichi per variare lo stimolo in un percorso di ipertrofia?",
+   "options": [
+    "Mantieni sempre lo stesso peso e cambi solo il tipo di esercizio.",
+    "Usi soltanto carichi alti, purché l’atleta riesca a finire le ripetizioni.",
+    "Alterni carichi più pesanti e più leggeri, variando anche le ripetizioni.",
+    "Usi soltanto carichi leggeri e vari la durata della fase eccentrica."
+   ],
+   "answer": 2,
+   "why": "Il muscolo può ricevere stimoli diversi da serie con carichi e ripetizioni diversi: non serve ripetere sempre la stessa combinazione."
+  },
+  {
+   "part": 12,
+   "line": 9,
+   "question": "Perché una scheda di ipertrofia può includere più esercizi per lo stesso muscolo bersaglio?",
+   "options": [
+    "Perché basta cambiare esercizio per rendere efficace anche una serie poco impegnativa.",
+    "Perché movimenti diversi possono stimolare regioni diverse e rendere il lavoro più completo.",
+    "Perché un nuovo esercizio fa crescere allo stesso modo tutte le regioni del muscolo.",
+    "Perché alternare esercizi elimina la necessità di progredire con il carico."
+   ],
+   "answer": 1,
+   "why": "Un singolo movimento può privilegiare certe regioni. Scegliere esercizi complementari permette di allenare anche parti che ricevono meno stimolo nel primo."
+  },
+  {
+   "part": 13,
+   "line": 1,
+   "question": "Come usi la raccomandazione dei due minuti di recupero senza trasformarla in una regola rigida?",
+   "options": [
+    "Tieni sempre due minuti, altrimenti non puoi confrontare il lavoro tra serie.",
+    "Accorcia tutte le pause quando vuoi conservare più ripetizioni con lo stesso peso.",
+    "Allunga tutte le pause quando vuoi aumentare l’accumulo di metaboliti.",
+    "Parti da circa due minuti e adatta la pausa allo stimolo che vuoi privilegiare."
+   ],
+   "answer": 3,
+   "why": "Pause più lunghe aiutano a mantenere il lavoro con il carico scelto; pause più brevi possono accentuare lo stress metabolico."
+  },
+  {
+   "part": 13,
+   "line": 5,
+   "question": "Come inserisci le azioni muscolari in un programma per l’ipertrofia?",
+   "options": [
+    "Includi entrambe le fasi e, se opportuno, aggiungi qualche serie eccentrica specifica.",
+    "Privilegi l’eccentrica e usi la concentrica soltanto per riportare il peso in posizione.",
+    "Privilegi la concentrica e riduci al minimo la discesa sotto carico.",
+    "Alterni sedute solo eccentriche e solo concentriche, evitando di combinarle nello stesso esercizio."
+   ],
+   "answer": 0,
+   "why": "Le due azioni possono produrre adattamenti complementari. Il lavoro eccentrico specifico è un’aggiunta, non un motivo per eliminare la concentrica."
+  },
+  {
+   "part": 13,
+   "line": 7,
+   "question": "Come combini ordine e ampiezza per allenare un muscolo prioritario?",
+   "options": [
+    "Lo alleni alla fine, ma con tutta l’ampiezza che l’atleta controlla.",
+    "Lo alleni per primo, imponendo l’ampiezza massima anche se l’atleta perde stabilità.",
+    "Lo alleni per primo, con l’ampiezza maggiore consentita da mobilità e stabilità.",
+    "Lo alleni per primo, limitando sempre l’ampiezza per usare più carico."
+   ],
+   "answer": 2,
+   "why": "Metterlo all’inizio sfrutta la freschezza dell’atleta; un arco ampio ma controllato favorisce lo stimolo senza sacrificare la stabilità."
+  },
+  {
+   "part": 13,
+   "line": 10,
+   "question": "Quali scelte di recupero e lavoro eccentrico completano la seduta dell’attaccante per l’ipertrofia?",
+   "options": [
+    "Pause sempre brevi e serie eccentriche pesanti in ogni esercizio.",
+    "Pause di circa due minuti e qualche serie eccentrica pesante, quando appropriata.",
+    "Pause sempre oltre tre minuti e nessun lavoro in discesa sotto carico.",
+    "Pause di circa due minuti e sostituzione di tutte le serie con lavoro eccentrico."
+   ],
+   "answer": 1,
+   "why": "Recuperare abbastanza aiuta a mantenere le ripetizioni. Il lavoro eccentrico più pesante può integrare la seduta, senza sostituire il lavoro che comprende entrambe le fasi."
+  },
+  {
+   "part": 14,
+   "line": 0,
+   "question": "Quale scelta di programmazione tiene conto del fatto che un muscolo non cresce in modo uniforme?",
+   "options": [
+    "Mantieni un solo esercizio e cambi esclusivamente la durata dei recuperi.",
+    "Usi sempre l’esercizio che consente il carico più alto.",
+    "Cambi esercizio a ogni seduta per evitare che l’atleta impari il gesto.",
+    "Scegli esercizi complementari che possono stimolare regioni diverse del muscolo."
+   ],
+   "answer": 3,
+   "why": "Zone diverse possono contribuire a compiti diversi. Variare in modo ragionato il movimento aiuta a distribuire lo stimolo senza cambiare esercizi di continuo."
+  },
+  {
+   "part": 14,
+   "line": 6,
+   "question": "Come ordini gli esercizi se vuoi dare priorità alla crescita di un muscolo specifico?",
+   "options": [
+    "Metti per primi gli esercizi che lo allenano meglio, quando l’atleta è fresco.",
+    "Lo alleni dopo tutti i multiarticolari, perché quelli devono sempre venire prima.",
+    "Lo alleni per ultimo, così la fatica accumulata compensa il calo delle ripetizioni.",
+    "Ordini gli esercizi dal carico più alto al più basso, indipendentemente dal muscolo."
+   ],
+   "answer": 0,
+   "why": "All’inizio l’atleta ha più energia e concentrazione: l’ordine deve assegnare quelle risorse al muscolo che vuoi sviluppare di più."
+  }
+ ]
+}
