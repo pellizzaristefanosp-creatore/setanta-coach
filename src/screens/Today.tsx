@@ -14,6 +14,8 @@ import {
   addCard,
   addMinute,
   cancelStep,
+  finishReplay,
+  startReplay,
   ensurePresentation,
   finishStep,
   getState,
@@ -31,7 +33,7 @@ import { readSentences, splitSentences, ttsAvailable, unlockSpeech, voicesReady,
 import type { Presentation } from "../lib/types";
 import { Box, Icon, Progress, Sheet, beep, formatClock, unlockAudio } from "../ui";
 
-type Phase = "idle" | "check" | "recall" | "again" | "finished";
+type Phase = "idle" | "check" | "recall" | "again" | "finished" | "library";
 export type Intent = { kind: "cards" } | { kind: "boss"; unit: number } | { kind: "quiz" } | { kind: "exercise"; code: string };
 
 const COURSE_URL = "https://online.setantacollege.com/my/";
@@ -61,10 +63,15 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     if (p) {
       const index = p.steps.findIndex((x) => x.id === s.timer!.stepId);
       const lesson = lessonFor(s, p.code);
-      const onDone = () => {
-        finishStep();
-        afterPart(p.id, index);
-      };
+      const onDone = s.timer.replay
+        ? () => {
+            finishReplay();
+            setPhase("library");
+          }
+        : () => {
+            finishStep();
+            afterPart(p.id, index);
+          };
       const audio = lesson ? audioFor(lesson.code, index) : undefined;
       if (lesson?.parts[index] && audio) return <AudioLessonSession key={`${p.code}-${index}`} p={p} lesson={lesson} index={index} audio={audio} onDone={onDone} />;
       return lesson?.parts[index] ? <LessonSession p={p} lesson={lesson} index={index} onDone={onDone} /> : <TimerSession p={p} onDone={onDone} />;
@@ -126,14 +133,87 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     );
   }
 
-  return <Home goTo={goTo} />;
+  if (phase === "library") {
+    return (
+      <Library
+        onBack={() => setPhase("idle")}
+        onPlay={(pid, stepId) => {
+          unlockAudio();
+          unlockSpeech();
+          startReplay(pid, stepId);
+        }}
+      />
+    );
+  }
+
+  return <Home goTo={goTo} onLibrary={() => setPhase("library")} />;
+}
+
+/* ——— Le lezioni passate: riascolta qualsiasi parte già fatta ——— */
+
+function Library({ onBack, onPlay }: { onBack: () => void; onPlay: (presentationId: string, stepId: string) => void }) {
+  const s = useStore();
+  const [open, setOpen] = useState<string | null>(null);
+  const list = s.presentations
+    .filter((p) => lessonFor(s, p.code) && p.steps.some((x) => x.done))
+    .sort((a, b) => b.code.localeCompare(a.code, "it", { numeric: true }));
+  return (
+    <div className="stack fade-in" style={{ gap: 14 }}>
+      <button className="link-btn" style={{ alignSelf: "flex-start" }} onClick={onBack}>← Oggi</button>
+      <h1 className="page-title">Le tue lezioni</h1>
+      <p className="muted small">Riascolta quando vuoi le parti che hai già fatto. Il riascolto non cambia il piano: conta solo come minuti di studio.</p>
+      {list.length === 0 && <p className="muted">Qui compariranno le lezioni dopo la prima parte.</p>}
+      {list.map((p) => {
+        const lesson = lessonFor(s, p.code)!;
+        const done = p.steps.filter((x) => x.done).length;
+        const isOpen = open === p.id;
+        return (
+          <div key={p.id} className="card stack" style={{ gap: 10 }}>
+            <button className="lib-head" aria-expanded={isOpen} onClick={() => setOpen(isOpen ? null : p.id)}>
+              <span className="lib-code num">{p.code}</span>
+              <span className="grow">
+                <span className="lib-title">{lesson.title}</span>
+                <span className="tiny">{done} di {p.steps.length} parti fatte</span>
+              </span>
+              <span aria-hidden="true">{isOpen ? "▴" : "▾"}</span>
+            </button>
+            {isOpen && (
+              <ol className="lib-parts">
+                {p.steps.map((st, i) => {
+                  const part = lesson.parts[i];
+                  if (!part) return null;
+                  return (
+                    <li key={st.id}>
+                      {st.done ? (
+                        <button className="lib-part" onClick={() => onPlay(p.id, st.id)}>
+                          <span className="lib-play" aria-hidden="true"><Icon.play /></span>
+                          <span className="grow">{part.title}</span>
+                          <span className="tiny num">slide {part.slide}</span>
+                        </button>
+                      ) : (
+                        <span className="lib-part todo">
+                          <span className="lib-play" aria-hidden="true">·</span>
+                          <span className="grow">{part.title}</span>
+                          <span className="tiny">da fare</span>
+                        </span>
+                      )}
+                    </li>
+                  );
+                })}
+              </ol>
+            )}
+          </div>
+        );
+      })}
+    </div>
+  );
 }
 
 /* ——— Schermata iniziale: a che punto sei, cosa fare oggi, il bottone ——— */
 
 const WD = ["dom", "lun", "mar", "mer", "gio", "ven", "sab"];
 
-function Home({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?: Intent) => void }) {
+function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", intent?: Intent) => void; onLibrary: () => void }) {
   const s = useStore();
   const now = today();
   const action = nextAction(s, now);
@@ -264,6 +344,15 @@ function Home({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?: Intent)
         </div>
         <p className="tiny">Ogni parte è circa {MINUTES_PER_PART} minuti: ascolto, domanda veloce e richiamo. Se un giorno salti, il piano si ricalcola da solo.</p>
       </section>
+
+      <button className="card lib-entry" onClick={onLibrary}>
+        <span className="lib-entry-icon" aria-hidden="true">📚</span>
+        <span className="grow">
+          <span className="lib-title">Le tue lezioni</span>
+          <span className="tiny">Riascolta le parti che hai già fatto</span>
+        </span>
+        <span aria-hidden="true">›</span>
+      </button>
     </div>
   );
 }
@@ -719,6 +808,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   const [showText, setShowText] = useState(false);
   const [card, setCard] = useState(false);
   const doneCount = p.steps.filter((x) => x.done).length;
+  const replay = !!s.timer?.replay;
   const rate = AUDIO_RATES.includes(s.settings.voiceRate) ? s.settings.voiceRate : 1;
   const view = s.settings.lessonView ?? "cartoon";
   const cur = lineAt(audio.lines, t);
@@ -785,12 +875,12 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         }}
       />
       <div className="session-head">
-        <button className="icon-btn" aria-label="Chiudi senza segnare questa parte" onClick={() => confirm("Chiudere? Questa parte non viene segnata.") && cancelStep()}>
+        <button className="icon-btn" aria-label={replay ? "Chiudi il riascolto" : "Chiudi senza segnare questa parte"} onClick={() => (replay || confirm("Chiudere? Questa parte non viene segnata.")) && cancelStep()}>
           <Icon.close />
         </button>
         <div className="grow">
           <p className="tiny">{p.code} · {lesson.title}</p>
-          <p className="small muted num">Parte {index + 1} di {p.steps.length}</p>
+          <p className="small muted num">{replay ? `Riascolto · parte ${index + 1} di ${p.steps.length}` : `Parte ${index + 1} di ${p.steps.length}`}</p>
         </div>
         <button className="btn sm" onClick={() => setCard(true)}><Icon.plus /> Flashcard</button>
       </div>

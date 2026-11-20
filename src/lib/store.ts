@@ -175,6 +175,26 @@ export function startStep(presentationId: string) {
   });
 }
 
+/** Riascolto di una parte già fatta (lezioni passate): niente spunte né punti, solo i minuti di studio. */
+export function startReplay(presentationId: string, stepId: string) {
+  const now = Date.now();
+  setState((s) => {
+    s.timer = { presentationId, stepId, startedAt: now, endsAt: now + STEP_MS, replay: true };
+  });
+}
+
+export function finishReplay() {
+  const t = state.timer;
+  if (!t) return;
+  const minutes = Math.max(0, Math.min(15, Math.round(((Math.min(Date.now(), t.endsAt) - t.startedAt) / 60_000) * 10) / 10));
+  const d = today();
+  setState((s) => {
+    const l = s.log[d] ?? { minutes: 0, steps: 0 };
+    s.log[d] = { minutes: Math.round((l.minutes + minutes) * 10) / 10, steps: l.steps };
+    s.timer = null;
+  });
+}
+
 export function addMinute() {
   setState((s) => {
     if (!s.timer) return;

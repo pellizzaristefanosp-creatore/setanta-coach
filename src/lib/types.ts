@@ -86,6 +86,7 @@ export type ActiveTimer = {
   startedAt: number; // ms
   endsAt: number; // ms
   pausedLeft?: number; // ms rimasti, se in pausa
+  replay?: boolean; // riascolto di una parte già fatta: non si segna di nuovo
 };
 
 export type XpEvent = { date: ISODate; kind: XpKind; points: number };
