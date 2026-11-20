@@ -175,6 +175,14 @@ export function startStep(presentationId: string) {
   });
 }
 
+/** Fa una parte precisa scelta da "Le tue lezioni" (anche fuori ordine): conta come una parte normale. */
+export function startStepAt(presentationId: string, stepId: string) {
+  const now = Date.now();
+  setState((s) => {
+    s.timer = { presentationId, stepId, startedAt: now, endsAt: now + STEP_MS };
+  });
+}
+
 /** Riascolto di una parte già fatta (lezioni passate): niente spunte né punti, solo i minuti di studio. */
 export function startReplay(presentationId: string, stepId: string) {
   const now = Date.now();

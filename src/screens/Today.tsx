@@ -16,6 +16,7 @@ import {
   cancelStep,
   finishReplay,
   startReplay,
+  startStepAt,
   ensurePresentation,
   finishStep,
   getState,
@@ -137,10 +138,14 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     return (
       <Library
         onBack={() => setPhase("idle")}
-        onPlay={(pid, stepId) => {
+        onPlay={(pid, stepId, done) => {
           unlockAudio();
           unlockSpeech();
-          startReplay(pid, stepId);
+          if (done) startReplay(pid, stepId);
+          else {
+            setPhase("idle");
+            startStepAt(pid, stepId);
+          }
         }}
       />
     );
@@ -151,18 +156,17 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
 
 /* ——— Le lezioni passate: riascolta qualsiasi parte già fatta ——— */
 
-function Library({ onBack, onPlay }: { onBack: () => void; onPlay: (presentationId: string, stepId: string) => void }) {
+function Library({ onBack, onPlay }: { onBack: () => void; onPlay: (presentationId: string, stepId: string, done: boolean) => void }) {
   const s = useStore();
   const [open, setOpen] = useState<string | null>(null);
   const list = s.presentations
-    .filter((p) => lessonFor(s, p.code) && p.steps.some((x) => x.done))
-    .sort((a, b) => b.code.localeCompare(a.code, "it", { numeric: true }));
+    .filter((p) => lessonFor(s, p.code))
+    .sort((a, b) => a.code.localeCompare(b.code, "it", { numeric: true }));
   return (
     <div className="stack fade-in" style={{ gap: 14 }}>
       <button className="link-btn" style={{ alignSelf: "flex-start" }} onClick={onBack}>← Oggi</button>
       <h1 className="page-title">Le tue lezioni</h1>
-      <p className="muted small">Riascolta quando vuoi le parti che hai già fatto. Il riascolto non cambia il piano: conta solo come minuti di studio.</p>
-      {list.length === 0 && <p className="muted">Qui compariranno le lezioni dopo la prima parte.</p>}
+      <p className="muted small">Tutte le lezioni del corso. ▶ verde: già fatta, la riascolti quando vuoi (non cambia il piano). ▶ arancione: da fare, la fai adesso e conta come studio.</p>
       {list.map((p) => {
         const lesson = lessonFor(s, p.code)!;
         const done = p.steps.filter((x) => x.done).length;
@@ -173,7 +177,7 @@ function Library({ onBack, onPlay }: { onBack: () => void; onPlay: (presentation
               <span className="lib-code num">{p.code}</span>
               <span className="grow">
                 <span className="lib-title">{lesson.title}</span>
-                <span className="tiny">{done} di {p.steps.length} parti fatte</span>
+                <span className="tiny">{done === p.steps.length ? "Finita ✓" : done === 0 ? `${p.steps.length} parti · da iniziare` : `${done} di ${p.steps.length} parti fatte`}</span>
               </span>
               <span aria-hidden="true">{isOpen ? "▴" : "▾"}</span>
             </button>
@@ -184,19 +188,11 @@ function Library({ onBack, onPlay }: { onBack: () => void; onPlay: (presentation
                   if (!part) return null;
                   return (
                     <li key={st.id}>
-                      {st.done ? (
-                        <button className="lib-part" onClick={() => onPlay(p.id, st.id)}>
-                          <span className="lib-play" aria-hidden="true"><Icon.play /></span>
-                          <span className="grow">{part.title}</span>
-                          <span className="tiny num">slide {part.slide}</span>
-                        </button>
-                      ) : (
-                        <span className="lib-part todo">
-                          <span className="lib-play" aria-hidden="true">·</span>
-                          <span className="grow">{part.title}</span>
-                          <span className="tiny">da fare</span>
-                        </span>
-                      )}
+                      <button className={`lib-part ${st.done ? "done" : ""}`} onClick={() => onPlay(p.id, st.id, st.done)}>
+                        <span className="lib-play" aria-hidden="true">{st.done ? <Icon.check /> : <Icon.play />}</span>
+                        <span className="grow">{part.title}</span>
+                        <span className="tiny num">{st.done ? "riascolta" : "da fare"}</span>
+                      </button>
                     </li>
                   );
                 })}
