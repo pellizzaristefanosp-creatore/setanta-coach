@@ -16,4 +16,4 @@ export async function aiPost<T>(path: "/api/paragone" | "/api/richiamo", body: u
 }
 
 export type Paragone = { simple: string; analogy: string; remember: string };
-export type RecallFeedback = { score: number; praise: string; got: string[]; missing: string[]; fix: string; tip: string };
+export type RecallFeedback = { score: number; praise: string; got: string[]; missing: string[]; fix: string; tip: string; errors?: { wrong: string; right: string }[]; corrected?: string };

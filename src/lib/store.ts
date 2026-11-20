@@ -5,6 +5,7 @@ import { isDone } from "./plan";
 import { BADGES, BOSS_TO_WIN, POINTS, dailyChallenge, earnedBadges, level, totalXp, weeklyChallenge } from "./game";
 import { LessonPackSchema, type LessonPack } from "./lesson";
 import { cardsForPart, lessonFor, syncLessons } from "./lessons";
+import { mistakeCard } from "./practice";
 import { newCard, review, type Grade } from "./sm2";
 import { weekStart } from "./dates";
 import type { Explanation, Question, QuizResult, State, XpKind } from "./types";
@@ -293,6 +294,16 @@ export function saveRecall(presentationId: string, afterStep: number, text: stri
 }
 
 /* ——— Flashcard ——— */
+
+/** Una domanda sbagliata diventa una carta del ripasso (una sola volta): torna nei giorni dopo. */
+export function addMistakeCard(q: Question) {
+  const c = mistakeCard(q);
+  setState((s) => {
+    if (s.cards.some((x) => x.id === c.id)) return;
+    const pid = s.presentations.find((p) => p.code === q.presentation)?.id;
+    s.cards.push({ ...newCard(c.front, c.back, today(), pid), id: c.id });
+  });
+}
 
 export function addCard(front: string, back: string, presentationId?: string) {
   setState((s) => {

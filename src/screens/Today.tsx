@@ -3,6 +3,7 @@ import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
 import { Cartoon } from "../Cartoon";
 import { audioFor, lineAt, type AudioLine, type AudioPart } from "../lib/audio";
 import { pickTurn, turnsFor, type Turn } from "../lib/turns";
+import { afterPart as practiceAfterPart, finalRound, type PracticeQuestion } from "../lib/practice";
 import { nextAction } from "../lib/coach";
 import { addDays, daysBetween, shortDate, today, weekStart, weekday } from "../lib/dates";
 import { MINUTES_PER_PART, buildSchedule, formatMinutes, minutesOf } from "../lib/schedule";
@@ -13,6 +14,7 @@ import { currentItem, daySaved, isDone } from "../lib/plan";
 import {
   addCard,
   addMinute,
+  addMistakeCard,
   cancelStep,
   finishReplay,
   startReplay,
@@ -34,7 +36,7 @@ import { readSentences, splitSentences, ttsAvailable, unlockSpeech, voicesReady,
 import type { Presentation } from "../lib/types";
 import { Box, Icon, Progress, Sheet, beep, formatClock, unlockAudio } from "../ui";
 
-type Phase = "idle" | "check" | "recall" | "again" | "finished" | "library";
+type Phase = "idle" | "check" | "practice" | "recall" | "again" | "finished" | "final" | "library";
 export type Intent = { kind: "cards" } | { kind: "boss"; unit: number } | { kind: "quiz" } | { kind: "exercise"; code: string };
 
 const COURSE_URL = "https://online.setantacollege.com/my/";
@@ -43,6 +45,8 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
   const s = useStore();
   const [phase, setPhase] = useState<Phase>("idle");
   const [last, setLast] = useState<{ pid: string; index: number } | null>(null);
+  const [practice, setPractice] = useState<PracticeQuestion[]>([]);
+  const [finalDone, setFinalDone] = useState<string | null>(null);
   const now = today();
 
   const afterPart = (pid: string, index: number) => {
@@ -85,7 +89,39 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
   if (phase === "check" && lastP && last) {
     const lesson = lessonFor(s, lastP.code);
     const part = lesson?.parts[last.index];
-    if (lesson && part) return <CheckStep code={lesson.code} index={last.index} part={part} onNext={() => nextAfterCheck(getState().presentations.find((x) => x.id === lastP.id)!)} />;
+    if (lesson && part)
+      return (
+        <CheckStep
+          code={lesson.code}
+          index={last.index}
+          part={part}
+          onNext={() => {
+            // altre domande brevi: una su questa parte e una di ripasso (richiamo + ripasso distanziato)
+            const qs = practiceAfterPart(getState(), lesson.code, last.index, now);
+            if (qs.length > 0) {
+              setPractice(qs);
+              setPhase("practice");
+            } else nextAfterCheck(getState().presentations.find((x) => x.id === lastP.id)!);
+          }}
+        />
+      );
+  }
+
+  if (phase === "practice" && lastP) {
+    return <QuestionRound title={practice.length === 1 ? "Ancora una domanda" : "Ancora un paio di domande"} questions={practice} onDone={() => nextAfterCheck(getState().presentations.find((x) => x.id === lastP.id)!)} />;
+  }
+
+  if (phase === "final" && lastP) {
+    return (
+      <QuestionRound
+        title={`Partita finale · ${lastP.code}`}
+        questions={practice}
+        onDone={() => {
+          setFinalDone(lastP.id);
+          setPhase("finished");
+        }}
+      />
+    );
   }
 
   if (phase === "recall" && lastP) {
@@ -128,6 +164,14 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
       <Finished
         p={lastP}
         hasExercise={!!lessonFor(s, lastP.code)?.exercises.length}
+        onFinal={
+          finalDone === lastP.id
+            ? undefined
+            : () => {
+                setPractice(finalRound(getState(), lastP.code, now));
+                setPhase("final");
+              }
+        }
         onReview={() => goTo("ripasso", { kind: "cards" })}
         onExercise={() => goTo("ripasso", { kind: "exercise", code: lastP.code })}
         onClose={() => setPhase("idle")}
@@ -659,6 +703,7 @@ function RecallStep({ p, onNext }: { p: Presentation; onNext: () => void }) {
 
   const save = () => {
     if (text.trim()) saveRecall(p.id, done, text.trim());
+    for (const e of ai?.errors ?? []) addCard(`Correggi: «${e.wrong}»`, e.right, p.id);
     if (front.trim() && back.trim()) addCard(front.trim(), back.trim(), p.id);
     onNext();
   };
@@ -680,12 +725,41 @@ function RecallStep({ p, onNext }: { p: Presentation; onNext: () => void }) {
           </div>
           {ai.praise && <p className="small">{ai.praise}</p>}
           {ai.got.map((g, i) => <p key={`g${i}`} className="small" style={{ color: "var(--field)" }}>✓ {g}</p>)}
-          {ai.missing.map((m, i) => <p key={`m${i}`} className="small" style={{ color: "var(--ink-2)" }}>○ {m}</p>)}
-          {ai.fix && <p className="small" style={{ color: "var(--alarm)" }}>Attento: {ai.fix}</p>}
+          {(ai.errors ?? []).length > 0 ? (
+            <div className="stack" style={{ gap: 8 }}>
+              <h3 className="tutor-sub">Da correggere</h3>
+              {(ai.errors ?? []).map((e, i) => (
+                <div key={`e${i}`} className="tutor-fix">
+                  <p className="small"><span className="tutor-x">✗</span> «{e.wrong}»</p>
+                  <p className="small"><span className="tutor-ok">✓</span> {e.right}</p>
+                </div>
+              ))}
+            </div>
+          ) : (
+            ai.fix && <p className="small" style={{ color: "var(--alarm)" }}>Attento: {ai.fix}</p>
+          )}
+          {ai.missing.length > 0 && (
+            <div className="stack" style={{ gap: 4 }}>
+              <h3 className="tutor-sub">Ti è sfuggito</h3>
+              {ai.missing.map((m, i) => <p key={`m${i}`} className="small" style={{ color: "var(--ink-2)" }}>○ {m}</p>)}
+            </div>
+          )}
+          {ai.corrected && (
+            <div className="stack" style={{ gap: 4 }}>
+              <h3 className="tutor-sub">Detto bene, con le tue parole</h3>
+              <p className="small tutor-corrected">{ai.corrected}</p>
+            </div>
+          )}
           {ai.tip && <p className="analogy">⚽ {ai.tip}</p>}
         </div>
       )}
-      {aiError && <p className="tiny">{aiError} Intanto ecco il confronto semplice:</p>}
+      {aiError && (
+        <div className="card soft stack" style={{ gap: 4 }}>
+          <p className="small" style={{ fontWeight: 700 }}>Il tutor non ha potuto correggerti</p>
+          <p className="small muted">{aiError}</p>
+          <p className="tiny">Intanto ecco il confronto semplice con i punti chiave:</p>
+        </div>
+      )}
       {checked && !ai && !aiBusy && points.length > 0 && (
         <div className="card stack fade-in" style={{ gap: 6 }}>
           <h2>Confronta con i punti chiave</h2>
@@ -713,7 +787,76 @@ function RecallStep({ p, onNext }: { p: Presentation; onNext: () => void }) {
   );
 }
 
-function Finished({ p, hasExercise, onReview, onExercise, onClose }: { p: Presentation; hasExercise: boolean; onReview: () => void; onExercise: () => void; onClose: () => void }) {
+/** Giro di domande con risposta subito e il perché; le sbagliate diventano carte del ripasso. */
+function QuestionRound({ title, questions, onDone }: { title: string; questions: PracticeQuestion[]; onDone: () => void }) {
+  const [i, setI] = useState(0);
+  const [chosen, setChosen] = useState<number | null>(null);
+  const [right, setRight] = useState(0);
+  const [over, setOver] = useState(false);
+  if (over || questions.length === 0) {
+    const wrong = questions.length - right;
+    return (
+      <div className="hero fade-in">
+        <div className="saved pop"><Icon.check /> {right} su {questions.length}</div>
+        <p className="page-title" style={{ fontSize: 34 }}>{right === questions.length ? "Tutte giuste." : wrong === 1 ? "Una da ripassare." : `${wrong} da ripassare.`}</p>
+        {wrong > 0 && <p className="muted center">Le sbagliate tornano nelle flashcard nei prossimi giorni: è così che si fissano.</p>}
+        <button className="btn primary huge block" onClick={onDone}>Avanti</button>
+      </div>
+    );
+  }
+  const q = questions[i]!;
+  const next = () => {
+    if (i + 1 < questions.length) {
+      setI(i + 1);
+      setChosen(null);
+    } else setOver(true);
+  };
+  return (
+    <div className="stack fade-in" style={{ gap: 14, paddingTop: 12 }}>
+      <div className="spread">
+        <span className="tag">{title}</span>
+        <span className="small muted num">{i + 1} di {questions.length}</span>
+      </div>
+      <span className="pill" style={{ alignSelf: "flex-start" }}>{q.kind === "ripasso" ? `Ripasso · lezione ${q.from}` : `Lezione ${q.from}`}</span>
+      <h1 className="step-title">{q.question}</h1>
+      <div className="stack" style={{ gap: 8 }}>
+        {q.options.map((o, k) => {
+          const cls = chosen == null ? "" : k === q.answer ? "right" : k === chosen ? "wrong" : "";
+          return (
+            <button
+              key={k}
+              className={`btn option ${cls}`}
+              disabled={chosen != null}
+              onClick={() => {
+                setChosen(k);
+                const ok = k === q.answer;
+                recordAnswer(q.id, ok, "quiz");
+                if (ok) setRight(right + 1);
+                else {
+                  addMistakeCard(q);
+                  navigator.vibrate?.(80);
+                }
+              }}
+            >
+              <span className="letter">{"ABCD"[k]}</span>
+              <span>{o}</span>
+            </button>
+          );
+        })}
+      </div>
+      {chosen != null && (
+        <div className="card soft stack fade-in">
+          <p style={{ fontWeight: 750, color: chosen === q.answer ? "var(--field)" : "var(--alarm)" }}>{chosen === q.answer ? "Giusta." : `Era: ${q.options[q.answer]}`}</p>
+          {q.explanation && <p className="small muted">{q.explanation}</p>}
+          <button className="btn primary block" onClick={next}>{i + 1 < questions.length ? "Avanti" : "Fine"}</button>
+        </div>
+      )}
+      {chosen == null && <button className="link-btn" onClick={onDone}>Basta domande per ora</button>}
+    </div>
+  );
+}
+
+function Finished({ p, hasExercise, onFinal, onReview, onExercise, onClose }: { p: Presentation; hasExercise: boolean; onFinal?: () => void; onReview: () => void; onExercise: () => void; onClose: () => void }) {
   return (
     <div className="hero fade-in">
       <div className="trophy pop">🏁</div>
@@ -721,7 +864,8 @@ function Finished({ p, hasExercise, onReview, onExercise, onClose }: { p: Presen
       <p className="page-title" style={{ fontSize: 34 }}>Presentazione chiusa.</p>
       <p className="muted">{p.title}</p>
       <div className="stack" style={{ width: "100%" }}>
-        <button className="btn primary block" onClick={onReview}>Ripasso 10 minuti</button>
+        {onFinal && <button className="btn primary block" onClick={onFinal}>Partita finale · 6 domande</button>}
+        <button className={`btn block ${onFinal ? "" : "primary"}`} onClick={onReview}>Ripasso 10 minuti</button>
         {hasExercise && <button className="btn block" onClick={onExercise}>Esercizio pratico</button>}
         <button className="link-btn" onClick={onClose}>Basta per oggi</button>
       </div>

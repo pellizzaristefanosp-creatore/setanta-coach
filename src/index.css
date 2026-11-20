@@ -407,3 +407,8 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 .lib-play svg { width: 14px; height: 14px; }
 .session-foot { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
 .session-foot .btn.field { padding-left: 22px; padding-right: 22px; }
+.tutor-sub { font-size: 13px; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-2); margin: 4px 0 0; }
+.tutor-fix { background: var(--surface-2); border-radius: 12px; padding: 8px 10px; display: flex; flex-direction: column; gap: 4px; }
+.tutor-x { color: var(--alarm); font-weight: 800; margin-right: 4px; }
+.tutor-ok { color: var(--field); font-weight: 800; margin-right: 4px; }
+.tutor-corrected { background: var(--field-soft); border-radius: 12px; padding: 10px 12px; line-height: 1.45; }
