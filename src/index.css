@@ -405,3 +405,5 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 .lib-part.done .lib-play { background: var(--field); color: #fff; }
 .lib-play { width: 28px; height: 28px; border-radius: 999px; background: var(--brand); color: var(--brand-ink); display: grid; place-items: center; flex-shrink: 0; }
 .lib-play svg { width: 14px; height: 14px; }
+.session-foot { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.session-foot .btn.field { padding-left: 22px; padding-right: 22px; }

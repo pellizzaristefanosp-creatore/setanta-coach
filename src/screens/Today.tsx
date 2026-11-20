@@ -64,10 +64,11 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     if (p) {
       const index = p.steps.findIndex((x) => x.id === s.timer!.stepId);
       const lesson = lessonFor(s, p.code);
+      const backTo = s.timer.returnTo;
       const onDone = s.timer.replay
         ? () => {
             finishReplay();
-            setPhase("library");
+            if (!backTo) setPhase("library");
           }
         : () => {
             finishStep();
@@ -805,6 +806,13 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   const [card, setCard] = useState(false);
   const doneCount = p.steps.filter((x) => x.done).length;
   const replay = !!s.timer?.replay;
+  const returnTo = s.timer?.returnTo;
+  // riascolta la parte prima, poi si torna qui (o alla parte da cui eri partito)
+  const goBack = index > 0 ? () => { el.current?.pause(); startReplay(p.id, p.steps[index - 1]!.id, returnTo ?? (replay ? undefined : s.timer?.stepId)); } : undefined;
+  const close = () => {
+    if (replay && returnTo) startStepAt(p.id, returnTo);
+    else if (replay || confirm("Chiudere? Questa parte non viene segnata.")) cancelStep();
+  };
   const rate = AUDIO_RATES.includes(s.settings.voiceRate) ? s.settings.voiceRate : 1;
   const view = s.settings.lessonView ?? "cartoon";
   const cur = lineAt(audio.lines, t);
@@ -871,7 +879,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         }}
       />
       <div className="session-head">
-        <button className="icon-btn" aria-label={replay ? "Chiudi il riascolto" : "Chiudi senza segnare questa parte"} onClick={() => (replay || confirm("Chiudere? Questa parte non viene segnata.")) && cancelStep()}>
+        <button className="icon-btn" aria-label={replay ? "Chiudi il riascolto" : "Chiudi senza segnare questa parte"} onClick={close}>
           <Icon.close />
         </button>
         <div className="grow">
@@ -938,9 +946,16 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         <button className="btn" onClick={() => setShowText(!showText)}>{showText ? "Nascondi" : "Testo"}</button>
       </div>
 
-      <button className={`btn field huge block ${ended ? "pulse" : ""}`} onClick={() => { el.current?.pause(); onDone(); }}>
-        <Icon.check /> Fatto
-      </button>
+      <div className="session-foot">
+        {goBack ? (
+          <button className="btn" onClick={goBack}>← Parte precedente</button>
+        ) : (
+          <span />
+        )}
+        <button className={`btn field ${ended ? "pulse" : ""}`} onClick={() => { el.current?.pause(); onDone(); }}>
+          <Icon.check /> {replay && returnTo ? "Torna alla lezione" : "Fatto"}
+        </button>
+      </div>
       {card && <CardSheet presentationId={p.id} onClose={() => setCard(false)} />}
       {turn && turnState === "domanda" && (
         <TurnSheet

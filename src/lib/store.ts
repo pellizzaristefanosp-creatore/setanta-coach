@@ -184,10 +184,10 @@ export function startStepAt(presentationId: string, stepId: string) {
 }
 
 /** Riascolto di una parte già fatta (lezioni passate): niente spunte né punti, solo i minuti di studio. */
-export function startReplay(presentationId: string, stepId: string) {
+export function startReplay(presentationId: string, stepId: string, returnTo?: string) {
   const now = Date.now();
   setState((s) => {
-    s.timer = { presentationId, stepId, startedAt: now, endsAt: now + STEP_MS, replay: true };
+    s.timer = { presentationId, stepId, startedAt: now, endsAt: now + STEP_MS, replay: true, ...(returnTo ? { returnTo } : {}) };
   });
 }
 
@@ -199,7 +199,8 @@ export function finishReplay() {
   setState((s) => {
     const l = s.log[d] ?? { minutes: 0, steps: 0 };
     s.log[d] = { minutes: Math.round((l.minutes + minutes) * 10) / 10, steps: l.steps };
-    s.timer = null;
+    // dal tasto "Parte precedente": si torna alla parte che stavi facendo
+    s.timer = t.returnTo ? { presentationId: t.presentationId, stepId: t.returnTo, startedAt: Date.now(), endsAt: Date.now() + STEP_MS } : null;
   });
 }
 
