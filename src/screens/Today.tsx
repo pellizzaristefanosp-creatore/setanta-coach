@@ -966,6 +966,10 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   // video animato della lezione: parte con la voce e poi lascia il posto al cartone
   const video = lessonVideo(p.code, index);
   const [videoOn, setVideoOn] = useState(!!video);
+  const endVideo = () => {
+    setVideoOn(false);
+    if (video?.voices) void el.current?.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
+  };
   // "Tocca a te": a caso, una domanda del dialogo la fa rispondere a te prima della risposta vera
   const [turn] = useState(() => pickTurn(turnsFor(p.code, index), audio.lines, Math.random()));
   const [turnState, setTurnState] = useState<"attesa" | "domanda" | "fatto">("attesa");
@@ -988,7 +992,8 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
     const a = el.current;
     if (!a) return;
     a.playbackRate = rate;
-    a.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
+    // se il video della lezione ha già le voci, il dialogo parte quando il video finisce
+    if (!(video?.voices && videoOn)) a.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
     if ("mediaSession" in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({ title: `${p.code} · ${part.title}`, artist: "Marco e Luca", album: "Setanta Coach", artwork: [{ src: "/icon-512.png", sizes: "512x512", type: "image/png" }] });
       navigator.mediaSession.setActionHandler("play", () => void a.play());
@@ -1048,10 +1053,10 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         <>
           {video && videoOn ? (
             <figure className="lesson-video">
-              <video src={video.src} poster={video.poster} autoPlay playsInline onEnded={() => setVideoOn(false)} onError={() => setVideoOn(false)} />
+              <video src={video.src} poster={video.poster} autoPlay playsInline onEnded={endVideo} onError={endVideo} />
               <figcaption>
                 <span className="small">{video.caption}</span>
-                <button className="btn sm ghost" onClick={() => setVideoOn(false)}>Cartone</button>
+                <button className="btn sm ghost" onClick={endVideo}>{video.voices ? "Salta" : "Cartone"}</button>
               </figcaption>
             </figure>
           ) : (
