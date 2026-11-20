@@ -1,0 +1,12 @@
+<!doctype html><html><body style="margin:0;background:#fff"><canvas id="c" width="900" height="760"></canvas>
+<script type="module">
+import { drawCharacter, POSES } from "./personaggi.js";
+await document.fonts.load("900 40px Inter");
+const g = document.getElementById("c").getContext("2d");
+g.fillStyle = "#f6e2c2"; g.fillRect(0,0,900,760);
+const base = { scale: 1, t: 1, blink: 0, brow: 0, look: [0.3, 0] };
+drawCharacter(g, "STE", { ...base, x: 150, y: 720, pose: POSES.idle, mouth: { open: 0, wide: 0, round: 0 }, expr: "smile" });
+drawCharacter(g, "PROF", { ...base, x: 450, y: 720, pose: POSES.explain, mouth: { open: 0.8, wide: 0.3, round: 0 }, brow: 0.5 });
+drawCharacter(g, "STE", { ...base, x: 750, y: 720, pose: POSES.point, mouth: { open: 0.6, wide: 0, round: 0.9 }, brow: 1, expr: "wow", look: [0, -0.5] });
+window.READY = true;
+</script></body></html>
