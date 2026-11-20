@@ -2,3 +2,6 @@ node_modules
 dist
 *.local
 .DS_Store
+studio/spiega/puntate/*/out/frames/
+studio/spiega/puntate/*/out/test/
+studio/spiega/puntate/*/out/*.wav

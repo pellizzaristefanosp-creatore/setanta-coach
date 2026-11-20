@@ -1,0 +1,105 @@
+{
+ "titolo": "Il core è un cilindro",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, quando calcio, il core è solo la tartaruga o devo guardare anche il resto del busto?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Immagina il tronco come un cilindro da cui partono braccia e gambe. Gli addominali sono solo una parte."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Quindi non guardo solo quello che vedo allo specchio?"
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Esatto. Guarda davanti e dietro e non dimenticare i fianchi. Il cilindro comprende il busto e arriva alle anche in basso."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "E in alto, fin dove arriva?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Secondo Joyce e Lewindon, nel duemilaquattordici, il cilindro si può estendere fino alle scapole e alla colonna toracica."
+  },
+  {
+   "id": "s4",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Quindi il core è tutto il cilindro, dalle anche alle scapole. La tartaruga? Si prendeva solo tutto il merito."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "cilindro",
+   "titolo": "Il core",
+   "quando": {
+    "battuta": "p1",
+    "parola": "cilindro"
+   },
+   "pareti": [
+    {
+     "dove": "davanti",
+     "testo": "Davanti",
+     "battuta": "p2",
+     "parola": "davanti"
+    },
+    {
+     "dove": "dietro",
+     "testo": "Dietro",
+     "battuta": "p2",
+     "parola": "dietro"
+    },
+    {
+     "dove": "sotto",
+     "testo": "Anche",
+     "battuta": "p2",
+     "parola": "anche"
+    },
+    {
+     "dove": "sopra",
+     "testo": "Scapole e torace",
+     "battuta": "p3",
+     "parola": "scapole"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p3",
+    "parola": "scapole"
+   }
+  }
+ ],
+ "finale": "Più che addominali",
+ "code": "4.1",
+ "part": 2,
+ "fonte": "Lezione 4.1",
+ "semplificato": true
+}

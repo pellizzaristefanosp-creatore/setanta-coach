@@ -1,0 +1,98 @@
+{
+ "titolo": "Plank: non fare l’arco",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, quando faccio il plank sui gomiti e mi stanco, la schiena si inarca. Se resto fermo così, vale lo stesso?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "No. Nel plank non basta stare fermi: la gravità tira le anche verso il pavimento e la zona lombare tende a inarcarsi."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Eppure quando mi lascio andare mi sembra di fare meno fatica."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Infatti ti affidi a un appoggio passivo. Qui invece sono gli addominali a dover tenere la posizione. È questa l’anti-estensione."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Quindi devo appiattire la schiena?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "No, tieni le curve naturali della colonna e gli addominali attivi. Se la schiena si inarca, meglio fermarsi."
+  },
+  {
+   "id": "s4",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Ricevuto, Pròf: addominali attivi, niente arco. Per dormire ho già il divano."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "parola",
+   "testo": "Anti-estensione",
+   "sotto": "Gli addominali contrastano l’arco",
+   "quando": {
+    "battuta": "p1"
+   }
+  },
+  {
+   "tipo": "esercizio",
+   "esercizio": "plank",
+   "titolo": "Plank sui gomiti",
+   "quando": {
+    "battuta": "p1",
+    "parola": "plank"
+   },
+   "frecce": [
+    {
+     "punto": "anca",
+     "direzione": "giu",
+     "colore": "rosso",
+     "testo": "Gravità",
+     "battuta": "p1",
+     "parola": "gravità"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "think",
+   "quando": {
+    "battuta": "p2",
+    "parola": "appoggio passivo"
+   }
+  }
+ ],
+ "finale": "Addominali attivi, niente arco",
+ "code": "4.3",
+ "part": 2,
+ "fonte": "Lezione 4.3",
+ "semplificato": true
+}

@@ -1,0 +1,90 @@
+{
+ "titolo": "RDL: il tronco lavora",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, il Romanian deadlift è nella mia scheda gambe. Che c’entra con il core?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "È la cerniera dell’anca con il bilanciere: pieghi appena le ginocchia, porti indietro le anche e mantieni la colonna neutra."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Quando risalgo sento glutei e ischiocrurali. Ma il tronco che fa?"
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Mentre abbassi il bilanciere, il carico tende a piegare la colonna in avanti. Gli erettori spinali si oppongono e la tengono neutra."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Quindi mi piego alle anche, ma senza arrotondare la schiena."
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Esatto. Il lavoro è soprattutto per le gambe, ma il core fa anti-flessione in modo indiretto."
+  },
+  {
+   "id": "s4",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Il bilanciere prova a piegarmi, la schiena tiene. Bel pressing, zero gol."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "esercizio",
+   "esercizio": "hinge",
+   "titolo": "Romanian deadlift",
+   "quando": {
+    "battuta": "p1",
+    "parola": "cerniera"
+   },
+   "frecce": [
+    {
+     "punto": "spalle",
+     "direzione": "avanti",
+     "colore": "rosso",
+     "testo": "Spinta in flessione",
+     "battuta": "p2",
+     "parola": "piegare"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p2",
+    "parola": "erettori spinali"
+   }
+  }
+ ],
+ "finale": "Anche indietro, colonna neutra",
+ "code": "4.2",
+ "part": 3,
+ "fonte": "Lezione 4.2",
+ "semplificato": true
+}
