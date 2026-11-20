@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8" />
+<title>Actina e miosina · Prof e Ste</title>
+<style>
+  html, body { margin: 0; background: #000; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<canvas id="c" width="720" height="1280"></canvas>
+<script type="module">
+// Spiegazione animata (2D, deterministica): cosa succede tra actina e miosina. Lezione 5.1, slide 6.
+// window.renderFrame(t) disegna l'istante t; i tempi vengono dalle voci (ElevenLabs con tempi per lettera).
+const W = 720, H = 1280;
+const cv = document.getElementById("c"), g = cv.getContext("2d");
+const TL = await (await fetch("out/timeline.json")).json();
+window.TIMING = { DURATION: TL.DURATION };
+const L = Object.fromEntries(TL.lines.map((l) => [l.id, l]));
+const img = (s) => new Promise((r) => { const i = new Image(); i.onload = () => r(i); i.src = s; });
+const [INTRO, AV_STE, AV_PROF] = await Promise.all([img("sp_intro.png"), img("av_ste.png"), img("av_prof.png")]);
+await document.fonts.load("800 40px Inter"); await document.fonts.load("500 20px Inter");
+
+const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+const ease = (x) => { x = clamp(x); return x < 0.5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2; };
+const back = (x) => { x = clamp(x); const c = 1.7; return 1 + (c + 1) * Math.pow(x - 1, 3) + c * Math.pow(x - 1, 2); };
+const lerp = (a, b, k) => a + (b - a) * k;
+const bt = (t, a, b) => clamp((t - a) / (b - a));
+function word(id, w, nth = 0) { const l = L[id], s = l.al.chars.join(""); let i = -1; for (let k = 0; k <= nth; k++) i = s.indexOf(w, i + 1); if (i < 0) throw new Error(w + " in " + id); return l.start + l.al.start[i]; }
+const end = (id) => L[id].start + L[id].dur;
+function speaking(t) { for (const l of TL.lines) if (t >= l.start - 0.1 && t < l.start + l.dur + 0.3) return l; return null; }
+function mouth(t) { // quanto "parla" chi parla adesso (per l'anello dell'icona)
+  for (const l of TL.lines) if (t >= l.start && t < l.start + l.dur) { const tt = t - l.start; for (let i = 0; i < l.al.chars.length; i++) if (l.al.start[i] <= tt && tt < l.al.end[i]) return /[aeiouàèéìòù]/i.test(l.al.chars[i]) ? 1 : 0.4; }
+  return 0;
+}
+const plain = (l) => l.al.chars.join("").replace(/\[[^\]]*\]\s*/g, "").replace("Pròf", "Prof").trim();
+
+// ——— momenti chiave, presi dalle parole ———
+const T = {
+  zoom: word("p1", "Zoomiamo"), sarc: word("p1", "sarcomero"),
+  actin: word("p2", "actina"), myo: word("p2", "miosina"), heads: word("p2", "testine"),
+  signal: word("p3", "segnale"), ca: word("p3", "calcio"), sites: word("p3", "siti"),
+  focus: word("p4", "testina"), attach: word("p4", "aggancia"), pull: word("p4", "tira"), release: word("p4", "lascia"), again: word("p4", "ricomincia"),
+  slide: word("s2", "Scorrono"), theory: word("p5", "Teoria"), grab: word("p5", "afferri"), tug: word("p5", "tiri"), let: word("p5", "lasci"),
+};
+
+// ——— geometria del sarcomero (vista di lato, semplificata) ———
+const CX = 360, ACT_LEN = 236, MYO_HALF = 150;
+const ROWS = [{ m: 420, a: [372, 468] }, { m: 620, a: [572, 668] }];
+const HEAD_X = [40, 66, 92, 118, 144];
+function zHalf(t) {
+  // fermo fino all'aggancio; un passo col primo colpo; poi scorre in cicli
+  const step = ease(bt(t, T.pull, T.pull + 0.8)) * 14;
+  const run = ease(bt(t, T.again, T.slide + 1.2)) * 76;
+  return 300 - step - run;
+}
+function headCycle(phase) { // 0..1 → angolo (rad) e "attaccata"
+  if (phase < 0.2) return { ang: lerp(-0.5, -0.35, phase / 0.2), on: false, reach: phase / 0.2 };
+  if (phase < 0.55) return { ang: lerp(-0.35, 0.55, ease((phase - 0.2) / 0.35)), on: true, reach: 1 };
+  if (phase < 0.7) return { ang: 0.55, on: false, reach: 1 - (phase - 0.55) / 0.15 };
+  return { ang: lerp(0.55, -0.5, ease((phase - 0.7) / 0.3)), on: false, reach: 0 };
+}
+
+function glow(color, blur) { g.shadowColor = color; g.shadowBlur = blur; }
+function noGlow() { g.shadowBlur = 0; }
+function label(text, x, y, color, k, align = "center") {
+  if (k <= 0.01) return;
+  g.save(); g.globalAlpha = clamp(k); g.font = "800 26px Inter"; g.textAlign = align; g.textBaseline = "middle";
+  const w = g.measureText(text).width + 28, s = 0.85 + 0.15 * back(k);
+  g.translate(x, y); g.scale(s, s);
+  const bx = align === "center" ? -w / 2 : align === "left" ? 0 : -w;
+  g.fillStyle = "rgba(8,16,32,0.85)"; g.strokeStyle = color; g.lineWidth = 3;
+  g.beginPath(); g.roundRect(bx, -22, w, 44, 14); g.fill(); g.stroke();
+  g.fillStyle = color; g.fillText(text, bx + w / 2, 1); g.restore();
+}
+function wrap(text, maxW) { const ws = text.split(" "), out = []; let cur = ""; for (const w of ws) { const n = cur ? cur + " " + w : w; if (g.measureText(n).width > maxW && cur) { out.push(cur); cur = w; } else cur = n; } if (cur) out.push(cur); return out; }
+
+function drawLab(t) {
+  // sfondo da laboratorio-ologramma
+  const bg = g.createLinearGradient(0, 0, 0, H); bg.addColorStop(0, "#081428"); bg.addColorStop(1, "#04070f"); g.fillStyle = bg; g.fillRect(0, 0, W, H);
+  g.strokeStyle = "rgba(90,160,255,0.07)"; g.lineWidth = 1;
+  for (let x = 0; x <= W; x += 40) { g.beginPath(); g.moveTo(x, 0); g.lineTo(x, H); g.stroke(); }
+  for (let y = 0; y <= H; y += 40) { g.beginPath(); g.moveTo(0, y); g.lineTo(W, y); g.stroke(); }
+  const appear = back(bt(t, T.sarc - 0.4, T.sarc + 0.5));
+  if (appear <= 0) return;
+  // camera: si avvicina alla testina durante "aggancia, tira, lascia", poi torna larga
+  const fk = ease(bt(t, T.focus - 0.4, T.focus + 0.5)) * (1 - ease(bt(t, T.again, T.again + 0.9)));
+  const FX = CX - 92, FY = 409, zf = (0.7 + 0.3 * appear) * (1 + 1.25 * fk);
+  g.save(); g.translate(CX, 520); g.scale(zf, zf); g.translate(-lerp(CX, FX, fk), -lerp(520, FY, fk)); g.globalAlpha = clamp(appear);
+  const zh = zHalf(t);
+  // estremità del sarcomero (dischi Z)
+  for (const s of [-1, 1]) {
+    const x = CX + s * zh; glow("#7fb4ff", 18); g.strokeStyle = "#cfe4ff"; g.lineWidth = 7; g.lineJoin = "round";
+    g.beginPath(); for (let k = 0; k <= 10; k++) { const y = 330 + k * 37; g[k ? "lineTo" : "moveTo"](x + (k % 2 ? 12 : -12), y); } g.stroke(); noGlow();
+  }
+  // actina: parte dalle estremità e va verso il centro (stessa lunghezza sempre)
+  const pa = Math.max(0, 1 - Math.abs(t - T.actin - 0.7) / 1.2), sitesK = back(bt(t, T.sites, T.sites + 0.7));
+  for (const r of ROWS) for (const y of r.a) for (const s of [-1, 1]) {
+    const x0 = CX + s * zh, x1 = x0 - s * ACT_LEN;
+    glow("#3ee6a8", 10 + pa * 20); g.strokeStyle = "#47e3a6"; g.lineWidth = 9 + pa * 5; g.lineCap = "round";
+    g.beginPath(); g.moveTo(x0, y); g.lineTo(x1, y); g.stroke(); noGlow();
+    // perline dell'actina
+    g.fillStyle = "#9cf5d2"; for (let k = 8; k < ACT_LEN; k += 18) { g.beginPath(); g.arc(x0 - s * k, y, 2.4, 0, 7); g.fill(); }
+    // siti di legame: prima coperti, il calcio li scopre
+    for (const hx of HEAD_X) {
+      const sx = CX + s * hx + s * (zh - 300); // seguono l'actina che scorre
+      if (s * (x0 - sx) < 0 || s * (sx - x1) < 0) continue;
+      const sy = y + (y < r.m ? 7 : -7);
+      g.fillStyle = sitesK > 0.02 ? `rgba(196,120,255,${0.25 + 0.75 * clamp(sitesK)})` : "rgba(120,140,160,0.45)";
+      if (sitesK > 0.02) glow("#c478ff", 14 * clamp(sitesK));
+      g.beginPath(); g.arc(sx, sy, 5 + 2 * clamp(sitesK), 0, 7); g.fill(); noGlow();
+    }
+  }
+  // miosina con le testine
+  const pm = Math.max(0, 1 - Math.abs(t - T.myo - 0.7) / 1.2), ph = Math.max(0, 1 - Math.abs(t - T.heads - 0.6) / 1.0);
+  for (const r of ROWS) {
+    glow("#ff8a4c", 14 + pm * 20); g.strokeStyle = "#ff8a4c"; g.lineWidth = 22 + pm * 6; g.lineCap = "round";
+    g.beginPath(); g.moveTo(CX - MYO_HALF, r.m); g.lineTo(CX + MYO_HALF, r.m); g.stroke(); noGlow();
+    for (const s of [-1, 1]) for (const [hi, hx] of HEAD_X.entries()) for (const up of [-1, 1]) {
+      const bx = CX + s * hx, by = r.m + up * 11;
+      const focus = r === ROWS[0] && s === -1 && hi === 2 && up === -1;
+      let st = { ang: -0.5, on: false, reach: 0 };
+      if (focus && t >= T.attach - 0.3 && t < T.again) {
+        if (t < T.pull) st = { ang: -0.35, on: true, reach: ease(bt(t, T.attach - 0.3, T.attach + 0.3)) };
+        else if (t < T.release) st = { ang: lerp(-0.35, 0.55, ease(bt(t, T.pull, T.pull + 0.8))), on: true, reach: 1 };
+        else st = { ang: 0.55, on: false, reach: 1 - ease(bt(t, T.release, T.release + 0.5)) };
+      } else if (t >= T.again) {
+        const speed = 1.4, ph0 = ((hi * 0.37 + (s + 1) * 0.21 + (up + 1) * 0.13 + ROWS.indexOf(r) * 0.29) % 1);
+        st = headCycle(((t - T.again) * speed + ph0) % 1);
+      }
+      // la testina punta verso l'actina (sopra o sotto) e ruota verso il centro durante il colpo
+      const len = 26 + st.reach * 16, a = -Math.PI / 2 * up + (-s) * st.ang * (up === -1 ? -1 : 1) * -1;
+      const ex = bx + Math.cos(a) * len * 0.0 + (-s) * Math.sin(st.ang) * len * 0.9 * 1, ey = by + up * Math.cos(st.ang) * len;
+      g.strokeStyle = "#ffb07a"; g.lineWidth = 5; g.beginPath(); g.moveTo(bx, by); g.lineTo(ex, ey); g.stroke();
+      const hl = focus && t > T.focus - 0.2 && t < T.again + 0.5;
+      g.globalAlpha = clamp(appear) * (focus ? 1 : 1 - 0.65 * fk);
+      if (hl) { glow("#ffe08a", 28); g.fillStyle = "#ffe08a"; } else { glow("#ff8a4c", st.on ? 16 : 6); g.fillStyle = st.on ? "#ffd2a8" : "#ff9d63"; }
+      g.beginPath(); g.ellipse(ex, ey, 9 + ph * 3 + (hl ? 3 : 0), 7 + ph * 2, 0, 0, 7); g.fill(); noGlow();
+      void a;
+      g.globalAlpha = clamp(appear);
+    }
+  }
+  if (fk > 0.3) { // cerchio e nome sulla testina seguita
+    g.globalAlpha = clamp((fk - 0.3) / 0.4); g.strokeStyle = "#ffe08a"; g.lineWidth = 2.5 / zf * 1.6; g.setLineDash([6, 5]);
+    g.beginPath(); g.arc(FX, FY - 30, 34, 0, 7); g.stroke(); g.setLineDash([]);
+    g.font = `800 ${Math.round(20 / zf * 1.6)}px Inter`; g.fillStyle = "#ffe08a"; g.textAlign = "center"; g.fillText("una testina", FX, FY - 78); g.globalAlpha = 1;
+  }
+  g.restore();
+  // segnale nervoso: un impulso che arriva da sinistra
+  const sk = bt(t, T.signal - 0.2, T.signal + 0.9);
+  if (sk > 0 && sk < 1) { const x = lerp(-40, W + 40, sk); glow("#ffffff", 30); g.fillStyle = "#ffffff"; g.beginPath(); g.arc(x, 300, 10, 0, 7); g.fill(); noGlow();
+    g.strokeStyle = "rgba(255,255,255,0.5)"; g.lineWidth = 3; g.beginPath(); g.moveTo(x - 120, 300); g.lineTo(x, 300); g.stroke(); }
+  // calcio che arriva
+  if (t > T.ca - 0.2) for (let k = 0; k < 22; k++) {
+    const d = (k * 0.137) % 1, x = 90 + ((k * 97) % 540), ky = bt(t, T.ca + d * 0.8, T.ca + 1.6 + d * 0.8), y = lerp(250, 360 + ((k * 53) % 330), ease(ky));
+    if (ky <= 0) continue; const fade = 1 - bt(t, T.again + 1, T.again + 2.5);
+    g.globalAlpha = clamp(fade); glow("#ffd34d", 12); g.fillStyle = "#ffd34d"; g.beginPath(); g.arc(x, y, 6, 0, 7); g.fill(); noGlow(); g.globalAlpha = 1;
+  }
+  // righello: lunghezza del sarcomero (si accorcia) — filamenti: stessa lunghezza
+  const rk = bt(t, T.again + 0.5, T.again + 1.2);
+  if (rk > 0) {
+    g.globalAlpha = rk; const zh = zHalf(t), y = 760;
+    g.strokeStyle = "#cfe4ff"; g.lineWidth = 3; g.beginPath(); g.moveTo(CX - zh, y); g.lineTo(CX + zh, y); g.moveTo(CX - zh, y - 12); g.lineTo(CX - zh, y + 12); g.moveTo(CX + zh, y - 12); g.lineTo(CX + zh, y + 12); g.stroke();
+    g.font = "700 22px Inter"; g.textAlign = "center"; g.fillStyle = "#cfe4ff"; g.fillText(`Sarcomero: ${Math.round((zh / 300) * 100)}%`, CX, y + 34); g.globalAlpha = 1;
+  }
+  // frecce: scivolano verso il centro
+  const ak = bt(t, T.slide - 0.2, T.slide + 0.4) * (1 - bt(t, T.theory, T.theory + 0.5));
+  if (ak > 0) { g.globalAlpha = ak; g.fillStyle = "#ffe08a"; g.font = "800 40px Inter"; g.textAlign = "center"; const off = Math.sin(t * 6) * 6;
+    for (const r of ROWS) { g.fillText("→", 150 + off, r.m - 60); g.fillText("←", 570 - off, r.m - 60); } g.globalAlpha = 1; }
+  // etichette
+  label("Sarcomero", CX, 240, "#cfe4ff", bt(t, T.sarc, T.sarc + 0.4) * (1 - bt(t, T.signal - 0.5, T.signal)));
+  label("Actina · sottile", 170, 860, "#47e3a6", bt(t, T.actin, T.actin + 0.4) * (1 - bt(t, T.again, T.again + 0.4)));
+  label("Miosina · spessa", 550, 860, "#ff8a4c", bt(t, T.myo, T.myo + 0.4) * (1 - bt(t, T.again, T.again + 0.4)));
+  label("Testine", 550, 920, "#ffb07a", bt(t, T.heads, T.heads + 0.4) * (1 - bt(t, T.signal, T.signal + 0.4)));
+  label("Segnale nervoso", CX, 240, "#ffffff", bt(t, T.signal, T.signal + 0.3) * (1 - bt(t, T.ca, T.ca + 0.3)));
+  label("Ca²⁺ · calcio", CX, 240, "#ffd34d", bt(t, T.ca, T.ca + 0.3) * (1 - bt(t, T.sites, T.sites + 0.3)));
+  label("Siti di legame scoperti", CX, 240, "#c478ff", bt(t, T.sites, T.sites + 0.3) * (1 - bt(t, T.focus, T.focus + 0.3)));
+  label("Filamenti: stessa lunghezza ✓", CX, 860, "#ffe08a", bt(t, T.slide, T.slide + 0.4) * (1 - bt(t, T.theory, T.theory + 0.4)));
+  // passi del ciclo
+  const steps = [["1 Aggancia", T.attach], ["2 Tira", T.pull], ["3 Lascia", T.release], ["4 Ricomincia", T.again]];
+  const sk2 = bt(t, T.focus - 0.3, T.focus + 0.2) * (1 - bt(t, T.slide, T.slide + 0.4));
+  if (sk2 > 0) { g.globalAlpha = sk2; g.font = "800 22px Inter"; g.textBaseline = "middle"; let x = 24;
+    for (const [s, at] of steps) { const on = t >= at - 0.1, w = g.measureText(s).width + 24;
+      g.fillStyle = on ? "#ffe08a" : "rgba(255,255,255,0.08)"; g.beginPath(); g.roundRect(x, 160, w, 42, 21); g.fill();
+      g.fillStyle = on ? "#1a1205" : "rgba(255,255,255,0.55)"; g.textAlign = "left"; g.fillText(s, x + 12, 182); x += w + 10; }
+    g.globalAlpha = 1; }
+  // titolo finale
+  const tk = bt(t, T.theory - 0.1, T.theory + 0.4);
+  if (tk > 0) { g.save(); g.globalAlpha = tk; g.fillStyle = "rgba(8,16,32,0.92)"; g.beginPath(); g.roundRect(40, 100, 640, 210, 26); g.fill();
+    g.fillStyle = "#ffffff"; g.font = "800 38px Inter"; g.textAlign = "center"; g.fillText("Teoria dei filamenti", CX, 155); g.fillText("scorrevoli", CX, 200);
+    g.restore();
+    const tw = [["Afferri", T.grab], ["Tiri", T.tug], ["Lasci", T.let]]; g.font = "800 30px Inter"; g.textAlign = "center";
+    tw.forEach(([w, at], i) => { const k = back(bt(t, at, at + 0.35)); if (k <= 0) return; g.globalAlpha = clamp(k); g.fillStyle = "#ffe08a"; g.fillText(w, 160 + i * 200, 272); g.globalAlpha = 1; }); }
+  // fonte e semplificazione
+  if (appear > 0.5) { g.font = "500 18px Inter"; g.fillStyle = "rgba(207,228,255,0.7)"; g.textAlign = "left"; g.fillText("Schema semplificato · non in scala", 24, 40); g.textAlign = "right"; g.fillText("Fonte: lezione 5.1, slide 6", W - 24, 40); }
+}
+
+function drawIntro(t) {
+  // immagine di apertura con lenta spinta verso l'ologramma, poi zoom dentro
+  const z = 1 + 0.06 * bt(t, 0, T.zoom) + 2.4 * ease(bt(t, T.zoom, T.zoom + 1.2));
+  const fx = lerp(0.5, 0.79, ease(bt(t, T.zoom - 0.5, T.zoom + 0.8))), fy = lerp(0.5, 0.42, ease(bt(t, T.zoom - 0.5, T.zoom + 0.8)));
+  const iw = INTRO.width, ih = INTRO.height, sh = ih / z, sw = sh * (W / H);
+  const sx = clamp(iw * fx - sw / 2, 0, iw - sw), sy = clamp(ih * fy - sh / 2, 0, ih - sh);
+  g.drawImage(INTRO, sx, sy, sw, sh, 0, 0, W, H);
+}
+
+function drawSpeaker(t) {
+  const l = speaking(t); if (!l || t > end("p5") + 0.3) return;
+  const isProf = l.chi === "PROF", av = isProf ? AV_PROF : AV_STE, y = 1010;
+  g.fillStyle = "rgba(8,16,32,0.9)"; g.beginPath(); g.roundRect(24, y, W - 48, 230, 28); g.fill();
+  const m = mouth(t), r = 62, cx = 104, cy = y + 115;
+  g.save(); g.strokeStyle = isProf ? "#ff8a4c" : "#47e3a6"; g.lineWidth = 5 + m * 5; glow(g.strokeStyle, 10 + m * 18);
+  g.beginPath(); g.arc(cx, cy, r + 6, 0, 7); g.stroke(); noGlow(); g.beginPath(); g.arc(cx, cy, r, 0, 7); g.clip(); g.drawImage(av, cx - r, cy - r, r * 2, r * 2); g.restore();
+  g.fillStyle = isProf ? "#ff8a4c" : "#47e3a6"; g.font = "800 22px Inter"; g.textAlign = "left"; g.fillText(isProf ? "PROF" : "STE", 190, y + 48);
+  g.fillStyle = "#ffffff"; g.font = "600 27px Inter"; wrap(plain(l), W - 48 - 190).slice(0, 5).forEach((line, i) => g.fillText(line, 190, y + 88 + i * 34));
+}
+
+window.renderFrame = (t) => {
+  const inLab = t >= T.zoom + 0.9;
+  if (!inLab) drawIntro(t);
+  else drawLab(t);
+  if (t >= T.zoom + 0.6 && t < T.zoom + 1.3) { g.fillStyle = `rgba(150,200,255,${Math.sin(bt(t, T.zoom + 0.6, T.zoom + 1.3) * Math.PI) * 0.9})`; g.fillRect(0, 0, W, H); }
+  drawSpeaker(t);
+  const fo = bt(t, TL.DURATION - 0.8, TL.DURATION), fi = 1 - bt(t, 0, 0.4);
+  if (fo > 0 || fi > 0) { g.fillStyle = `rgba(0,0,0,${Math.max(fo, fi)})`; g.fillRect(0, 0, W, H); }
+};
+window.READY = true;
+</script>
+</body>
+</html>

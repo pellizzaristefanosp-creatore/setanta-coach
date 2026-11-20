@@ -1,0 +1,41 @@
+{
+ "titolo": "Actina e miosina: cosa succede davvero",
+ "fonte": "Lezione 5.1, slide 6",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "testo": "[curious] Pròf! Ma dentro il muscolo... cosa succede quando scatto?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "testo": "[warmly] Zoomiamo. Questo è un sarcomero: il pezzetto che si accorcia davvero."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "testo": "Ai lati, l'actina: sottile. Al centro, la miosina: spessa, con tante testine."
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "testo": "[serious] Arriva il segnale, e la fibra libera calcio. Il calcio scopre i siti di legame sull'actina."
+  },
+  {
+   "id": "p4",
+   "chi": "PROF",
+   "testo": "[emphatic] Ora guarda una testina. Si aggancia... tira verso il centro... e lascia. [pause] E ricomincia."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "testo": "[surprised] Aspetta... i filamenti non si accorciano. Scorrono!"
+  },
+  {
+   "id": "p5",
+   "chi": "PROF",
+   "testo": "[dry] Esatto. Teoria dei filamenti scorrevoli. [pause] Come il tiro alla fune: afferri, tiri, lasci."
+  }
+ ]
+}
