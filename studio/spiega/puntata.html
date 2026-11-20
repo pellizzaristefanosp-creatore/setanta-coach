@@ -56,7 +56,10 @@ function label(text, x, y, color, k, size = 26) {
 }
 
 // ——— lavagna: un elemento per volta, dal suo momento al successivo ———
-const ELEMS = SPEC.lavagna.map((e) => ({ ...e, at: cue(e.quando) })).sort((a, b) => a.at - b.at);
+const SUBS = ["voci", "colonne", "barre", "frecce", "pareti", "passi"];
+// un elemento con voci compare poco prima della prima voce (mai vuoto), così non copre la parola che lo precede
+const ELEMS = SPEC.lavagna.map((e) => { let at = cue(e.quando); const subs = SUBS.flatMap((k) => (Array.isArray(e[k]) ? e[k] : [])).filter((v) => typeof v === "object" && v.battuta);
+  if (subs.length && !["esercizio", "carry"].includes(e.tipo)) at = Math.max(at, Math.min(...subs.map(cue)) - 0.6); return { ...e, at }; }).sort((a, b) => a.at - b.at);
 ELEMS.forEach((e, i) => { e.until = ELEMS[i + 1]?.at ?? TL.DURATION + 5; });
 const COLORS = ["#47e3a6", "#ff8a4c", "#7fb4ff", "#ffd34d", "#c478ff"];
 
@@ -119,10 +122,10 @@ function drawElem(e, t, k) {
   }
   if (e.tipo === "barre") {
     title(e.titolo ?? "", 120);
-    const n = e.barre.length, bw = Math.min(110, (W - 120) / n - 20), base = 760, maxH = 460;
+    const n = e.barre.length, bw = Math.min(110, (W - 120) / n - 20), base = 760, maxH = 460, top = Math.max(...e.barre.map((b) => b.valore));
     e.barre.forEach((b, i) => {
       const a = cue(b), kk = ease(bt(t, a, a + 0.7)); if (kk <= 0) return;
-      const x = 60 + i * ((W - 120) / n) + ((W - 120) / n - bw) / 2, h = maxH * (b.valore / 100) * kk, col = b.colore ?? COLORS[i % COLORS.length];
+      const x = 60 + i * ((W - 120) / n) + ((W - 120) / n - bw) / 2, h = maxH * Math.max(0.06, b.valore / top) * kk, col = b.colore ?? COLORS[i % COLORS.length];
       glow(col, 20); g.fillStyle = col; g.beginPath(); g.roundRect(x, base - h, bw, h, 12); g.fill(); noGlow();
       g.fillStyle = "#ffffff"; g.font = "900 30px Inter"; g.textAlign = "center"; g.globalAlpha *= clamp(kk * 2); g.fillText(b.cifra ?? "", x + bw / 2, base - h - 16);
       g.font = "700 22px Inter"; g.fillStyle = "#cfe4ff"; wrap(b.etichetta, bw + 50).forEach((l, j) => g.fillText(l, x + bw / 2, base + 36 + j * 26));
@@ -132,6 +135,26 @@ function drawElem(e, t, k) {
   }
   if (e.tipo === "esercizio") {
     title(e.titolo ?? "", 120);
+    if (e.esercizio === "pallof") { // visto dall'alto: l'elastico tira di lato, il busto non ruota
+      const c = (u % 3.6) / 3.6, k = c < 0.35 ? ease(c / 0.35) : c < 0.65 ? 1 : 1 - ease((c - 0.65) / 0.35);
+      const cx = 330, cy = 600, reach = lerp(70, 230, k), hand = [cx, cy - 40 - reach];
+      const post = [640, cy - 40 - 150];
+      g.font = "700 22px Inter"; g.fillStyle = "rgba(207,228,255,0.6)"; g.textAlign = "center"; g.fillText("visto dall'alto", W / 2, 190);
+      g.fillStyle = "#cfe4ff"; g.beginPath(); g.arc(post[0], post[1], 22, 0, 7); g.fill();
+      g.strokeStyle = "#ffd34d"; g.lineWidth = 7; g.beginPath(); g.moveTo(post[0], post[1]); g.lineTo(hand[0], hand[1]); g.stroke();
+      g.lineCap = "round";
+      for (const sd of [-1, 1]) { const sh = [cx + sd * 85, cy - 10]; g.strokeStyle = "#1e1410"; g.lineWidth = 34; g.beginPath(); g.moveTo(...sh); g.lineTo(hand[0] + sd * 14, hand[1] + 10); g.stroke(); g.strokeStyle = "#f1c6a3"; g.lineWidth = 26; g.beginPath(); g.moveTo(...sh); g.lineTo(hand[0] + sd * 14, hand[1] + 10); g.stroke(); }
+      g.fillStyle = "#1e1410"; g.beginPath(); g.ellipse(cx, cy, 124, 54, 0, 0, 7); g.fill(); g.fillStyle = "#2f9a5c"; g.beginPath(); g.ellipse(cx, cy, 118, 48, 0, 0, 7); g.fill();
+      g.fillStyle = "#ffffff"; g.font = "900 30px Inter"; g.fillText("5", cx, cy + 50 > 0 ? cy + 12 : cy, 40);
+      g.fillStyle = "#1e1410"; g.beginPath(); g.arc(cx, cy - 4, 44, 0, 7); g.fill(); g.fillStyle = "#6b4226"; g.beginPath(); g.arc(cx, cy - 4, 40, 0, 7); g.fill();
+      g.fillStyle = "#1e1410"; g.beginPath(); g.arc(hand[0], hand[1], 24, 0, 7); g.fill(); g.fillStyle = "#f1c6a3"; g.beginPath(); g.arc(hand[0], hand[1], 20, 0, 7); g.fill();
+      for (const f of e.frecce ?? []) {
+        const a = cue(f), kk = ease(bt(t, a, a + 0.5)); if (kk <= 0) continue;
+        if (f.colore === "verde") { arrow(g, [cx - 170, cy - 60], [cx - 170, cy - 260], "#47e3a6", null, kk); label(f.testo, cx - 170, cy - 300, "#47e3a6", kk, 24); }
+        else { arrow(g, [hand[0] + 40, hand[1] + 50], [hand[0] + 170, hand[1] + 50], "#ff5a5a", null, kk); label(f.testo, hand[0] + 110, hand[1] + 100, "#ff5a5a", kk, 24); }
+      }
+      return;
+    }
     const P = exercisePose(e.esercizio, u);
     if (!P) return;
     // atleta grande al centro della lavagna: pavimento a 780 (plank più in alto, è basso)
@@ -145,7 +168,7 @@ function drawElem(e, t, k) {
     for (const f of e.frecce ?? []) {
       const a = cue(f), kk = ease(bt(t, a, a + 0.5)); if (kk <= 0) continue;
       const pt = f.punto === "spalle" ? P.J.sh : f.punto === "mani" ? P.J.R1.w : P.J.hip;
-      const d = { giu: [0, 1], su: [0, -1], destra: [1, 0], sinistra: [-1, 0], avanti: [1, 0] }[f.direzione] ?? [0, 1];
+      const d = { giu: [0, 1], su: [0, -1], destra: [1, 0], sinistra: [-1, 0], avanti: [-0.6, 0.8] }[f.direzione] ?? [0, 1];
       const from = [pt[0] + d[0] * 30, pt[1] + d[1] * 30], to = [pt[0] + d[0] * 120, pt[1] + d[1] * 120];
       arrow(g, from, to, f.colore === "verde" ? "#47e3a6" : "#ff5a5a", f.testo, kk);
     }
@@ -158,21 +181,25 @@ function drawElem(e, t, k) {
   if (e.tipo === "carry") { // Ste di fronte che cammina con il kettlebell
     title(e.titolo ?? "", 120);
     const step = Math.sin(u * 4.5);
-    const st = { t, x: 360 + Math.sin(u * 0.8) * 40, y: 960 + Math.abs(step) * -6, scale: 1, pose: { ...POSES.idle, fs: 0.05, fe: 0.02, lean: 0 }, mouth: { open: 0, wide: 0, round: 0 }, blink: blinkAt(t, 3), look: [0, 0], brow: 0.3, expr: "smile" };
+    const st = { t, x: 330 + Math.sin(u * 0.8) * 30, y: 830 + Math.abs(step) * -5, scale: 0.7, pose: { ...POSES.idle, fs: 0.05, fe: 0.02, lean: 0 }, mouth: { open: 0, wide: 0, round: 0 }, blink: blinkAt(t, 3), look: [0, 0], brow: 0.3, expr: "smile" };
     const hands = drawCharacter(g, "STE", st);
     const hx = st.x + hands.frontHand[0] * st.scale, hy = st.y + hands.frontHand[1] * st.scale;
-    g.fillStyle = "#1e1410"; g.beginPath(); g.arc(hx, hy + 70, 50, 0, 7); g.fill(); g.fillStyle = "#3a3a3a"; g.beginPath(); g.arc(hx, hy + 70, 45, 0, 7); g.fill();
-    g.strokeStyle = "#1e1410"; g.lineWidth = 10; g.beginPath(); g.arc(hx, hy + 22, 24, Math.PI, 0); g.stroke();
+    g.strokeStyle = "#1e1410"; g.lineWidth = 8; g.beginPath(); g.arc(hx, hy + 14, 18, Math.PI, 0); g.stroke();
+    g.fillStyle = "#1e1410"; g.beginPath(); g.arc(hx, hy + 52, 38, 0, 7); g.fill(); g.fillStyle = "#3a3a3a"; g.beginPath(); g.arc(hx, hy + 52, 33, 0, 7); g.fill();
     for (const f of e.frecce ?? []) {
       const a = cue(f), kk = ease(bt(t, a, a + 0.5)); if (kk <= 0) continue;
-      if (f.colore === "verde") arrow(g, [st.x - 120, 600], [st.x - 120, 480], "#47e3a6", f.testo, kk);
-      else arrow(g, [hx + 40, hy + 80], [hx + 170, hy + 200], "#ff5a5a", f.testo, kk);
+      if (f.colore === "verde") { arrow(g, [st.x - 150, 620], [st.x - 150, 470], "#47e3a6", null, kk); label(f.testo, st.x - 150, 430, "#47e3a6", kk, 24); }
+      else { arrow(g, [hx + 80, hy], [hx + 80, hy + 110], "#ff5a5a", null, kk); label(f.testo, hx + 80, hy - 40, "#ff5a5a", kk, 24); }
     }
     return;
   }
   if (e.tipo === "cilindro") {
     title(e.titolo ?? "", 120);
     const cx = W / 2, top = 300, bot = 760, rx = 190, ry = 60;
+    g.save(); g.strokeStyle = "rgba(207,228,255,0.28)"; g.lineCap = "round"; g.lineWidth = 34;
+    for (const sd of [-1, 1]) { g.beginPath(); g.moveTo(cx + sd * (rx + 10), top + 40); g.lineTo(cx + sd * (rx + 70), top + 260); g.stroke();
+      g.beginPath(); g.moveTo(cx + sd * 90, bot + ry - 10); g.lineTo(cx + sd * 110, bot + 160); g.stroke(); }
+    g.fillStyle = "rgba(207,228,255,0.2)"; g.beginPath(); g.arc(cx, top - 120, 50, 0, 7); g.fill(); g.restore();
     g.fillStyle = "rgba(120,190,255,0.10)"; g.strokeStyle = "rgba(160,210,255,0.8)"; g.lineWidth = 4;
     g.beginPath(); g.moveTo(cx - rx, top); g.lineTo(cx - rx, bot); g.ellipse(cx, bot, rx, ry, 0, Math.PI, 0, true); g.lineTo(cx + rx, top); g.fill(); g.stroke();
     const parts = { sopra: (kk, col) => { glow(col, 24); g.fillStyle = col; g.globalAlpha *= 0.85; g.beginPath(); g.ellipse(cx, top, rx, ry, 0, 0, 7); g.fill(); noGlow(); },
@@ -214,10 +241,10 @@ function drawElem(e, t, k) {
     for (const f of fasi) { if (cu < acc + f.secondi) { cur = f; into = (cu - acc) / f.secondi; break; } acc += f.secondi; cur = null; }
     // bilanciere che scende e sale
     let yb = 330;
-    acc = 0; for (const f of fasi) { const kk = clamp((cu - acc) / f.secondi); if (f.movimento === "giu") yb += kk * 300; if (f.movimento === "su") yb -= kk * 300; acc += f.secondi; }
+    acc = 0; for (const f of fasi) { const kk = clamp((cu - acc) / f.secondi); if (f.movimento === "giu") yb += kk * 240; if (f.movimento === "su") yb -= kk * 240; acc += f.secondi; }
     g.strokeStyle = "#cfe4ff"; g.lineWidth = 10; g.beginPath(); g.moveTo(170, yb); g.lineTo(550, yb); g.stroke();
     for (const x of [170, 550]) { g.fillStyle = "#3b6fd1"; g.fillRect(x - 14, yb - 50, 28, 100); }
-    fasi.forEach((f, i) => { const on = cur === f, x = 120 + i * (480 / Math.max(1, fasi.length - 1)); label(`${f.secondi} s · ${f.nome}`, x, 760, on ? "#ffe08a" : "rgba(207,228,255,0.6)", 1, on ? 26 : 22); });
+    fasi.forEach((f, i) => { const on = cur === f; label(`${f.secondi} s · ${f.nome}`, W / 2, 690 + i * 56, on ? "#ffe08a" : "rgba(207,228,255,0.55)", 1, on ? 28 : 24); });
     if (cur) { g.font = "900 90px Inter"; g.textAlign = "center"; g.fillStyle = "#ffe08a"; g.fillText(String(Math.ceil((1 - into) * cur.secondi)), 640, 330); }
     return;
   }

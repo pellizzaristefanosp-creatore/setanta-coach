@@ -116,7 +116,7 @@ export function exercisePose(type, u) {
     const A = {}; for (const key of ["torso", "head", "thigh", "shin", "foot", "uarm", "farm"]) A[key] = last ? a[key] : lerp(a[key], b[key], f);
     const ankle = [360, FLOOR - 12 - (A.foot < 160 ? 18 : 0)];
     const hip = hipFromAnkle(ankle, A);
-    return { J: joints(hip, A), floor: FLOOR, barAt: "hand", phase: (last || f < 0.5 ? a : b).n, scale: 1.2 };
+    return { J: joints(hip, A), floor: FLOOR, barAt: "hand", phase: (last || f < 0.5 ? a : b).n, scale: type === "snatch" ? 0.95 : 1.15 };
   }
   return null;
 }

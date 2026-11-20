@@ -1,0 +1,90 @@
+{
+ "titolo": "La tripla estensione",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, quando guardo uno strappo mi sembra che il pesista tiri su tutto di braccia. Vedo male?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "La spinta viene dalla tripla estensione: anche, ginocchia e caviglie si estendono insieme, in modo esplosivo."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "È questa spinta a mandare il bilanciere verso l’alto. Pensa a quando salti per colpire di testa: ritrovi lo stesso schema."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "[thoughtful] E nello squat? Anche lì mi raddrizzo per tirare su il bilanciere."
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Sì, ma nello squat normale freni alla fine. Nelle alzate, invece, la spinta è balistica: acceleri fino alla fine dell’estensione."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "surprise",
+   "testo": "Come quando stacco di testa: non mi metto a frenare proprio prima di saltare."
+  },
+  {
+   "id": "s4",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Anche, ginocchia e caviglie spingono insieme. Le braccia, però, si erano già prese il merito."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "parola",
+   "testo": "Tripla estensione",
+   "sotto": "Anche, ginocchia e caviglie",
+   "quando": {
+    "battuta": "p1",
+    "parola": "tripla estensione"
+   }
+  },
+  {
+   "tipo": "esercizio",
+   "esercizio": "tripla",
+   "titolo": "La spinta esplosiva",
+   "quando": {
+    "battuta": "p1",
+    "parola": "si estendono"
+   },
+   "frecce": []
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "think",
+   "quando": {
+    "battuta": "p2",
+    "parola": "quando salti"
+   }
+  }
+ ],
+ "finale": "Tre articolazioni, una spinta",
+ "code": "7.1",
+ "part": 9,
+ "fonte": "Lezione 7.1",
+ "semplificato": true
+}

@@ -1,0 +1,102 @@
+{
+ "titolo": "Il peso non dice tutto",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, se in scheda c’è scritto ottanta per cento, so quanto peso mettere. Ma so anche quanto devo spingere?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Non ancora. Se il tuo massimale in panca è cento chili, all’ottanta per cento ne metti ottanta. Quello è il carico."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "La tabella stima le ripetizioni fino al cedimento: al cento per cento una, all’ottanta circa otto, al sessantasette circa dodici."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "E se non conosco il massimale, Pròf?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Usi le zone di carico: pesante da una a cinque ripetizioni massime, moderato da sei a dodici, leggero oltre quindici."
+  },
+  {
+   "id": "p4",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Sono riferimenti, non ordini di arrivare al cedimento. Per capire lo sforzo, guarda quanto ti avvicini a quel limite."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Chiaro: il carico è il peso, lo sforzo è quanto mi avvicino al limite. Il bilanciere non si fa impressionare dalle smorfie."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "barre",
+   "titolo": "Carico e ripetizioni stimate al cedimento",
+   "quando": {
+    "battuta": "p2",
+    "parola": "tabella"
+   },
+   "barre": [
+    {
+     "etichetta": "1 ripetizione",
+     "cifra": "100%",
+     "valore": 100,
+     "battuta": "p2",
+     "parola": "cento per"
+    },
+    {
+     "etichetta": "Circa 8 ripetizioni",
+     "cifra": "80%",
+     "valore": 80,
+     "battuta": "p2",
+     "parola": "circa otto"
+    },
+    {
+     "etichetta": "Circa 12 ripetizioni",
+     "cifra": "67%",
+     "valore": 67,
+     "battuta": "p2",
+     "parola": "circa dodici"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p2",
+    "parola": "circa otto"
+   }
+  }
+ ],
+ "finale": "Peso e sforzo, due cose",
+ "code": "6.1",
+ "part": 7,
+ "fonte": "Lezione 6.1",
+ "semplificato": true
+}

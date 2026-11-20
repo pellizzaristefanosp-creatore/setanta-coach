@@ -1,0 +1,100 @@
+{
+ "titolo": "Un peso, busto dritto",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, quando porto la borsa dei palloni con una mano sola, perché faccio fatica a camminare dritto?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "È quello che succede nel suitcase carry: cammini con un peso in una mano, come se portassi una valigia."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Il peso ti tira dalla sua parte e prova a piegare il busto di lato."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Quindi non mi piego dall’altra parte per compensare?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "No, resti dritto mentre cammini. Il fianco opposto al peso lavora di più per tenerti in linea."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "E se invece porto due manubri uguali?"
+  },
+  {
+   "id": "p4",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Quello è il farmer’s walk. Anche con due pesi uguali, a ogni passo il core ti aiuta a non sbandare."
+  },
+  {
+   "id": "s4",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] La borsa tira di lato, io resto dritto. Neanche oggi decide lei la formazione."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "carry",
+   "titolo": "Suitcase carry",
+   "quando": {
+    "battuta": "p1",
+    "parola": "suitcase carry"
+   },
+   "frecce": [
+    {
+     "colore": "rosso",
+     "testo": "Il peso tira",
+     "battuta": "p2",
+     "parola": "ti tira"
+    },
+    {
+     "colore": "verde",
+     "testo": "Busto dritto",
+     "battuta": "p3",
+     "parola": "resti dritto"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p3",
+    "parola": "fianco opposto"
+   }
+  }
+ ],
+ "finale": "Il peso tira, tu resisti",
+ "code": "4.4",
+ "part": 3,
+ "fonte": "Lezione 4.4",
+ "semplificato": true
+}

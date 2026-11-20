@@ -1,0 +1,81 @@
+{
+ "titolo": "Lo strappo in un gesto",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, nello strappo abbiamo studiato un pezzo alla volta. Quando li metto insieme, devo accelerare già da terra?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "No. Parti dal pavimento con una prima tirata decisa ma controllata. Poi passi alla seconda con una transizione fluida, senza fermarti."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Quindi la prima tirata mi mette in posizione. È nella seconda che il bilanciere prende più velocità?"
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Esatto. Gambe e anche danno la spinta, le braccia guidano. Poi ti infili sotto e blocchi il bilanciere sopra la testa."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Come in un contropiede: prima prepari l'azione, poi acceleri. Ma se sbagli un passaggio, ne risente anche quello dopo."
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "[warmly] Proprio così. Con la pratica impari a legare tutte le fasi in un solo gesto."
+  },
+  {
+   "id": "s4",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Da terra all'incastro senza pause. Il bilanciere non ha il tasto replay."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "esercizio",
+   "esercizio": "snatch",
+   "titolo": "Dal pavimento all’incastro",
+   "quando": {
+    "battuta": "p1",
+    "parola": "pavimento"
+   },
+   "frecce": []
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "think",
+   "quando": {
+    "battuta": "p1",
+    "parola": "prima tirata"
+   }
+  }
+ ],
+ "finale": "Tutte le fasi, un gesto",
+ "code": "7.2",
+ "part": 18,
+ "fonte": "Lezione 7.2",
+ "semplificato": true
+}

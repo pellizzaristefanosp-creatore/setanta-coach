@@ -1,0 +1,114 @@
+{
+ "titolo": "Tre meccanismi, un muscolo",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, quando faccio squat, cosa dice alle gambe di crescere: il peso, il bruciore o i microtraumi?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "[warmly] La lezione distingue tre meccanismi. Tutti possono favorire la sintesi proteica, cioè la costruzione di nuove proteine muscolari."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "La tensione meccanica nasce quando il muscolo lavora sotto carico. Quella tensione attiva i segnali per costruire proteine."
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Lo stress metabolico viene dall’accumulo di metaboliti durante lo sforzo. È quello che associ al bruciore della serie."
+  },
+  {
+   "id": "p4",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Il danno muscolare riguarda le piccole lesioni alle fibre. Può contribuire alla crescita, ma si può crescere anche senza."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Quindi, Pròf, chi mettiamo capitano?"
+  },
+  {
+   "id": "p5",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "La tensione è la candidata più forte. Ma in allenamento i tre meccanismi spesso si sovrappongono: separarli è difficile."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Tensione favorita, stress e danno in squadra. Peccato: il bruciore si era già stampato la fascia."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "confronto",
+   "titolo": "Come nasce l’ipertrofia",
+   "quando": {
+    "battuta": "p1"
+   },
+   "colonne": [
+    {
+     "titolo": "Tensione meccanica",
+     "icona": "🏋️",
+     "voci": [
+      "Muscolo sotto carico"
+     ],
+     "battuta": "p2",
+     "parola": "tensione meccanica"
+    },
+    {
+     "titolo": "Stress metabolico",
+     "icona": "🔥",
+     "voci": [
+      "Accumulo di metaboliti"
+     ],
+     "battuta": "p3",
+     "parola": "stress metabolico"
+    },
+    {
+     "titolo": "Danno muscolare",
+     "icona": "🔍",
+     "voci": [
+      "Piccole lesioni alle fibre"
+     ],
+     "battuta": "p4",
+     "parola": "danno muscolare"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p4",
+    "parola": "anche senza"
+   }
+  }
+ ],
+ "finale": "Tre meccanismi, tensione favorita",
+ "code": "5.3",
+ "part": 0,
+ "fonte": "Lezione 5.3",
+ "semplificato": true
+}

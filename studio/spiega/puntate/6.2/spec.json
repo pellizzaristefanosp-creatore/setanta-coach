@@ -1,0 +1,116 @@
+{
+ "titolo": "Il tempo di una ripetizione",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, sulla scheda della panca c’è scritto tre, zero, tre. Sembra un modulo del mister. Come si legge?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "È il tempo di esecuzione: ti dice quanto dura una ripetizione. Ogni numero indica i secondi di una fase."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Il primo tre è l’eccentrica: abbassi il bilanciere in tre secondi."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "E lo zero in mezzo? Vuol dire che in basso non mi fermo?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Esatto. Il secondo numero è la pausa in basso. Con zero riparti subito."
+  },
+  {
+   "id": "p4",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "L’ultimo tre è la concentrica: spingi il bilanciere verso l’alto in tre secondi."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Tre secondi giù, zero sosta, tre secondi su. Finalmente un modulo che capisco al primo allenamento."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "tempo",
+   "titolo": "Panca: 3–0–3",
+   "quando": {
+    "battuta": "p1",
+    "parola": "esecuzione"
+   },
+   "fasi": [
+    {
+     "nome": "Eccentrica",
+     "secondi": 3,
+     "movimento": "giu",
+     "quando": {
+      "battuta": "p2",
+      "parola": "abbassi"
+     }
+    },
+    {
+     "nome": "Pausa",
+     "secondi": 0,
+     "movimento": "fermo",
+     "quando": {
+      "battuta": "p3",
+      "parola": "pausa"
+     }
+    },
+    {
+     "nome": "Concentrica",
+     "secondi": 3,
+     "movimento": "su",
+     "quando": {
+      "battuta": "p4",
+      "parola": "spingi"
+     }
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "PROF",
+   "gesto": "shrug",
+   "quando": {
+    "battuta": "s1",
+    "parola": "modulo"
+   }
+  },
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p3",
+    "parola": "riparti subito"
+   }
+  }
+ ],
+ "finale": "Discesa, pausa, salita",
+ "code": "6.2",
+ "part": 8,
+ "fonte": "Lezione 6.2",
+ "semplificato": true
+}

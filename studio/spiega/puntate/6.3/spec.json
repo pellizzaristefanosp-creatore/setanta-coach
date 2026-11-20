@@ -1,0 +1,103 @@
+{
+ "titolo": "Il drop set classico",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, se nello squat non riesco più a risalire, vuol dire che le gambe sono del tutto esaurite?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "No. È il cedimento concentrico: non riesci più a completare la salita con quel carico. Con meno peso puoi continuare."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Quindi parto con due dischi per lato e faccio ripetizioni finché sono vicino al cedimento?"
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Esatto. I compagni lasciano un disco per lato e tu riparti quasi senza pausa, fino a un nuovo cedimento."
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Poi togli anche quello e continui con la sola sbarra: fai tutte le ripetizioni che riesci."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Ah, quindi a uscire dal campo sono i dischi. Le gambe restano in partita."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "parola",
+   "testo": "Cedimento concentrico",
+   "sotto": "Non riesci più a salire con quel carico",
+   "quando": {
+    "battuta": "p1",
+    "parola": "cedimento concentrico"
+   }
+  },
+  {
+   "tipo": "barre",
+   "titolo": "Dischi per lato",
+   "quando": {
+    "battuta": "p1"
+   },
+   "barre": [
+    {
+     "etichetta": "Carico iniziale",
+     "cifra": "2 dischi",
+     "valore": 2,
+     "battuta": "s2",
+     "parola": "due dischi"
+    },
+    {
+     "etichetta": "Dopo la scalata",
+     "cifra": "1 disco",
+     "valore": 1,
+     "battuta": "p2",
+     "parola": "un disco"
+    },
+    {
+     "etichetta": "Sola sbarra",
+     "cifra": "0",
+     "valore": 0,
+     "battuta": "p3",
+     "parola": "sola sbarra"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p2",
+    "parola": "senza pausa"
+   }
+  }
+ ],
+ "finale": "Meno peso, continui la serie",
+ "code": "6.3",
+ "part": 5,
+ "fonte": "Lezione 6.3",
+ "semplificato": true
+}

@@ -1,0 +1,91 @@
+{
+ "titolo": "Pallof press in piedi",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, se l’elastico mi tira di lato, come faccio a spingere dritto senza girarmi?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Nel Pallof press in piedi fissi l’elastico di lato, all’altezza delle spalle. Lo prendi con due mani e fai un passo per metterlo in tensione."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Tieni i piedi larghi e spingi le mani in avanti senza lasciare che la trazione dell’elastico ti giri il busto."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Quindi il punto più duro è quando le mani sono più lontane dal petto?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "[warmly] Esatto, a braccia distese. Puoi fare ripetizioni o tenere quella posizione. In entrambi i casi, allena i due lati allo stesso modo."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Mani avanti, busto fermo. Qui l’unico che vuole cambiare fascia è l’elastico."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "esercizio",
+   "esercizio": "pallof",
+   "titolo": "Pallof press in piedi",
+   "quando": {
+    "battuta": "p1",
+    "parola": "Pallof press"
+   },
+   "frecce": [
+    {
+     "punto": "mani",
+     "direzione": "avanti",
+     "colore": "verde",
+     "testo": "Spinta avanti",
+     "battuta": "p2",
+     "parola": "in avanti"
+    },
+    {
+     "punto": "mani",
+     "direzione": "destra",
+     "colore": "rosso",
+     "testo": "Trazione laterale",
+     "battuta": "p2",
+     "parola": "trazione"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "think",
+   "quando": {
+    "battuta": "p2",
+    "parola": "trazione"
+   }
+  }
+ ],
+ "finale": "Mani avanti, busto fermo",
+ "code": "4.5",
+ "part": 5,
+ "fonte": "Lezione 4.5",
+ "semplificato": true
+}

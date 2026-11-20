@@ -1,0 +1,85 @@
+{
+ "titolo": "In parallelo o in fila?",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, quando un muscolo cresce, si allarga e basta o può anche allungarsi?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Può fare entrambe le cose. Nell’ipertrofia contrattile la fibra aggiunge sarcomeri, le piccole unità che si contraggono."
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Se li aggiunge in parallelo, cioè uno accanto all’altro, la fibra diventa più larga. Come quando aggiungi un giocatore alla barriera."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "E se invece li metti uno dietro l’altro, tipo noi quando entriamo in campo?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Quelli sono in serie: la fibra si allunga, ma non si allarga di molto."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] In serie mi allungo, in parallelo mi allargo. Per la barriera, Pròf, direi che la fila indiana è bocciata."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "ipertrofia",
+   "titolo": "Ipertrofia contrattile",
+   "quando": {
+    "battuta": "p1"
+   },
+   "passi": [
+    {
+     "modo": "parallelo",
+     "testo": "La fibra si allarga",
+     "battuta": "p2",
+     "parola": "in parallelo"
+    },
+    {
+     "modo": "serie",
+     "testo": "La fibra si allunga",
+     "battuta": "p3",
+     "parola": "in serie"
+    }
+   ]
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p2",
+    "parola": "più larga"
+   }
+  }
+ ],
+ "finale": "Parallelo: larghezza. Serie: lunghezza.",
+ "code": "5.2",
+ "part": 1,
+ "fonte": "Lezione 5.2",
+ "semplificato": true
+}

@@ -1,0 +1,98 @@
+{
+ "titolo": "La tirata da strappo",
+ "battute": [
+  {
+   "id": "s1",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "think",
+   "testo": "[curious] Pròf, posso allenare la spinta esplosiva che mi serve per saltare di testa senza fare lo strappo completo?"
+  },
+  {
+   "id": "p1",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "Sì, con lo snatch pull, la tirata da strappo. Alleni la potenza e la rapidità con cui sviluppi forza."
+  },
+  {
+   "id": "s2",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "Quindi alleno la seconda tirata, dove il bilanciere va più veloce?"
+  },
+  {
+   "id": "p2",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "point",
+   "testo": "Esatto. Tieni il bilanciere vicino al corpo e spingi fino alla tripla estensione: distendi caviglie, ginocchia e anche."
+  },
+  {
+   "id": "s3",
+   "chi": "STE",
+   "scena": "lavagna",
+   "gesto": "think",
+   "testo": "E quando il bilanciere sale, devo prenderlo sopra la testa?"
+  },
+  {
+   "id": "p3",
+   "chi": "PROF",
+   "scena": "lavagna",
+   "gesto": "explain",
+   "testo": "No. Completi la spinta, poi scrolli le spalle mentre il bilanciere sale. La tirata finisce lì, senza incastro sopra la testa."
+  },
+  {
+   "id": "s4",
+   "chi": "STE",
+   "scena": "palestra",
+   "gesto": "shrug",
+   "testo": "[dry] Come saltare di testa senza pallone: spinta esplosiva e niente da prendere lassù. Il pallone non se la prende."
+  }
+ ],
+ "lavagna": [
+  {
+   "tipo": "parola",
+   "testo": "Snatch pull",
+   "sotto": "Potenza e rapidità nello sviluppare forza",
+   "quando": {
+    "battuta": "p1",
+    "parola": "snatch pull"
+   }
+  },
+  {
+   "tipo": "esercizio",
+   "esercizio": "snatch_pull",
+   "titolo": "La tripla estensione",
+   "quando": {
+    "battuta": "p2",
+    "parola": "tripla estensione"
+   },
+   "frecce": []
+  }
+ ],
+ "reazioni": [
+  {
+   "chi": "STE",
+   "gesto": "think",
+   "quando": {
+    "battuta": "p2",
+    "parola": "tripla estensione"
+   }
+  },
+  {
+   "chi": "STE",
+   "gesto": "surprise",
+   "quando": {
+    "battuta": "p3",
+    "parola": "senza incastro"
+   }
+  }
+ ],
+ "finale": "Potenza senza incastro",
+ "code": "7.3",
+ "part": 4,
+ "fonte": "Lezione 7.3",
+ "semplificato": true
+}
