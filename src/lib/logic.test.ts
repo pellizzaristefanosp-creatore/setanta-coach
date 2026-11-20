@@ -63,6 +63,17 @@ describe("piano", () => {
     expect(currentItem(s, TODAY)?.kind === "real" && (currentItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("5.1");
   });
 
+  it("riparte dalla lezione che stavi facendo, anche se una prima non è finita", () => {
+    const s = state();
+    const p52 = s.presentations.find((x) => x.code === "5.2")!;
+    p52.steps[0]!.done = true;
+    s.lastPresentationId = p52.id;
+    expect((currentItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("5.2");
+    p52.steps.forEach((st) => (st.done = true));
+    // finita la 5.2 si torna alla prima della coda (4.5)
+    expect((currentItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("4.5");
+  });
+
   it("i giorni liberi non contano come saltati", () => {
     const s = state({ log: {} });
     // dal 18 (mer) al 23 (lun) esclusi: mer gio ven sab dom → 4 giorni di studio (domenica libera)

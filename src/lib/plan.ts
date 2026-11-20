@@ -111,7 +111,12 @@ export function skippedDays(state: Pick<State, "log" | "settings">, now: ISODate
   return n;
 }
 
-/** La presentazione su cui lavorare adesso: la prima della coda già uscita. */
-export function currentItem(state: Pick<State, "units" | "presentations">, now: ISODate): QueueItem | null {
-  return queue(state).find((it) => it.release <= now) ?? null;
+/**
+ * La presentazione su cui lavorare adesso: quella che stavi facendo, se non è finita;
+ * altrimenti la prima della coda già uscita.
+ */
+export function currentItem(state: Pick<State, "units" | "presentations" | "lastPresentationId">, now: ISODate): QueueItem | null {
+  const q = queue(state).filter((it) => it.release <= now);
+  const last = state.lastPresentationId ? q.find((it) => it.kind === "real" && it.presentation.id === state.lastPresentationId) : undefined;
+  return last ?? q[0] ?? null;
 }

@@ -22,6 +22,13 @@ function load(): State {
         // Le presentazioni già fatte prima dell'app avevano una data finta: non contano per sfide e premi.
         merged.presentations.forEach((p) => p.doneAt === "2026-11-17" && (p.doneAt = "2026-10-31"));
         syncLessons(merged);
+        // Chi aveva già iniziato una lezione prima di questa versione: riparte dall'ultima lasciata a metà.
+        if (!merged.lastPresentationId) {
+          const half = merged.presentations
+            .filter((p) => p.steps.some((x) => x.done) && p.steps.some((x) => !x.done))
+            .sort((a, b) => b.code.localeCompare(a.code, "it", { numeric: true }))[0];
+          if (half) merged.lastPresentationId = half.id;
+        }
         return merged;
       }
     }
@@ -172,6 +179,7 @@ export function startStep(presentationId: string) {
   const now = Date.now();
   setState((s) => {
     s.timer = { presentationId, stepId: step.id, startedAt: now, endsAt: now + STEP_MS };
+    s.lastPresentationId = presentationId;
   });
 }
 
@@ -180,6 +188,7 @@ export function startStepAt(presentationId: string, stepId: string) {
   const now = Date.now();
   setState((s) => {
     s.timer = { presentationId, stepId, startedAt: now, endsAt: now + STEP_MS };
+    s.lastPresentationId = presentationId;
   });
 }
 

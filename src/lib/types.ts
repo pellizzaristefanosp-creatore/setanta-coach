@@ -99,6 +99,8 @@ export type BossResult = { won: boolean; best: number; date: ISODate };
 
 export type State = {
   version: 1;
+  /** L'ultima lezione su cui hai lavorato: "Solo 2 minuti" riparte da lì finché non è finita. */
+  lastPresentationId?: string;
   units: Unit[];
   presentations: Presentation[];
   cards: Card[];
