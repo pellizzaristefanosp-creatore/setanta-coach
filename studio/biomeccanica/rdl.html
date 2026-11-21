@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8"><title>RDL biomeccanico</title>
+<style>html,body{margin:0;background:#04070f;color:#fff;font-family:Inter,sans-serif}canvas{display:block}
+#ui{position:fixed;left:12px;bottom:12px;display:flex;gap:8px}#ui button{font:700 14px Inter;padding:8px 12px;border-radius:10px;border:0;background:#1d2b45;color:#fff}</style></head>
+<body><canvas id="c" width="720" height="1280"></canvas>
+<div id="ui"><button data-v="0.25">0,25×</button><button data-v="0.5">0,5×</button><button data-v="1">1×</button><button id="err">Corretto / Errore</button></div>
+<script type="module">
+import { B, LOAD, REP, pose } from "./rdl.js";
+import { lerp } from "./modello.js";
+const g = document.getElementById("c").getContext("2d"), W = 720, H = 1280;
+await document.fonts.load("800 26px Inter"); await document.fonts.load("600 20px Inter");
+const s = 3.55, floorY = 1080, ox = 360; // 1 cm = 3,15 px
+const X = (p) => [ox + p[0] * s, floorY - p[1] * s];
+const C = { skin: "#f1c6a3", skin2: "#d9a582", top: "#2f9a5c", top2: "#237647", shorts: "#f4f2ec", shorts2: "#cfcac0", sock: "#2f9a5c", sock2: "#237647", shoe: "#1f1a16", hair: "#6b4226", line: "#1e1410", bad: "#ff5a5a" };
+function seg(a, b, wcm, col, out = C.line) { const A = X(a), Bp = X(b); g.lineCap = "round"; g.strokeStyle = out; g.lineWidth = wcm * s + 6; g.beginPath(); g.moveTo(...A); g.lineTo(...Bp); g.stroke(); g.strokeStyle = col; g.lineWidth = wcm * s; g.beginPath(); g.moveTo(...A); g.lineTo(...Bp); g.stroke(); }
+function poly(pts, wcm, col, out = C.line) { const P = pts.map(X); g.lineCap = "round"; g.lineJoin = "round"; for (const [c, w] of [[out, wcm * s + 6], [col, wcm * s]]) { g.strokeStyle = c; g.lineWidth = w; g.beginPath(); g.moveTo(...P[0]); for (const p of P.slice(1)) g.lineTo(...p); g.stroke(); } }
+function arrow(from, to, col, text, side = 1) { const a = Math.atan2(to[1] - from[1], to[0] - from[0]); g.strokeStyle = col; g.fillStyle = col; g.lineWidth = 7; g.lineCap = "round"; g.beginPath(); g.moveTo(...from); g.lineTo(...to); g.stroke();
+  g.beginPath(); g.moveTo(to[0] + Math.cos(a) * 12, to[1] + Math.sin(a) * 12); g.lineTo(to[0] + Math.cos(a + 2.5) * 18, to[1] + Math.sin(a + 2.5) * 18); g.lineTo(to[0] + Math.cos(a - 2.5) * 18, to[1] + Math.sin(a - 2.5) * 18); g.fill();
+  if (text) { g.font = "800 19px Inter"; g.textAlign = side > 0 ? "left" : "right"; g.fillText(text, (from[0] + to[0]) / 2 + side * 16, (from[1] + to[1]) / 2 + 6); } }
+function pill(text, x, y, col, size = 24) { g.font = `800 ${size}px Inter`; g.textAlign = "center"; const w = g.measureText(text).width + 28; g.fillStyle = "rgba(8,16,32,0.9)"; g.strokeStyle = col; g.lineWidth = 3; g.beginPath(); g.roundRect(x - w / 2, y - size * 0.85, w, size * 1.7, 14); g.fill(); g.stroke(); g.fillStyle = col; g.fillText(text, x, y + size * 0.35); }
+
+function drawAthlete(P, wrong) {
+  const J = P.J, red = wrong > 0.5;
+  const far = (p) => [p[0] - 1.5, p[1] + 0.5];
+  // lato lontano
+  poly([far(J.hip), far(J.knee)], 14, C.shorts2); poly([far(J.knee), far(J.ankle)], 10, C.sock2); seg(far(J.heel), far(J.toe), 6, "#141110");
+  poly([far(J.sh), far(J.elbow)], 8.5, C.top2); poly([far(J.elbow), far(J.hand)], 7, C.skin2);
+  // busto (con la curva lombare se sbagliato), pantaloncini, collo e testa
+  const waist = [lerp(J.hip[0], J.mid[0], 0.45), lerp(J.hip[1], J.mid[1], 0.45)];
+  poly([waist, J.mid, J.sh], 24, red ? "#2f9a5c" : C.top, red ? C.bad : C.line);
+  poly([J.hip, waist], 23, C.shorts);
+  const neck = [lerp(J.sh[0], J.head[0], 0.45), lerp(J.sh[1], J.head[1], 0.45)];
+  seg(J.sh, neck, 10, C.skin, red ? C.bad : C.line);
+  const h = X(J.head), r = B.L.headR * s * 1.08;
+  g.fillStyle = red ? C.bad : C.line; g.beginPath(); g.arc(h[0], h[1], r + 3, 0, 7); g.fill(); g.fillStyle = C.skin; g.beginPath(); g.arc(h[0], h[1], r, 0, 7); g.fill();
+  const ha = P.J.headA * Math.PI / 180, up = [Math.sin(ha), -Math.cos(ha)], fw = [Math.cos(ha), Math.sin(ha)];
+  g.fillStyle = C.hair; for (const [u, f] of [[0.85, -0.45], [0.95, 0.05], [0.75, 0.5], [0.45, -0.85], [0.05, -0.98]]) { g.beginPath(); g.arc(h[0] + (up[0] * u + fw[0] * f) * r, h[1] + (up[1] * u + fw[1] * f) * r, r * 0.42, 0, 7); g.fill(); }
+  g.fillStyle = C.line; g.beginPath(); g.arc(h[0] + fw[0] * r * 0.55 + up[0] * r * 0.1, h[1] + fw[1] * r * 0.55 + up[1] * r * 0.1, 4, 0, 7); g.fill();
+  g.fillStyle = C.skin2; g.beginPath(); g.arc(h[0] - fw[0] * r * 0.1, h[1] - fw[1] * r * 0.1, r * 0.22, 0, 7); g.fill(); // orecchio
+  // lato vicino: gamba
+  poly([J.hip, J.knee], 15, C.shorts); poly([J.knee, J.ankle], 10.5, C.sock); seg(J.heel, J.toe, 6.5, C.shoe);
+}
+
+const params = new URLSearchParams(location.search);
+let speed = 1, wrongOn = false, t0 = performance.now();
+// percorso del bilanciere della ripetizione corrente
+function trail(u, wrong) { const c = u % REP, pts = []; for (let k = 0; k <= c; k += 0.08) pts.push(X(pose(u - c + k, wrong).J.hand)); return pts; }
+
+window.TIMING = { DURATION: REP * 3 };
+// video: due ripetizioni corrette, poi una sbagliata
+const wrongAt = (t) => (window.MANUAL ? (wrongOn ? 1 : 0) : clamp01((t - REP * 2 + 0.3) / 0.6));
+const clamp01 = (x) => Math.min(1, Math.max(0, x));
+
+window.renderFrame = (t) => {
+  const wrong = wrongAt(t), P = pose(t, wrong);
+  const bg = g.createLinearGradient(0, 0, 0, H); bg.addColorStop(0, "#081428"); bg.addColorStop(1, "#04070f"); g.fillStyle = bg; g.fillRect(0, 0, W, H);
+  g.strokeStyle = "rgba(90,160,255,0.07)"; g.lineWidth = 1; for (let x = 0; x <= W; x += 40) { g.beginPath(); g.moveTo(x, 0); g.lineTo(x, H); g.stroke(); } for (let y = 0; y <= H; y += 40) { g.beginPath(); g.moveTo(0, y); g.lineTo(W, y); g.stroke(); }
+  // titolo e stato
+  g.font = "900 36px Inter"; g.fillStyle = "#fff"; g.textAlign = "center"; g.fillText("Romanian deadlift", W / 2, 62);
+  g.font = "600 19px Inter"; g.fillStyle = "rgba(207,228,255,0.75)"; g.fillText(`Atleta 1,80 m · 78 kg · bilanciere ${LOAD} kg · vista di lato`, W / 2, 92);
+  pill(wrong > 0.5 ? "Errore: schiena tonda, bilanciere lontano" : "Corretto", W / 2, 140, wrong > 0.5 ? C.bad : "#47e3a6", 24);
+  // pavimento e mesopiede
+  g.strokeStyle = "rgba(207,228,255,0.4)"; g.lineWidth = 4; g.beginPath(); g.moveTo(30, floorY); g.lineTo(W - 30, floorY); g.stroke();
+  g.setLineDash([12, 10]); g.strokeStyle = "rgba(255,255,255,0.45)"; g.lineWidth = 3; g.beginPath(); g.moveTo(ox, 330); g.lineTo(ox, floorY); g.stroke(); g.setLineDash([]);
+  g.font = "700 17px Inter"; g.fillStyle = "rgba(255,255,255,0.6)"; g.textAlign = "center"; g.fillText("mesopiede", ox, floorY + 28);
+  // percorso del bilanciere
+  const tr = trail(t, wrong); g.strokeStyle = "rgba(255,224,138,0.7)"; g.lineWidth = 4; g.beginPath(); tr.forEach((p, i) => (i ? g.lineTo(...p) : g.moveTo(...p))); g.stroke();
+  drawAthlete(P, wrong);
+  // bilanciere: disco vicino, poi il braccio vicino che lo tiene
+  const bp = X(P.J.hand); g.fillStyle = C.line; g.beginPath(); g.arc(bp[0], bp[1], 22.5 * s + 4, 0, 7); g.fill();
+  g.fillStyle = "rgba(59,111,209,0.92)"; g.beginPath(); g.arc(bp[0], bp[1], 22.5 * s, 0, 7); g.fill();
+  g.strokeStyle = "rgba(255,255,255,0.22)"; g.lineWidth = 4; g.beginPath(); g.arc(bp[0], bp[1], 16 * s, 0, 7); g.stroke();
+  g.fillStyle = "#cfd8e6"; g.beginPath(); g.arc(bp[0], bp[1], 9, 0, 7); g.fill();
+  poly([P.J.sh, P.J.elbow], 9, C.top); poly([P.J.elbow, P.J.hand], 7.5, C.skin);
+  g.fillStyle = C.line; g.beginPath(); g.arc(bp[0], bp[1], 15, 0, 7); g.fill(); g.fillStyle = C.skin; g.beginPath(); g.arc(bp[0], bp[1], 11, 0, 7); g.fill();
+  // leva del carico sull'anca: distanza orizzontale tra anca e bilanciere
+  const hp = X(P.J.hip), lev = Math.abs(P.J.hand[0] - P.J.hip[0]);
+  g.strokeStyle = "#ffe08a"; g.lineWidth = 4; g.setLineDash([6, 6]); g.beginPath(); g.moveTo(hp[0], hp[1]); g.lineTo(bp[0], hp[1]); g.lineTo(bp[0], bp[1]); g.stroke(); g.setLineDash([]);
+  g.fillStyle = "#ffe08a"; g.beginPath(); g.arc(hp[0], hp[1], 8, 0, 7); g.fill();
+  pill(`leva sull'anca ${lev.toFixed(0)} cm`, Math.max(150, hp[0] - 30), hp[1] - 64, "#ffe08a", 18);
+  // forze: peso totale dal baricentro, reazione del suolo dal centro di pressione (mesopiede), peso del bilanciere
+  const cm = X(P.com), mtot = B.M + LOAD, k = 0.95;
+  arrow([cm[0], cm[1] + 14], [cm[0], cm[1] + 14 + mtot * k], "rgba(255,138,76,0.95)", null); pill(`peso ${mtot} kg`, 110, floorY - 60, "rgba(255,138,76,1)", 17);
+  arrow([ox, floorY - 4], [ox, floorY - 4 - mtot * k], "rgba(71,227,166,0.8)", null); pill("reazione del suolo", W - 120, floorY - 60, "#47e3a6", 17);
+  const off = Math.abs(P.com[0]) < 0.05 ? 0 : P.com[0];
+  g.fillStyle = Math.abs(off) <= 3 ? "#ff3b3b" : "#ff3b3b"; g.strokeStyle = "#fff"; g.lineWidth = 3; g.beginPath(); g.arc(cm[0], cm[1], 11, 0, 7); g.fill(); g.stroke();
+  // tabella degli angoli
+  const rows = [["Busto", P.a.busto + (P.a.lombare ?? 0)], ["Anca", P.anca], ["Ginocchio", P.a.ginocchio], ["Caviglia", P.a.caviglia], ["Spalla", P.a.spalla], ["Collo", P.a.collo]];
+  g.fillStyle = "rgba(8,16,32,0.85)"; g.beginPath(); g.roundRect(24, 180, 230, 252, 16); g.fill();
+  g.font = "800 18px Inter"; g.textAlign = "left"; g.fillStyle = "#cfe4ff"; g.fillText("Angoli", 42, 210);
+  rows.forEach(([n, v], i) => { g.font = "600 18px Inter"; g.fillStyle = "rgba(207,228,255,0.8)"; g.textAlign = "left"; g.fillText(n, 42, 242 + i * 30); g.textAlign = "right"; g.font = "800 20px Inter"; g.fillStyle = "#fff"; g.fillText(`${v.toFixed(0)}°`, 236, 242 + i * 30); });
+  // controlli
+  const okCom = Math.abs(off) <= 3, okBar = P.gap >= 0 && P.gap <= 3;
+  g.fillStyle = "rgba(8,16,32,0.85)"; g.beginPath(); g.roundRect(W - 330, 180, 306, 124, 16); g.fill();
+  g.textAlign = "left"; g.font = "800 18px Inter"; g.fillStyle = "#cfe4ff"; g.fillText("Controlli", W - 312, 210);
+  g.font = "700 15px Inter";
+  g.fillStyle = okCom ? "#47e3a6" : C.bad; g.fillText(`${okCom ? "✓" : "✗"} baricentro ${off >= 0 ? "+" : ""}${off.toFixed(1)} cm dal mesopiede`, W - 312, 242);
+  g.fillStyle = okBar ? "#47e3a6" : C.bad; g.fillText(`${okBar ? "✓" : "✗"} bilanciere a ${P.gap.toFixed(1)} cm dalle gambe`, W - 312, 270);
+  g.fillStyle = "#47e3a6"; g.fillText("✓ piedi fermi a terra", W - 312, 296);
+  if (P.key) pill(P.key, W / 2, 1150, "#ffe08a", 26);
+  g.font = "600 16px Inter"; g.fillStyle = "rgba(207,228,255,0.55)"; g.textAlign = "center"; g.fillText("Proporzioni e masse: Winter 2009 · Schema semplificato", W / 2, 1250);
+};
+if (!params.has("render")) {
+  window.MANUAL = true; document.querySelectorAll("[data-v]").forEach((b) => (b.onclick = () => (speed = +b.dataset.v)));
+  document.getElementById("err").onclick = () => (wrongOn = !wrongOn);
+  let u = 0, last = performance.now(); (function loop(now) { u += ((now - last) / 1000) * speed; last = now; window.renderFrame(u); requestAnimationFrame(loop); })(last);
+} else document.getElementById("ui").remove();
+window.READY = true;
+</script></body></html>
