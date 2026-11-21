@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import { seedState } from "../data/seed";
 import { addDays, weekStart, weekday } from "./dates";
 import { buildIcs, shiftTime } from "./ics";
-import { buildPlan, currentItem, queue, situation, skippedDays } from "./plan";
+import { buildPlan, currentItem, nextItem, queue, situation, skippedDays } from "./plan";
 import { newCard, review } from "./sm2";
 import { streak } from "./streak";
 import type { State } from "./types";
@@ -70,8 +70,19 @@ describe("piano", () => {
     s.lastPresentationId = p52.id;
     expect((currentItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("5.2");
     p52.steps.forEach((st) => (st.done = true));
-    // finita la 5.2 si torna alla prima della coda (4.5)
-    expect((currentItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("4.5");
+    // finita la 5.2 si va alla lezione dopo (5.3), non si torna indietro
+    expect((currentItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("5.3");
+  });
+
+  it("riparte dalla lezione aperta prima della sua data e il pulsante porta alla prossima", () => {
+    const s = state();
+    const p73 = s.presentations.find((x) => x.code === "7.3")!;
+    p73.steps[0]!.done = true;
+    s.lastPresentationId = p73.id;
+    expect((currentItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("7.3");
+    const p52 = s.presentations.find((x) => x.code === "5.2")!;
+    s.lastPresentationId = p52.id;
+    expect((nextItem(s, TODAY) as { presentation: { code: string } }).presentation.code).toBe("5.3");
   });
 
   it("i giorni liberi non contano come saltati", () => {

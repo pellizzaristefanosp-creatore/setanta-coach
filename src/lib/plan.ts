@@ -112,11 +112,26 @@ export function skippedDays(state: Pick<State, "log" | "settings">, now: ISODate
 }
 
 /**
- * La presentazione su cui lavorare adesso: quella che stavi facendo, se non è finita;
- * altrimenti la prima della coda già uscita.
+ * La presentazione su cui lavorare adesso: quella che stavi facendo, se non è finita (anche se l'hai aperta
+ * prima della sua data); se l'hai finita, la lezione dopo; altrimenti la prima della coda già uscita.
  */
 export function currentItem(state: Pick<State, "units" | "presentations" | "lastPresentationId">, now: ISODate): QueueItem | null {
-  const q = queue(state).filter((it) => it.release <= now);
-  const last = state.lastPresentationId ? q.find((it) => it.kind === "real" && it.presentation.id === state.lastPresentationId) : undefined;
-  return last ?? q[0] ?? null;
+  const all = queue(state), q = all.filter((it) => it.release <= now);
+  const lastId = state.lastPresentationId;
+  const last = lastId ? all.find((it) => it.kind === "real" && it.presentation.id === lastId) : undefined;
+  if (last) return last;
+  const lastP = lastId ? state.presentations.find((p) => p.id === lastId) : undefined;
+  if (lastP) {
+    const after = q.find((it) => it.kind === "real" && comparePresentationCode(it.presentation.code, lastP.code) > 0);
+    if (after) return after;
+  }
+  return q[0] ?? null;
+}
+
+/** La lezione dopo quella di adesso (per il pulsante "Prossima lezione"), tra quelle già uscite. */
+export function nextItem(state: Pick<State, "units" | "presentations" | "lastPresentationId">, now: ISODate): QueueItem | null {
+  const cur = currentItem(state, now);
+  if (!cur) return null;
+  const code = cur.kind === "real" ? cur.presentation.code : cur.code;
+  return queue(state).filter((it) => it.release <= now).find((it) => comparePresentationCode(it.kind === "real" ? it.presentation.code : it.code, code) > 0) ?? null;
 }

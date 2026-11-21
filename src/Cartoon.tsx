@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState, type RefObject } from "react";
 import { lineAt, type AudioPart } from "./lib/audio";
+import { drawPerson, POSES2, mixPose2 } from "./lib/personaggi2";
 
 /**
- * Cartone animato della lezione: Marco (preparatore) e Luca (calciatore) in palestra.
+ * Cartone animato della lezione: il Prof (preparatore) e Ste (calciatore) in palestra, con la grafica nuova.
  * Usa l'audio già pronto: chi parla muove la bocca e gesticola, la frase va nel fumetto,
  * i punti chiave arrivano come cartelli. Niente video da scaricare: si disegna nel telefono.
  * Non collega l'audio al WebAudio, così a schermo bloccato l'ascolto continua.
@@ -53,13 +54,12 @@ export function Cartoon({ audioRef, audio, keyPoints, analogy, title }: { audioR
             </foreignObject>
           </g>
         )}
-        <Marco active={who === "M" && talking} mouth={who === "M" ? mouth : 0} bounce={who === "M" ? sinceLine : 9} />
-        <Luca active={who === "L" && talking} mouth={who === "L" ? mouth : 0} bounce={who === "L" ? sinceLine : 9} />
       </svg>
+      <People t={t} who={who} talking={talking} mouth={mouth} sinceLine={sinceLine} />
       <div className="cartoon-caption">
         {line && !ended && (
           <div key={i} className={`bubble ${who === "M" ? "left" : "right"}`}>
-            <b>{who === "M" ? "Marco" : "Luca"}</b> {line.text}
+            <b>{who === "M" ? "Prof" : "Ste"}</b> {line.text.replace(/\[[^\]]*\]\s*/g, "").replace(/\bLuca\b/g, "Ste").replace(/\bMarco\b/g, "Prof")}
           </div>
         )}
         {ended && <div className="bubble center pop">⚽ {analogy}</div>}
@@ -98,95 +98,23 @@ function Scene() {
   );
 }
 
-type CharProps = { active: boolean; mouth: number; bounce: number };
-
-function jump(bounce: number) {
-  // piccolo saltello all'inizio di ogni battuta
-  return bounce < 0.35 ? -Math.sin((bounce / 0.35) * Math.PI) * 6 : 0;
-}
-
-function Marco({ active, mouth, bounce }: CharProps) {
-  return (
-    <g transform={`translate(105 ${88 + jump(bounce)})`} className={`char ${active ? "speaking" : ""}`}>
-      {/* gambe */}
-      <rect x="-22" y="118" width="17" height="52" rx="7" fill="#7a2a12" />
-      <rect x="5" y="118" width="17" height="52" rx="7" fill="#7a2a12" />
-      <ellipse cx="-14" cy="172" rx="14" ry="7" fill="#2b2118" />
-      <ellipse cx="14" cy="172" rx="14" ry="7" fill="#2b2118" />
-      {/* corpo: tuta */}
-      <rect x="-32" y="52" width="64" height="74" rx="20" fill="#c4471d" />
-      <rect x="-3" y="54" width="6" height="70" fill="#fbe3d6" opacity=".9" />
-      {/* braccio che gesticola */}
-      <g className="arm-gesture" style={{ transformOrigin: "26px 62px" }}>
-        <rect x="22" y="58" width="14" height="50" rx="7" fill="#c4471d" />
-        <circle cx="29" cy="110" r="8" fill="#e9b48c" />
-      </g>
-      <rect x="-36" y="58" width="14" height="50" rx="7" fill="#c4471d" />
-      <circle cx="-29" cy="110" r="8" fill="#e9b48c" />
-      {/* fischietto */}
-      <path d="M-12 54 Q0 78 12 54" fill="none" stroke="#2b2118" strokeWidth="1.5" />
-      <rect x="-5" y="74" width="10" height="6" rx="2" fill="#d99a25" />
-      {/* testa */}
-      <rect x="-8" y="40" width="16" height="16" fill="#e9b48c" />
-      <circle cx="0" cy="18" r="30" fill="#e9b48c" />
-      {/* barba e capelli */}
-      <path d="M-28 22 Q0 62 28 22 Q22 46 0 48 Q-22 46 -28 22" fill="#5b3a26" opacity=".9" />
-      <path d="M-30 10 Q-28 -16 0 -14 Q28 -16 30 10 Q22 -2 0 -2 Q-22 -2 -30 10" fill="#3a2418" />
-      {/* cappellino */}
-      <path d="M-30 4 Q0 -28 30 4 Z" fill="#2b2118" />
-      <rect x="10" y="0" width="30" height="7" rx="3" fill="#2b2118" />
-      <Face mouth={mouth} />
-    </g>
-  );
-}
-
-function Luca({ active, mouth, bounce }: CharProps) {
-  return (
-    <g transform={`translate(255 ${92 + jump(bounce)})`} className={`char ${active ? "speaking" : ""}`}>
-      {/* gambe e scarpini */}
-      <rect x="-20" y="112" width="15" height="54" rx="7" fill="#f2d2b6" />
-      <rect x="5" y="112" width="15" height="54" rx="7" fill="#f2d2b6" />
-      <rect x="-21" y="140" width="17" height="22" rx="4" fill="#fff" />
-      <rect x="4" y="140" width="17" height="22" rx="4" fill="#fff" />
-      <ellipse cx="-13" cy="168" rx="13" ry="6" fill="#c4471d" />
-      <ellipse cx="13" cy="168" rx="13" ry="6" fill="#c4471d" />
-      {/* pantaloncini */}
-      <rect x="-26" y="100" width="52" height="26" rx="8" fill="#fff" />
-      {/* maglia */}
-      <rect x="-30" y="48" width="60" height="62" rx="18" fill="#2f7a4c" />
-      <text x="0" y="90" textAnchor="middle" fontSize="22" fontWeight="900" fill="#fff" fontFamily="system-ui, sans-serif">10</text>
-      <g className="arm-gesture" style={{ transformOrigin: "-24px 58px" }}>
-        <rect x="-38" y="54" width="13" height="46" rx="6.5" fill="#2f7a4c" />
-        <circle cx="-31.5" cy="102" r="7.5" fill="#f2d2b6" />
-      </g>
-      <rect x="25" y="54" width="13" height="46" rx="6.5" fill="#2f7a4c" />
-      <circle cx="31.5" cy="102" r="7.5" fill="#f2d2b6" />
-      {/* testa */}
-      <rect x="-7" y="36" width="14" height="16" fill="#f2d2b6" />
-      <circle cx="0" cy="14" r="28" fill="#f2d2b6" />
-      {/* capelli spettinati */}
-      <path d="M-28 10 Q-30 -20 -6 -18 Q-2 -28 8 -20 Q30 -22 28 8 Q20 -6 10 -4 Q4 -12 -2 -4 Q-14 -8 -28 10" fill="#8a5a2b" />
-      <Face mouth={mouth} young />
-    </g>
-  );
-}
-
-function Face({ mouth, young }: { mouth: number; young?: boolean }) {
-  return (
-    <g>
-      <g className="eyes">
-        <ellipse cx="-10" cy="14" rx="3.6" ry="4.4" fill="#2b2118" />
-        <ellipse cx="10" cy="14" rx="3.6" ry="4.4" fill="#2b2118" />
-        <circle cx="-9" cy="12.5" r="1.2" fill="#fff" />
-        <circle cx="11" cy="12.5" r="1.2" fill="#fff" />
-      </g>
-      <path d={`M-15 ${young ? 5 : 6} q5 -4 10 0 M5 ${young ? 5 : 6} q5 -4 10 0`} stroke="#2b2118" strokeWidth="2" fill="none" strokeLinecap="round" />
-      {young && <><circle cx="-17" cy="24" r="4" fill="#f0a08a" opacity=".5" /><circle cx="17" cy="24" r="4" fill="#f0a08a" opacity=".5" /></>}
-      {mouth > 0.05 ? (
-        <ellipse cx="0" cy="29" rx={6 + mouth * 2} ry={1.5 + mouth * 6} fill="#5a1e12" />
-      ) : (
-        <path d="M-7 28 Q0 33 7 28" stroke="#5a1e12" strokeWidth="2.4" fill="none" strokeLinecap="round" />
-      )}
-    </g>
-  );
+/** Prof (a sinistra) e Ste (a destra) disegnati sopra la palestra: chi parla muove la bocca e gesticola. */
+function People({ t, who, talking, mouth, sinceLine }: { t: number; who: string; talking: boolean; mouth: number; sinceLine: number }) {
+  const ref = useRef<HTMLCanvasElement | null>(null);
+  useEffect(() => {
+    const c = ref.current, g = c?.getContext("2d");
+    if (!c || !g) return;
+    g.clearRect(0, 0, c.width, c.height);
+    const blink = (seed: number) => { const p = (t + seed) % 3.7; return p < 0.12 ? 1 - Math.abs(p - 0.06) / 0.06 : 0; };
+    const gesture = (on: boolean) => {
+      if (!on) return POSES2.idle;
+      const k = Math.min(1, sinceLine / 0.4), phase = Math.floor(sinceLine / 2.2) % 2;
+      return mixPose2(POSES2.idle, phase ? POSES2.point : POSES2.explain, k);
+    };
+    const hop = (on: boolean) => (on && sinceLine < 0.35 ? -Math.sin((sinceLine / 0.35) * Math.PI) * 8 : 0);
+    const profOn = who === "M" && talking, steOn = who === "L" && talking;
+    drawPerson(g, "PROF", { x: 215, y: 560, scale: 2.3, t, pose: gesture(profOn), mouth: { open: profOn ? mouth * 0.8 : 0, wide: 0.2 }, blink: blink(1.3), look: [0.6, 0], brow: profOn ? 0.3 : 0, bob: hop(profOn) });
+    drawPerson(g, "STE", { x: 505, y: 560, scale: 2.3, t, pose: gesture(steOn), mirror: true, mouth: { open: steOn ? mouth * 0.8 : 0, wide: 0.2 }, blink: blink(0.2), look: [-0.6, 0], brow: steOn ? 0.3 : 0, bob: hop(steOn) });
+  });
+  return <canvas ref={ref} className="cartoon-people" width={720} height={600} aria-hidden="true" />;
 }

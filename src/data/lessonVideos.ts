@@ -11,6 +11,8 @@ export type LessonVideo = {
   caption: string;
   /** il video ha già le voci del Prof e di Ste: il dialogo della parte parte dopo, per non sovrapporsi */
   voices?: boolean;
+  /** trascrizione con i tempi delle parole (di solito lo stesso nome del video in .json) */
+  transcript?: string;
 };
 
 export const LESSON_VIDEOS: LessonVideo[] = [

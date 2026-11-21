@@ -4,6 +4,7 @@ import { Cartoon } from "../Cartoon";
 import { audioFor, lineAt, type AudioLine, type AudioPart } from "../lib/audio";
 import { pickTurn, turnsFor, type Turn } from "../lib/turns";
 import { lessonVideo } from "../data/lessonVideos";
+import { EpisodePlayer } from "../EpisodePlayer";
 import { afterPart as practiceAfterPart, finalRound, type PracticeQuestion } from "../lib/practice";
 import { nextAction } from "../lib/coach";
 import { addDays, daysBetween, shortDate, today, weekStart, weekday } from "../lib/dates";
@@ -11,7 +12,7 @@ import { MINUTES_PER_PART, buildSchedule, formatMinutes, minutesOf } from "../li
 import { dailyChallenge, level, totalXp } from "../lib/game";
 import type { LessonPack } from "../lib/lesson";
 import { lessonFor } from "../lib/lessons";
-import { currentItem, daySaved, isDone } from "../lib/plan";
+import { currentItem, daySaved, isDone, nextItem } from "../lib/plan";
 import {
   addCard,
   addMinute,
@@ -227,12 +228,7 @@ function Library({ onBack, onPlay }: { onBack: () => void; onPlay: (presentation
               </span>
               <span aria-hidden="true">{isOpen ? "▴" : "▾"}</span>
             </button>
-            {isOpen && lessonVideo(p.code) && (
-              <figure className="lesson-video">
-                <video src={lessonVideo(p.code)!.src} poster={lessonVideo(p.code)!.poster} controls playsInline preload="none" />
-                <figcaption><span className="small">🎬 La puntata · {lessonVideo(p.code)!.caption}</span></figcaption>
-              </figure>
-            )}
+            {isOpen && lessonVideo(p.code) && <EpisodePlayer video={lessonVideo(p.code)!} />}
             {isOpen && (
               <ol className="lib-parts">
                 {p.steps.map((st, i) => {
@@ -371,6 +367,19 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
           <span className="go-label">{action.label}</span>
         </button>
         <p className="muted small">{action.sub}</p>
+        {(() => {
+          const cur = currentItem(s, now), nx = nextItem(s, now);
+          if (!nx) return null;
+          const code = nx.kind === "real" ? nx.presentation.code : nx.code;
+          const title = nx.kind === "real" ? lessonFor(s, code)?.title ?? nx.presentation.title : nx.title;
+          const curCode = cur ? (cur.kind === "real" ? cur.presentation.code : cur.code) : "";
+          return (
+            <button className="btn next-lesson" onClick={() => { unlockAudio(); unlockSpeech(); startStep(nx.kind === "real" ? nx.presentation.id : ensurePresentation(nx.code, nx.title)); }}>
+              Prossima lezione: <b>{code}</b> {title} ›
+              {curCode && <span className="tiny muted" style={{ display: "block" }}>adesso sei alla {curCode}</span>}
+            </button>
+          );
+        })()}
       </div>
 
       <section className="card stack" aria-label="Questa settimana" style={{ gap: 10 }}>
@@ -1063,13 +1072,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
       {view === "cartoon" ? (
         <>
           {video && videoOn ? (
-            <figure className="lesson-video">
-              <video src={video.src} poster={video.poster} autoPlay playsInline onEnded={endVideo} onError={endVideo} />
-              <figcaption>
-                <span className="small">{video.caption}</span>
-                <button className="btn sm ghost" onClick={endVideo}>{video.voices ? "Salta" : "Cartone"}</button>
-              </figcaption>
-            </figure>
+            <EpisodePlayer video={video} autoPlay onEnded={endVideo} actionLabel={video.voices ? "Salta ›" : "Cartone ›"} />
           ) : (
             <Cartoon audioRef={el} audio={audio} keyPoints={part.keyPoints} analogy={part.analogy} title={part.title} />
           )}
