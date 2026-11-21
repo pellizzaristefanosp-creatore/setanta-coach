@@ -1,0 +1,26 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#000}canvas{display:block}</style></head><body>
+<canvas id="c" width="720" height="900"></canvas>
+<script type="module">
+import { drawAthlete, plate, rdl } from "./atleta2.js";
+const g = document.getElementById("c").getContext("2d"), W = 720, H = 900;
+await document.fonts.load("800 26px Inter");
+const EX = { rdl };
+const ex = EX[new URLSearchParams(location.search).get("ex") ?? "rdl"];
+window.TIMING = { DURATION: 9.2 };
+window.renderFrame = (t) => {
+  const bg = g.createLinearGradient(0, 0, 0, H); bg.addColorStop(0, "#081428"); bg.addColorStop(1, "#04070f"); g.fillStyle = bg; g.fillRect(0, 0, W, H);
+  const ankle = [300, 760];
+  const { P, bar, k } = ex(t, ankle);
+  g.strokeStyle = "rgba(207,228,255,0.35)"; g.lineWidth = 4; g.beginPath(); g.moveTo(40, ankle[1] + 26); g.lineTo(W - 40, ankle[1] + 26); g.stroke();
+  // percorso del bilanciere: linea sopra il centro del piede
+  g.setLineDash([10, 10]); g.strokeStyle = "rgba(255,224,138,0.5)"; g.lineWidth = 3; g.beginPath(); g.moveTo(bar[0], 300); g.lineTo(bar[0], ankle[1] + 20); g.stroke(); g.setLineDash([]);
+  const r = drawAthlete(g, P);
+  plate(g, bar);
+  r.drawNearArm();
+  // colonna neutra: linea dritta dalla vita alla testa
+  g.strokeStyle = "#47e3a6"; g.lineWidth = 5; g.globalAlpha = 0.9; g.beginPath(); g.moveTo(P.hip[0], P.hip[1]); g.lineTo(r.sh[0], r.sh[1]); g.stroke(); g.globalAlpha = 1;
+  g.font = "800 26px Inter"; g.fillStyle = "#47e3a6"; g.textAlign = "left"; g.fillText("schiena dritta", 40, 60);
+  g.fillStyle = "#ffe08a"; g.fillText("bilanciere sopra il centro del piede", 40, 100);
+};
+window.READY = true;
+</script></body></html>
