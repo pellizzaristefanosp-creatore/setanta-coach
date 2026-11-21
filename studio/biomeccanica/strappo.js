@@ -113,6 +113,12 @@ function poseRaw(t, wrong = 0, lift = "strappo") {
     // verso l'incastro il bilanciere passa sopra la testa (arco), non attraverso
     a.mani = [lerp(A.a.bar[0], Bk.a.bar[0], k) - (Bk.arco ? 6 * Math.sin(Math.PI * k) : 0), lerp(A.a.bar[1], Bk.a.bar[1], k) + (Bk.arco ? 16 * Math.sin(Math.PI * k) : 0)];
   }
+  if (a.mani) {
+    // tirata sotto: i gomiti salgono verso l'alto e di lato, quindi di profilo il braccio (spalla–gomito) si accorcia;
+    // sopra la testa torna lungo (braccia tese verso l'alto)
+    const shY = chain(B, { ...a, mani: undefined, spalla: 0 }).sh[1], y = a.mani[1];
+    a.armKu = y < shY ? lerp(ARMK, 0.3, clamp((y - 100) / 10)) : lerp(0.3, ARMK, clamp((y - shY) / 18));
+  }
   const J = chain(B, a);
   const com = centerOfMass(B, J, LOAD, J.hand);
   return { a, J, com, bar: J.hand, key: u < 0.08 ? A.nome : u > 0.92 ? Bk.nome : null, phase: A.nome, gap: legGap(B, J, J.hand), anca: a.busto - a.caviglia + a.ginocchio, REP };

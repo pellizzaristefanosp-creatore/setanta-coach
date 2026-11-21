@@ -47,7 +47,7 @@ export function chain(B, a) {
   const head = add(sh, dir(headA), L.headC);
   let elbow, wrist, hand, armA;
   if (a.mani) { // mani su un punto (bilanciere): gomito con la cinematica inversa, gomito alto e dietro
-    hand = a.mani; const u = L.uarm * k, f = (L.farm + L.grip) * k;
+    hand = a.mani; const u = L.uarm * (a.armKu ?? k), f = (L.farm + L.grip) * k; // armKu: braccio accorciato quando il gomito va di lato
     const dx = hand[0] - sh[0], dy = hand[1] - sh[1], d = Math.min(Math.hypot(dx, dy), u + f - 0.01);
     const base = Math.atan2(dy, dx), off = Math.acos(clamp((u * u + d * d - f * f) / (2 * u * d), -1, 1));
     const e1 = [sh[0] + Math.cos(base + off) * u, sh[1] + Math.sin(base + off) * u], e2 = [sh[0] + Math.cos(base - off) * u, sh[1] + Math.sin(base - off) * u];
