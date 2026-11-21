@@ -28,43 +28,43 @@
  "who": [
   {
    "clues": [
-    "Sono uno schema motorio alla base dello stacco da terra.",
-    "Come test a basso carico, posso essere ripetuto fino a 30 volte.",
-    "Parti in piedi e ti inclini in avanti piegandoti dalle anche."
+    "Con me esegui lo schema motorio alla base dello stacco da terra.",
+    "Come test a basso carico, mi puoi ripetere fino a 30 volte.",
+    "Con me parti in piedi e ti inclini in avanti piegandoti alle anche."
    ],
    "answer": "Waiters Bow",
    "distractors": [
-    "Supine Hip Flexion",
-    "Dead bug",
-    "Plank"
+    "Dead Bug",
+    "Bird Dog",
+    "Step Down"
    ],
    "slide": 10
   },
   {
    "clues": [
-    "Durante il test si osserva se trattieni il respiro.",
-    "Un altro errore è inarcare troppo la zona lombare mentre distendi la gamba.",
-    "Parti a pancia in su con i piedi a terra e porti un’anca a 90 gradi."
+    "Durante il mio test, chi ti osserva controlla se trattieni il respiro.",
+    "Con me, inarcare troppo la zona lombare mentre distendi la gamba è un errore.",
+    "Con me parti a pancia in su, con i piedi a terra, e porti un’anca a 90 gradi."
    ],
    "answer": "Supine Hip Flexion",
    "distractors": [
-    "Waiters Bow",
-    "Plank",
-    "Affondo"
+    "Supine Knee Extension",
+    "Prone Hip Extension",
+    "Standing Hip Abduction"
    ],
    "slide": 11
   },
   {
    "clues": [
     "Produco poca forza di stabilizzazione.",
-    "Do molte informazioni sulla postura.",
-    "Sono l’esempio di stabilizzatore locale vicino alla colonna."
+    "Fornisco molte informazioni sulla postura.",
+    "Nella lezione rappresento lo strato degli stabilizzatori locali, vicino alla colonna."
    ],
    "answer": "Trasverso dell’addome",
    "distractors": [
-    "Obliquo esterno",
-    "Grande gluteo",
-    "Retto dell’addome"
+    "Retto dell’addome",
+    "Obliquo interno",
+    "Quadrato dei lombi"
    ],
    "slide": 6
   },
@@ -72,27 +72,27 @@
    "clues": [
     "Appartengo a uno strato formato da muscoli più grandi di quelli locali.",
     "Produco forza per contrastare i movimenti indesiderati del busto.",
-    "Sono l’esempio di stabilizzatore globale citato nella lezione."
+    "Nella lezione rappresento lo strato degli stabilizzatori globali."
    ],
    "answer": "Obliquo esterno",
    "distractors": [
-    "Trasverso dell’addome",
-    "Grande gluteo",
-    "Obliquo interno"
+    "Obliquo interno",
+    "Retto dell’addome",
+    "Quadrato dei lombi"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Il mio strato comprende muscoli che attraversano più segmenti.",
-    "Il mio compito è creare movimento articolare.",
-    "Sono l’esempio di motore globale citato nella lezione."
+    "Appartengo a uno strato che comprende muscoli che attraversano più segmenti.",
+    "Creo movimento a livello delle articolazioni.",
+    "Nella lezione rappresento lo strato dei motori globali."
    ],
    "answer": "Grande gluteo",
    "distractors": [
     "Medio gluteo",
-    "Obliquo esterno",
-    "Trasverso dell’addome"
+    "Piccolo gluteo",
+    "Grande dorsale"
    ],
    "slide": 6
   },
@@ -112,15 +112,15 @@
   },
   {
    "clues": [
-    "Puoi modificarmi per creare una progressione senza cambiare il carico.",
+    "Puoi modificarmi per rendere un esercizio più difficile senza cambiare il carico.",
     "In posizione di push-up, dipendo dai quattro punti di contatto con il suolo.",
-    "Se avvicini mani e piedi, mi restringi e il plank diventa più difficile."
+    "Se avvicini le mani tra loro e i piedi tra loro, mi restringi e il plank diventa più difficile."
    ],
    "answer": "Base di appoggio",
    "distractors": [
-    "Leva",
-    "Complessità",
-    "Volume"
+    "Leva di resistenza",
+    "Complessità del gesto",
+    "Ampiezza del movimento"
    ],
    "slide": 14
   },

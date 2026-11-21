@@ -18,10 +18,10 @@
       "check": {
         "question": "Che cosa devi fare in un esercizio anti-flessione?",
         "options": [
-          "Piegare la colonna in avanti il più possibile",
-          "Ruotare il busto contro una resistenza",
+          "Flettere il busto in avanti in modo lento e controllato",
+          "Impedire al busto di ruotare sotto una trazione laterale",
           "Impedire alla colonna di piegarsi in avanti sotto un carico",
-          "Saltare il più in alto possibile"
+          "Mantenere il busto verticale mentre le anche si piegano"
         ],
         "answer": 2,
         "explanation": "Negli esercizi anti-flessione un carico o la gravità prova a piegarti in avanti e tu tieni la colonna neutra."
@@ -42,9 +42,9 @@
         "question": "Quali muscoli sono i principali bersagli degli esercizi anti-flessione?",
         "options": [
           "Gli erettori spinali",
-          "Il retto dell'addome",
-          "Gli obliqui",
-          "I pettorali"
+          "Gli addominali obliqui",
+          "Gli adduttori dell'anca",
+          "Gli estensori del collo"
         ],
         "answer": 0,
         "explanation": "L'anti-flessione colpisce soprattutto i muscoli posteriori, in primo luogo gli erettori spinali, che si oppongono alla flessione."
@@ -64,9 +64,9 @@
       "check": {
         "question": "Quali sono i tre punti di contatto del bastone nell'hip hinge?",
         "options": [
-          "Talloni, ginocchia e anche",
-          "Glutei, gomiti e nuca",
-          "Zona lombare, spalle e mento",
+          "Sacro, zona lombare e base della nuca",
+          "Bacino, zona toracica bassa e nuca",
+          "Occipite, zona cervicale e parte alta del dorso",
           "Coccige, zona tra le scapole e testa"
         ],
         "answer": 3,
@@ -87,10 +87,10 @@
       "check": {
         "question": "Perché l'RDL è anche un esercizio anti-flessione?",
         "options": [
-          "Perché si esegue sdraiati sulla panca",
+          "Perché, abbassando il bilanciere, il carico tende a ruotare il busto e gli obliqui devono opporsi",
           "Perché, abbassando il bilanciere, il carico tende a piegare la colonna e gli estensori devono opporsi",
-          "Perché richiede di ruotare il busto a ogni ripetizione",
-          "Perché si fa solo con un braccio"
+          "Perché, abbassando il bilanciere, il carico tende a inarcare la schiena e gli addominali devono opporsi",
+          "Perché, abbassando il bilanciere, il bacino resta fermo e gli estensori fanno muovere la colonna"
         ],
         "answer": 1,
         "explanation": "Scendendo, il carico porta la colonna verso la flessione: estensori della schiena e muscoli anti-flessione devono tenerla integra."
@@ -111,9 +111,9 @@
         "question": "Nel face pull con elastico, come aumenti o diminuisci il carico?",
         "options": [
           "Cambiando la distanza dal punto di fissaggio dell'elastico",
-          "Tirando con un braccio solo",
-          "Sedendoti su una panca",
-          "Facendo le ripetizioni più veloci"
+          "Cambiando la durata della pausa a parità di tensione",
+          "Cambiando il numero di ripetizioni senza variare la tensione",
+          "Cambiando la larghezza della presa a parità di allungamento"
         ],
         "answer": 0,
         "explanation": "Regolando la distanza dal punto di fissaggio cambi il carico e l'allungamento dell'elastico."
@@ -133,9 +133,9 @@
       "check": {
         "question": "Che cosa aggiunge il single-arm row rispetto a una tirata con due braccia?",
         "options": [
-          "Un salto alla fine di ogni ripetizione",
-          "Una tenuta isometrica sulla panca",
-          "Una componente di anti-estensione con le braccia sopra la testa",
+          "Una spinta laterale, quindi anche lavoro per gli adduttori",
+          "Una trazione verso l'alto, quindi anche lavoro per i trapezi superiori",
+          "Una spinta all'indietro, quindi anche lavoro di anti-estensione",
           "Una forza rotazionale, quindi anche lavoro di anti-rotazione"
         ],
         "answer": 3,
@@ -156,10 +156,10 @@
       "check": {
         "question": "Qual è l'errore principale nella tenuta statica sulla panca?",
         "options": [
-          "Tenere i glutei contratti",
+          "Contrarre i glutei e mantenere il bacino stabile",
           "Rilassare la schiena e lasciare che la colonna si fletta",
-          "Tenere il busto in linea con le gambe",
-          "Mantenere attivi gli erettori spinali"
+          "Mantenere il busto allineato e continuare a respirare",
+          "Attivare gli erettori spinali e mantenere la colonna neutra"
         ],
         "answer": 1,
         "explanation": "Se rilassi la schiena la colonna va in flessione: gli erettori devono restare in tensione per tutta la tenuta."
@@ -180,10 +180,10 @@
       "check": {
         "question": "Secondo la lezione, quali muscoli potrebbero ricevere poco stimolo con squat e deadlift?",
         "options": [
-          "Gli erettori spinali",
-          "Il multifido",
+          "Il multifido e gli erettori spinali",
+          "Il grande gluteo e gli ischiocrurali",
           "Il retto dell'addome e gli obliqui",
-          "Glutei e ischiocrurali"
+          "Il quadricipite e gli adduttori dell'anca"
         ],
         "answer": 2,
         "explanation": "I grandi esercizi attivano molto gli erettori, ma i muscoli anteriori come retto e obliqui possono essere stimolati meno."
@@ -203,9 +203,9 @@
       "check": {
         "question": "Quale esercizio della lezione unisce anti-flessione e anti-rotazione?",
         "options": [
-          "La tenuta statica sulla panca",
+          "Il face pull al cavo",
           "Il single-arm row",
-          "L'hip hinge con il bastone",
+          "Il bent-over row",
           "Il Romanian deadlift"
         ],
         "answer": 1,
@@ -289,10 +289,10 @@
     {
       "question": "Gli esercizi anti-flessione del core si concentrano principalmente su:",
       "options": [
-        "Retto dell'addome e obliqui",
+        "Muscoli anteriori come il retto dell'addome",
         "Muscoli posteriori come gli erettori spinali",
-        "Pettorali e deltoidi anteriori",
-        "Adduttori e flessori dell'anca"
+        "Muscoli laterali come gli obliqui esterni",
+        "Muscoli profondi come il trasverso dell'addome"
       ],
       "answer": 1,
       "explanation": "L'anti-flessione colpisce i muscoli che si oppongono alla flessione della colonna, soprattutto posteriori come gli erettori spinali.",
@@ -301,10 +301,10 @@
     {
       "question": "Perché, per una persona sedentaria che lavora al computer, concentrarsi solo sui muscoli frontali può essere un problema?",
       "options": [
-        "Perché i muscoli frontali non si possono allenare",
-        "Perché riduce la mobilità delle caviglie",
+        "Perché può ridurre la mobilità delle caviglie",
+        "Perché può accentuare l'arco della zona lombare",
         "Perché può aggravare la postura curva in avanti",
-        "Perché aumenta troppo la forza degli erettori"
+        "Perché può aumentare troppo la forza degli erettori"
       ],
       "answer": 2,
       "explanation": "Serve un contrappeso: lavorare gli estensori della schiena aiuta a uscire dalla postura curva.",
@@ -314,9 +314,9 @@
       "question": "Quale esercizio è citato come esempio di anti-flessione implicita, perché richiede di tenere la schiena piatta contro la trazione del peso?",
       "options": [
         "Bent-over row",
-        "Leg extension",
-        "Panca piana",
-        "Calf raise"
+        "Seated cable row",
+        "Lat pulldown",
+        "Chest press"
       ],
       "answer": 0,
       "explanation": "Nel bent-over row la schiena deve restare piatta e neutra contro il peso che tira in basso.",
@@ -325,9 +325,9 @@
     {
       "question": "Durante l'hip hinge con il bastone, l'atleta perde il contatto con la testa e tra le scapole. Che cosa indica?",
       "options": [
-        "Che sta eseguendo il movimento in modo corretto",
-        "Che le ginocchia sono troppo piegate",
-        "Che il carico è troppo leggero",
+        "Che sta spostando il peso sulle punte, quindi deve arretrare l'appoggio",
+        "Che sta piegando troppo le ginocchia, quindi deve distenderle un po'",
+        "Che sta limitando la discesa, quindi deve aumentare l'escursione delle anche",
         "Che sta incurvando la schiena o inarcando troppo, quindi va corretto"
       ],
       "answer": 3,
@@ -337,10 +337,10 @@
     {
       "question": "Dove viene consigliato di inserire l'hip hinge con il bastone?",
       "options": [
-        "Alla fine della seduta, come defaticamento",
+        "Nel defaticamento, per recuperare dopo i sovraccarichi",
         "Nel riscaldamento, per preparare la parte principale",
-        "Solo nei giorni di riposo",
-        "Solo dopo aver padroneggiato il deadlift pesante"
+        "Nel blocco di forza, per sostituire le serie con carico",
+        "Nel lavoro di mobilità finale, per rilassare gli estensori"
       ],
       "answer": 1,
       "explanation": "Inserirlo nel riscaldamento aiuta l'atleta ad arrivare pronto alla sessione principale.",
@@ -350,9 +350,9 @@
       "question": "Quali esercizi mettono alla prova gli erettori spinali contro un carico esterno, sfruttando lo schema dell'hip hinge?",
       "options": [
         "Deadlift, Romanian deadlift e kettlebell swing",
-        "Leg press, leg curl e calf raise",
-        "Panca piana, croci e dip",
-        "Plank, side plank e dead bug"
+        "Leg press, seated leg curl e calf raise",
+        "Hip thrust, glute bridge e leg extension",
+        "Goblet squat, reverse lunge e lateral step-up"
       ],
       "answer": 0,
       "explanation": "Deadlift, RDL e kettlebell swing usano la cerniera dell'anca e chiedono agli erettori di opporsi al carico.",
@@ -361,10 +361,10 @@
     {
       "question": "Nel Romanian deadlift, perché il core lavora in anti-flessione?",
       "options": [
-        "Perché il movimento si fa con un braccio solo",
-        "Perché il busto resta sempre verticale",
+        "Perché abbassando il bilanciere il carico tende a ruotare il busto",
+        "Perché risalendo con il bilanciere il carico tende a inarcare la schiena",
         "Perché abbassando il bilanciere il carico tende a flettere la colonna",
-        "Perché la gravità spinge le anche in avanti"
+        "Perché abbassando il bilanciere il carico tende a inclinare il busto di lato"
       ],
       "answer": 2,
       "explanation": "Scendendo, il carico porta la colonna verso la flessione e gli estensori devono mantenerne l'integrità.",
@@ -373,9 +373,9 @@
     {
       "question": "Quali muscoli sono i bersagli principali del Romanian deadlift?",
       "options": [
-        "Quadricipiti e polpacci",
-        "Pettorali e tricipiti",
-        "Retto dell'addome e obliqui",
+        "Quadricipiti, zona lombare e polpacci",
+        "Adduttori, parete addominale e quadricipiti",
+        "Dorsali, zona toracica e deltoidi posteriori",
         "Glutei, zona lombare e ischiocrurali"
       ],
       "answer": 3,
@@ -385,10 +385,10 @@
     {
       "question": "Nel face pull, oltre al dorso alto e ai retrattori delle scapole, quali muscoli devono attivarsi per mantenere la colonna integra?",
       "options": [
-        "I flessori dell'anca",
+        "Gli obliqui interni",
         "Gli erettori spinali",
-        "I quadricipiti",
-        "I bicipiti femorali soltanto"
+        "Gli estensori del collo",
+        "Gli adduttori dell'anca"
       ],
       "answer": 1,
       "explanation": "L'elastico tira in avanti: gli erettori spinali lavorano per tenere la colonna integra.",
@@ -398,9 +398,9 @@
       "question": "Rispetto ai face pulls, come si imposta l'elastico per il single-arm row?",
       "options": [
         "Leggermente più in basso, camminando indietro per creare tensione",
-        "Molto più in alto, sopra la testa",
-        "Alla stessa altezza, ma senza tensione",
-        "A terra, in ginocchio"
+        "Leggermente più in alto, camminando indietro per creare tensione",
+        "Leggermente più di lato, spostandosi di fianco per creare tensione",
+        "Leggermente più in basso, avanzando fino a togliere la tensione iniziale"
       ],
       "answer": 0,
       "explanation": "Si fissa un po' più in basso dei face pulls e si cammina indietro per mettere tensione.",
@@ -410,9 +410,9 @@
       "question": "Oltre all'anti-flessione, quale qualità del core allena il single-arm row?",
       "options": [
         "Anti-estensione",
-        "Flessione laterale",
+        "Anti-inclinazione",
         "Anti-rotazione",
-        "Pliometria"
+        "Anti-oscillazione"
       ],
       "answer": 2,
       "explanation": "La tirata con un braccio introduce una forza rotazionale da contrastare.",
@@ -421,9 +421,9 @@
     {
       "question": "Nella tenuta statica sulla panca, che cosa crea la forza che spinge in flessione?",
       "options": [
-        "Un elastico fissato davanti",
-        "Un bilanciere sulle spalle",
-        "Un compagno che spinge sulla schiena",
+        "La trazione di un elastico fissato davanti al busto",
+        "La pressione di un bilanciere appoggiato sulle spalle",
+        "La spinta di un compagno con le mani tra le scapole",
         "La gravità che agisce sul busto oltre la panca"
       ],
       "answer": 3,
@@ -433,10 +433,10 @@
     {
       "question": "Secondo la lezione, durante squat e deadlift quali muscoli del core probabilmente lavorano per stabilizzare la colonna?",
       "options": [
-        "Solo il retto dell'addome",
+        "Retto dell’addome e obliquo esterno",
         "Multifido e trasverso dell'addome",
-        "Solo gli obliqui esterni",
-        "Nessun muscolo del core"
+        "Grande dorsale e trapezio inferiore",
+        "Grande gluteo e bicipite femorale"
       ],
       "answer": 1,
       "explanation": "I muscoli profondi come multifido e trasverso probabilmente intervengono; i superficiali anteriori possono essere poco coinvolti.",

@@ -7,9 +7,9 @@
    "question": "Perché la valutazione del core distingue tra test a basso carico e ad alto carico?",
    "options": [
     "Perché i due tipi di test osservano il controllo in condizioni diverse.",
-    "Perché il carico cambia la fatica, ma i test sono intercambiabili.",
-    "Perché il basso carico valuta solo l'addome e l'alto solo la schiena.",
-    "Perché il basso carico serve in palestra e l'alto soltanto in campo."
+    "Perché i due tipi di test misurano separatamente la mobilità lombare.",
+    "Perché i due tipi di test isolano gruppi muscolari differenti.",
+    "Perché i due tipi di test distinguono il lavoro in palestra da quello in campo."
    ],
    "answer": 0,
    "why": "Mantenere il controllo con una richiesta leggera non equivale a mantenerlo quando la richiesta aumenta."
@@ -19,10 +19,10 @@
    "line": 7,
    "question": "Perché imparare a rendere uno stesso esercizio per il core più facile o più difficile?",
    "options": [
-    "Per far usare a tutti la stessa variante appena conoscono il movimento.",
-    "Per rendere ogni esercizio ugualmente faticoso senza osservare la tecnica.",
+    "Per assegnare una variante uguale per tutti dopo la prima prova.",
+    "Per mantenere costante la fatica anche quando la tecnica peggiora.",
     "Per scegliere una variante adatta alle capacità attuali di ogni atleta.",
-    "Per sostituire la valutazione con un esercizio sempre più difficile."
+    "Per sostituire la valutazione iniziale con varianti di difficoltà crescente."
    ],
    "answer": 2,
    "why": "La stessa variante può essere troppo difficile per un atleta e troppo facile per un altro."
@@ -32,10 +32,10 @@
    "line": 3,
    "question": "Se il core comprende più del solo addome, che ruolo hanno comunque gli addominali?",
    "options": [
-    "Sono secondari rispetto a tutti gli altri muscoli del tronco.",
+    "Sono una parte secondaria, ma diventano importanti sotto carichi elevati.",
     "Sono una parte importante, ma non rappresentano l'intero core.",
-    "Sono il core vero e proprio, mentre gli altri muscoli lo assistono.",
-    "Appartengono al core solo quando il busto si piega in avanti."
+    "Sono una parte essenziale, ma intervengono soltanto in flessione.",
+    "Sono una parte autonoma, ma lavorano senza cooperare con altri muscoli."
    ],
    "answer": 1,
    "why": "Allargare la definizione significa considerare come gli addominali lavorano con altre strutture, non escluderli."
@@ -45,9 +45,9 @@
    "line": 5,
    "question": "Perché due preparatori possono includere zone diverse nella loro definizione di core?",
    "options": [
-    "Perché ogni sport ha una definizione anatomica ufficiale diversa.",
-    "Perché la definizione dipende dal livello di allenamento dell'atleta.",
-    "Perché solo i muscoli più visibili possono rientrare nella definizione.",
+    "Perché non tutti gli sport adottano la stessa classificazione ufficiale.",
+    "Perché non tutti gli atleti raggiungono lo stesso livello nell'allenamento.",
+    "Perché non tutti adottano la stessa soglia per l'attivazione muscolare.",
     "Perché non esiste un accordo unico su quali strutture includere."
    ],
    "answer": 3,
@@ -59,9 +59,9 @@
    "question": "Quale criterio è coerente con una definizione ampia dei muscoli del core?",
    "options": [
     "Considerare i muscoli che si attaccano alla colonna vertebrale o al bacino.",
-    "Considerare soltanto i muscoli attaccati sia alla colonna sia al bacino.",
-    "Considerare soltanto i muscoli davanti e ai lati del busto.",
-    "Considerare solo i muscoli che rimangono interamente nella zona lombare."
+    "Considerare i muscoli che si attaccano contemporaneamente alla colonna vertebrale e al bacino.",
+    "Considerare i muscoli che si trovano esclusivamente davanti e ai lati della colonna.",
+    "Considerare i muscoli che rimangono interamente compresi nella regione lombare."
    ],
    "answer": 0,
    "why": "Molti muscoli si estendono oltre la zona centrale: guardarne gli attacchi evita di considerarli come parti isolate."
@@ -71,10 +71,10 @@
    "line": 5,
    "question": "Che cosa aiuta a capire il modello del core come cilindro?",
    "options": [
-    "Che braccia e gambe lavorano indipendentemente dalla parte centrale del corpo.",
+    "Che il tronco è la struttura da cui partono le gambe ma non le braccia.",
     "Che il tronco è la struttura centrale da cui partono braccia e gambe.",
-    "Che il tronco va considerato soprattutto come parete addominale anteriore.",
-    "Che le gambe dipendono dal tronco, mentre le braccia ne sono indipendenti."
+    "Che il tronco è la struttura di sostegno che coincide con la parete addominale.",
+    "Che il tronco è la struttura di riferimento per le braccia ma non per le gambe."
    ],
    "answer": 1,
    "why": "L'immagine mette in relazione il centro del corpo con tutti e quattro gli arti, anziché isolare la pancia."
@@ -84,10 +84,10 @@
    "line": 7,
    "question": "Come cambia il cilindro classico del core nella proposta di Joyce e Lewindon?",
    "options": [
-    "Si estende verso il basso, dal bacino fino alle ginocchia.",
-    "Si allarga ai fianchi senza superare la zona lombare.",
+    "Si estende in basso fino alle ginocchia senza includere le scapole.",
+    "Si estende lateralmente fino ai fianchi senza salire oltre la zona lombare.",
     "Si estende in alto fino alle scapole e alla colonna toracica.",
-    "Si sposta verso il torace, lasciando fuori il bacino."
+    "Si estende in alto fino alle scapole ma lascia fuori la colonna toracica."
    ],
    "answer": 2,
    "why": "Estendere il modello verso l'alto permette di considerare anche il controllo della parte alta del tronco."
@@ -97,9 +97,9 @@
    "line": 1,
    "question": "Quali elementi passivi fanno parte del core e quale limite hanno?",
    "options": [
-    "Tendini e fascia, che da soli controllano i movimenti del tronco.",
-    "Vertebre e articolazioni, che possono stabilizzare la colonna senza i muscoli.",
-    "Muscoli profondi e articolazioni, che insieme costituiscono il sostegno passivo.",
+    "Fasce e strutture tendinee, che senza i muscoli non bastano a stabilizzare la colonna.",
+    "Vertebre e articolazioni, che da sole stabilizzano la colonna ma non trasmettono forza.",
+    "Vertebre e articolazioni, che danno sostegno ma non inviano segnali sensoriali.",
     "Vertebre e articolazioni, che senza i muscoli non bastano a stabilizzare la colonna."
    ],
    "answer": 3,
@@ -111,9 +111,9 @@
    "question": "Se vertebre e articolazioni non stabilizzano da sole la colonna, come aiutano il controllo del core?",
    "options": [
     "Inviano al sistema nervoso informazioni che influenzano tono e attivazione muscolare.",
-    "Producono direttamente la forza necessaria a correggere la postura.",
-    "Mantengono costante il tono muscolare anche quando cambia il carico.",
-    "Sostituiscono l'attivazione muscolare ogni volta che il carico è leggero."
+    "Inviano al sistema nervoso segnali che riguardano soltanto le sensazioni dolorose.",
+    "Inviano al sistema nervoso comandi motori che sostituiscono l'intervento dei muscoli profondi.",
+    "Inviano al sistema nervoso segnali che mantengono costante l'attivazione muscolare al variare dei carichi."
    ],
    "answer": 0,
    "why": "Il sistema nervoso può usare le informazioni provenienti dalle strutture passive per regolare il lavoro dei muscoli."
@@ -123,10 +123,10 @@
    "line": 5,
    "question": "Qual è il contributo degli stabilizzatori locali, come il trasverso dell'addome?",
    "options": [
-    "Generano gran parte della forza che si oppone ai movimenti del busto.",
-    "Creano movimento articolare attraversando più segmenti del corpo.",
+    "Vicini alla colonna, generano gran parte della forza che frena il busto.",
+    "Vicini alla colonna, agiscono soprattutto da motori del movimento articolare.",
     "Vicini alla colonna, danno molte informazioni posturali ma producono poca forza.",
-    "Trasmettono informazioni posturali solo quando il busto si muove sotto carico."
+    "Vicini alla colonna, danno informazioni posturali soltanto sotto carichi elevati."
    ],
    "answer": 2,
    "why": "Il loro contributo al controllo dipende soprattutto dalle informazioni sulla postura, non da una grande produzione di forza."
@@ -136,10 +136,10 @@
    "line": 7,
    "question": "Come si distinguono gli stabilizzatori globali dai motori globali del core?",
    "options": [
-    "Gli stabilizzatori creano movimento; i motori frenano i movimenti indesiderati.",
+    "Gli stabilizzatori producono movimento articolare; i motori frenano le oscillazioni del busto.",
     "Gli stabilizzatori frenano movimenti indesiderati; i motori producono movimento articolare.",
-    "Gli stabilizzatori informano sulla postura; i motori mantengono soltanto posizioni ferme.",
-    "Entrambi frenano il busto; si distinguono soltanto per la grandezza."
+    "Gli stabilizzatori rilevano soprattutto la postura; i motori mantengono il busto fermo.",
+    "Gli stabilizzatori frenano le rotazioni; i motori frenano invece flessione ed estensione."
    ],
    "answer": 1,
    "why": "Opporsi a un movimento indesiderato e produrre un movimento articolare sono due compiti diversi, anche se i muscoli collaborano."
@@ -149,9 +149,9 @@
    "line": 1,
    "question": "Che cosa significa avere un core stabile durante un gesto sportivo?",
    "options": [
-    "Tenere immobile il tronco in ogni gesto, anche quando deve muoversi.",
-    "Controllare il tronco soltanto quando il carico è alto e lento.",
-    "Lasciare libero il tronco durante il gesto e stabilizzarlo soltanto alla fine.",
+    "Mantenere il tronco immobile anche quando il compito richiede che si muova.",
+    "Controllare il tronco solo sotto carichi elevati, purché applicati lentamente.",
+    "Lasciare che il tronco oscilli e recuperare il controllo soltanto alla fine.",
     "Resistere ai movimenti indesiderati e controllare quelli utili a carichi diversi."
    ],
    "answer": 3,
@@ -163,9 +163,9 @@
    "question": "Come conviene dosare la tensione del core durante un movimento che richiede poco sforzo?",
    "options": [
     "Usare la tensione necessaria al controllo, senza contrarre tutto al massimo.",
-    "Contrarre sempre al massimo per evitare qualsiasi perdita di stabilità.",
-    "Usare la stessa tensione prevista per un movimento con carico elevato.",
-    "Evitare ogni attivazione del core finché non compare un errore."
+    "Usare sempre la tensione massima per limitare ogni oscillazione del tronco.",
+    "Usare la stessa tensione impiegata negli esercizi con sovraccarico elevato.",
+    "Usare tensione soltanto per correggere la postura dopo una perdita di controllo."
    ],
    "answer": 0,
    "why": "Una volta ottenuto il controllo richiesto, aggiungere tensione per un compito leggero spreca energia."
@@ -175,10 +175,10 @@
    "line": 5,
    "question": "In che modo un core stabile aiuta a trasferire la forza durante un gesto?",
    "options": [
-    "Sostituisce la spinta delle gambe con un movimento più ampio della colonna.",
-    "Trattiene la forza nella parte del corpo che l'ha generata.",
+    "Trasferisce forza soprattutto tra le due gambe, senza coinvolgere la parte alta.",
+    "Trasferisce forza nel tronco per trattenerla lì e ridurre il lavoro degli arti.",
     "Trasferisce forza tra parte alta e bassa, limitando dispersione e sforzo aggiuntivo.",
-    "Aumenta la forza prodotta dagli arti senza influire sul suo trasferimento."
+    "Trasferisce forza soprattutto ampliando i movimenti della colonna sotto carico."
    ],
    "answer": 2,
    "why": "Se il tronco perde controllo, una parte della forza si disperde oppure serve più sforzo per ottenere lo stesso gesto."
@@ -188,10 +188,10 @@
    "line": 7,
    "question": "Durante uno sprint, come dovrebbe comportarsi il tronco mentre lavorano braccia e gambe?",
    "options": [
-    "Assecondare ogni spinta delle gambe con oscillazioni sempre più ampie.",
+    "Restare mobile in rotazione per amplificare la spinta a ogni passo.",
     "Restare stabile mentre braccia e gambe si muovono attorno a esso.",
-    "Controllare le oscillazioni riducendo soprattutto il movimento delle braccia.",
-    "Muoversi per generare la spinta al posto delle gambe."
+    "Restare stabile solo in volo e oscillare al contatto del piede a terra.",
+    "Restare inclinato di lato a ogni appoggio per seguire la spinta del piede."
    ],
    "answer": 1,
    "why": "Un tronco stabile aiuta a trasferire la spinta; se oscilla a ogni appoggio, la tecnica diventa meno efficace."
@@ -201,9 +201,9 @@
    "line": 9,
    "question": "Secondo la lezione, quando può aumentare il rischio di lesioni legato al ruolo della colonna?",
    "options": [
-    "Quando la colonna resta controllata mentre la forza passa tra gli arti.",
-    "Quando la tensione del core viene dosata in base alla richiesta.",
-    "Quando il tronco limita movimenti indesiderati durante un gesto veloce.",
+    "Quando la colonna resta controllata mentre la forza passa dalla parte bassa a quella alta.",
+    "Quando la colonna è sostenuta da una tensione muscolare proporzionata al carico.",
+    "Quando la colonna resta stabile mentre gli arti accelerano in un gesto veloce.",
     "Quando la colonna si muove per generare forza anziché soprattutto trasferirla."
    ],
    "answer": 3,
@@ -215,9 +215,9 @@
    "question": "Perché combinare test a basso e ad alto carico nella valutazione del core?",
    "options": [
     "Per esplorare stabilità, resistenza e forza senza affidarsi a una sola prova.",
-    "Per misurare due volte la forza e calcolarne un valore medio.",
-    "Per trovare il singolo test che sostituisce tutte le altre prove.",
-    "Per misurare soltanto la resistenza, ma con due livelli di fatica."
+    "Per stimare la forza massima facendo la media dei risultati delle due prove.",
+    "Per scegliere una sola prova che rappresenti tutte le forme di stabilità.",
+    "Per misurare soltanto la resistenza muscolare a due livelli di difficoltà."
    ],
    "answer": 0,
    "why": "Una singola prova mostra come l'atleta risponde a una richiesta specifica, non come controlla il core in tutte le condizioni."
@@ -227,10 +227,10 @@
    "line": 3,
    "question": "Come scegli le prove per valutare il core di un atleta?",
    "options": [
-    "Scegli gli stessi esercizi per ogni sport e usa un solo piano.",
+    "Parti dagli schemi che allena, ma li osservi solo sul piano sagittale.",
     "Parti dagli schemi che allena e includi più piani di movimento.",
-    "Scegli schemi che non usa mai e valutali tutti nello stesso piano.",
-    "Parti dal suo gesto preferito e ripetilo variando soltanto il carico."
+    "Parti da schemi estranei alla sua disciplina e li osservi su più piani.",
+    "Parti da una batteria identica in ogni disciplina e vari solo i carichi."
    ],
    "answer": 1,
    "why": "Gli schemi abituali rendono la valutazione pertinente, mentre più piani mostrano se il controllo regge in direzioni diverse."
@@ -240,10 +240,10 @@
    "line": 7,
    "question": "Quale segnale osservi per valutare la stabilità del core in una tenuta o in un movimento?",
    "options": [
-    "La colonna viene appiattita per eliminare ogni curva della schiena.",
-    "Il busto resta verticale indipendentemente dalla posizione richiesta.",
+    "La colonna si appiattisce fino a eliminare la curva lombare.",
+    "La colonna rimane verticale a prescindere dal gesto richiesto.",
     "La colonna mantiene la posizione neutra durante la prova.",
-    "La colonna torna neutra alla fine, anche se perde posizione durante la prova."
+    "La colonna ritrova la posizione neutra soltanto a fine prova."
    ],
    "answer": 2,
    "why": "Conta mantenere la posizione di riferimento durante la richiesta, non soltanto recuperarla alla fine o far sembrare la schiena dritta."
@@ -253,9 +253,9 @@
    "line": 9,
    "question": "Perché valutare sia le tenute isometriche sia i movimenti?",
    "options": [
-    "Le tenute misurano il controllo dinamico; i movimenti mostrano la resistenza da fermi.",
-    "Le due prove osservano la stessa qualità, quindi basta scegliere la più comoda.",
-    "Le tenute valutano solo la forza; i movimenti osservano solo la mobilità.",
+    "Le tenute mostrano il controllo dinamico; i movimenti mostrano la resistenza da fermi.",
+    "Le tenute mostrano la mobilità articolare; i movimenti mostrano la forza massima.",
+    "Le tenute mostrano la resistenza; i movimenti confermano la stessa qualità senza aggiungere altro.",
     "Le tenute mostrano la resistenza; i movimenti mostrano il controllo durante il gesto."
    ],
    "answer": 3,
@@ -267,9 +267,9 @@
    "question": "Che cosa vuoi capire con un test del core a basso carico?",
    "options": [
     "Se l'atleta riconosce e mantiene la posizione neutra durante esercizi a corpo libero.",
-    "Quanto carico riesce a sollevare mantenendo neutra la colonna.",
-    "Quanto velocemente esegue il gesto, anche se cambia la posizione della colonna.",
-    "Quanto riesce a irrigidire il tronco in una singola ripetizione."
+    "Se l'atleta mantiene la posizione neutra con un sovraccarico vicino al suo massimo.",
+    "Se l'atleta aumenta la velocità delle ripetizioni anche quando perde la posizione neutra.",
+    "Se l'atleta sa irrigidire il tronco al massimo durante una singola ripetizione."
    ],
    "answer": 0,
    "why": "Con una richiesta leggera puoi osservare consapevolezza e resistenza: conta se il controllo regge mentre le ripetizioni si accumulano."
@@ -279,10 +279,10 @@
    "line": 3,
    "question": "Quante ripetizioni proponi come obiettivo per osservare la resistenza del core a basso carico?",
    "options": [
-    "Le prime dieci, così il controllo si osserva prima della fatica.",
+    "Circa dieci, così il controllo si apprezza prima che subentri la fatica.",
     "Circa trenta, purché si osservi come cambia la qualità del gesto.",
-    "Il massimo possibile, contando anche le ripetizioni con tecnica alterata.",
-    "Le prime cinque, perché la qualità iniziale basta a stimare la resistenza."
+    "Circa sessanta, perché i primi cedimenti contano solo dopo una serie molto lunga.",
+    "Circa cinque, perché la qualità iniziale basta a stimare la tenuta."
    ],
    "answer": 1,
    "why": "Una serie abbastanza lunga può far emergere perdite di controllo che non si vedono nelle prime ripetizioni."
@@ -292,10 +292,10 @@
    "line": 5,
    "question": "Come interpreti un test del core a basso carico senza un sistema formale di punteggio?",
    "options": [
-    "Valuti solo il numero totale di ripetizioni, senza distinguerne la qualità.",
-    "Assegni un voto in base alla velocità media delle ripetizioni.",
+    "Valuti il totale delle ripetizioni, a prescindere dalla loro qualità.",
+    "Valuti la rapidità media con cui l'atleta completa le ripetizioni.",
     "Valuti a vista se le ripetizioni restano pulite e controllate.",
-    "Consideri riuscita la prova se l'ultima ripetizione è tecnicamente corretta."
+    "Valuti la qualità dell'ultima ripetizione, senza considerare le altre."
    ],
    "answer": 2,
    "why": "In una prova osservativa conta l'andamento della tecnica lungo la serie, non un numero isolato."
@@ -305,9 +305,9 @@
    "line": 9,
    "question": "Che cosa indica perdere la posizione alla dodicesima ripetizione di un test a basso carico?",
    "options": [
-    "Che la resistenza è buona perché le prime ripetizioni erano controllate.",
-    "Che manca forza massima, indipendentemente dalla qualità delle ripetizioni iniziali.",
-    "Che si può aumentare il carico perché il movimento è già noto.",
+    "Che la resistenza è adeguata se il gesto è rimasto pulito all'inizio.",
+    "Che la qualità iniziale conta più del cedimento nel giudicare la resistenza.",
+    "Che la forza massima è insufficiente, anche se il gesto iniziale era pulito.",
     "Che la resistenza in quella prova è limitata rispetto all'obiettivo."
    ],
    "answer": 3,
@@ -319,9 +319,9 @@
    "question": "Quale schema motorio usi nel Waiters Bow per valutare il controllo del core?",
    "options": [
     "Un hip hinge: inclini il busto piegandoti a partire dalle anche.",
-    "Una flessione lombare: inclini il busto arrotondando progressivamente la schiena.",
-    "Uno squat: fai scendere il bacino piegando soprattutto le ginocchia.",
-    "Una flessione laterale: inclini il tronco verso un fianco."
+    "Un piegamento lombare: inclini il busto arrotondando la schiena.",
+    "Un piegamento sulle gambe: abbassi il bacino flettendo soprattutto le ginocchia.",
+    "Un piegamento laterale: inclini il busto da un lato senza ruotarlo."
    ],
    "answer": 0,
    "why": "Piegarsi alle anche consente di osservare se la colonna resta controllata mentre il busto si inclina."
@@ -331,10 +331,10 @@
    "line": 3,
    "question": "Come imposti un Waiters Bow per osservare il controllo della colonna?",
    "options": [
-    "Parti con ginocchia bloccate e arrotondi la schiena mentre scendi.",
+    "Parti in piedi, ginocchia bloccate, e ti inclini dalle anche con la schiena neutra.",
     "Parti in piedi, ginocchia morbide, e ti inclini dalle anche mantenendo la neutralità.",
-    "Parti con ginocchia morbide e inizi la discesa piegando la zona lombare.",
-    "Parti in piedi e accentui l'arco lombare mentre ti inclini dalle anche."
+    "Parti in piedi, ginocchia morbide, e inizi la discesa flettendo la zona lombare.",
+    "Parti in piedi, ginocchia morbide, e accentui la curva lombare mentre ti inclini."
    ],
    "answer": 1,
    "why": "Le ginocchia leggermente piegate accompagnano l'inclinazione, ma il movimento deve partire dalle anche senza cambiare la posizione della colonna."
@@ -344,10 +344,10 @@
    "line": 5,
    "question": "Durante il Waiters Bow, come deve comportarsi la colonna mentre il busto si inclina e risale?",
    "options": [
-    "Si arrotonda in discesa e torna neutra durante la risalita.",
-    "Si inarca leggermente in fondo per contrastare l'inclinazione del busto.",
+    "Resta neutra in partenza, poi si arrotonda per accompagnare la discesa.",
+    "Resta neutra fino alla fine della discesa, dove accentua la curva lombare.",
     "Resta neutra per tutto il gesto, senza arrotondarsi né inarcarsi.",
-    "Resta neutra durante la discesa, ma può arrotondarsi durante la risalita."
+    "Resta neutra in discesa, ma si arrotonda leggermente in risalita."
    ],
    "answer": 2,
    "why": "Il busto può cambiare inclinazione grazie al movimento delle anche senza che la forma della colonna cambi."
@@ -357,9 +357,9 @@
    "line": 7,
    "question": "Che cosa controlli durante una serie di circa trenta ripetizioni di Waiters Bow?",
    "options": [
-    "Se tutte le ripetizioni raggiungono la stessa profondità, anche perdendo neutralità.",
-    "Se l'atleta termina la serie più velocemente che nella prova precedente.",
-    "Se la prima e l'ultima ripetizione sono corrette, ignorando quelle intermedie.",
+    "Se la profondità del gesto rimane costante, anche quando la schiena si arrotonda.",
+    "Se l'atleta completa la prova più rapidamente rispetto al tentativo precedente.",
+    "Se la prima e l'ultima esecuzione sono pulite, senza considerare quelle intermedie.",
     "Se la colonna resta neutra e, se perde controllo, a quale ripetizione."
    ],
    "answer": 3,
@@ -371,9 +371,9 @@
    "question": "In quale situazione calcistica riconosci l'inclinazione dalle anche valutata nel Waiters Bow?",
    "options": [
     "Quando ti inclini in avanti per raccogliere il pallone.",
-    "Quando ruoti il busto per seguire un passaggio alle spalle.",
-    "Quando ti pieghi di lato durante un contrasto.",
-    "Quando sollevi il ginocchio per controllare un pallone alto."
+    "Quando ti giri col busto per seguire un passaggio alle spalle.",
+    "Quando ti pieghi di lato per riparare il pallone in un contrasto.",
+    "Quando ti porti il ginocchio al petto per controllare un pallone alto."
    ],
    "answer": 0,
    "why": "Raccogliere il pallone può richiedere di inclinare il busto muovendo le anche, come nel test."
@@ -383,10 +383,10 @@
    "line": 4,
    "question": "Nella Supine Hip Flexion, quale cambiamento della schiena segnala una perdita di controllo?",
    "options": [
-    "La zona lombare mantiene la sua curva iniziale durante l'estensione.",
+    "La zona lombare mantiene la curva iniziale mentre la gamba si distende.",
     "La zona lombare si inarca troppo mentre la gamba si distende.",
-    "La zona lombare resta ferma mentre il ginocchio si piega.",
-    "La zona lombare conserva la posizione mentre la gamba rientra."
+    "La zona lombare resta neutra mentre il ginocchio si piega.",
+    "La zona lombare conserva la stessa curva mentre il piede torna a terra."
    ],
    "answer": 1,
    "why": "Se l'arco lombare aumenta mentre la gamba si allunga, la colonna non mantiene la posizione iniziale sotto la nuova richiesta."
@@ -396,10 +396,10 @@
    "line": 5,
    "question": "Nella Supine Hip Flexion, che cosa indica trattenere il fiato e irrigidirsi molto?",
    "options": [
-    "Una strategia necessaria per ogni movimento della gamba da supino.",
-    "Un modo per aumentare la resistenza senza modificare l'esercizio.",
+    "Una risposta necessaria per mantenere stabile il bacino.",
+    "Una strategia utile per risparmiare energia durante il gesto.",
     "Una tensione eccessiva rispetto alla richiesta leggera del gesto.",
-    "Un segnale sufficiente per confermare che la colonna resta neutra."
+    "Una conferma che la colonna mantiene una posizione neutra."
    ],
    "answer": 2,
    "why": "Con un carico leggero l'atleta dovrebbe poter controllare la posizione senza usare più tensione del necessario."
@@ -409,9 +409,9 @@
    "line": 7,
    "question": "Perché osservi soprattutto la zona lombare mentre l'atleta distende la gamba nella Supine Hip Flexion?",
    "options": [
-    "Perché la gamba si avvicina al tronco e la schiena tende ad appiattirsi.",
-    "Perché l'estensione del ginocchio richiede di aumentare volontariamente l'arco lombare.",
-    "Perché la schiena neutra conta solo quando la gamba torna a terra.",
+    "Perché il bacino deve ruotare in avanti per completare il movimento.",
+    "Perché il ginocchio si raddrizza meglio se la schiena aumenta la sua curva.",
+    "Perché il tronco va controllato solo quando il piede torna verso terra.",
     "Perché il peso si allontana dal tronco e la schiena può inarcarsi troppo."
    ],
    "answer": 3,
@@ -423,9 +423,9 @@
    "question": "Perché aumentare la resistenza in un test del core?",
    "options": [
     "Per osservare se il core controlla la colonna sotto richieste elevate.",
-    "Per misurare la resistenza con più ripetizioni leggere nello stesso tempo.",
-    "Per trovare il carico massimo senza osservare come cambia la tecnica.",
-    "Per rendere la prova indipendente dal gesto che l'atleta deve eseguire."
+    "Per stimare la mobilità articolare dalla quantità di peso sollevato.",
+    "Per individuare il peso massimo senza considerare la tecnica.",
+    "Per confrontare prove diverse usando soltanto il peso sollevato."
    ],
    "answer": 0,
    "why": "Un atleta può controllare bene la colonna con poco carico e perdere quella capacità quando la richiesta si avvicina a quella sportiva."
@@ -435,10 +435,10 @@
    "line": 3,
    "question": "Come scegli e usi un esercizio per valutare il core ad alto carico?",
    "options": [
-    "Usi lo stesso squat per tutti e consideri solo il peso sollevato.",
+    "Scegli uno schema uguale per tutti e registri solo il peso sollevato.",
     "Scegli uno schema utile all'atleta, lo carichi e osservi la colonna.",
-    "Carichi il gesto meno familiare all'atleta e misuri solo la velocità.",
-    "Ripeti senza peso uno schema utile e conti il numero totale di ripetizioni."
+    "Scegli uno schema poco familiare, lo carichi e misuri solo la velocità.",
+    "Scegli uno schema specifico, lo esegui a corpo libero e conti le ripetizioni."
    ],
    "answer": 1,
    "why": "Uno schema pertinente rende la prova utile per l'atleta; il carico permette di vedere se il controllo della colonna regge."
@@ -448,10 +448,10 @@
    "line": 5,
    "question": "Quale valutazione mostra se un calciatore perde stabilità del core correndo ad alta velocità?",
    "options": [
-    "Cronometrare un plank e usare la durata per stimare il controllo in corsa.",
-    "Contare le ripetizioni di Waiters Bow senza osservare il busto.",
+    "Cronometrare la tenuta del plank in posizione neutra.",
+    "Osservare l'allineamento del busto durante un Waiters Bow.",
     "Analizzare il controllo del tronco durante uno sprint.",
-    "Misurare il carico di uno squat senza osservare la posizione della colonna."
+    "Valutare la posizione della colonna in uno squat pesante."
    ],
    "answer": 2,
    "why": "Lo sprint mette alla prova il controllo nella stessa condizione che vuoi osservare: la corsa ad alta velocità."
@@ -461,9 +461,9 @@
    "line": 7,
    "question": "Nel test del plank, che cosa registri oltre alla durata?",
    "options": [
-    "Il tempo complessivo, anche quando il bacino perde la posizione iniziale.",
-    "La posizione iniziale delle mani, senza seguire i cambiamenti del tronco.",
-    "Soltanto l'altezza del bacino al termine della prova.",
+    "Quando aumenta la fatica percepita e quali muscoli l'atleta sente lavorare.",
+    "Quando cambia il ritmo respiratorio e quali respiri diventano più profondi.",
+    "Quando compare il tremore e quali muscoli tremano, senza valutare l'allineamento.",
     "Quando compaiono gli errori e quali sono, per esempio se il bacino cede."
    ],
    "answer": 3,
@@ -475,9 +475,9 @@
    "question": "Che cosa distingue una valutazione del core ad alto carico da una a basso carico?",
    "options": [
     "L'alto carico sfida il controllo; il basso osserva controllo e resistenza con ripetizioni leggere.",
-    "L'alto carico valuta solo la forza; il basso osserva soltanto la mobilità.",
-    "L'alto carico usa sempre tenute; il basso usa soltanto movimenti.",
-    "L'alto carico valuta tante ripetizioni leggere; il basso aumenta soprattutto la resistenza esterna."
+    "L'alto carico misura solo la forza massima; il basso osserva solo la mobilità articolare.",
+    "L'alto carico richiede sempre una tenuta isometrica; il basso usa soltanto movimenti ripetuti.",
+    "L'alto carico usa molte ripetizioni leggere; il basso mette alla prova con più peso."
    ],
    "answer": 0,
    "why": "Il criterio è sempre il controllo, ma cambia la richiesta: mantenerlo con uno stress elevato oppure ripeterlo a lungo con poco carico."
@@ -487,10 +487,10 @@
    "line": 1,
    "question": "Come adatti la difficoltà di un esercizio per il core senza cambiare volume o carico?",
    "options": [
-    "Mantieni identica la tecnica e cambi soltanto come descrivi il gesto.",
+    "Modifichi la descrizione del gesto, ma chiedi la stessa esecuzione.",
     "Modifichi la tecnica scegliendo una progressione o una regressione.",
-    "Passi a una variante più avanzata indipendentemente dalle capacità dell'atleta.",
-    "Chiedi all'atleta di irrigidirsi al massimo in ogni variante."
+    "Modifichi la sequenza degli esercizi senza variare il gesto.",
+    "Modifichi la durata del recupero mantenendo identica la tecnica."
    ],
    "answer": 1,
    "why": "Una diversa esecuzione può cambiare la richiesta di controllo anche se il carico e il numero di ripetizioni restano uguali."
@@ -500,10 +500,10 @@
    "line": 3,
    "question": "Come stabilisci da quale variante di un esercizio per il core dovrebbe partire un atleta?",
    "options": [
-    "Scegli la variante più diffusa tra gli atleti del suo sport.",
-    "Parti dalla variante più difficile che riesce a impostare.",
+    "Usi le abitudini della squadra come unico criterio di scelta.",
+    "Usi le prove iniziali per assegnare la versione più impegnativa che riesce a impostare.",
     "Usi le valutazioni di stabilità per trovare una difficoltà adatta.",
-    "Assegni la stessa variante iniziale a tutti gli atleti della squadra."
+    "Usi le richieste dello sport per assegnare a tutti la stessa versione iniziale."
    ],
    "answer": 2,
    "why": "Osservare come l'atleta mantiene il controllo ti aiuta a evitare una variante troppo facile o troppo avanzata."
@@ -513,9 +513,9 @@
    "line": 5,
    "question": "Perché il plank standard può essere una scelta iniziale poco adatta a un principiante?",
    "options": [
-    "Perché un esercizio isometrico non può allenare il controllo del core.",
-    "Perché senza movimento il plank è troppo facile per chi inizia.",
-    "Perché per essere utile deve partire da una superficie instabile.",
+    "Perché anche una tenuta ben eseguita allena la resistenza ma non il controllo.",
+    "Perché anche una tenuta prolungata è troppo facile se non comporta movimento.",
+    "Perché anche una tenuta breve è utile solo se gli appoggi sono instabili.",
     "Perché anche una variante di base può far perdere presto la tecnica."
    ],
    "answer": 3,
@@ -527,9 +527,9 @@
    "question": "Che cosa rappresenta la base di appoggio negli esercizi per il core?",
    "options": [
     "L'area delimitata collegando i punti di contatto del corpo con il suolo.",
-    "La somma delle sole superfici di pelle direttamente a contatto con il suolo.",
-    "La distanza massima tra due appoggi, senza considerare gli altri.",
-    "Il numero di punti di contatto, indipendentemente da come sono distribuiti."
+    "L'area ottenuta sommando soltanto le superfici a contatto diretto con il suolo.",
+    "L'area delimitata dai soli punti di contatto che sostengono più peso.",
+    "L'area coperta dalla sagoma del corpo proiettata sul suolo."
    ],
    "answer": 0,
    "why": "Conta lo spazio racchiuso tra gli appoggi: anche mantenendo lo stesso numero di contatti, puoi allargare o restringere la base."
@@ -541,8 +541,8 @@
    "options": [
     "Le due mani e le due ginocchia.",
     "Le due mani e i due piedi.",
-    "I due gomiti e i due piedi.",
-    "I due piedi, mentre le mani non entrano nella base."
+    "Le due spalle e i due piedi.",
+    "Le due mani e i due talloni."
    ],
    "answer": 1,
    "why": "La base è definita dai contatti effettivi: in questa variante né i gomiti né le ginocchia poggiano a terra."
@@ -552,10 +552,10 @@
    "line": 7,
    "question": "Perché appoggiare le mani su un BOSU rende il plank più impegnativo?",
    "options": [
-    "Perché il BOSU allunga necessariamente la leva delle gambe.",
-    "Perché si passa automaticamente da quattro a due punti di contatto.",
+    "Perché due appoggi si rialzano e spostano più peso verso le braccia.",
+    "Perché due appoggi rialzati allungano necessariamente la leva delle gambe.",
     "Perché due appoggi diventano instabili e richiedono più controllo posturale.",
-    "Perché mani più alte eliminano il contributo degli appoggi dei piedi."
+    "Perché due appoggi rialzati riducono il sostegno dei piedi fino a escluderlo."
    ],
    "answer": 2,
    "why": "Il numero di appoggi resta uguale, ma una superficie mobile richiede più lavoro per mantenere la posizione."
@@ -565,9 +565,9 @@
    "line": 1,
    "question": "Che cosa rende più complesso un esercizio per il core?",
    "options": [
-    "Aumentare le ripetizioni senza modificare il movimento da coordinare.",
-    "Tenere la stessa posizione più a lungo prima di fermarsi.",
-    "Aumentare il carico lasciando invariati articolazioni e piani di movimento.",
+    "Aumentare il numero di ripetizioni senza cambiare le articolazioni da coordinare.",
+    "Prolungare la tenuta mantenendo la stessa postura e gli stessi appoggi.",
+    "Aumentare il peso mantenendo identici lo schema motorio e i piani di movimento.",
     "Coinvolgere più articolazioni o piani, aumentando anche la richiesta di coordinazione."
    ],
    "answer": 3,
@@ -579,9 +579,9 @@
    "question": "Perché un esercizio per il core più complesso può impegnare anche l'attenzione dell'atleta?",
    "options": [
     "Perché deve coordinare uno schema di movimento poco abituale o nuovo.",
-    "Perché deve sempre sollevare un peso maggiore rispetto alla variante semplice.",
-    "Perché deve contare più ripetizioni anche quando il gesto resta identico.",
-    "Perché deve bloccare tutte le articolazioni che prima potevano muoversi."
+    "Perché deve usare più forza anche se il gesto da coordinare resta identico.",
+    "Perché deve contare più ripetizioni senza cambiare lo schema di movimento.",
+    "Perché deve mantenere la stessa posizione per un tempo più lungo."
    ],
    "answer": 0,
    "why": "Uno schema poco familiare richiede attenzione per organizzare i movimenti senza perdere il controllo del tronco."
@@ -591,10 +591,10 @@
    "line": 6,
    "question": "Quale modifica semplifica il dead bug riducendo i movimenti da coordinare?",
    "options": [
-    "Muovere entrambe le braccia mentre una gamba continua a muoversi.",
+    "Tenere una gamba in movimento e muovere entrambe le braccia.",
     "Tenere le braccia ferme e muovere soltanto le gambe.",
-    "Muovere le braccia su piani diversi mantenendo il movimento della gamba.",
-    "Continuare a muovere braccia e gambe, ma per meno ripetizioni."
+    "Tenere il tronco fermo e muovere braccia e gambe su piani diversi.",
+    "Tenere lo stesso schema e fare meno ripetizioni."
    ],
    "answer": 1,
    "why": "Tenere ferme le braccia riduce le articolazioni in movimento; fare meno ripetizioni non cambia ciò che va coordinato in ciascuna."
@@ -604,9 +604,9 @@
    "line": 9,
    "question": "Quando inventi una variante, come capisci se hai modificato la complessità anziché soltanto la fatica?",
    "options": [
-    "Controlli se la serie dura di più mantenendo lo stesso gesto.",
-    "Controlli se il peso usato aumenta, anche con lo stesso movimento.",
-    "Controlli se l'atleta finisce più stanco eseguendo lo stesso schema.",
+    "Controlli se aumenta la durata della serie senza cambiare lo schema motorio.",
+    "Controlli se il carico sale mantenendo uguali i piani di movimento.",
+    "Controlli se servono pause più lunghe per ripetere lo stesso schema motorio.",
     "Controlli se cambiano le articolazioni da coordinare o i piani di movimento."
    ],
    "answer": 3,
@@ -619,8 +619,8 @@
    "options": [
     "Una leva più lunga rende l'esercizio più difficile; una più corta lo facilita.",
     "Una leva più lunga facilita l'esercizio; una più corta lo rende più difficile.",
-    "Una leva più lunga conta solo se aumenti anche il peso.",
-    "Una leva più corta rende l'esercizio più difficile senza cambiare il peso."
+    "Una leva più lunga incide solo se aumenti il peso; una più corta non incide.",
+    "Una leva più lunga cambia solo l'ampiezza del gesto; una più corta cambia solo la velocità."
    ],
    "answer": 0,
    "why": "Allontanare il peso dal centro aumenta la richiesta di controllo anche se il peso non cambia."
@@ -630,10 +630,10 @@
    "line": 3,
    "question": "Perché il push-up sulle ginocchia è più semplice di quello con le gambe distese?",
    "options": [
-    "Perché appoggiare le ginocchia aumenta il numero dei punti di contatto.",
+    "Perché l'appoggio sulle ginocchia aggiunge punti di contatto a quelli dei piedi.",
     "Perché l'appoggio sulle ginocchia accorcia la leva rispetto all'appoggio sui piedi.",
-    "Perché l'appoggio sulle ginocchia allunga la leva e ne facilita il controllo.",
-    "Perché le ginocchia a terra eliminano la necessità di controllare il tronco."
+    "Perché l'appoggio sulle ginocchia allunga la leva e riduce lo sforzo delle braccia.",
+    "Perché l'appoggio sulle ginocchia rende superfluo il controllo del tronco."
    ],
    "answer": 1,
    "why": "Spostare l'appoggio dai piedi alle ginocchia accorcia la leva, riducendo la richiesta senza eliminare il lavoro del core."
@@ -643,10 +643,10 @@
    "line": 5,
    "question": "Come aumenti la difficoltà di un esercizio del core sfruttando la leva delle gambe?",
    "options": [
-    "Pieghi maggiormente le ginocchia per accorciare la leva delle gambe.",
-    "Tieni le ginocchia piegate e aumenti il numero di ripetizioni.",
+    "Pieghi maggiormente le gambe, accorciando la leva.",
+    "Mantieni semiflesse le gambe, lasciando invariata la leva.",
     "Distendi completamente le gambe, allungando la leva.",
-    "Aggiungi un movimento delle braccia senza cambiare la posizione delle gambe."
+    "Divarichi leggermente le gambe, senza allungare la leva."
    ],
    "answer": 2,
    "why": "Quando le gambe si distendono, il loro peso si allontana dal tronco e mantenere la posizione diventa più impegnativo."
@@ -656,9 +656,9 @@
    "line": 7,
    "question": "Perché tenere lo stesso pallone a braccia tese richiede più controllo che tenerlo al petto?",
    "options": [
-    "Perché a braccia tese il pallone esercita più peso che al petto.",
-    "Perché allontanare il pallone riduce il numero dei punti di appoggio.",
-    "Perché a braccia tese aumentano necessariamente i piani di movimento.",
+    "Perché il peso aumenta quando lo allontani dal tronco.",
+    "Perché il peso più lontano riduce la superficie di appoggio.",
+    "Perché il peso più lontano impone un movimento su più piani.",
     "Perché il peso è più lontano dal tronco, quindi la leva aumenta."
    ],
    "answer": 3,
@@ -671,8 +671,8 @@
    "options": [
     "Il primo contrasta il piegamento in avanti; il secondo l'inarcamento all'indietro.",
     "Il primo contrasta l'inarcamento all'indietro; il secondo il piegamento in avanti.",
-    "Il primo contrasta il piegamento laterale; il secondo la rotazione.",
-    "Il primo produce flessione; il secondo produce estensione."
+    "Il primo contrasta il piegamento di lato; il secondo l'inarcamento all'indietro.",
+    "Il primo contrasta il piegamento in avanti; il secondo la torsione del busto."
    ],
    "answer": 0,
    "why": "La categoria descrive il movimento che la forza tende a provocare e che il core deve contrastare, non quello da eseguire."
@@ -684,8 +684,8 @@
    "options": [
     "Il primo contrasta una torsione; il secondo un piegamento di lato.",
     "Il primo contrasta un piegamento di lato; il secondo una torsione.",
-    "Il primo contrasta un piegamento in avanti; il secondo un inarcamento.",
-    "Il primo produce un'inclinazione laterale; il secondo produce una rotazione."
+    "Il primo contrasta un piegamento in avanti; il secondo una torsione.",
+    "Il primo contrasta un piegamento di lato; il secondo un inarcamento."
    ],
    "answer": 1,
    "why": "Inclinarsi verso un fianco e girare il tronco sono movimenti diversi: osserva quale dei due la forza tende a provocare."
@@ -695,10 +695,10 @@
    "line": 7,
    "question": "In un contrasto spalla a spalla, quale funzione ti aiuta a non piegarti di lato?",
    "options": [
-    "Anti-rotazione, perché ogni spinta laterale fa girare il tronco.",
-    "Anti-estensione, perché la spinta laterale tende a inarcare la schiena.",
+    "Anti-rotazione, perché la spinta tende a far ruotare il busto.",
+    "Anti-estensione, perché la spinta tende a inarcare il busto all'indietro.",
     "Anti-flessione laterale, perché la spinta tende a inclinare il busto.",
-    "Anti-flessione, perché rimanere in piedi richiede di contrastare il piegamento in avanti."
+    "Anti-flessione, perché la spinta tende a piegare il busto in avanti."
    ],
    "answer": 2,
    "why": "Qui conta l'effetto della spinta: il busto tende a inclinarsi verso un fianco, non a torcersi o a piegarsi in avanti."
@@ -708,9 +708,9 @@
    "line": 8,
    "question": "Quale funzione usi se una trazione sulla maglia tende a farti ruotare il busto?",
    "options": [
-    "Anti-flessione laterale, perché devi evitare di inclinarti di lato.",
-    "Anti-flessione, perché devi evitare di piegarti in avanti.",
-    "Anti-estensione, perché devi evitare di inarcare la schiena.",
+    "Anti-flessione laterale, perché devi resistere all'inclinazione del busto.",
+    "Anti-flessione, perché devi resistere al piegamento del busto in avanti.",
+    "Anti-estensione, perché devi resistere all'inarcamento del busto all'indietro.",
     "Anti-rotazione, perché devi resistere alla torsione del busto."
    ],
    "answer": 3,
@@ -722,9 +722,9 @@
    "question": "Come si distinguono gli elementi passivi e attivi del core nel modello della lezione?",
    "options": [
     "Passivi: vertebre e articolazioni. Attivi: muscoli, tendini e fascia.",
-    "Passivi: vertebre, articolazioni, tendini e fascia. Attivi: solo muscoli.",
-    "Passivi: vertebre e fascia. Attivi: articolazioni, muscoli e tendini.",
-    "Passivi: muscoli profondi e tendini. Attivi: muscoli superficiali e articolazioni."
+    "Passivi: vertebre e tendini. Attivi: muscoli, articolazioni e fascia.",
+    "Passivi: vertebre e fascia. Attivi: muscoli, tendini e articolazioni.",
+    "Passivi: articolazioni e tendini. Attivi: muscoli, vertebre e fascia."
    ],
    "answer": 0,
    "why": "In questo modello, «attivo» non equivale a «contrattile»: il gruppo comprende anche i tessuti non contrattili associati ai muscoli."

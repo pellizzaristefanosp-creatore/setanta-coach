@@ -6,10 +6,10 @@
    "line": 1,
    "question": "Sapendo che il muscolo cresce quando costruisce più proteine di quante ne degrada, quale domanda resta aperta?",
    "options": [
-    "Se la sintesi debba sostituire completamente la degradazione delle proteine.",
+    "In quale fase del recupero si possa sospendere del tutto la degradazione.",
     "In quali modi il muscolo possa concretamente aumentare di dimensioni.",
-    "Se il bilancio proteico indichi quante fibre nuove si sono formate.",
-    "In quale momento di una seduta si possa già misurare la crescita."
+    "In quali casi il bilancio proteico riveli il numero di fibre nuove.",
+    "In quale momento della seduta si possa già misurare l'ipertrofia."
    ],
    "answer": 1,
    "why": "Il bilancio proteico spiega quando il muscolo può crescere, ma non dice da solo quali componenti della fibra aumentano."
@@ -19,9 +19,9 @@
    "line": 3,
    "question": "Se due muscoli aumentano dello stesso volume, perché non è detto che siano cresciuti allo stesso modo?",
    "options": [
-    "Perché uno potrebbe aver aumentato solo la forza e l’altro solo il volume.",
-    "Perché il volume dipende dal numero di fibre, non da come cambiano.",
-    "Perché ogni aumento di volume deriva dalla stessa modifica delle fibre.",
+    "Perché possono crescere soltanto le strutture contrattili oppure soltanto i liquidi.",
+    "Perché può cambiare soltanto il numero di fibre, senza che le singole fibre crescano.",
+    "Perché possono aumentare le riserve di glicogeno, ma non le strutture contrattili.",
     "Perché possono aumentare sia le strutture contrattili sia il sarcoplasma."
    ],
    "answer": 3,
@@ -33,9 +33,9 @@
    "question": "Quale gruppo di ormoni studia la lezione per capire la regolazione della crescita muscolare?",
    "options": [
     "IGF, testosterone, ormone della crescita e insulina.",
-    "IGF e testosterone, escludendo l’insulina perché gestisce il glucosio.",
-    "Testosterone e ormone della crescita, escludendo l’IGF prodotto nel muscolo.",
-    "IGF e insulina, escludendo il testosterone perché è un ormone sessuale."
+    "IGF, testosterone, ormone tiroideo e adrenalina.",
+    "Glucagone, testosterone, ormone della crescita e insulina.",
+    "IGF, glucagone, ormone della crescita e adrenalina."
    ],
    "answer": 0,
    "why": "Le funzioni di un ormone non si escludono a vicenda: anche segnali noti per il metabolismo o la riproduzione possono influenzare il muscolo."
@@ -45,10 +45,10 @@
    "line": 9,
    "question": "Come valuteresti il consiglio di scegliere gli esercizi in base al picco ormonale dopo la seduta?",
    "options": [
-    "Lo seguirei se il picco fosse maggiore con gli esercizi più faticosi.",
-    "Lo scarterei perché gli ormoni non intervengono nella crescita muscolare.",
+    "Cercherei prove che un picco maggiore coincida con più fatica percepita.",
+    "Cercherei prove che un picco maggiore coincida con più indolenzimento.",
     "Cercherei prove che un picco maggiore porti a più crescita nel tempo.",
-    "Lo seguirei perché un picco immediato anticipa il risultato dopo mesi."
+    "Cercherei prove che un picco maggiore coincida con più gonfiore immediato."
    ],
    "answer": 2,
    "why": "Due studi mettono in dubbio il legame: osservare un aumento ormonale subito dopo una seduta non dimostra che il muscolo crescerà di più."
@@ -58,10 +58,10 @@
    "line": 1,
    "question": "Quale cambiamento indica che una fibra muscolare sta crescendo per ipertrofia contrattile?",
    "options": [
-    "Aumentano i liquidi e gli organelli, senza aggiungere strutture per la contrazione.",
+    "Aumentano i liquidi e gli organelli, senza aggiungere sarcomeri.",
     "Aumentano i sarcomeri e quindi i filamenti di actina e miosina.",
-    "Aumentano le fibre, mentre ciascuna mantiene le dimensioni iniziali.",
-    "Aumenta il glicogeno e con esso l’acqua contenuta nella fibra."
+    "Aumentano i filamenti di collagene attorno alle miofibrille.",
+    "Aumentano i depositi di glicogeno e i liquidi che li accompagnano."
    ],
    "answer": 1,
    "why": "Actina e miosina sono i filamenti con cui il sarcomero produce la contrazione. Aumentarli significa aggiungere materiale contrattile."
@@ -71,9 +71,9 @@
    "line": 3,
    "question": "Che cos’è il sarcomero e perché aggiungerne può far crescere il muscolo?",
    "options": [
-    "È una miofibrilla intera, aggiunta quando si forma una nuova fibra.",
-    "È il compartimento della fibra che aumenta di volume trattenendo acqua.",
-    "È un’unità della miofibrilla che sostiene la fibra senza contrarsi.",
+    "È la miofibrilla intera; aggiungerne aumenta il diametro formando nuove fibre.",
+    "È la riserva di glicogeno della fibra; aggiungerne aumenta il volume trattenendo acqua.",
+    "È la struttura di sostegno della miofibrilla; aggiungerne aumenta lo spessore senza incidere sulla contrazione.",
     "È la più piccola unità contrattile della miofibrilla; aggiungerne aumenta il materiale contrattile."
    ],
    "answer": 3,
@@ -85,9 +85,9 @@
    "question": "Come si dispongono i nuovi sarcomeri quando la fibra aumenta di diametro?",
    "options": [
     "Si affiancano in parallelo, allargando la fibra.",
-    "Si aggiungono in serie, allargando la fibra.",
+    "Si allineano in serie, allargando la fibra.",
     "Si affiancano in parallelo, allungando la fibra.",
-    "Si alternano a depositi di glicogeno, allargando la fibra."
+    "Si alternano ai granuli di glicogeno, allargando la fibra."
    ],
    "answer": 0,
    "why": "Una disposizione fianco a fianco occupa più spazio in larghezza; aggiungere elementi uno dopo l’altro occupa invece più spazio in lunghezza."
@@ -97,10 +97,10 @@
    "line": 9,
    "question": "Se una fibra aggiunge sarcomeri in serie, come cambiano lunghezza e diametro?",
    "options": [
-    "Aumenta soprattutto il diametro, perché i sarcomeri si affiancano.",
-    "Aumentano allo stesso modo diametro e lunghezza, perché crescono le proteine contrattili.",
+    "Aumenta soprattutto il diametro, mentre la lunghezza cambia poco.",
+    "Aumenta la lunghezza nella stessa misura in cui aumenta il diametro.",
     "Aumenta soprattutto la lunghezza, mentre il diametro cambia poco.",
-    "Aumenta il diametro senza che i nuovi sarcomeri cambino la lunghezza."
+    "Aumenta soprattutto il diametro, mentre la lunghezza diminuisce."
    ],
    "answer": 2,
    "why": "Aggiungere sarcomeri in coda allunga la fila già esistente. Per aumentare soprattutto la sezione trasversa, occorre aggiungerli fianco a fianco."
@@ -110,10 +110,10 @@
    "line": 1,
    "question": "Perché un aumento del sarcoplasma può rendere il muscolo più grande senza aumentare direttamente la forza?",
    "options": [
-    "Perché i sarcomeri si aggiungono in serie invece che in parallelo.",
+    "Perché cresce la parte contrattile in lunghezza anziché in larghezza.",
     "Perché cresce la parte non contrattile, senza aggiungere strutture che producono forza.",
-    "Perché aumenta il numero di fibre, ma non il loro diametro.",
-    "Perché aumentano le proteine contrattili, ma diminuiscono i liquidi della fibra."
+    "Perché cresce la quantità di fibre, ma ciascuna conserva le proprie dimensioni.",
+    "Perché cresce la quantità di proteine contrattili, ma diminuisce quella dei liquidi."
    ],
    "answer": 1,
    "why": "Liquidi e organelli occupano spazio, ma non si contraggono come actina e miosina. Più volume non significa necessariamente più capacità contrattile."
@@ -123,9 +123,9 @@
    "line": 3,
    "question": "Secondo una delle ipotesi, come può il glicogeno aumentare il volume della fibra?",
    "options": [
-    "Fa aumentare il numero di fibre senza ingrandire quelle esistenti.",
-    "Fa allungare la fibra aggiungendo direttamente sarcomeri in serie.",
-    "Fa crescere la fibra aumentando direttamente le proteine contrattili.",
+    "Quando si accumula, stimola la formazione di nuove miofibrille senza modificare l’idratazione.",
+    "Quando si accumula, favorisce l’aggiunta di sarcomeri in serie e allunga le miofibrille.",
+    "Quando si accumula, favorisce la produzione di organelli senza modificare l’idratazione.",
     "Quando si accumula, trattiene acqua e può aumentare temporaneamente il volume."
    ],
    "answer": 3,
@@ -137,9 +137,9 @@
    "question": "È fondato dire che un metodo di allenamento faccia crescere soltanto il sarcoplasma?",
    "options": [
     "No: probabilmente le due componenti crescono insieme, anche a velocità diverse.",
-    "Sì: se la forza cambia poco, è cresciuto soltanto il sarcoplasma.",
-    "Sì: basta scegliere un metodo che aumenti le riserve di glicogeno.",
-    "No: le due componenti devono sempre aumentare alla stessa velocità."
+    "No: le due componenti crescono insieme e devono sempre farlo alla stessa velocità.",
+    "No: la componente non contrattile può aumentare solo per variazioni dell’alimentazione.",
+    "No: gli aumenti stabili riguardano le miofibrille, mentre la componente non contrattile resta invariata."
    ],
    "answer": 0,
    "why": "Non ci sono prove convincenti che i due tipi di crescita avvengano separatamente. Crescere insieme, però, non significa crescere nella stessa proporzione."
@@ -149,10 +149,10 @@
    "line": 3,
    "question": "Come possono le cellule satellite aiutare una fibra muscolare a crescere mentre si rimodella?",
    "options": [
-    "Le trasferiscono glicogeno, così può trattenere più acqua.",
-    "Aumentano il lavoro dei nuclei senza aggiungerne di nuovi.",
+    "Le trasferiscono glicogeno, aumentando la quantità di acqua che può trattenere.",
+    "Le inviano segnali che rendono i nuclei esistenti più attivi, senza donarne altri.",
     "Le donano nuclei, aumentando la capacità di produrre proteine contrattili.",
-    "La dividono in due, così ciascuna metà può crescere."
+    "Le cedono proteine contrattili già assemblate, senza trasferire materiale nucleare."
    ],
    "answer": 2,
    "why": "Con nuclei aggiuntivi, una fibra che sta diventando più grande può sostenere la produzione di proteine necessarie alla crescita."
@@ -162,10 +162,10 @@
    "line": 5,
    "question": "Perché una fibra muscolare che continua a ingrandirsi può aver bisogno di nuovi nuclei?",
    "options": [
-    "Perché i nuclei presenti perdono la loro funzione appena inizia la crescita.",
+    "Perché ogni nucleo può sostenere soltanto la produzione iniziale di proteine.",
     "Perché ogni nucleo può gestire solo una quantità limitata di sarcoplasma.",
-    "Perché ciascun nucleo può controllare soltanto i sarcomeri disposti in serie.",
-    "Perché un nucleo può sostenere la crescita solo dopo la divisione della fibra."
+    "Perché ogni nucleo può controllare i sarcomeri in serie, ma non quelli in parallelo.",
+    "Perché ogni nucleo può sostenere la crescita soltanto dopo la divisione cellulare."
    ],
    "answer": 1,
    "why": "Se aumenta il volume che la fibra deve gestire, i nuclei già presenti possono non bastare a sostenere un’ulteriore crescita."
@@ -175,9 +175,9 @@
    "line": 9,
    "question": "Per chi potrebbero contare di più i nuclei donati dalle cellule satellite?",
    "options": [
-    "Per un principiante, perché le fibre piccole hanno subito bisogno di nuovi nuclei.",
-    "Per entrambi allo stesso modo, perché il bisogno non dipende dalla crescita raggiunta.",
-    "Per un principiante, perché nelle fibre allenate i nuclei esistenti bastano sempre.",
+    "Per chi è appena agli inizi e ha ancora fibre relativamente piccole.",
+    "Per chi è alle prime sedute e deve avviare la crescita iniziale.",
+    "Per chi è poco allenato e riprende dopo un lungo periodo senza carichi.",
     "Per chi è già ben allenato e vuole far crescere ancora le fibre."
    ],
    "answer": 3,
@@ -189,9 +189,9 @@
    "question": "Quale processo descrive l’ipotesi dell’iperplasia muscolare?",
    "options": [
     "Le fibre si dividono e il loro numero aumenta.",
-    "Le fibre si ingrandiscono e il loro numero resta stabile.",
-    "Le fibre si allungano aggiungendo sarcomeri una dopo l’altro.",
-    "Le fibre ricevono nuclei aggiuntivi senza dividersi."
+    "Le fibre si ingrandiscono senza aumentare di numero.",
+    "Le fibre si allungano aggiungendo sarcomeri in serie.",
+    "Le fibre si arricchiscono di nuclei senza dividersi."
    ],
    "answer": 0,
    "why": "L’iperplasia riguarda quante fibre ci sono. Una fibra che si divide ne aumenta il numero; una fibra che si ingrandisce resta una sola."
@@ -201,10 +201,10 @@
    "line": 1,
    "question": "Se una fibra si dividesse in due senza ingrandirsi prima, quale cambiamento indicherebbe iperplasia?",
    "options": [
-    "Il diametro delle fibre cambierebbe, ma il loro numero resterebbe stabile.",
-    "Il numero di nuclei aumenterebbe, ma la fibra resterebbe una sola.",
+    "Il diametro delle fibre aumenterebbe, anche con un conteggio invariato.",
+    "Il numero di nuclei aumenterebbe, anche con un conteggio stabile delle fibre.",
     "Il numero di fibre aumenterebbe, anche senza ingrossare quella iniziale.",
-    "Il numero di sarcomeri in serie aumenterebbe, allungando la fibra iniziale."
+    "Il numero di sarcomeri aumenterebbe, anche mantenendo lo stesso numero di fibre."
    ],
    "answer": 2,
    "why": "La divisione cambierebbe il conteggio delle fibre. Non occorre che la fibra di partenza cresca di diametro per parlare di iperplasia."
@@ -214,10 +214,10 @@
    "line": 3,
    "question": "Quale osservazione distingue l’ipertrofia delle fibre dall’iperplasia?",
    "options": [
-    "Nell’ipertrofia le fibre aumentano di numero; nell’iperplasia aumentano di diametro.",
+    "Nell’ipertrofia aumenta il numero di fibre; nell’iperplasia ogni fibra si ingrandisce.",
     "Nell’ipertrofia ogni fibra si ingrandisce; nell’iperplasia aumenta il numero di fibre.",
-    "Nell’ipertrofia aumentano i liquidi; nell’iperplasia aumentano le proteine contrattili.",
-    "Nell’ipertrofia le fibre si allungano; nell’iperplasia si allargano."
+    "Nell’ipertrofia aumenta il volume dei liquidi; nell’iperplasia aumentano le proteine contrattili.",
+    "Nell’ipertrofia ogni fibra si allunga; nell’iperplasia ogni fibra aumenta di diametro."
    ],
    "answer": 1,
    "why": "Un muscolo più grande non dice da solo cosa sia cambiato: per distinguere i due fenomeni occorre separare la dimensione delle fibre dal loro numero."
@@ -227,9 +227,9 @@
    "line": 7,
    "question": "Che cosa suggeriscono le ricerche sull’iperplasia nell’uomo dopo l’allenamento di forza?",
    "options": [
-    "È dimostrata nell’uomo quanto negli animali, specialmente con carichi elevati.",
-    "È la spiegazione principale della crescita quando l’intensità è alta.",
-    "È esclusa nell’uomo, perché la crescita dipende soprattutto dall’ipertrofia.",
+    "È dimostrata con carichi elevati, con prove altrettanto solide quanto negli animali.",
+    "È possibile ad alta intensità e spiega la maggior parte della crescita con carichi elevati.",
+    "È esclusa anche ad alta intensità: la crescita è attribuibile soltanto all’ipertrofia.",
     "È possibile ad alta intensità, ma l’ipertrofia resta la spiegazione principale."
    ],
    "answer": 3,
@@ -241,9 +241,9 @@
    "question": "Se l’iperplasia avvenisse nell’uomo, quanto peserebbe sulla dimensione totale del muscolo secondo la stima della lezione?",
    "options": [
     "Al più circa il 5–10%, quindi sarebbe un contributo secondario.",
-    "Circa il 20–30%, quindi spiegherebbe una parte consistente della dimensione.",
-    "Circa la metà, quindi peserebbe quanto la crescita delle fibre esistenti.",
-    "Circa il 5–10% a bassa intensità, ma sarebbe predominante ad alta intensità."
+    "Al più circa il 20–30%, quindi sarebbe un contributo consistente.",
+    "Al più circa il 45–50%, quindi sarebbe un contributo quasi pari all’ipertrofia.",
+    "Al più circa il 60–70%, quindi sarebbe un contributo predominante."
    ],
    "answer": 0,
    "why": "La stima è condizionale, non una quota dimostrata nell’uomo: serve a capire quanto resterebbe dominante l’ingrossamento delle fibre già presenti."
@@ -253,10 +253,10 @@
    "line": 1,
    "question": "Che cosa rende un ormone endocrino un messaggero per altre cellule?",
    "options": [
-    "Viene prodotto nella cellula bersaglio e resta al suo interno.",
-    "Viene trasmesso come impulso nervoso direttamente alla cellula bersaglio.",
+    "Viene prodotto da cellule nervose e trasmesso alle destinatarie tramite le sinapsi.",
+    "Viene prodotto da cellule ghiandolari e secreto nei dotti fino al tessuto bersaglio.",
     "Viene prodotto da cellule endocrine e rilasciato nel sangue come segnale chimico.",
-    "Viene accumulato nel sangue come riserva energetica per la cellula bersaglio."
+    "Viene prodotto da cellule bersaglio e trattenuto al loro interno come segnale locale."
    ],
    "answer": 2,
    "why": "Il rilascio nel sangue permette al segnale chimico di raggiungere cellule anche lontane dal luogo in cui è stato prodotto."
@@ -266,10 +266,10 @@
    "line": 3,
    "question": "Che cosa succede a un ormone endocrino dopo il rilascio nel sangue?",
    "options": [
-    "Agisce allo stesso modo su tutte le cellule che incontra nel sangue.",
+    "Raggiunge le cellule dei tessuti e agisce su tutte allo stesso modo.",
     "Raggiunge le cellule bersaglio e ne regola l’attività.",
-    "Resta nel sangue, dove svolge la sua funzione senza raggiungere le cellule.",
-    "Torna alla ghiandola che l’ha prodotto e agisce soltanto lì."
+    "Raggiunge le cellule bersaglio e funge da riserva energetica.",
+    "Raggiunge le cellule della ghiandola produttrice e agisce solo lì."
    ],
    "answer": 1,
    "why": "Il sangue è la via di trasporto. La risposta si produce nelle cellule bersaglio, che possono riconoscere il segnale."
@@ -279,9 +279,9 @@
    "line": 7,
    "question": "Che cosa significa dire che un ormone ha un effetto anabolico sul muscolo?",
    "options": [
-    "Favorisce l’uso delle proteine muscolari come fonte di energia.",
-    "Favorisce la contrazione senza intervenire nei processi di costruzione.",
-    "Favorisce l’aumento dei liquidi senza contribuire alla riparazione delle fibre.",
+    "Favorisce i processi che degradano le proteine a scopo energetico.",
+    "Favorisce i processi che attivano la contrazione senza rimodellare il tessuto.",
+    "Favorisce i processi che accumulano liquidi senza riparare il tessuto.",
     "Favorisce i processi che costruiscono e riparano il tessuto muscolare."
    ],
    "answer": 3,
@@ -293,9 +293,9 @@
    "question": "Come possono gli ormoni anabolici cambiare la quantità di proteine prodotte nella fibra?",
    "options": [
     "Regolano la sintesi proteica attraverso la loro attività e concentrazione.",
-    "Trasportano proteine già costruite dal sangue fino alla fibra.",
-    "Aumentano il volume della fibra senza agire sulla produzione di proteine.",
-    "Agiscono sulla degradazione, lasciando invariata la sintesi proteica."
+    "Regolano la consegna al tessuto muscolare, trasferendovi polipeptidi già assemblati.",
+    "Regolano la ritenzione idrica senza modificare la produzione proteica.",
+    "Regolano la degradazione proteica senza influenzare la sintesi."
    ],
    "answer": 0,
    "why": "Gli ormoni sono segnali, non materiale da costruzione: modificano l’attività dei processi con cui la cellula produce le proprie proteine."
@@ -305,10 +305,10 @@
    "line": 3,
    "question": "Perché l’IGF è descritto come anabolico e anticatabolico?",
    "options": [
-    "Aumenta la sintesi proteica e accelera anche la degradazione.",
-    "Riduce la sintesi proteica e rallenta anche la degradazione.",
+    "Favorisce la sintesi proteica e accelera anche la degradazione delle proteine.",
+    "Favorisce la degradazione delle proteine e rallenta la sintesi proteica.",
     "Favorisce la sintesi proteica e rallenta la degradazione delle proteine.",
-    "Aumenta la disponibilità di glucosio senza cambiare il ricambio proteico."
+    "Favorisce la disponibilità di glucosio senza modificare il ricambio proteico."
    ],
    "answer": 2,
    "why": "Il bilancio proteico ha due lati: il muscolo può accumulare proteine sia producendone di più sia degradandone di meno."
@@ -318,10 +318,10 @@
    "line": 7,
    "question": "Quale organo può produrre IGF e immetterlo nel sangue perché raggiunga altri tessuti?",
    "options": [
-    "Il pancreas, perché l’IGF somiglia all’insulina.",
+    "Il pancreas, che secerne l’IGF insieme all’insulina.",
     "Il fegato, che può rilasciare l’IGF in circolo.",
-    "L’ipofisi, perché lo stimolo del GH equivale alla produzione di IGF.",
-    "Il muscolo, perché tutto l’IGF in circolo deriva dalla contrazione."
+    "Il rene, che produce la maggior parte dell’IGF circolante.",
+    "Il muscolo, che fornisce tutto l’IGF circolante."
    ],
    "answer": 1,
    "why": "Il fegato è una fonte di IGF circolante. La somiglianza con l’insulina non implica che i due segnali siano prodotti dallo stesso organo."
@@ -331,9 +331,9 @@
    "line": 9,
    "question": "Oltre al fegato, quale tessuto può produrre IGF in risposta all’esercizio e al sovraccarico?",
    "options": [
-    "Il pancreas, aumentando la produzione di insulina durante lo sforzo.",
-    "Il sangue, producendo il segnale mentre lo trasporta alle fibre.",
-    "L’ipofisi, perché lo stimolo meccanico agisce soltanto attraverso il GH.",
+    "Il pancreas stesso, in risposta alla richiesta energetica.",
+    "Il sangue stesso, in risposta alle contrazioni ripetute.",
+    "Il midollo osseo stesso, in risposta alla pressione meccanica.",
     "Il muscolo stesso, in risposta all’esercizio sotto carico."
    ],
    "answer": 3,
@@ -345,9 +345,9 @@
    "question": "Come differiscono i livelli di testosterone circolante tra maschi e femmine secondo la lezione?",
    "options": [
     "Il testosterone è presente in entrambi, ma può essere fino a dieci volte più alto nei maschi.",
-    "Il testosterone è presente in entrambi, ma può essere fino a dieci volte più alto nelle femmine.",
-    "I livelli sono simili e cambia soltanto la risposta del muscolo al testosterone.",
-    "I livelli di base sono simili e differiscono soltanto dopo l’allenamento."
+    "Il testosterone è presente in entrambi, ma può essere fino a dieci volte più alto nelle donne.",
+    "Il testosterone è presente in entrambi, ma ha concentrazioni simili e cambia solo l’effetto sui muscoli.",
+    "Il testosterone è presente in entrambi, ma le concentrazioni differiscono solo dopo uno sforzo."
    ],
    "answer": 0,
    "why": "Definirlo un ormone sessuale non lo rende esclusivo dei maschi: la differenza descritta riguarda la concentrazione nel sangue."
@@ -357,10 +357,10 @@
    "line": 3,
    "question": "Come può il testosterone contribuire alle differenze di massa muscolare dopo la pubertà?",
    "options": [
-    "Contribuisce soltanto se aumenta subito dopo ogni seduta di forza.",
-    "Contribuisce alla forza nervosa, ma non alla crescita del muscolo.",
+    "I livelli più alti nei maschi favoriscono la crescita solo durante gli sforzi intensi.",
+    "I livelli più alti nei maschi migliorano i segnali nervosi senza far crescere le fibre.",
     "I livelli più alti nei maschi favoriscono la crescita anche senza esercizio.",
-    "I livelli più alti spiegano le differenze soltanto quando il carico è identico."
+    "I livelli più alti nei maschi favoriscono la crescita solo negli allenamenti con carichi identici."
    ],
    "answer": 2,
    "why": "L’azione anabolica del testosterone non richiede una seduta per manifestarsi. I livelli diversi possono quindi spiegare in parte le differenze di massa."
@@ -370,10 +370,10 @@
    "line": 5,
    "question": "Se il testosterone può favorire la crescita anche a riposo, perché ha senso allenare la forza?",
    "options": [
-    "Perché il carico sostituisce gli effetti del testosterone sulla crescita.",
+    "Perché l’allenamento di forza può sostituire gli effetti anabolici del testosterone.",
     "Perché l’allenamento di forza può amplificare gli effetti anabolici del testosterone.",
-    "Perché il testosterone agisce sul muscolo soltanto durante la contrazione.",
-    "Perché il carico aiuta la forza, ma non cambia l’effetto anabolico."
+    "Perché l’allenamento di forza rende attivo un ormone che altrimenti non agisce sul muscolo.",
+    "Perché l’allenamento di forza migliora i segnali nervosi senza modificare gli effetti anabolici."
    ],
    "answer": 1,
    "why": "Il fatto che l’ormone possa agire da solo non rende il carico superfluo: lo stimolo dell’allenamento può rafforzarne gli effetti."
@@ -383,9 +383,9 @@
    "line": 7,
    "question": "Quale combinazione descrive gli effetti del testosterone sul muscolo e sul sistema nervoso?",
    "options": [
-    "Aumenta sintesi e degradazione proteica, migliorando anche la trasmissione nervosa.",
-    "Riduce la degradazione proteica, senza effetti sulla sintesi o sui segnali nervosi.",
-    "Migliora la trasmissione nervosa, senza influenzare il bilancio proteico del muscolo.",
+    "Aumenta la sintesi, accelera la degradazione e può migliorare la trasmissione nervosa.",
+    "Aumenta la sintesi, lascia invariata la degradazione e rallenta la trasmissione nervosa.",
+    "Aumenta la sintesi, riduce la degradazione e lascia invariata la trasmissione nervosa.",
     "Aumenta la sintesi, riduce la degradazione e può migliorare la trasmissione nervosa."
    ],
    "answer": 3,
@@ -397,9 +397,9 @@
    "question": "Come potrebbe l’effetto del testosterone sui segnali nervosi favorire la crescita muscolare durante l’allenamento?",
    "options": [
     "Può favorire più forza e carichi maggiori, aumentando lo stimolo allenante.",
-    "Può aumentare la forza senza che cambi lo stimolo ricevuto dal muscolo.",
-    "Può ridurre la necessità di carico, perché il segnale nervoso sostituisce il sovraccarico.",
-    "Può aiutare a sollevare di più soltanto se prima aumenta il diametro muscolare."
+    "Può favorire più forza, ma senza modificare lo stimolo ricevuto dal muscolo.",
+    "Può sostituire il sovraccarico, producendo lo stesso stimolo con carichi minimi.",
+    "Può consentire carichi maggiori, ma solo se prima aumenta il diametro delle fibre."
    ],
    "answer": 0,
    "why": "Una migliore trasmissione nervosa può aiutare a produrre più forza. Questo può consentire di usare un carico maggiore e dare al muscolo più stimolo."
@@ -409,10 +409,10 @@
    "line": 1,
    "question": "Perché dire che il cortisolo è catabolico non basta a spiegarne la funzione?",
    "options": [
-    "Perché serve soprattutto ad aumentare le proteine contrattili quando il glicogeno è basso.",
-    "Perché agisce solo sulla riparazione delle fibre dopo uno sforzo intenso.",
+    "Perché regola soprattutto l’accumulo di proteine contrattili quando scarseggia il glicogeno.",
+    "Perché regola soprattutto l’ingresso di glucosio nelle fibre dopo i pasti.",
     "Perché regola il metabolismo dei carboidrati in relazione alle riserve di glicogeno.",
-    "Perché regola i carboidrati soltanto quando tutte le riserve di glicogeno sono piene."
+    "Perché regola l’uso dei carboidrati soltanto con riserve di glicogeno piene."
    ],
    "answer": 2,
    "why": "La degradazione proteica è uno dei possibili effetti sul muscolo. La funzione metabolica del cortisolo aiuta a capire perché il corpo mobilita altre risorse."
@@ -422,10 +422,10 @@
    "line": 3,
    "question": "Quando le riserve di glicogeno sono basse, perché l’organismo può degradare proteine?",
    "options": [
-    "Per evitare che il glucosio nel sangue salga una volta terminato lo sforzo.",
+    "Per ridurre la quantità di glucosio nel sangue e limitarne l’uso come fonte energetica.",
     "Per ottenere risorse energetiche e contribuire a mantenere stabile il glucosio nel sangue.",
-    "Per aumentare la sintesi di proteine contrattili prima di ripristinare il glicogeno.",
-    "Per conservare il glucosio nel sangue smettendo di usare altre fonti energetiche."
+    "Per accelerare la costruzione di filamenti contrattili prima di ripristinare le scorte energetiche.",
+    "Per accumulare aminoacidi nelle fibre senza usarli per sostenere la glicemia."
    ],
    "answer": 1,
    "why": "Quando le scorte di carboidrati scarseggiano, il corpo può ricavare da altre fonti il materiale necessario a sostenere l’energia e la glicemia."
@@ -435,9 +435,9 @@
    "line": 11,
    "question": "Il rapporto testosterone/cortisolo basta per valutare i cambiamenti di forza e potenza di un calciatore?",
    "options": [
-    "Sì, se misurato dopo ogni seduta, perché indica gli adattamenti a lungo termine.",
-    "Sì, perché il bilancio tra i due ormoni riflette direttamente forza e potenza.",
-    "Sì per la forza, anche se il rapporto è poco utile per la potenza.",
+    "No, il rapporto è utile soltanto come indicatore della crescita delle fibre.",
+    "No, il rapporto diventa affidabile soltanto dopo una seduta molto intensa.",
+    "No, il rapporto riflette bene la prestazione esplosiva ma non quella massimale.",
     "No, il rapporto ha mostrato un’utilità limitata nel seguire quei cambiamenti."
    ],
    "answer": 3,
@@ -449,9 +449,9 @@
    "question": "Oltre all’esercizio, durante quale attività quotidiana si osserva un importante rilascio di GH?",
    "options": [
     "Durante il sonno, quando il GH viene rilasciato a impulsi.",
-    "Durante i pasti, quando aumenta il glucosio nel sangue.",
-    "Durante il riposo da svegli, più che durante il sonno.",
-    "Durante il digiuno, perché il sonno mantiene stabile la secrezione."
+    "Durante il pasto, quando il rialzo glicemico innesca la secrezione pulsatile.",
+    "Durante il riposo da svegli, quando la secrezione raggiunge il massimo.",
+    "Durante il risveglio, quando iniziano i primi impulsi notturni."
    ],
    "answer": 0,
    "why": "Il GH non è rilasciato a ritmo costante: il sonno è uno dei momenti in cui si verificano impulsi importanti."
@@ -461,10 +461,10 @@
    "line": 5,
    "question": "Oltre a favorire l’assorbimento di aminoacidi, come può il GH contribuire all’ipertrofia?",
    "options": [
-    "Sostituendo l’IGF nella regolazione della sintesi proteica.",
-    "Aumentando soprattutto la scomposizione dei grassi nel muscolo.",
+    "Sostituendo l’IGF, che diventa superfluo nella regolazione della sintesi proteica.",
+    "Accelerando la scomposizione dei grassi, che fornisce direttamente nuove proteine.",
     "Stimolando l’IGF, che a sua volta favorisce la sintesi proteica.",
-    "Inibendo l’IGF affinché l’azione anabolica del GH duri di più."
+    "Inibendo l’IGF, che altrimenti frenerebbe la sintesi proteica."
    ],
    "answer": 2,
    "why": "Il GH può agire attraverso un secondo segnale: l’IGF favorisce l’uso degli aminoacidi da parte delle cellule bersaglio per produrre proteine."
@@ -474,10 +474,10 @@
    "line": 9,
    "question": "Se il GHRH stimola la secrezione di GH, quale segnale la frena?",
    "options": [
-    "Il GHRH, che stimola il GH all’inizio e poi lo blocca.",
+    "La prolattina, altro ormone ipofisario, che blocca la secrezione di GH.",
     "La somatostatina, detta GHIH, che inibisce la secrezione di GH.",
-    "L’IGF, perché favorire la sintesi proteica equivale a bloccare il GH.",
-    "Il GH stesso, perché una secrezione a impulsi non richiede altri regolatori."
+    "La grelina, un ormone gastrico, che riduce la secrezione di GH.",
+    "La vasopressina, detta ADH, che blocca la secrezione di GH."
    ],
    "answer": 1,
    "why": "Nello schema i due regolatori hanno effetti opposti: il GHRH promuove il rilascio di GH, mentre la somatostatina lo limita."
@@ -487,9 +487,9 @@
    "line": 1,
    "question": "Da quale organo viene rilasciata l’insulina che poi raggiunge il muscolo?",
    "options": [
-    "Dal fegato, che la libera nel sangue insieme al glucosio.",
-    "Dal muscolo, che la produce localmente quando lavora sotto carico.",
-    "Dall’ipofisi, che la rilascia allo stesso modo dell’ormone della crescita.",
+    "Dal fegato, che la immette nel sangue in risposta agli aumenti di glicemia.",
+    "Dall’intestino, che la immette nel sangue in risposta ai nutrienti del pasto.",
+    "Dall’ipofisi, che la immette nel sangue insieme agli altri ormoni ipofisari.",
     "Dal pancreas, che la immette nel sangue diretto ai tessuti bersaglio."
    ],
    "answer": 3,
@@ -501,9 +501,9 @@
    "question": "Quali cellule del pancreas producono l’insulina che raggiunge le fibre muscolari?",
    "options": [
     "Le cellule beta delle isole di Langerhans, che la rilasciano nel sangue.",
-    "Tutte le cellule delle isole di Langerhans, indipendentemente dal loro tipo.",
-    "Le cellule pancreatiche esterne alle isole, che la rilasciano nel sangue.",
-    "Le cellule della parete dei vasi sanguigni che attraversano le isole."
+    "Le cellule alfa delle isole di Langerhans, che la rilasciano nel sangue.",
+    "Le cellule delta delle isole di Langerhans, che la rilasciano nel sangue.",
+    "Le cellule PP delle isole di Langerhans, che la rilasciano nel sangue."
    ],
    "answer": 0,
    "why": "Le isole ospitano le cellule beta, che producono l’ormone. I vasi lo trasportano, ma non sono il luogo in cui viene prodotto."
@@ -513,10 +513,10 @@
    "line": 5,
    "question": "Qual è la funzione principale dell’insulina quando raggiunge i tessuti insieme al glucosio?",
    "options": [
-    "Mobilitare subito le riserve di glucosio per riportarlo nel sangue.",
-    "Indirizzare tutto il glucosio all’uso immediato, evitando di accumulare riserve.",
+    "Favorire l’uscita del glucosio dalle cellule e aumentarne i livelli nel sangue.",
+    "Favorire l’uso immediato del glucosio e bloccarne l’accumulo come riserva.",
     "Favorire l’uso o l’immagazzinamento del glucosio e regolarne i livelli nel sangue.",
-    "Immagazzinare tutto il glucosio, impedendo ai tessuti di usarlo subito."
+    "Favorire l’accumulo del glucosio e impedirne l’uso come fonte energetica."
    ],
    "answer": 2,
    "why": "Il glucosio può essere usato subito o conservato. Favorendo entrambe le destinazioni, l’insulina aiuta a regolare quanto glucosio resta nel sangue."
@@ -526,10 +526,10 @@
    "line": 9,
    "question": "Dopo il pasto di un calciatore, quali destinazioni può avere il glucosio grazie all’insulina?",
    "options": [
-    "Viene usato tutto subito, lasciando all’allenamento il compito di creare riserve.",
+    "Una parte resta in circolo e un’altra viene liberata dalle riserve.",
     "Una parte fornisce energia subito e un’altra viene conservata per dopo.",
-    "Viene conservato tutto fino all’allenamento, senza alimentare il fabbisogno immediato.",
-    "Una parte viene usata e il resto rimane nel sangue fino all’allenamento."
+    "Una parte diventa una riserva e un’altra viene espulsa senza fornire energia.",
+    "Una parte fornisce energia e un’altra resta stabilmente nel sangue come riserva."
    ],
    "answer": 1,
    "why": "Il pasto fornisce glucosio sia per il fabbisogno immediato sia per le riserve. Non serve lasciarlo nel sangue in attesa dell’allenamento."
@@ -539,9 +539,9 @@
    "line": 11,
    "question": "Prima di studiarne gli effetti sulle proteine, quale funzione di base dell’insulina bisogna tenere a mente?",
    "options": [
-    "Impedisce al muscolo di usare il glucosio per conservarlo nel sangue.",
-    "Trasforma il glucosio direttamente in proteine da usare durante lo sforzo.",
-    "Fa usare il glucosio subito, mentre la regolazione della glicemia è indipendente.",
+    "Aiuta a trasferire il glucosio dalle riserve al sangue e ad aumentarne la concentrazione.",
+    "Aiuta a usare subito il glucosio e a impedirne l’accumulo come riserva.",
+    "Aiuta a conservare il glucosio nel sangue e a limitarne l’ingresso nelle cellule.",
     "Aiuta a usare o conservare il glucosio e a regolarne la concentrazione nel sangue."
    ],
    "answer": 3,
@@ -553,9 +553,9 @@
    "question": "Su quale fase della sintesi proteica agisce l’insulina secondo la lezione?",
    "options": [
     "Sulla traduzione, la fase in cui la cellula assembla la proteina.",
-    "Sulla trascrizione, la fase in cui vengono copiate le istruzioni.",
-    "Sulla degradazione, che è la fase finale della costruzione proteica.",
-    "Sulla riparazione, dopo che la proteina è già stata assemblata."
+    "Sulla trascrizione, la fase in cui la cellula copia le istruzioni in RNA.",
+    "Sulla maturazione, la fase in cui la cellula modifica l’RNA messaggero.",
+    "Sulla replicazione, la fase in cui la cellula duplica il DNA."
    ],
    "answer": 0,
    "why": "L’effetto descritto riguarda l’uso delle istruzioni per assemblare proteine, non la copia delle istruzioni né lo smontaggio delle proteine già prodotte."
@@ -565,10 +565,10 @@
    "line": 2,
    "question": "Che cosa avviene durante la traduzione nella sintesi proteica?",
    "options": [
-    "La cellula copia le istruzioni senza costruire ancora la proteina.",
-    "La cellula smonta la proteina per recuperarne i componenti.",
+    "La cellula copia le istruzioni genetiche in una molecola di RNA.",
+    "La cellula smonta le proteine per recuperarne gli aminoacidi.",
     "La cellula assembla la proteina seguendo le istruzioni disponibili.",
-    "La cellula trasporta la proteina già assemblata fino alla fibra."
+    "La cellula modifica la proteina dopo averne assemblato la catena."
    ],
    "answer": 2,
    "why": "Copiare un’istruzione e usarla sono due passaggi diversi: la traduzione è quello in cui l’istruzione viene usata per produrre la proteina."
@@ -578,10 +578,10 @@
    "line": 3,
    "question": "Perché favorire la traduzione può aiutare il muscolo ad aumentare di massa?",
    "options": [
-    "Perché la traduzione rallenta lo smontaggio delle proteine già presenti.",
+    "Perché la cellula può rallentare lo smontaggio delle proteine già presenti.",
     "Perché la cellula può produrre più proteine da aggiungere alla fibra.",
-    "Perché la traduzione fa trattenere più acqua senza modificare le proteine.",
-    "Perché la traduzione aumenta direttamente il numero delle fibre."
+    "Perché la cellula può trattenere più acqua senza produrre nuove proteine.",
+    "Perché la cellula può dividersi e formare nuove fibre contrattili."
    ],
    "answer": 1,
    "why": "Se la cellula assembla più proteine, può accumularne di più, purché la produzione superi la quantità che viene degradata."
@@ -591,9 +591,9 @@
    "line": 9,
    "question": "Perché conoscere gli ormoni principali non basta a prevedere con precisione la crescita muscolare?",
    "options": [
-    "Perché ogni ormone agisce isolatamente e va valutato in un momento diverso.",
-    "Perché gli effetti dipendono soltanto da quale ormone è più abbondante.",
-    "Perché i ruoli restano sconosciuti finché non si misurano tutti gli ormoni.",
+    "Perché le vie di segnalazione degli ormoni agiscono indipendentemente l’una dall’altra.",
+    "Perché le differenze dipendono solo dall’ormone presente in maggiore concentrazione.",
+    "Perché le concentrazioni a riposo sono l’unico dato utile per stimare l’adattamento.",
     "Perché le interazioni tra ormoni e vie di segnalazione sono complesse e non del tutto chiarite."
    ],
    "answer": 3,
@@ -605,9 +605,9 @@
    "question": "Quale ruolo degli ormoni nel bilancio proteico muscolare è chiaro nonostante la complessità dei loro segnali?",
    "options": [
     "Possono influenzare sintesi e degradazione proteica, senza essere l’unico fattore.",
-    "Possono influenzare la sintesi, mentre la degradazione non risponde agli ormoni.",
-    "Possono influenzare la degradazione, mentre la sintesi risponde soltanto al carico.",
-    "Possono determinare da soli il bilancio proteico, indipendentemente dall’allenamento."
+    "Possono influenzare solo la sintesi, mentre la degradazione resta invariata.",
+    "Possono influenzare solo la degradazione, mentre la sintesi dipende dal carico.",
+    "Possono influenzare sintesi e degradazione in modo indipendente dall’allenamento."
    ],
    "answer": 0,
    "why": "Il muscolo accumula proteine in base alla differenza tra quanto costruisce e quanto degrada. I segnali ormonali possono intervenire su entrambi i processi."
@@ -617,10 +617,10 @@
    "line": 1,
    "question": "Che cosa si intende per risposta ormonale acuta a una singola seduta di forza?",
    "options": [
-    "Un aumento stabile dei livelli ormonali che si sviluppa dopo mesi.",
-    "Una variazione del volume muscolare che si consolida dopo la seduta.",
+    "Un possibile aumento stabile dei livelli endocrini, visibile solo dopo mesi.",
+    "Un possibile aumento del volume del muscolo, visibile subito dopo lo sforzo.",
     "Un possibile aumento breve di testosterone, IGF e GH dopo l’esercizio.",
-    "Una crescita graduale della forza dovuta a livelli ormonali di base più alti."
+    "Un possibile aumento graduale della capacità del muscolo di generare tensione."
    ],
    "answer": 2,
    "why": "Acuta descrive la scala temporale: si misura un cambiamento transitorio dopo una seduta, non il livello abituale né l’adattamento dopo settimane."
@@ -630,10 +630,10 @@
    "line": 3,
    "question": "Che cosa prevede l’ipotesi ormonale per chi ha un picco anabolico maggiore dopo l’allenamento?",
    "options": [
-    "Che aumenterà di più il volume subito dopo la seduta, ma non nel tempo.",
+    "Che aumenterà di più il volume subito, ma non quello a lungo termine.",
     "Che aumenterà di più la massa muscolare nel lungo periodo.",
-    "Che avrà livelli ormonali di base più alti, indipendentemente dalla crescita.",
-    "Che aumenterà la forza nel tempo, senza differenze nella massa muscolare."
+    "Che aumenterà di più il livello basale di testosterone, ma non la massa.",
+    "Che aumenterà di più la forza, senza differenze nella massa muscolare."
    ],
    "answer": 1,
    "why": "L’ipotesi collega l’entità di una risposta breve nel sangue a un risultato diverso e più lento: l’accumulo di massa muscolare dopo molte sedute."
@@ -643,9 +643,9 @@
    "line": 9,
    "question": "Perché non conviene scegliere gli esercizi soltanto per massimizzare il picco ormonale?",
    "options": [
-    "Perché un picco maggiore conta soltanto se avviene durante la seduta.",
-    "Perché gli esercizi che producono picchi elevati riducono necessariamente la crescita.",
-    "Perché un picco piccolo dimostra che la seduta ha stimolato meglio il muscolo.",
+    "Perché il picco acuto favorirebbe la crescita solo se raggiunto prima dell’ultima serie.",
+    "Perché il picco acuto rallenterebbe la sintesi proteica ogni volta che supera i livelli di riposo.",
+    "Perché il picco acuto favorirebbe la crescita solo dopo sedute con carichi molto elevati.",
     "Perché il picco acuto potrebbe avere effetti minimi o nulli sull’ipertrofia."
    ],
    "answer": 3,
@@ -657,9 +657,9 @@
    "question": "Come era allenato il braccio nella condizione a basso stimolo ormonale dello studio di West?",
    "options": [
     "Eseguiva soltanto il curl, senza aggiungere lavoro per le gambe.",
-    "Eseguiva il curl, ma soltanto dopo il lavoro per le gambe.",
-    "Non eseguiva curl e veniva confrontato con l’altro braccio allenato.",
-    "Eseguiva il curl con carichi più bassi rispetto all’altro braccio."
+    "Eseguiva soltanto il curl, con meno ripetizioni rispetto all’altra seduta.",
+    "Eseguiva soltanto il curl per la parte superiore, dopo il lavoro per le gambe.",
+    "Eseguiva soltanto il curl, con un carico inferiore rispetto all’altra seduta."
    ],
    "answer": 0,
    "why": "Il braccio riceveva comunque il proprio stimolo muscolare. Si ometteva il lavoro per le gambe usato nell’altra condizione per aumentare il picco ormonale."
@@ -669,10 +669,10 @@
    "line": 3,
    "question": "Come ottennero lo stimolo ormonale alto nello studio di West, mantenendo il curl per il braccio?",
    "options": [
-    "Aumentarono il carico del curl senza aggiungere altri esercizi.",
-    "Sostituirono il curl con esercizi per le gambe.",
+    "Aggiusero un secondo esercizio per il bicipite subito dopo il curl.",
+    "Aggiusero un lavoro di forza per il tronco subito dopo il curl.",
     "Aggiusero un lavoro di forza per le gambe subito dopo il curl.",
-    "Aggiusero altri curl per lo stesso braccio subito dopo il primo esercizio."
+    "Aggiusero un lavoro di forza per le gambe subito prima del curl."
    ],
    "answer": 2,
    "why": "Aggiungere lavoro per le gambe permetteva di aumentare il picco in circolo senza attribuirlo a più lavoro diretto per il bicipite."
@@ -682,10 +682,10 @@
    "line": 5,
    "question": "Perché nello studio di West si allenavano anche le gambe se la crescita misurata riguardava le braccia?",
    "options": [
-    "Per verificare se le gambe crescessero più delle braccia a parità di esercizio.",
+    "Per coinvolgere muscoli grandi e ridurre la risposta ormonale al curl.",
     "Per coinvolgere muscoli grandi e aumentare il picco ormonale dopo la seduta.",
-    "Per aumentare il carico diretto sul bicipite senza cambiare il curl.",
-    "Per ridurre il picco ormonale causato dal curl e isolare la crescita."
+    "Per coinvolgere muscoli grandi e aumentare il reclutamento del bicipite nel curl.",
+    "Per coinvolgere muscoli grandi e pareggiare la risposta ormonale delle due sedute."
    ],
    "answer": 1,
    "why": "Allenare i grandi muscoli delle gambe serviva a cambiare il segnale ormonale in circolo, mentre il confronto della crescita riguardava le braccia."
@@ -695,9 +695,9 @@
    "line": 7,
    "question": "Quale differenza ormonale osservarono West e colleghi tra curl da solo e curl seguito dal lavoro per le gambe?",
    "options": [
-    "Gli ormoni aumentarono allo stesso modo dopo entrambe le sedute.",
-    "Gli ormoni aumentarono significativamente solo dopo il curl da solo.",
-    "Gli ormoni rimasero quasi invariati in entrambe le condizioni.",
+    "Gli ormoni aumentarono in misura simile con le gambe e con il solo curl.",
+    "Gli ormoni aumentarono con il solo curl, ma cambiarono poco con le gambe.",
+    "Gli ormoni cambiarono poco in entrambe le condizioni sperimentali.",
     "Gli ormoni aumentarono significativamente con le gambe, ma cambiarono poco col solo curl."
    ],
    "answer": 3,
@@ -711,7 +711,7 @@
     "No, la circonferenza aumentò in modo simile nelle due condizioni.",
     "Sì, la circonferenza aumentò di più con lo stimolo ormonale alto.",
     "No, la circonferenza aumentò di più con lo stimolo ormonale basso.",
-    "No, perché nessuno dei due bracci aumentò di circonferenza."
+    "No, la circonferenza rimase sostanzialmente invariata in entrambe le condizioni."
    ],
    "answer": 0,
    "why": "Se il picco maggiore avesse favorito più crescita, i bracci avrebbero dovuto adattarsi diversamente. Invece non emerse una differenza significativa."
@@ -721,10 +721,10 @@
    "line": 1,
    "question": "Oltre all’ipertrofia con carichi diversi, quale relazione cercarono Morton e colleghi?",
    "options": [
-    "Quella tra livelli ormonali a riposo e scelta del carico da sollevare.",
-    "Quella tra numero di ripetizioni e durata della variazione del glucosio.",
+    "Quella tra livelli ormonali a riposo e cambiamenti nella composizione corporea e nella massa muscolare.",
+    "Quella tra picchi ormonali post-esercizio e durata del recupero della forza tra una seduta e la successiva.",
     "Quella tra picchi ormonali post-esercizio e cambiamenti nella composizione corporea e nella massa muscolare.",
-    "Quella tra aumento immediato della forza e produzione ormonale prima dell’allenamento."
+    "Quella tra variazioni del glucosio post-esercizio e cambiamenti nella composizione corporea e nella massa muscolare."
    ],
    "answer": 2,
    "why": "Oltre a confrontare i carichi, lo studio verificava se la risposta ormonale a breve termine fosse associata ai cambiamenti corporei osservati nel tempo."
@@ -734,9 +734,9 @@
    "line": 7,
    "question": "Che cosa resta valido sul ruolo degli ormoni anche se il contributo dei picchi acuti è incerto?",
    "options": [
-    "Gli ormoni contano per l’ipertrofia soltanto se salgono subito dopo l’esercizio.",
-    "Gli ormoni regolano la sintesi proteica, ma non contribuiscono alla crescita.",
-    "Gli ormoni favoriscono la crescita, quindi un picco più alto garantisce più massa.",
+    "Gli ormoni influenzano la sintesi; la crescita dipende solo dalla degradazione proteica.",
+    "Gli ormoni influenzano la crescita; la sintesi proteica non risponde ai loro segnali.",
+    "Gli ormoni influenzano sintesi e crescita; un picco più alto garantisce più massa.",
     "Gli ormoni influenzano sintesi e crescita; è il peso dei picchi a essere discusso."
    ],
    "answer": 3,
@@ -748,9 +748,9 @@
    "question": "Perché distinguere i livelli ormonali abituali dai picchi dopo una seduta?",
    "options": [
     "I livelli abituali influenzano la sintesi proteica; il contributo dei picchi resta incerto.",
-    "I livelli abituali contano soltanto se producono picchi più grandi a ogni seduta.",
-    "Livelli abituali e picchi sono intercambiabili, purché riguardino lo stesso ormone.",
-    "I picchi determinano la crescita, mentre i livelli abituali non influenzano la sintesi."
+    "I livelli abituali non incidono sulla sintesi proteica; sono i picchi a determinarla.",
+    "I livelli abituali contano solo come riferimento; l’aumento rispetto a essi predice la crescita.",
+    "I livelli abituali regolano la degradazione proteica; la sintesi dipende soltanto dai picchi."
    ],
    "answer": 0,
    "why": "L’ambiente ormonale mantenuto nel tempo non equivale a un breve aumento nel sangue. Le prove incerte sui picchi non annullano il ruolo dei livelli abituali."
@@ -761,9 +761,9 @@
    "question": "Che cosa aggiunge l’ipertrofia contrattile e come cambia la forma della fibra?",
    "options": [
     "Aggiunge sarcomeri: in parallelo allunga la fibra, in serie la allarga.",
-    "Aggiunge liquidi: in parallelo allarga la fibra, in serie la allunga.",
+    "Aggiunge liquidi e organelli: in parallelo allarga la fibra, in serie la allunga.",
     "Aggiunge sarcomeri: in parallelo allarga la fibra, in serie la allunga.",
-    "Aggiunge sarcomeri: in entrambe le disposizioni aumenta soprattutto il diametro."
+    "Aggiunge sarcomeri: in entrambe le disposizioni allarga soprattutto la fibra."
    ],
    "answer": 2,
    "why": "I sarcomeri contengono actina e miosina. Se si affiancano occupano spazio in larghezza, mentre in successione estendono la fibra nel senso della lunghezza."
@@ -773,10 +773,10 @@
    "line": 2,
    "question": "Come si distingue l’ipertrofia sarcoplasmatica da quella contrattile?",
    "options": [
-    "Aggiunge sarcomeri in serie e per questo non aumenta il diametro.",
+    "Aumenta il numero di sarcomeri in serie senza allargare la fibra; fa crescere il muscolo in lunghezza.",
     "Aumenta liquidi e organelli senza aggiungere direttamente forza; probabilmente accompagna quella contrattile.",
-    "Aumenta i liquidi senza forza e avviene solo quando quella contrattile si ferma.",
-    "Aumenta liquidi e proteine contrattili e da sola spiega la maggiore forza."
+    "Aumenta liquidi e organelli senza aggiungere direttamente forza; avviene solo quando quella contrattile si ferma.",
+    "Aumenta liquidi e organelli senza aggiungere sarcomeri; spiega da sola gran parte dei guadagni di forza."
    ],
    "answer": 1,
    "why": "Le componenti non contrattili contribuiscono al volume, non direttamente alla forza. Questo non esclude che nello stesso muscolo crescano anche le strutture contrattili."
@@ -786,9 +786,9 @@
    "line": 6,
    "question": "Come si confrontano testosterone e cortisolo nella regolazione della massa muscolare?",
    "options": [
-    "Entrambi sono anabolici, ma il cortisolo agisce soprattutto sulle fibre di tipo II.",
-    "Il testosterone è catabolico durante l’allenamento, mentre il cortisolo favorisce la sintesi.",
-    "Il testosterone è anabolico soltanto a riposo, mentre il cortisolo colpisce soprattutto le fibre I.",
+    "Il testosterone ha effetti anabolici amplificati dalla forza; il cortisolo è catabolico soprattutto sulle fibre I.",
+    "Il testosterone ha effetti anabolici soprattutto a riposo; il cortisolo stimola la sintesi proteica nelle fibre II.",
+    "Il testosterone ha effetti anabolici attenuati dalla forza; il cortisolo è catabolico soprattutto sulle fibre II.",
     "Il testosterone ha effetti anabolici amplificati dalla forza; il cortisolo è catabolico soprattutto sulle fibre II."
    ],
    "answer": 3,

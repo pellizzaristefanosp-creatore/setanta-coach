@@ -47,14 +47,14 @@
   {
    "clues": [
     "Il muscolo scheletrico è molto sensibile alle mie variazioni.",
-    "Posso comparire anche quando il muscolo viene allungato.",
+    "Posso comparire anche quando il muscolo si allunga.",
     "Mi generi nel muscolo quando sollevi un peso."
    ],
    "answer": "Tensione meccanica",
    "distractors": [
-    "Stress metabolico",
-    "Danno muscolare",
-    "Rigonfiamento cellulare"
+    "Compressione vascolare",
+    "Fatica periferica",
+    "Idratazione cellulare"
    ],
    "slide": 4
   },
@@ -62,83 +62,83 @@
    "clues": [
     "Non raggiungo per forza il massimo con il carico più alto.",
     "Posso raggiungere il massimo già intorno al 90% dell’1RM.",
-    "Indico il valore più alto raggiunto dalla forza nel muscolo, non quanto dura."
+    "Indico il valore più alto della forza nel muscolo, non la sua durata."
    ],
    "answer": "Picco di tensione",
    "distractors": [
     "Tempo sotto tensione",
-    "Stress metabolico",
-    "Sintesi proteica"
+    "Carico massimale",
+    "Volume di lavoro"
    ],
    "slide": 5
   },
   {
    "clues": [
     "Aumento quando la contrazione comprime i vasi sanguigni.",
-    "Sono legato all’accumulo di fosfato inorganico, lattato e ioni idrogeno.",
+    "Aumento con l’accumulo di fosfato inorganico, lattato e ioni idrogeno.",
     "Mi riconosci dal bruciore dopo una serie portata a esaurimento."
    ],
    "answer": "Stress metabolico",
    "distractors": [
-    "Tensione meccanica",
     "Danno muscolare",
-    "DOMS"
+    "Rigonfiamento cellulare",
+    "Affaticamento periferico"
    ],
    "slide": 8
   },
   {
    "clues": [
     "Potrei favorire la sintesi proteica e ridurre la disgregazione delle proteine.",
-    "Aumento la pressione sulla membrana.",
-    "Succedo quando entra più acqua nella cellula e questa si gonfia."
+    "Aumento la pressione sulla membrana della cellula.",
+    "Mi manifesto quando entra più acqua nella cellula e questa si gonfia."
    ],
    "answer": "Rigonfiamento cellulare",
    "distractors": [
     "Reclutamento delle fibre",
-    "Danno muscolare",
-    "Tensione meccanica"
+    "Accumulo di metaboliti",
+    "Ricambio proteico"
    ],
    "slide": 10
   },
   {
    "clues": [
     "Dipendo dal tipo, dall’intensità e dal volume dell’allenamento.",
-    "Posso essere più marcato quando provi un esercizio nuovo.",
+    "Posso aumentare quando provi un esercizio nuovo.",
     "Consisto in piccole lesioni alle fibre dopo il lavoro con i pesi."
    ],
    "answer": "Danno muscolare",
    "distractors": [
     "Stress metabolico",
     "Rigonfiamento cellulare",
-    "Tensione meccanica"
+    "Affaticamento periferico"
    ],
    "slide": 11
   },
   {
    "clues": [
-    "In me le teste di actina e miosina vengono separate a forza.",
+    "Durante la mia azione, le teste di miosina si staccano a forza dall’actina.",
     "Posso provocare più danno di una contrazione concentrica o isometrica.",
-    "Sono il tipo di contrazione dominante nel Nordic hamstring curl."
+    "Domino nel Nordic hamstring curl."
    ],
    "answer": "Eccentrica",
    "distractors": [
     "Concentrica",
     "Isometrica",
-    "Stretching passivo"
+    "Isocinetica"
    ],
    "slide": 12
   },
   {
    "clues": [
-    "Non seguo bene né i tempi né l’entità dei marcatori chimici del danno.",
-    "Se sono troppo forte, posso compromettere la seduta successiva.",
-    "Sono l’indolenzimento muscolare che compare in ritardo dopo l’allenamento."
+    "Non rispecchio bene né l’andamento nel tempo né l’entità dei marcatori chimici del danno.",
+    "Se raggiungo un’intensità eccessiva, posso compromettere la seduta successiva.",
+    "Mi manifesto come indolenzimento muscolare che compare in ritardo dopo l’allenamento."
    ],
    "answer": "DOMS",
    "distractors": [
-    "Stress metabolico",
-    "Rigonfiamento cellulare",
-    "Danno muscolare"
+    "Crampi",
+    "Spasmi",
+    "Tremori"
    ],
    "slide": 13
   }

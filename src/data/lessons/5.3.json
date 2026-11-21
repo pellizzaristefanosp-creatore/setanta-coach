@@ -20,9 +20,9 @@
         "question": "Quali sono i tre meccanismi principali dell'ipertrofia secondo la lezione?",
         "options": [
           "Tensione meccanica, stress metabolico, danno muscolare",
-          "Forza, velocità, resistenza",
-          "Sintesi proteica, idratazione, flessibilità",
-          "Reclutamento, riposo, alimentazione"
+          "Attivazione neurale, recupero energetico, ricambio cellulare",
+          "Fatica centrale, controllo motorio, rimodellamento osseo",
+          "Coordinazione motoria, equilibrio posturale, rinforzo tendineo"
         ],
         "answer": 0,
         "explanation": "La lezione indica tensione meccanica, stress metabolico e danno muscolare come i tre meccanismi primari."
@@ -42,10 +42,10 @@
       "check": {
         "question": "Che tipo di ipertrofia porta più probabilmente la tensione da stretching?",
         "options": [
-          "Ipertrofia in parallelo",
-          "Ipertrofia sarcoplasmatica",
+          "Ipertrofia trasversale",
+          "Ipertrofia regionale",
           "Ipertrofia in serie",
-          "Nessuna ipertrofia"
+          "Ipertrofia transitoria"
         ],
         "answer": 2,
         "explanation": "La tensione da allungamento favorisce l'ipertrofia in serie; le azioni dinamiche quella in parallelo."
@@ -65,8 +65,8 @@
       "check": {
         "question": "Intorno a quale carico la tensione muscolare può raggiungere il picco?",
         "options": [
-          "50% dell'1RM",
-          "70% dell'1RM",
+          "60% dell'1RM",
+          "75% dell'1RM",
           "100% dell'1RM",
           "90% dell'1RM"
         ],
@@ -88,10 +88,10 @@
       "check": {
         "question": "Perché poche ripetizioni con carichi molto alti potrebbero non essere ideali per l'ipertrofia?",
         "options": [
-          "Perché non creano tensione muscolare",
+          "Perché le fibre di tipo 2 si attivano tardi nella serie",
           "Perché la tensione da sola difficilmente spiega tutta la crescita",
-          "Perché riducono la sintesi proteica a zero",
-          "Perché lavorano solo le fibre di tipo 1"
+          "Perché il recupero tra le serie interrompe lo stimolo anabolico",
+          "Perché il muscolo lavora soprattutto in fase concentrica"
         ],
         "answer": 1,
         "explanation": "Creano molta tensione, ma la tensione meccanica da sola difficilmente è l'unica responsabile dell'ipertrofia."
@@ -112,9 +112,9 @@
         "question": "Secondo la lezione, come agisce probabilmente lo stretching sull'ipertrofia?",
         "options": [
           "Aumentando il tempo sotto tensione",
-          "Aumentando il picco di tensione oltre l'1RM",
-          "Riducendo lo stress metabolico",
-          "Sostituendo l'allenamento con i pesi"
+          "Elevando il picco di forza prodotto",
+          "Anticipando il reclutamento di fibre",
+          "Riducendo la fatica tra le serie"
         ],
         "answer": 0,
         "explanation": "Lo stretching probabilmente aumenta il tempo sotto tensione, uno stimolo ipertrofico potente."
@@ -134,10 +134,10 @@
       "check": {
         "question": "Quale di questi NON è citato come metabolita dello stress metabolico?",
         "options": [
-          "Lattato",
-          "Ioni idrogeno",
+          "Quota di lattato",
+          "Quota di ioni H⁺",
           "Creatina chinasi",
-          "Fosfato inorganico"
+          "Quota di fosfato Pi"
         ],
         "answer": 2,
         "explanation": "La lezione cita fosfato inorganico, lattato e ioni idrogeno."
@@ -157,10 +157,10 @@
       "check": {
         "question": "Cosa succede alla soglia di attivazione delle unità motorie ad alta soglia quando aumentano fatica e stress metabolico?",
         "options": [
-          "Aumenta",
+          "Aumenta poco",
           "Diminuisce",
-          "Resta uguale",
-          "Si azzera del tutto"
+          "Resta fissa",
+          "Cala a zero"
         ],
         "answer": 1,
         "explanation": "Con fatica e stress metabolico la soglia si abbassa, quindi si reclutano più fibre."
@@ -180,10 +180,10 @@
       "check": {
         "question": "Come reagisce la cellula all'aumento di pressione sulla membrana dovuto al rigonfiamento?",
         "options": [
-          "Riduce la sintesi proteica",
-          "Espelle tutta l'acqua",
+          "Riduce la sintesi proteica per risparmiare energia",
+          "Espelle acqua per ripristinare il volume iniziale",
           "Aumenta la sintesi proteica per rinforzarsi",
-          "Smette di contrarsi"
+          "Accelera la degradazione proteica per liberare energia"
         ],
         "answer": 2,
         "explanation": "La cellula percepisce la pressione come una minaccia e aumenta la sintesi proteica per rinforzare la sua struttura."
@@ -203,10 +203,10 @@
       "check": {
         "question": "Da quali fattori dipende la gravità del danno muscolare indotto dall'esercizio?",
         "options": [
-          "Età, sesso e altezza",
+          "Durata, frequenza e distribuzione delle pause",
           "Tipo, intensità e volume dell'allenamento",
-          "Solo dal carico esterno",
-          "Solo dal tempo di recupero"
+          "Età, statura e struttura corporea dell'atleta",
+          "Ordine, velocità e ampiezza dei movimenti"
         ],
         "answer": 1,
         "explanation": "La lezione indica tipo, intensità e volume dell'allenamento."
@@ -227,10 +227,10 @@
       "check": {
         "question": "Come si chiama il fenomeno per cui ripetere lo stesso esercizio riduce il danno muscolare?",
         "options": [
-          "Supercompensazione",
+          "Effetto della supercompensazione",
           "Effetto degli sforzi ripetuti",
-          "Principio di specificità",
-          "Effetto di potenziamento post-attivazione"
+          "Effetto del recupero attivo",
+          "Effetto del carico progressivo"
         ],
         "answer": 1,
         "explanation": "È l'effetto degli sforzi ripetuti: il corpo si abitua allo stress e le fibre vengono danneggiate meno."
@@ -251,10 +251,10 @@
       "check": {
         "question": "Perché non conviene cercare i DOMS come segno di un buon allenamento?",
         "options": [
-          "Perché i DOMS indicano sempre un infortunio grave",
-          "Perché aumentano troppo la sintesi proteica",
+          "Perché il dolore compare soprattutto dopo sedute poco impegnative",
+          "Perché il dolore segnala che la sintesi proteica si è già conclusa",
           "Perché il dolore non misura per forza l'intensità e può ridurre il volume successivo",
-          "Perché compaiono solo con le contrazioni concentriche"
+          "Perché il dolore dipende dal lattato che resta nelle fibre fino al giorno dopo"
         ],
         "answer": 2,
         "explanation": "I DOMS sono poco legati ai marcatori del danno e possono limitare le sedute successive, quindi il volume."
@@ -274,10 +274,10 @@
       "check": {
         "question": "Perché l'argomento a favore della tensione meccanica è considerato il più forte?",
         "options": [
-          "Perché è l'unico meccanismo che aumenta la sintesi proteica",
+          "Perché gli stimoli di crescita compaiono solo con carichi massimali",
           "Perché gli altri due meccanismi non avvengono senza carico meccanico",
-          "Perché funziona solo con l'1RM",
-          "Perché non causa mai danno muscolare"
+          "Perché gli adattamenti dipendono solo dalla durata della contrazione",
+          "Perché gli incrementi di massa sono proporzionali al peso sollevato"
         ],
         "answer": 1,
         "explanation": "Stress metabolico e danno muscolare non si verificano senza sovraccarico e tensione meccanica."
@@ -298,9 +298,9 @@
         "question": "Attraverso quali due vie lo stress metabolico può portare all'ipertrofia, secondo la lezione?",
         "options": [
           "Più reclutamento di fibre e rigonfiamento cellulare",
-          "Più flessibilità e meno fatica",
-          "Danno eccentrico e DOMS",
-          "Più tempo di recupero e meno volume"
+          "Più perfusione locale e accelerazione del recupero",
+          "Più sensibilità al calcio e minore fatica periferica",
+          "Più capacità ossidativa e produzione aerobica di energia"
         ],
         "answer": 0,
         "explanation": "La lezione tratta il maggiore reclutamento di fibre e il maggiore rigonfiamento cellulare."
@@ -429,9 +429,9 @@
       "question": "Secondo la lezione, l'ipertrofia è soprattutto:",
       "options": [
         "Un adattamento che rende il muscolo più resistente allo stress dell'allenamento",
-        "Un effetto della sola alimentazione",
-        "Una conseguenza dell'allenamento aerobico",
-        "Un fenomeno che riguarda solo i tendini"
+        "Un adattamento che aumenta la massa soprattutto creando nuove fibre muscolari",
+        "Un adattamento che aumenta la massa soprattutto dopo sforzi aerobici prolungati",
+        "Un adattamento che aumenta la massa soprattutto attraverso il rinforzo dei tendini"
       ],
       "answer": 0,
       "explanation": "Il corpo si adatta allo stress dell'allenamento: un muscolo più grande e forte lo sopporta meglio.",
@@ -440,10 +440,10 @@
     {
       "question": "Le azioni muscolari dinamiche, come gli esercizi di forza, portano soprattutto a:",
       "options": [
-        "Ipertrofia in serie",
+        "Ipertrofia longitudinale",
         "Ipertrofia in parallelo",
-        "Atrofia delle fibre di tipo 2",
-        "Nessuna variazione della sezione trasversa"
+        "Ipertrofia regionale",
+        "Ipertrofia transitoria"
       ],
       "answer": 1,
       "explanation": "Lo stretching favorisce l'ipertrofia in serie; le azioni dinamiche quella in parallelo.",
@@ -452,10 +452,10 @@
     {
       "question": "Quale affermazione sul picco di tensione è corretta?",
       "options": [
-        "Il picco di tensione muscolare coincide sempre con l'1RM",
-        "Un picco più basso dà una risposta ipertrofica migliore",
+        "Il picco di tensione muscolare si raggiunge solo con il carico massimale",
+        "Il picco di tensione muscolare coincide di norma con il 50% dell'1RM",
         "Il picco di tensione muscolare può essere raggiunto intorno al 90% dell'1RM",
-        "Il picco di tensione non influisce sull'ipertrofia"
+        "Il picco di tensione muscolare si riduce sempre oltre il 70% dell'1RM"
       ],
       "answer": 2,
       "explanation": "La tensione nel muscolo può raggiungere il picco intorno al 90% dell'1RM.",
@@ -464,9 +464,9 @@
     {
       "question": "Quale di questi NON è un motivo per cui all'1RM il muscolo target può non essere al massimo della tensione?",
       "options": [
-        "Le strutture passive assumono più carico",
-        "Altri muscoli contribuiscono di più",
-        "La tecnica può peggiorare",
+        "Le strutture passive sostengono più carico",
+        "Le sinergie tra gruppi muscolari aumentano",
+        "Le compensazioni tecniche alterano il gesto",
         "Le fibre di tipo 2 non vengono reclutate"
       ],
       "answer": 3,
@@ -477,9 +477,9 @@
       "question": "Secondo la lezione, aumentare il tempo sotto tensione, per esempio rallentando l'esecuzione:",
       "options": [
         "In teoria potrebbe stimolare l'ipertrofia attraverso la tensione meccanica",
-        "Annulla lo stimolo ipertrofico",
-        "Serve solo ad aumentare la flessibilità",
-        "Riduce la sintesi proteica"
+        "In teoria potrebbe favorire la crescita esclusivamente tramite l'accumulo di metaboliti",
+        "In teoria potrebbe migliorare la mobilità senza dare alcuno stimolo alla crescita",
+        "In teoria potrebbe stimolare la crescita solo se si raggiunge il carico massimale"
       ],
       "answer": 0,
       "explanation": "Il tempo sotto tensione è visto come un fattore chiave della risposta ipertrofica.",
@@ -488,10 +488,10 @@
     {
       "question": "Come porta all'ipertrofia la tensione meccanica?",
       "options": [
-        "Gonfiando direttamente la fibra d'acqua",
+        "Richiamando acqua nelle fibre e aumentando direttamente il loro volume in modo permanente",
         "Convertendo le forze meccaniche in segnali molecolari che aumentano la sintesi proteica",
-        "Aumentando solo il numero di fibre muscolari",
-        "Riducendo l'attività delle unità motorie"
+        "Stimolando la formazione di nuove fibre senza modificare quelle già presenti",
+        "Riducendo la degradazione delle proteine senza aumentare la sintesi proteica"
       ],
       "answer": 1,
       "explanation": "Carico → tensione → vie di segnalazione anabolica → sintesi proteica muscolare.",
@@ -500,10 +500,10 @@
     {
       "question": "Che cosa mostrano le ricerche sugli animali citate a proposito dello stretching?",
       "options": [
-        "Nessun effetto sul muscolo",
-        "Una riduzione della forza massima",
+        "Una riduzione della sezione trasversa dopo alcune settimane di stiramento",
+        "Una crescita della lunghezza senza variazioni della sezione trasversa",
         "Una grande crescita della sezione trasversa dopo alcune settimane di stiramento",
-        "Un aumento solo del tessuto adiposo"
+        "Una risposta iniziale di gonfiore senza crescita stabile della sezione trasversa"
       ],
       "answer": 2,
       "explanation": "Lo stiramento per alcune settimane negli animali ha portato a una grande crescita della sezione trasversa.",
@@ -512,9 +512,9 @@
     {
       "question": "Quale conclusione sullo stretching e l'ipertrofia è corretta secondo la lezione (Mohamad et al. 2011)?",
       "options": [
-        "Lo stretching da solo è un metodo efficace per l'ipertrofia",
-        "Lo stretching va evitato in chi cerca ipertrofia",
-        "Lo stretching funziona solo se passivo",
+        "Lo stretching può essere utile anche quando sostituisce del tutto il lavoro con i pesi",
+        "Lo stretching può essere utile solo se svolto lontano dalle sedute con i pesi",
+        "Lo stretching può essere utile soltanto quando viene eseguito in forma passiva",
         "Lo stretching può essere utile se abbinato all'allenamento della forza"
       ],
       "answer": 3,
@@ -524,10 +524,10 @@
     {
       "question": "Che cosa provoca la compressione dei vasi sanguigni durante la contrazione?",
       "options": [
-        "Un aumento del flusso di sangue e meno metaboliti",
+        "Più flusso di sangue e una maggiore rimozione dei metaboliti",
         "Meno flusso di sangue e un maggiore accumulo di metaboliti",
-        "Un danno eccentrico alle fibre",
-        "Una riduzione della fatica periferica"
+        "Meno flusso di sangue e una maggiore rimozione dei metaboliti",
+        "Più flusso di sangue e un maggiore accumulo di metaboliti"
       ],
       "answer": 1,
       "explanation": "Arriva meno sangue, gli scarti non vengono eliminati e lo stress metabolico aumenta.",
@@ -537,9 +537,9 @@
       "question": "Perché con carichi leggeri o moderati servono abbastanza ripetizioni?",
       "options": [
         "Per creare stress metabolico e arrivare a reclutare le unità motorie ad alta soglia",
-        "Per evitare di attivare le fibre di tipo 2",
-        "Per ridurre la sintesi proteica",
-        "Per evitare il rigonfiamento cellulare"
+        "Per accumulare metaboliti senza dover reclutare le unità motorie ad alta soglia",
+        "Per favorire il recupero delle unità motorie a bassa soglia nel corso della serie",
+        "Per mantenere costante il reclutamento delle unità motorie dall’inizio alla fine della serie"
       ],
       "answer": 0,
       "explanation": "Con la fatica la soglia delle unità ad alta soglia si abbassa e si reclutano le fibre che crescono di più.",
@@ -548,10 +548,10 @@
     {
       "question": "Perché, secondo una possibile spiegazione, la fatica aumenta il reclutamento delle fibre?",
       "options": [
-        "Perché aumenta il flusso di sangue",
-        "Perché migliora la tecnica",
+        "Perché il flusso di sangue migliora con lo sforzo e permette alle fibre meno attive di entrare in gioco",
+        "Perché la tecnica diventa più efficiente man mano che la serie avanza e coinvolge più fibre",
         "Perché gli scarti accumulati interferiscono con la contrazione e servono più fibre per la stessa forza",
-        "Perché le unità a soglia bassa smettono di funzionare del tutto"
+        "Perché le unità a bassa soglia si disattivano del tutto prima che intervengano quelle a soglia alta"
       ],
       "answer": 2,
       "explanation": "Gli scarti disturbano la capacità contrattile, quindi il muscolo recluta più fibre per mantenere la forza.",
@@ -560,10 +560,10 @@
     {
       "question": "Una maggiore idratazione della cellula muscolare:",
       "options": [
-        "Diminuisce la pressione sulla membrana",
+        "Riduce la pressione sulla membrana e stimola la sintesi proteica",
         "Aumenta la pressione sulla membrana e stimola la sintesi proteica",
-        "Aumenta la disgregazione proteica",
-        "Non ha effetti sulla sintesi proteica"
+        "Aumenta la pressione sulla membrana e accelera la disgregazione proteica",
+        "Aumenta la pressione sulla membrana senza modificare la sintesi proteica"
       ],
       "answer": 1,
       "explanation": "Più pressione sulla membrana: la cellula la sente come minaccia e rinforza la struttura con più proteine.",
@@ -584,10 +584,10 @@
     {
       "question": "Che cosa dicono gli studi sul danno muscolare nei soggetti ben allenati?",
       "options": [
-        "Non si verifica mai",
+        "Non si verifica più con l’adattamento",
         "Si verifica, ma in misura minore",
-        "È maggiore che nei principianti",
-        "Si verifica solo con le contrazioni isometriche"
+        "Si verifica, ma in misura maggiore",
+        "Si verifica, ma solo negli sforzi statici"
       ],
       "answer": 1,
       "explanation": "Il danno si verifica anche negli allenati, solo meno, e può ancora contare per l'ipertrofia.",
@@ -597,9 +597,9 @@
       "question": "Quale affermazione sui DOMS è corretta?",
       "options": [
         "Sono poco correlati con la sequenza temporale e l'entità dei marcatori chimici del danno",
-        "Indicano con precisione quanto è stato duro l'allenamento",
-        "Compaiono solo senza danno muscolare",
-        "Vanno cercati in ogni seduta per massimizzare il volume"
+        "Sono strettamente correlati con l’andamento e l’entità dei marcatori chimici del danno",
+        "Sono un indicatore preciso dell’intensità dello sforzo nella seduta precedente",
+        "Sono un obiettivo da ricercare in ogni seduta per massimizzare la crescita delle fibre"
       ],
       "answer": 0,
       "explanation": "Si può essere ancora molto doloranti anche con un danno quasi riparato.",

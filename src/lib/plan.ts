@@ -122,7 +122,7 @@ export function currentItem(state: Pick<State, "units" | "presentations" | "last
   if (last) return last;
   const lastP = lastId ? state.presentations.find((p) => p.id === lastId) : undefined;
   if (lastP) {
-    const after = q.find((it) => it.kind === "real" && comparePresentationCode(it.presentation.code, lastP.code) > 0);
+    const after = all.find((it) => it.kind === "real" && comparePresentationCode(it.presentation.code, lastP.code) > 0);
     if (after) return after;
   }
   return q[0] ?? null;
@@ -133,5 +133,5 @@ export function nextItem(state: Pick<State, "units" | "presentations" | "lastPre
   const cur = currentItem(state, now);
   if (!cur) return null;
   const code = cur.kind === "real" ? cur.presentation.code : cur.code;
-  return queue(state).filter((it) => it.release <= now).find((it) => comparePresentationCode(it.kind === "real" ? it.presentation.code : it.code, code) > 0) ?? null;
+  return queue(state).find((it) => comparePresentationCode(it.kind === "real" ? it.presentation.code : it.code, code) > 0) ?? null;
 }

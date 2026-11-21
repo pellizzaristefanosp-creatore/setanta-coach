@@ -49,113 +49,113 @@
  "who": [
   {
    "clues": [
-    "L'obiettivo è far lavorare di più un muscolo preciso.",
-    "Il leg curl da sdraiato prepara il lavoro dei posteriori della coscia.",
-    "Fai prima un esercizio di isolamento, poi un multi-articolare."
+    "Servo a far lavorare di più un muscolo preciso.",
+    "Con me usi il leg curl da sdraiato per preparare il lavoro dei posteriori della coscia.",
+    "Con me fai prima un esercizio di isolamento, poi un multi-articolare."
    ],
    "answer": "Pre-esaurimento",
    "distractors": [
     "Drop set classico",
-    "Serie cluster",
-    "Pausa isometrica"
+    "Drop set meccanico",
+    "Rest-pause"
    ],
    "slide": 4
   },
   {
    "clues": [
-    "Sfrutti la forza che ti resta quando non riesci più a spingere da solo.",
-    "È un metodo faticoso: puoi limitarlo all'ultimo blocco di ripetizioni dell'esercizio.",
-    "Un assistente ti aiuta a sollevare il peso e tu controlli la discesa."
+    "Ti faccio sfruttare la forza che ti resta quando non riesci più a spingere senza aiuto.",
+    "Con me la fatica è alta: puoi riservarmi all’ultimo blocco di ripetizioni dell’esercizio.",
+    "Con me un assistente ti aiuta a sollevare il peso, mentre tu controlli la discesa."
    ],
    "answer": "Serie doppia concentrica-eccentrica",
    "distractors": [
-    "Pre-esaurimento",
-    "Drop set classico",
-    "Serie cluster"
+    "Serie a carico decrescente",
+    "Serie con pause intra-serie",
+    "Serie con tenuta isometrica"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Puoi cambiare l'angolo a cui applichi la tecnica.",
-    "Nello split squat puoi usarla nell'ultima ripetizione.",
-    "Ti fermi in una posizione, ma il muscolo resta in tensione."
+    "Con me puoi cambiare l’angolo a cui applichi la tecnica.",
+    "Nello split squat puoi usarmi nell’ultima ripetizione.",
+    "Con me ti fermi in una posizione, ma il muscolo resta in tensione."
    ],
    "answer": "Pausa isometrica",
    "distractors": [
     "Serie cluster",
-    "Drop set meccanico",
-    "Pre-esaurimento"
+    "Serie a scalare",
+    "Ripetizione assistita"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "Il primo cedimento non significa che il muscolo sia del tutto esaurito.",
-    "Continui a fare ripetizioni quasi senza riposo dopo ogni scalata.",
-    "Togli peso a ogni passaggio, fino a restare con la sola sbarra."
+    "Mi baso sul fatto che al primo cedimento il muscolo ha ancora una riserva di forza.",
+    "Con me riprendi a fare ripetizioni quasi senza riposo dopo ogni scalata.",
+    "Con me togli peso a ogni passaggio, fino a restare con la sola sbarra."
    ],
    "answer": "Drop set classico",
    "distractors": [
     "Drop set meccanico",
-    "Serie cluster",
-    "Serie doppia concentrica-eccentrica"
+    "Pre-affaticamento",
+    "Sovraccarico eccentrico"
    ],
    "slide": 8
   },
   {
    "clues": [
-    "Ti fermi poco prima del cedimento per non compromettere la resa nei passaggi successivi.",
-    "Nel rematore supino inizi con i piedi sulla panca e finisci con le ginocchia piegate.",
-    "Non togli peso: passi a varianti via via più facili."
+    "Con me ti fermi poco prima del cedimento per non compromettere la resa nei passaggi successivi.",
+    "Se mi usi nel rematore supino, inizi con i piedi sulla panca e finisci con le ginocchia piegate.",
+    "Con me non togli peso: passi a varianti via via più facili."
    ],
    "answer": "Drop set meccanico",
    "distractors": [
     "Drop set classico",
-    "Pausa isometrica",
-    "Pre-esaurimento"
+    "Pre-affaticamento",
+    "Sovraccarico eccentrico"
    ],
    "slide": 9
   },
   {
    "clues": [
-    "Con un recupero parziale puoi fare più ripetizioni con un carico pesante.",
-    "Alla panca puoi dividere sette ripetizioni in blocchi da tre, due e due.",
-    "Tra i mini-blocchi riposi da 10 a 20 secondi."
+    "Con me recuperi in parte e riesci a fare più ripetizioni con un carico pesante.",
+    "Se mi usi alla panca, puoi dividere sette ripetizioni in blocchi da tre, due e due.",
+    "Con me riposi da 10 a 20 secondi tra un mini-blocco e l’altro."
    ],
    "answer": "Serie cluster",
    "distractors": [
-    "Pausa isometrica",
-    "Onde 7-5-3",
-    "Drop set classico"
+    "Serie a scalare",
+    "Serie con isometria",
+    "Serie a onde"
    ],
    "slide": 10
   },
   {
    "clues": [
-    "Il carico iniziale è circa il 60% dell'1RM.",
-    "Quando completi lo schema con recuperi di circa 60 secondi, aumenti il carico del 4-5%.",
-    "Fai 10 serie da 10 ripetizioni con lo stesso carico."
+    "Con me parti da un carico pari a circa il 60% dell’1RM.",
+    "Quando completi il mio schema con recuperi di circa 60 secondi, aumenti il carico del 4-5%.",
+    "Con me fai 10 serie da 10 ripetizioni con lo stesso carico."
    ],
    "answer": "German Volume Training",
    "distractors": [
-    "Onde 7-5-3",
-    "4 x 8-10 al 70% 1RM",
-    "Serie cluster"
+    "Metodo a onde 7-5-3",
+    "Schema 4 × 8-10 al 70% dell’1RM",
+    "Schema piramidale 10-8-6"
    ],
    "slide": 11
   },
   {
    "clues": [
-    "Può aumentare l'attivazione del muscolo, ma questo non dimostra che il muscolo cresca di più.",
-    "Nel leg curl pensi ai posteriori della coscia, non a spostare il peso.",
-    "Durante la ripetizione concentri l'attenzione sulla contrazione del muscolo."
+    "Posso aumentare l’attivazione del muscolo, ma questo non dimostra che il muscolo cresca di più.",
+    "Se mi usi nel leg curl, pensi ai posteriori della coscia, non a spostare il peso.",
+    "Ti porto a concentrare l’attenzione sulla contrazione del muscolo durante la ripetizione."
    ],
    "answer": "Focus interno",
    "distractors": [
     "Focus esterno",
-    "Pausa isometrica",
-    "Pre-esaurimento"
+    "Focus sul ritmo",
+    "Focus sul respiro"
    ],
    "slide": 14
   }

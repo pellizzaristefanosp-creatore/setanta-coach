@@ -46,28 +46,28 @@
   {
    "clues": [
     "Influenzo l’attivazione delle cellule satellite.",
-    "Favorisco la sintesi proteica e freno la disgregazione.",
+    "Favorisco la sintesi proteica e freno la disgregazione delle proteine.",
     "Mi produce il fegato, ma anche il muscolo sotto carico."
    ],
    "answer": "IGF",
    "distractors": [
-    "Testosterone",
-    "Insulina",
-    "GH"
+    "GH",
+    "GHRH",
+    "GHIH"
    ],
    "slide": 9
   },
   {
    "clues": [
     "Posso migliorare la trasmissione dei segnali nervosi.",
-    "I miei effetti anabolici si amplificano con l’allenamento di forza.",
-    "Sono un ormone sessuale fino a 10 volte più abbondante nei maschi."
+    "L’allenamento di forza amplifica i miei effetti anabolici.",
+    "Sono un ormone sessuale: nei maschi la mia concentrazione può essere fino a dieci volte quella nelle femmine."
    ],
    "answer": "Testosterone",
    "distractors": [
-    "IGF",
-    "GH",
-    "Cortisolo"
+    "Cortisolo",
+    "Glucagone",
+    "Estradiolo"
    ],
    "slide": 10
   },
@@ -75,13 +75,13 @@
    "clues": [
     "La mia azione è legata alle riserve di glicogeno.",
     "Inibisco la sintesi proteica e colpisco di più le fibre di tipo II.",
-    "Sono noto come ormone dello stress."
+    "Mi chiamano anche ormone dello stress."
    ],
    "answer": "Cortisolo",
    "distractors": [
     "Testosterone",
-    "Insulina",
-    "GH"
+    "Glucagone",
+    "Estradiolo"
    ],
    "slide": 11
   },
@@ -89,13 +89,13 @@
    "clues": [
     "Favorisco la scomposizione dei grassi.",
     "Una delle mie azioni principali è stimolare l’IGF.",
-    "Vengo rilasciato a impulsi, soprattutto nel sonno e con l’esercizio."
+    "Il corpo mi rilascia a impulsi, soprattutto durante il sonno e con l’esercizio."
    ],
    "answer": "GH",
    "distractors": [
     "IGF",
-    "Cortisolo",
-    "Testosterone"
+    "GHRH",
+    "GHIH"
    ],
    "slide": 12
   },
@@ -103,55 +103,55 @@
    "clues": [
     "Aiuto a usare il glucosio subito o a conservarlo per dopo.",
     "Mi producono le cellule beta delle isole di Langerhans.",
-    "Sono l’ormone del pancreas che aiuta a regolare il glucosio nel sangue."
+    "Come ormone del pancreas, aiuto a regolare il glucosio nel sangue."
    ],
    "answer": "Insulina",
    "distractors": [
-    "IGF",
-    "Cortisolo",
-    "GH"
+    "Adrenalina",
+    "Somatostatina",
+    "Somatotropina"
    ],
    "slide": 13
   },
   {
    "clues": [
     "Potrei contare di più quando la fibra è già cresciuta molto.",
-    "Mi attivo quando il muscolo va riparato e rimodellato.",
+    "Entro in azione quando il muscolo ha bisogno di ripararsi e rimodellarsi.",
     "Posso donare nuovi nuclei alle fibre muscolari."
    ],
    "answer": "Cellule satellite",
    "distractors": [
     "Cellule beta",
-    "Sarcomeri",
-    "Miofibrille"
+    "Cellule endocrine",
+    "Cellule muscolari"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Il mio contributo alla crescita nell’uomo non è chiaro.",
-    "Sono stata dimostrata negli animali.",
+    "Non è chiaro quanto contribuisca alla crescita muscolare nell’essere umano.",
+    "Gli studi sugli animali hanno dimostrato che posso verificarmi.",
     "Con me aumenta il numero di fibre, non la dimensione di ogni fibra."
    ],
    "answer": "Iperplasia",
    "distractors": [
-    "Ipertrofia in parallelo",
-    "Ipertrofia in serie",
-    "Ipertrofia sarcoplasmatica"
+    "Ipertrofia",
+    "Atrofia",
+    "Rigenerazione"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "Non è dimostrato che io avvenga separatamente dalla crescita contrattile.",
-    "Una teoria mi collega all’acqua trattenuta dal glicogeno.",
-    "Aumento liquidi e organelli, non gli elementi contrattili."
+    "Non ci sono prove che io avvenga separatamente dalla crescita contrattile.",
+    "Una teoria mi collega all’acqua che il glicogeno trattiene.",
+    "Con me aumenta il volume occupato da liquidi e organelli, non quello degli elementi contrattili."
    ],
    "answer": "Ipertrofia sarcoplasmatica",
    "distractors": [
     "Ipertrofia in parallelo",
     "Ipertrofia in serie",
-    "Iperplasia"
+    "Iperplasia delle fibre"
    ],
    "slide": 5
   }

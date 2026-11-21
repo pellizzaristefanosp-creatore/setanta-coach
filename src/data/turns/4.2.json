@@ -8,7 +8,7 @@
    "options": [
     "La colonna si piega in avanti in modo controllato sotto carico.",
     "La colonna resta stabile mentre un carico cerca di piegarla in avanti.",
-    "La colonna si raddrizza partendo da una posizione flessa.",
+    "La colonna si raddrizza sotto carico partendo da una posizione curva.",
     "La colonna resta stabile mentre un carico cerca di ruotarla."
    ],
    "answer": 1,
@@ -20,8 +20,8 @@
    "question": "Quali sono le prime due tappe per imparare la cerniera dell’anca e poi caricarla?",
    "options": [
     "Prima il Romanian deadlift, poi l’hip hinge senza carico.",
-    "Prima l’hip hinge, poi la tenuta statica sulla panca.",
-    "Prima la tenuta statica, poi il Romanian deadlift.",
+    "Prima l’hip hinge con bastone, poi il rematore al cavo.",
+    "Prima l’affondo a corpo libero, poi il Romanian deadlift.",
     "Prima l’hip hinge, poi il Romanian deadlift con bilanciere."
    ],
    "answer": 3,
@@ -34,8 +34,8 @@
    "options": [
     "Face pull, rematore a un braccio e tenuta statica.",
     "Face pull, rematore a due braccia e tenuta statica.",
-    "Rematore a un braccio, rematore a due braccia e tenuta statica.",
-    "Face pull, rematore a un braccio e hip hinge con bastone."
+    "Pull-down, rematore a un braccio e tenuta statica.",
+    "Face pull, rematore a un braccio e plank frontale."
    ],
    "answer": 0,
    "why": "Il face pull e il rematore a un braccio richiedono di stabilizzare il tronco durante una tirata; nella tenuta resisti alla gravità senza muoverti."
@@ -46,7 +46,7 @@
    "question": "Quale decisione di programmazione affronta l’ultima tappa della lezione?",
    "options": [
     "Come sostituire i fondamentali con esercizi dedicati al core.",
-    "Come scegliere l’ordine degli esercizi in base al carico.",
+    "Come ordinare gli esercizi per il core dal più leggero al più pesante.",
     "Come programmare l’anti-flessione e capire quando i fondamentali non bastano.",
     "Come passare dalla cerniera con bastone alla cerniera con bilanciere."
    ],
@@ -58,9 +58,9 @@
    "line": 3,
    "question": "Quali muscoli lavorano soprattutto quando impedisci alla colonna di piegarsi in avanti?",
    "options": [
-    "I muscoli anteriori del tronco, soprattutto il retto dell’addome.",
+    "I muscoli anteriori del tronco, soprattutto i retti dell’addome.",
     "I muscoli posteriori del tronco, soprattutto gli erettori spinali.",
-    "I muscoli laterali del tronco, soprattutto gli obliqui.",
+    "I muscoli laterali del tronco, soprattutto gli obliqui esterni.",
     "I muscoli del dorso alto, soprattutto i retrattori delle scapole."
    ],
    "answer": 1,
@@ -71,9 +71,9 @@
    "line": 5,
    "question": "Perché un rematore a busto inclinato può allenare l’anti-flessione anche senza essere un esercizio dedicato?",
    "options": [
-    "Perché la colonna si flette a ogni ripetizione per accompagnare il peso.",
-    "Perché avvicinare le scapole impedisce al busto di ruotare durante la tirata.",
-    "Perché il busto si raddrizza a ogni tirata per vincere il carico.",
+    "Perché il tronco si flette sotto carico per accompagnare la discesa del peso.",
+    "Perché il tronco resta fermo soprattutto per opporsi alla rotazione durante la tirata.",
+    "Perché il tronco si raddrizza a ogni tirata per vincere la resistenza del peso.",
     "Perché il tronco resiste al peso che tende ad arrotondare la schiena."
    ],
    "answer": 3,
@@ -85,9 +85,9 @@
    "question": "Per una persona spesso curva alla scrivania, cosa manca se allena solo il core anteriore?",
    "options": [
     "Il lavoro degli estensori della schiena, che aiuta a ritrovare una posizione neutra.",
-    "Altro lavoro per gli addominali, che aiuta a contrastare la flessione.",
-    "Il lavoro degli obliqui, che sostituisce quello degli estensori della schiena.",
-    "Il lavoro delle scapole, che rende superfluo quello degli estensori spinali."
+    "Il lavoro dei flessori dell’anca, che aiuta a riportare il busto in posizione neutra.",
+    "Il lavoro dei retrattori delle scapole, che sostituisce quello degli estensori spinali.",
+    "Il lavoro dei flessori del tronco, che aiuta la schiena a opporsi al carico in avanti."
    ],
    "answer": 0,
    "why": "Allenare anche gli estensori sviluppa la capacità di opporsi alla flessione, che non è il focus del solo lavoro anteriore."
@@ -97,10 +97,10 @@
    "line": 1,
    "question": "Quale preparazione aiuta prima di allenare l’hip hinge contro un carico esterno?",
    "options": [
-    "Partire dallo stacco carico per trovare l’allineamento sotto resistenza.",
-    "Imparare prima a flettere la schiena, poi aggiungere il movimento delle anche.",
+    "Provare prima lo stacco con bilanciere per trovare l’allineamento sotto resistenza.",
+    "Provare prima a flettere il tronco per guidare il movimento delle anche.",
     "Provare prima la cerniera con un bastone per controllare la tecnica.",
-    "Bloccare prima le ginocchia, poi aggiungere il carico alla cerniera."
+    "Provare prima la cerniera a ginocchia bloccate per stabilizzare il bacino."
    ],
    "answer": 2,
    "why": "Il bastone ti aiuta a verificare che il movimento parta dalle anche senza perdere l’allineamento, prima che il carico renda il compito più difficile."
@@ -111,9 +111,9 @@
    "question": "Come usi il bastone per controllare l’allineamento durante un hip hinge?",
    "options": [
     "Lo tieni lungo la schiena e mantieni tre punti di contatto.",
-    "Lo tieni lungo la schiena e controlli i contatti solo alla partenza.",
-    "Lo tieni davanti alle cosce e controlli quanto scendono le mani.",
-    "Lo tieni di traverso sulle spalle e controlli quanto si inclina il busto."
+    "Lo tieni lungo la schiena e verifichi i contatti solo alla partenza.",
+    "Lo tieni lungo la coscia e misuri quanto arretra il bacino.",
+    "Lo tieni lungo la schiena e mantieni il contatto solo tra le scapole."
    ],
    "answer": 0,
    "why": "Mantenere i contatti mentre le anche arretrano fornisce un riscontro immediato se la schiena cambia posizione."
@@ -149,10 +149,10 @@
    "line": 9,
    "question": "Quando la tecnica dell’hip hinge è pronta per passare al carico?",
    "options": [
-    "Quando arretri le anche a ginocchia tese e mantieni la colonna neutra.",
-    "Quando pieghi di più le ginocchia e tieni le anche sotto il busto.",
+    "Quando arretri le anche con le ginocchia tese e la colonna neutra.",
+    "Quando abbassi le anche con le ginocchia molto piegate e la colonna neutra.",
     "Quando arretri le anche con ginocchia leggermente piegate e colonna neutra.",
-    "Quando arretri le anche e inarchi la schiena per tenere il petto alto."
+    "Quando arretri le anche con le ginocchia leggermente piegate e inarchi la schiena."
    ],
    "answer": 2,
    "why": "Prima di caricare devi saper muovere le anche senza usare la colonna per aumentare l’ampiezza del movimento."
@@ -163,9 +163,9 @@
    "question": "Perché il Romanian deadlift allena indirettamente l’anti-flessione del core?",
    "options": [
     "Durante la discesa il bilanciere tende a flettere la colonna, che resiste.",
-    "Durante la discesa la colonna si flette per accompagnare il bilanciere.",
-    "Durante la risalita la colonna si estende per sollevare il bilanciere.",
-    "Durante la discesa il bilanciere tende a ruotare il busto, che resiste."
+    "Durante la discesa il bilanciere viene accompagnato da una flessione della colonna.",
+    "Durante la discesa il bilanciere tende a ruotare il busto, che resiste.",
+    "Durante la discesa il bilanciere tende a inarcare la colonna, che resiste."
    ],
    "answer": 0,
    "why": "Il movimento principale avviene alle anche, ma il tronco deve stabilizzarsi perché il carico tende ad arrotondare la schiena."
@@ -175,9 +175,9 @@
    "line": 7,
    "question": "Nel Romanian deadlift, chi impedisce alla colonna di arrotondarsi mentre le anche si muovono?",
    "options": [
-    "I glutei e gli ischiocrurali, che tengono ferma la colonna.",
-    "I retrattori delle scapole, che stabilizzano direttamente la zona lombare.",
-    "Gli estensori della schiena, che flettono e raddrizzano la colonna.",
+    "Gli estensori dell’anca, soprattutto i glutei e gli ischiocrurali.",
+    "Gli stabilizzatori delle scapole, soprattutto i romboidi e il trapezio.",
+    "Gli estensori del ginocchio, soprattutto i vasti del quadricipite.",
     "Gli estensori della schiena e gli altri muscoli anti-flessione del core."
    ],
    "answer": 3,
@@ -188,7 +188,7 @@
    "line": 1,
    "question": "Quale azione del face pull fa lavorare il dorso alto e i retrattori delle scapole?",
    "options": [
-    "Tirare l’elastico verso l’addome mentre il busto si inclina indietro.",
+    "Tirare l’elastico verso l’addome mantenendo ferme le scapole.",
     "Tirare l’elastico verso il viso portando indietro le scapole.",
     "Tirare l’elastico verso il viso lasciando avanzare le scapole.",
     "Tirare l’elastico verso il viso raddrizzando il busto a ogni ripetizione."
@@ -201,10 +201,10 @@
    "line": 3,
    "question": "Come contribuisce il core durante un face pull con elastico?",
    "options": [
-    "Ruota il busto per accompagnare la tirata verso il viso.",
-    "Lascia flettere il busto e lo raddrizza alla fine della tirata.",
+    "Mantiene la zona lombare inarcata mentre l’elastico tira in avanti.",
+    "Mantiene la schiena curva mentre l’elastico tira il busto in avanti.",
     "Mantiene la colonna neutra mentre l’elastico tira il busto in avanti.",
-    "Inarca la zona lombare per bilanciare la trazione dell’elastico."
+    "Mantiene la posizione ruotata del busto mentre l’elastico tira in avanti."
    ],
    "answer": 2,
    "why": "L’elastico non carica soltanto le braccia: tende anche a trascinare il tronco in avanti, e gli erettori spinali si oppongono."
@@ -215,9 +215,9 @@
    "question": "Come regoli la resistenza del face pull senza cambiare elastico?",
    "options": [
     "Cambi la distanza dall’ancoraggio per variare l’allungamento dell’elastico.",
-    "Cambi la velocità della tirata mantenendo invariato l’allungamento.",
-    "Cambi la larghezza dei piedi mantenendo invariata la trazione.",
-    "Cambi l’inclinazione del busto mantenendo invariata la tensione."
+    "Cambi la velocità della tirata mantenendo invariato l’allungamento dell’elastico.",
+    "Cambi la larghezza dell’appoggio mantenendo invariato l’allungamento dell’elastico.",
+    "Cambi la presa sull’impugnatura mantenendo invariato l’allungamento dell’elastico."
    ],
    "answer": 0,
    "why": "Con lo stesso elastico, allontanarti dall’ancoraggio lo tende di più; avvicinarti riduce l’allungamento e quindi la resistenza."
@@ -227,8 +227,8 @@
    "line": 3,
    "question": "Perché il rematore a un braccio aggiunge un compito per il core rispetto alla tirata bilaterale?",
    "options": [
-    "La tirata unilaterale aumenta la flessione, ma non cambia la stabilità rotazionale.",
-    "La tirata unilaterale sostituisce il compito anti-flessione con quello anti-rotazione.",
+    "La tirata unilaterale aumenta la tendenza alla flessione, ma non alla rotazione.",
+    "La tirata unilaterale sostituisce la resistenza alla flessione con quella alla rotazione.",
     "La tirata unilaterale richiede di ruotare il busto per completare il movimento.",
     "La tirata unilaterale tende anche a ruotare il busto, che deve resistere."
    ],
@@ -242,8 +242,8 @@
    "options": [
     "Ancori più in alto del face pull, arretri e fletti leggermente anche e ginocchia.",
     "Ancori più in basso del face pull, arretri e fletti leggermente anche e ginocchia.",
-    "Ancori più in basso del face pull, arretri e tieni le ginocchia tese.",
-    "Ancori più in basso del face pull e parti con l’elastico senza tensione."
+    "Ancori più in basso del face pull, arretri e fletti le anche senza piegare le ginocchia.",
+    "Ancori più in basso del face pull, resti vicino al punto di ancoraggio e parti senza tensione."
    ],
    "answer": 1,
    "why": "L’ancoraggio più basso distingue il rematore dal face pull; arretrare mette in tensione l’elastico e la leggera flessione prepara una posizione atletica."
@@ -254,9 +254,9 @@
    "question": "Quali movimenti del busto devi contrastare mentre tiri nel rematore a un braccio?",
    "options": [
     "La flessione in avanti e l’estensione all’indietro.",
-    "La rotazione e l’inclinazione laterale, assecondando la spinta in avanti.",
+    "La rotazione del busto e l’inclinazione laterale.",
     "La flessione in avanti e la rotazione del busto.",
-    "La flessione in avanti, accompagnando la tirata con una rotazione."
+    "La flessione in avanti e l’inclinazione laterale."
    ],
    "answer": 2,
    "why": "L’elastico ti tira in avanti e, agendo su un solo lato, cerca anche di girarti. Il busto deve resistere a entrambe le forze."
@@ -267,9 +267,9 @@
    "question": "Nel rematore a un braccio, quale lavoro per il dorso si aggiunge alla stabilizzazione del core?",
    "options": [
     "I retrattori delle scapole lavorano contro resistenza mentre esegui la tirata.",
-    "I retrattori delle scapole lavorano soprattutto quando fai ruotare il busto.",
-    "Gli erettori spinali eseguono la tirata estendendo la schiena.",
-    "I retrattori delle scapole restano inattivi perché il tronco non ruota."
+    "I retrattori delle scapole lavorano soprattutto quando accompagni la tirata ruotando le spalle.",
+    "I retrattori delle scapole lavorano soltanto nella fase di ritorno, non durante la tirata.",
+    "I retrattori delle scapole lavorano senza resistenza mentre esegui la tirata."
    ],
    "answer": 0,
    "why": "Tenere fermo il tronco non impedisce alla scapola di muoversi: i suoi retrattori continuano a lavorare durante la tirata."
@@ -279,9 +279,9 @@
    "line": 1,
    "question": "Come ti posizioni perché la gravità crei una richiesta anti-flessione nella tenuta statica?",
    "options": [
-    "Tieni il busto appoggiato sulla panca e lasci sporgere le gambe.",
-    "Tieni tutto il busto appoggiato sulla panca e contrai la schiena.",
-    "Lasci sporgere il busto dalla panca e lo appoggi più in basso.",
+    "Lasci sporgere le gambe dalla panca, così la gravità le tira giù.",
+    "Lasci sporgere solo la testa dalla panca, con il busto appoggiato.",
+    "Lasci sporgere il busto dalla panca, ma lo sostieni con le mani a terra.",
     "Lasci sporgere il busto dalla panca, così la gravità lo tira giù."
    ],
    "answer": 3,
@@ -292,10 +292,10 @@
    "line": 3,
    "question": "Come usi gli estensori della schiena durante la tenuta statica sulla panca?",
    "options": [
-    "Li attivi per risalire ogni volta che il busto scende.",
+    "Li attivi a intervalli per riportare il busto in posizione ogni volta che scende.",
     "Li mantieni attivi per tenere fermo il busto e resistere alla flessione.",
-    "Li attivi all’inizio e li rilassi una volta raggiunta la posizione.",
-    "Li usi per sollevare il busto sempre più in alto durante la tenuta."
+    "Li attivi solo all’inizio per trovare la posizione, poi li lasci rilassare.",
+    "Li mantieni attivi per sollevare il busto sempre più in alto."
    ],
    "answer": 1,
    "why": "La gravità continua a tirare il busto verso il basso anche quando sei fermo, quindi serve tensione per tutta la tenuta."
@@ -305,10 +305,10 @@
    "line": 5,
    "question": "Oltre agli estensori della schiena, quali zone contribuiscono alla tenuta statica sulla panca?",
    "options": [
-    "Le spalle e i retrattori delle scapole.",
-    "Gli addominali anteriori e i retrattori delle scapole.",
+    "I muscoli del collo e i deltoidi.",
+    "I muscoli del petto e i tricipiti.",
     "I muscoli delle anche e i glutei.",
-    "Le braccia e i muscoli del dorso alto."
+    "I muscoli del polpaccio e i tibiali."
    ],
    "answer": 2,
    "why": "La tenuta coinvolge la catena posteriore: anche i muscoli delle anche e i glutei contribuiscono a mantenere la posizione."
@@ -319,9 +319,9 @@
    "question": "Quale errore fa perdere alla tenuta statica sulla panca il suo scopo anti-flessione?",
    "options": [
     "Rilassare gli erettori e lasciare che la colonna si fletta.",
-    "Mantenere gli erettori attivi senza far salire il busto.",
-    "Coinvolgere i glutei mentre la schiena mantiene la posizione.",
-    "Tenere fermo il busto anziché eseguire ripetizioni."
+    "Attivare gli erettori e mantenere la colonna neutra.",
+    "Contrarre i glutei e mantenere la schiena in tensione.",
+    "Tenere fermo il busto e mantenere la posizione senza ripetizioni."
    ],
    "answer": 0,
    "why": "Se lasci cedere la schiena, assecondi la gravità invece di contrastarla: viene meno il compito che la tenuta dovrebbe allenare."
@@ -331,9 +331,9 @@
    "line": 3,
    "question": "Quale limite possono avere squat e stacchi per chi vuole allenare tutto il core?",
    "options": [
-    "Allenano soprattutto il retto dell’addome, lasciando meno stimolo agli erettori.",
-    "Allenano gli obliqui, ma coinvolgono poco la muscolatura posteriore.",
-    "Stimolano gli erettori e il core anteriore allo stesso modo.",
+    "Stimolano retto dell’addome e obliqui, ma gli erettori possono ricevere meno lavoro.",
+    "Stimolano gli erettori, ma multifido e trasverso non partecipano alla stabilizzazione.",
+    "Stimolano gli erettori e i muscoli anteriori allo stesso modo, senza differenze rilevanti.",
     "Stimolano gli erettori, ma retto dell’addome e obliqui possono ricevere meno lavoro."
    ],
    "answer": 3,
@@ -344,10 +344,10 @@
    "line": 5,
    "question": "Perché multifido e trasverso dell’addome possono lavorare durante squat e stacchi?",
    "options": [
-    "Perché devono flettere la colonna nella fase di discesa.",
+    "Perché contribuiscono a flettere la colonna nella fase di discesa.",
     "Perché contribuiscono a stabilizzare la colonna sotto carico.",
-    "Perché devono estendere la colonna per far risalire il peso.",
-    "Perché sostituiscono gli erettori spinali nel contrastare la flessione."
+    "Perché contribuiscono a estendere la colonna nella fase di risalita.",
+    "Perché contribuiscono a ruotare il busto per compensare il carico."
    ],
    "answer": 1,
    "why": "Anche senza un movimento evidente del tronco, la colonna va stabilizzata: questo spiega il probabile contributo dei muscoli profondi."
@@ -357,10 +357,10 @@
    "line": 7,
    "question": "Quali esercizi puoi scegliere se squat e stacchi stimolano poco il core anteriore?",
    "options": [
-    "Romanian deadlift e tenuta statica sulla panca.",
-    "Face pull e rematore a un braccio.",
+    "Rematori al cavo e face pull.",
+    "Slanci con kettlebell e hip hinge.",
     "Piegamenti sulle braccia e plank.",
-    "Hip hinge con bastone e Romanian deadlift."
+    "Rematori con manubri e static hold."
    ],
    "answer": 2,
    "why": "Nei piegamenti e nel plank, la posizione del corpo richiede al core anteriore di aiutare a mantenere stabile il tronco."
@@ -371,9 +371,9 @@
    "question": "Come decidi se aggiungere esercizi mirati per il core ai fondamentali?",
    "options": [
     "Valuti obiettivi e bisogni dell’atleta, poi aggiungi lavoro dove serve.",
-    "Ti basi sul carico sollevato: se è alto, i fondamentali bastano.",
-    "Sostituisci i fondamentali con esercizi mirati quando vuoi allenare il core.",
-    "Aggiungi lo stesso lavoro per il core a tutti gli atleti."
+    "Valuti i carichi sollevati e, se sono alti, escludi altro lavoro.",
+    "Valuti il tempo a disposizione e sostituisci i multiarticolari con lavoro isolato.",
+    "Valuti la durata della seduta e assegni lo stesso lavoro a tutti gli atleti."
    ],
    "answer": 0,
    "why": "I fondamentali stimolano alcune funzioni del core più di altre. Il lavoro aggiuntivo ha senso se copre una necessità dell’atleta."
@@ -383,9 +383,9 @@
    "line": 0,
    "question": "Quale principio accomuna gli esercizi anti-flessione della lezione?",
    "options": [
-    "La colonna si flette lentamente per assorbire la forza esterna.",
-    "La colonna si estende per riportare il busto verso l’alto.",
-    "Il tronco si oppone soprattutto a una forza che vuole farlo ruotare.",
+    "La colonna si flette lentamente mentre il carico o la gravità la spinge in avanti.",
+    "La colonna si estende per riportare il busto in alto contro la gravità.",
+    "La colonna resta neutra mentre il tronco resiste soprattutto alla rotazione.",
     "La colonna resta neutra mentre il carico o la gravità tenta di fletterla."
    ],
    "answer": 3,
@@ -396,10 +396,10 @@
    "line": 2,
    "question": "Come insegni l’hip hinge con il bastone a un atleta che tende ad arrotondare la schiena?",
    "options": [
-    "Chiedi tre contatti, ginocchia tese e anche indietro.",
+    "Chiedi tre contatti, ginocchia tese, anche indietro e colonna neutra.",
     "Chiedi tre contatti, ginocchia morbide, anche indietro e colonna neutra.",
-    "Chiedi tre contatti, ginocchia molto piegate e anche sotto il busto.",
-    "Chiedi due contatti, ginocchia morbide e schiena inarcata."
+    "Chiedi tre contatti, ginocchia molto piegate, anche sotto il busto e colonna neutra.",
+    "Chiedi due contatti, ginocchia morbide, anche indietro e colonna inarcata."
    ],
    "answer": 1,
    "why": "I contatti a coccige, zona tra le scapole e testa aiutano a riconoscere se l’inclinazione viene dalle anche senza arrotondare la colonna."
@@ -409,10 +409,10 @@
    "line": 6,
    "question": "Che cosa aggiunge la tirata a un braccio al lavoro anti-flessione del rematore?",
    "options": [
-    "Un lavoro di rotazione attiva per accompagnare il braccio.",
-    "Un lavoro di estensione per raddrizzare il busto durante la tirata.",
+    "Un lavoro di rotazione attiva, perché le spalle seguono il movimento della mano.",
+    "Un lavoro di estensione, perché la trazione richiede di raddrizzare il busto.",
     "Un lavoro di anti-rotazione, perché la trazione tende a girare il busto.",
-    "Un lavoro anti-flessione più intenso, senza un nuovo compito per il busto."
+    "Un lavoro di sola stabilizzazione in avanti, perché la trazione non crea torsione."
    ],
    "answer": 2,
    "why": "La trazione su un solo lato tende a girare il busto: il core deve resistere a quella rotazione oltre che alla flessione."
@@ -423,9 +423,9 @@
    "question": "Un atleta fa squat e stacchi: come valuti se il lavoro per il core è completo?",
    "options": [
     "Consideri lo stimolo agli erettori e integri il lavoro anteriore se serve.",
-    "Dai per scontato che il lavoro anteriore equivalga a quello degli erettori.",
-    "Aumenti i carichi per garantire più stimolo a tutto il core.",
-    "Aggiungi solo tenute per gli erettori, indipendentemente dagli obiettivi."
+    "Consideri lo stimolo agli erettori e presumi che quello anteriore sia uguale.",
+    "Consideri i carichi sollevati e ritieni sufficiente lo stimolo quando salgono.",
+    "Consideri lo stimolo agli erettori e aggiungi sempre altre tenute posteriori."
    ],
    "answer": 0,
    "why": "Squat e stacchi mettono già alla prova gli erettori; per decidere cosa aggiungere, verifica se la parte anteriore riceve lo stimolo che serve all’atleta."

@@ -18,10 +18,10 @@
       "check": {
         "question": "Quale fattore viene indicato come essenziale per l'ipertrofia in questa lezione?",
         "options": [
-          "La flessibilità articolare",
+          "L'elasticità tendinea",
           "L'equilibrio proteico",
-          "La capacità aerobica",
-          "La densità ossea"
+          "L'efficienza aerobica",
+          "L'ampiezza articolare"
         ],
         "answer": 1,
         "explanation": "La lezione presenta l'equilibrio tra sintesi e disgregazione proteica come base dell'ipertrofia."
@@ -41,10 +41,10 @@
       "check": {
         "question": "Perché a Mo Farah non conviene avere molta massa muscolare?",
         "options": [
-          "Perché il muscolo grande non produce forza",
-          "Perché i fondisti non hanno fibre di tipo 2",
+          "Perché diminuirebbe la rigidità dei tendini durante la corsa",
+          "Perché ridurrebbe la capacità di usare i grassi come energia",
           "Perché sarebbe peso extra da portare su lunghe distanze",
-          "Perché l'ipertrofia riduce la flessibilità"
+          "Perché rallenterebbe la trasmissione dei segnali nervosi"
         ],
         "answer": 2,
         "explanation": "Nella corsa di fondo la massa in più diventa un carico da trasportare per molti chilometri."
@@ -66,9 +66,9 @@
         "question": "Che cos'è un'unità motoria?",
         "options": [
           "Un motoneurone insieme alle fibre muscolari a cui è collegato",
-          "Un singolo sarcomero con actina e miosina",
-          "L'insieme dei muscoli di un arto",
-          "Il tratto di midollo spinale che comanda un muscolo"
+          "Un sarcomero insieme ai filamenti contrattili che contiene",
+          "Un tendine insieme alle fibre muscolari che gli trasmettono forza",
+          "Un motoneurone insieme agli altri che innervano lo stesso muscolo"
         ],
         "answer": 0,
         "explanation": "Un motoneurone e tutte le fibre che innerva formano l'unità motoria."
@@ -89,9 +89,9 @@
       "check": {
         "question": "Che ruolo ha il calcio nella contrazione?",
         "options": [
-          "Fornisce energia diretta alla miosina",
-          "Accorcia i filamenti di actina",
-          "Trasporta il segnale lungo il motoneurone",
+          "Fornisce energia al ciclo della miosina",
+          "Accorcia i filamenti di actina e miosina",
+          "Trasmette il segnale lungo il motoneurone",
           "Scopre il sito di legame sull'actina"
         ],
         "answer": 3,
@@ -115,7 +115,7 @@
           "Tipo 2x",
           "Tipo 2a",
           "Tipo 1",
-          "Tipo 2b"
+          "Tipo 2"
         ],
         "answer": 2,
         "explanation": "Le fibre di tipo 1, aerobiche e ossidative, usano soprattutto i trigliceridi come riserva."
@@ -137,8 +137,8 @@
         "question": "Di quanto è maggiore la capacità di crescita delle fibre di tipo 2 rispetto alle tipo 1?",
         "options": [
           "Oltre il 50%",
-          "Circa il 10%",
-          "Circa il 25%",
+          "Attorno al 10%",
+          "Attorno al 25%",
           "Oltre il 200%"
         ],
         "answer": 0,
@@ -160,10 +160,10 @@
       "check": {
         "question": "Da cosa dipendono soprattutto gli aumenti di forza nelle prime settimane di un programma?",
         "options": [
-          "Dall'aumento della massa muscolare",
-          "Dall'aumento delle fibre di tipo 1",
+          "Dagli incrementi di massa magra",
+          "Dagli incrementi dei capillari",
           "Dagli adattamenti neurali",
-          "Dalla maggiore densità capillare"
+          "Dagli incrementi dei mitocondri"
         ],
         "answer": 2,
         "explanation": "All'inizio il sistema nervoso impara il gesto e si organizza meglio, prima che il muscolo cresca."
@@ -184,10 +184,10 @@
       "check": {
         "question": "Che cos'è il rate coding?",
         "options": [
-          "Il numero di fibre attivate in una contrazione",
+          "La quantità di unità motorie che si attivano insieme",
           "La frequenza con cui vengono stimolate le unità motorie",
-          "La velocità di accorciamento del sarcomero",
-          "Il tempo per raggiungere il picco di tensione"
+          "La velocità con cui si accorciano i sarcomeri sotto carico",
+          "La rapidità con cui si raggiunge il picco di tensione"
         ],
         "answer": 1,
         "explanation": "Rate coding, o frequenza di scarica, è il ritmo di stimolazione delle unità motorie."
@@ -207,9 +207,9 @@
       "check": {
         "question": "Cosa serve perché si verifichi ipertrofia?",
         "options": [
-          "Che sintesi e disgregazione si bilancino",
+          "Che la sintesi eguagli la disgregazione",
           "Che la disgregazione superi la sintesi",
-          "Che si allunghino i periodi di digiuno",
+          "Che la disgregazione aumenti a digiuno",
           "Che la sintesi superi la disgregazione"
         ],
         "answer": 3,
@@ -232,8 +232,8 @@
         "options": [
           "Trascrizione",
           "Traduzione",
-          "Disgregazione",
-          "Contrazione"
+          "Replicazione",
+          "Maturazione"
         ],
         "answer": 1,
         "explanation": "Nella traduzione i ribosomi leggono l'RNA messaggero e costruiscono la proteina."
@@ -256,7 +256,7 @@
           "Di circa 10-20 volte",
           "Di circa il 10%",
           "Di circa 2-5 volte",
-          "Non cambia, aumenta solo la disgregazione"
+          "Di circa il 30%"
         ],
         "answer": 2,
         "explanation": "Dopo la seduta la sintesi proteica sale di circa 2-5 volte, nonostante l'aumento della disgregazione durante."
@@ -276,9 +276,9 @@
       "check": {
         "question": "Quale frase riassume correttamente la lezione?",
         "options": [
-          "Le fibre di tipo 1 crescono più di tutte e vanno allenate per prime",
-          "I primi guadagni di forza dipendono solo dalla crescita muscolare",
-          "La disgregazione deve superare la sintesi per crescere",
+          "Il muscolo cresce quando sintesi e disgregazione restano in equilibrio",
+          "Il muscolo cresce quando aumenta la forza, senza bisogno di accumulare proteine",
+          "Il muscolo cresce quando la sintesi proteica scende sotto la disgregazione",
           "Il muscolo cresce quando la sintesi proteica supera la disgregazione"
         ],
         "answer": 3,
@@ -417,10 +417,10 @@
     {
       "question": "Quale tipo di muscolo ci interessa far crescere con l'allenamento per l'ipertrofia?",
       "options": [
-        "Muscolo liscio",
+        "Muscolo liscio vasale",
         "Muscolo scheletrico",
         "Muscolo cardiaco",
-        "Tutti e tre allo stesso modo"
+        "Muscolo liscio gastrico"
       ],
       "answer": 1,
       "explanation": "L'ipertrofia che cerchiamo con l'allenamento riguarda il muscolo scheletrico.",
@@ -429,9 +429,9 @@
     {
       "question": "Quando un motoneurone riceve il segnale, cosa accade alle fibre muscolari a cui è collegato?",
       "options": [
-        "Si contrae solo la fibra più vicina",
-        "Si contraggono a turno, una dopo l'altra",
-        "Si contraggono solo se il carico è alto",
+        "Si contraggono le vicine",
+        "Si contraggono a turno",
+        "Si contraggono le lente",
         "Si contraggono tutte"
       ],
       "answer": 3,
@@ -442,9 +442,9 @@
       "question": "Dove si trovano actina e miosina?",
       "options": [
         "Nei sarcomeri, dentro le miofibrille",
-        "Nei motoneuroni",
-        "Nei capillari del muscolo",
-        "Nei ribosomi"
+        "Nei motoneuroni, dentro le terminazioni",
+        "Nei capillari, dentro le cellule della parete",
+        "Nei nuclei, dentro le fibre muscolari"
       ],
       "answer": 0,
       "explanation": "I sarcomeri nelle miofibrille contengono i filamenti contrattili actina e miosina.",
@@ -453,10 +453,10 @@
     {
       "question": "Secondo la teoria dei filamenti scorrevoli, la miosina tira l'actina...",
       "options": [
-        "verso l'esterno del sarcomero",
-        "verso il tendine",
+        "verso il bordo del sarcomero",
+        "verso il punto di inserzione",
         "verso il centro del sarcomero",
-        "verso il motoneurone"
+        "verso il reticolo della fibra"
       ],
       "answer": 2,
       "explanation": "La miosina aggancia l'actina e la tira verso il centro del sarcomero, che si accorcia.",
@@ -477,9 +477,9 @@
     {
       "question": "Qual è la durata massima di utilizzo indicata per le fibre di tipo 2x (2b)?",
       "options": [
-        "Ore",
+        "Meno di 2 ore",
         "Meno di 30 minuti",
-        "Circa 5 minuti",
+        "Meno di 5 minuti",
         "Meno di 1 minuto"
       ],
       "answer": 3,
@@ -490,9 +490,9 @@
       "question": "Quale caratteristica appartiene alle fibre di tipo 1?",
       "options": [
         "Densità mitocondriale alta e resistenza alla fatica alta",
-        "Motoneurone molto grande",
-        "Potenza prodotta molto alta",
-        "Capacità glicolitica alta"
+        "Densità mitocondriale bassa e resistenza alla fatica alta",
+        "Densità capillare bassa e capacità glicolitica alta",
+        "Densità mitocondriale alta e potenza contrattile alta"
       ],
       "answer": 0,
       "explanation": "Le fibre di tipo 1 sono ossidative, ricche di mitocondri e molto resistenti alla fatica.",
@@ -501,10 +501,10 @@
     {
       "question": "Rispetto ai velocisti, gli atleti di resistenza nei quadricipiti hanno...",
       "options": [
-        "più fibre di tipo 2x",
-        "la stessa distribuzione di fibre",
+        "una percentuale più alta di fibre di tipo 2x",
+        "una percentuale simile di fibre di tipo 1",
         "una percentuale più alta di fibre di tipo 1",
-        "solo fibre di tipo 2a"
+        "una percentuale più bassa di fibre di tipo 1"
       ],
       "answer": 2,
       "explanation": "Gli atleti di resistenza mostrano più fibre di tipo 1 nello stesso muscolo.",
@@ -515,8 +515,8 @@
       "options": [
         "Sulle fibre di tipo 1",
         "Sulle fibre di tipo 2",
-        "Solo sulle fibre dei polpacci",
-        "Su nessuna in particolare"
+        "Sulle fibre dei polpacci",
+        "Sulle fibre di ogni tipo"
       ],
       "answer": 1,
       "explanation": "Le fibre di tipo 2 hanno più capacità di crescita, quindi sono il focus principale.",
@@ -525,9 +525,9 @@
     {
       "question": "Un atleta solleva molto di più in panca dopo poche sedute. Qual è la spiegazione principale?",
       "options": [
-        "Grande aumento della massa del petto",
-        "Trasformazione delle fibre di tipo 1 in tipo 2",
-        "Aumento della densità capillare",
+        "Il muscolo del petto è cresciuto abbastanza da produrre molta più forza",
+        "Il muscolo ha trasformato gran parte delle fibre lente in fibre rapide",
+        "Il tessuto muscolare ha sviluppato più capillari e riceve più ossigeno",
         "Il sistema nervoso ha imparato il gesto e invia i segnali meglio"
       ],
       "answer": 3,
@@ -538,9 +538,9 @@
       "question": "Perché gli adattamenti neurali favoriscono anche l'ipertrofia?",
       "options": [
         "Permettono di sollevare carichi più alti, quindi danno più stimolo di crescita",
-        "Riducono la disgregazione proteica a riposo",
-        "Aumentano il numero di miofibrille senza allenamento",
-        "Trasformano i grassi in proteine"
+        "Permettono di ridurre la disgregazione proteica soprattutto a riposo",
+        "Permettono di costruire nuove miofibrille senza sottoporle a tensione",
+        "Permettono di stimolare la crescita soprattutto aumentando i capillari"
       ],
       "answer": 0,
       "explanation": "Con carichi più alti e più fibre attivate lo stimolo per la crescita aumenta.",
@@ -549,10 +549,10 @@
     {
       "question": "Cosa succede se la disgregazione proteica supera la sintesi?",
       "options": [
-        "Il muscolo cresce",
-        "La massa resta uguale",
+        "Si guadagna massa magra",
+        "Si mantiene la massa magra",
         "Si perde massa muscolare",
-        "Aumenta solo la forza"
+        "Si guadagna soltanto forza"
       ],
       "answer": 2,
       "explanation": "Con più disgregazione che sintesi l'equilibrio proteico è negativo e si perde muscolo.",
@@ -561,10 +561,10 @@
     {
       "question": "Nella trascrizione, cosa viene prodotto?",
       "options": [
-        "La proteina finita",
+        "Proteina a partire dall’RNA messaggero",
         "RNA messaggero a partire dal DNA",
-        "Nuovi ribosomi",
-        "Calcio per la contrazione"
+        "DNA a partire dall’RNA messaggero",
+        "RNA messaggero a partire da una proteina"
       ],
       "answer": 1,
       "explanation": "La trascrizione crea l'RNA messaggero che porta la sequenza di una proteina del DNA.",
@@ -573,9 +573,9 @@
     {
       "question": "Cosa succede alla disgregazione proteica durante una seduta con i pesi?",
       "options": [
-        "Si azzera",
-        "Resta invariata",
-        "Diminuisce di 2-5 volte",
+        "Si ferma",
+        "Ristagna",
+        "Decresce",
         "Aumenta"
       ],
       "answer": 3,

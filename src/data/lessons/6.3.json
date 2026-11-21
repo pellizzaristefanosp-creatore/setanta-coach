@@ -19,10 +19,10 @@
       "check": {
         "question": "Su cosa si basano le strategie pratiche di questa lezione?",
         "options": [
-          "Solo sull'esperienza dei bodybuilder",
+          "Sulle esperienze dei bodybuilder e sulle loro preferenze per certi esercizi",
           "Sulle variabili dell'allenamento con i pesi e sui meccanismi dell'ipertrofia",
-          "Sui test di velocità dello sprint",
-          "Sulla periodizzazione del calendario partite"
+          "Sulle misure della velocità di sprint e sui tempi di recupero tra gli scatti",
+          "Sulle fasi della stagione agonistica e sui giorni disponibili tra le partite"
         ],
         "answer": 1,
         "explanation": "Le tecniche nascono dalle variabili dell'allenamento con sovraccarichi e dai meccanismi dell'ipertrofia, ma sono pensate per l'uso pratico."
@@ -43,9 +43,9 @@
         "question": "In quale ordine si fanno gli esercizi nel pre-esaurimento?",
         "options": [
           "Prima il multi-articolare, poi l'isolamento",
-          "Due esercizi multi-articolari di fila",
+          "Prima il multi-articolare, poi un altro multi-articolare",
           "Prima l'isolamento, poi il multi-articolare",
-          "Isolamento e multi-articolare insieme, in superserie alternata"
+          "Prima l'isolamento, poi il lavoro di mobilità"
         ],
         "answer": 2,
         "explanation": "Il pre-esaurimento stanca il muscolo con l'isolamento e poi lo fa lavorare nel movimento composto."
@@ -65,10 +65,10 @@
       "check": {
         "question": "Qual è uno dei limiti del pre-esaurimento citati nella lezione?",
         "options": [
-          "Aumenta troppo il volume nel multi-articolare",
+          "Può aumentare troppo il numero di ripetizioni nel movimento composto",
           "Può spostare il lavoro sui muscoli di supporto, come la bassa schiena",
-          "Funziona solo con esercizi a corpo libero",
-          "Elimina del tutto la fatica nel movimento composto"
+          "Può richiedere carichi più alti per completare il movimento composto",
+          "Può ridurre la fatica del muscolo bersaglio nel movimento composto"
         ],
         "answer": 1,
         "explanation": "La fatica dell'isolamento può far lavorare i muscoli di supporto e ridurre il volume nel composto."
@@ -88,10 +88,10 @@
       "check": {
         "question": "Perché si può spingere oltre il cedimento concentrico lavorando in eccentrica?",
         "options": [
-          "Perché in eccentrica si usano solo le fibre lente",
-          "Perché in eccentrica il carico è sempre più leggero",
+          "Perché in eccentrica si alternano le fibre attive, lasciando riposare quelle già affaticate",
+          "Perché in eccentrica il peso del carico diminuisce man mano che si avvicina al suolo",
           "Perché in eccentrica le strutture passive del muscolo aiutano e si spende meno energia",
-          "Perché in eccentrica non c'è tensione meccanica"
+          "Perché in eccentrica il lavoro passa interamente ai muscoli antagonisti durante la discesa"
         ],
         "answer": 2,
         "explanation": "In eccentrica siamo più forti grazie al supporto delle strutture passive: la fase è più efficiente e meno costosa."
@@ -111,10 +111,10 @@
       "check": {
         "question": "Perché si consiglia di variare l'angolo della pausa isometrica tra le serie?",
         "options": [
-          "Per poter usare carichi più pesanti",
+          "Per poter usare carichi più elevati",
           "Per stimolare il muscolo in modo più completo",
-          "Per ridurre il tempo sotto tensione",
-          "Per evitare la fase eccentrica"
+          "Per ridurre il tempo totale sotto tensione",
+          "Per rendere più rapido il recupero muscolare"
         ],
         "answer": 1,
         "explanation": "Fermarsi sempre allo stesso angolo stimola solo una parte del muscolo; cambiando angolo la stimolazione è più completa."
@@ -134,10 +134,10 @@
       "check": {
         "question": "Su quale idea si basa il drop set classico?",
         "options": [
-          "Al cedimento il muscolo è del tutto esaurito",
+          "Al cedimento il muscolo non riesce più a lavorare, nemmeno con un carico più leggero",
           "Al cedimento il muscolo non regge quel carico, ma può lavorare con uno più leggero",
-          "Bisogna riposare tre minuti tra ogni scalata di peso",
-          "Il carico va aumentato a ogni passaggio"
+          "Al cedimento il muscolo può continuare con lo stesso carico se si accorcia la discesa",
+          "Al cedimento il muscolo recupera meglio se si aumenta il carico a ogni passaggio"
         ],
         "answer": 1,
         "explanation": "Il cedimento concentrico riguarda quel carico specifico: togliendo peso il muscolo può continuare a lavorare."
@@ -181,9 +181,9 @@
         "question": "Quanto dura di solito la pausa dentro una serie cluster?",
         "options": [
           "Circa 10-20 secondi",
-          "Circa 60 secondi",
-          "Circa 2-3 minuti",
-          "Nessuna pausa"
+          "Circa 3-5 secondi",
+          "Circa 30-40 secondi",
+          "Circa 60-90 secondi"
         ],
         "answer": 0,
         "explanation": "Nel cluster si riposa circa 10-20 secondi: un recupero parziale che permette qualche ripetizione in più."
@@ -206,7 +206,7 @@
           "Del 1-2%",
           "Del 10%",
           "Del 4-5%",
-          "Del 20%"
+          "Del 7-8%"
         ],
         "answer": 2,
         "explanation": "Una volta completato il 10 x 10 con 60 secondi di recupero, il carico sale del 4-5% e si ripete il ciclo."
@@ -226,10 +226,10 @@
       "check": {
         "question": "Se non hai l'1RM per un esercizio, come scegli il carico per lo schema 4 x 8-10?",
         "options": [
-          "Usi sempre metà del peso corporeo",
+          "Per tentativi, cercando un carico da 5-6 ripetizioni",
           "Per tentativi, cercando un carico da 10-12 ripetizioni",
-          "Usi il carico massimo per 3 ripetizioni",
-          "Copi il carico di un compagno"
+          "Per tentativi, cercando un carico da 15-18 ripetizioni",
+          "Per tentativi, cercando un carico da 20-22 ripetizioni"
         ],
         "answer": 1,
         "explanation": "Il preparatore procede per tentativi ed errori fino a trovare un carico sollevabile per 10-12 ripetizioni."
@@ -251,7 +251,7 @@
         "options": [
           "7 ripetizioni con 50 kg",
           "7 ripetizioni con 60 kg",
-          "5 ripetizioni con 55 kg",
+          "7 ripetizioni con 52,5 kg",
           "7 ripetizioni con 55 kg"
         ],
         "answer": 3,
@@ -273,9 +273,9 @@
         "question": "Quale focus dell'attenzione può essere utile nell'allenamento per l'ipertrofia?",
         "options": [
           "Focus interno, grazie alla connessione mente-muscolo",
-          "Focus esterno, sempre e solo sul peso",
-          "Nessun focus: meglio distrarsi",
-          "Focus sul cronometro del recupero"
+          "Focus esterno, guardando soltanto i dischi sul bilanciere",
+          "Focus visivo, fissando un punto lontano dal movimento",
+          "Focus sul recupero, contando i secondi mentre si solleva"
         ],
         "answer": 0,
         "explanation": "In ipertrofia pensare al muscolo che lavora può aumentarne l'attivazione: è la connessione mente-muscolo."
@@ -295,9 +295,9 @@
         "question": "Quale di questi è uno schema di serie e ripetizioni, non una tecnica di intensità?",
         "options": [
           "Drop set meccanico",
-          "Pausa isometrica",
+          "Pre-affaticamento mirato",
           "German Volume Training",
-          "Serie doppia concentrica-eccentrica"
+          "Prolungamento eccentrico"
         ],
         "answer": 2,
         "explanation": "Il German Volume Training è uno schema di carico (10 x 10); le altre sono tecniche da inserire nelle serie."
@@ -305,134 +305,309 @@
     }
   ],
   "flashcards": [
-    { "front": "Quali tecniche per l'ipertrofia vede la lezione 6.3?", "back": "Pre-esaurimento, serie doppia concentrica-eccentrica, pause isometriche, drop set classico e meccanico, serie cluster.", "part": 0 },
-    { "front": "Cos'è il pre-esaurimento?", "back": "Un esercizio di isolamento seguito da un multi-articolare per lo stesso muscolo, che arriva già affaticato.", "part": 1 },
-    { "front": "Esempio classico di pre-esaurimento?", "back": "Leg curl da sdraiato seguito dallo stacco da terra.", "part": 1 },
-    { "front": "Due limiti del pre-esaurimento?", "back": "La fatica può spostarsi sui muscoli di supporto (bassa schiena) e cala il volume nel multi-articolare.", "part": 2 },
-    { "front": "Leg curl e stacco: quale azione enfatizza ciascuno?", "back": "Leg curl: flessione del ginocchio. Stacco: estensione dell'anca.", "part": 2 },
-    { "front": "Perché si può andare oltre il cedimento in eccentrica?", "back": "In eccentrica siamo più forti: le strutture passive del muscolo aiutano e si spende meno energia.", "part": 3 },
-    { "front": "Come si esegue la serie doppia concentrica-eccentrica?", "back": "Vicino al cedimento concentrico l'assistente aiuta a salire; l'atleta controlla solo la discesa.", "part": 3 },
-    { "front": "Cosa aumenta la pausa isometrica?", "back": "Il tempo sotto tensione, senza movimento ma con il muscolo in tensione.", "part": 4 },
-    { "front": "Dove si mette di solito la pausa isometrica?", "back": "A fine serie o nell'ultima ripetizione, cambiando angolo a ogni serie.", "part": 4 },
-    { "front": "Cos'è il cedimento concentrico?", "back": "Il muscolo non riesce più a lavorare con quel carico, ma non è del tutto esaurito.", "part": 5 },
-    { "front": "Come si esegue un drop set classico?", "back": "Vicino al cedimento, poi si toglie peso quasi senza riposo, fino al solo bilanciere.", "part": 5 },
-    { "front": "Differenza tra drop set classico e meccanico?", "back": "Nel classico togli peso; nel meccanico aumenti il vantaggio meccanico rendendo l'esercizio più facile.", "part": 6 },
-    { "front": "Le tre varianti del rematore supino nel drop set meccanico?", "back": "Piedi su panca, poi corpo dritto con piedi a terra, poi piedi vicini con ginocchia piegate.", "part": 6 },
-    { "front": "Cos'è una serie cluster?", "back": "Carichi pesanti con brevi pause (10-20 s) dentro la serie per fare ripetizioni in più. Detta anche rest-pause.", "part": 7 },
-    { "front": "Esempio di serie cluster alla panca?", "back": "3 ripetizioni, 15 s di pausa, 2 ripetizioni (eventualmente altri 15 s e 2 ripetizioni).", "part": 7 },
-    { "front": "German Volume Training: struttura?", "back": "10 x 10 con lo stesso carico, circa 60 s di recupero, carico da circa 20 rip (circa 60% 1RM).", "part": 8 },
-    { "front": "GVT: quanti esercizi e gruppi per seduta?", "back": "Un esercizio multi-articolare per gruppo, due gruppi muscolari per seduta.", "part": 8 },
-    { "front": "GVT: come si progredisce?", "back": "Completato il 10 x 10 con 60 s costanti, +4-5% di carico e si ripete.", "part": 8 },
-    { "front": "Schema semplice ed efficace per l'ipertrofia?", "back": "4 serie da 8-10 ripetizioni al 70% dell'1RM.", "part": 9 },
-    { "front": "Su quanti esercizi alla volta aumentare il carico?", "back": "Su 1-2 esercizi alla volta, non su tutti insieme.", "part": 9 },
-    { "front": "Onde 7-5-3: esempio di prima onda?", "back": "7 rip con 50 kg, 5 con 55 kg, 3 con 60 kg.", "part": 10 },
-    { "front": "Onde 7-5-3: come cambia la seconda onda?", "back": "Il carico delle 5 rip diventa quello delle 7: 7x55, 5x60, 3x65 kg.", "part": 10 },
-    { "front": "Focus interno e focus esterno?", "back": "Interno: pensare alla contrazione e al corpo. Esterno: pensare al movimento e al peso.", "part": 11 },
-    { "front": "Perché il focus interno in ipertrofia?", "back": "Per la connessione mente-muscolo: può aumentare l'attivazione del muscolo.", "part": 11 },
-    { "front": "I tre schemi di serie e ripetizioni della lezione?", "back": "German Volume Training, 4 x 8-10 al 70% 1RM, onde 7-5-3.", "part": 12 }
+    {
+      "front": "Quali tecniche per l'ipertrofia vede la lezione 6.3?",
+      "back": "Pre-esaurimento, serie doppia concentrica-eccentrica, pause isometriche, drop set classico e meccanico, serie cluster.",
+      "part": 0
+    },
+    {
+      "front": "Cos'è il pre-esaurimento?",
+      "back": "Un esercizio di isolamento seguito da un multi-articolare per lo stesso muscolo, che arriva già affaticato.",
+      "part": 1
+    },
+    {
+      "front": "Esempio classico di pre-esaurimento?",
+      "back": "Leg curl da sdraiato seguito dallo stacco da terra.",
+      "part": 1
+    },
+    {
+      "front": "Due limiti del pre-esaurimento?",
+      "back": "La fatica può spostarsi sui muscoli di supporto (bassa schiena) e cala il volume nel multi-articolare.",
+      "part": 2
+    },
+    {
+      "front": "Leg curl e stacco: quale azione enfatizza ciascuno?",
+      "back": "Leg curl: flessione del ginocchio. Stacco: estensione dell'anca.",
+      "part": 2
+    },
+    {
+      "front": "Perché si può andare oltre il cedimento in eccentrica?",
+      "back": "In eccentrica siamo più forti: le strutture passive del muscolo aiutano e si spende meno energia.",
+      "part": 3
+    },
+    {
+      "front": "Come si esegue la serie doppia concentrica-eccentrica?",
+      "back": "Vicino al cedimento concentrico l'assistente aiuta a salire; l'atleta controlla solo la discesa.",
+      "part": 3
+    },
+    {
+      "front": "Cosa aumenta la pausa isometrica?",
+      "back": "Il tempo sotto tensione, senza movimento ma con il muscolo in tensione.",
+      "part": 4
+    },
+    {
+      "front": "Dove si mette di solito la pausa isometrica?",
+      "back": "A fine serie o nell'ultima ripetizione, cambiando angolo a ogni serie.",
+      "part": 4
+    },
+    {
+      "front": "Cos'è il cedimento concentrico?",
+      "back": "Il muscolo non riesce più a lavorare con quel carico, ma non è del tutto esaurito.",
+      "part": 5
+    },
+    {
+      "front": "Come si esegue un drop set classico?",
+      "back": "Vicino al cedimento, poi si toglie peso quasi senza riposo, fino al solo bilanciere.",
+      "part": 5
+    },
+    {
+      "front": "Differenza tra drop set classico e meccanico?",
+      "back": "Nel classico togli peso; nel meccanico aumenti il vantaggio meccanico rendendo l'esercizio più facile.",
+      "part": 6
+    },
+    {
+      "front": "Le tre varianti del rematore supino nel drop set meccanico?",
+      "back": "Piedi su panca, poi corpo dritto con piedi a terra, poi piedi vicini con ginocchia piegate.",
+      "part": 6
+    },
+    {
+      "front": "Cos'è una serie cluster?",
+      "back": "Carichi pesanti con brevi pause (10-20 s) dentro la serie per fare ripetizioni in più. Detta anche rest-pause.",
+      "part": 7
+    },
+    {
+      "front": "Esempio di serie cluster alla panca?",
+      "back": "3 ripetizioni, 15 s di pausa, 2 ripetizioni (eventualmente altri 15 s e 2 ripetizioni).",
+      "part": 7
+    },
+    {
+      "front": "German Volume Training: struttura?",
+      "back": "10 x 10 con lo stesso carico, circa 60 s di recupero, carico da circa 20 rip (circa 60% 1RM).",
+      "part": 8
+    },
+    {
+      "front": "GVT: quanti esercizi e gruppi per seduta?",
+      "back": "Un esercizio multi-articolare per gruppo, due gruppi muscolari per seduta.",
+      "part": 8
+    },
+    {
+      "front": "GVT: come si progredisce?",
+      "back": "Completato il 10 x 10 con 60 s costanti, +4-5% di carico e si ripete.",
+      "part": 8
+    },
+    {
+      "front": "Schema semplice ed efficace per l'ipertrofia?",
+      "back": "4 serie da 8-10 ripetizioni al 70% dell'1RM.",
+      "part": 9
+    },
+    {
+      "front": "Su quanti esercizi alla volta aumentare il carico?",
+      "back": "Su 1-2 esercizi alla volta, non su tutti insieme.",
+      "part": 9
+    },
+    {
+      "front": "Onde 7-5-3: esempio di prima onda?",
+      "back": "7 rip con 50 kg, 5 con 55 kg, 3 con 60 kg.",
+      "part": 10
+    },
+    {
+      "front": "Onde 7-5-3: come cambia la seconda onda?",
+      "back": "Il carico delle 5 rip diventa quello delle 7: 7x55, 5x60, 3x65 kg.",
+      "part": 10
+    },
+    {
+      "front": "Focus interno e focus esterno?",
+      "back": "Interno: pensare alla contrazione e al corpo. Esterno: pensare al movimento e al peso.",
+      "part": 11
+    },
+    {
+      "front": "Perché il focus interno in ipertrofia?",
+      "back": "Per la connessione mente-muscolo: può aumentare l'attivazione del muscolo.",
+      "part": 11
+    },
+    {
+      "front": "I tre schemi di serie e ripetizioni della lezione?",
+      "back": "German Volume Training, 4 x 8-10 al 70% 1RM, onde 7-5-3.",
+      "part": 12
+    }
   ],
   "questions": [
     {
       "question": "Quale coppia di esercizi è l'esempio di pre-esaurimento della lezione?",
-      "options": ["Stacco da terra seguito da leg curl", "Leg curl da sdraiato seguito da stacco da terra", "Squat seguito da leg extension", "Panca piana seguita da croci"],
+      "options": [
+        "Leg curl da seduto seguito da affondi in camminata",
+        "Leg curl da sdraiato seguito da stacco da terra",
+        "Leg extension da seduto seguito da squat al multipower",
+        "Curl con manubri seguito da trazioni alla sbarra"
+      ],
       "answer": 1,
       "explanation": "Nel pre-esaurimento si fa prima l'isolamento (leg curl) e poi il multi-articolare (stacco).",
       "part": 1
     },
     {
       "question": "Perché l'efficacia del pre-esaurimento è considerata discutibile?",
-      "options": ["Perché aumenta troppo il carico nel multi-articolare", "Perché richiede sempre un assistente", "Perché la fatica può spostarsi sui muscoli di supporto e cala il volume nel composto", "Perché si può usare solo con le macchine"],
+      "options": [
+        "Perché la fatica può esaurirsi prima del movimento composto e il muscolo bersaglio arriva troppo riposato",
+        "Perché la fatica può concentrarsi tutta nel movimento composto e il lavoro di isolamento diventa superfluo",
+        "Perché la fatica può spostarsi sui muscoli di supporto e cala il volume nel composto",
+        "Perché la fatica può aumentare il volume nel movimento composto e costringere a ridurre il lavoro di isolamento"
+      ],
       "answer": 2,
       "explanation": "La fatica dell'isolamento può caricare muscoli come la bassa schiena e ridurre il volume del multi-articolare.",
       "part": 2
     },
     {
       "question": "Nella serie doppia concentrica-eccentrica, cosa fa l'assistente?",
-      "options": ["Aiuta a sollevare il carico in concentrica, l'atleta controlla la discesa", "Toglie i dischi dal bilanciere", "Conta i secondi di pausa isometrica", "Aiuta nella fase eccentrica, l'atleta spinge da solo"],
+      "options": [
+        "Aiuta a sollevare il carico in concentrica, l'atleta controlla la discesa",
+        "Aiuta a frenare il carico in discesa, l'atleta completa la salita da solo",
+        "Aiuta a tenere fermo il carico in alto, l'atleta riparte dopo la pausa",
+        "Aiuta a ridurre il carico tra due ripetizioni, l'atleta riparte senza pausa"
+      ],
       "answer": 0,
       "explanation": "Raggiunto il cedimento concentrico, l'assistente aiuta a salire e l'atleta si concentra sull'eccentrica.",
       "part": 3
     },
     {
       "question": "Perché siamo più forti nella fase eccentrica?",
-      "options": ["Perché il carico è più leggero in discesa", "Perché lavorano solo le fibre veloci", "Perché la fase eccentrica dura meno", "Per il supporto delle strutture passive del muscolo, che la rende più efficiente"],
+      "options": [
+        "Per il minor peso effettivo del carico in discesa, che la rende più facile da controllare",
+        "Per il passaggio del lavoro ai muscoli antagonisti, che sostengono il peso al posto del muscolo bersaglio",
+        "Per il maggior consumo energetico del muscolo, che gli permette di sviluppare più forza",
+        "Per il supporto delle strutture passive del muscolo, che la rende più efficiente"
+      ],
       "answer": 3,
       "explanation": "Le strutture passive aiutano in eccentrica: la fase è più efficiente e meno dispendiosa dal punto di vista energetico.",
       "part": 3
     },
     {
       "question": "Cosa succede se metti una pausa isometrica a ogni ripetizione?",
-      "options": ["Il tempo sotto tensione cala", "Devi ridurre il carico e lo stimolo ipertrofico può risentirne", "Puoi usare carichi più alti", "La serie diventa un drop set"],
+      "options": [
+        "Devi aumentare il carico e il tempo sotto tensione si riduce",
+        "Devi ridurre il carico e lo stimolo ipertrofico può risentirne",
+        "Devi lasciare invariato il carico e la fatica muscolare non cambia",
+        "Devi aumentare il carico e il muscolo si affatica più lentamente"
+      ],
       "answer": 1,
       "explanation": "Più pause aumentano il tempo sotto tensione ma obbligano a ridurre il carico: meglio usarle con parsimonia.",
       "part": 4
     },
     {
       "question": "Con quattro serie di split squat, come conviene usare la pausa isometrica?",
-      "options": ["Nell'ultima ripetizione di ogni serie, a un angolo diverso ogni volta", "A ogni ripetizione, sempre allo stesso angolo", "Solo nella prima serie, in alto", "Mai, perché lo split squat non lo permette"],
+      "options": [
+        "Nell'ultima ripetizione di ogni serie, a un angolo diverso ogni volta",
+        "Nella prima ripetizione di ogni serie, a un angolo diverso ogni volta",
+        "Nell'ultima ripetizione di ogni serie, sempre allo stesso angolo",
+        "Nell'ultima ripetizione della prima serie, nella posizione più bassa"
+      ],
       "answer": 0,
       "explanation": "Pausa nell'ultima ripetizione e angolo diverso a ogni serie per stimolare il muscolo in modo completo.",
       "part": 4
     },
     {
       "question": "In un drop set classico, fino a dove si scende con il carico?",
-      "options": ["Fino al 70% dell'1RM", "Fino a metà del carico iniziale", "Fino al solo bilanciere", "Si toglie un solo disco"],
+      "options": [
+        "Fino al 70% dell'1RM",
+        "Fino al 50% del peso iniziale",
+        "Fino al solo bilanciere",
+        "Fino al disco più leggero"
+      ],
       "answer": 2,
       "explanation": "Si toglie peso più volte quasi senza riposo, finché resta solo la sbarra.",
       "part": 5
     },
     {
       "question": "Cosa cambia nel drop set meccanico rispetto al classico?",
-      "options": ["Si aumenta il carico a ogni passaggio", "Si riposa 60 secondi tra le varianti", "Si cambia gruppo muscolare", "Il peso resta uguale ma l'esercizio diventa più facile grazie al vantaggio meccanico"],
+      "options": [
+        "Il peso aumenta a ogni passaggio, ma le leve più favorevoli compensano l’incremento del carico",
+        "Il peso resta uguale e si ripete lo stesso movimento dopo una breve pausa di recupero",
+        "Il peso resta uguale, ma lo sforzo si sposta su un altro muscolo mantenendo la stessa difficoltà",
+        "Il peso resta uguale ma l'esercizio diventa più facile grazie al vantaggio meccanico"
+      ],
       "answer": 3,
       "explanation": "Nel meccanico non si toglie peso: si modifica l'esercizio per aumentare il vantaggio meccanico.",
       "part": 6
     },
     {
       "question": "Perché nelle prime varianti del drop set meccanico non si arriva al cedimento completo?",
-      "options": ["Perché farebbe crollare la resa nelle varianti successive", "Perché il cedimento è vietato in ipertrofia", "Perché serve un assistente", "Perché si deve aumentare il carico"],
+      "options": [
+        "Perché farebbe crollare la resa nelle varianti successive",
+        "Perché impedirebbe di aumentare il peso nelle varianti successive",
+        "Perché renderebbe troppo facili le varianti successive",
+        "Perché ridurrebbe il recupero previsto tra una variante e l’altra"
+      ],
       "answer": 0,
       "explanation": "Arrivare al cedimento pieno causerebbe un calo drastico nelle varianti seguenti.",
       "part": 6
     },
     {
       "question": "Quale descrizione corrisponde a una serie cluster?",
-      "options": ["10 serie da 10 con 60 secondi di recupero", "Carichi pesanti con pause di 10-20 secondi dentro la serie", "Serie che scalano il peso fino al bilanciere", "Isolamento seguito da multi-articolare"],
+      "options": [
+        "Carichi moderati con pause di 60 secondi tra le serie complete",
+        "Carichi pesanti con pause di 10-20 secondi dentro la serie",
+        "Carichi decrescenti con passaggi immediati tra blocchi di ripetizioni",
+        "Carichi invariati con un passaggio a leve più favorevoli senza pause"
+      ],
       "answer": 1,
       "explanation": "Il cluster (rest-pause) usa brevi pause dentro la serie per fare ripetizioni in più con carichi pesanti.",
       "part": 7
     },
     {
       "question": "Nel German Volume Training, a quale carico iniziale si parte?",
-      "options": ["Circa 80% 1RM, 8 ripetizioni al cedimento", "Circa 70% 1RM, 12 ripetizioni al cedimento", "Circa 60% 1RM, circa 20 ripetizioni al cedimento", "Circa 40% 1RM, 30 ripetizioni al cedimento"],
+      "options": [
+        "Circa 85% 1RM, circa 6 ripetizioni al cedimento",
+        "Circa 75% 1RM, circa 10 ripetizioni al cedimento",
+        "Circa 60% 1RM, circa 20 ripetizioni al cedimento",
+        "Circa 45% 1RM, circa 30 ripetizioni al cedimento"
+      ],
       "answer": 2,
       "explanation": "Il carico iniziale permette circa 20 ripetizioni prima del cedimento, più o meno il 60% dell'1RM.",
       "part": 8
     },
     {
       "question": "Quale indicazione sul German Volume Training è corretta?",
-      "options": ["Tre esercizi per gruppo muscolare e quattro gruppi per seduta", "Esercizi di isolamento come le croci", "Recuperi di 3 minuti tra le serie", "Un esercizio per gruppo muscolare e due gruppi per seduta"],
+      "options": [
+        "Un esercizio per gruppo muscolare e quattro gruppi per seduta",
+        "Un esercizio di isolamento per gruppo muscolare e due gruppi per seduta",
+        "Un esercizio per gruppo muscolare e tre minuti di recupero tra le serie",
+        "Un esercizio per gruppo muscolare e due gruppi per seduta"
+      ],
       "answer": 3,
       "explanation": "Il volume è alto: un solo esercizio multi-articolare per gruppo e solo due gruppi per seduta.",
       "part": 8
     },
     {
       "question": "Nello schema 4 x 8-10 al 70% 1RM, come va gestita la progressione del carico?",
-      "options": ["Su tutti gli esercizi insieme ogni settimana", "Su 1-2 esercizi alla volta", "Solo quando cambia il mesociclo, mai prima", "Del 4-5% dopo 10 x 10 completi"],
+      "options": [
+        "Su tutti gli esercizi insieme",
+        "Su 1-2 esercizi alla volta",
+        "Su soli esercizi di isolamento",
+        "Su incrementi fissi ogni mese"
+      ],
       "answer": 1,
       "explanation": "Per evitare un sovraccarico eccessivo si aumenta il carico su 1-2 esercizi alla volta.",
       "part": 9
     },
     {
       "question": "Nelle onde 7-5-3, quanti set si fanno di solito in totale?",
-      "options": ["Sei serie, cioè due onde", "Tre serie, una sola onda", "Nove serie, tre onde", "Dieci serie"],
+      "options": [
+        "Sei serie, cioè due onde",
+        "Tre serie, cioè un’onda",
+        "Nove serie, cioè tre onde",
+        "Dodici serie, quattro onde"
+      ],
       "answer": 0,
       "explanation": "In genere si completano due onde da tre serie: sei serie in tutto.",
       "part": 10
     },
     {
       "question": "Perché in molti sport si consiglia il focus esterno, mentre in ipertrofia può servire quello interno?",
-      "options": ["Il focus esterno aumenta l'attivazione del singolo muscolo", "Il focus interno rende il gesto più fluido in partita", "Il focus esterno aiuta fluidità ed efficienza; quello interno sfrutta la connessione mente-muscolo", "Non c'è differenza tra i due"],
+      "options": [
+        "Il focus esterno isola il muscolo bersaglio; quello interno rende il gesto più fluido ed economico",
+        "Il focus esterno migliora la fluidità del gesto; quello interno serve soprattutto a mantenere la cadenza",
+        "Il focus esterno aiuta fluidità ed efficienza; quello interno sfrutta la connessione mente-muscolo",
+        "Il focus esterno riduce la fatica locale; quello interno migliora soprattutto la coordinazione tra muscoli"
+      ],
       "answer": 2,
       "explanation": "Nello sport il focus esterno mantiene il gesto fluido; in ipertrofia il focus interno può aumentare l'attivazione del muscolo.",
       "part": 11

@@ -18,10 +18,10 @@
       "check": {
         "question": "Quali sono i tre grandi temi di questa lezione?",
         "options": [
-          "Riscaldamento, defaticamento e stretching",
-          "Fibre lente, fibre veloci e capacità aerobica",
+          "Tipi di riscaldamento, mobilità articolare e recupero",
+          "Tipi di fibre, riserve energetiche e adattamento aerobico",
           "Tipi di ipertrofia, ormoni anabolici e ipotesi ormonale",
-          "Dieta, integratori e riposo"
+          "Tipi di dieta, integrazione sportiva e qualità del sonno"
         ],
         "answer": 2,
         "explanation": "La lezione tratta i tipi di ipertrofia, i principali ormoni anabolici e l'ipotesi ormonale."
@@ -65,9 +65,9 @@
       "check": {
         "question": "Perché l'ipertrofia sarcoplasmatica è detta non funzionale?",
         "options": [
-          "Perché riduce il numero di fibre",
-          "Perché avviene solo negli animali",
-          "Perché dura solo pochi minuti",
+          "Perché non preserva le strutture contrattili",
+          "Perché non permette alle fibre di contrarsi",
+          "Perché non conserva le riserve di glicogeno",
           "Perché non aumenta la produzione di forza"
         ],
         "answer": 3,
@@ -88,10 +88,10 @@
       "check": {
         "question": "In che modo le cellule satellite favoriscono l'ipertrofia?",
         "options": [
-          "Dividono le fibre in due",
+          "Trasferiscono glicogeno alle fibre",
           "Donano nuclei alle fibre muscolari",
-          "Aumentano il glicogeno nel muscolo",
-          "Bloccano il rilascio di cortisolo"
+          "Assemblano nuovi sarcomeri nelle fibre",
+          "Rilasciano testosterone nelle fibre"
         ],
         "answer": 1,
         "explanation": "Con più nuclei la fibra può sintetizzare più proteine contrattili e gestire dimensioni maggiori."
@@ -111,10 +111,10 @@
       "check": {
         "question": "Quanto potrebbe contare l'iperplasia sulla dimensione muscolare nell'uomo?",
         "options": [
-          "Circa il 50%",
-          "Circa il 25-30%",
+          "Solo il 15-20%",
+          "Solo il 30-35%",
           "Solo il 5-10%",
-          "Oltre il 70%"
+          "Solo il 40-45%"
         ],
         "answer": 2,
         "explanation": "La crescita delle fibre è il fattore principale; l'iperplasia, se c'è, varrebbe solo il 5-10%."
@@ -134,9 +134,9 @@
       "check": {
         "question": "Cosa significa anabolismo?",
         "options": [
-          "Degradazione delle proteine",
-          "Produzione di energia dai grassi",
-          "Eliminazione degli ormoni",
+          "Degradazione, per esempio di proteine muscolari",
+          "Mobilizzazione, per esempio di riserve lipidiche",
+          "Eliminazione, per esempio di scarti metabolici",
           "Costruzione, per esempio di tessuto muscolare"
         ],
         "answer": 3,
@@ -158,9 +158,9 @@
         "question": "Perché l'IGF è considerato doppiamente benefico per l'ipertrofia?",
         "options": [
           "Perché è sia anabolico sia anticatabolico",
-          "Perché si produce solo durante il sonno",
-          "Perché aumenta il cortisolo",
-          "Perché aumenta il numero di fibre"
+          "Perché è sia androgenico sia vasodilatatore",
+          "Perché è sia lipolitico sia termogenico",
+          "Perché è sia antinfiammatorio sia analgesico"
         ],
         "answer": 0,
         "explanation": "Aumenta la sintesi proteica e riduce la degradazione delle proteine."
@@ -181,10 +181,10 @@
       "check": {
         "question": "Quanto testosterone circola nei maschi rispetto alle femmine?",
         "options": [
-          "Circa la metà",
+          "Fino a 3 volte di più",
           "Fino a 10 volte di più",
-          "Lo stesso",
-          "Fino a 2 volte di più"
+          "Fino a 20 volte di più",
+          "Fino a 5 volte di più"
         ],
         "answer": 1,
         "explanation": "Nei maschi il testosterone circolante può essere fino a 10 volte superiore."
@@ -206,9 +206,9 @@
         "question": "Su quali fibre il cortisolo ha effetti catabolici maggiori?",
         "options": [
           "Fibre di tipo I",
-          "Fibre cardiache",
+          "Fibre del miocardio",
           "Fibre di tipo II",
-          "Su tutte allo stesso modo"
+          "Fibre dei visceri"
         ],
         "answer": 2,
         "explanation": "Le fibre di tipo II contengono più proteine e sono le più colpite dal cortisolo."
@@ -229,9 +229,9 @@
       "check": {
         "question": "Quale sostanza inibisce la secrezione dell'ormone della crescita?",
         "options": [
-          "GHRH",
-          "IGF",
-          "Insulina",
+          "Somatoliberina (GHRH)",
+          "Somatomedina C (IGF-1)",
+          "Tireoliberina (TRH)",
           "Somatostatina (GHIH)"
         ],
         "answer": 3,
@@ -253,8 +253,8 @@
         "options": [
           "Il fegato",
           "Il pancreas",
-          "Il muscolo scheletrico",
-          "Il rene"
+          "Il duodeno",
+          "Il surrene"
         ],
         "answer": 1,
         "explanation": "L'insulina viene prodotta dal pancreas, nelle cellule beta delle isole di Langerhans."
@@ -275,9 +275,9 @@
         "question": "Su quale fase della sintesi proteica agisce l'insulina?",
         "options": [
           "Sulla traduzione",
-          "Sulla divisione delle fibre",
-          "Sulla secrezione di cortisolo",
-          "Sull'accumulo di grassi nel muscolo"
+          "Sulla trascrizione",
+          "Sulla replicazione",
+          "Sulla ricombinazione"
         ],
         "answer": 0,
         "explanation": "L'insulina agisce sulle fasi di traduzione e migliora la capacità della cellula di creare proteine."
@@ -297,10 +297,10 @@
       "check": {
         "question": "Cosa sostiene l'ipotesi ormonale?",
         "options": [
-          "Che gli ormoni non hanno alcun ruolo nella sintesi proteica",
-          "Che il cortisolo è il principale ormone anabolico",
+          "Che la massa a lungo termine dipende dal calo di insulina nelle ore dopo la seduta",
+          "Che la massa a lungo termine dipende dal rialzo del cortisolo durante ogni seduta",
           "Che la massa a lungo termine dipende dal picco di ormoni anabolici dopo l'allenamento",
-          "Che l'iperplasia è la causa principale della crescita"
+          "Che la massa a lungo termine dipende dal rapporto tra testosterone e cortisolo a riposo"
         ],
         "answer": 2,
         "explanation": "L'ipotesi lega la crescita a lungo termine all'aumento acuto degli ormoni anabolici dopo la seduta."
@@ -321,9 +321,9 @@
       "check": {
         "question": "Qual è stato il risultato principale dello studio di West (2010)?",
         "options": [
-          "Il braccio con più ormoni è cresciuto il doppio",
-          "Nessun braccio è cresciuto",
-          "Solo le gambe sono cresciute",
+          "Le braccia sono cresciute solo nella condizione con picchi più alti",
+          "Le braccia sono cresciute di più con i picchi ormonali più bassi",
+          "Le braccia sono rimaste della stessa dimensione nelle due condizioni",
           "Le braccia sono cresciute in modo simile nelle due condizioni"
         ],
         "answer": 3,
@@ -345,9 +345,9 @@
         "question": "Secondo la lezione, quale aspetto degli ormoni aiuta sicuramente l'ipertrofia?",
         "options": [
           "I livelli cronici di ormoni anabolici",
-          "Il picco acuto subito dopo la seduta",
-          "L'aumento del cortisolo",
-          "Il rapporto testosterone/cortisolo dopo ogni seduta"
+          "I picchi acuti di testosterone dopo la seduta",
+          "I rialzi di cortisolo durante il recupero",
+          "I cali di insulina subito dopo la seduta"
         ],
         "answer": 0,
         "explanation": "La produzione cronica di ormoni anabolici influenza la sintesi proteica; il ruolo dei picchi acuti è ancora discusso."
@@ -367,10 +367,10 @@
       "check": {
         "question": "Quali studi hanno messo in discussione l'ipotesi ormonale?",
         "options": [
-          "Morton 2010 e West 2016",
-          "Solo studi sugli animali",
+          "West 2016 e Morton 2010",
+          "West 2013 e Morton 2014",
           "West 2010 e Morton 2016",
-          "Nessuno studio, è stata confermata"
+          "West 2014 e Morton 2017"
         ],
         "answer": 2,
         "explanation": "West e colleghi nel 2010 e Morton e colleghi nel 2016 non hanno trovato un ruolo del picco acuto nella crescita."
@@ -493,10 +493,10 @@
     {
       "question": "L'ipertrofia contrattile o miofibrillare consiste in:",
       "options": [
-        "Un aumento di liquidi e organelli nella fibra",
+        "L'espansione del sarcoplasma per accumulo di acqua e glicogeno",
         "L'aggiunta di sarcomeri, quindi di actina e miosina",
-        "La divisione delle fibre in nuove fibre",
-        "Un aumento del glicogeno immagazzinato"
+        "L'attivazione di un processo di divisione delle fibre",
+        "L'aggiunta di nuclei senza variazioni delle miofibrille"
       ],
       "answer": 1,
       "explanation": "L'ipertrofia contrattile aggiunge sarcomeri e quindi più proteine contrattili.",
@@ -505,9 +505,9 @@
     {
       "question": "Quale affermazione sull'ipertrofia in serie è corretta?",
       "options": [
-        "È la più indicata per aumentare al massimo la dimensione del muscolo",
-        "Aumenta molto l'area della sezione trasversa",
-        "Aggiunge sarcomeri uno accanto all'altro",
+        "Non allunga le fibre, ma ne amplia la sezione trasversa",
+        "Non aggiunge sarcomeri: allunga quelli già presenti",
+        "Non modifica le miofibrille: aumenta il volume dei liquidi",
         "Non porta a un grande aumento del diametro delle fibre"
       ],
       "answer": 3,
@@ -518,9 +518,9 @@
       "question": "Secondo la lezione, l'accumulo di glicogeno come causa di ipertrofia sarcoplasmatica:",
       "options": [
         "Avrebbe un effetto transitorio e probabilmente minimo",
-        "È la causa principale dimostrata della crescita muscolare",
-        "Aumenta la produzione di forza",
-        "Riduce il contenuto di acqua nel muscolo"
+        "Avrebbe un effetto duraturo e spiegherebbe gran parte dei guadagni",
+        "Avrebbe un effetto diretto sulla produzione di forza",
+        "Avrebbe un effetto stabile perché ridurrebbe l'acqua nelle fibre"
       ],
       "answer": 0,
       "explanation": "Il glicogeno trattiene acqua, ma l'effetto sarebbe temporaneo e minimo.",
@@ -529,10 +529,10 @@
     {
       "question": "Perché le cellule satellite diventano importanti quando la fibra cresce molto?",
       "options": [
-        "Perché producono testosterone",
-        "Perché trasformano le fibre di tipo I in tipo II",
+        "Perché ogni nucleo aggiunto aumenta direttamente le riserve energetiche",
+        "Perché ogni nucleo originario perde la capacità di produrre proteine",
         "Perché ogni nucleo controlla solo una quantità limitata di sarcoplasma",
-        "Perché aumentano il glicogeno nella fibra"
+        "Perché ogni nucleo aggiunto avvia la divisione della struttura muscolare"
       ],
       "answer": 2,
       "explanation": "Servono nuovi nuclei per gestire una fibra più grande: le cellule satellite li donano.",
@@ -541,9 +541,9 @@
     {
       "question": "Cosa dice la lezione sull'iperplasia?",
       "options": [
-        "È il principale fattore della dimensione muscolare nell'uomo",
-        "Non è mai stata osservata nemmeno negli animali",
-        "È provocata solo da allenamenti a basso carico",
+        "È considerata il fattore principale della crescita muscolare nell'uomo",
+        "È documentata nell'uomo, ma non è stata osservata negli animali",
+        "È associata soprattutto all'allenamento di forza a basso carico",
         "È dimostrata negli animali, ma nell'uomo il suo ruolo è poco chiaro"
       ],
       "answer": 3,
@@ -554,9 +554,9 @@
       "question": "Gli ormoni anabolici sono importanti per l'ipertrofia perché:",
       "options": [
         "Regolano processi come la sintesi proteica",
-        "Aumentano la degradazione delle proteine",
-        "Agiscono solo sul sistema nervoso",
-        "Non viaggiano nel sangue"
+        "Favoriscono la degradazione delle proteine",
+        "Agiscono soltanto sulla trasmissione nervosa",
+        "Aumentano il volume senza agire sulle proteine"
       ],
       "answer": 0,
       "explanation": "Gli ormoni anabolici costruiscono e riparano il muscolo regolando la sintesi proteica.",
@@ -565,10 +565,10 @@
     {
       "question": "Quale ormone è stato indicato come l'ormone anabolico più importante?",
       "options": [
-        "Il testosterone",
-        "Il cortisolo",
+        "Il testosterone prodotto dalle gonadi",
+        "Il cortisolo secreto dalle ghiandole surrenali",
         "Il fattore di crescita insulino-simile (IGF)",
-        "L'ormone della crescita"
+        "Il GH rilasciato dall'ipofisi anteriore"
       ],
       "answer": 2,
       "explanation": "L'IGF è considerato il più importante, anche se testosterone e GH sono più conosciuti.",
@@ -577,10 +577,10 @@
     {
       "question": "Perché la produzione di IGF è collegata all'allenamento di forza?",
       "options": [
-        "Perché l'IGF si produce solo durante il sonno",
+        "Perché la secrezione di IGF è limitata alle ore di sonno profondo",
         "Perché esercizio e sovraccarico meccanico fanno produrre IGF al muscolo",
-        "Perché l'allenamento blocca la produzione di IGF nel fegato",
-        "Perché l'IGF aumenta il cortisolo"
+        "Perché il carico fa sì che l'IGF venga secreto soltanto dal fegato",
+        "Perché sotto carico il muscolo libera l'IGF che aveva già immagazzinato"
       ],
       "answer": 1,
       "explanation": "Il muscolo che si contrae sotto carico produce IGF: un motivo per cui la forza porta all'ipertrofia.",
@@ -589,9 +589,9 @@
     {
       "question": "Quale affermazione sul testosterone è corretta?",
       "options": [
-        "Agisce solo se c'è allenamento",
-        "Aumenta la disgregazione proteica",
-        "Circola in quantità uguale in maschi e femmine",
+        "I suoi effetti anabolici si manifestano solo durante l'allenamento della forza",
+        "I suoi effetti anabolici dipendono da un aumento della disgregazione proteica",
+        "I suoi effetti anabolici sono attenuati dall'allenamento della forza",
         "I suoi effetti anabolici sono amplificati dall'allenamento della forza"
       ],
       "answer": 3,
@@ -602,9 +602,9 @@
       "question": "Il cortisolo è legato soprattutto a:",
       "options": [
         "Il metabolismo dei carboidrati e le riserve di glicogeno",
-        "La divisione delle fibre muscolari",
-        "La donazione di nuclei alle fibre",
-        "Il rilascio di insulina dal fegato"
+        "Il rimodellamento delle fibre tramite la donazione di nuclei",
+        "Il reclutamento delle fibre durante la contrazione",
+        "Il rilascio pulsatile dell'ormone della crescita"
       ],
       "answer": 0,
       "explanation": "Con glicogeno basso, il cortisolo favorisce l'uso delle proteine per produrre energia.",
@@ -613,10 +613,10 @@
     {
       "question": "Quale tra queste è considerata una delle azioni chiave dell'ormone della crescita nell'ipertrofia?",
       "options": [
-        "Inibire la sintesi proteica",
+        "Limitare la produzione di proteine contrattili",
         "Stimolare il fattore di crescita insulino-simile",
-        "Aumentare il cortisolo",
-        "Ridurre l'assorbimento degli aminoacidi"
+        "Favorire la secrezione del cortisolo nel sangue",
+        "Ridurre l'ingresso degli aminoacidi nelle cellule"
       ],
       "answer": 1,
       "explanation": "Il GH aumenta grassi usati e aminoacidi assorbiti, ma soprattutto stimola l'IGF.",
@@ -625,10 +625,10 @@
     {
       "question": "Sull'insulina e la disgregazione proteica, la lezione dice che:",
       "options": [
-        "L'insulina la aumenta",
-        "L'insulina non ha alcun effetto",
+        "Si pensa che la aumenti, soprattutto dopo i pasti ricchi di carboidrati",
+        "Si pensa che la lasci invariata, pur agendo sul glucosio",
         "Si pensa che la riduca, ma il meccanismo non è ancora chiaro",
-        "La riduce tramite il cortisolo"
+        "Si pensa che la riduca stimolando il rilascio di cortisolo"
       ],
       "answer": 2,
       "explanation": "Si ritiene che l'insulina riduca la disgregazione, ma il meccanismo preciso non è ben compreso.",
@@ -638,9 +638,9 @@
       "question": "Nello studio di West e colleghi (2010), a cosa serviva l'esercizio per le gambe?",
       "options": [
         "Ad aumentare il picco ormonale acuto dopo l'allenamento",
-        "A ridurre il cortisolo",
-        "A misurare la forza delle gambe",
-        "A stancare il braccio allenato"
+        "Ad accelerare il recupero tra una seduta e quella successiva",
+        "Ad aumentare la fatica generale prima del lavoro con il braccio",
+        "Ad allenare la resistenza generale dei partecipanti"
       ],
       "answer": 0,
       "explanation": "Il lavoro gambe creava una condizione di stimolo ormonale elevato per un solo braccio.",
@@ -649,10 +649,10 @@
     {
       "question": "Quanto è durato l'allenamento nello studio di West (2010)?",
       "options": [
-        "4 settimane",
+        "12 settimane",
         "15 settimane",
         "10 settimane",
-        "6 mesi"
+        "18 settimane"
       ],
       "answer": 1,
       "explanation": "Le sedute si sono svolte nel corso di 15 settimane.",
@@ -661,9 +661,9 @@
     {
       "question": "Qual è la conclusione della lezione sull'ipotesi ormonale?",
       "options": [
-        "È stata confermata da tutti gli studi",
-        "È stata smentita in modo definitivo",
-        "Gli ormoni non hanno ruolo nell'ipertrofia",
+        "Il dibattito è chiuso: i picchi acuti spiegano la crescita nel tempo",
+        "Il dibattito è chiuso: i picchi acuti non hanno mai alcun effetto",
+        "Il dibattito continua, ma i livelli cronici di ormoni non contano",
         "Il dibattito continua, ma i livelli cronici di ormoni contano"
       ],
       "answer": 3,

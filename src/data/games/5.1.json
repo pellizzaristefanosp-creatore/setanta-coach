@@ -40,15 +40,15 @@
  "who": [
   {
    "clues": [
-    "Per sollevare un bilanciere, molte di noi lavorano insieme.",
-    "Quando arriva il segnale, tutte le fibre che mi appartengono si contraggono insieme.",
-    "Sono formata da un motoneurone e dalle fibre a cui è collegato."
+    "Quando sollevi un bilanciere, lavoro insieme a molti altri elementi dello stesso tipo.",
+    "Quando ricevo il segnale, tutte le mie fibre si contraggono insieme.",
+    "Comprendo un motoneurone e tutte le fibre muscolari che innerva."
    ],
    "answer": "Unità motoria",
    "distractors": [
-    "Motoneurone",
-    "Potenziale d’azione",
-    "Sarcomero"
+    "Fibra muscolare",
+    "Via motoria",
+    "Placca motrice"
    ],
    "slide": 5
   },
@@ -68,43 +68,43 @@
   },
   {
    "clues": [
-    "La nostra riserva principale sono i trigliceridi.",
-    "Abbiamo molti mitocondri e capillari.",
-    "Siamo le fibre più lente e resistiamo molto alla fatica."
+    "Uso i trigliceridi come riserva energetica principale.",
+    "Ho molti mitocondri e ricevo sangue da una rete ricca di capillari.",
+    "Mi contraggo più lentamente degli altri tipi di fibra e resisto a lungo alla fatica."
    ],
    "answer": "Fibre di tipo 1",
    "distractors": [
     "Fibre di tipo 2a",
     "Fibre di tipo 2x",
-    "Unità motorie"
+    "Fibre di tipo 2a/2x"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "Abbiamo pochi mitocondri e capillari.",
-    "Produciamo molta potenza, ma ci stanchiamo presto.",
-    "Siamo le fibre più veloci."
+    "Ho pochi mitocondri e ricevo sangue da una rete con pochi capillari.",
+    "Sviluppo molta potenza, ma mi affatico presto.",
+    "Mi contraggo più velocemente degli altri tipi di fibra."
    ],
    "answer": "Fibre di tipo 2x",
    "distractors": [
     "Fibre di tipo 1",
     "Fibre di tipo 2a",
-    "Unità motorie"
+    "Fibre di tipo 1/2a"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "Sono uno dei due elementi dell’attivazione muscolare.",
+    "Contribuisco all’attivazione muscolare insieme a un altro fattore.",
     "Se aumento, le unità motorie producono più forza.",
-    "Indico quanto spesso vengono stimolate le unità motorie."
+    "Indico quanto spesso i motoneuroni inviano impulsi alle fibre muscolari."
    ],
    "answer": "Frequenza di scarica",
    "distractors": [
-    "Reclutamento",
-    "Potenziale d’azione",
-    "Apprendimento motorio"
+    "Percentuale di reclutamento",
+    "Velocità di conduzione",
+    "Durata dell’impulso"
    ],
    "slide": 10
   },
@@ -124,15 +124,15 @@
   },
   {
    "clues": [
-    "Sono uno dei due processi del turnover.",
+    "Insieme a un altro processo, faccio parte del turnover proteico.",
     "Prevalgo durante il digiuno.",
     "Smonto le proteine del muscolo invece di costruirle."
    ],
    "answer": "Disgregazione proteica",
    "distractors": [
     "Sintesi proteica",
-    "Trascrizione",
-    "Traduzione"
+    "Digestione proteica",
+    "Modifica proteica"
    ],
    "slide": 11
   },

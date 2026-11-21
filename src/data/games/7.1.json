@@ -35,35 +35,35 @@
  "who": [
   {
    "clues": [
-    "Sono una delle due alzate di gara.",
+    "Mi trovi nel programma di gara, che prevede due alzate.",
     "Nella mia versione completa, ricevi il bilanciere in accosciata profonda con le braccia sopra la testa.",
     "Porto il bilanciere da terra sopra la testa in un solo movimento."
    ],
    "answer": "Strappo",
    "distractors": [
     "Slancio",
-    "Power clean",
-    "Overhead squat"
+    "Stacco",
+    "Front squat"
    ],
    "slide": 4
   },
   {
    "clues": [
     "I preparatori mi usano anche fuori dal weightlifting.",
-    "In gara porto il bilanciere sopra la testa in due movimenti.",
-    "Prima porti il bilanciere sulle spalle, poi lo spingi sopra la testa."
+    "In gara, con me il bilanciere arriva sopra la testa in due movimenti.",
+    "Con me porti prima il bilanciere sulle spalle, poi lo spingi sopra la testa."
    ],
    "answer": "Slancio",
    "distractors": [
     "Strappo",
-    "Power snatch",
-    "Overhead squat"
+    "Push press",
+    "Stacco"
    ],
    "slide": 4
   },
   {
    "clues": [
-    "Il mio valore acquista significato se lo confronti con l’altezza.",
+    "Il mio valore acquista significato quando lo confronti con l’altezza.",
     "Se misuro meno dell’altezza, indico braccia relativamente corte.",
     "Mi misuri da un polpastrello all’altro con le braccia distese."
    ],
@@ -77,71 +77,71 @@
   },
   {
    "clues": [
-    "Sono usato per valutare mobilità e stabilità.",
-    "La mia posizione più bassa ricorda quella dello strappo completo.",
-    "Scendi in accosciata tenendo il bilanciere sopra la testa."
+    "Mi usi per valutare mobilità e stabilità.",
+    "Quando arrivi al mio punto più basso, assumi una posizione simile a quella dello strappo completo.",
+    "Per eseguirmi, scendi in accosciata tenendo il bilanciere sopra la testa."
    ],
    "answer": "Overhead squat",
    "distractors": [
     "Squat profondo",
-    "Power clean",
-    "Posizione atletica"
+    "Front squat",
+    "Power snatch"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "Sono una variante utile quando l’accosciata profonda è un limite.",
-    "Il bilanciere si incastra più in alto rispetto all’alzata completa.",
-    "Sono la versione di potenza della girata."
+    "Ti servo quando l’accosciata profonda è un limite.",
+    "Con me ricevi il bilanciere più in alto che nell’alzata completa.",
+    "Con me esegui la girata nella versione di potenza."
    ],
    "answer": "Power clean",
    "distractors": [
     "Power snatch",
-    "Girata completa",
-    "Overhead squat"
+    "Hang clean",
+    "Clean pull"
    ],
    "slide": 8
   },
   {
    "clues": [
-    "Sono una qualità che le alzate olimpiche possono migliorare.",
+    "Le alzate olimpiche possono migliorarmi.",
     "Per un calciatore conto negli scatti e negli stacchi di testa.",
-    "Indico quanto in fretta riesci a produrre una spinta."
+    "Indico quanto in fretta riesci a produrre forza."
    ],
    "answer": "Tasso di sviluppo della forza",
    "distractors": [
-    "Potenza nel salto",
-    "Forza-veloce",
-    "Velocità di corsa"
+    "Picco di potenza nel salto",
+    "Livello di forza esplosiva",
+    "Indice di forza reattiva"
    ],
    "slide": 10
   },
   {
    "clues": [
-    "La mia parte alta ricorda la posizione atletica.",
-    "Sono una fase, non un’alzata completa.",
-    "Durante questa fase il pesista accelera il bilanciere al massimo."
+    "Nella mia parte alta, la postura del pesista ricorda la posizione atletica.",
+    "Mi trovi all’interno di un’alzata: non coincido con il gesto completo.",
+    "Durante il mio svolgimento, il pesista accelera il bilanciere al massimo."
    ],
    "answer": "Seconda tirata",
    "distractors": [
-    "Posizione di partenza",
-    "Posizione atletica",
-    "Overhead squat"
+    "Prima tirata",
+    "Fase di ricezione",
+    "Fase di risalita"
    ],
    "slide": 11
   },
   {
    "clues": [
-    "Nelle alzate olimpiche sono un’azione balistica.",
-    "Sono il gesto chiave che sposta il bilanciere in verticale, più del lavoro delle braccia.",
-    "Anche, ginocchia e caviglie si raddrizzano insieme."
+    "Nelle alzate olimpiche, con me il gesto ha carattere balistico.",
+    "Nelle alzate olimpiche contribuisco a spostare il bilanciere in verticale più di quanto facciano le braccia.",
+    "Con me estendi insieme anche, ginocchia e caviglie."
    ],
    "answer": "Tripla estensione",
    "distractors": [
-    "Seconda tirata",
-    "Squat profondo",
-    "Posizione atletica"
+    "Tripla flessione",
+    "Estensione del busto",
+    "Flessione delle anche"
    ],
    "slide": 12
   }

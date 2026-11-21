@@ -40,27 +40,27 @@
    "clues": [
     "Se usi solo me, alcune fibre del bicipite ricevono meno stimolo.",
     "Con me la supinazione è limitata.",
-    "Durante il movimento i palmi si guardano."
+    "Durante il mio movimento, i palmi si guardano."
    ],
    "answer": "Hammer curl",
    "distractors": [
     "Curl classico",
-    "Leg curl",
-    "Panca piana"
+    "Curl inverso",
+    "Curl con bilanciere"
    ],
    "slide": 5
   },
   {
    "clues": [
-    "Aiuto a capire perché può servire più di un esercizio per un muscolo.",
-    "Certi esercizi fanno crescere alcune zone più di altre.",
+    "Aiuto a capire perché può servire più di un esercizio per allenare un muscolo.",
+    "Con me, certi esercizi fanno crescere alcune zone del muscolo più di altre.",
     "Indico che la crescita di un muscolo non è uniforme."
    ],
    "answer": "Ipertrofia regionale",
    "distractors": [
     "Ipertrofia in serie",
     "Ipertrofia in parallelo",
-    "Stress metabolico"
+    "Ipertrofia uniforme"
    ],
    "slide": 6
   },
@@ -68,83 +68,83 @@
    "clues": [
     "Mi puoi affiancare al lavoro multiarticolare.",
     "Il leg curl è un mio esempio.",
-    "Muovo una sola articolazione."
+    "Faccio muovere una sola articolazione."
    ],
    "answer": "Esercizio monoarticolare",
    "distractors": [
     "Esercizio multiarticolare",
-    "Lavoro eccentrico specifico",
-    "Movimento parziale"
+    "Esercizio isometrico",
+    "Esercizio pliometrico"
    ],
    "slide": 6
   },
   {
    "clues": [
     "Posso ridurre il volume sollevato a parità di carico.",
-    "Lascio meno possibilità di smaltire i metaboliti tra le serie.",
+    "Lascio poco tempo per smaltire i metaboliti tra le serie.",
     "Duro 30 secondi o meno."
    ],
    "answer": "Recupero breve",
    "distractors": [
     "Recupero moderato",
     "Recupero lungo",
-    "Pausa in basso"
+    "Recupero completo"
    ],
    "slide": 8
   },
   {
    "clues": [
-    "In me puoi reggere un carico che non riusciresti a sollevare.",
+    "Con me puoi reggere un carico che non riusciresti a sollevare.",
     "Nella panca piana avvengo mentre abbassi il bilanciere.",
     "Con me il muscolo si allunga mentre produce forza."
    ],
    "answer": "Contrazione eccentrica",
    "distractors": [
     "Contrazione concentrica",
-    "Pausa in basso",
-    "Tempo sotto tensione"
+    "Contrazione isometrica",
+    "Contrazione isocinetica"
    ],
    "slide": 10
   },
   {
    "clues": [
     "Posso contribuire di più alla crescita della parte centrale del muscolo.",
-    "Nella panca piana avvengo mentre spingi il bilanciere verso l'alto.",
+    "Nella panca piana avvengo mentre spingi il bilanciere verso l’alto.",
     "Con me il muscolo si accorcia mentre produce forza."
    ],
    "answer": "Contrazione concentrica",
    "distractors": [
     "Contrazione eccentrica",
-    "Pausa in basso",
-    "Tensione meccanica"
+    "Contrazione isometrica",
+    "Contrazione isocinetica"
    ],
    "slide": 10
   },
   {
    "clues": [
     "Se mi cambi, il muscolo può restare più o meno a lungo sotto tensione.",
-    "In una scheda mi puoi trovare scritto come 303.",
+    "In una scheda mi puoi trovare sotto forma di tre numeri, per esempio 303.",
     "Indico quanto dura ogni fase della ripetizione."
    ],
    "answer": "Tempo di esecuzione",
    "distractors": [
     "Tempo di recupero",
     "Tempo sotto tensione",
-    "Ordine degli esercizi"
+    "Tempo di transizione"
    ],
    "slide": 11
   },
   {
    "clues": [
-    "Nei multiarticolari conviene specificare a quale articolazione mi riferisco.",
+    "Negli esercizi multiarticolari conviene specificare a quale articolazione mi riferisco.",
     "Mobilità e stabilità limitano quanto puoi aumentarmi.",
-    "Indico l'ampiezza del movimento."
+    "Indico l’ampiezza del movimento."
    ],
    "answer": "Range of motion",
    "distractors": [
     "Piano di movimento",
-    "Tempo di esecuzione",
-    "Posizione del carico"
+    "Angolo di partenza",
+    "Percorso del carico"
    ],
    "slide": 14
   }

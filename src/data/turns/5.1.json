@@ -7,9 +7,9 @@
    "question": "Per capire perché un muscolo cresce, cosa bisogna osservare oltre alla contrazione?",
    "options": [
     "I tipi di fibre e il bilancio tra proteine costruite e smontate.",
-    "I tipi di fibre e la velocità con cui arriva il segnale nervoso.",
-    "La quantità di proteine costruite e il numero di contrazioni eseguite.",
-    "Il numero di unità motorie e la forza prodotta in ogni contrazione."
+    "I tipi di fibre e il tempo impiegato dal segnale nervoso per arrivare.",
+    "I tempi di recupero e la densità dei capillari nel tessuto allenato.",
+    "I livelli di forza e il numero di unità motorie coinvolte nel gesto."
    ],
    "answer": 0,
    "why": "La contrazione spiega il movimento. La crescita dipende anche da come rispondono le diverse fibre e da quante proteine restano dopo il ricambio."
@@ -19,10 +19,10 @@
    "line": 5,
    "question": "Perché l’allenamento della forza coinvolge sia il sistema nervoso sia il muscolo?",
    "options": [
-    "Il muscolo impara il gesto, mentre il sistema nervoso costruisce nuove proteine.",
+    "Il sistema nervoso impara il gesto, mentre il muscolo cresce soprattutto grazie ai nuovi capillari.",
     "Il sistema nervoso guida il movimento, mentre il muscolo cresce con un bilancio proteico positivo.",
-    "Il sistema nervoso guida il movimento, ma la crescita dipende soltanto dal carico sollevato.",
-    "Il muscolo comanda il movimento, mentre il sistema nervoso si adatta alla nuova massa."
+    "Il sistema nervoso interviene all’inizio del gesto, mentre il muscolo prosegue senza altri segnali.",
+    "Il sistema nervoso si adatta solo dopo che il muscolo è cresciuto, per controllarne la nuova massa."
    ],
    "answer": 1,
    "why": "Il comando nervoso permette di eseguire il gesto, ma per aumentare la massa il muscolo deve costruire più proteine di quante ne perda."
@@ -32,10 +32,10 @@
    "line": 0,
    "question": "Un atleta migliora con i pesi: quale cambiamento indica ipertrofia?",
    "options": [
-    "Il gesto diventa più stabile senza che cambi la dimensione del muscolo.",
-    "L’atleta solleva più peso perché coordina meglio il movimento.",
+    "Il muscolo lavora in un gesto più stabile, ma conserva lo stesso volume.",
+    "Il muscolo esprime più forza grazie a una migliore coordinazione del gesto.",
     "Il muscolo allenato aumenta di dimensioni rispetto all’inizio.",
-    "Lo stesso muscolo riesce a lavorare più a lungo prima di affaticarsi."
+    "Il muscolo mantiene la tensione più a lungo senza aumentare di volume."
    ],
    "answer": 2,
    "why": "Forza, tecnica e resistenza possono migliorare senza un aumento di dimensioni. È proprio l’aumento delle dimensioni del muscolo a definire l’ipertrofia."
@@ -45,9 +45,9 @@
    "line": 1,
    "question": "Quale cambiamento è un esempio dell’ipertrofia studiata in questa lezione?",
    "options": [
-    "Il quadricipite produce più forza, ma conserva le stesse dimensioni.",
-    "La coscia diventa più grande, ma il quadricipite non cambia dimensioni.",
-    "Il quadricipite si contrae più rapidamente, ma non aumenta di volume.",
+    "Il quadricipite, che muove la gamba, produce più forza senza aumentare di volume.",
+    "Il quadricipite, che muove la gamba, mantiene lo stesso volume anche se la coscia si ingrossa.",
+    "Il quadricipite, che muove la gamba, si contrae più rapidamente senza aumentare di volume.",
     "Il quadricipite, che muove la gamba, aumenta di volume con l’allenamento."
    ],
    "answer": 3,
@@ -59,9 +59,9 @@
    "question": "Per quali due motivi si cerca più massa muscolare?",
    "options": [
     "Per poter produrre più forza e ottenere un aspetto più muscoloso.",
-    "Per imparare più rapidamente i gesti e ottenere un aspetto più muscoloso.",
-    "Per resistere più a lungo alla fatica e rendere il corpo più leggero.",
-    "Per migliorare la tecnica e ridurre il peso da spostare durante il gesto."
+    "Per poter apprendere prima i gesti e ottenere un aspetto più muscoloso.",
+    "Per poter ritardare la fatica e ridurre il peso corporeo.",
+    "Per poter migliorare la coordinazione e aumentare la mobilità articolare."
    ],
    "answer": 0,
    "why": "Un muscolo più grande può contribuire a produrre più forza e cambia l’aspetto fisico. Non implica automaticamente una tecnica migliore o più resistenza."
@@ -71,10 +71,10 @@
    "line": 5,
    "question": "Un culturista e un fondista dovrebbero puntare allo stesso aumento di massa muscolare?",
    "options": [
-    "Sì, perché l’aumento di forza ripaga sempre il peso aggiunto.",
+    "No, perché la quantità utile di muscolo dipende soltanto dalla forza di partenza.",
     "No, perché la quantità utile di muscolo dipende dalle richieste dello sport.",
-    "Sì, perché il muscolo aggiunto ha lo stesso valore in entrambe le discipline.",
-    "No, perché la quantità utile dipende dalla forza iniziale, non dalla disciplina."
+    "No, perché la quantità utile di muscolo è sempre maggiore nelle prove di lunga durata.",
+    "No, perché la quantità utile di muscolo dipende solo dalla statura di ciascuno."
    ],
    "answer": 1,
    "why": "Per il culturista la massa è un obiettivo; per il fondista può diventare peso da trasportare per chilometri. Il vantaggio dipende dalla gara."
@@ -84,10 +84,10 @@
    "line": 1,
    "question": "Quando decidi di calciare, chi controlla la contrazione volontaria dei muscoli della gamba?",
    "options": [
-    "Le fibre muscolari, che decidono quando attivarsi in base al carico.",
-    "I sarcomeri, che avviano il gesto appena la gamba cambia posizione.",
+    "Il sistema nervoso autonomo, che invia il segnale necessario a eseguire il gesto.",
+    "Il sistema vestibolare, che avvia il gesto in base alla posizione del corpo.",
     "Il sistema nervoso somatico, che trasmette ai muscoli il comando volontario.",
-    "Le unità motorie, che scelgono il gesto senza ricevere un comando nervoso."
+    "Il sistema muscolare, che avvia il gesto in base alla tensione rilevata nelle fibre."
    ],
    "answer": 2,
    "why": "Decidere di calciare non basta a muovere la gamba: il sistema nervoso somatico porta il comando alle fibre che producono il movimento."
@@ -97,9 +97,9 @@
    "line": 3,
    "question": "Come arriva al muscolo il comando nervoso per muoversi?",
    "options": [
-    "L’ordine viaggia come potenziale d’azione lungo le fibre muscolari prima di raggiungere il motoneurone.",
-    "L’ordine arriva come rilascio di calcio che si propaga dal midollo al muscolo.",
-    "L’ordine nasce nelle fibre e risale come potenziale d’azione verso il midollo.",
+    "Il comando raggiunge le fibre come un’onda di calcio che parte dal midollo spinale.",
+    "Il comando raggiunge le fibre lungo i neuroni sensitivi anziché lungo i motoneuroni.",
+    "Il comando raggiunge le fibre sotto forma di tensione trasmessa lungo il tendine.",
     "Il comando raggiunge il muscolo come potenziale d’azione lungo il motoneurone."
    ],
    "answer": 3,
@@ -111,9 +111,9 @@
    "question": "Quando si attiva un motoneurone, quali fibre della sua unità motoria rispondono?",
    "options": [
     "Tutte le fibre collegate a quel motoneurone si attivano insieme.",
-    "Prima rispondono le fibre più forti, poi le altre se aumenta il carico.",
-    "Rispondono solo le fibre che in quel momento ricevono più tensione.",
-    "Rispondono tutte le fibre del muscolo, anche quelle di altre unità motorie."
+    "Tutte le fibre più rapide si attivano prima di quelle più lente.",
+    "Tutte le fibre già sotto tensione si attivano, mentre le altre restano inattive.",
+    "Tutte le fibre del muscolo si attivano, anche se collegate ad altri neuroni."
    ],
    "answer": 0,
    "why": "Le fibre collegate allo stesso motoneurone ricevono lo stesso comando. Per aggiungere altre fibre bisogna reclutare altre unità, non scegliere fibre singole."
@@ -123,10 +123,10 @@
    "line": 8,
    "question": "Perché una sola unità motoria non basta per sollevare un bilanciere?",
    "options": [
-    "Lo stesso motoneurone deve attivare una per volta più fibre della propria unità.",
+    "Per ottenere abbastanza forza, lo stesso motoneurone deve attivare le proprie fibre a turno.",
     "Per ottenere abbastanza forza devono contribuire più unità motorie nello stesso momento.",
-    "Una sola unità basta, purché il suo motoneurone scarichi abbastanza spesso.",
-    "Le unità devono lavorare una dopo l’altra, senza sovrapporsi, per sommare forza."
+    "Per ottenere abbastanza forza, ogni fibra deve ricevere segnali da più motoneuroni diversi.",
+    "Per ottenere abbastanza forza, le unità motorie devono contrarsi in sequenza senza sovrapporsi."
    ],
    "answer": 1,
    "why": "Una singola unità attiva soltanto il proprio gruppo di fibre. Per vincere il carico serve sommare la forza di più gruppi."
@@ -136,10 +136,10 @@
    "line": 1,
    "question": "Quale struttura ripetuta dentro una miofibrilla si accorcia quando il muscolo si accorcia?",
    "options": [
-    "L’unità motoria, composta da fibre attivate dallo stesso motoneurone.",
-    "Il filamento di actina, che si accorcia quando viene tirato dalla miosina.",
+    "Il gruppo di fibre, che riceve i segnali dallo stesso motoneurone.",
+    "Il filamento di actina, che riduce la propria lunghezza sotto trazione.",
     "Il sarcomero, che contiene i filamenti di actina e miosina.",
-    "Il filamento di miosina, che si accorcia mentre trascina l’actina."
+    "Il filamento di miosina, che diventa più corto mentre tira l’actina."
    ],
    "answer": 2,
    "why": "Actina e miosina scorrono l’una sull’altra. Così si avvicinano le estremità del sarcomero, senza che i singoli filamenti diventino più corti."
@@ -149,9 +149,9 @@
    "line": 3,
    "question": "Quale evento segue l’arrivo del potenziale d’azione nella fibra muscolare?",
    "options": [
-    "La miosina si aggancia all’actina e soltanto dopo viene liberato il calcio.",
-    "L’actina scorre verso il centro del sarcomero e provoca il rilascio di calcio.",
-    "Il calcio torna a essere immagazzinato prima che la miosina si agganci.",
+    "La fibra libera calcio nella zona delle miofibrille soltanto dopo l’aggancio della miosina.",
+    "La fibra fa scorrere l’actina verso il centro del sarcomero prima di liberare il calcio.",
+    "La fibra riporta il calcio nei depositi interni prima che la miosina si agganci all’actina.",
     "La fibra libera calcio nella zona delle miofibrille, prima dell’aggancio della miosina."
    ],
    "answer": 3,
@@ -163,9 +163,9 @@
    "question": "Come permette il calcio alla miosina di tirare l’actina?",
    "options": [
     "Rende accessibile sull’actina il sito a cui la miosina si aggancia.",
-    "Tira direttamente l’actina, mentre la miosina tiene fermo il sarcomero.",
-    "Fa staccare la miosina prima che questa possa tirare l’actina.",
-    "Fa scorrere l’actina verso il centro prima che la miosina si agganci."
+    "Rende superfluo l’aggancio, facendo scorrere direttamente il filamento sottile.",
+    "Rende più corto il filamento sottile prima che avvenga l’aggancio.",
+    "Rende permanente il legame tra i filamenti, impedendo che si separino."
    ],
    "answer": 0,
    "why": "Il calcio rende possibile il contatto. È la miosina che, una volta agganciata, tira l’actina verso il centro e poi la lascia."
@@ -175,10 +175,10 @@
    "line": 9,
    "question": "Come si accorcia il sarcomero durante il movimento dei filamenti?",
    "options": [
-    "Actina e miosina diventano più corte senza cambiare posizione reciproca.",
+    "Actina e miosina diventano più corte, mantenendo la stessa posizione reciproca.",
     "Actina e miosina scorrono l’una sull’altra, mantenendo la propria lunghezza.",
-    "L’actina si accorcia mentre la miosina conserva la propria lunghezza.",
-    "La miosina si accorcia mentre l’actina mantiene la propria posizione."
+    "Actina e miosina scorrono l’una sull’altra, ma solo l’actina diventa più corta.",
+    "Actina e miosina conservano la stessa posizione reciproca, ma la miosina diventa più corta."
    ],
    "answer": 1,
    "why": "La miosina tira l’actina verso il centro: cambia la sovrapposizione dei filamenti e si avvicinano le estremità del sarcomero."
@@ -188,10 +188,10 @@
    "line": 3,
    "question": "Rispetto alle fibre di tipo 1, che compromesso offrono le fibre di tipo 2a?",
    "options": [
-    "Producono meno forza, ma resistono meglio alla fatica.",
-    "Producono più forza e resistono anche più a lungo alla fatica.",
+    "Producono meno forza, ma resistono un po’ meglio alla fatica.",
+    "Producono più forza e resistono un po’ meglio alla fatica.",
     "Producono più forza, ma resistono un po’ meno alla fatica.",
-    "Producono la stessa forza, ma si affaticano più facilmente."
+    "Producono la stessa forza, ma resistono un po’ meno alla fatica."
    ],
    "answer": 2,
    "why": "Le 2a sono intermedie: rispetto alle fibre lente possono sviluppare più forza, ma non mantengono lo sforzo altrettanto a lungo."
@@ -201,9 +201,9 @@
    "line": 6,
    "question": "Perché le fibre di tipo 2x sono adatte a uno scatto breve?",
    "options": [
-    "Sviluppano forza lentamente, ma riescono a mantenerla a lungo.",
-    "Raggiungono presto il picco di forza e resistono bene alla fatica.",
-    "Sviluppano una forza moderata e la mantengono più a lungo delle 2a.",
+    "Sviluppano molta forza lentamente, ma riescono a mantenerla a lungo.",
+    "Sviluppano molta forza in poco tempo e la mantengono a lungo.",
+    "Sviluppano una forza moderata, ma si affaticano meno delle 2a.",
     "Sviluppano molta forza in poco tempo, ma si affaticano rapidamente."
    ],
    "answer": 3,
@@ -215,9 +215,9 @@
    "question": "Perché nei 400 metri non si mantiene per tutta la gara il ritmo dei 100?",
    "options": [
     "Le fibre rapide usate nello sforzo esplosivo si affaticano e il ritmo cala.",
-    "Le fibre rapide mantengono la potenza, ma quelle lente si affaticano per prime.",
-    "Le fibre lente portano al ritmo iniziale, ma producono sempre meno forza.",
-    "La potenza esplosiva rimane costante, ma le fibre rapide si attivano soltanto nel finale."
+    "Le fibre rapide conservano la potenza, ma il ritmo cala per la fatica delle lente.",
+    "Le fibre rapide si attivano solo nel finale e prima il ritmo dipende dalle lente.",
+    "Le fibre rapide aumentano la potenza col tempo, ma il ritmo cala appena dopo il via."
    ],
    "answer": 0,
    "why": "Le fibre rapide permettono una partenza potente, ma non sostengono a lungo quella potenza. Per questo il ritmo tende a calare nella seconda parte."
@@ -229,8 +229,8 @@
    "options": [
     "Più fibre di tipo 1 nel velocista e più tipo 2 nel fondista.",
     "Più fibre di tipo 2 nel velocista e più tipo 1 nel fondista.",
-    "Proporzioni simili, perché il quadricipite svolge lo stesso gesto in entrambe le gare.",
-    "Più fibre di tipo 2 nel fondista, perché accumula più contrazioni durante la gara."
+    "Più fibre di tipo 2 che di tipo 1 sia nel velocista sia nel fondista.",
+    "Più fibre di tipo 1 che di tipo 2 sia nel velocista sia nel fondista."
    ],
    "answer": 1,
    "why": "Lo sprint richiede forza rapida, mentre la corsa di resistenza richiede di sostenere lo sforzo. I due profili riflettono esigenze diverse."
@@ -240,10 +240,10 @@
    "line": 3,
    "question": "Perché nei muscoli del polpaccio usati per camminare e stare in piedi sono utili molte fibre lente?",
    "options": [
-    "Perché i passi richiedono soprattutto picchi di potenza seguiti da lunghe pause.",
-    "Perché le fibre lente producono più forza nei movimenti rapidi del piede.",
+    "Perché questi compiti richiedono soprattutto picchi di potenza alternati a pause di recupero.",
+    "Perché questi compiti richiedono di raggiungere il picco di forza nel minor tempo possibile.",
     "Perché questi compiti richiedono contrazioni frequenti o prolungate senza affaticarsi presto.",
-    "Perché camminare e stare in piedi richiede poche contrazioni, ma quasi massimali."
+    "Perché questi compiti richiedono soprattutto contrazioni brevi a intensità quasi massimale."
    ],
    "answer": 2,
    "why": "Il polpaccio lavora spesso anche fuori dall’allenamento. Per questi compiti è utile soprattutto la resistenza alla fatica, non la potenza di uno scatto."
@@ -254,8 +254,8 @@
    "question": "Secondo la lezione, quale crescita confrontano il dato del 50% e i due tipi di fibra?",
    "options": [
     "La capacità di crescita delle tipo 1 è circa il 50% maggiore.",
-    "La capacità di crescita delle tipo 2 è circa la metà.",
-    "La capacità di crescita è uguale, ma le tipo 2 la raggiungono prima.",
+    "La capacità di crescita delle tipo 2 è circa il 50% minore.",
+    "La capacità di crescita delle tipo 2 è circa il doppio.",
     "La capacità di crescita delle tipo 2 è circa il 50% maggiore."
    ],
    "answer": 3,
@@ -267,9 +267,9 @@
    "question": "Se le fibre di tipo 2 crescono di più, cosa significa per quelle di tipo 1?",
    "options": [
     "Anche le tipo 1 possono crescere, ma le tipo 2 restano il bersaglio principale.",
-    "Le tipo 1 migliorano la resistenza, ma non possono aumentare di dimensioni.",
-    "Le tipo 1 crescono quanto le tipo 2, perché entrambe possono adattarsi.",
-    "Le tipo 1 sono il bersaglio principale, perché resistono più a lungo alla fatica."
+    "Anche le tipo 1 possono adattarsi, ma migliorano solo la resistenza alla fatica.",
+    "Anche le tipo 1 possono crescere, ma solo quando le tipo 2 restano inattive.",
+    "Anche le tipo 1 possono crescere e restano il bersaglio principale per la massa."
    ],
    "answer": 0,
    "why": "Una capacità di crescita minore non equivale a zero. Tutti i tipi possono aumentare di dimensioni, anche se non hanno lo stesso potenziale."
@@ -279,10 +279,10 @@
    "line": 1,
    "question": "Gli adattamenti del sistema nervoso e la crescita muscolare contribuiscono alla forza con gli stessi tempi?",
    "options": [
-    "Sì, perché imparare il gesto e aumentare la massa danno subito lo stesso contributo.",
+    "No, la crescita conta di più all’inizio; gli adattamenti neurali si notano dopo.",
     "No, gli adattamenti neurali contano di più all’inizio; la crescita si nota dopo.",
-    "No, la crescita muscolare domina subito; gli adattamenti neurali diventano importanti più avanti.",
-    "Sì, perché il sistema nervoso migliora il gesto soltanto quando il muscolo cresce."
+    "No, gli adattamenti neurali iniziano solo quando la crescita si è stabilizzata.",
+    "No, la crescita spiega i primi progressi; gli adattamenti neurali quelli a lungo termine."
    ],
    "answer": 1,
    "why": "Il sistema nervoso può rendere il gesto più efficiente in poche sedute, prima che il muscolo cresca in modo apprezzabile."
@@ -292,10 +292,10 @@
    "line": 3,
    "question": "Dopo poche sedute di panca, un principiante solleva di più: qual è la spiegazione principale?",
    "options": [
-    "Il muscolo è già cresciuto abbastanza da spiegare quasi tutto il miglioramento.",
-    "Le fibre si affaticano meno, anche se il controllo del gesto non migliora.",
+    "Il sistema nervoso ha favorito un aumento di massa che spiega quasi tutto il progresso.",
+    "Il sistema nervoso ha ritardato la fatica senza rendere il gesto più coordinato.",
     "Il sistema nervoso ha imparato a coordinare il gesto in modo più efficiente.",
-    "La resistenza del muscolo è aumentata perché il bilanciere percorre una traiettoria diversa."
+    "Il sistema nervoso ha imparato a coinvolgere meno unità motorie negli sforzi più intensi."
    ],
    "answer": 2,
    "why": "Un gesto più stabile permette di usare meglio la forza già disponibile. Non serve che il muscolo sia già cresciuto in modo apprezzabile."
@@ -305,9 +305,9 @@
    "line": 9,
    "question": "Se un atleta si allena con costanza, quando può notare un aumento delle dimensioni muscolari?",
    "options": [
-    "Già dalle prime sedute, ogni volta che riesce a sollevare più peso.",
-    "Soltanto dopo un paio di mesi, senza alcun cambiamento misurabile prima.",
-    "Appena il gesto diventa stabile, perché coordinazione e crescita avanzano allo stesso ritmo.",
+    "Qualche cambiamento già dalle prime sedute, appena migliora la forza.",
+    "Qualche cambiamento solo dopo un paio di mesi, mai nelle settimane precedenti.",
+    "Qualche cambiamento appena il gesto diventa stabile, anche dopo poche sedute.",
     "Qualche cambiamento dopo alcune settimane; in genere si vede bene dopo un paio di mesi."
    ],
    "answer": 3,
@@ -319,9 +319,9 @@
    "question": "Quale adattamento neurale aiuta a esprimere più forza coinvolgendo meglio le unità motorie?",
    "options": [
     "Una maggiore attivazione muscolare, tramite reclutamento e frequenza di scarica.",
-    "Un aumento delle dimensioni delle fibre, senza cambiare i comandi nervosi.",
-    "Un aumento della sintesi proteica, senza cambiare il lavoro delle unità motorie.",
-    "Una maggiore resistenza alla fatica, indipendente da reclutamento e frequenza di scarica."
+    "Una maggiore attivazione muscolare, tramite la riduzione della frequenza di scarica.",
+    "Una maggiore dimensione delle fibre, senza variazioni dei comandi nervosi.",
+    "Una maggiore sintesi proteica, senza variazioni del reclutamento o della frequenza di scarica."
    ],
    "answer": 0,
    "why": "Il sistema nervoso può chiamare in azione più unità e aumentare il ritmo con cui invia loro segnali, facendo esprimere più forza al muscolo."
@@ -331,10 +331,10 @@
    "line": 3,
    "question": "Che differenza c’è tra reclutamento e frequenza di scarica durante una contrazione?",
    "options": [
-    "Il reclutamento è il ritmo dei segnali; la frequenza è il numero di fibre coinvolte.",
+    "Il reclutamento indica quanto spesso arrivano i segnali; la frequenza, quante fibre partecipano.",
     "Il reclutamento indica quante fibre partecipano; la frequenza, quanto spesso arrivano i segnali.",
-    "Il reclutamento indica quanto dura la contrazione; la frequenza, quante fibre partecipano.",
-    "Il reclutamento indica quanto spesso arrivano i segnali; la frequenza, quanta forza producono."
+    "Il reclutamento indica quanto a lungo lavorano le fibre; la frequenza, quante fibre partecipano.",
+    "Il reclutamento indica quante fibre partecipano; la frequenza, quanto a lungo lavora ogni fibra."
    ],
    "answer": 1,
    "why": "Puoi coinvolgere più fibre attivando altre unità motorie, oppure inviare segnali più frequenti alle unità già attive. Sono due cambiamenti diversi."
@@ -344,10 +344,10 @@
    "line": 5,
    "question": "Perché il reclutamento delle unità motorie conta per l’ipertrofia?",
    "options": [
-    "Perché le fibre non reclutate crescono durante il riposo delle fibre attive.",
-    "Perché reclutare più unità riduce automaticamente la disgregazione in tutto il muscolo.",
+    "Perché una fibra non reclutata si adatta quanto una fibra attiva purché il carico sia alto.",
+    "Perché una fibra reclutata cresce grazie a una riduzione immediata della disgregazione.",
     "Perché una fibra non reclutata non riceve lo stimolo di quella contrazione.",
-    "Perché lo stimolo dipende dal carico, a prescindere da quali fibre lavorano."
+    "Perché una fibra reclutata riceve uno stimolo solo se la contrazione è massimale."
    ],
    "answer": 2,
    "why": "Lo stimolo dell’esercizio riguarda le fibre che partecipano alla contrazione. Se una fibra resta inattiva, quella contrazione non le offre lo stesso stimolo."
@@ -357,9 +357,9 @@
    "line": 6,
    "question": "Se durante un esercizio recluti più unità motorie, cosa cambia per le fibre?",
    "options": [
-    "Le fibre già attive ricevono segnali più spesso, ma non ne partecipano altre.",
-    "Le fibre rimaste inattive ricevono lo stesso stimolo di quelle che lavorano.",
-    "Tutte le fibre reclutate crescono necessariamente della stessa quantità.",
+    "Più fibre ricevono segnali ravvicinati, ma il numero di quelle attive non aumenta.",
+    "Più fibre partecipano alla contrazione, ma lo stimolo alla crescita va solo a quelle già attive.",
+    "Più fibre partecipano alla contrazione e tutte crescono poi della stessa quantità.",
     "Più fibre partecipano alla contrazione e possono quindi adattarsi allo stimolo."
    ],
    "answer": 3,
@@ -371,9 +371,9 @@
    "question": "Cosa può succedere se le stesse unità motorie ricevono segnali più frequenti?",
    "options": [
     "Possono produrre più forza, permettendo al muscolo di fare più lavoro.",
-    "Coinvolgono più fibre anche senza reclutare altre unità motorie.",
-    "Mantengono la stessa forza, ma il muscolo diventa subito più grande.",
-    "Producono meno forza perché ogni segnale attiva solo una parte delle fibre."
+    "Possono produrre più forza attivando fibre rimaste inattive al loro interno.",
+    "Possono produrre la medesima forza, perché conta soltanto il reclutamento.",
+    "Possono produrre meno forza, perché ogni impulso attiva solo parte delle fibre."
    ],
    "answer": 0,
    "why": "Una frequenza più alta modifica la forza prodotta dalle unità già attive. Non è necessario aggiungerne altre perché la forza aumenti."
@@ -383,10 +383,10 @@
    "line": 1,
    "question": "Che cosa bisogna confrontare per capire se il ricambio proteico fa crescere il muscolo?",
    "options": [
-    "Le proteine costruite prima dell’allenamento con quelle costruite dopo.",
+    "Le proteine che il muscolo costruisce prima e dopo l’allenamento.",
     "Le proteine che il muscolo costruisce con quelle che disgrega.",
-    "La velocità di sintesi con la forza che il muscolo produce.",
-    "Le proteine smontate a digiuno con quelle smontate dopo un pasto."
+    "Le proteine che il muscolo disgrega a digiuno e dopo un pasto.",
+    "Le proteine che il muscolo costruisce nei giorni di allenamento e di riposo."
    ],
    "answer": 1,
    "why": "Costruire nuove proteine non basta se se ne perdono altrettante o di più. È il saldo tra entrate e perdite a determinare il cambiamento."
@@ -396,10 +396,10 @@
    "line": 3,
    "question": "Come può la massa muscolare restare stabile se mangi e digiuni in momenti diversi?",
    "options": [
-    "Sintesi e disgregazione restano sempre uguali, anche subito dopo aver mangiato.",
-    "La sintesi prevale sia dopo i pasti sia a digiuno, ma la massa non cambia.",
+    "La sintesi tende a restare in pareggio con la disgregazione in ogni fase, anche subito dopo i pasti.",
+    "La sintesi tende a prevalere sia dopo i pasti sia a digiuno, senza che questo modifichi la massa.",
     "La sintesi tende a prevalere dopo i pasti, la disgregazione a digiuno: complessivamente si compensano.",
-    "La disgregazione prevale dopo i pasti, mentre la sintesi prevale a digiuno."
+    "La sintesi tende a prevalere a digiuno, la disgregazione dopo i pasti: complessivamente si compensano."
    ],
    "answer": 2,
    "why": "Per mantenere massa non serve un pareggio in ogni momento: basta che gli aumenti e le perdite si compensino nel complesso."
@@ -409,9 +409,9 @@
    "line": 5,
    "question": "Se nel tempo il muscolo costruisce tante proteine quante ne disgrega, può aumentare di massa?",
    "options": [
-    "Sì, perché costruire nuove proteine fa crescere il muscolo anche senza un guadagno netto.",
-    "Sì, purché la sintesi dopo l’allenamento sia più alta rispetto a prima.",
-    "No, perché anche un pareggio tra sintesi e disgregazione provoca perdita muscolare.",
+    "No, il pareggio mantiene la massa; per crescere deve aumentare soltanto la velocità del ricambio.",
+    "No, il pareggio fa perdere massa; per mantenerla la sintesi deve superare la disgregazione.",
+    "No, il pareggio mantiene la massa; per crescere basta che la sintesi aumenti dopo una seduta.",
     "No, il pareggio mantiene la massa; per crescere la sintesi deve superare la disgregazione."
    ],
    "answer": 3,
@@ -423,9 +423,9 @@
    "question": "Come usa la cellula l’informazione del DNA per costruire una proteina?",
    "options": [
     "Trascrive l’informazione in RNA messaggero, poi la traduce in una proteina.",
-    "Traduce il DNA in RNA messaggero, poi trascrive l’RNA in una proteina.",
-    "Costruisce la proteina leggendo direttamente il DNA, poi produce l’RNA messaggero.",
-    "Trascrive il DNA direttamente in proteina, poi traduce la proteina in RNA messaggero."
+    "Trascrive l’informazione in RNA messaggero, poi la traduce leggendo il DNA.",
+    "Trascrive l’informazione in una proteina, poi la traduce in RNA messaggero.",
+    "Trascrive l’informazione in una nuova copia di DNA, poi la traduce in una proteina."
    ],
    "answer": 0,
    "why": "Prima si ottiene una copia delle istruzioni sotto forma di RNA messaggero. Poi i ribosomi usano quella copia per costruire la proteina."
@@ -435,10 +435,10 @@
    "line": 2,
    "question": "Quale informazione porta l’RNA messaggero ai ribosomi?",
    "options": [
-    "La quantità di proteine che il muscolo ha già disgregato.",
+    "Le istruzioni copiate dal DNA per scegliere le proteine da disgregare.",
     "Le istruzioni copiate dal DNA per costruire una proteina specifica.",
-    "Le istruzioni per scegliere quale parte del DNA copiare dopo la traduzione.",
-    "Il segnale che indica quanto spesso attivare le unità motorie."
+    "Le istruzioni per scegliere quale tratto del DNA trascrivere per primo.",
+    "Le istruzioni per regolare il ritmo con cui si attivano le unità motorie."
    ],
    "answer": 1,
    "why": "L’RNA messaggero fa da copia della ricetta: il ribosoma legge quell’informazione per costruire la proteina corrispondente."
@@ -448,10 +448,10 @@
    "line": 8,
    "question": "Che cosa influenza la velocità con cui il muscolo produce nuove proteine?",
    "options": [
-    "Quante proteine regolatrici sono presenti, indipendentemente dalla loro attività.",
-    "Quanto sono attive le proteine regolatrici, indipendentemente da quante ce ne sono.",
+    "Quante proteine regolatrici ci sono, a prescindere da quanto siano attive.",
+    "Quanto sono attive le proteine regolatrici, a prescindere dalla loro quantità.",
     "Quante proteine regolatrici sono disponibili e quanto sono attive.",
-    "Quante proteine vengono disgregate, indipendentemente dall’attività delle regolatrici."
+    "Quante proteine vengono disgregate, a prescindere dall’attività delle regolatrici."
    ],
    "answer": 2,
    "why": "Le proteine regolatrici controllano tappe della trascrizione e della traduzione. Perciò conta sia averle a disposizione sia che siano attive."
@@ -461,9 +461,9 @@
    "line": 10,
    "question": "Perché lo stimolo allenante può essere sfruttato meno se le proteine regolatrici scarseggiano?",
    "options": [
-    "Perché lo stimolo diventa più forte, ma la sintesi rimane sempre invariata.",
-    "Perché le proteine regolatrici servono soprattutto a reclutare le fibre durante la seduta.",
-    "Perché la cellula può produrre proteine soltanto se prima aumenta la disgregazione.",
+    "Perché diventa più difficile reclutare le fibre rapide, anche se la sintesi non cambia.",
+    "Perché diventa più difficile conservare le proteine già presenti, ma non produrne altre.",
+    "Perché diventa più difficile avviare la disgregazione che deve precedere ogni sintesi.",
     "Perché diventa più difficile sostenere i passaggi necessari per costruire nuove proteine."
    ],
    "answer": 3,
@@ -475,9 +475,9 @@
    "question": "In quali modi alimentazione e allenamento possono rendere più favorevole il bilancio proteico?",
    "options": [
     "Aumentando la sintesi, riducendo la disgregazione o combinando i due effetti.",
-    "Aumentando sintesi e disgregazione della stessa quantità, senza modificare il saldo.",
-    "Aumentando la sintesi, ma soltanto se anche la disgregazione aumenta.",
-    "Riducendo la disgregazione, ma soltanto se anche la sintesi diminuisce."
+    "Aumentando la sintesi e la disgregazione della stessa quantità.",
+    "Aumentando la sintesi, purché la disgregazione aumenti ancora di più.",
+    "Riducendo la disgregazione, purché la sintesi diminuisca della stessa quantità."
    ],
    "answer": 0,
    "why": "Il saldo migliora sia costruendo di più sia perdendo di meno. Non è necessario che cambino entrambi i processi."
@@ -487,10 +487,10 @@
    "line": 5,
    "question": "Secondo la lezione, come cambia la disgregazione proteica durante una seduta con i pesi?",
    "options": [
-    "Diminuisce perché le fibre attive smettono temporaneamente di smontare proteine.",
+    "Diminuisce durante lo sforzo, perché la contrazione rallenta il ricambio.",
     "Aumenta durante lo sforzo, ma questo non basta a stabilire il saldo finale.",
-    "Rimane invariata finché non comincia la risposta di recupero.",
-    "Diminuisce durante lo sforzo e può aumentare soltanto dopo la seduta."
+    "Rimane stabile durante lo sforzo e aumenta solo nella fase di recupero.",
+    "Aumenta durante lo sforzo e questo rende necessariamente negativo il saldo finale."
    ],
    "answer": 1,
    "why": "La disgregazione è solo un lato del bilancio. Per capire l’effetto della seduta bisogna considerare anche la risposta della sintesi dopo l’allenamento."
@@ -500,9 +500,9 @@
    "line": 9,
    "question": "Quale cambiamento cellulare è collegato all’aumento della sintesi proteica dopo l’allenamento?",
    "options": [
-    "La sola riduzione della disgregazione, senza cambiamenti nella produzione di proteine.",
-    "Una trascrizione più efficiente, anche se i ribosomi producono proteine allo stesso ritmo.",
-    "Una maggiore attivazione delle unità motorie, senza cambiamenti nel lavoro dei ribosomi.",
+    "Una disgregazione meno intensa: si perdono meno proteine, ma se ne produce la stessa quantità.",
+    "Una trascrizione più efficiente: si copia più RNA messaggero, ma la produzione di proteine non cambia.",
+    "Una maggiore attivazione delle fibre: il reclutamento aumenta, ma il ritmo di produzione resta invariato.",
     "Una traduzione più efficiente: i ribosomi costruiscono proteine a partire dall’RNA messaggero."
    ],
    "answer": 3,
@@ -516,7 +516,7 @@
     "Il nervo attiva il muscolo, le fibre lente crescono di più e serve sintesi netta.",
     "Il nervo attiva il muscolo, le fibre rapide crescono di più e serve sintesi netta.",
     "Il nervo attiva il muscolo, le fibre rapide crescono di più anche a bilancio pari.",
-    "Il muscolo avvia il comando nervoso, le fibre rapide crescono di più e serve sintesi netta."
+    "Il nervo risponde al muscolo già attivo, le fibre rapide crescono di più e serve sintesi netta."
    ],
    "answer": 1,
    "why": "I nervi fanno lavorare le fibre, che hanno potenziali di crescita diversi. Per aumentare la massa, nel tempo bisogna costruire più proteine di quante se ne perdano."

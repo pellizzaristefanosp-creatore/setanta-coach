@@ -41,57 +41,57 @@
   },
   {
    "clues": [
-    "Lo trovi spesso nelle schede per la parte bassa del corpo.",
-    "Allena glutei e ischiocrurali mentre la schiena resiste alla flessione.",
-    "Esegui la cerniera dell’anca con un bilanciere in mano."
+    "Mi trovi spesso nelle schede per la parte bassa del corpo.",
+    "Con me alleni glutei e ischiocrurali mentre la schiena resiste alla flessione.",
+    "Per eseguirmi, fai una cerniera dell’anca con un bilanciere in mano."
    ],
    "answer": "Romanian deadlift",
    "distractors": [
-    "Hip hinge con bastone",
-    "Face pulls",
-    "Single-arm row"
+    "Deadlift classico",
+    "Kettlebell swing",
+    "Bent-over row"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Fa lavorare il core mentre alleni i retrattori delle scapole.",
-    "Puoi usare un cavo o un elastico e resistere alla trazione in avanti.",
-    "Tiri verso il viso mantenendo la schiena neutra."
+    "Con me fai lavorare il core mentre alleni i retrattori delle scapole.",
+    "Per eseguirmi puoi usare un cavo o un elastico e resistere alla trazione in avanti.",
+    "Con me tiri verso il viso e mantieni la schiena neutra."
    ],
    "answer": "Face pulls",
    "distractors": [
-    "Single-arm row",
-    "Bent-over row",
-    "Romanian deadlift"
+    "Rematori",
+    "Piegamenti",
+    "Stacchi"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "Sviluppa anche i retrattori delle scapole.",
-    "Parti in posizione atletica, con anche e ginocchia leggermente piegate.",
-    "Tiri con un solo braccio e resisti alla rotazione del busto."
+    "Con me alleni anche i retrattori delle scapole.",
+    "Per eseguirmi parti in posizione atletica, con anche e ginocchia leggermente piegate.",
+    "Con me tiri con un solo braccio e resisti alla rotazione del busto."
    ],
    "answer": "Single-arm row",
    "distractors": [
-    "Face pulls",
     "Bent-over row",
-    "Romanian deadlift"
+    "Romanian deadlift",
+    "Lat pulldown"
    ],
    "slide": 8
   },
   {
    "clues": [
-    "Fa lavorare direttamente gli estensori della schiena.",
-    "Anche fianchi e glutei aiutano a mantenere la posizione.",
-    "Resti fermo con il busto oltre il bordo della panca."
+    "Faccio lavorare direttamente gli estensori della schiena.",
+    "Con me anche fianchi e glutei ti aiutano a mantenere la posizione.",
+    "Con me mantieni la posizione senza muoverti, con il busto oltre il bordo della panca."
    ],
    "answer": "Tenuta statica",
    "distractors": [
-    "Hip hinge",
-    "Romanian deadlift",
-    "Plank"
+    "Panca piana",
+    "Trazione alla sbarra",
+    "Estensione lombare"
    ],
    "slide": 9
   },
@@ -111,15 +111,15 @@
   },
   {
    "clues": [
-    "Puoi allenarla anche senza sceglierla come obiettivo principale.",
-    "Nel Romanian deadlift la alleni mentre muovi le anche.",
-    "Il tuo compito è impedire alla colonna di piegarsi in avanti."
+    "Mi puoi allenare anche senza farne l’obiettivo principale.",
+    "Nel Romanian deadlift mi alleni mentre muovi le anche.",
+    "Con me il tuo compito è impedire alla colonna di piegarsi in avanti."
    ],
    "answer": "Anti-flessione",
    "distractors": [
     "Anti-rotazione",
-    "Hip hinge",
-    "Tenuta statica"
+    "Anti-estensione",
+    "Anti-inclinazione"
    ],
    "slide": 11
   }

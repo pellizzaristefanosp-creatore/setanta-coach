@@ -18,10 +18,10 @@
       "check": {
         "question": "Quale di queste NON è una delle variabili trattate in questa lezione?",
         "options": [
-          "Tempi di recupero",
-          "Range of motion",
+          "Durata della ripetizione",
+          "Ampiezza del movimento",
           "Frequenza settimanale",
-          "Ordine degli esercizi"
+          "Scelta degli esercizi"
         ],
         "answer": 2,
         "explanation": "La frequenza è stata trattata nella lezione precedente. Qui si parla di esercizi, recuperi, tempo, azione muscolare, ordine e ROM."
@@ -42,8 +42,8 @@
         "options": [
           "Quelle della parte laterale esterna",
           "Quelle della parte laterale interna",
-          "Solo quelle del capo breve",
-          "Nessuna, la supinazione non usa il bicipite"
+          "Quelle della sola estremità distale",
+          "Quelle della sola estremità prossimale"
         ],
         "answer": 1,
         "explanation": "La parte laterale interna è reclutata per girare i palmi verso l'alto; quella esterna per flettere il gomito."
@@ -63,10 +63,10 @@
       "check": {
         "question": "Perché fare solo hammer curl non è l'ideale per il bicipite?",
         "options": [
-          "Perché il carico è sempre troppo basso",
-          "Perché non coinvolge il gomito",
+          "Perché la presa neutra impedisce di completare la flessione del gomito",
+          "Perché la presa neutra riduce lo stimolo nella stessa misura in tutte le fibre",
           "Perché la supinazione è limitata e alcune fibre lavorano meno",
-          "Perché allena solo il capo breve"
+          "Perché la presa neutra trasferisce tutto il lavoro al capo breve"
         ],
         "answer": 2,
         "explanation": "Con i palmi neutri la supinazione è ridotta, quindi le fibre che girano il palmo sono stimolate meno."
@@ -87,9 +87,9 @@
         "question": "Che cosa si intende per ipertrofia regionale?",
         "options": [
           "Che il muscolo cresce in modo non uniforme, con zone che crescono di più con certi esercizi",
-          "Che i muscoli delle gambe crescono più di quelli delle braccia",
-          "Che l'ipertrofia dipende dalla regione geografica dell'atleta",
-          "Che solo i multiarticolari fanno crescere il muscolo"
+          "Che il muscolo cresce in modo uniforme, anche quando si scelgono movimenti molto diversi tra loro",
+          "Che il muscolo cresce più in una zona, ma la zona che cresce di più non cambia con il movimento",
+          "Che il muscolo cresce in modo uniforme al suo interno, ma non quanto gli altri muscoli del gruppo"
         ],
         "answer": 0,
         "explanation": "Alcune parti di un muscolo, o alcuni muscoli di un gruppo, crescono di più con determinati esercizi."
@@ -109,9 +109,9 @@
       "check": {
         "question": "Quale esempio di varietà suggerisce la lezione senza stravolgere lo schema motorio?",
         "options": [
-          "Passare dalla panca piana allo squat",
-          "Togliere tutti gli esercizi con bilanciere",
-          "Cambiare tutti gli esercizi ogni seduta",
+          "Sostituire la panca piana con un rematore",
+          "Alternare la panca piana e il leg curl",
+          "Cambiare tutti i movimenti a ogni seduta",
           "Stringere la presa nella panca piana"
         ],
         "answer": 3,
@@ -132,10 +132,10 @@
       "check": {
         "question": "Che cosa succede con recuperi molto brevi e carico invariato?",
         "options": [
-          "Aumenta il volume totale sollevato",
+          "Aumenta lo stress metabolico e sale il numero di ripetizioni nelle serie",
           "Aumenta lo stress metabolico ma calano ripetizioni e tensione meccanica",
-          "Si smaltiscono meglio i metaboliti",
-          "La tensione meccanica diventa lo stimolo principale"
+          "Aumenta lo smaltimento dei metaboliti e si mantiene il numero di ripetizioni",
+          "Aumenta lo stimolo meccanico perché si completano più ripetizioni totali"
         ],
         "answer": 1,
         "explanation": "I metaboliti si accumulano, ma la fatica riduce le ripetizioni e quindi volume e tensione meccanica."
@@ -156,9 +156,9 @@
         "question": "Secondo la ricerca citata, quale recupero può essere la soluzione migliore per l'ipertrofia?",
         "options": [
           "Circa 2 minuti",
-          "Meno di 30 secondi",
-          "Almeno 5 minuti",
-          "Nessun recupero tra le serie"
+          "Circa 30 secondi",
+          "Circa 5 minuti",
+          "Circa 1 minuto"
         ],
         "answer": 0,
         "explanation": "Circa 2 minuti mantengono il volume tra le serie e producono comunque un buon stress metabolico."
@@ -179,10 +179,10 @@
       "check": {
         "question": "Su quale parte del muscolo sembra agire di più la contrazione concentrica?",
         "options": [
-          "Solo sui tendini",
-          "Sulle estremità del muscolo",
+          "Sulla zona vicina al tendine di origine",
+          "Sulla zona vicina al tendine d'inserzione",
           "Sulla parte centrale del muscolo",
-          "Su nessuna parte, non causa ipertrofia"
+          "Sulla zona più superficiale del muscolo"
         ],
         "answer": 2,
         "explanation": "La concentrica favorisce l'ipertrofia in parallelo e la parte centrale; l'eccentrica le estremità e l'ipertrofia in serie."
@@ -202,10 +202,10 @@
       "check": {
         "question": "In un tempo di esecuzione 303 nella panca, che cosa indica lo zero?",
         "options": [
-          "Che la fase concentrica dura zero secondi",
+          "Che non c'è una fase di spinta",
           "Che non c'è una pausa prolungata in basso",
-          "Che l'esercizio va fatto senza carico",
-          "Che la fase eccentrica è libera"
+          "Che non c'è una sosta prima di scendere",
+          "Che non c'è una fase di discesa"
         ],
         "answer": 1,
         "explanation": "Il numero centrale è la pausa tra eccentrica e concentrica: zero significa ripartire il più veloce possibile."
@@ -248,10 +248,10 @@
       "check": {
         "question": "Secondo la lezione, quali esercizi vanno messi per primi nella seduta?",
         "options": [
-          "Sempre i multiarticolari, per regola",
-          "Sempre gli esercizi di isolamento",
+          "Quelli per i muscoli coinvolti nei multiarticolari",
+          "Quelli per i muscoli che si affaticano meno",
           "Quelli per i muscoli prioritari o in ritardo",
-          "Quelli con il carico più leggero"
+          "Quelli per i muscoli già allenati più spesso"
         ],
         "answer": 2,
         "explanation": "La regola dei multiarticolari per primi non è supportata: si dà priorità ai muscoli su cui ti vuoi concentrare."
@@ -272,9 +272,9 @@
         "question": "Perché nei multiarticolari si preferisce dire range of motion maggiore?",
         "options": [
           "Perché non tutte le articolazioni si muovono per l'intero arco",
-          "Perché il ROM completo è pericoloso",
-          "Perché i multiarticolari non causano ipertrofia",
-          "Perché il termine completo vale solo per le macchine"
+          "Perché non tutte le fasi del gesto producono tensione muscolare",
+          "Perché non tutte le macchine consentono di regolare la profondità",
+          "Perché non tutte le ripetizioni devono raggiungere lo stesso punto"
         ],
         "answer": 0,
         "explanation": "Ad esempio il ginocchio nello stacco partecipa ma non fa un ROM completo: meglio dire maggiore e indicare l'articolazione."
@@ -294,9 +294,9 @@
       "check": {
         "question": "Quale di queste è una delle prime cinque linee guida per l'ipertrofia?",
         "options": [
-          "Evitare sempre il cedimento muscolare",
-          "Usare sempre lo stesso carico",
-          "Preferire sempre la split routine",
+          "Più carico, a parità di sforzo, dà sempre più crescita",
+          "Più frequenza, a volume invariato, dà sempre più crescita",
+          "Più lavoro, concentrato in una seduta, dà più crescita",
           "Più volume, in sicurezza, porta risultati migliori"
         ],
         "answer": 3,
@@ -319,8 +319,8 @@
         "options": [
           "Circa 30 secondi",
           "Circa 2 minuti",
-          "Oltre 5 minuti",
-          "Nessun recupero fisso, mai pause"
+          "Circa 5 minuti",
+          "Circa 1 minuto"
         ],
         "answer": 1,
         "explanation": "Le linee guida indicano un recupero moderato di 2 minuti, con recuperi più lunghi o brevi ogni tanto."
@@ -339,10 +339,10 @@
       "check": {
         "question": "Che cosa integrano le linee guida finali della lezione?",
         "options": [
-          "Solo le variabili di questa lezione",
+          "Le variabili della sola lezione attuale",
           "Le variabili delle ultime due lezioni",
-          "Solo i consigli sull'alimentazione",
-          "Solo le regole per i principianti"
+          "Le variabili delle lezioni sulla dieta",
+          "Le variabili delle schede per esordienti"
         ],
         "answer": 1,
         "explanation": "Le linee guida mettono insieme tutte le variabili viste nelle lezioni 6.1 e 6.2."
@@ -350,37 +350,125 @@
     }
   ],
   "flashcards": [
-    { "front": "Quali sono le sei variabili di questa lezione?", "back": "Scelta degli esercizi, tempi di recupero, tempo di esecuzione, azione muscolare, ordine degli esercizi, range of motion.", "part": 0 },
-    { "front": "Bicipite: quali fibre flettono il gomito e quali supinano?", "back": "Parte laterale esterna: flessione del gomito. Parte laterale interna: supinazione. Fibre centrali: entrambe.", "part": 1 },
-    { "front": "Che cosa vuol dire che un muscolo è diviso in compartimenti?", "back": "Non è un unico fascio di fibre con lo stesso compito: zone diverse lavorano in movimenti diversi.", "part": 1 },
-    { "front": "Perché il solo hammer curl non basta per il bicipite?", "back": "La supinazione è limitata, quindi una parte delle fibre è stimolata meno efficacemente.", "part": 2 },
-    { "front": "A chi servirebbe allenare compartimenti specifici, se fosse possibile?", "back": "Soprattutto ad atleti avanzati con l'ipertrofia come obiettivo principale.", "part": 2 },
-    { "front": "Che cos'è l'ipertrofia regionale?", "back": "Crescita non uniforme: alcune parti di un muscolo crescono di più con certi esercizi.", "part": 3 },
-    { "front": "Schoenfeld et al. 2015: che cosa mostra sugli ischiocrurali?", "back": "Estensione d'anca e flessione di ginocchio li usano entrambe, ma attivano regioni diverse.", "part": 3 },
-    { "front": "Perché i principianti devono limitare la varietà di esercizi?", "back": "Per fissare a livello neurale gli schemi motori e poter aumentare il carico nel tempo.", "part": 4 },
-    { "front": "Esempi di varietà senza cambiare lo schema motorio?", "back": "Presa più stretta nella panca; alternare pesi liberi, macchine a cavi e macchine con pesi.", "part": 4 },
-    { "front": "Fasce dei tempi di recupero", "back": "Brevi: 30 s o meno. Moderati: 60–90 s. Lunghi: oltre 3 minuti.", "part": 5 },
-    { "front": "Panca 4×10 al 10RM: ripetizioni con 30 s e con 3 min di recupero?", "back": "30 s: 10-8-7-5. 3 min: 10-10-9-8.", "part": 5 },
-    { "front": "Quale recupero sembra migliore per l'ipertrofia secondo la ricerca?", "back": "Circa 2 minuti: mantiene il volume e dà un buon stress metabolico.", "part": 6 },
-    { "front": "Eccentrica e concentrica: dove agiscono di più?", "back": "Eccentrica: ipertrofia in serie ed estremità. Concentrica: ipertrofia in parallelo e parte centrale.", "part": 7 },
-    { "front": "Perché si pensa che l'eccentrica dia più ipertrofia?", "back": "In eccentrica siamo più forti e gestiamo più carico.", "part": 7 },
-    { "front": "Che cosa significa il tempo 303?", "back": "3 s di eccentrica, nessuna pausa prolungata, 3 s di concentrica.", "part": 8 },
-    { "front": "Durata delle ripetizioni: che cosa dice la ricerca?", "back": "Tra 0,5 e 6 s fino al cedimento la differenza è piccola; oltre 10 s non è ottimale.", "part": 9 },
-    { "front": "Come conviene modificare il tempo di esecuzione?", "back": "Allungare l'eccentrica; pausa e concentrica il più esplosive possibile.", "part": 9 },
-    { "front": "Quali esercizi vanno messi per primi nella seduta?", "back": "Quelli per i muscoli prioritari, in ritardo o difficili da stimolare.", "part": 10 },
-    { "front": "Quando il range of motion è completo?", "back": "Quando l'articolazione si muove fino al limite imposto dalle sue strutture passive.", "part": 11 },
-    { "front": "Linea guida 4 per l'ipertrofia", "back": "Serie fino al cedimento muscolare o vicino a esso.", "part": 12 },
-    { "front": "Linee guida su tempo e azione muscolare", "back": "Eccentrica più lenta, concentrica veloce; includere entrambe, più lavoro eccentrico specifico.", "part": 13 },
-    { "front": "Che cosa riassume la lista finale di linee guida?", "back": "Tutte le variabili di allenamento delle ultime due lezioni, per massimizzare l'ipertrofia.", "part": 14 }
+    {
+      "front": "Quali sono le sei variabili di questa lezione?",
+      "back": "Scelta degli esercizi, tempi di recupero, tempo di esecuzione, azione muscolare, ordine degli esercizi, range of motion.",
+      "part": 0
+    },
+    {
+      "front": "Bicipite: quali fibre flettono il gomito e quali supinano?",
+      "back": "Parte laterale esterna: flessione del gomito. Parte laterale interna: supinazione. Fibre centrali: entrambe.",
+      "part": 1
+    },
+    {
+      "front": "Che cosa vuol dire che un muscolo è diviso in compartimenti?",
+      "back": "Non è un unico fascio di fibre con lo stesso compito: zone diverse lavorano in movimenti diversi.",
+      "part": 1
+    },
+    {
+      "front": "Perché il solo hammer curl non basta per il bicipite?",
+      "back": "La supinazione è limitata, quindi una parte delle fibre è stimolata meno efficacemente.",
+      "part": 2
+    },
+    {
+      "front": "A chi servirebbe allenare compartimenti specifici, se fosse possibile?",
+      "back": "Soprattutto ad atleti avanzati con l'ipertrofia come obiettivo principale.",
+      "part": 2
+    },
+    {
+      "front": "Che cos'è l'ipertrofia regionale?",
+      "back": "Crescita non uniforme: alcune parti di un muscolo crescono di più con certi esercizi.",
+      "part": 3
+    },
+    {
+      "front": "Schoenfeld et al. 2015: che cosa mostra sugli ischiocrurali?",
+      "back": "Estensione d'anca e flessione di ginocchio li usano entrambe, ma attivano regioni diverse.",
+      "part": 3
+    },
+    {
+      "front": "Perché i principianti devono limitare la varietà di esercizi?",
+      "back": "Per fissare a livello neurale gli schemi motori e poter aumentare il carico nel tempo.",
+      "part": 4
+    },
+    {
+      "front": "Esempi di varietà senza cambiare lo schema motorio?",
+      "back": "Presa più stretta nella panca; alternare pesi liberi, macchine a cavi e macchine con pesi.",
+      "part": 4
+    },
+    {
+      "front": "Fasce dei tempi di recupero",
+      "back": "Brevi: 30 s o meno. Moderati: 60–90 s. Lunghi: oltre 3 minuti.",
+      "part": 5
+    },
+    {
+      "front": "Panca 4×10 al 10RM: ripetizioni con 30 s e con 3 min di recupero?",
+      "back": "30 s: 10-8-7-5. 3 min: 10-10-9-8.",
+      "part": 5
+    },
+    {
+      "front": "Quale recupero sembra migliore per l'ipertrofia secondo la ricerca?",
+      "back": "Circa 2 minuti: mantiene il volume e dà un buon stress metabolico.",
+      "part": 6
+    },
+    {
+      "front": "Eccentrica e concentrica: dove agiscono di più?",
+      "back": "Eccentrica: ipertrofia in serie ed estremità. Concentrica: ipertrofia in parallelo e parte centrale.",
+      "part": 7
+    },
+    {
+      "front": "Perché si pensa che l'eccentrica dia più ipertrofia?",
+      "back": "In eccentrica siamo più forti e gestiamo più carico.",
+      "part": 7
+    },
+    {
+      "front": "Che cosa significa il tempo 303?",
+      "back": "3 s di eccentrica, nessuna pausa prolungata, 3 s di concentrica.",
+      "part": 8
+    },
+    {
+      "front": "Durata delle ripetizioni: che cosa dice la ricerca?",
+      "back": "Tra 0,5 e 6 s fino al cedimento la differenza è piccola; oltre 10 s non è ottimale.",
+      "part": 9
+    },
+    {
+      "front": "Come conviene modificare il tempo di esecuzione?",
+      "back": "Allungare l'eccentrica; pausa e concentrica il più esplosive possibile.",
+      "part": 9
+    },
+    {
+      "front": "Quali esercizi vanno messi per primi nella seduta?",
+      "back": "Quelli per i muscoli prioritari, in ritardo o difficili da stimolare.",
+      "part": 10
+    },
+    {
+      "front": "Quando il range of motion è completo?",
+      "back": "Quando l'articolazione si muove fino al limite imposto dalle sue strutture passive.",
+      "part": 11
+    },
+    {
+      "front": "Linea guida 4 per l'ipertrofia",
+      "back": "Serie fino al cedimento muscolare o vicino a esso.",
+      "part": 12
+    },
+    {
+      "front": "Linee guida su tempo e azione muscolare",
+      "back": "Eccentrica più lenta, concentrica veloce; includere entrambe, più lavoro eccentrico specifico.",
+      "part": 13
+    },
+    {
+      "front": "Che cosa riassume la lista finale di linee guida?",
+      "back": "Tutte le variabili di allenamento delle ultime due lezioni, per massimizzare l'ipertrofia.",
+      "part": 14
+    }
   ],
   "questions": [
     {
       "question": "Nel bicipite brachiale, quali fibre vengono reclutate sia per la flessione del gomito sia per la supinazione?",
       "options": [
-        "Le fibre della porzione laterale esterna",
-        "Le fibre della porzione laterale interna",
+        "Le fibre esterne",
+        "Le fibre interne",
         "Le fibre centrali",
-        "Solo le fibre del capo breve"
+        "Le fibre distali"
       ],
       "answer": 2,
       "explanation": "Esterna: flessione; interna: supinazione; centrali: entrambi i movimenti.",
@@ -390,9 +478,9 @@
       "question": "Rispetto al curl classico, l'hammer curl:",
       "options": [
         "Limita la supinazione, stimolando meno alcune fibre del bicipite",
-        "Aumenta la supinazione dell'avambraccio",
-        "Non coinvolge la flessione del gomito",
-        "Stimola tutte le fibre del bicipite allo stesso modo"
+        "Limita la flessione del gomito, spostando il lavoro sull'avambraccio",
+        "Limita la supinazione, aumentando il reclutamento delle fibre che la producono",
+        "Limita la supinazione, riducendo allo stesso modo lo stimolo su tutte le fibre"
       ],
       "answer": 0,
       "explanation": "Con i palmi neutri la supinazione è ridotta, quindi parte delle fibre non è stimolata con la stessa efficacia.",
@@ -401,9 +489,9 @@
     {
       "question": "Che cosa dice la ricerca sulla scelta tra esercizi monoarticolari e multiarticolari per l'ipertrofia?",
       "options": [
-        "I multiarticolari sono chiaramente superiori",
-        "I monoarticolari sono chiaramente superiori",
-        "Nessuno dei due causa ipertrofia regionale",
+        "Non è utile combinarli: i primi danno risultati migliori da soli",
+        "Non è utile combinarli: i secondi danno risultati migliori da soli",
+        "Non è il tipo di movimento a contare: basta pareggiare il volume",
         "Non è chiaro quale sia meglio: conviene usarli entrambi"
       ],
       "answer": 3,
@@ -413,10 +501,10 @@
     {
       "question": "Secondo Schoenfeld et al. (2015), esercizi di estensione dell'anca e di flessione del ginocchio:",
       "options": [
-        "Non coinvolgono gli ischiocrurali",
+        "Coinvolgono gli ischiocrurali e attivano le stesse regioni allo stesso modo",
         "Coinvolgono gli ischiocrurali ma attivano regioni diverse del muscolo",
-        "Attivano esattamente le stesse regioni degli ischiocrurali",
-        "Coinvolgono solo i glutei"
+        "Coinvolgono gli ischiocrurali ma attivano soltanto le loro regioni centrali",
+        "Coinvolgono gli ischiocrurali ma attivano solo le fibre più vicine al bacino"
       ],
       "answer": 1,
       "explanation": "Entrambi usano gli ischiocrurali, ma con parti più o meno attive a seconda del movimento richiesto.",
@@ -425,10 +513,10 @@
     {
       "question": "Perché troppa varietà di esercizi può dare uno stimolo non ottimale per l'ipertrofia?",
       "options": [
-        "Perché aumenta troppo il carico sollevato",
-        "Perché riduce i tempi di recupero",
+        "Perché l'atleta accumula più fatica usando carichi sempre più elevati",
+        "Perché l'atleta deve ridurre le pause per mantenere la durata della seduta",
         "Perché l'atleta impara nuovi schemi motori usando pesi più bassi e più ripetizioni",
-        "Perché elimina la fase eccentrica"
+        "Perché l'atleta deve lavorare sempre a cedimento per imparare ogni nuovo movimento"
       ],
       "answer": 2,
       "explanation": "Abituarsi a nuovi esercizi richiede tempo e di solito carichi inferiori, che non danno lo stimolo ideale.",
@@ -438,9 +526,9 @@
       "question": "Quale atleta può sperimentare una maggiore varietà di esercizi per l'ipertrofia?",
       "options": [
         "L'atleta esperto, con connessioni neurali già sviluppate",
-        "Il principiante assoluto",
-        "L'atleta nelle prime settimane di allenamento",
-        "Nessuno: la varietà va sempre evitata"
+        "L'atleta principiante, con schemi motori ancora da consolidare",
+        "L'atleta alle prime sedute, con poca pratica nei movimenti di base",
+        "L'atleta di ritorno da una pausa, con schemi motori da riapprendere"
       ],
       "answer": 0,
       "explanation": "Gli esperti hanno già schemi motori consolidati per i movimenti chiave della forza.",
@@ -449,9 +537,9 @@
     {
       "question": "Come vengono classificati i tempi di recupero moderati tra le serie?",
       "options": [
-        "30 secondi o meno",
-        "Oltre 3 minuti",
-        "Circa 5 minuti",
+        "15–30 secondi",
+        "35–50 secondi",
+        "120–150 secondi",
         "60–90 secondi"
       ],
       "answer": 3,
@@ -461,10 +549,10 @@
     {
       "question": "Con recuperi lunghi (oltre 3 minuti), quale meccanismo ipertrofico diventa predominante?",
       "options": [
-        "Lo stress metabolico",
+        "La risposta metabolica",
         "La tensione meccanica",
-        "Il danno muscolare da supinazione",
-        "Nessuno, perché il volume cala"
+        "La risposta ormonale",
+        "La fatica muscolare"
       ],
       "answer": 1,
       "explanation": "La fatica si dissipa, il volume si mantiene con lo stesso carico e la tensione meccanica è lo stimolo chiave.",
@@ -473,10 +561,10 @@
     {
       "question": "Oltre all'ipertrofia, quale vantaggio aggiuntivo danno recuperi più lunghi?",
       "options": [
-        "Maggiore stress metabolico",
-        "Minore tempo totale di seduta",
+        "Possibilità di accumulare più metaboliti tra una serie e l'altra",
+        "Possibilità di completare lo stesso lavoro in meno tempo",
         "Possibilità di usare carichi più alti e aumentare la forza",
-        "Migliore apprendimento di nuovi esercizi"
+        "Possibilità di allenare meglio la resistenza locale alla fatica"
       ],
       "answer": 2,
       "explanation": "Recuperi più lunghi consentono carichi più elevati e quindi guadagni di forza, utili per la prestazione sportiva.",
@@ -485,9 +573,9 @@
     {
       "question": "L'allenamento eccentrico sembra avere un effetto ipertrofico maggiore:",
       "options": [
-        "Sulla parte centrale del muscolo",
-        "Solo sui muscoli delle braccia",
-        "Sull'ipertrofia in parallelo",
+        "Sulle regioni centrali del muscolo e sull'ipertrofia in serie",
+        "Sulle estremità del muscolo e sull'ipertrofia in parallelo",
+        "Sulle regioni centrali del muscolo e sull'ipertrofia in parallelo",
         "Sulle estremità del muscolo e sull'ipertrofia in serie"
       ],
       "answer": 3,
@@ -509,10 +597,10 @@
     {
       "question": "Perché rallentare molto le ripetizioni non porta necessariamente più ipertrofia?",
       "options": [
-        "Perché elimina lo stress metabolico",
+        "Perché per fare le stesse ripetizioni bisogna aumentare il carico, e la fatica cresce troppo",
         "Perché per fare le stesse ripetizioni bisogna ridurre il carico, e cala la tensione meccanica",
-        "Perché aumenta troppo il carico",
-        "Perché impedisce di arrivare al cedimento"
+        "Perché a parità di carico si accumulano meno metaboliti, e si riduce lo stress metabolico",
+        "Perché a parità di carico si riesce a rinviare il cedimento, e si reclutano meno fibre muscolari"
       ],
       "answer": 1,
       "explanation": "Più tempo sotto tensione ma carichi più leggeri: questo compromesso annulla il vantaggio.",
@@ -521,10 +609,10 @@
     {
       "question": "Quale durata della ripetizione andrebbe evitata per l'ipertrofia?",
       "options": [
-        "Circa 2 secondi",
-        "Tra 0,5 e 6 secondi",
+        "Oltre 0,5 ma non oltre 2 secondi",
+        "Oltre 2 ma non oltre 4 secondi",
         "Oltre 10 secondi (super slow)",
-        "Una concentrica esplosiva"
+        "Oltre 4 ma non oltre 6 secondi"
       ],
       "answer": 2,
       "explanation": "Le ripetizioni super lente o oltre i 10 secondi non sono ottimali per l'ipertrofia.",
@@ -533,9 +621,9 @@
     {
       "question": "Sull'ordine degli esercizi, quale affermazione è corretta secondo la lezione?",
       "options": [
-        "La ricerca conferma che i multiarticolari vanno sempre messi per primi",
-        "Gli esercizi di isolamento vanno sempre messi per primi",
-        "L'ordine non ha alcuna influenza sull'ipertrofia",
+        "Vanno messi per primi gli esercizi multiarticolari, qualunque sia il muscolo bersaglio",
+        "Vanno messi per primi gli esercizi di isolamento, a prescindere dal muscolo bersaglio",
+        "Vanno messi per primi gli esercizi meno faticosi, anche se allenano muscoli non prioritari",
         "Vanno messi per primi gli esercizi per i muscoli su cui ci si vuole concentrare"
       ],
       "answer": 3,
@@ -546,9 +634,9 @@
       "question": "Che cosa mostra la ricerca sul range of motion e l'ipertrofia?",
       "options": [
         "Un chiaro beneficio con range of motion completo o maggiore",
-        "Un chiaro beneficio con range of motion parziale",
-        "Nessuna differenza tra parziale e completo",
-        "Che il range of motion conta solo negli esercizi di isolamento"
+        "Un chiaro beneficio con range of motion ridotto rispetto al completo",
+        "Un effetto equivalente con range of motion parziale e completo",
+        "Un beneficio del range of motion completo solo negli esercizi di isolamento"
       ],
       "answer": 0,
       "explanation": "Con ROM completo o maggiore c'è un beneficio ipertrofico evidente, se mobilità e stabilità lo permettono.",

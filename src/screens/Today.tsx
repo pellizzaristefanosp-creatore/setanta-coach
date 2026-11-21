@@ -41,7 +41,7 @@ import { Box, Icon, Progress, Sheet, beep, formatClock, unlockAudio } from "../u
 /** fa partire fn dopo ms, se active (si annulla se cambia schermata) */
 function useAfter(active: boolean, ms: number, fn: () => void) {
   const cb = useRef(fn);
-  cb.current = fn;
+  useEffect(() => { cb.current = fn; });
   useEffect(() => {
     if (!active) return;
     const id = window.setTimeout(() => cb.current(), ms);
@@ -992,7 +992,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   // ← Precedente: la parte prima (o l'ultima della lezione prima); Prossima →: la parte dopo (o la lezione dopo)
   const ordered = [...s.presentations].sort((a, b) => comparePresentationCode(a.code, b.code));
   const pi = ordered.findIndex((x) => x.id === p.id);
-  const openPart = (pp: Presentation, stepIdx: number) => { const st = pp.steps[stepIdx]; if (!st) return; if (st.done) startReplay(pp.id, st.id); else startStepAt(pp.id, st.id); };
+  const openPart = (pp: Presentation, stepIdx: number) => { const st = pp.steps[stepIdx]; if (!st) return; if (st.done) startReplay(pp.id, st.id, returnTo ?? (replay ? undefined : s.timer?.stepId)); else startStepAt(pp.id, st.id); };
   const goPrev = () => {
     if (index > 0) return openPart(p, index - 1);
     const prev = ordered[pi - 1]; if (prev) openPart(prev, prev.steps.length - 1);
@@ -1047,7 +1047,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
     if (!a) return;
     a.playbackRate = rate;
     // se il video della lezione ha già le voci, il dialogo parte quando il video finisce
-    if (!(video?.voices && videoOn)) a.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
+    if (!(video?.voices && videoOn && view === "cartoon")) a.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
     if ("mediaSession" in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({ title: `${p.code} · ${part.title}`, artist: "Prof e Ste", album: "Setanta Coach", artwork: [{ src: "/icon-512.png", sizes: "512x512", type: "image/png" }] });
       navigator.mediaSession.setActionHandler("play", () => void a.play());
@@ -1059,7 +1059,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index]);
 
-  useAfter(ended && !replay && autoOn && turnState !== "domanda", 1800, onDone);
+  useAfter(ended && !replay && autoOn && !card && turnState !== "domanda", 1800, onDone);
   const toggle = () => {
     const a = el.current;
     if (!a) return;
@@ -1101,7 +1101,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
 
       <div className="view-switch" role="tablist" aria-label="Come vuoi la lezione">
         <button className={view === "cartoon" ? "on" : ""} onClick={() => setState((d) => void (d.settings.lessonView = "cartoon"))}>🎬 Cartone</button>
-        <button className={view === "audio" ? "on" : ""} onClick={() => setState((d) => void (d.settings.lessonView = "audio"))}>🎧 Solo ascolto</button>
+        <button className={view === "audio" ? "on" : ""} onClick={() => { setState((d) => void (d.settings.lessonView = "audio")); if (video && videoOn) endVideo(); }}>🎧 Solo ascolto</button>
       </div>
 
       {view === "cartoon" ? (
@@ -1272,9 +1272,9 @@ function LessonCalendar({ now }: { now: string }) {
           const state = done === all ? "done" : p.id === curId ? "now" : done > 0 ? "half" : "";
           return (
             <button key={p.id} className={`cal-chip ${state}`} aria-pressed={p.id === curId}
-              onClick={() => setState((d) => void (d.lastPresentationId = p.id))}>
+              onClick={() => { if (done === all) { unlockAudio(); unlockSpeech(); startReplay(p.id, p.steps[0]!.id); } else setState((d) => void (d.lastPresentationId = p.id)); }}>
               <span className="cal-code num">{p.code}</span>
-              <span className="cal-state">{done === all ? "✓ fatta" : p.id === curId ? "▶ adesso" : done > 0 ? `${done}/${all}` : "da fare"}</span>
+              <span className="cal-state">{done === all ? "✓ rivedi" : p.id === curId ? "▶ adesso" : done > 0 ? `${done}/${all}` : "da fare"}</span>
             </button>
           );
         })}

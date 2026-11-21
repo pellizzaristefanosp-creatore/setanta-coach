@@ -18,113 +18,113 @@
  "who": [
   {
    "clues": [
-    "Puoi stimarmi in modo grezzo con ore e minuti.",
-    "Per misurarmi meglio, guarda cosa hai scritto nella scheda.",
+    "Puoi stimarmi a grandi linee in ore e minuti.",
+    "Per misurarmi con più precisione, guarda cosa hai scritto nella scheda.",
     "Mi misuri contando serie e ripetizioni."
    ],
    "answer": "Volume",
    "distractors": [
-    "Frequenza",
     "Carico",
-    "Sforzo"
+    "Sforzo",
+    "Recupero"
    ],
    "slide": 4
   },
   {
    "clues": [
-    "Posso restare uguale anche se vai in palestra più spesso.",
-    "Non conto tutte le sedute della settimana.",
-    "Per i quadricipiti, conto quante volte li alleni in una settimana."
+    "Il mio valore può non cambiare anche se vai in palestra più spesso.",
+    "Per calcolarmi, non basta contare tutte le sedute della settimana.",
+    "Per calcolarmi per i quadricipiti, conta quante volte li alleni in una settimana."
    ],
    "answer": "Frequenza dei gruppi muscolari",
    "distractors": [
     "Frequenza delle sessioni",
-    "Volume",
-    "Full body"
+    "Frequenza degli esercizi",
+    "Frequenza dei test di forza"
    ],
    "slide": 8
   },
   {
    "clues": [
-    "Posso dare lo stesso lavoro settimanale per muscolo di una split.",
-    "Distribuisco il lavoro in modo da fare meno per muscolo in ciascuna seduta.",
-    "In ogni seduta alleno molti gruppi muscolari."
+    "Con me puoi fare lo stesso lavoro settimanale per muscolo che faresti con una split.",
+    "Distribuisco il lavoro in modo da farti fare meno serie per muscolo in ciascuna seduta.",
+    "In ogni seduta alleno molti gruppi muscolari, senza dividere il corpo in parti da allenare in giorni diversi."
    ],
    "answer": "Full body",
    "distractors": [
-    "Split routine",
-    "Serie singola",
-    "Frequenza delle sessioni"
+    "Push-pull",
+    "Upper/lower",
+    "Push-pull-legs"
    ],
    "slide": 9
   },
   {
    "clues": [
-    "Sono il riferimento di una tabella che stima le ripetizioni massime.",
-    "Se in panca valgo 100 kg, l'80% corrisponde a 80 kg.",
-    "Al 100% di me completi una sola ripetizione."
+    "Mi usi come riferimento in una tabella che stima le ripetizioni massime.",
+    "Se in panca corrispondo a 100 kg, l'80% del mio valore è 80 kg.",
+    "Con il 100% del mio valore riesci a completare una sola ripetizione."
    ],
    "answer": "1RM",
    "distractors": [
-    "Carico moderato",
-    "Cedimento muscolare",
-    "Sforzo"
+    "3RM",
+    "5RM",
+    "10RM"
    ],
    "slide": 10
   },
   {
    "clues": [
-    "Puoi prescrivermi anche senza testare il massimale.",
-    "Se con quel peso completi 20 ripetizioni, non sei nella mia zona.",
+    "Puoi prescrivermi senza testare il massimale.",
+    "Se con quel peso riesci a completare 20 ripetizioni, non rientri nella mia zona.",
     "Con me completi da 6 a 12 ripetizioni a sforzo massimo."
    ],
    "answer": "Carico moderato",
    "distractors": [
     "Carico pesante",
     "Carico leggero",
-    "1RM"
+    "Carico massimale"
    ],
    "slide": 11
   },
   {
    "clues": [
-    "I carichi pesanti ne producono poco perché la serie dura poco.",
-    "Le serie lunghe con pesi leggeri ne producono molto.",
-    "Nella lezione mi riconosci dal classico bruciore."
+    "Con i carichi pesanti mi accumulo poco, perché la serie dura poco.",
+    "Nelle serie lunghe con pesi leggeri mi accumulo molto.",
+    "Mi riconosci dal classico bruciore durante la serie."
    ],
    "answer": "Stress metabolico",
    "distractors": [
-    "Tensione meccanica",
-    "Sintesi proteica",
-    "Adattamenti neurali"
+    "Danno muscolare",
+    "Affaticamento locale",
+    "Reclutamento muscolare"
    ],
    "slide": 12
   },
   {
    "clues": [
-    "Con un volume maggiore resto elevata più a lungo dopo la seduta.",
+    "Con più volume, il mio livello resta sopra quello di riposo più a lungo dopo la seduta.",
     "Misurarmi nelle ore dopo l'allenamento non basta per dimostrare che il muscolo crescerà.",
-    "Sono il processo con cui il muscolo costruisce nuove proteine."
+    "Con me il muscolo costruisce nuove proteine."
    ],
    "answer": "Sintesi proteica",
    "distractors": [
-    "Stress metabolico",
-    "Tensione meccanica",
-    "Danno muscolare"
+    "Degradazione proteica",
+    "Segnalazione cellulare",
+    "Rigenerazione muscolare"
    ],
    "slide": 6
   },
   {
    "clues": [
     "Con i pesi leggeri può essere più utile raggiungermi.",
-    "Per limitare la fatica, la lezione propone di raggiungermi solo in alcune serie.",
+    "Per limitare la fatica, la lezione suggerisce di raggiungermi solo in alcune serie.",
     "Arrivo quando non riesci più a spostare il peso nella fase concentrica."
    ],
    "answer": "Cedimento muscolare",
    "distractors": [
-    "Sforzo",
-    "Stress metabolico",
-    "Danno muscolare"
+    "Cedimento tecnico",
+    "Cedimento isometrico",
+    "Cedimento eccentrico"
    ],
    "slide": 14
   }

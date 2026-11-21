@@ -6,10 +6,10 @@
    "line": 1,
    "question": "Che cosa alleni in un esercizio di anti-rotazione?",
    "options": [
-    "La capacità di ruotare il busto nella direzione della trazione.",
+    "La capacità di ruotare il busto sfruttando la forza che lo tira dalla stessa parte.",
     "La capacità di mantenere il busto allineato mentre una forza cerca di ruotarlo.",
-    "La capacità di ruotare il busto in direzione opposta alla trazione.",
-    "La capacità di riallineare il busto dopo aver assecondato la trazione."
+    "La capacità di ruotare il busto dalla parte opposta a quella verso cui viene tirato.",
+    "La capacità di riallineare il busto dopo averlo lasciato girare nella direzione della trazione."
    ],
    "answer": 1,
    "why": "La forza esterna tende a farti perdere la posizione: il core la contrasta senza che il busto debba girare."
@@ -19,9 +19,9 @@
    "line": 3,
    "question": "Che cosa hanno in comune uno shoulder tap e un contrasto in cui ti tirano lateralmente?",
    "options": [
-    "In entrambi devi assecondare la rotazione prima di recuperare la posizione.",
-    "In entrambi devi ripristinare il punto d'appoggio per poter stabilizzare il busto.",
-    "In entrambi devi ruotare dalla parte opposta per compensare la spinta.",
+    "In entrambi devi lasciare che il busto ruoti prima di riportarlo nella posizione iniziale.",
+    "In entrambi devi recuperare l'appoggio perso prima di attivare il core per stabilizzarti.",
+    "In entrambi devi girare il busto dalla parte opposta per compensare la forza esterna.",
     "In entrambi devi impedire al busto di girare quando una forza lo destabilizza."
    ],
    "answer": 3,
@@ -33,9 +33,9 @@
    "question": "Come cambia la sfida di anti-rotazione passando dal pull-under al Pallof press?",
    "options": [
     "Nel pull-under trascini un peso in plank; nel Pallof resisti alla trazione laterale.",
-    "Nel pull-under resisti a una trazione laterale; nel Pallof trascini un peso.",
-    "Nel pull-under trascini un peso senza staccare le mani; nel Pallof alterni le mani.",
-    "Nel pull-under accompagni il peso ruotando; nel Pallof assecondi la trazione dell'elastico."
+    "Nel pull-under resisti alla trazione di un elastico; nel Pallof trascini un peso.",
+    "Nel pull-under spingi un peso in avanti; nel Pallof resisti a una trazione frontale.",
+    "Nel pull-under ruoti il bacino mentre trascini il peso; nel Pallof tieni il busto fermo."
    ],
    "answer": 0,
    "why": "Nel pull-under la sfida nasce dallo spostamento del peso e dalla perdita di un appoggio; nel Pallof nasce dalla trazione dell'elastico o del cavo."
@@ -45,10 +45,10 @@
    "line": 7,
    "question": "Perché la panca con un solo manubrio rientra nella lezione sull'anti-rotazione?",
    "options": [
-    "Perché il core produce la rotazione che dà forza alla spinta.",
-    "Perché il core interviene principalmente per accelerare la discesa del manubrio.",
+    "Perché alleni la forza mentre il core fa ruotare il busto per dare slancio alla spinta.",
+    "Perché alleni la forza mentre il core interviene soltanto alla fine della discesa.",
     "Perché alleni la forza mentre il core stabilizza il busto contro la rotazione.",
-    "Perché il core recupera l'allineamento dopo ogni rotazione del busto."
+    "Perché alleni la forza mentre il core riallinea il busto dopo averlo lasciato ruotare."
    ],
    "answer": 2,
    "why": "Il carico su un solo lato tende a farti girare. La spinta è il compito principale, mentre il core mantiene stabile il busto."
@@ -59,9 +59,9 @@
    "question": "Come cambia l'obiettivo del core quando passi dagli esercizi anti-rotazione ai lanci con la palla medica?",
    "options": [
     "Passi dal resistere alla rotazione al generarla in modo potente e controllato.",
-    "Passi dal resistere alla rotazione al contrastarla con un carico più pesante.",
-    "Passi dal generare rotazione al limitarla mentre la palla lascia le mani.",
-    "Passi dal resistere alla rotazione al lasciare che la palla trascini il busto."
+    "Passi dal resistere alla rotazione al contrastarla usando un carico più pesante.",
+    "Passi dal resistere alla rotazione al bloccarla fino al rilascio dell'attrezzo.",
+    "Passi dal resistere alla rotazione al lasciarti girare per effetto dello slancio."
    ],
    "answer": 0,
    "why": "Negli esercizi anti-rotazione il movimento è una perturbazione da controllare; nel lancio la rotazione è voluta e serve a generare potenza."
@@ -71,9 +71,9 @@
    "line": 1,
    "question": "Come reagisci a una forza che cerca di girarti durante un esercizio anti-rotazione?",
    "options": [
-    "Lasci girare il busto e attivi il core per tornare al centro.",
-    "Attivi il core e ruoti il busto dalla parte opposta.",
-    "Attivi il core soltanto quando la forza raggiunge il suo picco.",
+    "Attivi il core e riporti il busto al centro dopo averlo lasciato girare.",
+    "Attivi il core e ruoti il busto nel senso opposto alla trazione.",
+    "Attivi il core e stabilizzi il busto solo al picco della trazione.",
     "Attivi il core e mantieni il busto stabile e allineato."
    ],
    "answer": 3,
@@ -84,10 +84,10 @@
    "line": 3,
    "question": "Perché ha senso allenare la rotazione oltre all'anti-rotazione?",
    "options": [
-    "Per imparare a cedere alla trazione senza perdere del tutto l'equilibrio.",
+    "Per imparare a cedere alle spinte laterali mantenendo l'equilibrio.",
     "Per imparare a generare forza ruotando, come nei colpi del tennis o del golf.",
-    "Per sostituire il lavoro di stabilità quando si passa ai gesti sportivi.",
-    "Per imparare a raddrizzare il busto dopo una rotazione involontaria."
+    "Per imparare a eseguire i gesti sportivi senza dover stabilizzare il tronco.",
+    "Per imparare a riallineare il tronco dopo uno sbilanciamento involontario."
    ],
    "answer": 1,
    "why": "Nel tennis o nel golf la rotazione è intenzionale e contribuisce alla forza del colpo, invece di essere un movimento da impedire."
@@ -97,10 +97,10 @@
    "line": 5,
    "question": "Da dove dovrebbe venire principalmente la rotazione in un gesto sportivo potente?",
    "options": [
-    "Dalle anche e dalla zona lombare, con il torace stabile.",
-    "Dalla zona toracica e lombare, con le anche ferme.",
+    "Dalle anche e dalla zona lombare, con la zona toracica stabile.",
+    "Dalle spalle e dalla zona lombare, con le anche ferme.",
     "Dalle anche e dalla zona toracica, con la zona lombare stabile.",
-    "Dalle anche soltanto, con tutta la schiena mantenuta rigida."
+    "Dalle anche e dalla spinta dei piedi, con tutto il busto rigido."
    ],
    "answer": 2,
    "why": "Anche e torace contribuiscono al movimento; la parte bassa della schiena offre stabilità invece di essere il motore della rotazione."
@@ -111,9 +111,9 @@
    "question": "Che ruolo ha la zona lombare quando generi intenzionalmente forza ruotando?",
    "options": [
     "Resta stabile mentre anche e torace generano la rotazione.",
-    "Avvia la rotazione e poi lascia che le anche la completino.",
-    "Aumenta la torsione quando il torace ha già iniziato a girare.",
-    "Rimane stabile all'inizio e produce la parte finale della rotazione."
+    "Resta mobile per avviare la torsione prima che intervengano le anche.",
+    "Resta attiva per amplificare la torsione già avviata dal torace.",
+    "Resta stabile all'inizio, poi completa la torsione al posto del torace."
    ],
    "answer": 0,
    "why": "Anche quando vuoi ruotare, non tutte le zone devono farlo: la zona lombare stabilizza mentre anche e torace generano il movimento."
@@ -123,10 +123,10 @@
    "line": 1,
    "question": "Come esegui i tocchi alternati nello shoulder tap partendo dal plank a braccia tese?",
    "options": [
-    "Tocchi la spalla dello stesso lato, riappoggi la mano e cambi lato.",
-    "Tocchi la spalla opposta più volte prima di riappoggiare e cambiare lato.",
+    "Tocchi la spalla dello stesso lato, riappoggi la mano e ripeti con l'altra.",
+    "Tocchi più volte la spalla opposta, poi riappoggi la mano e cambi lato.",
     "Tocchi la spalla opposta, riappoggi la mano e ripeti con l'altra.",
-    "Tocchi la spalla opposta accompagnando il gesto con una rotazione del busto."
+    "Tocchi la spalla opposta ruotando il busto, poi riappoggi e cambi lato."
    ],
    "answer": 2,
    "why": "Riappoggiare la mano prima di cambiare lato ti permette di sfidare la stabilità del busto alternativamente sui due lati."
@@ -136,10 +136,10 @@
    "line": 3,
    "question": "Perché sollevare una mano nello shoulder tap mette alla prova l'anti-rotazione?",
    "options": [
-    "Perché il braccio sollevato deve ruotare il busto per raggiungere la spalla.",
+    "Perché togli un appoggio e devi ruotare il busto per raggiungere la spalla.",
     "Perché togli un appoggio e il corpo tende a girare verso quel lato.",
-    "Perché togli un appoggio e il corpo deve girare verso la mano rimasta.",
-    "Perché il contatto con la spalla, più che la perdita dell'appoggio, destabilizza il busto."
+    "Perché togli un appoggio e il corpo tende a girare verso il lato ancora sostenuto.",
+    "Perché togli un appoggio, ma il busto si destabilizza solo al contatto con la spalla."
    ],
    "answer": 1,
    "why": "La sfida nasce appena la mano lascia il pavimento: con un appoggio in meno, il core deve impedire al busto di girare."
@@ -149,9 +149,9 @@
    "line": 9,
    "question": "Che cosa indica un bacino che dondola a ogni tocco nello shoulder tap?",
    "options": [
-    "Che il bacino sta compensando correttamente la perdita di un appoggio.",
-    "Che il core controlla il movimento purché il bacino torni al centro.",
-    "Che il movimento è corretto purché le spalle rimangano parallele al pavimento.",
+    "Che il core usa correttamente il movimento del bacino per compensare la perdita di appoggio.",
+    "Che il core controlla il bacino purché lo riporti al centro prima del cambio di lato.",
+    "Che il core mantiene la stabilità necessaria purché le spalle restino parallele al pavimento.",
     "Che il core non riesce a mantenere stabile il bacino durante il tocco."
    ],
    "answer": 3,
@@ -162,10 +162,10 @@
    "line": 1,
    "question": "Quali due movimenti del tronco devi contrastare nel plank del pull-under?",
    "options": [
-    "La flessione in avanti e la flessione laterale della schiena.",
+    "La flessione laterale del tronco e l'estensione della schiena verso il basso.",
     "La rotazione del tronco e l'estensione della schiena verso il basso.",
     "La rotazione del tronco e la flessione della schiena in avanti.",
-    "L'estensione della schiena verso il basso e la flessione laterale."
+    "La flessione del tronco in avanti e l'inclinazione della schiena di lato."
    ],
    "answer": 1,
    "why": "Il core deve evitare sia che il busto giri durante lo spostamento del peso sia che la schiena ceda verso il pavimento."
@@ -175,9 +175,9 @@
    "line": 3,
    "question": "Quale movimento aggiunge il pull-under al plank?",
    "options": [
-    "Sposti il kettlebell avanti e indietro usando sempre la stessa mano.",
-    "Sposti il kettlebell lungo l'esterno del corpo, alternando la presa.",
-    "Sposti il kettlebell da un lato all'altro ruotando il bacino.",
+    "Trascini il kettlebell avanti e indietro sotto il petto, usando sempre la stessa mano.",
+    "Trascini il kettlebell lungo l'esterno del corpo, cambiando mano davanti alle spalle.",
+    "Trascini il kettlebell sotto il busto da un lato all'altro, ruotando il bacino con il peso.",
     "Trascini il kettlebell sotto il corpo da un lato all'altro, alternando le mani."
    ],
    "answer": 3,
@@ -189,9 +189,9 @@
    "question": "Perché è importante mantenere il plank mentre trascini il kettlebell nel pull-under?",
    "options": [
     "Perché togli un appoggio e muovi un peso: il busto deve resistere alla rotazione.",
-    "Perché il peso compensa l'appoggio mancante se lasci girare il busto.",
-    "Perché la rotazione va contrastata soltanto quando il kettlebell si ferma.",
-    "Perché puoi mantenere stabile il busto facendo ruotare il bacino verso il peso."
+    "Perché togli un appoggio e muovi un peso: il busto deve ruotare verso il carico per compensare.",
+    "Perché togli un appoggio e muovi un peso: il busto deve stabilizzarsi solo a fine trascinamento.",
+    "Perché togli un appoggio e muovi un peso: il busto deve inclinarsi per controbilanciare il carico."
    ],
    "answer": 0,
    "why": "La sfida avviene durante il trascinamento: tenere la posizione mentre il carico si muove è ciò che allena il controllo della rotazione."
@@ -201,10 +201,10 @@
    "line": 9,
    "question": "Quando conviene aumentare il peso del kettlebell nel pull-under?",
    "options": [
-    "Quando riesci a trascinarlo più in fretta, anche se il bacino gira.",
-    "Quando riesci a finirne il trascinamento, anche se il bacino sale.",
+    "Quando riesci a trascinare il peso più in fretta, anche se il bacino ruota.",
+    "Quando riesci a completare il trascinamento, anche se devi sollevare il bacino.",
     "Quando riesci a spostare il peso attuale senza perdere la posizione del plank.",
-    "Quando riesci a riallinearti dopo ogni trascinamento, anche se ruoti durante il movimento."
+    "Quando riesci a riallineare il busto tra le ripetizioni, anche se ruoti durante il gesto."
    ],
    "answer": 2,
    "why": "Un peso maggiore aumenta la tendenza a ruotare. Prima di aumentarlo, devi saper controllare il carico attuale per tutto il trascinamento."
@@ -215,9 +215,9 @@
    "question": "Come ti sistemi a terra prima di spingere l'elastico nel Pallof press da sdraiato?",
    "options": [
     "Appoggi piedi, bacino, spalle e testa, usando la retroversione per appiattire la lombare.",
-    "Appoggi piedi, bacino, spalle e testa, aumentando l'arco della zona lombare.",
-    "Appiattisci la lombare e sollevi il bacino, lasciando piedi e spalle appoggiati.",
-    "Appiattisci la lombare e sollevi i piedi per stabilizzare meglio il busto."
+    "Appoggi piedi, bacino, spalle e testa, inclinando il bacino in avanti per accentuare l'arco lombare.",
+    "Appoggi piedi, spalle e testa, sollevando il bacino per stabilizzare il busto.",
+    "Appoggi bacino, spalle e testa, sollevando subito entrambi i piedi per avere più stabilità."
    ],
    "answer": 0,
    "why": "La retroversione attiva il core anteriore; mantenere gli appoggi a terra ti dà una base stabile da cui contrastare la trazione laterale."
@@ -227,9 +227,9 @@
    "line": 5,
    "question": "In quale posizione il Pallof press da sdraiato richiede più resistenza alla rotazione?",
    "options": [
-    "Con le mani vicine al petto, prima di iniziare la spinta.",
-    "A metà della spinta, quando i gomiti sono ancora piegati.",
-    "Alla fine del ritorno, quando le mani si avvicinano al busto.",
+    "In basso, quando le mani sono ancora vicine al petto.",
+    "In fase di spinta, quando i gomiti sono a metà corsa.",
+    "In fase di ritorno, quando le mani sono quasi al petto.",
     "In alto, quando le braccia sono completamente distese."
    ],
    "answer": 3,
@@ -240,8 +240,8 @@
    "line": 7,
    "question": "Come puoi facilitare il Pallof press da sdraiato se fatichi a restare fermo?",
    "options": [
-    "Aumenti la tensione dell'elastico oppure allarghi la posizione dei piedi.",
-    "Riduci la tensione dell'elastico oppure stringi la posizione dei piedi.",
+    "Aumenti la tensione dell'elastico oppure allarghi la base d'appoggio.",
+    "Riduci la tensione dell'elastico oppure avvicini i piedi tra loro.",
     "Riduci la tensione dell'elastico oppure allarghi la posizione dei piedi.",
     "Mantieni la tensione dell'elastico oppure sollevi entrambi i piedi."
    ],
@@ -253,10 +253,10 @@
    "line": 9,
    "question": "Quali modifiche rendono più impegnativo il Pallof press da sdraiato?",
    "options": [
-    "Ridurre la tensione, stringere i piedi o, per progredire ancora, sollevarli.",
+    "Ridurre la tensione, avvicinare i piedi o, per progredire ancora, sollevarli.",
     "Aumentare la tensione, stringere i piedi o, per progredire ancora, sollevarli.",
     "Aumentare la tensione, allargare i piedi o, per progredire ancora, sollevarli.",
-    "Aumentare la tensione, stringere i piedi o, per progredire ancora, allargarli."
+    "Aumentare la tensione, avvicinare i piedi o, per progredire ancora, allargarli."
    ],
    "answer": 1,
    "why": "Più tensione aumenta la tendenza a ruotare. Stringere i piedi riduce la stabilità; sollevarli elimina del tutto quei punti d'appoggio."
@@ -266,9 +266,9 @@
    "line": 1,
    "question": "Che cosa cambia se alzi o abbassi l'ancoraggio dell'elastico nel Pallof press in piedi?",
    "options": [
-    "Cambia solo la tensione dell'elastico, mentre la direzione della trazione resta uguale.",
-    "Cambia la larghezza della base d'appoggio necessaria, ma non l'angolo della trazione.",
-    "Cambia la posizione finale delle mani, ma l'angolo della trazione resta uguale.",
+    "Cambia l'intensità della trazione, ma la direzione resta uguale.",
+    "Cambia la distanza da cui parti, ma non l'angolo della trazione.",
+    "Cambia l'altezza a cui spingi le mani, ma la trazione mantiene lo stesso angolo.",
     "Cambia l'angolo con cui la trazione tende a ruotare il busto."
    ],
    "answer": 3,
@@ -279,10 +279,10 @@
    "line": 3,
    "question": "Come posizioni inizialmente i piedi per avere più stabilità nel Pallof press in piedi?",
    "options": [
-    "Li tieni vicini per opporre più resistenza alla trazione dell'elastico.",
+    "Li tieni ravvicinati per contrastare la trazione durante la spinta.",
     "Li tieni piuttosto larghi per avere una base stabile durante la spinta.",
-    "Li tieni larghi all'inizio e li avvicini mentre distendi le braccia.",
-    "Li tieni vicini quando spingi e li allarghi quando riporti indietro le mani."
+    "Li tieni a contatto tra loro e sposti il peso sul lato opposto alla trazione.",
+    "Li tieni sulla stessa linea, uno davanti all'altro, come su una trave."
    ],
    "answer": 1,
    "why": "Una base più larga ti aiuta a rimanere stabile mentre spingi in avanti e l'elastico tira di lato."
@@ -293,9 +293,9 @@
    "question": "Come puoi allenare la posizione più impegnativa del Pallof press in piedi?",
    "options": [
     "Arrivi a braccia distese a ogni ripetizione oppure mantieni quella posizione.",
-    "Mantieni le mani al petto oppure fai ripetizioni limitate alla prima metà.",
-    "Distendi le braccia a ogni ripetizione oppure mantieni le mani al petto.",
-    "Ti fermi a metà spinta a ogni ripetizione oppure mantieni quella posizione."
+    "Arrivi a metà spinta a ogni ripetizione oppure mantieni quella posizione.",
+    "Arrivi a braccia distese a ogni ripetizione oppure mantieni le mani al petto.",
+    "Arrivi quasi a distendere le braccia oppure mantieni i gomiti piegati a metà."
    ],
    "answer": 0,
    "why": "Il core deve contrastare di più la rotazione quando le mani sono lontane dal petto. Puoi raggiungere quella posizione ripetutamente o mantenerla."
@@ -305,7 +305,7 @@
    "line": 7,
    "question": "Quali cambiamenti puoi usare per progredire nel Pallof press in piedi?",
    "options": [
-    "Ti avvicini all'ancoraggio per aumentare la tensione, oppure allarghi i piedi.",
+    "Ti avvicini all'ancoraggio per ridurre la tensione, oppure allarghi i piedi.",
     "Ti allontani dall'ancoraggio per aumentare la tensione, oppure allarghi i piedi.",
     "Ti allontani dall'ancoraggio per aumentare la tensione, oppure avvicini i piedi.",
     "Ti avvicini all'ancoraggio per ridurre la tensione, oppure avvicini i piedi."
@@ -318,9 +318,9 @@
    "line": 1,
    "question": "Quale lavoro svolge il core nella panca piana con un solo manubrio?",
    "options": [
-    "Genera una rotazione del busto per dare più forza alla spinta.",
-    "Lascia girare il busto durante la discesa e lo riallinea nella spinta.",
-    "Stabilizza il busto solo prima della spinta, quando il carico è fermo.",
+    "Stabilizza il busto nella discesa, poi lo fa ruotare per dare forza alla spinta.",
+    "Stabilizza il busto nella spinta, ma lo lascia ruotare mentre abbassi il peso.",
+    "Stabilizza il busto prima che il peso si muova, ma non durante la ripetizione.",
     "Stabilizza il busto contro la rotazione mentre alleni forza e massa muscolare."
    ],
    "answer": 3,
@@ -332,8 +332,8 @@
    "question": "Perché un solo manubrio sfida l'anti-rotazione più di due manubri con carichi uguali?",
    "options": [
     "Perché il carico non è bilanciato sui due lati e tende a girarti.",
-    "Perché un solo manubrio elimina un punto di contatto con la panca.",
-    "Perché un solo manubrio richiede di ruotare il busto per completare la spinta.",
+    "Perché il braccio libero riduce i punti di appoggio sulla panca.",
+    "Perché il gesto richiede di girare il busto per completare la spinta.",
     "Perché il peso totale minore rende più difficile tenere fermo il busto."
    ],
    "answer": 0,
@@ -344,10 +344,10 @@
    "line": 7,
    "question": "In quale fase della panca con un manubrio avverti maggiormente la tendenza a ruotare?",
    "options": [
-    "Soprattutto quando tieni il manubrio fermo in alto a braccio disteso.",
+    "Soprattutto quando tieni il manubrio fermo sopra la spalla.",
     "Soprattutto quando abbassi il manubrio verso il petto.",
-    "Soprattutto quando inizi a spingere il manubrio verso l'alto.",
-    "Soprattutto quando termini la spinta e distendi il braccio."
+    "Soprattutto quando inizi a spingere il manubrio lontano dal petto.",
+    "Soprattutto quando finisci la spinta e distendi il gomito."
    ],
    "answer": 1,
    "why": "Durante la discesa il carico su un solo lato tende a farti girare e a spostarti sulla panca: il core deve mantenerti in posizione."
@@ -357,10 +357,10 @@
    "line": 1,
    "question": "Come generi potenza rotazionale nei lanci con la palla medica senza usare la lombare come motore?",
    "options": [
-    "Ruoti con anche e zona lombare, mantenendo ferma la zona toracica.",
-    "Ruoti con la zona toracica e lombare, mantenendo ferme le anche.",
+    "Ruoti con anche e zona lombare, mantenendo stabile la zona toracica.",
+    "Ruoti con la zona toracica e quella lombare, mantenendo stabili le anche.",
     "Ruoti con anche e zona toracica, mantenendo stabile la zona lombare.",
-    "Ruoti con la zona toracica, lasciando che la lombare completi il lancio."
+    "Ruoti con la zona toracica e completi il gesto accentuando la torsione lombare."
    ],
    "answer": 2,
    "why": "Il lancio richiede una rotazione intenzionale, ma la potenza viene da anche e torace; la zona lombare continua a svolgere un ruolo di stabilità."
@@ -372,7 +372,7 @@
    "options": [
     "Ti metti di fianco, tieni la palla all'anca lontana e carichi verso il muro.",
     "Ti metti di fronte, tieni la palla all'anca esterna e carichi verso quel fianco.",
-    "Ti metti di fianco, tieni la palla all'anca vicina e carichi verso il muro.",
+    "Ti metti di fianco, tieni la palla all'anca vicina e carichi verso quel fianco.",
     "Ti metti di fianco, tieni la palla all'anca lontana e carichi verso quel fianco."
    ],
    "answer": 3,
@@ -384,9 +384,9 @@
    "question": "Su quale spinta ti concentri nel lancio rotazionale con palla medica?",
    "options": [
     "Sulla spinta delle anche, con i piedi piantati e la zona lombare stabile.",
-    "Sulla torsione lombare, con le anche ferme e i piedi piantati.",
-    "Sulla spinta delle braccia, con le anche ferme per mantenere l'equilibrio.",
-    "Sulla spinta delle anche, accentuando la torsione lombare al rilascio."
+    "Sulla torsione della zona lombare, con i piedi piantati e le anche ferme.",
+    "Sulla spinta delle braccia, con i piedi piantati e le anche ferme.",
+    "Sulla spinta delle anche, con i piedi piantati e la zona lombare che ruota al rilascio."
    ],
    "answer": 0,
    "why": "I piedi piantati danno stabilità per spingere con le anche, senza cercare potenza torcendo la parte bassa della schiena."
@@ -396,10 +396,10 @@
    "line": 9,
    "question": "Come usi gomiti e polso per favorire la potenza nel lancio laterale in piedi?",
    "options": [
-    "Tieni i gomiti bassi e contribuisci al rilascio con il polso.",
-    "Tieni i gomiti alti ma escludi il polso dal rilascio.",
+    "Tieni i gomiti bassi e usa il polso al momento del rilascio.",
+    "Tieni i gomiti alti e mantieni fermo il polso al rilascio.",
     "Tieni i gomiti alti e usa anche il polso nel lancio.",
-    "Parti con i gomiti alti e abbassali mentre rilasci la palla."
+    "Tieni i gomiti alti e abbassali mentre rilasci la palla."
    ],
    "answer": 2,
    "why": "Tenere alti i gomiti sostiene la spinta attraverso il gomito; il polso contribuisce al lancio anziché rimanere passivo."
@@ -409,10 +409,10 @@
    "line": 1,
    "question": "Che cosa hanno in comune anti-flessione, anti-estensione, anti-flessione laterale e anti-rotazione?",
    "options": [
-    "Allenano il core a generare movimenti potenti in direzioni diverse.",
+    "Allenano il core a produrre movimenti potenti in direzioni diverse.",
     "Allenano il core a resistere a movimenti indesiderati in direzioni diverse.",
-    "Allenano il core a tornare in posizione dopo movimenti indesiderati.",
-    "Allenano il core a contrastare la stessa forza da posizioni diverse."
+    "Allenano il core a ritrovare la posizione dopo aver ceduto a una forza.",
+    "Allenano il core a resistere a forze della stessa direzione da posizioni diverse."
    ],
    "answer": 1,
    "why": "La direzione della forza cambia, ma il compito è sempre evitare che quella forza alteri la posizione del tronco."
@@ -422,9 +422,9 @@
    "line": 3,
    "question": "Come migliorano i tuoi movimenti quando progredisci negli esercizi anti-movimento?",
    "options": [
-    "Diventano più ampi perché impari ad assecondare le forze indesiderate.",
-    "Diventano più efficienti perché impari a tenere fermo il tronco in ogni gesto.",
-    "Diventano più controllati perché impari a correggere la posizione dopo averla persa.",
+    "Diventano più fluidi perché impari ad assecondare le forze che agiscono sul busto.",
+    "Diventano più efficienti perché impari a tenere il busto fermo in ogni gesto.",
+    "Diventano più controllati perché impari a riallineare il busto dopo aver ceduto.",
     "Diventano più controllati ed efficienti grazie a una migliore stabilità di base."
    ],
    "answer": 3,
@@ -436,9 +436,9 @@
    "question": "Per sviluppare il core in modo completo, bastano gli esercizi anti-movimento?",
    "options": [
     "No, anche gli esercizi che includono movimento sono utili e completano il lavoro.",
-    "Sì, gli esercizi con movimento allenano il gesto ma non il core.",
-    "Sì, gli esercizi con movimento sono utili solo per preparare il lavoro di stabilità.",
-    "No, appena acquisita stabilità conviene sostituirli con esercizi che includono movimento."
+    "No, gli esercizi che includono movimento sono utili, ma solo come riscaldamento.",
+    "No, gli esercizi che includono movimento servono alla mobilità, ma non alla forza.",
+    "No, gli esercizi che includono movimento devono sostituire quelli di stabilità."
    ],
    "answer": 0,
    "why": "Mantenere la posizione contro una forza e attivare il core durante un movimento voluto sono due compiti diversi e complementari."
@@ -448,10 +448,10 @@
    "line": 7,
    "question": "Che cosa aggiungono gli esercizi con movimento al lavoro anti-movimento per il core?",
    "options": [
-    "Più stabilità nelle posizioni ferme, ma poco controllo durante i movimenti.",
-    "Più mobilità del tronco, ma senza contribuire alla forza del core.",
+    "Più stabilità e controllo, allenando il core soprattutto nelle posizioni ferme.",
+    "Più mobilità e flessibilità, allenando il tronco senza aumentarne la forza.",
     "Più forza e funzionalità, allenando il core ad attivarsi durante movimenti utili.",
-    "Lo stesso lavoro di stabilità, senza allenare l'attivazione durante il movimento."
+    "Più coordinazione e agilità, allenando il gesto senza far intervenire il core."
    ],
    "answer": 2,
    "why": "Mentre gli esercizi anti-movimento ti insegnano a resistere alle forze, quelli dinamici ti fanno usare il core durante il gesto, migliorando la prestazione."

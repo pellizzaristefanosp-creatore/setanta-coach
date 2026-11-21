@@ -18,10 +18,10 @@
       "check": {
         "question": "Quali sono le quattro variabili studiate in questa lezione?",
         "options": [
-          "Velocità, potenza, mobilità e tecnica",
+          "Volume, velocità, carico e recupero",
           "Volume, frequenza, carico e sforzo",
-          "Serie, recupero, tempo e cadenza",
-          "Alimentazione, sonno, genetica e ormoni"
+          "Intensità, densità, tecnica e recupero",
+          "Frequenza, cadenza, carico e durata"
         ],
         "answer": 1,
         "explanation": "La lezione si concentra su volume, frequenza di allenamento, carico e sforzo."
@@ -41,10 +41,10 @@
       "check": {
         "question": "Qual è il modo più preciso per misurare il volume?",
         "options": [
-          "Il peso massimo sollevato in una ripetizione",
-          "Il numero di sedute alla settimana",
+          "Il numero di minuti trascorsi sotto carico",
+          "Il numero di sedute svolte nella settimana",
           "Il numero di serie e ripetizioni programmate",
-          "La fatica percepita alla fine della seduta"
+          "Il numero di esercizi previsti nella seduta"
         ],
         "answer": 2,
         "explanation": "Il volume si misura in modo grezzo col tempo, ma più precisamente con serie e ripetizioni."
@@ -65,9 +65,9 @@
         "question": "Perché non si possono prescrivere 10 ripetizioni al 90% dell'1RM?",
         "options": [
           "Perché il carico è troppo alto per completare 10 ripetizioni",
-          "Perché il volume sarebbe troppo basso",
-          "Perché al 90% si allenano solo le fibre di tipo 1",
-          "Perché la frequenza settimanale diventerebbe eccessiva"
+          "Perché il volume della serie sarebbe troppo basso per dare uno stimolo",
+          "Perché il carico a quella quota stimola soltanto la forza",
+          "Perché il recupero tra le serie sarebbe necessariamente troppo breve"
         ],
         "answer": 0,
         "explanation": "Il carico detta le ripetizioni possibili: al 90% dell'1RM l'atleta si ferma molto prima di 10."
@@ -87,9 +87,9 @@
       "check": {
         "question": "Cosa mostrano gli studi a breve termine su volume e sintesi proteica?",
         "options": [
-          "Il volume non influisce sulla sintesi proteica",
-          "Volumi bassi tengono la sintesi alta più a lungo",
-          "Volumi alti riducono le vie di segnalazione",
+          "Volumi alti lasciano invariata la risposta rispetto a volumi bassi",
+          "Volumi bassi mantengono la sintesi proteica elevata più a lungo",
+          "Volumi alti alzano il picco senza prolungare la risposta",
           "Volumi alti aumentano la sintesi proteica, anche più a lungo"
         ],
         "answer": 3,
@@ -114,7 +114,7 @@
           "10–20 ripetizioni",
           "20–30 ripetizioni",
           "40–70 ripetizioni",
-          "100–120 ripetizioni"
+          "80–95 ripetizioni"
         ],
         "answer": 2,
         "explanation": "Per principianti e non allenati si indicano sedute a serie multiple da 40–70 ripetizioni."
@@ -135,10 +135,10 @@
       "check": {
         "question": "Nello studio sui bodybuilder a volume uguale, cosa è emerso tra 4 e 6 giorni?",
         "options": [
-          "Il gruppo a 6 giorni è cresciuto il doppio",
-          "Il gruppo a 4 giorni è cresciuto di più",
+          "Una crescita maggiore nel gruppo a frequenza più alta",
+          "Una crescita maggiore nel gruppo a frequenza più bassa",
           "Nessuna differenza significativa di ipertrofia",
-          "Il gruppo a 6 giorni è andato in sovrallenamento"
+          "Una riduzione della massa in entrambi i gruppi"
         ],
         "answer": 2,
         "explanation": "A parità di volume, 4 o 6 giorni non hanno dato differenze significative nell'ipertrofia."
@@ -159,10 +159,10 @@
       "check": {
         "question": "Perché il full body può essere migliore per i principianti?",
         "options": [
-          "Perché usa sempre carichi più pesanti",
+          "Perché i principianti possono così usare pesi più alti fin da subito",
           "Perché i principianti potrebbero non reggere i volumi alti della split",
-          "Perché elimina il bisogno di recupero",
-          "Perché allena un solo muscolo per seduta"
+          "Perché i principianti possono così fare a meno dei giorni di recupero",
+          "Perché i principianti crescono di più allenando un solo muscolo alla volta"
         ],
         "answer": 1,
         "explanation": "I principianti non sono abituati e potrebbero faticare con i volumi elevati delle split routine."
@@ -182,9 +182,9 @@
       "check": {
         "question": "Secondo la tabella, quante ripetizioni massime puoi fare al 75% dell'1RM?",
         "options": [
-          "6",
-          "8",
+          "11",
           "12",
+          "15",
           "10"
         ],
         "answer": 3,
@@ -209,7 +209,7 @@
           "Carico moderato",
           "Carico pesante",
           "Carico leggero",
-          "Carico submassimale estremo"
+          "Carico massimo"
         ],
         "answer": 0,
         "explanation": "Il carico moderato comprende da 6 a 12 ripetizioni massime."
@@ -230,10 +230,10 @@
       "check": {
         "question": "Perché i carichi moderati sono considerati ideali per l'ipertrofia?",
         "options": [
-          "Perché danno solo adattamenti neurali",
-          "Perché eliminano lo stress metabolico",
+          "Perché massimizzano la tensione senza generare stress metabolico",
+          "Perché privilegiano lo stress metabolico con una tensione ridotta",
           "Perché uniscono buona tensione meccanica e alto stress metabolico",
-          "Perché stimolano solo le fibre di tipo 1"
+          "Perché producono soprattutto adattamenti del sistema nervoso"
         ],
         "answer": 2,
         "explanation": "Il peso dà tensione meccanica, mentre ripetizioni e tempo sotto tensione danno stress metabolico."
@@ -254,10 +254,10 @@
       "check": {
         "question": "Quali fibre potrebbero crescere di più con alte ripetizioni e carichi bassi?",
         "options": [
-          "Le fibre di tipo 2",
+          "Le fibre di tipo 2a",
           "Le fibre di tipo 1",
-          "Nessuna fibra cresce con carichi bassi",
-          "Solo le fibre del tendine"
+          "Le fibre dei due tipi",
+          "Le fibre di tipo 2x"
         ],
         "answer": 1,
         "explanation": "Con carichi bassi e tante ripetizioni le fibre di tipo 1 sono le principali stimolate."
@@ -278,9 +278,9 @@
       "check": {
         "question": "Cosa consiglia la lezione sull'allenamento al cedimento?",
         "options": [
-          "Portare tutte le serie sempre al cedimento",
-          "Non avvicinarsi mai al cedimento",
-          "Usare il cedimento solo con carichi pesanti da 1–5 ripetizioni",
+          "Portare tutte le serie al limite, a prescindere dal peso usato",
+          "Portare ogni serie a termine lasciando sempre ampio margine",
+          "Portare al limite solo le serie eseguite con pesi elevati",
           "Portare solo alcune serie al cedimento, soprattutto con carichi bassi"
         ],
         "answer": 3,
@@ -302,10 +302,10 @@
       "check": {
         "question": "Quale affermazione riassume bene la lezione?",
         "options": [
-          "Basta aumentare la frequenza per crescere di più",
+          "Le variabili vanno regolate separatamente perché hanno effetti indipendenti",
           "Le variabili vanno regolate insieme perché si influenzano a vicenda",
-          "Solo i carichi pesanti producono ipertrofia",
-          "Il cedimento va evitato in ogni caso"
+          "Le variabili vanno regolate dando sempre la priorità all'aumento del carico",
+          "Le variabili vanno mantenute uguali per atleti principianti e avanzati"
         ],
         "answer": 1,
         "explanation": "Volume, frequenza, carico e sforzo sono collegati: cambiarne uno modifica gli altri."
@@ -313,36 +313,120 @@
     }
   ],
   "flashcards": [
-    { "front": "Quali sono le quattro variabili dell'ipertrofia della lezione?", "back": "Volume, frequenza, carico e sforzo.", "part": 0 },
-    { "front": "Come si definisce la frequenza di allenamento?", "back": "Il numero di sedute di allenamento a settimana.", "part": 1 },
-    { "front": "Cos'è lo sforzo?", "back": "L'uso di energia fisica o percepita, di solito un lavoro faticoso per i muscoli.", "part": 1 },
-    { "front": "Quale variabile detta quante ripetizioni puoi fare in una serie?", "back": "Il carico.", "part": 2 },
-    { "front": "Che effetto ha un volume maggiore sulla sintesi proteica?", "back": "La aumenta e la mantiene elevata più a lungo dopo la seduta.", "part": 3 },
-    { "front": "Serie singola o serie multiple: quale dà più ipertrofia?", "back": "Le serie multiple; la serie singola funziona, ma meno.", "part": 4 },
-    { "front": "Ripetizioni totali per seduta indicate ai principianti?", "back": "40–70 ripetizioni con sedute a serie multiple.", "part": 4 },
-    { "front": "Quali fattori decidono dove sta il punto critico del volume?", "back": "Genetica, alimentazione, sonno e altri fattori.", "part": 4 },
-    { "front": "Frequenza delle sessioni e frequenza dei gruppi muscolari: differenza?", "back": "Sedute a settimana contro volte in cui alleni lo stesso muscolo nella settimana.", "part": 5 },
-    { "front": "Studio su bodybuilder, stesso volume in 4 o 6 giorni: risultato?", "back": "Nessuna differenza significativa nell'ipertrofia.", "part": 5 },
-    { "front": "Vantaggio possibile della split routine?", "back": "Più riposo per ogni muscolo: più sintesi proteica post allenamento e recupero.", "part": 6 },
-    { "front": "Per chi è indicato il full body?", "back": "Per i principianti, che potrebbero non reggere i volumi alti della split.", "part": 6 },
-    { "front": "Quante ripetizioni massime all'80% dell'1RM?", "back": "Circa 8.", "part": 7 },
-    { "front": "Quante ripetizioni massime al 67% e al 65% dell'1RM?", "back": "12 al 67%, 15 al 65%.", "part": 7 },
-    { "front": "Le tre zone di carico?", "back": "Pesante 1–5, moderato 6–12, leggero oltre 15 ripetizioni massime.", "part": 8 },
-    { "front": "Cosa danno i carichi pesanti, più che ipertrofia?", "back": "Soprattutto adattamenti neurali e aumenti di forza.", "part": 9 },
-    { "front": "In quale range di ripetizioni massime può avvenire l'ipertrofia?", "back": "Tra 1 e 20 ripetizioni massime.", "part": 10 },
-    { "front": "Quali fibre vengono stimolate prima con carichi più alti?", "back": "Le fibre di tipo 2.", "part": 10 },
-    { "front": "Definizione di cedimento muscolare?", "back": "Il punto in cui il muscolo non produce più forza per spostare il peso in concentrica.", "part": 11 },
-    { "front": "Con quali carichi il cedimento conta di più?", "back": "Con i carichi leggeri, che altrimenti non attivano le unità motorie di ordine superiore.", "part": 11 },
-    { "front": "Messaggio di fondo della lezione?", "back": "Le variabili sono collegate: si regolano insieme.", "part": 12 }
+    {
+      "front": "Quali sono le quattro variabili dell'ipertrofia della lezione?",
+      "back": "Volume, frequenza, carico e sforzo.",
+      "part": 0
+    },
+    {
+      "front": "Come si definisce la frequenza di allenamento?",
+      "back": "Il numero di sedute di allenamento a settimana.",
+      "part": 1
+    },
+    {
+      "front": "Cos'è lo sforzo?",
+      "back": "L'uso di energia fisica o percepita, di solito un lavoro faticoso per i muscoli.",
+      "part": 1
+    },
+    {
+      "front": "Quale variabile detta quante ripetizioni puoi fare in una serie?",
+      "back": "Il carico.",
+      "part": 2
+    },
+    {
+      "front": "Che effetto ha un volume maggiore sulla sintesi proteica?",
+      "back": "La aumenta e la mantiene elevata più a lungo dopo la seduta.",
+      "part": 3
+    },
+    {
+      "front": "Serie singola o serie multiple: quale dà più ipertrofia?",
+      "back": "Le serie multiple; la serie singola funziona, ma meno.",
+      "part": 4
+    },
+    {
+      "front": "Ripetizioni totali per seduta indicate ai principianti?",
+      "back": "40–70 ripetizioni con sedute a serie multiple.",
+      "part": 4
+    },
+    {
+      "front": "Quali fattori decidono dove sta il punto critico del volume?",
+      "back": "Genetica, alimentazione, sonno e altri fattori.",
+      "part": 4
+    },
+    {
+      "front": "Frequenza delle sessioni e frequenza dei gruppi muscolari: differenza?",
+      "back": "Sedute a settimana contro volte in cui alleni lo stesso muscolo nella settimana.",
+      "part": 5
+    },
+    {
+      "front": "Studio su bodybuilder, stesso volume in 4 o 6 giorni: risultato?",
+      "back": "Nessuna differenza significativa nell'ipertrofia.",
+      "part": 5
+    },
+    {
+      "front": "Vantaggio possibile della split routine?",
+      "back": "Più riposo per ogni muscolo: più sintesi proteica post allenamento e recupero.",
+      "part": 6
+    },
+    {
+      "front": "Per chi è indicato il full body?",
+      "back": "Per i principianti, che potrebbero non reggere i volumi alti della split.",
+      "part": 6
+    },
+    {
+      "front": "Quante ripetizioni massime all'80% dell'1RM?",
+      "back": "Circa 8.",
+      "part": 7
+    },
+    {
+      "front": "Quante ripetizioni massime al 67% e al 65% dell'1RM?",
+      "back": "12 al 67%, 15 al 65%.",
+      "part": 7
+    },
+    {
+      "front": "Le tre zone di carico?",
+      "back": "Pesante 1–5, moderato 6–12, leggero oltre 15 ripetizioni massime.",
+      "part": 8
+    },
+    {
+      "front": "Cosa danno i carichi pesanti, più che ipertrofia?",
+      "back": "Soprattutto adattamenti neurali e aumenti di forza.",
+      "part": 9
+    },
+    {
+      "front": "In quale range di ripetizioni massime può avvenire l'ipertrofia?",
+      "back": "Tra 1 e 20 ripetizioni massime.",
+      "part": 10
+    },
+    {
+      "front": "Quali fibre vengono stimolate prima con carichi più alti?",
+      "back": "Le fibre di tipo 2.",
+      "part": 10
+    },
+    {
+      "front": "Definizione di cedimento muscolare?",
+      "back": "Il punto in cui il muscolo non produce più forza per spostare il peso in concentrica.",
+      "part": 11
+    },
+    {
+      "front": "Con quali carichi il cedimento conta di più?",
+      "back": "Con i carichi leggeri, che altrimenti non attivano le unità motorie di ordine superiore.",
+      "part": 11
+    },
+    {
+      "front": "Messaggio di fondo della lezione?",
+      "back": "Le variabili sono collegate: si regolano insieme.",
+      "part": 12
+    }
   ],
   "questions": [
     {
       "question": "Quale fra queste è la definizione più precisa di volume di allenamento?",
       "options": [
-        "Il peso massimo sollevato in una ripetizione",
+        "Il numero di minuti dedicati ai sovraccarichi",
         "Il numero di serie e ripetizioni programmate",
-        "Il numero di sedute settimanali",
-        "La fatica percepita durante la seduta"
+        "Il numero di sedute previste nella settimana",
+        "Il numero di esercizi previsti nella scheda"
       ],
       "answer": 1,
       "explanation": "Il volume si misura con il tempo di lavoro ma, in modo più preciso, con serie e ripetizioni.",
@@ -352,9 +436,9 @@
       "question": "Un preparatore prescrive 10 ripetizioni al 90% dell'1RM. Qual è il problema?",
       "options": [
         "Il carico impedisce di completare 10 ripetizioni",
-        "Il volume è troppo basso per l'ipertrofia",
-        "La frequenza diventa eccessiva",
-        "Il carico è troppo leggero per la tensione meccanica"
+        "Il volume non basta a stimolare la crescita",
+        "Il carico è troppo leggero per stimolare la crescita",
+        "Il recupero tra le serie diventa troppo breve"
       ],
       "answer": 0,
       "explanation": "Volume e carico sono collegati: al 90% dell'1RM non si arriva a 10 ripetizioni.",
@@ -363,10 +447,10 @@
     {
       "question": "Cosa indicano gli studi a breve termine su volume e sintesi proteica?",
       "options": [
-        "Il volume non cambia la sintesi proteica",
-        "La sintesi proteica è maggiore con volumi bassi",
+        "Volumi alti danno lo stesso aumento dei volumi bassi",
+        "Volumi bassi danno più sintesi proteica e più prolungata",
         "Volumi alti danno più sintesi proteica e più prolungata",
-        "Volumi alti bloccano le vie di segnalazione"
+        "Volumi alti danno più sintesi proteica, ma per meno tempo"
       ],
       "answer": 2,
       "explanation": "Più volume aumenta la sintesi proteica e la tiene alta più a lungo dopo la seduta.",
@@ -375,9 +459,9 @@
     {
       "question": "Rispetto ai protocolli a serie multiple, i protocolli a serie singola:",
       "options": [
-        "Non producono alcuna ipertrofia",
-        "Producono più ipertrofia",
-        "Producono la stessa ipertrofia",
+        "Producono adattamenti di forza, ma non ipertrofia",
+        "Producono ipertrofia, ma in misura maggiore",
+        "Producono ipertrofia nella stessa misura",
         "Producono ipertrofia, ma in misura minore"
       ],
       "answer": 3,
@@ -387,10 +471,10 @@
     {
       "question": "Perché un volume eccessivo può ridurre l'ipertrofia a lungo termine?",
       "options": [
-        "Perché riduce la tensione meccanica di ogni serie",
+        "Perché sposta lo stimolo verso adattamenti esclusivamente neurali",
         "Perché stressa troppo i sistemi muscolare, nervoso e ormonale",
-        "Perché trasforma le fibre di tipo 2 in tipo 1",
-        "Perché abbassa la percentuale dell'1RM"
+        "Perché limita il reclutamento muscolare fin dalle prime serie",
+        "Perché impone necessariamente di usare pesi più leggeri in ogni serie"
       ],
       "answer": 1,
       "explanation": "Oltre il punto critico lo stress eccessivo e il danno muscolare allungano il recupero.",
@@ -411,10 +495,10 @@
     {
       "question": "Perché uno studio che aggiunge una seduta non misura solo l'effetto della frequenza?",
       "options": [
-        "Perché cambia anche il carico per ripetizione",
-        "Perché riduce il tempo di recupero a zero",
+        "Perché aumenta anche il peso usato in ogni serie",
+        "Perché diminuisce il numero di serie per esercizio",
         "Perché aumenta anche il volume settimanale",
-        "Perché cambia il tipo di fibre allenate"
+        "Perché cambia anche il tipo di fibre reclutate"
       ],
       "answer": 2,
       "explanation": "Aggiungere una seduta aumenta il volume: servono studi a volume costante.",
@@ -423,10 +507,10 @@
     {
       "question": "Cosa dicono gli studi sulla frequenza nelle persone non allenate?",
       "options": [
-        "Più frequenza raddoppia l'ipertrofia",
+        "Cambiare la frequenza ha un forte effetto anche a pari volume",
         "Cambiare la frequenza non ha un effetto importante",
-        "Una sola seduta a settimana è la scelta migliore",
-        "La frequenza conta più del volume"
+        "Cambiare la frequenza riduce la crescita a pari volume",
+        "Cambiare la frequenza conta più che aumentare il volume"
       ],
       "answer": 1,
       "explanation": "Nei non allenati la frequenza incide poco; negli allenati i dati sono equivoci.",
@@ -435,9 +519,9 @@
     {
       "question": "Qual è il possibile vantaggio anabolico della split routine?",
       "options": [
-        "Allenare più muscoli nella stessa seduta",
-        "Ridurre il volume settimanale totale",
-        "Evitare del tutto il cedimento muscolare",
+        "Dare a ogni muscolo uno stimolo quasi quotidiano",
+        "Dare a ogni muscolo meno recupero tra due stimoli successivi",
+        "Dare a ogni muscolo poche serie per seduta, distribuite su più giorni",
         "Dare a ogni muscolo più riposo prima della seduta successiva"
       ],
       "answer": 3,
@@ -450,7 +534,7 @@
         "4",
         "6",
         "8",
-        "12"
+        "9"
       ],
       "answer": 2,
       "explanation": "80 kg sono l'80% dell'1RM, che in tabella corrisponde a circa 8 ripetizioni.",
@@ -483,10 +567,10 @@
     {
       "question": "Perché i carichi pesanti da 1–5 ripetizioni da soli potrebbero non massimizzare l'ipertrofia?",
       "options": [
-        "Perché creano poca tensione meccanica",
+        "Perché la serie è breve e la tensione meccanica è bassa",
         "Perché la serie è breve e lo stress metabolico è scarso",
-        "Perché stimolano solo le fibre di tipo 1",
-        "Perché richiedono una frequenza troppo bassa"
+        "Perché la serie è breve e il reclutamento muscolare è minimo",
+        "Perché la serie è intensa e lo stress metabolico è eccessivo"
       ],
       "answer": 1,
       "explanation": "Tanta tensione meccanica ma poco stress metabolico, e soprattutto adattamenti neurali e forza.",
@@ -495,10 +579,10 @@
     {
       "question": "Secondo la lezione, in quale range di ripetizioni massime può avvenire l'ipertrofia?",
       "options": [
-        "Solo tra 6 e 12",
-        "Solo tra 1 e 5",
+        "Tra 6 e 12",
+        "Tra 1 e 5",
         "Tra 1 e 20",
-        "Solo oltre 15"
+        "Tra 16 e 20"
       ],
       "answer": 2,
       "explanation": "Il moderato è forse ottimale, ma l'ipertrofia avviene in un range di 1–20 ripetizioni.",
@@ -507,9 +591,9 @@
     {
       "question": "Un atleta solleva per 5 volte un carico da 10RM. Cosa succede?",
       "options": [
-        "Arriva al cedimento e recluta tutte le fibre",
-        "Ottiene il massimo stress metabolico",
-        "Si allena a carico pesante",
+        "Resta al limite dello sforzo e non ha ripetizioni in riserva",
+        "Resta lontano dal cedimento e non perde il pieno reclutamento",
+        "Resta nella zona pesante e non riesce a superare sei ripetizioni",
         "Resta lontano dal cedimento e non recluta il massimo delle fibre"
       ],
       "answer": 3,

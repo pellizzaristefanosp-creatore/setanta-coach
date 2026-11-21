@@ -20,9 +20,9 @@
         "question": "Che taglio ha questa presentazione sulle alzate olimpiche?",
         "options": [
           "È soprattutto teoria; la tecnica pratica è nei video a parte",
-          "È solo una guida tecnica passo per passo",
-          "Parla solo di alimentazione dei pesisti",
-          "Riguarda esclusivamente le gare olimpiche"
+          "È soprattutto pratica; il fulcro è la correzione degli errori",
+          "È soprattutto storia; il fulcro è l'evoluzione delle gare",
+          "È soprattutto programmazione; il fulcro è il dosaggio dei carichi"
         ],
         "answer": 0,
         "explanation": "La lezione introduce la teoria; coaching e correzione degli errori sono trattati nei video pratici."
@@ -42,10 +42,10 @@
       "check": {
         "question": "Perché le alzate olimpiche non sono adatte a tutti gli atleti?",
         "options": [
-          "Perché usano carichi troppo leggeri",
-          "Perché non sviluppano forza esplosiva",
+          "Perché per eseguirle servirebbe una pedana da gara",
+          "Perché per eseguirle servirebbe un fisico da pesista",
           "Perché per impararle servirebbe troppo tempo",
-          "Perché sono vietate fuori dalle gare olimpiche"
+          "Perché per allenarle servirebbe evitare ogni variante"
         ],
         "answer": 2,
         "explanation": "Sono schemi motori molto complessi: per alcuni atleti il tempo di apprendimento sarebbe eccessivo."
@@ -65,10 +65,10 @@
       "check": {
         "question": "Perché al pesista conviene un corpo largo più che lungo?",
         "options": [
-          "Perché è più flessibile nelle spalle",
+          "Perché il busto flette con minore resistenza",
           "Perché il bilanciere percorre una distanza minore",
-          "Perché recupera più in fretta tra le serie",
-          "Perché ha più resistenza aerobica"
+          "Perché il bacino raggiunge prima la massima velocità",
+          "Perché il recupero fra i tentativi richiede meno tempo"
         ],
         "answer": 1,
         "explanation": "Larghezza al posto di lunghezza riduce il tragitto del carico e dà un vantaggio biomeccanico."
@@ -88,9 +88,9 @@
       "check": {
         "question": "Un atleta alto 180 cm ha un'apertura alare di 174 cm. Cosa indica il test?",
         "options": [
-          "Braccia nella norma",
+          "Braccia di lunghezza nella norma",
           "Braccia più lunghe del normale",
-          "Gambe più corte del normale",
+          "Braccia più corte solo da un lato",
           "Braccia più corte del normale"
         ],
         "answer": 3,
@@ -111,10 +111,10 @@
       "check": {
         "question": "Quale test si consiglia per valutare mobilità e stabilità prima delle alzate complete?",
         "options": [
-          "Lo sprint sui 30 metri",
+          "Lo screening del salto verticale",
           "Lo screening dell'overhead squat",
-          "Il test di Cooper",
-          "Il massimale di panca piana"
+          "Lo screening della panca inclinata",
+          "Lo screening dello stacco da terra"
         ],
         "answer": 1,
         "explanation": "L'overhead squat e test simili mostrano limiti di mobilità, compensi e squilibri di stabilità."
@@ -135,9 +135,9 @@
         "question": "Cosa caratterizza le versioni di potenza delle alzate olimpiche?",
         "options": [
           "Il bilanciere si incastra in una posizione più alta",
-          "Si usano solo manubri leggeri",
-          "Si eseguono in isometria",
-          "Si fanno solo con le braccia"
+          "Il bilanciere si riceve in un'accosciata più profonda",
+          "Il bilanciere si riceve sempre sopra la testa",
+          "Il bilanciere si ferma a metà coscia senza essere ricevuto"
         ],
         "answer": 0,
         "explanation": "L'incastro più alto evita squat profondo e overhead squat per completare girata o strappo."
@@ -157,10 +157,10 @@
       "check": {
         "question": "Cosa conclude la lezione sul rischio di infortunio delle alzate olimpiche?",
         "options": [
-          "È molto più alto di ogni altro allenamento con i pesi",
-          "È nullo anche senza supervisione",
+          "È elevato anche con coaching adeguato e carichi ben dosati",
+          "È trascurabile anche in assenza di supervisione qualificata",
           "È basso e paragonabile o più favorevole, con coaching adeguato",
-          "Non è mai stato studiato"
+          "È indeterminato perché mancano confronti con altre discipline"
         ],
         "answer": 2,
         "explanation": "Le prove non supportano un rischio maggiore, purché ci siano coaching e monitoraggio adeguati."
@@ -181,9 +181,9 @@
         "question": "Cosa ha mostrato lo studio di Hoffman e colleghi?",
         "options": [
           "8 settimane di alzate olimpiche migliorano la potenza nel salto più della forza tradizionale",
-          "Le alzate olimpiche peggiorano lo sprint",
-          "La forza tradizionale batte sempre le alzate nel salto",
-          "Le alzate servono solo all'ipertrofia"
+          "8 settimane di alzate olimpiche migliorano la potenza nel salto quanto la forza tradizionale",
+          "8 settimane di alzate olimpiche migliorano la potenza nel salto meno della forza tradizionale",
+          "8 settimane di alzate olimpiche migliorano la forza massima, ma lasciano invariata la potenza nel salto"
         ],
         "answer": 0,
         "explanation": "Il programma di otto settimane di alzate è risultato superiore all'allenamento di forza tradizionale per la potenza del salto."
@@ -203,10 +203,10 @@
       "check": {
         "question": "A quale fase delle alzate somiglia la posizione atletica?",
         "options": [
-          "Alla fase di riposo tra le serie",
-          "All'appoggio del bilanciere a terra",
+          "Alla parte bassa della ricezione in accosciata",
+          "Alla parte iniziale della tirata da terra",
           "Alla parte alta della seconda tirata",
-          "Alla presa del bilanciere con una mano"
+          "Alla parte finale della spinta sopra la testa"
         ],
         "answer": 2,
         "explanation": "La lezione confronta posizione atletica e parte alta della seconda tirata: la postura è molto simile."
@@ -226,9 +226,9 @@
       "check": {
         "question": "Perché le alzate olimpiche possono essere più specifiche dello squat per lo sport?",
         "options": [
-          "Perché usano sempre carichi più pesanti",
-          "Perché non coinvolgono le caviglie",
-          "Perché nello squat la parte più veloce è all'inizio",
+          "Perché sono meno esplosive: la spinta lenta aiuta a controllare la traiettoria",
+          "Perché sono guidate soprattutto dalle braccia: la spinta delle gambe è secondaria",
+          "Perché sono meno dipendenti dalle caviglie: la spinta parte quasi tutta dalle anche",
           "Perché sono balistiche: non serve frenare alla fine dell'estensione"
         ],
         "answer": 3,
@@ -249,10 +249,10 @@
       "check": {
         "question": "Nei paesi dove i bambini imparano le alzate a otto anni, quando si aggiunge il carico?",
         "options": [
-          "Subito, fin dalla prima seduta",
+          "Solo dopo aver completato un numero fisso di sedute",
           "Solo dopo aver sviluppato la coordinazione corretta",
-          "Mai prima dei diciotto anni",
-          "Solo durante le gare"
+          "Solo dopo aver raggiunto una soglia di forza prestabilita",
+          "Solo dopo aver partecipato alla prima gara tecnica"
         ],
         "answer": 1,
         "explanation": "Prima si impara la tecnica; il sovraccarico arriva solo con una coordinazione corretta."
@@ -272,10 +272,10 @@
       "check": {
         "question": "Se un atleta non soddisfa i tre requisiti per le alzate complete, cosa suggerisce la lezione?",
         "options": [
-          "Eliminare ogni lavoro di potenza",
-          "Usare solo esercizi di isolamento",
+          "Usare le varianti con ricezione ancora più bassa",
+          "Usare le varianti con maggiore carico in discesa",
           "Usare le versioni di potenza delle alzate",
-          "Caricare di più per forzare la posizione"
+          "Usare le versioni lente senza spinta esplosiva"
         ],
         "answer": 2,
         "explanation": "Le versioni di potenza evitano squat profondo e overhead squat mantenendo lo schema di movimento."
@@ -393,10 +393,10 @@
     {
       "question": "Lo slancio olimpico in inglese si chiama:",
       "options": [
-        "Snatch",
+        "Clean and press",
         "Clean and jerk",
-        "Power clean",
-        "Push press"
+        "Snatch and squat",
+        "Pull and jerk"
       ],
       "answer": 1,
       "explanation": "Lo slancio è il clean and jerk; lo strappo è lo snatch.",
@@ -406,8 +406,8 @@
       "question": "Quale caratteristica fisica è tipica dei pesisti olimpici di alto livello?",
       "options": [
         "Braccia più lunghe della media",
-        "Avambracci lunghi e sottili",
-        "Gambe lunghe e busto corto",
+        "Braccia più affusolate della media",
+        "Braccia più forti delle gambe",
         "Braccia più corte della media"
       ],
       "answer": 3,
@@ -418,9 +418,9 @@
       "question": "Nel test dell'apertura alare, un valore uguale all'altezza in piedi indica:",
       "options": [
         "Braccia nella norma",
-        "Braccia più corte",
-        "Braccia più lunghe",
-        "Busto più lungo"
+        "Braccia sotto la media",
+        "Braccia sopra la media",
+        "Braccia non valutabili"
       ],
       "answer": 0,
       "explanation": "Apertura alare pari all'altezza in piedi è considerata normale.",
@@ -429,10 +429,10 @@
     {
       "question": "Perché gli arti corti danno un vantaggio nel weightlifting?",
       "options": [
-        "Aumentano la mobilità delle spalle",
-        "Migliorano la resistenza aerobica",
+        "Leve più lunghe, meno lavoro e maggiore velocità del bilanciere",
+        "Leve più corte, più lavoro e meno sezione trasversa del muscolo",
         "Leve più corte, meno lavoro e più sezione trasversa del muscolo",
-        "Riducono il bisogno di tecnica"
+        "Leve più corte, tragitto più lungo e minore richiesta di forza"
       ],
       "answer": 2,
       "explanation": "Leve corte, tragitto minore del bilanciere e maggiore sezione trasversa favoriscono la produzione di forza.",
@@ -441,9 +441,9 @@
     {
       "question": "Quale di questi NON è un argomento dei critici delle alzate olimpiche negli altri sport?",
       "options": [
-        "Movimenti molto complessi",
-        "Forze e velocità elevate",
-        "Molto tempo per raggiungere la competenza",
+        "Non sono movimenti semplici da insegnare",
+        "Non si eseguono a bassa velocità né con forze ridotte",
+        "Non bastano poche sedute per padroneggiarle",
         "Non sviluppano alcuna qualità fisica utile"
       ],
       "answer": 3,
@@ -453,10 +453,10 @@
     {
       "question": "Quale NON è uno dei tre requisiti per girata e strappo completi?",
       "options": [
-        "Squat profondo",
-        "Busto senza eccessiva inclinazione in avanti",
+        "Saper scendere fino alla posizione di squat profondo",
+        "Saper mantenere il busto senza inclinarlo troppo in avanti",
         "Saper staccare da terra il doppio del peso corporeo",
-        "Braccia sopra la testa per tutta l'esecuzione"
+        "Saper tenere le braccia sopra la testa durante il movimento"
       ],
       "answer": 2,
       "explanation": "I tre criteri sono squat profondo, busto controllato e braccia sempre sopra la testa.",
@@ -466,9 +466,9 @@
       "question": "Qualsiasi variante delle alzate olimpiche, per dare il massimo beneficio, dovrebbe:",
       "options": [
         "Imitare lo schema di movimento dell'alzata originale",
-        "Usare sempre carichi massimali",
-        "Eliminare la tripla estensione",
-        "Essere eseguita lentamente"
+        "Imitare lo schema di uno squat lento e controllato",
+        "Riprodurre lo stesso carico usato in gara a ogni seduta",
+        "Privilegiare la tirata con le braccia rispetto alla spinta"
       ],
       "answer": 0,
       "explanation": "Le modifiche vanno bene se mantengono lo schema di movimento delle alzate principali.",
@@ -477,10 +477,10 @@
     {
       "question": "Nella revisione sugli infortuni sono stati inclusi solo gli studi che:",
       "options": [
-        "Riguardavano atleti professionisti",
+        "Calcolavano un tasso di infortuni per 1.000 atleti iscritti",
         "Calcolavano un tasso di infortuni per 1.000 ore di allenamento",
-        "Duravano più di dieci anni",
-        "Studiavano solo il weightlifting"
+        "Calcolavano un tasso di infortuni per 1.000 tentativi in gara",
+        "Calcolavano un tasso di infortuni per 100 sedute completate"
       ],
       "answer": 1,
       "explanation": "Il criterio era la presenza di un tasso di infortuni ogni 1.000 ore di allenamento.",
@@ -489,10 +489,10 @@
     {
       "question": "Rispetto al tempo di gara e di allenamento sul campo, gli infortuni nell'allenamento con sovraccarichi sono:",
       "options": [
-        "Molto più frequenti",
-        "Uguali",
+        "Decisamente frequenti",
+        "Altrettanto numerosi",
         "Relativamente pochi",
-        "Mai registrati"
+        "Leggermente più comuni"
       ],
       "answer": 2,
       "explanation": "L'incidenza in sala pesi è relativamente bassa rispetto a gara e campo.",
@@ -501,9 +501,9 @@
     {
       "question": "Le alzate olimpiche si collocano soprattutto in quale zona della curva forza-velocità?",
       "options": [
-        "Velocità-forza con carichi minimi",
-        "Forza massima isometrica",
-        "Resistenza alla forza",
+        "Velocità-forza",
+        "Forza massima",
+        "Velocità pura",
         "Forza-veloce"
       ],
       "answer": 3,
@@ -513,10 +513,10 @@
     {
       "question": "Quali studi collegano le alzate olimpiche al miglioramento del tasso di sviluppo della forza?",
       "options": [
-        "Chaouachi 2013 e Lloyd 2012",
+        "Lloyd 2012 e Chaouachi 2013",
         "Hoffman 2004 e Hori 2005, 2008",
-        "Faigenbaum 2009 e Keogh 2006",
-        "Calhoun 1999 e Hak 2013"
+        "Keogh 2006 e Faigenbaum 2009",
+        "Hak 2013 e Calhoun 1999"
       ],
       "answer": 1,
       "explanation": "La lezione cita Hoffman et al. 2004 e Hori et al. 2005 e 2008 per il rate of force development.",
@@ -526,9 +526,9 @@
       "question": "Durante strappo e girata, qual è il fattore chiave che sposta il bilanciere in verticale?",
       "options": [
         "La tripla estensione di anche, ginocchia e caviglie",
-        "La tirata delle braccia",
-        "La rotazione del busto",
-        "La presa larga"
+        "La flessione rapida dei gomiti nella fase di tirata",
+        "La risalita del busto dovuta soprattutto al lavoro lombare",
+        "La spinta delle spalle tramite una scrollata esplosiva"
       ],
       "answer": 0,
       "explanation": "Sembra che lavorino le braccia, ma è la tripla estensione a decidere se l'alzata riesce.",
@@ -537,10 +537,10 @@
     {
       "question": "Rispetto ai programmi tradizionali con sovraccarichi, nei bambini girata, slancio e strappo hanno dato miglioramenti di velocità e salto:",
       "options": [
-        "Minori",
-        "Nulli",
+        "Inferiori",
+        "Analoghi",
         "Maggiori",
-        "Solo nei maschi"
+        "Assenti"
       ],
       "answer": 2,
       "explanation": "Paragonabili alla pliometria e persino maggiori dell'allenamento con sovraccarichi tradizionale.",
@@ -549,9 +549,9 @@
     {
       "question": "Secondo la lezione, quale condizione accomuna una pratica sicura delle alzate con i giovani?",
       "options": [
-        "Usare solo macchine guidate",
-        "Iniziare dopo i sedici anni",
-        "Allenarsi solo in gruppo",
+        "Un coach presente soltanto nelle prime sedute",
+        "Un coach disponibile a intervenire solo su richiesta",
+        "Un coach esperto che osserva solo le prove più pesanti",
         "Un coach presente in ogni momento e competente"
       ],
       "answer": 3,

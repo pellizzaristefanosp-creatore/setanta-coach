@@ -7,9 +7,9 @@
    "question": "Quali quattro variabili di base regoli quando programmi una seduta con i pesi?",
    "options": [
     "Volume, frequenza, carico e sforzo.",
-    "Volume, frequenza, carico e sintesi proteica.",
-    "Volume, forza, carico e sforzo.",
-    "Massa muscolare, frequenza, carico e sforzo."
+    "Volume, frequenza, carico e velocità.",
+    "Volume, durata, carico e sforzo.",
+    "Recupero, frequenza, carico e sforzo."
    ],
    "answer": 0,
    "why": "Decidi quanto lavoro fare, quanto spesso, con quale peso e quanto vicino al limite. Gli adattamenti sono il risultato di queste scelte."
@@ -19,10 +19,10 @@
    "line": 3,
    "question": "Perché dire a un calciatore «vai in palestra e solleva pesi» non basta?",
    "options": [
-    "Perché bisogna stabilire il peso, mentre le altre variabili contano poco.",
+    "Perché ogni scelta dipende dal carico e le altre leve sono secondarie.",
     "Perché ogni scelta cambia lo stimolo e va adattata all’atleta.",
-    "Perché basta scegliere quante sedute fare per ottenere lo stimolo desiderato.",
-    "Perché gli atleti con lo stesso obiettivo dovrebbero seguire la stessa scheda."
+    "Perché ogni scelta si riduce al numero di sedute da programmare.",
+    "Perché ogni scelta va resa uguale per chi ha lo stesso obiettivo."
    ],
    "answer": 1,
    "why": "Lo stesso invito a sollevare pesi può tradursi in lavori molto diversi. Il preparatore sceglie uno stimolo adatto all’obiettivo e alla persona."
@@ -32,10 +32,10 @@
    "line": 5,
    "question": "Oltre al difensore che vuole reggere meglio i contrasti, chi potrebbe avere un obiettivo di ipertrofia?",
    "options": [
-    "Un giovane ancora leggero, ma soltanto se gioca da difensore.",
-    "Un giovane già robusto, perché il suo fisico richiede più massa.",
+    "Un giovane appena promosso, ancora leggero, ma solo se è già titolare.",
+    "Un giovane appena promosso, già robusto e senza bisogno di aumentare la massa.",
     "Un giovane appena promosso in prima squadra, con un fisico ancora leggero.",
-    "Un giovane ancora leggero, ma soltanto dopo essere diventato esperto con i pesi."
+    "Un giovane appena promosso, ancora leggero, ma solo se è già esperto con i pesi."
    ],
    "answer": 2,
    "why": "La necessità di mettere massa non dipende solo dal ruolo: anche la condizione fisica di partenza può rendere utile un programma mirato."
@@ -45,9 +45,9 @@
    "line": 1,
    "question": "Due sedute durano entrambe 40 minuti: come confronti più precisamente il volume programmato?",
    "options": [
-    "Confronti i minuti trascorsi in palestra.",
-    "Confronti il peso più alto previsto.",
-    "Confronti il numero di esercizi previsti.",
+    "Confronti le pause e le durate delle serie.",
+    "Confronti le percentuali e le fasce di carico.",
+    "Confronti le alzate principali e le loro varianti.",
     "Confronti le serie e le ripetizioni previste."
    ],
    "answer": 3,
@@ -59,9 +59,9 @@
    "question": "Due atleti sollevano lo stesso peso: che cosa descrive lo sforzo di ciascuno?",
    "options": [
     "L’energia fisica che impiega o percepisce di impiegare.",
-    "Il peso che solleva, indipendentemente da come vive la serie.",
-    "Il numero di ripetizioni previsto, indipendentemente da come le esegue.",
-    "La percentuale del massimale, indipendentemente da quante ripetizioni completa."
+    "L’intensità relativa che ricavi dalla percentuale del massimale.",
+    "L’entità del sovraccarico che ricavi dai chilogrammi usati.",
+    "L’entità del lavoro che ricavi contando le serie previste."
    ],
    "answer": 0,
    "why": "Il peso descrive il carico esterno. Lo sforzo descrive quanto è impegnativo per l’atleta svolgere quel lavoro."
@@ -71,10 +71,10 @@
    "line": 9,
    "question": "Un principiante cresce con una scheda poco curata: che cosa puoi concludere?",
    "options": [
-    "Se cresce, la scheda è già il modo più efficiente per allenarlo.",
+    "La crescita dimostra che la scheda è già ottimale.",
     "La costanza può farlo crescere anche se la scheda è migliorabile.",
-    "Se cresce, la frequenza è corretta anche senza conoscere le altre variabili.",
-    "La scheda funziona perché per un principiante conta soltanto il carico."
+    "La risposta iniziale dimostra che contano soltanto i carichi usati.",
+    "La crescita iniziale conferma che la frequenza è già ottimale."
    ],
    "answer": 1,
    "why": "Uno stimolo ripetuto può produrre adattamenti anche quando non è ottimale. Ottenere un risultato non dimostra che fosse il miglior uso di tempo ed energie."
@@ -87,7 +87,7 @@
     "Aumentare il peso lascia invariato il numero di ripetizioni possibili.",
     "Aumentare il numero di sedute lascia sempre invariato il volume settimanale.",
     "Aumentare il peso può ridurre il numero di ripetizioni possibili.",
-    "Aumentare il peso rende necessariamente ogni serie più vicina al cedimento."
+    "Aumentare il peso riduce sempre il numero di sedute necessarie."
    ],
    "answer": 2,
    "why": "Un carico più impegnativo può ridurre le ripetizioni che riesci a completare: modificando il carico, puoi cambiare anche il volume."
@@ -97,9 +97,9 @@
    "line": 2,
    "question": "A parità di atleta, esercizio e sforzo massimo, cosa cambia le ripetizioni possibili in una serie?",
    "options": [
-    "La durata totale prevista per la seduta.",
-    "Il numero di sedute previste nella settimana.",
-    "Il numero di serie scritto nella scheda.",
+    "Il recupero previsto dopo la serie.",
+    "Il numero di sedute settimanali.",
+    "Il tempo previsto per il defaticamento.",
     "Il peso scelto per quella serie."
    ],
    "answer": 3,
@@ -111,9 +111,9 @@
    "question": "Come cambia il volume di una serie a sforzo massimo quando aumenti il carico?",
    "options": [
     "Tende a diminuire, perché puoi completare meno ripetizioni.",
-    "Tende ad aumentare, perché ogni ripetizione è più impegnativa.",
-    "Resta uguale, perché lo sforzo finale è lo stesso.",
-    "Cambia solo se modifichi anche il numero di serie."
+    "Tende a salire, perché ogni ripetizione richiede più energia.",
+    "Tende a restare uguale, perché il cedimento resta il punto di arrivo.",
+    "Tende a salire, perché servono più ripetizioni per affaticarsi."
    ],
    "answer": 0,
    "why": "Qui il volume si conta in ripetizioni. Arrivare allo stesso limite con un peso maggiore non significa poter completare lo stesso numero di ripetizioni."
@@ -123,10 +123,10 @@
    "line": 7,
    "question": "Come dovrebbe essere impostato uno studio che vuole isolare l’effetto del carico sull’ipertrofia?",
    "options": [
-    "Aumentare carico e frequenza insieme, mantenendo uguale la durata delle sedute.",
+    "Cambiare il carico e la frequenza, lasciando invariata la durata delle sedute.",
     "Cambiare il carico e tenere il più possibile costanti le altre variabili.",
-    "Stabilire lo stesso numero di ripetizioni sulla carta senza controllare quelle completate.",
-    "Aumentare carico e volume insieme, attribuendo al carico le differenze osservate."
+    "Cambiare il carico e fissare le ripetizioni sulla carta, senza verificarle.",
+    "Cambiare il carico e il volume insieme, senza distinguere i loro effetti."
    ],
    "answer": 1,
    "why": "Se con il peso cambiano anche le ripetizioni effettive, la crescita osservata potrebbe dipendere dal carico, dal volume o dalla loro combinazione."
@@ -137,9 +137,9 @@
    "question": "Se aumenti il volume mantenendolo recuperabile, quale tendenza ti aspetti per l’ipertrofia?",
    "options": [
     "Meno crescita, perché più ripetizioni rendono lo stimolo meno efficace.",
-    "Crescita invariata, perché contano soltanto il peso e lo sforzo.",
+    "Stessa crescita, perché contano soltanto il peso e lo sforzo.",
     "Più crescita, perché il volume è una leva importante per l’ipertrofia.",
-    "Più crescita soltanto se aumenti anche la frequenza settimanale."
+    "Nessuna crescita in più, perché serve anche una frequenza maggiore."
    ],
    "answer": 2,
    "why": "Aggiungere lavoro impegnativo può aumentare lo stimolo complessivo, purché l’atleta riesca a recuperare dal volume aggiunto."
@@ -149,9 +149,9 @@
    "line": 3,
    "question": "Quale misura a breve termine indica che il muscolo sta costruendo nuove proteine dopo la seduta?",
    "options": [
-    "Il numero totale di ripetizioni previste.",
-    "La forza espressa nell’ultima ripetizione.",
-    "La durata della fatica percepita.",
+    "La tensione rilevata durante l’ultima serie.",
+    "La fatica percepita al termine del lavoro.",
+    "La forza misurata dopo l’allenamento.",
     "La sintesi proteica dopo l’allenamento."
    ],
    "answer": 3,
@@ -163,9 +163,9 @@
    "question": "Oltre alla sintesi proteica, che cosa osservano gli studi sulla risposta immediata al volume?",
    "options": [
     "Le vie di segnalazione che attivano la sintesi proteica.",
-    "La massa effettivamente guadagnata nei mesi successivi.",
-    "La frequenza settimanale ottimale per ogni muscolo.",
-    "Il recupero completo prima della seduta successiva."
+    "Le variazioni della forza massima dopo l’allenamento.",
+    "Le variazioni delle riserve di glicogeno nei muscoli.",
+    "Le variazioni del dolore muscolare nelle ore successive."
    ],
    "answer": 0,
    "why": "La sintesi mostra che si stanno producendo proteine; le vie di segnalazione aiutano a capire come il muscolo avvia quel processo."
@@ -175,10 +175,10 @@
    "line": 9,
    "question": "Che cosa significa dire che dopo una seduta ad alto volume «il cantiere resta aperto»?",
    "options": [
-    "La sintesi proteica aumenta soltanto mentre esegui le serie.",
+    "La sintesi proteica aumenta solo mentre esegui le serie.",
     "La sintesi proteica resta elevata più a lungo dopo la seduta.",
-    "Il muscolo recupera completamente prima che la sintesi proteica aumenti.",
-    "La crescita muscolare è già dimostrata nelle ore successive alla seduta."
+    "La sintesi proteica torna al livello di riposo appena finisci.",
+    "La sintesi proteica aumenta soltanto a recupero completo."
    ],
    "answer": 1,
    "why": "L’analogia riguarda la durata della risposta: la produzione di proteine rimane elevata per più tempo, senza dimostrare da sola una maggiore crescita."
@@ -188,10 +188,10 @@
    "line": 11,
    "question": "Come verifichi se una maggiore sintesi proteica dopo la seduta si traduce in più massa?",
    "options": [
-    "Misuri la sintesi subito dopo l’ultima serie.",
-    "Confronti quanto a lungo gli atleti si sentono affaticati.",
+    "Misuri la durata della sintesi proteica nelle ore successive.",
+    "Misuri la forza massima prima e dopo un solo allenamento.",
     "Misuri la crescita muscolare dopo settimane o mesi di allenamento.",
-    "Misuri i segnali cellulari in più momenti dopo una singola seduta."
+    "Misuri la variazione dei segnali cellulari nell’arco di poche ore."
    ],
    "answer": 2,
    "why": "La sintesi dopo una seduta indica una risposta immediata. Per sapere se il muscolo è cresciuto devi misurare l’adattamento nel tempo."
@@ -201,9 +201,9 @@
    "line": 1,
    "question": "Se più serie producono in genere più ipertrofia, conviene considerare inutile una serie singola?",
    "options": [
-    "Sì: una sola serie migliora la forza, ma non la massa.",
-    "Sì: la crescita comincia soltanto quando ripeti la serie.",
-    "No: una serie produce la stessa crescita se è impegnativa.",
+    "Sì: una serie può migliorare la forza, ma non far crescere il muscolo.",
+    "Sì: una serie da sola non avvia la crescita, nemmeno nei principianti.",
+    "No: una serie può far crescere il muscolo quanto un lavoro su più serie.",
     "No: una serie può far crescere il muscolo, ma generalmente meno."
    ],
    "answer": 3,
@@ -215,9 +215,9 @@
    "question": "Come adatti il volume di una seduta al livello di allenamento?",
    "options": [
     "Un principiante può fare 40–70 ripetizioni; un avanzato potrebbe averne bisogno di più.",
-    "Un avanzato può fare 40–70 ripetizioni; un principiante potrebbe averne bisogno di più.",
-    "Entrambi devono fare 40–70 ripetizioni, cambiando soltanto il peso.",
-    "Entrambi devono puntare oltre 70 ripetizioni se cercano ipertrofia."
+    "Un principiante può fare 40–70 ripetizioni; un avanzato dovrebbe farne meno.",
+    "Un principiante può superare le 70 ripetizioni; un avanzato dovrebbe fermarsi a 40–70.",
+    "Un principiante può fare 40–70 ripetizioni; un avanzato deve restare nello stesso intervallo."
    ],
    "answer": 0,
    "why": "Il volume utile dipende dal livello di allenamento: il lavoro che basta a un principiante potrebbe non bastare a chi è già allenato."
@@ -227,10 +227,10 @@
    "line": 7,
    "question": "Perché un volume eccessivo può ostacolare la continuità delle sedute?",
    "options": [
-    "Riduce il danno muscolare e accorcia troppo il recupero.",
+    "Aumenta il danno muscolare, ma la fatica si esaurisce entro la fine delle sedute.",
     "Aumenta il danno muscolare e può costringerti a diradare le sedute.",
-    "Aumenta la fatica durante la seduta, ma non cambia il recupero.",
-    "Aumenta il danno muscolare e rende più facile allenarsi spesso."
+    "Aumenta il bisogno di recupero perché blocca la sintesi proteica dopo le sedute.",
+    "Aumenta il danno muscolare, ma non allunga il recupero tra le sedute."
    ],
    "answer": 1,
    "why": "Se l’eccesso di lavoro allunga il recupero, hai bisogno di più tempo prima di sottoporre il muscolo a un nuovo stimolo."
@@ -253,9 +253,9 @@
    "line": 11,
    "question": "Che cosa conta oltre al numero di serie negli studi sul volume descritti?",
    "options": [
-    "Le serie finivano tutte allo stesso numero di ripetizioni.",
-    "Le serie aggiuntive venivano svolte con uno sforzo basso.",
-    "Soltanto l’ultima serie di ogni seduta era impegnativa.",
+    "Ogni serie terminava allo stesso totale di ripetizioni.",
+    "Ogni serie terminava con un ampio margine di ripetizioni.",
+    "Ogni serie arrivava al cedimento solo se era l’ultima.",
     "Ogni serie arrivava al cedimento o molto vicino."
    ],
    "answer": 3,
@@ -279,10 +279,10 @@
    "line": 9,
    "question": "Nello studio sui bodybuilder, cosa è emerso distribuendo lo stesso volume su quattro o sei giorni?",
    "options": [
-    "Sei giorni hanno dato più crescita grazie a stimoli più frequenti.",
+    "Non è emersa alcuna crescita muscolare in nessuno dei gruppi.",
     "Non è emersa una differenza significativa nella crescita muscolare.",
-    "Quattro giorni hanno dato più crescita grazie al maggior recupero.",
-    "La crescita è stata identica in ogni singolo atleta."
+    "Non è emersa una crescita muscolare misurabile nel gruppo con meno sedute.",
+    "Non è emersa una crescita muscolare misurabile nel gruppo con più sedute."
    ],
    "answer": 1,
    "why": "Il lavoro totale era uguale: lo studio ha cambiato la sua distribuzione e non ha rilevato un vantaggio significativo per una delle due."
@@ -292,10 +292,10 @@
    "line": 11,
    "question": "A volume uguale, come interpreti l’effetto della frequenza in atleti allenati e non allenati?",
    "options": [
-    "È marcato nei non allenati e trascurabile negli allenati.",
-    "È trascurabile nei non allenati e certamente marcato negli allenati.",
+    "È marcato nei non allenati e trascurabile negli allenati, anche aumentando molto il numero di sedute.",
+    "È modesto nei non allenati e chiaramente favorevole a frequenze minori negli allenati.",
     "È modesto nei non allenati e incerto negli allenati, forse favorevole a frequenze maggiori.",
-    "È marcato in entrambi, purché il volume non cambi."
+    "È marcato sia nei non allenati sia negli allenati, con un chiaro vantaggio per chi si allena più spesso."
    ],
    "answer": 2,
    "why": "Distribuire diversamente lo stesso lavoro non cambia molto la crescita nei non allenati. Negli allenati, i dati non bastano per dare una regola netta."
@@ -305,9 +305,9 @@
    "line": 0,
    "question": "Come distribuisce il lavoro la split routine descritta nella lezione?",
    "options": [
-    "Distribuisce il lavoro di ogni muscolo su quasi tutte le sedute.",
-    "Allena molti gruppi in ogni seduta e riduce il volume per muscolo.",
-    "Mantiene gli stessi gruppi in ogni seduta ma alterna i carichi.",
+    "Divide gli esercizi per fascia di carico e allena tutto il corpo a ogni seduta.",
+    "Divide gli esercizi per numero di ripetizioni e mantiene gli stessi gruppi in ogni seduta.",
+    "Divide il corpo in gruppi e distribuisce il lavoro di ciascuno su quasi tutte le sedute.",
     "Divide il corpo in gruppi e concentra il lavoro di ciascuno in poche sedute."
    ],
    "answer": 3,
@@ -319,9 +319,9 @@
    "question": "Quale vantaggio può offrire concentrare in una split il lavoro di un gruppo muscolare?",
    "options": [
     "Una seduta più impegnativa per quel muscolo e più recupero prima di riallenarlo.",
-    "Una seduta meno impegnativa per quel muscolo e meno recupero tra gli stimoli.",
-    "Una frequenza più alta per quel muscolo, senza distribuire il volume.",
-    "Una riduzione garantita del volume settimanale e quindi della fatica."
+    "Una seduta meno impegnativa per quel muscolo e la possibilità di riallenarlo prima.",
+    "Una seduta più impegnativa per quel muscolo e un recupero più rapido grazie al maggior volume.",
+    "Una seduta con meno serie per quel muscolo e più occasioni per allenarlo nella settimana."
    ],
    "answer": 0,
    "why": "Concentrare più lavoro in una seduta aumenta l’impegno di quel giorno, ma lascia più tempo prima di allenare di nuovo lo stesso muscolo."
@@ -331,10 +331,10 @@
    "line": 4,
    "question": "Come cambia il lavoro per muscolo nella singola seduta passando da una split a un full body?",
    "options": [
-    "Aumenta perché alleni più gruppi muscolari insieme.",
+    "Aumenta perché sottoponi ogni gruppo muscolare a più esercizi.",
     "Diminuisce perché la seduta comprende più gruppi muscolari.",
-    "Resta uguale perché cambia soltanto l’ordine degli esercizi.",
-    "Diminuisce soltanto se riduci il carico di ogni serie."
+    "Resta invariato perché mantieni lo stesso numero di serie per gruppo.",
+    "Diminuisce perché devi abbassare il carico in ogni esercizio."
    ],
    "answer": 1,
    "why": "Nel full body ripartisci il lavoro della seduta tra più muscoli. Il volume per ciascuno può essere minore quel giorno, senza esserlo nell’intera settimana."
@@ -344,10 +344,10 @@
    "line": 6,
    "question": "Se il full body prevede meno serie per muscolo a seduta, perché può comunque farlo crescere?",
    "options": [
-    "Perché deve compensare usando sempre pesi più alti della split.",
-    "Perché a determinare la crescita è solo il numero di sedute.",
+    "Perché il carico di ogni esercizio deve superare quello della split.",
+    "Perché il numero di allenamenti determina da solo la crescita.",
     "Perché il volume settimanale può eguagliare quello della split.",
-    "Perché meno serie per seduta producono sempre più crescita."
+    "Perché il volume settimanale deve essere inferiore a quello della split."
    ],
    "answer": 2,
    "why": "Per confrontare il lavoro sui muscoli devi sommare le serie della settimana. Più sedute con meno serie ciascuna possono dare lo stesso totale."
@@ -357,9 +357,9 @@
    "line": 8,
    "question": "Perché il full body può essere adatto a chi inizia ad allenarsi con i pesi?",
    "options": [
-    "Perché permette di concentrare molto lavoro sullo stesso muscolo.",
-    "Perché richiede carichi più alti e meno sedute settimanali.",
-    "Perché riduce necessariamente il volume totale della settimana.",
+    "Perché evita di stimolare lo stesso muscolo più volte nella settimana.",
+    "Perché evita di usare carichi moderati e privilegia quelli pesanti.",
+    "Perché evita di raggiungere lo stesso volume settimanale di una split.",
     "Perché evita di concentrare troppo volume per muscolo in una seduta."
    ],
    "answer": 3,
@@ -371,9 +371,9 @@
    "question": "Quale organizzazione può dare stimoli frequenti e gestibili a un ragazzo della Primavera nuovo ai pesi?",
    "options": [
     "Tre sedute full body con volume per muscolo distribuito nella settimana.",
-    "Tre sedute in split con tutto il volume di ogni muscolo concentrato.",
-    "Una seduta full body con l’intero volume settimanale concentrato.",
-    "Tre sedute full body ripetendo in ciascuna l’intero volume settimanale."
+    "Tre sedute in split con volume per muscolo concentrato in un solo giorno.",
+    "Tre sedute full body con l’intero volume settimanale ripetuto in ciascuna.",
+    "Tre sedute full body con tutte le serie di ogni esercizio a cedimento fin dall’inizio."
    ],
    "answer": 0,
    "why": "Tre sedute permettono di ritrovare lo stimolo più volte senza dover svolgere tutto il lavoro per uno stesso muscolo in una volta."
@@ -383,10 +383,10 @@
    "line": 1,
    "question": "Se l’1RM di panca è 100 kg, quale carico scrivi per allenarsi all’80%?",
    "options": [
-    "20 kg, cioè la differenza tra il massimale e il carico richiesto.",
+    "20 kg, cioè il peso che separa il massimale dalla quota richiesta.",
     "80 kg, cioè l’80% del peso sollevabile una sola volta.",
-    "100 kg, perché la percentuale indica lo sforzo, non il peso.",
-    "75 kg, cioè il carico stimato per dieci ripetizioni massime."
+    "75 kg, cioè il peso stimato per dieci ripetizioni massime.",
+    "85 kg, cioè il peso stimato per sei ripetizioni massime."
    ],
    "answer": 1,
    "why": "La percentuale si applica al peso del massimale: moltiplichi 100 kg per 0,80 per ottenere il carico da usare."
@@ -396,10 +396,10 @@
    "line": 3,
    "question": "A parità di esercizio, quante ripetizioni massime stima la tabella al 90% e all’80% dell’1RM?",
    "options": [
-    "Circa otto al 90% e quattro all’80%.",
-    "Circa quattro al 90% e quattro all’80%.",
+    "Circa due al 90% e sei all’80%.",
+    "Circa quattro al 90% e dieci all’80%.",
     "Circa quattro al 90% e otto all’80%.",
-    "Circa otto al 90% e dodici all’80%."
+    "Circa sei al 90% e otto all’80%."
    ],
    "answer": 2,
    "why": "Riducendo il peso dal 90% all’80%, l’atleta può in genere completare più ripetizioni prima di raggiungere il limite."
@@ -409,9 +409,9 @@
    "line": 5,
    "question": "Scendendo dall’80% al 75% dell’1RM, a quante ripetizioni massime passi secondo la tabella?",
    "options": [
-    "Da circa otto a circa sei.",
-    "Da circa otto a circa otto.",
-    "Da circa otto a circa quindici.",
+    "Da circa otto a circa nove.",
+    "Da circa otto a circa undici.",
+    "Da circa otto a circa dodici.",
     "Da circa otto a circa dieci."
    ],
    "answer": 3,
@@ -423,9 +423,9 @@
    "question": "Se la tabella stima otto ripetizioni all’80% dell’1RM, devi farne sempre otto?",
    "options": [
     "No: otto è il massimo stimato, non un obbligo per ogni serie.",
-    "Sì: usarne meno cambia la percentuale del massimale.",
-    "Sì: otto è il minimo perché il carico sia efficace.",
-    "No: otto è una media e puoi programmare tranquillamente dodici ripetizioni."
+    "No: otto è il minimo stimato, da superare quando hai margine.",
+    "No: otto è il totale da distribuire tra le serie della seduta.",
+    "No: otto è il massimo stimato solo per l’ultima serie della seduta."
    ],
    "answer": 0,
    "why": "La tabella indica quante ripetizioni potresti completare al limite. Puoi fermarti prima senza cambiare il peso utilizzato."
@@ -435,10 +435,10 @@
    "line": 11,
    "question": "Perché due atleti all’80% del proprio 1RM potrebbero non completare lo stesso numero di ripetizioni?",
    "options": [
-    "Perché la percentuale va sempre calcolata sullo stesso peso assoluto.",
+    "Perché la percentuale si calcola sul peso medio sollevato dal gruppo.",
     "Perché la tabella è indicativa e le ripetizioni variano tra persone ed esercizi.",
-    "Perché la tabella si può usare solo al 100% del massimale.",
-    "Perché la stima cambia tra esercizi, ma non tra atleti nello stesso esercizio."
+    "Perché la tabella assegna più ripetizioni a chi usa un peso assoluto maggiore.",
+    "Perché la tabella stima le ripetizioni in base al totale delle serie previste."
    ],
    "answer": 1,
    "why": "La stessa percentuale rende confrontabili i carichi rispetto ai massimali, ma non rende identica la capacità di ripetere lo sforzo."
@@ -448,10 +448,10 @@
    "line": 1,
    "question": "In quale caso è più sensato evitare di prescrivere il carico partendo da un test dell’1RM?",
    "options": [
-    "In panca, soltanto perché vuoi allenarti all’80% del massimale.",
-    "In ogni esercizio a carico moderato, perché l’1RM vale solo per carichi pesanti.",
+    "Nella panca con bilanciere, perché il test serve solo se programmi singole.",
+    "Nello squat con bilanciere, perché il test vale solo per serie da una a cinque ripetizioni.",
     "Nell’affondo bulgaro con manubri, dove il test massimale può essere poco pratico.",
-    "In ogni esercizio già noto all’atleta, perché l’esperienza sostituisce il test."
+    "Nello stacco con bilanciere, perché il test perde utilità appena conosci il gesto."
    ],
    "answer": 2,
    "why": "In alcuni esercizi testare quanto peso puoi sollevare una sola volta è poco utile o poco sicuro; puoi prescrivere il carico con le zone."
@@ -461,9 +461,9 @@
    "line": 3,
    "question": "Senza un test dell’1RM, come distingui un carico pesante da uno moderato?",
    "options": [
-    "Dalle ripetizioni scritte in scheda: 1–5 pesante, 6–12 moderato.",
+    "Dalle ripetizioni programmate: 1–5 pesante, 6–12 moderato.",
     "Dalle ripetizioni massime: 1–5 moderato, 6–12 pesante.",
-    "Dalle ripetizioni massime: 1–5 pesante, oltre 15 moderato.",
+    "Dalle ripetizioni massime: 1–5 pesante, 8–15 moderato.",
     "Dalle ripetizioni massime: 1–5 pesante, 6–12 moderato."
    ],
    "answer": 3,
@@ -475,9 +475,9 @@
    "question": "Quando classifichi un peso come leggero usando le zone di carico della lezione?",
    "options": [
     "Quando permette più di 15 ripetizioni a sforzo massimo.",
-    "Quando permette 6–12 ripetizioni a sforzo massimo.",
-    "Quando programmi più di 15 ripetizioni, anche se non sono fattibili.",
-    "Quando fai meno di 6 ripetizioni, indipendentemente dal margine."
+    "Quando permette da 8 a 12 ripetizioni a sforzo massimo.",
+    "Quando permette più di 15 ripetizioni sommate su più serie.",
+    "Quando permette più di 15 ripetizioni solo con pause nella serie."
    ],
    "answer": 0,
    "why": "La zona descrive quante ripetizioni puoi fare con quel peso. Se ne puoi completare più di 15, rientra nella zona leggera."
@@ -487,10 +487,10 @@
    "line": 7,
    "question": "Senza conoscere l’1RM negli stacchi rumeni con manubri, come scegli un carico moderato?",
    "options": [
-    "Scegli qualsiasi peso e fai terminare la serie alla decima ripetizione.",
+    "Scegli un peso con cui l’atleta arriva al limite entro 5 ripetizioni.",
     "Scegli un peso con cui l’atleta arriverebbe al limite tra 6 e 12 ripetizioni.",
-    "Scegli un peso da circa 20 ripetizioni massime e prescrivine 12.",
-    "Scegli un peso da 5 ripetizioni massime e prescrivine 6."
+    "Scegli un peso da circa 20 ripetizioni massime e fermi l’atleta alla dodicesima.",
+    "Scegli un peso con cui l’atleta arriva al limite tra 16 e 20 ripetizioni."
    ],
    "answer": 1,
    "why": "Le ripetizioni possibili al limite ti dicono quanto è impegnativo il peso. Fermarsi a 12 con un peso da 20 non lo rende moderato."
@@ -500,10 +500,10 @@
    "line": 0,
    "question": "Quali due stimoli spiegano la scelta tradizionale dei carichi moderati per l’ipertrofia?",
    "options": [
-    "Tensione meccanica e adattamenti neurali.",
-    "Stress metabolico e adattamenti neurali.",
+    "Tensione meccanica e coordinazione motoria.",
+    "Controllo motorio e stress metabolico.",
     "Tensione meccanica e stress metabolico.",
-    "Tensione meccanica e maggior recupero tra le sedute."
+    "Resistenza muscolare e rapidità di contrazione."
    ],
    "answer": 2,
    "why": "Il peso è sufficiente a creare tensione, mentre la durata della serie permette di accumulare stress metabolico."
@@ -513,9 +513,9 @@
    "line": 1,
    "question": "Quale stimolo per la crescita è particolarmente marcato nelle serie pesanti da 1–5 ripetizioni?",
    "options": [
-    "Lo stress metabolico, perché le serie durano a lungo.",
-    "Lo stress metabolico, perché il peso sostituisce la durata della serie.",
-    "Il tempo sotto tensione, perché le ripetizioni sono più numerose.",
+    "La fatica metabolica, perché lo sforzo intenso accelera l’accumulo di metaboliti.",
+    "La durata della contrazione, perché ogni sollevamento prolunga molto il lavoro.",
+    "La deplezione energetica, perché il lavoro breve esaurisce le riserve di glicogeno.",
     "La tensione meccanica, perché il muscolo deve contrastare un carico elevato."
    ],
    "answer": 3,
@@ -527,9 +527,9 @@
    "question": "Quale limite hanno le serie pesanti da 1–5 ripetizioni rispetto al lavoro moderato per l’ipertrofia?",
    "options": [
     "Durano poco, accumulano meno stress metabolico e favoriscono soprattutto la forza.",
-    "Durano poco, generano poca tensione e favoriscono soprattutto la resistenza.",
-    "Durano a lungo, accumulano più stress metabolico e favoriscono soprattutto la forza.",
-    "Generano molta tensione ma allenano poco la forza a causa delle poche ripetizioni."
+    "Durano poco, generano meno tensione meccanica e favoriscono soprattutto la resistenza.",
+    "Durano più a lungo, accumulano più stress metabolico e favoriscono soprattutto la resistenza.",
+    "Durano poco, generano alta tensione meccanica ma danno uno stimolo ridotto alla forza."
    ],
    "answer": 0,
    "why": "L’alta tensione è utile, ma con poche ripetizioni c’è meno tempo per accumulare stress metabolico. Il lavoro pesante favorisce soprattutto gli adattamenti di forza."
@@ -539,10 +539,10 @@
    "line": 5,
    "question": "Qual era il dubbio tradizionale sulle serie leggere da oltre 15 ripetizioni?",
    "options": [
-    "Che generassero troppo poco stress metabolico per stimolare la crescita.",
+    "Che non accumulassero abbastanza stress metabolico per stimolare la crescita.",
     "Che non stimolassero al massimo il muscolo, soprattutto le fibre di tipo 2.",
-    "Che stimolassero soprattutto le fibre di tipo 2 e trascurassero quelle di tipo 1.",
-    "Che fossero troppo brevi per dare uno stimolo alle fibre muscolari."
+    "Che non coinvolgessero abbastanza le fibre di tipo 1, più adatte agli sforzi prolungati.",
+    "Che non durassero abbastanza da affaticare in modo significativo il muscolo."
    ],
    "answer": 1,
    "why": "Con un peso basso, le prime ripetizioni richiedono meno forza. Da qui il dubbio che lo stimolo per le fibre di tipo 2 fosse insufficiente."
@@ -552,10 +552,10 @@
    "line": 7,
    "question": "Perché le serie leggere e lunghe non sono inutili per l’ipertrofia?",
    "options": [
-    "Perché producono più tensione meccanica delle serie pesanti.",
-    "Perché stimolano soprattutto gli adattamenti neurali della forza.",
+    "Perché producono una tensione di picco superiore a quella dei carichi elevati.",
+    "Perché migliorano soprattutto la capacità di esprimere forza massimale.",
     "Perché accumulano stress metabolico e possono contribuire alla crescita.",
-    "Perché la fatica percepita garantisce più crescita rispetto ai carichi moderati."
+    "Perché generano più bruciore e quindi garantiscono una crescita maggiore."
    ],
    "answer": 2,
    "why": "Anche se ogni ripetizione richiede meno forza, una serie lunga accumula fatica e stress metabolico, offrendo comunque uno stimolo alla crescita."
@@ -565,9 +565,9 @@
    "line": 9,
    "question": "In che senso le serie moderate combinano vantaggi delle serie pesanti e leggere?",
    "options": [
-    "Hanno la stessa tensione delle pesanti e la stessa durata delle leggere.",
-    "Richiedono poca tensione, ma lo stress metabolico compensa interamente.",
-    "Generano buona tensione, ma sono troppo brevi per accumulare stress metabolico.",
+    "Danno tensione massima e durano quanto il lavoro ad alte ripetizioni.",
+    "Danno poca tensione, ma accumulano abbastanza metaboliti da compensarla del tutto.",
+    "Danno buona tensione, ma finiscono prima che si accumuli stress metabolico.",
     "Danno buona tensione e durano abbastanza da accumulare stress metabolico."
    ],
    "answer": 3,
@@ -579,9 +579,9 @@
    "question": "Le 6–12 ripetizioni massime sono l’unico intervallo utile per l’ipertrofia?",
    "options": [
     "No: nella lezione l’intervallo utile va da 1 a 20 ripetizioni massime.",
-    "Sì: fuori da 6–12 si allenano soltanto forza o resistenza.",
-    "No: si può arrivare a 20, ma sotto le 6 non si cresce.",
-    "No: si può scendere fino a 1, ma sopra 12 non si cresce."
+    "No: nella lezione l’intervallo utile si estende sotto 6, ma si ferma a 12.",
+    "No: nella lezione l’intervallo utile arriva a 20, ma non scende sotto 6.",
+    "No: nella lezione l’intervallo utile si estende in basso solo fino a 5 e in alto fino a 15."
    ],
    "answer": 0,
    "why": "La zona moderata è una scelta pratica, non una soglia biologica: anche serie più pesanti o più leggere possono stimolare la crescita."
@@ -591,10 +591,10 @@
    "line": 2,
    "question": "Perché inserire serie pesanti a basse ripetizioni in un programma di ipertrofia?",
    "options": [
-    "Perché massimizzano da sole la crescita, grazie a serie più lunghe.",
+    "Perché generano più stress metabolico del lavoro prolungato e stimolano più crescita.",
     "Perché creano alta tensione e aumentano la forza utile anche con carichi moderati.",
-    "Perché accumulano lo stesso stress metabolico delle serie lunghe.",
-    "Perché aumentare la forza rende superfluo il lavoro con carichi moderati."
+    "Perché migliorano soprattutto la resistenza muscolare senza aumentare la forza massimale.",
+    "Perché aumentano la forza e rendono superfluo il lavoro con carichi moderati."
    ],
    "answer": 1,
    "why": "Oltre a fornire tensione, il lavoro pesante può farti diventare più forte, così puoi usare più peso quando torni a lavorare nel range moderato."
@@ -604,10 +604,10 @@
    "line": 4,
    "question": "Secondo la lezione, come possono i carichi elevati favorire la crescita delle fibre di tipo 2?",
    "options": [
-    "Reclutando soprattutto le fibre di tipo 1 durante le serie brevi.",
-    "Facendo intervenire le fibre di tipo 2 solo dopo molte ripetizioni.",
+    "Reclutando soprattutto le fibre di tipo 1 per produrre il picco di forza.",
+    "Coinvolgendo le fibre di tipo 2 soltanto dopo molte ripetizioni consecutive.",
     "Coinvolgendo precocemente le fibre di tipo 2 per produrre molta forza.",
-    "Facendo durare la serie più a lungo rispetto ai carichi leggeri."
+    "Prolungando la serie così da affaticare le fibre di tipo 2 più gradualmente."
    ],
    "answer": 2,
    "why": "La richiesta di forza è alta fin dalle prime ripetizioni. Questo può coinvolgere precocemente le fibre di tipo 2 e dare loro uno stimolo."
@@ -617,9 +617,9 @@
    "line": 6,
    "question": "Quale vantaggio possono offrire le serie leggere e lunghe per le fibre di tipo 1?",
    "options": [
-    "Le fanno lavorare meno, ma aumentano soprattutto la forza massimale.",
-    "Le stimolano solo se la serie è breve e il peso aumenta.",
-    "Possono favorirne la crescita, ma non aiutano la resistenza muscolare.",
+    "Possono ridurne il reclutamento e migliorare soprattutto la forza massimale.",
+    "Possono stimolarne lo sviluppo solo se si aumenta il peso a ogni serie.",
+    "Possono migliorarne la resistenza, ma non stimolarne la crescita.",
     "Possono stimolarne la crescita e migliorare la resistenza muscolare."
    ],
    "answer": 3,
@@ -631,9 +631,9 @@
    "question": "Quale combinazione applica l’idea di integrare carichi pesanti, moderati e leggeri per le gambe?",
    "options": [
     "Squat pesante a poche ripetizioni, lavoro moderato e serie lunghe per i polpacci.",
-    "Squat pesante in entrambe le sedute e polpacci a poche ripetizioni.",
-    "Squat moderato in entrambe le sedute e polpacci nello stesso intervallo.",
-    "Squat e polpacci sempre a ripetizioni alte, alternando soltanto gli esercizi."
+    "Squat pesante a poche ripetizioni, affondi con lo stesso schema e polpacci a basse ripetizioni.",
+    "Squat moderato in entrambe le sedute, affondi e polpacci nello stesso intervallo.",
+    "Squat leggero a molte ripetizioni, affondi e polpacci con lo stesso schema."
    ],
    "answer": 0,
    "why": "La combinazione usa il lavoro moderato senza rinunciare all’alta tensione delle serie pesanti e al lavoro prolungato delle serie leggere."
@@ -643,10 +643,10 @@
    "line": 1,
    "question": "Durante una serie, quando hai raggiunto il cedimento muscolare concentrico?",
    "options": [
-    "Quando il movimento rallenta, anche se completi la ripetizione.",
+    "Quando non mantieni più la velocità iniziale, ma riesci ancora a sollevare il peso.",
     "Quando non produci più forza sufficiente per sollevare il peso.",
-    "Quando senti bruciore, anche se puoi ancora sollevare il peso.",
-    "Quando raggiungi le ripetizioni previste, anche se ne restano altre possibili."
+    "Quando non riesci più a evitare il bruciore, ma il peso continua a salire.",
+    "Quando non ti restano ripetizioni da fare secondo lo schema previsto."
    ],
    "answer": 1,
    "why": "Il cedimento è un limite del movimento: provi a completare la fase di sollevamento, ma la forza disponibile non basta."
@@ -656,10 +656,10 @@
    "line": 3,
    "question": "Per l’ipertrofia, dove conviene in generale terminare una serie rispetto al cedimento?",
    "options": [
-    "Molto prima del limite, purché il carico sia moderato.",
-    "Al cedimento completo in tutte le serie, qualunque sia il carico.",
+    "Al primo rallentamento del movimento, anche se il margine è ancora ampio.",
+    "Al cedimento completo ogni volta, anche nelle sedute con molte serie.",
     "Al cedimento o vicino, senza doverlo raggiungere in tutte le serie.",
-    "A metà delle ripetizioni massime, purché il volume settimanale sia alto."
+    "Al numero previsto di ripetizioni, a prescindere da quante ne restano."
    ],
    "answer": 2,
    "why": "Avvicinarti al limite rende la serie impegnativa. Non serve esaurire ogni volta tutte le ripetizioni possibili, soprattutto se devi gestire il recupero."
@@ -669,9 +669,9 @@
    "line": 5,
    "question": "Se completi 5 ripetizioni con un peso da 10 ripetizioni massime, come valuti lo sforzo?",
    "options": [
-    "Sei vicino al cedimento perché il peso è da dieci ripetizioni massime.",
-    "Sei al cedimento perché hai raggiunto il numero di ripetizioni programmato.",
-    "Sei vicino al cedimento perché anche cinque ripetizioni possono essere pesanti.",
+    "Sei vicino al cedimento perché a metà della serie resta al massimo una ripetizione.",
+    "Sei al cedimento perché hai raggiunto il numero di ripetizioni previsto.",
+    "Sei vicino al cedimento perché la fatica delle prime cinque azzera quasi il margine.",
     "Sei lontano dal cedimento perché potresti fare ancora circa cinque ripetizioni."
    ],
    "answer": 3,
@@ -683,9 +683,9 @@
    "question": "Quale compromesso comporta spingere una serie fino al cedimento?",
    "options": [
     "Può aumentare stress metabolico e tempo sotto tensione, ma richiede più recupero.",
-    "Aumenta lo stress metabolico e riduce il recupero perché concentri lo stimolo.",
-    "Aumenta il tempo sotto tensione, ma non cambia le esigenze di recupero.",
-    "Richiede più recupero soltanto se il volume settimanale aumenta."
+    "Può aumentare lo stress metabolico, ma riduce il recupero necessario perché concentra lo stimolo.",
+    "Può prolungare il tempo sotto tensione, ma a parità di carico il recupero non cambia.",
+    "Può aumentare la fatica muscolare, ma richiede più recupero solo se cresce il lavoro settimanale."
    ],
    "answer": 0,
    "why": "Le ultime ripetizioni aggiungono lavoro in condizioni di fatica. Questo può rafforzare lo stimolo, ma rende più impegnativo recuperare prima della seduta successiva."
@@ -695,10 +695,10 @@
    "line": 4,
    "question": "A volume settimanale uguale, più sedute garantiscono più ipertrofia?",
    "options": [
-    "Sì: più occasioni di stimolo garantiscono più crescita a parità di lavoro.",
+    "No: redistribuire lo stesso lavoro riduce sempre lo stimolo e limita la crescita.",
     "No: redistribuire lo stesso lavoro può non cambiare significativamente la crescita.",
-    "No: concentrare il lavoro in meno sedute produce necessariamente più crescita.",
-    "Sì: il numero di sedute conta più del volume, soprattutto nei principianti."
+    "No: la crescita dipende solo dal lavoro svolto in ciascuna sessione, non dal totale.",
+    "No: aumentare la frequenza a parità di lavoro ostacola la crescita soprattutto negli atleti esperti."
    ],
    "answer": 1,
    "why": "Passare a più sedute non aggiunge lavoro se le serie totali restano uguali. Cambia soprattutto come distribuisci stimolo e recupero."
@@ -708,10 +708,10 @@
    "line": 6,
    "question": "Se tre pesi consentono rispettivamente 4, 8 e 18 ripetizioni massime, come li classifichi?",
    "options": [
-    "Moderato, pesante, leggero.",
-    "Pesante, leggero, moderato.",
+    "Moderato, leggero, pesante.",
+    "Leggero, pesante, moderato.",
     "Pesante, moderato, leggero.",
-    "Leggero, moderato, pesante."
+    "Pesante, leggero, moderato."
    ],
    "answer": 2,
    "why": "Più il peso è alto rispetto alle capacità dell’atleta, meno ripetizioni consente. Le zone traducono quel limite in un’indicazione pratica del carico."
@@ -721,9 +721,9 @@
    "line": 10,
    "question": "Quando cambi una variabile del programma, quale controllo dovresti fare prima di confermare la scheda?",
    "options": [
-    "Verificare solo la variabile modificata, se l’obiettivo resta l’ipertrofia.",
-    "Verificare solo il peso, perché le altre variabili non cambiano lo stimolo.",
-    "Lasciare invariato tutto il resto, anche se le ripetizioni diventano irrealizzabili.",
+    "Verificare soltanto che il nuovo valore rientri nei limiti previsti.",
+    "Verificare che il numero di esercizi rimanga invariato.",
+    "Verificare solo che il volume totale resti invariato.",
     "Verificare come la modifica incide sulle altre variabili."
    ],
    "answer": 3,

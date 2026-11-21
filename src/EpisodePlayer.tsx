@@ -30,7 +30,7 @@ export function EpisodePlayer({ video, autoPlay = false, onEnded, actionLabel }:
 
   useEffect(() => {
     let raf = 0;
-    const tick = () => { if (el.current) setT(el.current.currentTime); raf = requestAnimationFrame(tick); };
+    const tick = () => { if (el.current) { const q = Math.floor(el.current.currentTime * 8) / 8; setT((p) => (p === q ? p : q)); } raf = requestAnimationFrame(tick); };
     raf = requestAnimationFrame(tick);
     return () => cancelAnimationFrame(raf);
   }, []);

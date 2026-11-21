@@ -90,7 +90,7 @@ export function drawPerson(g, who, s) {
   if (L.cap) {
     g.fillStyle = LINE; g.beginPath(); g.ellipse(0, -r * 0.55, r * 1.02 + 2, r * 0.62 + 2, 0, Math.PI, 0); g.fill();
     g.fillStyle = L.cap; g.beginPath(); g.ellipse(0, -r * 0.55, r * 1.0, r * 0.6, 0, Math.PI, 0); g.fill();
-    g.fillStyle = LINE; g.beginPath(); g.roundRect(-r * 1.08, -r * 0.62, r * 2.16, r * 0.2, 4); g.fill(); // visiera vista di fronte
+    g.fillStyle = LINE; g.fillRect(-r * 1.08, -r * 0.62, r * 2.16, r * 0.2); // visiera vista di fronte (fillRect: va anche sui Safari vecchi)
   } else {
     g.fillStyle = L.hair; for (const [dx, dy, rr] of [[-0.62, -0.62, 0.38], [-0.22, -0.86, 0.4], [0.22, -0.88, 0.4], [0.62, -0.62, 0.38], [0, -0.98, 0.34], [-0.85, -0.28, 0.24], [0.85, -0.28, 0.24]]) { g.beginPath(); g.arc(dx * r, dy * r, rr * r, 0, 7); g.fill(); }
   }

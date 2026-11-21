@@ -26,29 +26,29 @@
  "who": [
   {
    "clues": [
-    "Rinforzo schiena alta, glutei e femorali.",
-    "Ho una doppia flessione del ginocchio meno marcata rispetto all’alzata completa.",
-    "Parto da terra con le mani larghe e non ho una fase esplosiva finale."
+    "Rinforzo la parte alta della schiena, i glutei e i femorali.",
+    "La mia doppia flessione del ginocchio è meno marcata che nello strappo completo.",
+    "Parto da terra con una presa larga e non ho una fase esplosiva finale."
    ],
    "answer": "Stacco presa strappo",
    "distractors": [
-    "Snatch pull",
-    "Power snatch",
-    "Hang snatch"
+    "Hang power snatch",
+    "Snatch balance",
+    "Snatch pull da terra"
    ],
    "slide": 5
   },
   {
    "clues": [
-    "Alleno la rapidità con cui produci forza.",
+    "Ti alleno a produrre forza più rapidamente.",
     "Mi concentro sulla seconda tirata.",
-    "Finisco con una scrollata decisa delle spalle, senza portare il bilanciere sopra la testa."
+    "Con me dai una scrollata decisa delle spalle senza portare il bilanciere sopra la testa."
    ],
    "answer": "Snatch pull",
    "distractors": [
-    "Stacco presa strappo",
-    "Snatch balance",
-    "Power snatch"
+    "Hang snatch",
+    "Power snatch",
+    "Snatch balance"
    ],
    "slide": 7
   },
@@ -56,21 +56,21 @@
    "clues": [
     "Aiuto chi ha paura di passare sotto il bilanciere a prendere fiducia.",
     "Alleno il turnover e la coordinazione dei piedi.",
-    "Parto con il bilanciere sulla schiena: dopo un dip and drive, lo incastro in overhead squat."
+    "Con me parti con il bilanciere sulla schiena e, dopo un dip and drive, lo incastri in overhead squat."
    ],
    "answer": "Snatch balance",
    "distractors": [
     "Power snatch",
     "Hang snatch",
-    "Snatch pull"
+    "Hang power snatch"
    ],
    "slide": 9
   },
   {
    "clues": [
     "Aiuto i pesisti a mantenere alta la velocità del bilanciere.",
-    "Parto da terra come nello strappo completo.",
-    "A differenza dello strappo completo, incastro il bilanciere a circa un quarto di squat."
+    "Parto da terra come lo strappo completo.",
+    "Con me, a differenza dello strappo completo, incastri il bilanciere a circa un quarto di squat."
    ],
    "answer": "Power snatch",
    "distractors": [
@@ -82,9 +82,9 @@
   },
   {
    "clues": [
-    "Permetto di concentrarsi sulla rapidità con cui si produce forza.",
-    "Sono utile a chi fatica a partire da terra.",
-    "Nella versione della lezione parto appena sopra il ginocchio e incastro in squat profondo."
+    "Ti permetto di concentrarti sulla rapidità con cui produci forza.",
+    "Aiuto chi fatica a partire da terra.",
+    "Nella versione della lezione, con me parti appena sopra il ginocchio e incastri il bilanciere in squat profondo."
    ],
    "answer": "Hang snatch",
    "distractors": [
@@ -96,15 +96,15 @@
   },
   {
    "clues": [
-    "Sono utile a chi fatica a raggiungere lo squat profondo.",
+    "Aiuto chi fatica a raggiungere lo squat profondo.",
     "Nella versione della lezione parto appena sopra il ginocchio.",
-    "Parto con il bilanciere già sollevato e lo incastro a circa un quarto di squat."
+    "Con me parti con il bilanciere già sollevato da terra e lo incastri a circa un quarto di squat."
    ],
    "answer": "Hang power snatch",
    "distractors": [
     "Hang snatch",
     "Power snatch",
-    "Snatch pull"
+    "Snatch balance"
    ],
    "slide": 13
   },
@@ -116,9 +116,9 @@
    ],
    "answer": "Tripla estensione",
    "distractors": [
-    "Doppia flessione del ginocchio",
-    "Turnover",
-    "Dip and drive"
+    "Doppia flessione",
+    "Seconda tirata",
+    "Fase di incastro"
    ],
    "slide": 8
   }

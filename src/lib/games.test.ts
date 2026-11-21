@@ -32,3 +32,12 @@ describe("giochi", () => {
     }
   });
 });
+
+import { mixSeed as mix2, shuffle as sh2 } from "./games";
+describe("chi sono io: posizione della risposta giusta", () => {
+  it("con lo stesso seme di partita la giusta non sta sempre nello stesso posto", () => {
+    const pos = new Set<number>();
+    for (let k = 0; k < 40; k++) { const ans = `risposta ${k}`; pos.add(sh2([ans, "a", "b", "c"], mix2(12345, ans)).indexOf(ans)); }
+    expect(pos.size).toBe(4);
+  });
+});

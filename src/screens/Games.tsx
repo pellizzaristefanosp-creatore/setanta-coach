@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import {
   checkOrder,
   gamePacks,
+  mixSeed,
   shuffle,
   shuffledSteps,
   verdict,
@@ -309,7 +310,8 @@ function WhoGame({ items, seed, onEnd }: { items: Tagged<WhoItem>[]; seed: numbe
 function WhoRound({ item, seed, onNext }: { item: Tagged<WhoItem>; seed: number; onNext: (points: number, correct: boolean) => void }) {
   const [shown, setShown] = useState(1);
   const [picked, setPicked] = useState<string | null>(null);
-  const options = useMemo(() => shuffle([item.answer, ...item.distractors], seed), [item, seed]);
+  // ogni domanda si mescola a modo suo (prima usavano tutte lo stesso seme: la giusta era sempre nello stesso posto)
+  const options = useMemo(() => shuffle([item.answer, ...item.distractors], mixSeed(seed, item.answer)), [item, seed]);
   const correct = picked === item.answer;
   const pts = picked ? whoPoints(shown, correct) : 0;
 

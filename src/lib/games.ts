@@ -34,6 +34,13 @@ export function shuffle<T>(items: readonly T[], seed: number): T[] {
   return out;
 }
 
+/** Seme diverso per ogni domanda: unisce il seme della partita e il testo della domanda. */
+export function mixSeed(seed: number, text: string): number {
+  let h = seed | 0;
+  for (let i = 0; i < text.length; i++) h = (Math.imul(h ^ text.charCodeAt(i), 2654435761) + i) | 0;
+  return (h >>> 0) % 2147483646 + 1;
+}
+
 /** Mescola finché l'ordine non coincide con quello giusto (con 4+ passaggi basta un tentativo o due). */
 export function shuffledSteps(steps: readonly string[], seed: number): string[] {
   for (let k = 0; k < 20; k++) {

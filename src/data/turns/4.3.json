@@ -6,10 +6,10 @@
    "line": 1,
    "question": "Quale movimento cerca di contrastare un esercizio anti-estensione del core?",
    "options": [
-    "La flessione della colonna in avanti.",
+    "L’arrotondamento della colonna in avanti.",
     "L’inarcamento della colonna all’indietro.",
-    "La rotazione del tronco rispetto al bacino.",
-    "L’inclinazione laterale della colonna."
+    "L’avvitamento della colonna su se stessa.",
+    "L’appiattimento delle curve della colonna."
    ],
    "answer": 1,
    "why": "L’estensione è il movimento con cui la schiena si inarca all’indietro. Il core lavora per opporsi a quell’arco."
@@ -33,9 +33,9 @@
    "question": "Dopo plank e dead bug, quali esercizi mostrano due modi diversi di allenare il core anteriore?",
    "options": [
     "La vertical press con elastico per resistere all’arco; crunch e sit-up per flettere il tronco.",
-    "La vertical press con elastico per flettere il tronco; crunch e sit-up per tenerlo fermo.",
-    "Il plank alto per resistere all’arco; il dead bug per flettere il tronco.",
-    "Crunch e sit-up per resistere all’arco; la vertical press per accompagnare l’estensione."
+    "La vertical press con elastico per resistere alla flessione; crunch e sit-up per flettere il tronco.",
+    "La vertical press con elastico per resistere all’arco; crunch e sit-up per estendere il tronco.",
+    "La vertical press con elastico per stabilizzare il tronco in rotazione; crunch e sit-up per ruotarlo."
    ],
    "answer": 0,
    "why": "La spinta sopra la testa mette alla prova il controllo dell’arco. Crunch e sit-up allenano gli stessi muscoli facendoli flettere il tronco."
@@ -45,10 +45,10 @@
    "line": 9,
    "question": "Che cosa deve saper fare un preparatore per adattare un esercizio a ogni atleta?",
    "options": [
-    "Scegliere la variante più nota e fissare lo stesso obiettivo per tutti.",
-    "Mostrare la variante avanzata e aumentare la difficoltà quando l’atleta si annoia.",
+    "Mostrare la variante più nota, fissare lo stesso traguardo e mantenere il carico iniziale.",
+    "Insegnare la variante più difficile, allungare le tenute e ridurre soltanto le pause.",
     "Insegnare la tecnica, progredire quando l’atleta è pronto e semplificare quando fatica.",
-    "Mantenere sempre la variante iniziale e cambiare soltanto la durata dell’esercizio."
+    "Scegliere la variante iniziale, mantenere la stessa difficoltà e variare soltanto la durata."
    ],
    "answer": 2,
    "why": "La tecnica ti dice se il livello è adatto: se l’atleta mantiene il controllo puoi progredire; se lo perde, semplifichi."
@@ -58,10 +58,10 @@
    "line": 0,
    "question": "Quali muscoli lavorano soprattutto per evitare che la schiena si inarchi?",
    "options": [
-    "Gli erettori spinali, con un contributo minore dei glutei.",
-    "I flessori dell’anca, con un contributo minore del retto addominale.",
+    "Il grande gluteo, con un contributo minore degli ischiocrurali.",
+    "Il retto femorale, con un contributo minore degli adduttori.",
     "Il retto addominale, con un contributo minore degli obliqui.",
-    "Gli obliqui, con un contributo minore del retto addominale."
+    "Il quadrato dei lombi, con un contributo minore degli erettori spinali."
    ],
    "answer": 2,
    "why": "La tensione del core anteriore contrasta l’arco all’indietro. In questo lavoro il retto addominale ha il ruolo principale."
@@ -72,9 +72,9 @@
    "question": "Quale gruppo rappresenta il core anteriore che contribuisce a frenare l’estensione della colonna?",
    "options": [
     "Trasverso dell’addome, obliqui interni, obliqui esterni e retto addominale.",
-    "Trasverso dell’addome, obliqui interni, obliqui esterni ed erettori spinali.",
-    "Retto addominale, obliqui interni, obliqui esterni e flessori dell’anca.",
-    "Retto addominale, trasverso dell’addome, obliqui esterni e glutei."
+    "Trasverso dell’addome, obliqui interni, erettori spinali e quadrato dei lombi.",
+    "Trasverso dell’addome, obliqui esterni, flessori dell’anca e retto femorale.",
+    "Trasverso dell’addome, obliqui interni, obliqui esterni e grande gluteo."
    ],
    "answer": 0,
    "why": "Questi muscoli formano la parete addominale: la tensione che producono davanti al tronco aiuta a impedire che la colonna si inarchi troppo."
@@ -84,9 +84,9 @@
    "line": 4,
    "question": "Quale prova ti fa sentire direttamente che gli addominali frenano l’estensione?",
    "options": [
-    "Contrarre gli addominali e provare a piegarti in avanti.",
-    "Rilassare gli addominali e provare a piegarti all’indietro.",
-    "Contrarre gli addominali e provare a ruotare il busto.",
+    "Contrarre gli addominali e provare a flettere il busto in avanti.",
+    "Contrarre gli addominali e provare a inclinarti di lato.",
+    "Contrarre gli addominali e provare a girare il busto verso un fianco.",
     "Contrarre gli addominali e provare a piegarti all’indietro."
    ],
    "answer": 3,
@@ -97,10 +97,10 @@
    "line": 6,
    "question": "Quale tendenza posturale può rendere utile il lavoro anti-estensione per un calciatore?",
    "options": [
-    "La tendenza ad appiattire troppo la zona lombare.",
+    "La tendenza a tenere la zona lombare appiattita.",
     "La tendenza a tenere la zona lombare molto arcuata.",
-    "La tendenza a ruotare il busto da un lato.",
-    "La tendenza a inclinare il tronco lateralmente."
+    "La tendenza a tenere la parte alta del busto ruotata.",
+    "La tendenza a tenere il bacino inclinato lateralmente."
    ],
    "answer": 1,
    "why": "Se la zona lombare tende già a inarcarsi, allenare il core a frenare l’estensione aiuta a controllare proprio quel movimento."
@@ -110,10 +110,10 @@
    "line": 7,
    "question": "Come usi la durata del plank per valutare la tecnica di un atleta?",
    "options": [
-    "Punti a cinque minuti e valuti la posizione soltanto alla fine.",
-    "Prolunghi la prova oltre il primo cedimento per misurare la resistenza.",
+    "Fissi un tempo e controlli la forma solo negli ultimi 10 secondi.",
+    "Fissi un tempo e continui oltre il cedimento; contano tutti i secondi.",
     "Fissi un tempo e valuti la forma; 60–90 secondi puliti sono già buoni.",
-    "Passi direttamente a una variante difficile, senza valutare la tenuta di base."
+    "Fissi un tempo e controlli la forma; meno di tre minuti non bastano."
    ],
    "answer": 2,
    "why": "Il tempo è utile se misura quanto a lungo l’atleta conserva la posizione. Continuare dopo aver perso l’allineamento non dimostra lo stesso controllo."
@@ -124,9 +124,9 @@
    "question": "Come puoi progredire quando un atleta mantiene il plank classico con una tecnica solida?",
    "options": [
     "Sollevi un braccio o una gamba senza perdere l’allineamento.",
-    "Passi alle ginocchia per accorciare la leva.",
-    "Lasci scendere leggermente le anche per aumentare la difficoltà.",
-    "Allarghi gli appoggi per rendere la posizione più stabile."
+    "Appoggi le ginocchia a terra per accorciare la leva.",
+    "Abbassi leggermente le anche per aumentare la tensione.",
+    "Allarghi la distanza tra i piedi per ampliare la base."
    ],
    "answer": 0,
    "why": "Togliere un appoggio rende più difficile mantenere la stessa posizione, senza dover inseguire tempi di tenuta sempre più lunghi."
@@ -136,10 +136,10 @@
    "line": 1,
    "question": "Come si esegue il plank alto senza trasformarlo in una flessione?",
    "options": [
-    "Resti sugli avambracci e sollevi un piede.",
-    "Resti sulle mani e mantieni i gomiti a metà piegamento.",
+    "Resti sugli avambracci a gomiti piegati e spalle ferme.",
+    "Resti sulle mani con i gomiti piegati a metà corsa.",
     "Resti sulle mani a braccia tese, senza piegare i gomiti.",
-    "Ti appoggi sulle mani e alterni discesa e risalita."
+    "Resti sulle mani e alterni discesa e risalita del busto."
    ],
    "answer": 2,
    "why": "Il plank alto usa la posizione di partenza della flessione, ma il corpo resta fermo: cambia l’appoggio, non il compito del core."
@@ -149,9 +149,9 @@
    "line": 3,
    "question": "Quando ha senso scegliere il plank alto al posto di quello sugli avambracci?",
    "options": [
-    "Quando vuoi rendere l’esercizio più facile accorciando la leva sulle ginocchia.",
-    "Quando vuoi aumentare l’instabilità togliendo un punto di appoggio.",
-    "Quando vuoi allenare il core facendo flettere il tronco.",
+    "Quando vuoi accorciare la leva passando dai piedi alle ginocchia.",
+    "Quando vuoi rendere la base meno stabile sollevando una mano o un piede.",
+    "Quando vuoi allenare gli addominali alternando flessione ed estensione del busto.",
     "Quando l’appoggio sui gomiti dà fastidio ma vuoi mantenere lo stesso obiettivo."
    ],
    "answer": 3,
@@ -162,10 +162,10 @@
    "line": 5,
    "question": "Quale allineamento indica che stai mantenendo correttamente il plank alto?",
    "options": [
-    "Testa e spalle in linea, con le anche poco sopra quella linea.",
+    "Testa, spalle e caviglie in linea, con le anche rialzate.",
     "Testa, spalle, anche e caviglie sulla stessa linea.",
-    "Spalle e caviglie in linea, con le anche lasciate scendere.",
-    "Testa e anche in linea, con le ginocchia piegate verso terra."
+    "Testa, spalle e caviglie in linea, con le anche più basse.",
+    "Testa, spalle e anche in linea, con le ginocchia flesse."
    ],
    "answer": 1,
    "why": "L’allineamento mostra che non lasci cedere il bacino verso terra e non lo alzi per alleggerire il lavoro del core."
@@ -175,9 +175,9 @@
    "line": 7,
    "question": "Nel plank alto, che cosa indicano le anche troppo basse o troppo alte?",
    "options": [
-    "In basso perdi tensione senza inarcarti; in alto aumenti la richiesta al core.",
-    "In basso aumenti il lavoro addominale; in alto correggi l’estensione lombare.",
-    "In basso accorci la leva; in alto aumenti l’instabilità degli appoggi.",
+    "In basso scarichi il core; in alto aumenti la tensione addominale.",
+    "In basso resti in posizione neutra; in alto vai in estensione.",
+    "In basso accorci la leva del tronco; in alto la allunghi.",
     "In basso vai in estensione; in alto alleggerisci il lavoro del core."
    ],
    "answer": 3,
@@ -188,10 +188,10 @@
    "line": 3,
    "question": "Come aumenti la difficoltà del plank senza prolungarne la durata?",
    "options": [
-    "Avvicini le ginocchia a terra per accorciare la leva.",
+    "Appoggi le ginocchia per accorciare la leva.",
     "Sollevi un arto per ridurre i punti di appoggio.",
-    "Allarghi i piedi per rendere più stabile la base.",
-    "Alzi le anche per scaricare una parte del peso."
+    "Divarichi i piedi per ampliare la base di appoggio.",
+    "Alzi le anche per scaricare parte del peso."
    ],
    "answer": 1,
    "why": "Con meno appoggi il corpo è meno stabile, quindi il core deve fare di più per mantenere la stessa posizione."
@@ -202,9 +202,9 @@
    "question": "Perché togliere un punto di appoggio rende il plank più impegnativo?",
    "options": [
     "Il corpo è meno stabile e il core deve preservare l’allineamento.",
-    "Il peso corporeo aumenta e il core deve sostenere più carico.",
-    "La leva si accorcia e il core deve compensare con più forza.",
-    "L’appoggio passivo della schiena aumenta e il core deve irrigidirsi."
+    "Il peso corporeo aumenta e il core deve sostenere quel carico extra.",
+    "Il busto si flette e il core deve riportarlo in posizione neutra.",
+    "Il bacino trova sostegno nell’arco lombare e il core deve mantenerlo."
    ],
    "answer": 0,
    "why": "Il peso del corpo non cambia. Cambia il sostegno disponibile per evitare che il tronco perda la posizione o si inarchi."
@@ -214,10 +214,10 @@
    "line": 7,
    "question": "In quale ordine riduci gli appoggi per progredire nel plank?",
    "options": [
-    "Prima una mano e un piede insieme, poi un solo appoggio.",
+    "Prima una mano e un piede insieme, poi un solo arto.",
     "Prima una mano o un piede, poi una mano e un piede insieme.",
-    "Prima una mano o un piede, poi torni a quattro appoggi.",
-    "Prima appoggi le ginocchia, poi allarghi i piedi senza sollevare arti."
+    "Prima una mano o un piede, poi alterni gli arti senza combinarli.",
+    "Prima una mano e un piede insieme, poi soltanto una mano."
    ],
    "answer": 1,
    "why": "Togliere un appoggio alla volta permette di verificare il controllo prima di passare alla variante più instabile con due appoggi in meno."
@@ -227,9 +227,9 @@
    "line": 9,
    "question": "Che cosa fai se un atleta perde l’allineamento nel plank con meno appoggi?",
    "options": [
-    "Prolunghi la tenuta per dargli tempo di adattarsi.",
-    "Alzi le anche per mantenere comunque la variante avanzata.",
-    "Togli un altro appoggio per aumentare l’attivazione del core.",
+    "Prolunghi la tenuta per dargli il tempo di ritrovare la posizione.",
+    "Alzi le anche per completare la tenuta nella variante avanzata.",
+    "SolleVi un altro arto per chiedere una contrazione addominale più forte.",
     "Torni alla variante precedente, che l’atleta riesce a controllare."
    ],
    "answer": 3,
@@ -241,9 +241,9 @@
    "question": "Perché il plank classico non è necessariamente un esercizio facile per un principiante?",
    "options": [
     "Sostenere il peso corporeo mentre si resiste all’estensione richiede già controllo.",
-    "Mantenere la posizione richiede di muovere insieme braccia e gambe.",
-    "L’appoggio sui gomiti obbliga a flettere ripetutamente la colonna.",
-    "Il core inizia a lavorare soltanto dopo una tenuta molto lunga."
+    "Coordinare braccia e gambe mentre si muovono in direzioni opposte richiede pratica.",
+    "Mantenere l’appoggio sui gomiti mentre si flette la colonna richiede coordinazione.",
+    "Tenere la posizione abbastanza a lungo da attivare gli addominali richiede resistenza."
    ],
    "answer": 0,
    "why": "Un esercizio può essere comune senza essere facile: anche restando fermo, l’atleta deve evitare che il peso corporeo faccia cedere la schiena."
@@ -253,10 +253,10 @@
    "line": 5,
    "question": "Come semplifichi il plank classico per chi non riesce a mantenerlo sui piedi?",
    "options": [
-    "Sollevi un piede e mantieni l’altro in appoggio.",
-    "Passi sulle mani, mantenendo l’appoggio sui piedi.",
+    "Sollevi una mano lasciando ferme le gambe.",
+    "Sposti il peso in avanti oltre i gomiti.",
     "Appoggi le ginocchia al posto dei piedi.",
-    "Alzi le anche, mantenendo gli appoggi originali."
+    "Avvicini le caviglie per stringere la base."
    ],
    "answer": 2,
    "why": "Avvicinare l’appoggio al tronco accorcia la leva e riduce la richiesta, senza cambiare l’obiettivo di mantenere la colonna neutra."
@@ -267,9 +267,9 @@
    "question": "Perché appoggiare le ginocchia rende il plank più facile?",
    "options": [
     "Accorcia la leva e riduce l’effetto della gravità sull’inarcamento.",
-    "Allunga la leva e distribuisce il peso su una distanza maggiore.",
-    "Aumenta il numero di appoggi, perché i piedi restano a terra.",
-    "Permette di usare l’arco lombare come sostegno passivo."
+    "Allunga la leva e distribuisce la resistenza su una distanza maggiore.",
+    "Aggiunge due punti di sostegno senza cambiare la lunghezza della leva.",
+    "Aumenta l’arco lombare e sfrutta la colonna come sostegno passivo."
    ],
    "answer": 0,
    "why": "Le ginocchia avvicinano l’appoggio alla parte alta del corpo: con una leva più corta, al core serve meno sforzo per contrastare l’arco."
@@ -279,9 +279,9 @@
    "line": 1,
    "question": "Come ti prepari al dead bug prima di muovere gli arti?",
    "options": [
-    "Ti sdrai con i piedi a terra, le braccia in alto e la lombare rilassata.",
-    "Ti sdrai con le gambe tese a terra e le braccia dietro la testa.",
-    "Ti sdrai con le gambe a 90° e le braccia su, lasciando un arco lombare.",
+    "Ti sdrai con i piedi appoggiati, le braccia in alto e la lombare rilassata.",
+    "Ti sdrai con le gambe distese, le braccia verso il soffitto e la lombare a terra.",
+    "Ti sdrai con gambe a 90°, braccia verso il soffitto e zona lombare inarcata.",
     "Ti sdrai con gambe a 90°, braccia verso il soffitto e lombare premuta a terra."
    ],
    "answer": 3,
@@ -292,10 +292,10 @@
    "line": 5,
    "question": "Perché allungare braccio e gamba opposti nel dead bug mette alla prova il core?",
    "options": [
-    "Gli arti spingono la colonna in flessione e il core deve inarcarla.",
-    "La parte più difficile è riportare gli arti verso il centro del corpo.",
+    "Il peso degli arti favorisce la flessione, che contrasti inarcando la schiena.",
+    "Il peso degli arti sollecita il tronco soprattutto quando li riporti al centro.",
     "Il peso degli arti favorisce l’arco, che contrasti tenendo la lombare a terra.",
-    "Il peso degli arti stabilizza la lombare e riduce il lavoro addominale."
+    "Il peso degli arti stabilizza la lombare e riduce la tensione addominale."
    ],
    "answer": 2,
    "why": "Più gli arti si allontanano, maggiore è la tendenza della schiena a inarcarsi. Il core deve opporsi senza lasciar muovere il tronco."
@@ -305,10 +305,10 @@
    "line": 7,
    "question": "Come gestisci il respiro nel dead bug mentre mantieni stabile la zona lombare?",
    "options": [
-    "Trattieni il fiato per tutta la fase di allungamento.",
+    "Trattieni il fiato finché non hai disteso e riportato al centro gli arti.",
     "Respiri normalmente, usando solo la tensione necessaria a evitare l’arco.",
-    "Aumenti al massimo la pressione addominale prima di muovere gli arti.",
-    "Rilassi gli addominali quando respiri, anche se la lombare si solleva."
+    "Respiri a scatti, cercando la massima pressione addominale a ogni ripetizione.",
+    "Respiri liberamente, lasciando che la schiena si sollevi a ogni inspirazione."
    ],
    "answer": 1,
    "why": "Per contrastare l’arco basta la tensione che mantiene la posizione: non serve bloccare il respiro o irrigidirsi più del necessario."
@@ -318,10 +318,10 @@
    "line": 9,
    "question": "Come usi il respiro per aumentare la sfida nel dead bug senza aggiungere carico?",
    "options": [
-    "Trattieni il fiato mentre braccio e gamba si allungano.",
-    "Espiri soltanto dopo aver riportato entrambi gli arti al centro.",
+    "Inspiri durante tutta la fase di allungamento degli arti.",
+    "Espiri solo durante il ritorno degli arti verso il centro.",
     "Espiri mentre allunghi il braccio e la gamba opposta.",
-    "Completi l’espirazione prima di iniziare a muovere gli arti."
+    "Espiri fino in fondo prima di iniziare a distendere gli arti."
    ],
    "answer": 2,
    "why": "Espiri proprio nella fase in cui gli arti si allontanano e il core deve continuare a impedire che la schiena si inarchi."
@@ -332,9 +332,9 @@
    "question": "Come prepari l’elastico per aggiungere resistenza al dead bug?",
    "options": [
     "Lo fissi dietro di te e lo impugni già in tensione.",
-    "Lo fissi davanti ai piedi e lo impugni già in tensione.",
-    "Lo fissi dietro di te e lo lasci lento per tutto il movimento.",
-    "Lo passi dietro le caviglie per muovere le gambe contro resistenza."
+    "Lo fissi oltre i piedi e lo impugni già in tensione.",
+    "Lo fissi dietro di te e lo impugni lasciandolo lento.",
+    "Lo fissi di lato e lo impugni con entrambe le mani."
    ],
    "answer": 0,
    "why": "Un ancoraggio stabile dietro di te e una banda già tesa creano la trazione all’indietro che il tronco deve contrastare."
@@ -344,9 +344,9 @@
    "line": 3,
    "question": "Nel dead bug con elastico, come reagisci alla trazione mentre allunghi una gamba?",
    "options": [
-    "Lasci che la banda inarchi leggermente la schiena durante l’allungamento.",
-    "Assecondi la trazione portando il tronco indietro insieme alla banda.",
-    "Spingi la banda in avanti a ogni ripetizione per annullare la trazione.",
+    "Assecondi la banda e lasci che la schiena si inarchi leggermente.",
+    "Segui la banda e porti indietro il torace a ogni ripetizione.",
+    "Compensi la forza della banda spingendo le mani verso le ginocchia.",
     "Resisti alla trazione all’indietro e mantieni fermo il tronco."
    ],
    "answer": 3,
@@ -357,10 +357,10 @@
    "line": 7,
    "question": "Come aumenti la difficoltà del dead bug con elastico quando mantieni già bene la posizione?",
    "options": [
-    "Ti avvicini all’ancoraggio per tendere maggiormente la banda.",
+    "Ti avvicini all’ancoraggio o scegli una banda più morbida.",
     "Ti allontani dall’ancoraggio o scegli una banda più resistente.",
-    "Scegli una banda più morbida e riduci l’allungamento della gamba.",
-    "Lasci la banda più lenta e muovi soltanto una gamba."
+    "Ti avvicini all’ancoraggio e accorci il movimento delle gambe.",
+    "Ti sistemi più vicino all’ancoraggio e lasci la banda lenta."
    ],
    "answer": 1,
    "why": "Più tensione significa più trazione all’indietro: il core deve opporsi a una maggiore tendenza della colonna a inarcarsi."
@@ -370,9 +370,9 @@
    "line": 11,
    "question": "Che cosa fai se la zona lombare si stacca da terra nel dead bug con elastico?",
    "options": [
-    "Aumenti la tensione per stimolare una contrazione più forte.",
-    "Continui con la stessa tensione e accetti un piccolo arco.",
-    "Trattieni il respiro per conservare la stessa resistenza.",
+    "Aumenti la tensione e riprovi cercando di contrarre più forte gli addominali.",
+    "Mantieni la tensione e riprovi accettando un leggero arco nella schiena.",
+    "Mantieni la tensione e riprovi trattenendo il fiato durante l’allungamento.",
     "Riduci la tensione e riprovi mantenendo la lombare a terra."
    ],
    "answer": 3,
@@ -383,10 +383,10 @@
    "line": 1,
    "question": "Come muovi il kettlebell durante il dead bug con sovraccarico?",
    "options": [
-    "Lo tieni con una mano e lo porti dietro la testa estendendo la gamba opposta.",
     "Lo tieni con due mani e lo porti verso le ginocchia mentre allunghi una gamba.",
+    "Lo tieni con due mani e lo abbassi verso la testa mentre richiami la gamba.",
     "Lo tieni con due mani e lo porti dietro la testa mentre allunghi una gamba.",
-    "Lo tieni fermo sopra il petto con due mani mentre allunghi una gamba."
+    "Lo tieni con due mani e lo lasci fermo sopra lo sterno mentre allunghi una gamba."
    ],
    "answer": 2,
    "why": "Il peso si allontana dal centro insieme alla gamba: così aumenta la richiesta al core, che deve impedire alla schiena di inarcarsi."
@@ -397,9 +397,9 @@
    "question": "Quando il kettlebell aumenta maggiormente la richiesta anti-estensione nel dead bug?",
    "options": [
     "Quando braccia e gamba sono allungate, lontane dal centro del corpo.",
-    "Quando il peso è sopra il petto e la gamba è raccolta.",
-    "Quando riporti il peso e la gamba più vicini al centro.",
-    "Nello stesso modo in ogni posizione, perché il peso resta invariato."
+    "Quando braccia e gamba sono ancora in posizione di partenza.",
+    "Quando braccia e gamba sono a metà corsa nella fase di allungamento.",
+    "Quando braccia e gamba sono ferme, a prescindere dalla loro posizione."
    ],
    "answer": 0,
    "why": "Il peso non cambia, ma la sua posizione sì: quando è più lontano, aumenta la tendenza della schiena a inarcarsi."
@@ -409,10 +409,10 @@
    "line": 7,
    "question": "Qual è la differenza tra elastico e kettlebell nelle progressioni del dead bug?",
    "options": [
-    "L’elastico accorcia la leva; il kettlebell riduce la trazione all’indietro.",
+    "L’elastico tira in avanti; il kettlebell aggiunge peso alle braccia che si allontanano.",
     "L’elastico tira all’indietro; il kettlebell aggiunge peso alle braccia che si allontanano.",
-    "L’elastico aumenta la flessione; il kettlebell riduce la richiesta anti-estensione.",
-    "L’elastico aggiunge peso alle braccia; il kettlebell crea la trazione dell’ancoraggio."
+    "L’elastico tira all’indietro; il kettlebell alleggerisce lo sforzo quando le braccia si allontanano.",
+    "L’elastico tira soprattutto a braccia distese; il kettlebell oppone resistenza solo sopra il petto."
    ],
    "answer": 1,
    "why": "Entrambi rendono più difficile evitare l’arco, ma la banda lo fa tramite una trazione, mentre il kettlebell aggiunge peso al movimento."
@@ -423,9 +423,9 @@
    "question": "Quale segnale indica che il dead bug di base è troppo difficile per un atleta?",
    "options": [
     "La lombare si stacca da terra quando allunga braccio e gamba.",
-    "L’atleta espira mentre allunga braccio e gamba.",
-    "L’atleta rallenta il movimento ma mantiene la lombare a terra.",
-    "La lombare rimane a terra quando gli arti sono più lontani."
+    "La lombare rimane a terra anche se gli arti si muovono più lentamente.",
+    "La lombare resta a terra durante una breve pausa con gli arti distesi.",
+    "La lombare rimane a terra anche durante l’espirazione a fine corsa."
    ],
    "answer": 0,
    "why": "Se la lombare si stacca, l’atleta non riesce ancora a contrastare l’estensione prodotta dall’allungamento simultaneo degli arti."
@@ -435,10 +435,10 @@
    "line": 3,
    "question": "Come semplifichi il dead bug se muovere braccio e gamba insieme fa inarcare la schiena?",
    "options": [
-    "Allunghi entrambe le gambe e mantieni ferme le braccia.",
+    "Muovi entrambe le gambe e tieni le braccia verso il soffitto.",
     "Muovi una gamba alla volta e tieni le braccia verso il soffitto.",
-    "Mantieni il movimento completo e aggiungi una leggera tensione elastica.",
-    "Muovi una gamba alla volta tenendo le braccia allungate dietro la testa."
+    "Muovi una gamba alla volta e tiri un elastico teso sopra il petto.",
+    "Muovi una gamba alla volta e tieni le braccia distese dietro le orecchie."
    ],
    "answer": 1,
    "why": "Lasciare ferme le braccia riduce la tendenza a inarcarsi, così l’atleta può concentrarsi sulla posizione lombare e sul respiro."
@@ -448,9 +448,9 @@
    "line": 5,
    "question": "Perché il dead bug è più facile se allunghi solo una gamba?",
    "options": [
-    "Puoi trattenere il respiro più a lungo e irrigidire il tronco.",
-    "Le braccia verso il soffitto offrono un appoggio aggiuntivo.",
-    "La gamba che si allunga smette di esercitare una forza sul tronco.",
+    "Si irrigidisce la zona lombare trattenendo l’aria durante l’allungamento.",
+    "Si appoggiano le braccia al pavimento, quindi aumenta la stabilità.",
+    "Si accorcia la leva dell’arto disteso, quindi cala la richiesta al tronco.",
     "Si allontanano meno arti, quindi la spinta verso l’arco è minore."
    ],
    "answer": 3,
@@ -461,10 +461,10 @@
    "line": 1,
    "question": "Quale posizione e quale gesto caratterizzano la versione base della vertical press con elastico?",
    "options": [
-    "In piedi a piedi paralleli, spingi l’elastico davanti al petto.",
+    "In piedi, spingi l’elastico davanti al petto.",
     "In affondo, tiri l’elastico verso il petto.",
     "In affondo, spingi l’elastico sopra la testa.",
-    "In ginocchio, spingi l’elastico in avanti all’altezza delle spalle."
+    "In ginocchio, spingi l’elastico in diagonale verso il basso."
    ],
    "answer": 2,
    "why": "Nella versione base l’affondo è la posizione di partenza; la spinta sopra la testa crea la richiesta di resistere all’inarcamento."
@@ -474,9 +474,9 @@
    "line": 3,
    "question": "Come ottieni il lavoro anti-estensione nella vertical press con elastico?",
    "options": [
-    "Apri le costole per accompagnare la banda sopra la testa.",
-    "Inclini il tronco all’indietro per seguire la trazione della banda.",
-    "Fletti il tronco in avanti durante ogni spinta.",
+    "Mantieni il torace inclinato all’indietro mentre sollevi la banda.",
+    "Mantieni il torace in flessione mentre spingi la banda in alto.",
+    "Mantieni il bacino fermo e lasci che il torace segua la banda.",
     "Mantieni il torace fermo mentre la banda cerca di farti inarcare."
    ],
    "answer": 3,
@@ -487,10 +487,10 @@
    "line": 7,
    "question": "Come disponi i piedi nella vertical press in piedi per resistere meglio alla trazione?",
    "options": [
-    "Paralleli e ravvicinati, per mantenere il carico al centro.",
-    "Paralleli e più larghi, senza spostarne uno avanti.",
+    "Leggermente divaricati, senza portare un piede avanti.",
+    "Strettamente ravvicinati, con un tallone accanto all’altro.",
     "Leggermente sfalsati, con un piede un po’ più avanti.",
-    "Allineati e con i talloni sollevati, per seguire la trazione."
+    "Leggermente ruotati all’esterno, con le punte sulla stessa linea."
    ],
    "answer": 2,
    "why": "Sfalsare i piedi estende la base d’appoggio in avanti e indietro, aiutandoti a restare in equilibrio contro la trazione dell’elastico."
@@ -501,9 +501,9 @@
    "question": "Perché i piedi paralleli sono meno adatti nella vertical press con elastico in piedi?",
    "options": [
     "La base è meno estesa avanti e indietro, quindi l’equilibrio è più difficile.",
-    "La base è più stabile, quindi il core non deve contrastare l’estensione.",
-    "La banda perde tensione quando arriva sopra la testa.",
-    "La posizione obbliga a piegare il tronco in avanti durante la spinta."
+    "La base è troppo estesa lateralmente, quindi diventa difficile spingere verso l’alto.",
+    "La base è più estesa avanti e indietro, quindi la banda perde tensione sopra la testa.",
+    "La base è più stabile, quindi la banda non sollecita a sufficienza gli addominali."
    ],
    "answer": 0,
    "why": "Con entrambi i piedi sulla stessa linea hai meno margine per compensare la trazione all’indietro rispetto a quando un piede è più avanti."
@@ -513,10 +513,10 @@
    "line": 3,
    "question": "Quale possibile rischio è al centro del dibattito su crunch e sit-up?",
    "options": [
-    "Che l’attivazione dei flessori dell’anca impedisca agli addominali di lavorare.",
+    "Che la tensione dei flessori dell’anca possa annullare il lavoro degli addominali.",
     "Che la flessione ripetuta della colonna possa contribuire a problemi dei dischi.",
-    "Che la tenuta isometrica esponga i dischi a un arco lombare prolungato.",
-    "Che la posizione delle mani trasformi la flessione in una rotazione della colonna."
+    "Che la contrazione isometrica possa mantenere a lungo la zona lombare troppo inarcata.",
+    "Che la posizione delle mani possa far ruotare il tronco anziché fletterlo."
    ],
    "answer": 1,
    "why": "Il dubbio riguarda l’effetto della flessione ripetuta sui dischi vertebrali, non il fatto che gli esercizi riescano ad attivare gli addominali."
@@ -526,10 +526,10 @@
    "line": 5,
    "question": "Come differiscono le due posizioni sul rischio di crunch e sit-up?",
    "options": [
-    "Una ritiene rischioso solo il crunch; l’altra soltanto il sit-up.",
-    "Una si basa sulla posizione delle mani; l’altra soltanto sul blocco dei piedi.",
+    "Una ritiene pericoloso solo il movimento parziale; l’altra ritiene pericolosa solo la salita completa.",
+    "Una attribuisce il rischio alla posizione delle mani; l’altra lo attribuisce soltanto ai piedi bloccati.",
     "Una teme la flessione ripetuta; l’altra ritiene il rischio limitato con controllo e moderazione.",
-    "Entrambe considerano la flessione dannosa indipendentemente dalla tecnica e dalla quantità."
+    "Una teme la flessione lenta; l’altra considera rischiosa soltanto quella eseguita rapidamente."
    ],
    "answer": 2,
    "why": "Le due posizioni danno un peso diverso alla ripetizione della flessione e a quanto una pratica moderata e controllata possa limitarne il rischio."
@@ -539,9 +539,9 @@
    "line": 7,
    "question": "Come decidi se inserire crunch e sit-up nel programma di un atleta?",
    "options": [
-    "Li inserisci per tutti, perché allenare gli addominali richiede flessione completa.",
-    "Li escludi per tutti, anche se l’atleta li esegue con controllo.",
-    "Li scegli solo se l’atleta riesce a flettere il tronco il più possibile.",
+    "Consideri la flessione indispensabile, proponendo entrambi gli esercizi a tutti.",
+    "Consideri la flessione sempre dannosa, escludendo entrambi gli esercizi a priori.",
+    "Consideri soltanto l’ampiezza del movimento, scegliendo chi riesce a flettersi al massimo.",
     "Consideri le preferenze dell’atleta e dell’allenatore, evitando una flessione eccessiva."
    ],
    "answer": 3,
@@ -552,10 +552,10 @@
    "line": 9,
    "question": "Che cosa puoi concludere sul rischio di crunch e sit-up eseguiti con buona tecnica?",
    "options": [
-    "La buona tecnica elimina ogni rischio anche con flessione eccessiva.",
+    "Tecnica e controllo possono eliminare i rischi, anche quando la flessione è eccessiva.",
     "Tecnica e controllo possono limitare i rischi, senza garantire che siano assenti.",
-    "Il rischio resta identico anche se migliori il controllo e moderi le ripetizioni.",
-    "La tecnica cambia soltanto la fatica muscolare, non i possibili fastidi."
+    "Tecnica e controllo possono ridurre la fatica, ma lasciano invariati tutti i rischi.",
+    "Tecnica e controllo possono limitare i rischi soltanto aumentando la flessione."
    ],
    "answer": 1,
    "why": "Eseguire il movimento con controllo riduce gli errori che possono causare fastidio, ma non significa che la flessione sia priva di rischi in ogni situazione."
@@ -566,9 +566,9 @@
    "question": "Come posizioni le mani per rendere il crunch più facile rispetto alle mani alle tempie?",
    "options": [
     "Con le braccia tese dietro la testa.",
-    "Con le mani dietro la testa e i gomiti aperti.",
+    "Con le mani appoggiate alla nuca.",
     "Con le mani appoggiate sul petto.",
-    "Con le braccia tese in linea con le orecchie."
+    "Con le mani sulla sommità del capo."
    ],
    "answer": 2,
    "why": "Sul petto il peso delle braccia è più vicino al punto attorno a cui ruota il busto, quindi gli addominali devono produrre meno forza."
@@ -580,8 +580,8 @@
    "options": [
     "Il peso delle braccia è più lontano dal punto di rotazione.",
     "Il peso delle braccia è più vicino al punto di rotazione.",
-    "Le braccia diventano più pesanti quando vengono distese.",
-    "La posizione delle braccia accorcia la leva e aumenta la resistenza."
+    "Il peso delle braccia aumenta mentre il punto di rotazione resta fisso.",
+    "Il peso delle braccia sposta il punto di rotazione verso il bacino."
    ],
    "answer": 0,
    "why": "Il peso delle braccia resta lo stesso, ma allontanarlo dal fulcro aumenta lo sforzo necessario per sollevare il busto."
@@ -591,8 +591,8 @@
    "line": 9,
    "question": "Come ordini le posizioni delle braccia dal crunch più facile al più difficile?",
    "options": [
-    "Vicino alla testa, sul petto o ai fianchi, tese dietro la testa.",
-    "Tese dietro la testa, sul petto o ai fianchi, vicino alla testa.",
+    "Sulle tempie, sul petto o ai fianchi, tese dietro la testa.",
+    "Sulle tempie, tese dietro la testa, sul petto o ai fianchi.",
     "Sul petto o ai fianchi, tese dietro la testa, vicino alla testa.",
     "Sul petto o ai fianchi, vicino alla testa, tese dietro la testa."
    ],
@@ -605,9 +605,9 @@
    "question": "Come modifichi il crunch se vuoi mantenere il lavoro addominale con una flessione minima?",
    "options": [
     "Sollevo le spalle di uno o due centimetri e mantengo la posizione.",
-    "Completo tutta la salita e mantengo la posizione più alta.",
-    "Sollevo le spalle di poco e ripeto il gesto rapidamente senza soste.",
-    "Completo tutta la salita con le mani sul petto e scendo lentamente."
+    "Sollevo le spalle fino alla massima altezza e mantengo la posizione.",
+    "Sollevo le spalle fino a metà salita e mantengo la posizione.",
+    "Sollevo le spalle fino a completare la salita e poi scendo lentamente."
    ],
    "answer": 0,
    "why": "Una piccola salita basta per creare tensione. Mantenere quella posizione allena gli addominali senza ripetere l’intera flessione del crunch."
@@ -617,10 +617,10 @@
    "line": 3,
    "question": "Perché la tenuta con le spalle appena sollevate è un crunch isometrico?",
    "options": [
-    "Gli addominali si accorciano continuamente mentre le spalle salgono.",
+    "Gli addominali producono tensione accorciandosi per tutta la tenuta.",
     "Gli addominali producono tensione senza cambiare lunghezza durante la tenuta.",
-    "Gli addominali si allungano lentamente durante tutta la discesa.",
-    "Gli addominali si rilassano perché le spalle non salgono più."
+    "Gli addominali producono tensione allungandosi per tutta la tenuta.",
+    "Gli addominali mantengono la stessa lunghezza ma perdono tutta la tensione."
    ],
    "answer": 1,
    "why": "Una volta sollevate appena le spalle, il busto resta fermo: gli addominali continuano a sostenere la posizione anche senza movimento."
@@ -631,9 +631,9 @@
    "question": "Perché il crunch isometrico può allenare gli addominali anche con pochissimo movimento?",
    "options": [
     "La tenuta richiede tensione addominale senza una grande flessione della colonna.",
-    "La tenuta trasferisce lo sforzo ai flessori dell’anca, risparmiando gli addominali.",
-    "Il poco movimento permette di sfruttare meglio lo slancio per creare tensione.",
-    "La posizione ferma produce lo stesso arco di flessione del crunch completo."
+    "La tenuta trasferisce lo sforzo ai flessori dell’anca invece che alla parete addominale.",
+    "La tenuta sfrutta lo slancio iniziale per sostenere lo sforzo addominale.",
+    "La tenuta porta la colonna alla stessa flessione raggiunta nella salita completa."
    ],
    "answer": 0,
    "why": "Gli addominali non devono per forza muovere il busto lungo tutto l’arco: lavorano anche per impedire che le spalle tornino a terra."
@@ -643,10 +643,10 @@
    "line": 7,
    "question": "A chi puoi proporre il crunch isometrico al posto del crunch classico?",
    "options": [
-    "A chi vuole sfruttare più slancio durante la salita.",
-    "A chi vuole aumentare l’ampiezza della flessione in ogni ripetizione.",
+    "A chi vuole allenare una salita più rapida sfruttando lo slancio del busto.",
+    "A chi vuole aumentare l’ampiezza della flessione a ogni ripetizione.",
     "A chi trova scomodo il crunch classico o vuole variare l’allenamento del core.",
-    "A chi vuole spostare il lavoro dagli addominali ai flessori dell’anca."
+    "A chi vuole spostare lo sforzo dagli addominali ai flessori dell’anca."
    ],
    "answer": 2,
    "why": "La tenuta offre uno stimolo addominale diverso con una flessione minima, utile per variare o per evitare l’ampiezza che dà fastidio."
@@ -656,9 +656,9 @@
    "line": 1,
    "question": "Come stabilizzi i piedi nella preparazione del sit-up descritto nella lezione?",
    "options": [
-    "Li sollevi prima di partire e tieni le gambe piegate a 90°.",
-    "Li lasci liberi e allarghi le ginocchia durante la salita.",
-    "Li appoggi sui manubri e li lasci scivolare durante la salita.",
+    "Li appoggi su una panca bassa e premi i talloni contro la seduta.",
+    "Li stringi tra due manubri, premendo lateralmente per tenerli fermi.",
+    "Li punti contro una parete, con le punte rivolte verso l’alto.",
     "Li blocchi sotto i manubri oppure chiedi a un compagno di tenerli."
    ],
    "answer": 3,
@@ -669,10 +669,10 @@
    "line": 3,
    "question": "Quale punto d’arrivo distingue la salita del sit-up descritto da quella di un crunch breve?",
    "options": [
-    "Stacchi appena le spalle da terra e mantieni la posizione.",
+    "Solleva il busto finché le scapole si staccano appena.",
     "Solleva il busto finché i gomiti si avvicinano alle ginocchia.",
-    "Alzi soltanto testa e spalle, lasciando il busto a terra.",
-    "Porti le ginocchia ai gomiti senza sollevare il busto."
+    "Solleva il busto finché forma circa 45° con il pavimento.",
+    "Solleva il busto finché il petto tocca le cosce."
    ],
    "answer": 1,
    "why": "Nel sit-up sale il busto verso le ginocchia; un crunch breve si ferma dopo un sollevamento molto più piccolo delle spalle."
@@ -682,10 +682,10 @@
    "line": 5,
    "question": "Perché il sit-up tradizionale non concentra tutto il lavoro sul core anteriore?",
    "options": [
-    "I posteriori della coscia sostituiscono gli addominali durante la salita.",
-    "Le mani dietro la testa impediscono al retto addominale di attivarsi.",
+    "Anche i muscoli lombari contribuiscono a flettere il busto in avanti.",
+    "Anche i flessori del collo producono gran parte della flessione del busto.",
     "Anche i flessori dell’anca contribuiscono molto a sollevare il busto.",
-    "Il busto resta quasi fermo, quindi gli addominali lavorano soltanto in tenuta."
+    "Anche i posteriori della coscia sono tra i principali motori della salita."
    ],
    "answer": 2,
    "why": "La salita non dipende solo dalla flessione del tronco: anche il movimento all’anca contribuisce, quindi gli addominali condividono il lavoro con altri muscoli."
@@ -695,10 +695,10 @@
    "line": 7,
    "question": "Come usi l’elastico nel sit-up per far lavorare i posteriori della coscia?",
    "options": [
-    "Lo fissi dietro il busto e lo impugni durante la salita.",
+    "Lo fissi a un supporto dietro la testa e lo impugni con entrambe le mani.",
     "Lo fissi a un supporto stabile e lo posizioni dietro le caviglie.",
-    "Lo avvolgi intorno alle ginocchia per spingerle verso l’esterno.",
-    "Lo tieni davanti al petto e lo tiri mentre sollevi il busto."
+    "Lo fissi a un supporto laterale e lo fai passare attorno alle ginocchia.",
+    "Lo fissi a un supporto davanti ai piedi e lo fai passare sopra le punte."
    ],
    "answer": 1,
    "why": "La resistenza dietro le caviglie dà ai posteriori della coscia qualcosa contro cui contrarsi, con l’obiettivo di limitare il contributo dei flessori dell’anca."
@@ -708,9 +708,9 @@
    "line": 9,
    "question": "Perché, secondo la lezione, attivare i posteriori della coscia può cambiare il lavoro nel sit-up?",
    "options": [
-    "L’elastico spinge il busto verso l’alto e riduce lo sforzo muscolare.",
-    "I posteriori della coscia sostituiscono gli addominali nella flessione della colonna.",
-    "I posteriori della coscia fanno intervenire di più i flessori dell’anca.",
+    "La contrazione dei posteriori può ridurre lo sforzo degli addominali dando una spinta al busto.",
+    "La contrazione dei posteriori può sostituire quella del retto addominale nella flessione del busto.",
+    "La contrazione dei posteriori può aumentare il contributo dei flessori dell’anca durante la salita.",
     "La contrazione dei posteriori può ridurre il contributo dei flessori dell’anca per inibizione reciproca."
    ],
    "answer": 3,
@@ -722,9 +722,9 @@
    "question": "Quale combinazione ti aiuta a controllare l’arco nella vertical press con elastico in piedi?",
    "options": [
     "Torace fermo e piedi leggermente sfalsati.",
-    "Torace fermo e piedi paralleli.",
-    "Costole aperte e piedi leggermente sfalsati.",
-    "Busto inclinato all’indietro e piedi paralleli."
+    "Torace fermo e piedi uno accanto all’altro.",
+    "Torace sollevato e piedi leggermente sfalsati.",
+    "Torace inclinato all’indietro e piedi affiancati."
    ],
    "answer": 0,
    "why": "I piedi sfalsati aiutano a resistere alla trazione senza perdere l’equilibrio; il torace fermo evita che la spinta diventi un inarcamento."
@@ -734,10 +734,10 @@
    "line": 6,
    "question": "Come esegui e adatti il crunch senza usare lo slancio?",
    "options": [
-    "Sali rapidamente e aumenti la difficoltà spostando le braccia verso il petto.",
-    "Mantieni sempre le braccia dietro la testa e cambi soltanto il numero di ripetizioni.",
+    "Muoviti rapidamente, porta le braccia avanti per rendere la salita più difficile.",
+    "Muoviti lentamente, mantieni le braccia dietro la testa e varia soltanto le ripetizioni.",
     "Muoviti lentamente, regola la leva delle braccia oppure usa una tenuta isometrica.",
-    "Blocca i piedi e porta sempre i gomiti alle ginocchia."
+    "Muoviti lentamente, fissa i piedi e porta sempre i gomiti alle ginocchia."
    ],
    "answer": 2,
    "why": "Il ritmo lento evita di affidarti allo slancio. La posizione delle braccia cambia la resistenza, mentre la tenuta permette di lavorare con poca flessione."

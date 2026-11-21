@@ -37,85 +37,85 @@
  "who": [
   {
    "clues": [
-    "Mi trovo tra le ultime costole e il bacino.",
-    "Sono un muscolo profondo della parte bassa della schiena.",
-    "Sto ai lati della colonna lombare e aiuto a non cedere di lato."
+    "Mi trovi tra le ultime costole e il bacino.",
+    "Mi trovo in profondità nella parte bassa della schiena.",
+    "Sto a lato della colonna lombare e ti aiuto a non cedere di lato."
    ],
    "answer": "Quadrato dei lombi",
    "distractors": [
     "Retto dell’addome",
-    "Obliqui interni",
-    "Obliqui esterni"
+    "Trasverso dell’addome",
+    "Obliquo interno"
    ],
    "slide": 5
   },
   {
    "clues": [
-    "Anche con un carico bilanciato, ogni passo crea instabilità.",
-    "Mi esegui con il busto eretto, senza sbandare.",
-    "Cammini con due manubri, uno per mano."
+    "Con me, ogni passo mette alla prova il tuo equilibrio anche se il carico è uguale sui due lati.",
+    "Mi esegui con il busto eretto, senza sbandare di lato.",
+    "Con me cammini con un manubrio per mano, lungo i fianchi."
    ],
    "answer": "Farmer’s walk",
    "distractors": [
     "Suitcase carry",
     "Overhead carry",
-    "Single-arm shoulder press"
+    "Front rack carry"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Il lato opposto al carico lavora di più per tenerti allineato.",
+    "Con me, il lato opposto al carico lavora di più per tenerti in asse.",
     "Mi esegui camminando con un peso in una mano sola.",
-    "Il peso si porta al fianco, come una valigia."
+    "Con me porti il peso al fianco, come una valigia."
    ],
    "answer": "Suitcase carry",
    "distractors": [
     "Farmer’s walk",
     "Overhead carry",
-    "Single-arm shoulder press"
+    "Front rack carry"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Uso carichi più leggeri delle altre varianti di camminata.",
-    "Metto alla prova la stabilità delle spalle senza inarcare troppo la schiena.",
-    "Cammini con il peso sopra la testa, di solito un kettlebell."
+    "Con me usi un carico più leggero che nel farmer’s walk o nel suitcase carry.",
+    "Metto alla prova la stabilità delle spalle: mentre mi esegui, evita di inarcare troppo la schiena.",
+    "Con me cammini con il peso sopra la testa, di solito un kettlebell."
    ],
    "answer": "Overhead carry",
    "distractors": [
     "Farmer’s walk",
     "Suitcase carry",
-    "Single-arm shoulder press"
+    "Front rack carry"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Se il core cede, i fianchi scendono verso il pavimento.",
-    "Ti appoggi a terra con l’avambraccio sotto la spalla.",
-    "Di fianco, mantieni una linea retta dalla testa ai piedi."
+    "Con me, se il core cede, i fianchi scendono verso il pavimento.",
+    "Mi esegui a terra con l’avambraccio sotto la spalla.",
+    "Con me ti metti di fianco e mantieni una linea retta dalla testa ai piedi."
    ],
    "answer": "Side plank",
    "distractors": [
     "Side lying hold",
-    "Suitcase carry",
-    "Farmer’s walk"
+    "Plank frontale",
+    "Plank inverso"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "Allungare le braccia o aggiungere un peso mi rende più difficile.",
-    "Le gambe restano ferme grazie alle barre di sicurezza o a un compagno.",
-    "Sei di fianco su una panca e tieni in linea il busto che sporge."
+    "Mi rendi più impegnativo per il core se allunghi le braccia o aggiungi un peso.",
+    "Quando mi esegui, puoi usare le barre di sicurezza o chiedere a un compagno di tenerti ferme le gambe.",
+    "Mi esegui di fianco su una panca, tenendo in linea il busto che sporge oltre il bordo."
    ],
    "answer": "Side lying hold",
    "distractors": [
     "Side plank",
-    "Overhead carry",
-    "Stacco da terra"
+    "Plank frontale",
+    "Plank inverso"
    ],
    "slide": 9
   },
@@ -123,27 +123,27 @@
    "clues": [
     "Alleno il core indirettamente mentre lavori sulle spalle.",
     "Mi esegui in piedi su entrambi i lati, uno alla volta.",
-    "Spingi un peso sopra la testa con un braccio solo."
+    "Con me spingi un peso sopra la testa con un braccio solo."
    ],
    "answer": "Single-arm shoulder press",
    "distractors": [
     "Overhead carry",
-    "Suitcase carry",
-    "Farmer’s walk"
+    "Shoulder press a due braccia",
+    "Single-arm floor press"
    ],
    "slide": 10
   },
   {
    "clues": [
-    "L’obiettivo principale resta aumentare la forza, ma il core riceve uno stimolo in più.",
-    "Il lato più pesante tira verso il basso mentre sollevi il bilanciere da terra.",
-    "Nell’esempio metti 15 kg su un lato del bilanciere e 10 kg sull’altro."
+    "Mi usi soprattutto per aumentare la forza, ma metto alla prova anche il core.",
+    "Con me, il lato più pesante tira verso il basso mentre sollevi il bilanciere da terra.",
+    "Nel mio esempio, metti 15 kg su un lato del bilanciere e 10 kg sull’altro."
    ],
    "answer": "Stacco a carico sbilanciato",
    "distractors": [
-    "Suitcase carry",
-    "Single-arm shoulder press",
-    "Farmer’s walk"
+    "Stacco a carico simmetrico",
+    "Stacco con due manubri",
+    "Stacco con kettlebell"
    ],
    "slide": 11
   }

@@ -28,113 +28,113 @@
  "who": [
   {
    "clues": [
-    "È il punto da cui parte l’approccio dall’alto verso il basso.",
-    "Le anche scendono sotto il livello delle ginocchia.",
-    "Il bilanciere resta sopra la testa a braccia tese."
+    "Con me inizi la progressione dall’alto verso il basso.",
+    "Con me scendi finché le anche non vanno sotto il livello delle ginocchia.",
+    "Con me tieni il bilanciere sopra la testa a braccia tese."
    ],
    "answer": "Overhead squat",
    "distractors": [
-    "Posizione iniziale",
-    "Posizione di potenza",
-    "Drop under"
+    "Front squat",
+    "Back squat",
+    "Squat con pausa"
    ],
    "slide": 5
   },
   {
    "clues": [
-    "Aiuta a tirare con più potenza in entrambe le tirate.",
-    "È il modo di impugnare la sbarra preferito dai pesisti.",
-    "Il pollice sta sulla sbarra e le altre dita si chiudono sopra."
+    "Ti aiuto a tirare con più potenza in entrambe le tirate.",
+    "I pesisti mi preferiscono quando impugnano il bilanciere.",
+    "Con me appoggi il pollice sulla sbarra e ci chiudi sopra le altre dita."
    ],
    "answer": "Presa a gancio",
    "distractors": [
     "Presa ad artiglio",
-    "Overhead squat",
-    "Tripla estensione"
+    "Presa prona",
+    "Presa larga"
    ],
    "slide": 7
   },
   {
    "clues": [
-    "È utile a chi fatica a trovare la posizione di partenza da terra.",
-    "Dopo aver imparato la ricezione, si aggiungono le partenze in sospensione.",
-    "Si comincia dall’overhead squat, poi si passa all’hang dall’anca e infine dalle ginocchia."
+    "Ti aiuto se fai fatica a trovare la posizione di partenza da terra.",
+    "Con me impari prima la ricezione, poi aggiungi le partenze in sospensione.",
+    "Con me inizi dall’overhead squat, passi all’hang dall’anca e poi all’hang dalle ginocchia."
    ],
    "answer": "Top-down",
    "distractors": [
     "Bottom-up",
-    "One-pull",
-    "Pull under"
+    "Metodo globale",
+    "Metodo misto"
    ],
    "slide": 8
   },
   {
    "clues": [
-    "L’angolo della schiena resta costante mentre la sbarra sale.",
-    "Le spalle restano davanti al bilanciere e la schiena resta in tensione.",
-    "Porta il bilanciere da terra fino alla transizione."
+    "Con me mantieni costante l’angolo della schiena mentre il bilanciere sale.",
+    "Con me tieni le spalle davanti alla sbarra e la schiena in tensione.",
+    "Con me sollevi il bilanciere da terra fino alla transizione."
    ],
    "answer": "Prima tirata",
    "distractors": [
-    "Posizione iniziale",
     "Seconda tirata",
-    "Terza tirata"
+    "Terza tirata",
+    "Fase di transizione"
    ],
    "slide": 11
   },
   {
    "clues": [
-    "Sfrutta il ciclo allungamento-accorciamento.",
-    "Le ginocchia si piegano di nuovo mentre la sbarra arriva a sfiorare i fianchi.",
-    "Viene dopo la prima tirata e prepara la seconda."
+    "Con me sfrutti il ciclo allungamento-accorciamento.",
+    "Con me pieghi di nuovo le ginocchia mentre la sbarra arriva a sfiorare i fianchi.",
+    "Vengo dopo la prima tirata e preparo la seconda."
    ],
    "answer": "Transizione",
    "distractors": [
     "Prima tirata",
     "Seconda tirata",
-    "Incastro"
+    "Terza tirata"
    ],
    "slide": 14
   },
   {
    "clues": [
-    "Contribuisce a dare al bilanciere la massima velocità.",
-    "L’atleta sale sulle punte nel momento della spinta.",
-    "Caviglie, ginocchia e anche si distendono insieme."
+    "Ti aiuto a dare al bilanciere la massima velocità.",
+    "Con me sali sulle punte nel momento della spinta.",
+    "Con me estendi insieme caviglie, ginocchia e anche."
    ],
    "answer": "Tripla estensione",
    "distractors": [
-    "Doppia flessione del ginocchio",
+    "Doppia flessione",
     "Scrollata di spalle",
-    "Terza tirata"
+    "Flessione delle braccia"
    ],
    "slide": 16
   },
   {
    "clues": [
-    "L’atleta usa il bilanciere come punto su cui fare forza.",
-    "Le braccia si piegano dopo la spinta di gambe e anche.",
-    "Serve a tirarsi sotto la sbarra prima di riceverla."
+    "Con me usi il bilanciere come punto su cui fare forza.",
+    "Con me fletti le braccia dopo la spinta di gambe e anche.",
+    "Ti servo per tirarti sotto la sbarra prima di riceverla."
    ],
    "answer": "Terza tirata",
    "distractors": [
     "Prima tirata",
     "Seconda tirata",
-    "Catch"
+    "Fase di ricezione"
    ],
    "slide": 19
   },
   {
    "clues": [
-    "Può dipendere da una tripla estensione incompleta.",
-    "La sbarra non sale abbastanza prima della ricezione.",
-    "L’atleta prova a incastrare il bilanciere troppo presto."
+    "Posso comparire se non completi la tripla estensione.",
+    "Con me la sbarra non sale abbastanza prima della ricezione.",
+    "Con me provi a incastrare il bilanciere troppo presto."
    ],
    "answer": "Under-pulling",
    "distractors": [
-    "Poca stabilità sopra la testa",
+    "Incastro instabile",
     "Salto in avanti",
-    "One-pull"
+    "Distacco brusco"
    ],
    "slide": 20
   }

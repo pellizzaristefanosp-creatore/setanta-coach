@@ -38,97 +38,97 @@
   {
    "clues": [
     "Mantengo la stessa funzione della versione classica.",
-    "Sono un’alternativa se l’appoggio sui gomiti dà fastidio.",
-    "Ti fermi in cima a una flessione, a braccia tese."
+    "Mi puoi scegliere se l’appoggio sui gomiti ti dà fastidio.",
+    "Con me mantieni la posizione di partenza di una flessione, con le braccia tese."
    ],
    "answer": "Plank alto",
    "distractors": [
     "Plank classico",
-    "Plank sulle ginocchia",
-    "Vertical press con elastico"
+    "Plank laterale",
+    "Plank dinamico"
    ],
    "slide": 6
   },
   {
    "clues": [
-    "Rendo più facile resistere alla gravità.",
+    "Ti aiuto a resistere più facilmente alla gravità.",
     "Accorcio la leva senza cambiare la posizione neutra della colonna.",
-    "Sposti l’appoggio dai piedi a un punto più vicino alle anche."
+    "Con me sposti l’appoggio dai piedi a un punto più vicino alle anche."
    ],
    "answer": "Plank sulle ginocchia",
    "distractors": [
-    "Plank alto",
-    "Plank classico",
+    "Plank sugli avambracci",
+    "Plank a braccia tese",
     "Plank con un piede sollevato"
    ],
    "slide": 8
   },
   {
    "clues": [
-    "Il peso degli arti tende a inarcare la colonna.",
-    "Parti da sdraiato, con le gambe a 90 gradi.",
-    "Allunghi un braccio e la gamba opposta senza staccare la zona lombare da terra."
+    "Con me il peso degli arti tende a inarcare la colonna.",
+    "Per eseguirmi, parti con la schiena a terra e le gambe a 90 gradi.",
+    "Con me allunghi un braccio e la gamba opposta senza staccare la zona lombare da terra."
    ],
    "answer": "Dead bug",
    "distractors": [
-    "Plank classico",
-    "Crunch isometrico",
+    "Plank",
+    "Crunch",
     "Sit-up"
    ],
    "slide": 9
   },
   {
    "clues": [
-    "La resistenza aumenta soprattutto nella posizione allungata.",
-    "Tieni un sovraccarico con entrambe le mani.",
-    "Porti il peso verso il pavimento dietro la testa mentre allunghi una gamba."
+    "Con me la resistenza aumenta soprattutto quando gli arti sono più lontani dal tronco.",
+    "Per eseguirmi, tieni un sovraccarico con entrambe le mani.",
+    "Con me porti il peso verso il pavimento dietro la testa mentre allunghi una gamba."
    ],
    "answer": "Dead bug con kettlebell",
    "distractors": [
     "Dead bug con elastico",
-    "Vertical press con elastico",
-    "Crunch isometrico"
+    "Dead bug con sole gambe",
+    "Plank con sovraccarico"
    ],
    "slide": 11
   },
   {
    "clues": [
-    "In piedi, una leggera sfalsatura dei piedi aiuta l’equilibrio.",
-    "Puoi eseguirmi anche in affondo o in ginocchio.",
-    "Spingi una banda sopra la testa senza aprire le costole."
+    "Se mi esegui in piedi, tenere un piede poco più avanti dell’altro ti aiuta a mantenere l’equilibrio.",
+    "Mi puoi eseguire anche in affondo o in ginocchio.",
+    "Con me spingi una banda sopra la testa senza aprire le costole."
    ],
    "answer": "Vertical press con elastico",
    "distractors": [
+    "Vertical press con manubri",
     "Dead bug con elastico",
-    "Dead bug con kettlebell",
-    "Plank alto"
+    "Plank con elastico"
    ],
    "slide": 13
   },
   {
    "clues": [
-    "Mi puoi scegliere se la versione classica dà fastidio.",
-    "Il muscolo lavora senza cambiare lunghezza durante la tenuta.",
-    "Sollevi le spalle da terra di uno o due centimetri e resti fermo."
+    "Mi puoi scegliere se la versione classica ti dà fastidio.",
+    "Durante la mia tenuta, il muscolo lavora senza cambiare lunghezza.",
+    "Con me sollevi le spalle da terra di uno o due centimetri e mantieni la posizione."
    ],
    "answer": "Crunch isometrico",
    "distractors": [
     "Crunch classico",
-    "Plank classico",
-    "Sit-up"
+    "Crunch con elastico",
+    "Plank classico"
    ],
    "slide": 16
   },
   {
    "clues": [
     "Oltre agli addominali, coinvolgo molto i flessori dell’anca.",
-    "Puoi farti tenere i piedi da un compagno.",
-    "Parti sdraiato e cerchi di toccare le ginocchia con i gomiti."
+    "Per eseguirmi, puoi farti tenere i piedi da un compagno.",
+    "Con me parti con la schiena a terra e cerchi di toccare le ginocchia con i gomiti."
    ],
    "answer": "Sit-up",
    "distractors": [
-    "Crunch classico",
-    "Crunch isometrico",
+    "Crunch",
+    "Plank",
     "Dead bug"
    ],
    "slide": 17

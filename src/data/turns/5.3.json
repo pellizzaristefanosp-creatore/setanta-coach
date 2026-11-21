@@ -6,10 +6,10 @@
    "line": 1,
    "question": "Perché lo stesso allenamento di forza diventa più tollerabile dopo diverse sedute?",
    "options": [
-    "La fatica scompare tra le sedute, ma la risposta allo sforzo resta uguale.",
+    "Il corpo recupera tra gli sforzi, ma continua a reagire al carico come all’inizio.",
     "Il corpo si adatta e lo stesso lavoro lo mette meno in difficoltà.",
-    "Il corpo cambia risposta solo quando aumentano i chili sul bilanciere.",
-    "Il corpo si abitua al gesto, ma lo stress fisico aumenta a ogni seduta."
+    "Il corpo modifica la sua risposta soltanto se si aumenta il carico.",
+    "Il corpo impara il gesto, ma a ogni esposizione subisce uno stress maggiore."
    ],
    "answer": 1,
    "why": "Lo sforzo iniziale stimola adattamenti che permettono al corpo di affrontare meglio lo stesso carico di lavoro."
@@ -19,9 +19,9 @@
    "line": 5,
    "question": "Che cosa accomuna i tre meccanismi proposti per spiegare l’ipertrofia dopo l’allenamento?",
    "options": [
-    "Fanno crescere il muscolo soprattutto aumentando l’acqua al suo interno.",
-    "Migliorano la capacità di sopportare il carico senza modificare la sintesi proteica.",
-    "Portano alla crescita attraverso gli stessi microtraumi delle fibre.",
+    "Possono tutti aumentare il volume delle fibre senza produrre nuove proteine.",
+    "Possono tutti migliorare la tolleranza al carico senza agire sulla sintesi proteica.",
+    "Possono tutti stimolare la crescita soltanto se provocano microlesioni.",
     "Possono tutti stimolare la costruzione di nuove proteine muscolari."
    ],
    "answer": 3,
@@ -34,8 +34,8 @@
    "options": [
     "La tensione meccanica e lo stress metabolico.",
     "La tensione meccanica e il danno muscolare.",
-    "Lo stress metabolico e la tensione meccanica.",
-    "Il danno muscolare e lo stress metabolico."
+    "La fatica periferica e lo stress metabolico.",
+    "La fatica periferica e il danno muscolare."
    ],
    "answer": 0,
    "why": "Il carico mette in tensione il muscolo; il bruciore durante lo sforzo è invece associato all’accumulo di metaboliti."
@@ -45,8 +45,8 @@
    "line": 9,
    "question": "Oltre a tensione e stress metabolico, come si classificano le piccole lesioni delle fibre dopo l’allenamento?",
    "options": [
-    "Come affaticamento delle unità motorie ad alta soglia.",
-    "Come accumulo di metaboliti nelle fibre attive.",
+    "Come affaticamento delle unità motorie attive.",
+    "Come accumulo di metaboliti nel muscolo.",
     "Come danno muscolare indotto dall’esercizio.",
     "Come rigonfiamento delle cellule muscolari."
    ],
@@ -58,10 +58,10 @@
    "line": 1,
    "question": "Perché la tensione prodotta sotto carico è importante per l’ipertrofia?",
    "options": [
-    "Conta perché segnala che il muscolo ha già accumulato abbastanza metaboliti.",
+    "Il muscolo scheletrico usa la sollecitazione solo per accumulare metaboliti.",
     "Il muscolo scheletrico risponde alle variazioni del carico meccanico con adattamenti.",
-    "Conta soprattutto perché misura quanto danno hanno già subito le fibre.",
-    "Serve a spostare il peso, ma non influenza direttamente la risposta di crescita."
+    "Il muscolo scheletrico si adatta alla sollecitazione solo se compaiono microlesioni.",
+    "Il muscolo scheletrico migliora il reclutamento senza attivare segnali di crescita."
    ],
    "answer": 1,
    "why": "Il muscolo scheletrico è sensibile alle forze che subisce: un cambiamento del carico può quindi innescare una risposta di crescita."
@@ -71,9 +71,9 @@
    "line": 3,
    "question": "Secondo la lezione, come reagisce il muscolo alla sollecitazione prodotta dalla tensione meccanica?",
    "options": [
-    "Aumenta il reclutamento, ma non modifica la produzione di proteine.",
-    "Aspetta che compaia indolenzimento prima di attivare la risposta di crescita.",
-    "Riduce la sintesi proteica per tollerare meglio il carico successivo.",
+    "Attiva un reclutamento più ampio senza modificare la sintesi proteica.",
+    "Attiva segnali che rallentano il ricambio delle proteine muscolari.",
+    "Attiva segnali di crescita soltanto dopo la comparsa dell’indolenzimento.",
     "Attiva segnali che aumentano la sintesi delle proteine muscolari."
    ],
    "answer": 3,
@@ -85,9 +85,9 @@
    "question": "Un muscolo può essere in tensione anche durante uno stretching senza sollevare pesi?",
    "options": [
     "Sì, perché anche l’allungamento può mettere il muscolo in tensione.",
-    "No, perché serve una contrazione che sposti un carico esterno.",
-    "Sì, ma solo se il muscolo si accorcia mentre viene allungato.",
-    "No, perché senza accumulo di metaboliti il muscolo non è in tensione."
+    "Sì, perché la tensione si genera soltanto se la fibra si accorcia.",
+    "Sì, perché sono i metaboliti accumulati a generare la tensione.",
+    "Sì, perché le microlesioni sono necessarie per creare tensione."
    ],
    "answer": 0,
    "why": "La tensione non richiede per forza di sollevare un peso: può essere prodotta anche dalla forza che allunga il muscolo."
@@ -97,10 +97,10 @@
    "line": 9,
    "question": "Secondo la lezione, quale adattamento della fibra è associato soprattutto agli esercizi dinamici con i pesi?",
    "options": [
-    "Aggiunge soprattutto sarcomeri in lunghezza e si ispessisce poco.",
-    "Si allunga soprattutto perché l’eccentrica prevale sugli altri stimoli.",
+    "Si allunga soprattutto aggiungendo sarcomeri in serie.",
+    "Si ispessisce soprattutto perché il rigonfiamento dopo lo sforzo diventa stabile.",
     "Si ispessisce soprattutto attraverso l’ipertrofia in parallelo.",
-    "Si ingrossa soprattutto per un rigonfiamento che resta dopo la serie."
+    "Si ispessisce soprattutto aggiungendo sarcomeri in serie."
    ],
    "answer": 2,
    "why": "Nella distinzione proposta, i pesi favoriscono soprattutto l’aumento dello spessore della fibra, mentre lo stretching è associato più all’aumento in lunghezza."
@@ -110,10 +110,10 @@
    "line": 5,
    "question": "Perché il muscolo bersaglio può raggiungere il picco di tensione già intorno al 90% dell’1RM?",
    "options": [
-    "Perché al massimale è soprattutto la durata dello sforzo a ridurre il picco.",
+    "Perché al massimale la minore durata dello sforzo riduce il valore massimo della tensione.",
     "Perché al massimale cambiano tecnica e contributo di altri muscoli e strutture passive.",
-    "Perché al 90% il bruciore indica quanta tensione raggiunge il muscolo.",
-    "Perché all’1RM il carico aggiuntivo ricade interamente sul muscolo bersaglio."
+    "Perché al massimale il minore accumulo di metaboliti impedisce di sviluppare più tensione.",
+    "Perché al massimale le strutture passive contribuiscono meno che con un carico submassimale."
    ],
    "answer": 1,
    "why": "Più chili non significano necessariamente più tensione nel muscolo bersaglio: al massimale altri muscoli e strutture passive possono contribuire di più."
@@ -123,10 +123,10 @@
    "line": 11,
    "question": "A parità di carico e ripetizioni, come puoi prolungare il tempo sotto tensione?",
    "options": [
-    "Fare le ripetizioni più in fretta per accumulare fatica prima.",
-    "Allungare le pause tra le serie senza cambiare la velocità.",
+    "Eseguire le ripetizioni più rapidamente, senza cambiare la durata delle pause.",
+    "Eseguire le ripetizioni alla stessa velocità, allungando il recupero tra le serie.",
     "Eseguire le ripetizioni più lentamente mantenendo il muscolo sotto carico.",
-    "Passare più tempo tra le ripetizioni con il muscolo rilassato."
+    "Eseguire le ripetizioni alla stessa velocità, rilassando il muscolo tra l’una e l’altra."
    ],
    "answer": 2,
    "why": "Se la ripetizione dura di più e il muscolo continua a lavorare, aumenta il tempo effettivo in cui rimane in tensione."
@@ -137,9 +137,9 @@
    "question": "Quale passaggio collega la tensione meccanica alla costruzione di nuove proteine muscolari?",
    "options": [
     "La fibra trasforma lo stimolo meccanico in segnali molecolari.",
-    "La tensione aggiunge direttamente proteine alla fibra mentre il muscolo lavora.",
-    "Il sistema nervoso aumenta la sintesi solo reclutando più fibre.",
-    "Il muscolo attiva la sintesi solo dopo la comparsa dei DOMS."
+    "La fibra usa i metaboliti accumulati come unico segnale di crescita.",
+    "La fibra avvia la risposta anabolica solo quando compare il dolore.",
+    "La fibra usa il rigonfiamento al posto dei segnali intracellulari."
    ],
    "answer": 0,
    "why": "La forza non costruisce direttamente proteine: la cellula la rileva e attiva segnali interni che stimolano la sintesi proteica."
@@ -149,9 +149,9 @@
    "line": 7,
    "question": "Perché considerare la tensione uno stimolo principale non significa attribuirle tutta la crescita muscolare?",
    "options": [
-    "Perché la tensione favorisce la forza ma non stimola direttamente la sintesi proteica.",
-    "Perché la tensione è utile soltanto se provoca danni evidenti alle fibre.",
-    "Perché lo stress metabolico spiega sempre più ipertrofia della tensione.",
+    "Perché la tensione aumenta la capacità di produrre forza senza aumentare la sintesi proteica.",
+    "Perché la tensione ha un effetto anabolico solo quando provoca danni evidenti alle fibre.",
+    "Perché la tensione è sempre meno importante dello stress metabolico per l’ipertrofia.",
     "Perché la tensione è uno stimolo potente, ma altri meccanismi possono contribuire."
    ],
    "answer": 3,
@@ -162,10 +162,10 @@
    "line": 9,
    "question": "Perché allenarsi solo con singole e doppie pesanti non garantisce la massima ipertrofia?",
    "options": [
-    "Perché la tensione dei carichi alti non può stimolare la sintesi proteica.",
+    "Perché molta tensione per ripetizione stimola la forza ma non attiva la sintesi proteica.",
     "Perché molta tensione per ripetizione non garantisce il miglior stimolo complessivo alla crescita.",
-    "Perché i carichi pesanti reclutano meno fibre delle serie con carichi moderati.",
-    "Perché si può stimolare la crescita solo prolungando ogni singola ripetizione."
+    "Perché molta tensione per ripetizione riduce il reclutamento delle fibre a soglia alta.",
+    "Perché molta tensione per ripetizione stimola la crescita soltanto se deriva da uno stiramento passivo."
    ],
    "answer": 1,
    "why": "Un carico molto alto offre molta tensione, ma questo non basta per stabilire che poche ripetizioni siano il modo migliore per aumentare la massa."
@@ -175,10 +175,10 @@
    "line": 1,
    "question": "Che cosa mostrano gli studi animali sullo stretching prolungato, separato dal lavoro con i pesi?",
    "options": [
-    "L’allungamento aumenta soltanto la lunghezza del muscolo, non la sua sezione trasversa.",
-    "La crescita osservata dipende dalla fase eccentrica degli esercizi con i pesi.",
+    "Un allungamento mantenuto per settimane modifica la lunghezza del muscolo ma non il suo spessore.",
+    "Un allungamento mantenuto per settimane aumenta la rigidità del muscolo senza cambiarne le dimensioni.",
     "Un allungamento mantenuto per settimane può aumentare molto la sezione trasversa del muscolo.",
-    "Il muscolo appare più grande solo per un rigonfiamento transitorio."
+    "Un allungamento mantenuto per settimane fa apparire il muscolo più grande solo per un gonfiore transitorio."
    ],
    "answer": 2,
    "why": "Gli studi descritti riportano un aumento della sezione del muscolo dopo settimane di allungamento, non soltanto un cambiamento immediato della sua forma."
@@ -201,9 +201,9 @@
    "line": 5,
    "question": "Come puoi aggiungere lo stretching a una serie con i pesi senza sostituire il lavoro di forza?",
    "options": [
-    "Allunga il muscolo prima del riscaldamento e riduci il numero di serie.",
-    "Allunga un muscolo diverso durante la pausa per evitare di caricare quello allenato.",
-    "Sostituisci l’ultima parte di ogni ripetizione con uno stretching passivo.",
+    "Allunga il muscolo antagonista durante il recupero anziché quello appena allenato.",
+    "Allunga il muscolo allenato soltanto nei giorni in cui non esegui esercizi contro resistenza.",
+    "Allunga il muscolo allenato nel riscaldamento, poi lascia tutte le pause prive di allungamento.",
     "Allunga il muscolo allenato durante il recupero o subito dopo l’ultima ripetizione."
    ],
    "answer": 3,
@@ -214,10 +214,10 @@
    "line": 9,
    "question": "Perché lo stretching tra le serie potrebbe aiutare l’ipertrofia senza sostituire i pesi?",
    "options": [
-    "Aiuta perché replica da solo lo stesso stimolo delle contrazioni sotto carico.",
+    "Può riprodurre da solo uno stimolo equivalente a quello delle contrazioni attive.",
     "Può aggiungere tempo sotto tensione al lavoro già svolto con i pesi.",
-    "Aiuta perché prolunga la pausa in cui il muscolo è senza tensione.",
-    "Può sostituire le ripetizioni perché aumenta sicuramente il picco di tensione."
+    "Può ridurre la tensione residua del muscolo mantenendo invariato il tempo sotto carico.",
+    "Può compensare un carico minore aumentando il picco di forza attiva."
    ],
    "answer": 1,
    "why": "L’allungamento aggiunge una fase in cui il muscolo rimane in tensione. Il possibile beneficio deriva dall’abbinamento, non dalla sostituzione del lavoro di forza."
@@ -227,13 +227,13 @@
    "line": 1,
    "question": "Quale gruppo comprende i metaboliti associati allo stress metabolico durante una serie faticosa?",
    "options": [
-    "Actina, miosina e proteine delle fibre.",
-    "Acqua, ossigeno e proteine muscolari.",
+    "Calcio ionico, glicogeno e amminoacidi ramificati.",
+    "Ossigeno disciolto, glucosio e acidi grassi.",
     "Fosfato inorganico, lattato e ioni idrogeno.",
-    "Lattato, acqua e proteine muscolari."
+    "Sodio extracellulare, potassio e ioni cloruro."
    ],
    "answer": 2,
-   "why": "Questi tre esempi sono associati alle reazioni energetiche durante lo sforzo; actina e miosina sono invece proteine coinvolte nella contrazione."
+   "why": "Fosfato inorganico, lattato e ioni idrogeno sono i metaboliti che si accumulano durante una serie faticosa: è lo stress metabolico."
   },
   {
    "part": 5,
@@ -241,9 +241,9 @@
    "question": "Quando è più probabile che si accumulino metaboliti nel muscolo durante il lavoro con i pesi?",
    "options": [
     "Durante una serie anaerobica abbastanza impegnativa da produrre fatica.",
-    "Soprattutto durante il recupero, quando il muscolo non si contrae più.",
-    "Solo nelle singole massimali, perché stimolano il picco di tensione.",
-    "Soprattutto durante uno stretching passivo che non produce fatica."
+    "Durante una pausa prolungata, quando le fibre hanno già recuperato.",
+    "Durante una singola ripetizione massimale, a prescindere dalla fatica.",
+    "Durante una fase di allungamento passivo priva di contrazioni attive."
    ],
    "answer": 0,
    "why": "Nelle serie anaerobiche faticose, le reazioni che forniscono energia al muscolo favoriscono l’accumulo di metaboliti."
@@ -253,9 +253,9 @@
    "line": 7,
    "question": "Perché la compressione dei vasi durante una contrazione aumenta lo stress metabolico?",
    "options": [
-    "Perché il sangue più lento trasporta più metaboliti fuori dal muscolo.",
-    "Perché il minor flusso impedisce che si accumulino prodotti dello sforzo.",
-    "Perché la pressione sui vasi aumenta direttamente il danno alle fibre.",
+    "Perché il minor flusso accelera la rimozione dei metaboliti dal muscolo.",
+    "Perché il minor flusso blocca la produzione dei metaboliti senza alterarne la rimozione.",
+    "Perché il minor flusso favorisce la produzione dei metaboliti senza rallentarne la rimozione.",
     "Perché il minor flusso ostacola la rimozione dei metaboliti dal muscolo."
    ],
    "answer": 3,
@@ -266,10 +266,10 @@
    "line": 11,
    "question": "Quali due risposte collegano lo stress metabolico alla crescita muscolare secondo la lezione?",
    "options": [
-    "Aumento del picco di tensione e riduzione del reclutamento delle fibre.",
+    "Maggiore picco di tensione e minore reclutamento di fibre.",
     "Maggiore reclutamento di fibre e maggiore rigonfiamento delle cellule.",
-    "Maggiore danno alle fibre e minore idratazione delle cellule.",
-    "Maggiore flusso sanguigno durante la contrazione e minore fatica periferica."
+    "Maggiore danno alle fibre e minore contenuto di acqua nelle cellule.",
+    "Maggiore afflusso di sangue e minore accumulo di metaboliti."
    ],
    "answer": 1,
    "why": "Con la fatica possono intervenire altre fibre per mantenere lo sforzo; il rigonfiamento cellulare è invece proposto come possibile stimolo alla sintesi proteica."
@@ -293,9 +293,9 @@
    "question": "Con un carico moderato e poca fatica, quali unità motorie potrebbero non essere reclutate?",
    "options": [
     "Quelle a soglia molto alta, associate alle fibre di tipo II.",
-    "Quelle a soglia bassa, perché il carico moderato le esclude.",
-    "Quelle a soglia media, perché il corpo passa subito alle più forti.",
-    "Quelle a soglia bassa, perché intervengono solo vicino al cedimento."
+    "Quelle a soglia bassa, riservate ai movimenti senza resistenza.",
+    "Quelle a soglia intermedia, scavalcate dalle più forti.",
+    "Quelle a soglia bassa, reclutate soltanto vicino al cedimento."
    ],
    "answer": 0,
    "why": "Se le unità già attive riescono a produrre la forza richiesta, il muscolo non ha bisogno di reclutare subito quelle a soglia più alta."
@@ -305,9 +305,9 @@
    "line": 9,
    "question": "Perché una serie con carico moderato, vicina al cedimento, può reclutare unità motorie ad alta soglia?",
    "options": [
-    "Perché con la fatica il carico sul bilanciere aumenta a ogni ripetizione.",
-    "Perché i metaboliti aiutano le fibre già attive a produrre più forza.",
-    "Perché la soglia si abbassa solamente quando si alleggerisce il carico.",
+    "Perché la fatica aumenta la resistenza esterna e impone alle fibre di produrre più forza.",
+    "Perché la fatica aumenta la forza delle fibre già attive e questo richiama altre fibre.",
+    "Perché la fatica disattiva per prime tutte le fibre a soglia bassa e le sostituisce in blocco.",
     "Perché la fatica rende meno efficaci le fibre già attive e facilita altro reclutamento."
    ],
    "answer": 3,
@@ -318,10 +318,10 @@
    "line": 1,
    "question": "Come potrebbe il rigonfiamento cellulare favorire l’accumulo di proteine muscolari?",
    "options": [
-    "Aumentando sia la sintesi sia la disgregazione nella stessa misura.",
+    "Aumentando in pari misura la sintesi e la disgregazione delle proteine.",
     "Aumentando la sintesi e riducendo la disgregazione delle proteine.",
-    "Riducendo la sintesi per lasciare più spazio all’acqua nella cellula.",
-    "Aumentando la disgregazione senza modificare la sintesi proteica."
+    "Riducendo la sintesi e lasciando invariata la disgregazione delle proteine.",
+    "Aumentando la disgregazione delle proteine senza modificarne la sintesi."
    ],
    "answer": 1,
    "why": "Il saldo proteico migliora se la cellula costruisce più proteine e, nello stesso tempo, ne perde meno per disgregazione."
@@ -331,10 +331,10 @@
    "line": 3,
    "question": "Che cosa succede alla membrana muscolare quando entra più acqua nella cellula?",
    "options": [
-    "La pressione sulla membrana si riduce perché l’acqua diluisce i metaboliti.",
-    "L’acqua aumenta il volume della cellula senza sollecitare la membrana.",
+    "L’aumento del volume fa scendere la pressione sulla membrana.",
+    "L’aumento del volume lascia invariata la pressione sulla membrana.",
     "L’aumento del volume fa crescere la pressione sulla membrana.",
-    "La membrana subisce più pressione solo se la cellula perde acqua."
+    "L’aumento del volume fa salire la pressione solo dopo la perdita di liquidi."
    ],
    "answer": 2,
    "why": "Come in un palloncino che si riempie, l’acqua fa aumentare il volume interno e spinge di più sulla superficie che la contiene."
@@ -345,9 +345,9 @@
    "question": "Quale risposta al rigonfiamento cellulare potrebbe favorire l’ipertrofia secondo la lezione?",
    "options": [
     "Aumentare la sintesi proteica per rinforzare la struttura della cellula.",
-    "Demolire più proteine per lasciare spazio all’acqua che entra.",
-    "Ridurre la sintesi proteica finché la membrana non è più sotto pressione.",
-    "Trattenere acqua più a lungo senza cambiare la produzione di proteine."
+    "Aumentare la disgregazione proteica per liberare spazio dentro la cellula.",
+    "Ridurre la sintesi proteica finché la pressione sulla membrana non si normalizza.",
+    "Prolungare la ritenzione di acqua senza modificare la produzione di proteine."
    ],
    "answer": 0,
    "why": "L’ipotesi è che la pressione metta sotto stress la struttura cellulare e che la cellula risponda costruendo proteine per rinforzarla."
@@ -357,9 +357,9 @@
    "line": 9,
    "question": "Quanto è chiaro il legame tra i singoli effetti dello stress metabolico e l’ipertrofia?",
    "options": [
-    "Il rigonfiamento è l’unico effetto dello stress metabolico utile alla crescita.",
-    "Si conosce il contributo esatto di ciascun effetto alla crescita.",
-    "Senza isolare ogni effetto non si può nemmeno ipotizzare un contributo alla crescita.",
+    "Lo stress metabolico è associato alla crescita soltanto per via del rigonfiamento delle cellule.",
+    "Lo stress metabolico è ben studiato: si conosce già quanto contribuisca ogni effetto alla crescita.",
+    "Lo stress metabolico è difficile da studiare, quindi non si può nemmeno ipotizzare un ruolo nella crescita.",
     "Lo stress metabolico è considerato importante, ma l’interazione dei singoli effetti è poco chiara."
    ],
    "answer": 3,
@@ -370,10 +370,10 @@
    "line": 12,
    "question": "Che cosa illustra la sensazione di muscolo pieno e teso subito dopo una serie lunga?",
    "options": [
-    "L’aggiunta permanente di nuovi sarcomeri durante la serie.",
+    "Il rapido aumento permanente del diametro delle fibre.",
     "Il rigonfiamento acuto associato allo stress metabolico.",
-    "L’indolenzimento ritardato causato dal lavoro eccentrico.",
-    "Il raggiungimento del massimo picco di tensione della seduta."
+    "Il danno strutturale tipico delle contrazioni eccentriche.",
+    "Il picco di tensione raggiunto nell’ultima ripetizione."
    ],
    "answer": 1,
    "why": "Il pompaggio è una sensazione immediata associata al rigonfiamento: non equivale a un aumento permanente delle dimensioni del muscolo."
@@ -383,10 +383,10 @@
    "line": 3,
    "question": "Perché i microtraumi non eccessivi potrebbero contribuire a un adattamento del muscolo?",
    "options": [
-    "Perché la perdita di forza dopo la seduta fa crescere direttamente le fibre.",
-    "Perché ogni lesione aggiunge subito spessore alle fibre danneggiate.",
+    "Perché possono ridurre la forza, e quella riduzione ingrandisce direttamente le fibre.",
+    "Perché possono aumentare lo spessore delle fibre prima che inizi la riparazione.",
     "Perché possono stimolare una risposta di crescita che rende il muscolo più resistente.",
-    "Perché il dolore aumenta la capacità di produrre forza nella seduta successiva."
+    "Perché possono causare dolore, e quel dolore aumenta la forza nella seduta successiva."
    ],
    "answer": 2,
    "why": "L’ipotesi è che il muscolo risponda allo stress costruendo una struttura più robusta, così da tollerare meglio sollecitazioni simili in futuro."
@@ -397,9 +397,9 @@
    "question": "Quali aspetti della seduta consideri per stimare quanto danno muscolare può produrre?",
    "options": [
     "Tipo di esercizio, intensità e volume dell’allenamento.",
-    "Intensità e volume, considerando irrilevante il tipo di esercizio.",
-    "Tipo di esercizio e intensità, indipendentemente dal volume.",
-    "Tipo di esercizio e volume, indipendentemente dall’intensità."
+    "Durata delle pause, intensità e volume dell’allenamento.",
+    "Tipo di esercizio, durata del riscaldamento e intensità.",
+    "Tipo di esercizio, ordine dei movimenti e volume dell’allenamento."
    ],
    "answer": 0,
    "why": "Movimenti diversi impongono sollecitazioni diverse; intensità e volume determinano quanto è impegnativo lo stimolo e quanto lavoro viene accumulato."
@@ -409,9 +409,9 @@
    "line": 8,
    "question": "Perché un esercizio nuovo può provocare più danno anche in un atleta in buona forma?",
    "options": [
-    "Perché un esercizio nuovo richiede sempre più peso di uno già praticato.",
-    "Perché un atleta allenato accumula più metaboliti appena cambia gesto.",
-    "Perché la forma fisica generale riduce il danno solo nei movimenti nuovi.",
+    "Perché la forma fisica generale impone di usare carichi maggiori nei movimenti meno familiari.",
+    "Perché la forma fisica generale fa accumulare metaboliti appena cambia il gesto.",
+    "Perché la forma fisica generale protegge le fibre soltanto nei movimenti meno familiari.",
     "Perché la forma fisica generale non rende il muscolo abituato a quello stimolo."
    ],
    "answer": 3,
@@ -422,10 +422,10 @@
    "line": 1,
    "question": "Come spiega la lezione il maggior danno muscolare associato alle contrazioni eccentriche?",
    "options": [
-    "Nell’eccentrica il muscolo si accorcia e comprime più del normale le fibre.",
+    "Il muscolo si accorcia sotto carico e la compressione interna provoca microlesioni.",
     "Il muscolo si allunga sotto tensione e i legami actina-miosina sono forzati a separarsi.",
-    "Nell’eccentrica l’accumulo di metaboliti è la causa diretta del danno strutturale.",
-    "Il muscolo mantiene la stessa lunghezza ma resta sotto carico più a lungo."
+    "Il muscolo si allunga sotto carico e la riduzione del flusso sanguigno provoca microlesioni.",
+    "Il muscolo si oppone al carico senza cambiare lunghezza e le fibre cedono per la durata dello sforzo."
    ],
    "answer": 1,
    "why": "Nell’eccentrica il muscolo resta attivo mentre si allunga. La lezione collega il maggior danno alla sollecitazione meccanica durante questo allungamento."
@@ -435,10 +435,10 @@
    "line": 3,
    "question": "Quale esercizio della lezione useresti per mostrare che i femorali possono lavorare mentre si allungano?",
    "options": [
-    "Lo stretching passivo dei femorali tra due serie.",
-    "Il leg curl durante la fase in cui sollevi il carico.",
+    "Il ponte a terra mentre sollevi il bacino.",
+    "Il leg curl mentre fletti le ginocchia.",
     "Il Nordic hamstring curl mentre freni la discesa.",
-    "Lo squat mentre risali dalla posizione più bassa."
+    "Il leg curl mentre mantieni fermo il carico."
    ],
    "answer": 2,
    "why": "Nel Nordic i femorali producono tensione per frenare la discesa mentre si allungano: è questo che caratterizza il lavoro eccentrico."
@@ -449,9 +449,9 @@
    "question": "Dopo alcune sedute di Nordic hamstring curl, come cambia di solito il fastidio a parità di lavoro?",
    "options": [
     "Diminuisce, perché il muscolo si abitua a quel tipo di sforzo.",
-    "Aumenta, perché il danno di ogni seduta si accumula allo stesso ritmo.",
-    "Resta uguale, perché la contrazione eccentrica è sempre la stessa.",
-    "Scompare solo se nelle sedute successive si riduce il carico."
+    "Aumenta, perché i microtraumi si accumulano a ogni allenamento.",
+    "Rimane uguale, perché il gesto sollecita sempre le stesse fibre.",
+    "Diminuisce, perché il muscolo smette di contrarsi in discesa."
    ],
    "answer": 0,
    "why": "Ripetendo lo stesso tipo di sforzo, il muscolo sviluppa una maggiore tolleranza e la stessa seduta tende a provocare meno danno e fastidio."
@@ -461,9 +461,9 @@
    "line": 9,
    "question": "L’effetto degli sforzi ripetuti elimina il danno muscolare negli atleti ben allenati?",
    "options": [
-    "Sì, quando l’atleta non avverte più DOMS dopo l’esercizio.",
-    "Sì, perché l’adattamento al gesto impedisce ulteriori microtraumi.",
-    "No, il danno rimane della stessa entità perché il gesto non cambia.",
+    "No, il danno resta invariato anche se cala l’indolenzimento.",
+    "No, il danno cresce perché la fatica si accumula a ogni seduta.",
+    "No, il danno cala solo se si riduce il carico nelle sedute successive.",
     "No, il danno può ancora verificarsi, ma in misura minore."
    ],
    "answer": 3,
@@ -474,10 +474,10 @@
    "line": 1,
    "question": "Perché cercare più danno muscolare non è una buona strategia per aumentare la massa?",
    "options": [
-    "Perché il danno conta solo se non produce indolenzimento nelle ore successive.",
+    "Perché un danno maggiore fa crescere le fibre solo se non compare indolenzimento.",
     "Perché un danno eccessivo riduce la forza e può causare rigidità, gonfiore e DOMS.",
-    "Perché il danno riduce lo stress metabolico senza influire sulla forza.",
-    "Perché oltre una certa soglia aumenta il dolore ma non cambia la prestazione."
+    "Perché un danno eccessivo ostacola l’accumulo di metaboliti ma lascia invariata la forza.",
+    "Perché un danno maggiore accentua il dolore ma non cambia la capacità di produrre forza."
    ],
    "answer": 1,
    "why": "Se il muscolo perde forza ed è rigido o dolorante, l’atleta può allenarsi peggio nelle sedute successive e accumulare meno lavoro utile."
@@ -487,10 +487,10 @@
    "line": 3,
    "question": "Un giocatore è indolenzito il giorno dopo i pesi: come si chiama questo fenomeno?",
    "options": [
-    "Fatica periferica, cioè il calo di prestazione durante lo sforzo.",
-    "Stress metabolico, cioè l’accumulo di metaboliti durante la serie.",
+    "Affaticamento periferico, cioè il calo della forza durante una serie.",
+    "Stress metabolico, cioè l’accumulo di metaboliti nel corso di una serie.",
     "DOMS, cioè indolenzimento muscolare a insorgenza ritardata.",
-    "Rigonfiamento cellulare, cioè la sensazione di muscolo pieno subito dopo la serie."
+    "Rigonfiamento cellulare, cioè il senso di pienezza al termine dello sforzo."
    ],
    "answer": 2,
    "why": "L’indizio è il momento in cui compare l’indolenzimento: dopo la seduta, non durante lo sforzo come il bruciore di una serie."
@@ -501,9 +501,9 @@
    "question": "Come valuti una seduta che lascia un giocatore troppo indolenzito per allenarsi bene la volta successiva?",
    "options": [
     "Il dolore non prova la qualità della seduta e sta ostacolando il lavoro successivo.",
-    "Il dolore conferma uno stimolo efficace, anche se il lavoro successivo peggiora.",
-    "La seduta è adeguata se il giocatore ha completato tutte le serie previste.",
-    "L’indolenzimento ha poco rilievo se la prossima seduta prevede esercizi diversi."
+    "Il dolore conferma uno stimolo efficace anche se il rendimento poi peggiora.",
+    "Il dolore indica che la seduta è ben dosata se tutte le serie sono state completate.",
+    "Il dolore conta poco se il programma prevede esercizi diversi al prossimo allenamento."
    ],
    "answer": 0,
    "why": "Una seduta va valutata anche per il lavoro che permette di fare dopo: inseguire il dolore può ridurre il volume utile nel tempo."
@@ -513,9 +513,9 @@
    "line": 9,
    "question": "Se un atleta ha DOMS intensi, puoi concludere che il danno muscolare sia ancora elevato?",
    "options": [
-    "Sì, perché dolore e marcatori del danno rientrano sempre allo stesso ritmo.",
-    "Sì, purché il dolore sia comparso il giorno dopo la seduta.",
-    "No, perché il dolore ritardato indica soltanto l’accumulo di metaboliti.",
+    "No, il dolore riflette soltanto i metaboliti rimasti nelle fibre al termine dello sforzo.",
+    "No, il dolore dipende soprattutto dal rigonfiamento cellulare che si crea durante la serie.",
+    "No, il dolore segnala soprattutto che le fibre hanno esaurito le riserve energetiche.",
     "No, il dolore può restare intenso anche quando il danno è quasi riparato."
    ],
    "answer": 3,
@@ -526,10 +526,10 @@
    "line": 3,
    "question": "Perché è difficile isolare il contributo del danno muscolare rispetto allo stress metabolico?",
    "options": [
-    "Perché il danno compare soltanto quando l’accumulo di metaboliti è già terminato.",
+    "Perché danno alle fibre e accumulo di metaboliti si alternano senza sovrapporsi.",
     "Perché danno alle fibre e accumulo di metaboliti spesso si presentano insieme.",
-    "Perché danno muscolare e accumulo di metaboliti indicano la stessa alterazione delle fibre.",
-    "Perché il danno cresce solo quando lo stress metabolico diminuisce."
+    "Perché danno alle fibre e accumulo di metaboliti sono due nomi per la stessa alterazione.",
+    "Perché danno alle fibre e accumulo di metaboliti si possono valutare solo dal bruciore."
    ],
    "answer": 1,
    "why": "Se due stimoli compaiono nella stessa seduta, la crescita osservata non dice da sola quanto dipenda dall’uno o dall’altro."
@@ -539,10 +539,10 @@
    "line": 5,
    "question": "Se i tre meccanismi si sovrappongono, quale conclusione sulla tensione meccanica è più prudente?",
    "options": [
-    "È dimostrato che conta più degli altri, perché compare nelle stesse sedute.",
-    "È impossibile considerarla più rilevante di qualunque altro meccanismo.",
+    "Resta la candidata meno probabile, perché da sola non massimizza la crescita.",
+    "Resta la candidata principale solo in presenza di microlesioni e accumulo di metaboliti.",
     "Resta la candidata più forte, anche se il suo contributo è difficile da isolare.",
-    "La sovrapposizione dimostra che tutti e tre i meccanismi contribuiscono allo stesso modo."
+    "Resta la candidata più forte, con un contributo già isolato e misurato con certezza."
    ],
    "answer": 2,
    "why": "La tensione è legata al carico che innesca il lavoro muscolare, ma la presenza contemporanea degli altri stimoli rende difficile confrontarne i contributi."
@@ -553,9 +553,9 @@
    "question": "Quale ruolo del carico rende la tensione meccanica la candidata principale nell’allenamento con i pesi?",
    "options": [
     "Il carico innesca il lavoro muscolare da cui possono derivare gli altri stimoli.",
-    "Il carico separa la tensione dagli effetti della fatica nella stessa serie.",
-    "Il carico può creare tensione solo dopo che si è accumulata fatica.",
-    "Il carico è utile solo quando provoca danno alle fibre."
+    "Il carico separa gli effetti dello sforzo da quelli della fatica durante la serie.",
+    "Il carico sollecita le fibre solo quando la fatica ha già fatto calare la forza.",
+    "Il carico stimola la crescita soltanto quando provoca microlesioni nelle fibre."
    ],
    "answer": 0,
    "why": "Il carico mette il muscolo in tensione fin dall’inizio; durante quel lavoro possono poi comparire stress metabolico e danno."
@@ -565,9 +565,9 @@
    "line": 7,
    "question": "Nel lavoro con i pesi, perché la tensione è descritta come premessa degli altri due meccanismi?",
    "options": [
-    "Perché i metaboliti devono accumularsi prima che i pesi mettano in tensione il muscolo.",
-    "Perché il danno iniziale è necessario per produrre tensione nelle ripetizioni successive.",
-    "Perché qualunque carico produce sempre la stessa quantità di metaboliti e danno.",
+    "Perché il lavoro sotto carico sollecita le fibre solo dopo l’accumulo di metaboliti.",
+    "Perché il lavoro sotto carico richiede microlesioni iniziali per attivare le fibre.",
+    "Perché il lavoro sotto carico produce la stessa quantità di metaboliti e microlesioni a ogni serie.",
     "Perché il lavoro sotto carico può far accumulare metaboliti e sollecitare le fibre."
    ],
    "answer": 3,
@@ -578,10 +578,10 @@
    "line": 11,
    "question": "Come traduci i tre meccanismi in un blocco di ipertrofia per calciatori?",
    "options": [
-    "Usi soprattutto singole massimali per massimizzare la tensione in ogni serie.",
+    "Usi carichi massimali, serie da una o due ripetizioni e dai priorità al picco di tensione.",
     "Usi carichi che creano tensione, serie abbastanza lunghe e gestisci il danno.",
-    "Usi carichi leggeri per inseguire il bruciore, senza considerare la tensione.",
-    "Aumenti gli eccentrici finché i giocatori sono doloranti nella seduta successiva."
+    "Usi carichi leggeri, prolunghi ogni serie e regoli il lavoro soltanto in base al bruciore.",
+    "Usi carichi nuovi, accentui la fase eccentrica e punti a mantenere l’indolenzimento."
    ],
    "answer": 1,
    "why": "Carichi e serie devono dare uno stimolo di crescita senza provocare tanto danno da compromettere la qualità e il volume del lavoro successivo."
@@ -591,10 +591,10 @@
    "line": 0,
    "question": "Quale sequenza spiega come un carico può stimolare la sintesi proteica attraverso la tensione meccanica?",
    "options": [
-    "Carico, sintesi proteica, tensione muscolare, segnalazione cellulare.",
-    "Carico, microlesioni obbligatorie, tensione muscolare, sintesi proteica.",
+    "Carico, aumento della sintesi proteica, tensione muscolare, segnalazione cellulare.",
+    "Carico, microlesioni necessarie, segnalazione cellulare, aumento della sintesi proteica.",
     "Carico, tensione muscolare, segnalazione cellulare, aumento della sintesi proteica.",
-    "Carico, accumulo di metaboliti, sintesi proteica, comparsa della tensione."
+    "Carico, accumulo di metaboliti, aumento della sintesi proteica, tensione muscolare."
    ],
    "answer": 2,
    "why": "Il carico genera prima tensione; la fibra converte poi quella sollecitazione in segnali che stimolano la produzione di proteine."
@@ -605,9 +605,9 @@
    "question": "Quali due aspetti valuti per capire lo stimolo di tensione ricevuto dal muscolo bersaglio?",
    "options": [
     "La tensione massima raggiunta e il tempo effettivo trascorso sotto tensione.",
-    "Il peso sul bilanciere e il tempo complessivo passato in palestra.",
-    "Il numero di ripetizioni e la durata totale delle pause.",
-    "L’intensità del bruciore e l’entità dell’indolenzimento successivo."
+    "La resistenza indicata sul bilanciere e il tempo totale trascorso in palestra.",
+    "La durata delle pause tra le serie e il numero totale di ripetizioni eseguite.",
+    "La sensazione di bruciore durante la serie e il grado di indolenzimento successivo."
    ],
    "answer": 0,
    "why": "Contano sia l’intensità della tensione sia la sua durata. Il picco nel muscolo bersaglio può arrivare già intorno al 90% dell’1RM."
@@ -618,8 +618,8 @@
    "question": "Quale abbinamento tra esercizio e adattamento della fibra propone la lezione?",
    "options": [
     "Stretching: più spessore; pesi: più sarcomeri in lunghezza.",
-    "Stretching e pesi: soprattutto più sarcomeri in lunghezza.",
-    "Stretching e pesi: soprattutto più spessore della fibra.",
+    "Stretching: più sarcomeri in lunghezza; pesi: più sarcomeri in lunghezza.",
+    "Stretching: soprattutto più spessore; pesi: soprattutto più spessore.",
     "Stretching: più sarcomeri in lunghezza; pesi: più spessore."
    ],
    "answer": 3,

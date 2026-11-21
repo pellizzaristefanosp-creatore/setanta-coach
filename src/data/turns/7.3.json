@@ -8,8 +8,8 @@
    "options": [
     "Mantiene il gesto di base, ma modifica una fase precisa.",
     "Mantiene tutte le fasi, ma cambia soltanto il carico.",
-    "Mantiene lo stesso obiettivo, ma sostituisce l'intero gesto.",
-    "Mantiene la presa larga, ma cambia necessariamente tutte le fasi."
+    "Mantiene lo stesso obiettivo, ma sostituisce il gesto.",
+    "Mantiene la presa larga, ma cambia tutte le fasi."
    ],
    "answer": 0,
    "why": "Puoi cambiare la partenza, la tirata o l'incastro per lavorare su una parte del gesto senza doverlo sostituire del tutto."
@@ -19,10 +19,10 @@
    "line": 3,
    "question": "Quale gruppo comprende le varianti dello strappo trattate nella lezione?",
    "options": [
-    "Stacco convenzionale, snatch pull, snatch balance, power snatch e varianti hang.",
+    "Stacco a presa stretta, snatch pull, snatch balance, power snatch e varianti hang.",
     "Stacco con presa da strappo, snatch pull, snatch balance, power snatch e varianti hang.",
-    "Stacco con presa da strappo, rematore, snatch balance, power snatch e varianti hang.",
-    "Stacco con presa da strappo, snatch pull, overhead press, power snatch e varianti hang."
+    "Stacco con presa da strappo, clean pull, snatch balance, power snatch e varianti hang.",
+    "Stacco con presa da strappo, snatch pull, push press, power snatch e varianti hang."
    ],
    "answer": 1,
    "why": "Ciascuna conserva un elemento dello strappo: la presa e la partenza, la tirata, l'incastro, la ricezione alta o il lavoro da bilanciere già sollevato."
@@ -32,10 +32,10 @@
    "line": 5,
    "question": "Quali informazioni ti servono per scegliere e insegnare una variante dello strappo?",
    "options": [
-    "Il suo scopo, la progressione del carico e il numero di ripetizioni.",
-    "La posizione iniziale, il carico e il livello dell'atleta.",
+    "Il suo scopo, come aumentare il carico e come distribuire le serie.",
+    "Il suo punto di partenza, come dosare il volume e come gestire il recupero.",
     "Il suo scopo, come eseguirla e come riconoscere e correggere gli errori.",
-    "La tecnica di partenza, la profondità dell'incastro e il nome dell'esercizio."
+    "Il suo livello di difficoltà, come provarla e come stimare il carico massimo."
    ],
    "answer": 2,
    "why": "Lo scopo guida la scelta; conoscere l'esecuzione e le correzioni ti permette di intervenire mentre l'atleta solleva."
@@ -45,9 +45,9 @@
    "line": 9,
    "question": "Perché usare una variante con un calciatore che fatica a scendere in squat profondo?",
    "options": [
-    "Per allenare prima l'incastro profondo, mantenendolo anche con la variante.",
-    "Per sostituire il lavoro di potenza con il solo lavoro di mobilità.",
-    "Per mantenere lo strappo completo, riducendo soltanto il peso sul bilanciere.",
+    "Per allenare la ricezione bassa, mantenendo la stessa profondità di incastro.",
+    "Per allenare soltanto la mobilità, rinunciando al lavoro esplosivo.",
+    "Per allenare lo strappo completo, modificando soltanto il carico sul bilanciere.",
     "Per allenare la potenza senza richiedere subito la tecnica dello strappo completo."
    ],
    "answer": 3,
@@ -59,9 +59,9 @@
    "question": "Perché considerare una variante se lo strappo completo sviluppa già forza e potenza?",
    "options": [
     "Perché lo strappo completo è efficace, ma non sempre è la scelta più adatta.",
-    "Perché le varianti producono sempre più potenza dello strappo completo.",
-    "Perché alternare gli esercizi conta più di adattarli all'atleta.",
-    "Perché lo strappo completo serve soprattutto alla forza e le varianti alla potenza."
+    "Perché lo strappo completo è utile solo dopo aver padroneggiato ogni alternativa.",
+    "Perché lo strappo completo va alternato ad altri esercizi a prescindere dall'atleta.",
+    "Perché lo strappo completo è adatto ai principianti, mentre le alternative sono per esperti."
    ],
    "answer": 0,
    "why": "Un esercizio può essere efficace in generale e comunque richiedere posizioni o abilità che un determinato atleta non padroneggia."
@@ -71,10 +71,10 @@
    "line": 3,
    "question": "A quali atleti possono servire le varianti dello strappo?",
    "options": [
-    "Agli atleti di altri sport, ma non ai pesisti che padroneggiano lo strappo.",
+    "Sia ai calciatori sia ai velocisti, ma non ai pesisti.",
     "Sia ai pesisti sia agli atleti di altri sport, come i calciatori.",
-    "Ai pesisti, ma non agli atleti che non gareggiano nel sollevamento pesi.",
-    "Ai principianti di qualunque sport, ma non agli atleti già esperti."
+    "Sia ai pesisti amatoriali sia ai pesisti agonisti, ma non ai calciatori.",
+    "Sia ai pesisti sia agli atleti di altri sport, purché siano principianti."
    ],
    "answer": 1,
    "why": "Chi pratica un altro sport può adattare il gesto alle proprie esigenze; il pesista può isolare e migliorare una fase dello strappo."
@@ -84,10 +84,10 @@
    "line": 5,
    "question": "Come adatti lo strappo a un calciatore che non raggiunge una posizione richiesta?",
    "options": [
-    "Scegli una variante più leggera che richieda comunque la stessa posizione.",
-    "Mantieni lo strappo completo, chiedendogli soltanto di rallentare in quella posizione.",
+    "Scegli una variante che alleggerisca il carico, ma mantenga la stessa posizione.",
+    "Scegli una variante che rallenti il passaggio nella stessa posizione.",
     "Scegli una variante che non richieda la posizione che non riesce a raggiungere.",
-    "Scegli una variante che lo faccia rimanere più a lungo nella posizione difficile."
+    "Scegli una variante che richieda una pausa nella posizione più difficile."
    ],
    "answer": 2,
    "why": "Cambiare la richiesta di mobilità permette di allenare il gesto senza forzare una posizione che l'atleta non controlla ancora."
@@ -97,9 +97,9 @@
    "line": 7,
    "question": "Perché usare una variante anche con un calciatore che ha mobilità sufficiente?",
    "options": [
-    "Per allenare sempre tutte le fasi, ma con meno peso.",
-    "Per cambiare esercizio anche quando l'obiettivo di allenamento resta poco chiaro.",
-    "Per prepararlo necessariamente a eseguire lo strappo completo in gara.",
+    "Per allenare tutte le fasi del gesto, cambiando soltanto il carico.",
+    "Per allenare un gesto diverso a ogni seduta, indipendentemente dall'obiettivo.",
+    "Per allenare il gesto completo in vista di una gara di sollevamento pesi.",
     "Per allenare una qualità precisa, come l'esplosività della tirata."
    ],
    "answer": 3,
@@ -111,9 +111,9 @@
    "question": "Come può usare le varianti un pesista che ha un punto debole nello strappo?",
    "options": [
     "Isola la fase debole, la rinforza e poi la reintegra nello strappo.",
-    "Allena soltanto le fasi già forti per compensare quella debole.",
-    "Sostituisce definitivamente lo strappo completo con la variante più semplice.",
-    "Sceglie la variante che può caricare di più, indipendentemente dalla fase debole."
+    "Isola la fase più forte, la rinforza e la usa per compensare il resto.",
+    "Isola la fase più semplice e la allena al posto del gesto completo.",
+    "Isola la fase che regge più carico, anche se non è quella da migliorare."
    ],
    "answer": 0,
    "why": "Lavorare su una fase alla volta concentra la pratica sul limite reale; tornare al gesto completo permette di collegarla alle altre fasi."
@@ -123,10 +123,10 @@
    "line": 1,
    "question": "Perché usare la presa larga da strappo anche nello stacco?",
    "options": [
-    "Per evitare di lavorare sulla mobilità richiesta dalla presa dello strappo.",
+    "Per abituarsi alla presa riducendo la necessità di lavorare sulla mobilità.",
     "Per abituarsi alla presa e sviluppare la mobilità utile nello strappo.",
-    "Per allenare direttamente l'incastro sopra la testa senza sollevare il bilanciere.",
-    "Per rendere esplosiva la fase finale dello stacco."
+    "Per prepararsi all'incastro allenando il sostegno sopra la testa.",
+    "Per esercitarsi ad accelerare il bilanciere nella fase finale della salita."
    ],
    "answer": 1,
    "why": "La presa larga fa praticare una parte della posizione dello strappo in un gesto più lento, senza dover eseguire l'alzata completa."
@@ -136,10 +136,10 @@
    "line": 3,
    "question": "Come cambia la tirata iniziale nello stacco con presa da strappo rispetto allo strappo completo?",
    "options": [
-    "Il bilanciere va più verso il corpo e la doppia flessione è meno marcata.",
-    "Il bilanciere va meno verso il corpo e la doppia flessione è più marcata.",
+    "Il bilanciere va più verso il corpo e la doppia flessione è più contenuta.",
+    "Il bilanciere va meno verso il corpo e la doppia flessione è più accentuata.",
     "Il bilanciere va meno verso il corpo e la doppia flessione è meno marcata.",
-    "Il bilanciere va più verso il corpo e la doppia flessione è più marcata."
+    "Il bilanciere va più verso il corpo e la doppia flessione è più accentuata."
    ],
    "answer": 2,
    "why": "Le posizioni iniziali sono simili, ma nello stacco non serve riprodurre tutta la transizione che prepara la fase esplosiva dello strappo."
@@ -149,9 +149,9 @@
    "line": 5,
    "question": "Con quale ritmo esegui lo stacco con presa da strappo rispetto allo strappo completo?",
    "options": [
-    "Con una partenza più lenta, ma la stessa accelerazione esplosiva finale.",
-    "Con una salita esplosiva da terra e una chiusura più controllata.",
-    "Con la stessa accelerazione dello strappo, fermandoti prima dell'incastro.",
+    "Con una salita lenta all'inizio, seguita dalla stessa accelerazione finale.",
+    "Con una salita esplosiva all'inizio, seguita da una chiusura più lenta.",
+    "Con una salita altrettanto esplosiva, interrotta prima dell'incastro.",
     "Con una salita più lenta e controllata, senza la fase esplosiva finale."
    ],
    "answer": 3,
@@ -163,9 +163,9 @@
    "question": "Quali muscoli rinforzi soprattutto con lo stacco con presa da strappo?",
    "options": [
     "La parte alta della schiena, i glutei e i posteriori della coscia.",
-    "La parte alta della schiena, i bicipiti e gli avambracci.",
-    "I quadricipiti, i polpacci e i muscoli della parte anteriore della coscia.",
-    "Le spalle, i tricipiti e i muscoli che stabilizzano l'incastro."
+    "La parte anteriore della spalla, i bicipiti e i flessori del polso.",
+    "La parte anteriore della coscia, i polpacci e i flessori dell’anca.",
+    "La parte alta del petto, i tricipiti e i deltoidi anteriori."
    ],
    "answer": 0,
    "why": "La schiena mantiene la posizione durante la salita, mentre glutei e posteriori della coscia contribuiscono a estendere le anche."
@@ -175,10 +175,10 @@
    "line": 9,
    "question": "Come si trasferisce allo strappo il lavoro fatto nello stacco con presa da strappo?",
    "options": [
-    "Migliora soprattutto la rapidità con cui passi sotto il bilanciere.",
+    "Ti rende più rapido nel passaggio sotto il bilanciere.",
     "Ti rende più forte da terra e più stabile nella posizione di tirata.",
-    "Migliora soprattutto la capacità di sostenere il bilanciere sopra la testa.",
-    "Ti abitua a ricevere il bilanciere più in alto durante l'incastro."
+    "Ti rende più stabile nel sostenere il bilanciere sopra la testa.",
+    "Ti abitua a ricevere il bilanciere in una posizione più alta."
    ],
    "answer": 1,
    "why": "Ripetere sotto carico posizioni simili rende più familiare e controllabile la prima fase dello strappo."
@@ -188,10 +188,10 @@
    "line": 1,
    "question": "Perché la zona lombare può arrotondarsi nella partenza dello stacco con presa da strappo?",
    "options": [
-    "Perché una salita troppo lenta impedisce di distendere completamente le ginocchia.",
-    "Perché la presa larga richiede di flettere la zona lombare prima della salita.",
+    "Perché mani troppo distanti possono imporre una flessione del tronco.",
+    "Perché braccia ben distese possono impedire di tenere il dorso neutro.",
     "Perché anche poco mobili possono ostacolare il raggiungimento della posizione di partenza.",
-    "Perché tenere il bilanciere vicino al corpo sposta troppo indietro le spalle."
+    "Perché ginocchia davanti al bilanciere possono obbligare a incurvare il dorso."
    ],
    "answer": 2,
    "why": "Se le anche non permettono di scendere abbastanza, l'atleta può compensare curvando la zona lombare per arrivare al bilanciere."
@@ -201,9 +201,9 @@
    "line": 3,
    "question": "Come adatti lo stacco se l'atleta arrotonda la zona lombare per raggiungere il bilanciere?",
    "options": [
-    "Alleggerisci il bilanciere, ma mantieni la stessa altezza di partenza.",
-    "Chiedi all'atleta di piegarsi di più prima di cominciare la salita.",
-    "Accorci la presa, mantenendo il bilanciere alla stessa altezza.",
+    "Alleggerisci il bilanciere e mantieni invariata l’altezza di partenza.",
+    "Abbassi il bilanciere su supporti più bassi, così aumenta l’escursione.",
+    "Avvicini le mani sulla barra e mantieni invariata l’altezza di partenza.",
     "Rialzi il bilanciere su supporti stabili, così l'atleta scende meno."
    ],
    "answer": 3,
@@ -215,9 +215,9 @@
    "question": "Come intervieni se nello stacco con presa da strappo si incurva la parte alta della schiena?",
    "options": [
     "Provi «petto e testa alti» e, se serve, lavori sulla mobilità toracica.",
-    "Chiedi di alzare solo la testa, senza cambiare la posizione del torace.",
-    "Riduci la velocità della salita, mantenendo invariata la posizione della schiena.",
-    "Chiedi di distendere prima le ginocchia per raddrizzare poi il torace."
+    "Provi «solleva il mento» e lasci invariata la posizione del torace.",
+    "Provi «spalle in avanti» e incoraggi una maggiore chiusura del torace.",
+    "Provi «distendi prima le gambe» e rimandi l’apertura del torace alla salita."
    ],
    "answer": 0,
    "why": "L'indicazione può bastare se l'atleta sa raggiungere la posizione; se invece manca estensione toracica, va affrontato quel limite."
@@ -227,10 +227,10 @@
    "line": 7,
    "question": "Quale immagine aiuta l'atleta ad aprire il petto nella partenza dello stacco?",
    "options": [
-    "«Sfiora la maglietta con il bilanciere mentre sale.»",
+    "«Tieni la barra vicina come per sfiorare la maglietta.»",
     "«Alza il petto come per leggere la scritta sulla maglietta.»",
-    "«Spingi le anche indietro per lasciare spazio al bilanciere.»",
-    "«Fissa il bilanciere mentre ti prepari a partire.»"
+    "«Porta le anche indietro come per chiudere una porta.»",
+    "«Abbassa lo sguardo come per leggere una scritta a terra.»"
    ],
    "answer": 1,
    "why": "L'immagine traduce una correzione della parte alta della schiena in un'azione semplice, senza chiedere all'atleta di pensare a ogni articolazione."
@@ -240,10 +240,10 @@
    "line": 9,
    "question": "Quale errore in partenza diventa più rischioso quando aumenti il carico nello stacco?",
    "options": [
-    "Staccare in modo graduale dopo aver messo il corpo in tensione.",
-    "Rallentare la salita per mantenere una posizione solida.",
+    "Sollevare il bilanciere gradualmente, dopo aver creato tensione.",
+    "Tenere il bilanciere vicino al corpo durante la salita.",
     "Strattonare il bilanciere da terra con una partenza brusca.",
-    "Rialzare il bilanciere quando manca mobilità per partire da terra."
+    "Rialzare il bilanciere su supporti stabili se manca mobilità."
    ],
    "answer": 2,
    "why": "Con un carico alto, uno strattone carica bruscamente la colonna prima che l'atleta abbia stabilizzato la posizione."
@@ -253,9 +253,9 @@
    "line": 11,
    "question": "Come eviti di strattonare il bilanciere all'inizio dello stacco?",
    "options": [
-    "Tendi il tronco appena il bilanciere si è sollevato da terra.",
-    "Aumenti la velocità iniziale e stabilizzi il tronco dopo il ginocchio.",
-    "Tieni il tronco rilassato in basso e lo irrigidisci a metà salita.",
+    "Metti il corpo in tensione appena il bilanciere si solleva.",
+    "Metti il corpo in tensione dopo aver superato le ginocchia.",
+    "Mantieni il corpo rilassato finché il bilanciere non sale.",
     "Metti il corpo in tensione prima di muovere il bilanciere."
    ],
    "answer": 3,
@@ -267,7 +267,7 @@
    "question": "Che cosa misura il tasso di sviluppo della forza che alleni con lo snatch pull?",
    "options": [
     "Quanto rapidamente riesci a produrre forza.",
-    "Quanta forza massima riesci a produrre.",
+    "Quanto intensamente riesci a contrarre i muscoli al picco.",
     "Quanto a lungo riesci a mantenere la forza.",
     "Quanto in alto riesci a portare il bilanciere."
    ],
@@ -279,10 +279,10 @@
    "line": 3,
    "question": "Quale fase esplosiva dello strappo allena soprattutto lo snatch pull?",
    "options": [
-    "Il distacco da terra, quando il bilanciere comincia a muoversi.",
+    "Il distacco iniziale, quando il bilanciere si solleva da terra.",
     "La seconda tirata, quando il bilanciere raggiunge velocità e potenza massime.",
-    "Il passaggio sotto il bilanciere, quando l'atleta cambia direzione.",
-    "L'incastro, quando l'atleta stabilizza il bilanciere sopra la testa."
+    "Il passaggio sotto il bilanciere, quando l’atleta inverte la direzione.",
+    "L’incastro finale, quando l’atleta stabilizza il bilanciere sopra la testa."
    ],
    "answer": 1,
    "why": "Lo snatch pull ti fa accelerare il bilanciere nella fase esplosiva senza dover poi scendere sotto per riceverlo."
@@ -292,10 +292,10 @@
    "line": 5,
    "question": "Che cosa cerchi durante l'estensione nello snatch pull?",
    "options": [
-    "Estendere completamente anche e ginocchia, lasciando ferme le caviglie.",
-    "Completare l'estensione allontanando il bilanciere per lasciargli spazio.",
+    "Estendere ginocchia e anche, lasciando le caviglie ferme per tutta la tirata.",
+    "Estendere caviglie, ginocchia e anche, spingendo il bilanciere in avanti.",
     "Estendere caviglie, ginocchia e anche, tenendo il bilanciere vicino al corpo.",
-    "Piegare i gomiti prima di finire l'estensione di anche e ginocchia."
+    "Estendere caviglie, ginocchia e anche, piegando i gomiti prima di finire la spinta."
    ],
    "answer": 2,
    "why": "La spinta coordinata delle tre articolazioni accelera il bilanciere, mentre tenerlo vicino evita di deviarne la traiettoria in avanti."
@@ -306,8 +306,8 @@
    "question": "Come finisce la tirata da strappo dopo la tripla estensione?",
    "options": [
     "Con una discesa sotto il bilanciere e un incastro in squat profondo.",
-    "Con una distensione delle braccia per bloccare il bilanciere sopra la testa.",
-    "Con una nuova flessione delle gambe per ricevere il bilanciere in alto.",
+    "Con una distensione delle braccia e un blocco del bilanciere sopra la testa.",
+    "Con una nuova flessione delle gambe e un incastro in un quarto di squat.",
     "Con una scrollata delle spalle e i gomiti che si piegano, senza incastro."
    ],
    "answer": 3,
@@ -320,8 +320,8 @@
    "options": [
     "Peso a metà piede, braccia distese, spalle e ginocchia avanti, anche sopra le ginocchia.",
     "Peso sui talloni, braccia distese, spalle dietro il bilanciere, anche sopra le ginocchia.",
-    "Peso a metà piede, gomiti piegati, spalle avanti, anche sotto le ginocchia.",
-    "Peso sull'avampiede, braccia distese, spalle sopra il bilanciere, anche all'altezza delle ginocchia."
+    "Peso a metà piede, braccia flesse, spalle e ginocchia avanti, anche sotto le ginocchia.",
+    "Peso sull’avampiede, braccia distese, spalle sopra il bilanciere, anche all’altezza delle ginocchia."
    ],
    "answer": 0,
    "why": "Riprodurre l'assetto dello strappo, con la schiena solida, rende la tirata utile per allenare quella stessa fase del gesto completo."
@@ -331,10 +331,10 @@
    "line": 1,
    "question": "Come usi un bastone per correggere un bilanciere che si allontana in avanti nello snatch pull?",
    "options": [
-    "Lo metti davanti e chiedi all'atleta di raggiungerlo a fine tirata.",
+    "Lo metti davanti e chiedi di sfiorarlo alla fine del movimento.",
     "Lo metti davanti e chiedi di tenere il bilanciere vicino, senza toccarlo.",
-    "Lo usi per segnare l'altezza finale, senza intervenire sulla traiettoria.",
-    "Lo metti dietro e chiedi all'atleta di raggiungerlo con la schiena."
+    "Lo metti all’altezza del petto e chiedi di usarlo solo come riferimento verticale.",
+    "Lo metti dietro e chiedi di raggiungerlo con le spalle a fine movimento."
    ],
    "answer": 1,
    "why": "Il bastone dà un limite concreto: se il bilanciere si allontana troppo dal corpo, l'atleta se ne accorge subito."
@@ -357,9 +357,9 @@
    "line": 7,
    "question": "Come correggi un atleta che si inclina troppo all'indietro durante lo snatch pull?",
    "options": [
-    "Chiedi di anticipare la piega dei gomiti per limitare il movimento del busto.",
-    "Aumenti il carico per obbligarlo a tenere il bilanciere vicino.",
-    "Riduci l'estensione delle anche per impedirgli di inclinarsi all'indietro.",
+    "Mantieni il carico e chiedi di piegare prima i gomiti per limitare il movimento del busto.",
+    "Aumenti il carico e chiedi di rallentare la spinta finale per controllare il busto.",
+    "Alleggerisci il carico e chiedi di fermare la spinta prima di distendere del tutto le anche.",
     "Alleggerisci il carico e curi vicinanza del bilanciere e tempismo della tripla estensione."
    ],
    "answer": 3,
@@ -371,9 +371,9 @@
    "question": "Come può aiutare il bastone un atleta che si inclina troppo all'indietro nella tirata?",
    "options": [
     "Fornisce un riferimento fisico per riconoscere la posizione durante il gesto.",
-    "Indica soltanto quanto in alto deve arrivare il bilanciere.",
-    "Sostiene il busto mentre l'atleta completa l'estensione.",
-    "Indica quando piegare i gomiti, indipendentemente dalla posizione del corpo."
+    "Fornisce un riferimento verticale per misurare soltanto l’altezza finale del bilanciere.",
+    "Fornisce un bersaglio dietro le spalle da raggiungere alla fine del gesto.",
+    "Fornisce un segnale per piegare i gomiti prima di completare la spinta."
    ],
    "answer": 0,
    "why": "Un riferimento concreto fa percepire lo scarto tra la posizione voluta e quella effettiva più direttamente di una spiegazione a parole."
@@ -383,10 +383,10 @@
    "line": 11,
    "question": "Come riconosci e correggi una tripla estensione incompleta nello snatch pull?",
    "options": [
-    "Noti una scrollata debole e chiedi di sollevare prima le spalle.",
+    "Una delle spalle sale meno dell’altra: chiedi di anticipare la scrollata.",
     "Una delle tre articolazioni non si estende del tutto: dai un'indicazione verbale o tattile.",
-    "Noti che il bilanciere sale poco e chiedi di tirare di più con le braccia.",
-    "Noti che i gomiti si piegano tardi e chiedi di anticiparne la flessione."
+    "Una delle braccia resta distesa più a lungo: chiedi di anticipare la flessione dei gomiti.",
+    "Una delle mani perde la presa in alto: chiedi di stringere di più il bilanciere."
    ],
    "answer": 1,
    "why": "La verifica riguarda caviglie, ginocchia e anche. Un riferimento breve aiuta l'atleta a percepire dove interrompe la spinta."
@@ -396,10 +396,10 @@
    "line": 1,
    "question": "Quali fasi dello strappo alleni soprattutto con lo snatch balance?",
    "options": [
-    "Il distacco da terra e il passaggio del bilanciere oltre il ginocchio.",
-    "La seconda tirata e la scrollata delle spalle alla fine dell'estensione.",
+    "Il distacco del bilanciere da terra e il passaggio oltre il ginocchio.",
+    "Il completamento della tripla estensione e la scrollata delle spalle.",
     "Il passaggio sotto il bilanciere con la rotazione delle braccia e l'incastro.",
-    "La distensione sopra la testa e la tenuta del bilanciere in piedi."
+    "Il sollevamento del bilanciere a braccia distese e la tenuta in piedi."
    ],
    "answer": 2,
    "why": "Partendo con il bilanciere sulla schiena, salti la tirata da terra e puoi concentrarti sullo scendere sotto e stabilizzare il carico."
@@ -411,7 +411,7 @@
    "options": [
     "In piedi, bilanciere davanti alle spalle, presa larga e piedi alla larghezza delle anche.",
     "In piedi, bilanciere sulla schiena, presa stretta e piedi alla larghezza delle anche.",
-    "In piedi, bilanciere sopra la testa, presa larga e piedi in posizione d'incastro.",
+    "In piedi, bilanciere sopra la testa, presa larga e piedi alla larghezza delle anche.",
     "In piedi, bilanciere sulla schiena, presa larga e piedi alla larghezza delle anche."
    ],
    "answer": 3,
@@ -423,9 +423,9 @@
    "question": "Quale sequenza segue la posizione iniziale nello snatch balance?",
    "options": [
     "Fletti poco le ginocchia, spingi verso l'alto e scendi sotto in overhead squat.",
-    "Fletti le ginocchia fino allo squat, poi distendi il bilanciere sopra la testa.",
-    "Spingi il bilanciere con le braccia da fermo, poi scendi lentamente in squat.",
-    "Fletti poco le ginocchia, spingi verso l'alto e ricevi il bilanciere in piedi."
+    "Fletti le ginocchia fino allo squat, spingi con le braccia e poi risali.",
+    "Fletti poco le ginocchia, distendi prima le braccia e poi scendi in squat.",
+    "Fletti poco le ginocchia, spingi verso l'alto e ricevi senza piegare le gambe."
    ],
    "answer": 0,
    "why": "La breve spinta avvia la salita del bilanciere e ti permette di scendere rapidamente sotto per riceverlo a braccia distese."
@@ -435,10 +435,10 @@
    "line": 7,
    "question": "Che cosa migliora lo snatch balance nella ricezione del bilanciere?",
    "options": [
-    "La forza da terra e la stabilità prima del passaggio al ginocchio.",
+    "La forza nella partenza da terra e la tenuta della schiena fino al ginocchio.",
     "La stabilità sopra la testa e la coordinazione tra braccia e piedi.",
-    "La velocità della seconda tirata e la vicinanza del bilanciere al busto.",
-    "La forza della distensione in piedi, senza dover coordinare il movimento dei piedi."
+    "La velocità della seconda tirata e la capacità di tenere il carico vicino al busto.",
+    "La forza delle spalle nella distensione in piedi e la tenuta del busto eretto."
    ],
    "answer": 1,
    "why": "Per ricevere bene non basta sostenere il peso: devi anche coordinare l'arrivo dei piedi con il momento in cui blocchi il bilanciere."
@@ -448,10 +448,10 @@
    "line": 9,
    "question": "Perché usare lo snatch balance leggero con chi teme di finire sotto il bilanciere?",
    "options": [
-    "Perché può imparare a ricevere senza scendere sotto il bilanciere.",
-    "Perché può rimandare la pratica dell'incastro e concentrarsi sulla tirata.",
+    "Perché riuscire a ricevere in piedi gli evita di scendere in squat.",
+    "Perché riuscire a tirare più in alto gli permette di rimandare l'incastro.",
     "Perché riuscire a incastrare un carico leggero gli dà fiducia.",
-    "Perché ricevere il carico in piedi gli fa evitare la posizione temuta."
+    "Perché riuscire a distendere il carico da fermo gli evita di spostare i piedi."
    ],
    "answer": 2,
    "why": "Provare la posizione con un carico gestibile permette all'atleta di sperimentare che può raggiungerla e sostenerla."
@@ -461,9 +461,9 @@
    "line": 1,
    "question": "Come riconosci una mancanza di stabilità nello snatch balance?",
    "options": [
-    "Il bilanciere parte piano, ma l'atleta atterra e lo sostiene senza oscillare.",
-    "L'atleta abbassa poco le ginocchia nella spinta, ma riceve il carico stabilmente.",
-    "I piedi cambiano posizione per lo squat, mentre il carico resta ben controllato.",
+    "L'atleta imprime poca velocità al carico, ma atterra e lo sostiene senza oscillare.",
+    "L'atleta piega poco le ginocchia all'avvio, ma sostiene bene il carico all'arrivo.",
+    "L'atleta allarga i piedi per scendere in squat e mantiene il carico ben controllato.",
     "L'atleta non sostiene bene il carico e l'arrivo dei piedi risulta instabile."
    ],
    "answer": 3,
@@ -475,8 +475,8 @@
    "question": "Quali azioni devi osservare per valutare il tempismo nello snatch balance?",
    "options": [
     "La spinta contro il bilanciere durante l'incastro e l'atterraggio dei piedi.",
-    "La flessione iniziale delle ginocchia e la risalita dallo squat.",
-    "La scrollata delle spalle e il passaggio del bilanciere oltre le ginocchia.",
+    "La flessione iniziale delle ginocchia e la risalita dalla posizione di squat.",
+    "La scrollata delle spalle e il passaggio del bilanciere sopra le ginocchia.",
     "La presa del bilanciere sulla schiena e il raddrizzamento dopo l'incastro."
    ],
    "answer": 0,
@@ -487,10 +487,10 @@
    "line": 4,
    "question": "Nello snatch balance, quando deve avvenire la spinta contro il bilanciere per incastrarlo?",
    "options": [
-    "All'inizio della piccola flessione delle ginocchia.",
+    "Mentre le ginocchia iniziano la piccola flessione preparatoria.",
     "Mentre i piedi atterrano nella posizione di ricezione.",
-    "Dopo che i piedi sono già fermi in fondo allo squat.",
-    "Quando cominci a risalire dalla posizione di ricezione."
+    "Mentre completi la discesa, con i piedi già fermi a terra.",
+    "Mentre inizi a risalire dalla posizione di ricezione."
    ],
    "answer": 1,
    "why": "Il carico va stabilizzato mentre si forma la base d'appoggio, non dopo che l'atleta è già sceso nello squat."
@@ -500,10 +500,10 @@
    "line": 5,
    "question": "Perché nello snatch balance sincronizzi la spinta d'incastro con l'atterraggio dei piedi?",
    "options": [
-    "Per poter distendere il bilanciere una volta conclusa la discesa.",
-    "Per sostituire il passaggio sotto con una salita più alta del bilanciere.",
+    "Per completare la distensione delle braccia dopo essere sceso in squat.",
+    "Per sollevare più in alto il bilanciere senza dover passare sotto.",
     "Per riprodurre il passaggio sotto e l'incastro coordinati dello strappo.",
-    "Per mantenere invariata la posizione dei piedi durante tutto il gesto."
+    "Per conservare la stessa posizione d'appoggio durante tutto il gesto."
    ],
    "answer": 2,
    "why": "Quando i piedi trovano appoggio e le braccia stabilizzano insieme il carico, la ricezione avviene in un unico movimento."
@@ -513,9 +513,9 @@
    "line": 9,
    "question": "Come correggi chi trasforma lo snatch balance in una distensione sopra la testa?",
    "options": [
-    "Aumenti il carico per costringerlo a spingere più forte con le gambe.",
-    "Gli fai bloccare il bilanciere in piedi, poi gli chiedi di scendere.",
-    "Mantieni il carico e gli chiedi di spingere più a lungo con le braccia.",
+    "Aumenti il carico e gli chiedi di spingere più a lungo prima di scendere.",
+    "Alleggerisci il carico e gli fai bloccare le braccia in piedi prima di scendere.",
+    "Mantieni il carico e gli fai rallentare la discesa finché le braccia sono distese.",
     "Alleggerisci, anche con un bastone, e gli fai provare il tempismo della discesa."
    ],
    "answer": 3,
@@ -527,9 +527,9 @@
    "question": "Quale differenza distingue il power snatch dallo strappo completo?",
    "options": [
     "Ricevi il bilanciere più in alto, a circa un quarto di squat.",
-    "Parti sopra il ginocchio, ma ricevi comunque in squat profondo.",
-    "Ti fermi alla fine della tirata, senza ricevere sopra la testa.",
-    "Parti con il bilanciere sulla schiena e ricevi in squat profondo."
+    "Ricevi il bilanciere in squat profondo, ma parti sopra il ginocchio.",
+    "Ricevi il bilanciere in squat profondo, dopo una tirata più lenta.",
+    "Ricevi il bilanciere in piedi, senza flettere le ginocchia."
    ],
    "answer": 0,
    "why": "Il power snatch mantiene la partenza dello strappo completo: cambia la profondità della ricezione, non la posizione iniziale."
@@ -539,10 +539,10 @@
    "line": 5,
    "question": "Perché un pesista può inserire il power snatch nel suo allenamento?",
    "options": [
-    "Per concentrarsi sulla stabilità della ricezione in squat profondo.",
+    "Per sviluppare stabilità e sostenere il bilanciere più a lungo in squat profondo.",
     "Per sviluppare velocità e mantenere veloce il bilanciere durante il gesto.",
-    "Per eliminare la partenza da terra e concentrarsi sul lavoro dal ginocchio.",
-    "Per allenare una salita lenta, senza la fase esplosiva finale."
+    "Per allenare la tirata dal ginocchio senza far partire il bilanciere da terra.",
+    "Per controllare la salita del bilanciere senza accelerare dopo il ginocchio."
    ],
    "answer": 1,
    "why": "Ricevere più in alto richiede di far salire abbastanza il bilanciere, anziché guadagnare spazio scendendo in squat profondo."
@@ -552,10 +552,10 @@
    "line": 7,
    "question": "Quale assetto usi per partire da terra nel power snatch?",
    "options": [
-    "Spalle dietro il bilanciere, petto alto, anche sopra le ginocchia e schiena stabile.",
-    "Spalle avanti, petto alto, anche sotto le ginocchia e scapole stabili.",
+    "Spalle dietro il bilanciere, ginocchia avanti, anche più alte, petto alto e schiena stabile.",
+    "Spalle e ginocchia davanti al bilanciere, anche più basse delle ginocchia e petto alto.",
     "Spalle e ginocchia davanti al bilanciere, anche più alte, petto alto e schiena stabile.",
-    "Spalle avanti, anche sopra le ginocchia, petto chiuso e schiena alta rilassata."
+    "Spalle davanti al bilanciere, ginocchia arretrate, anche più alte, petto alto e schiena stabile."
    ],
    "answer": 2,
    "why": "L'incastro è più alto, ma la partenza resta quella dello strappo: non modifichi l'assetto da terra per anticipare la ricezione."
@@ -565,9 +565,9 @@
    "line": 9,
    "question": "Come passi dalla salita iniziale all'incastro nel power snatch?",
    "options": [
-    "Tiri forte prima del ginocchio, poi rallenti e ricevi in un quarto di squat.",
-    "Estendi tenendo il bilanciere vicino, poi ricevi in squat profondo.",
-    "Superato il ginocchio, spingi il bilanciere in avanti e lo ricevi in alto.",
+    "Superato il ginocchio, rallenti l'estensione e ricevi alto, col bilanciere vicino.",
+    "Superato il ginocchio, acceleri con la tripla estensione e ricevi in squat profondo.",
+    "Superato il ginocchio, anticipi la flessione dei gomiti e ricevi alto, col bilanciere vicino.",
     "Superato il ginocchio, acceleri con la tripla estensione e ricevi alto, col bilanciere vicino."
    ],
    "answer": 3,
@@ -579,9 +579,9 @@
    "question": "Perché un carico eccessivo può far incastrare troppo in basso nel power snatch?",
    "options": [
     "L'atleta non lo fa salire abbastanza e scende di più per riceverlo.",
-    "L'atleta lo fa salire troppo e scende per aspettare che ridiscenda.",
-    "L'atleta completa più facilmente la tirata e quindi anticipa la discesa.",
-    "L'atleta deve mantenere più a lungo il quarto di squat prima dell'incastro."
+    "L'atleta lo fa salire più del previsto e scende per aspettare che ridiscenda.",
+    "L'atleta completa la tirata prima del previsto e anticipa la discesa.",
+    "L'atleta raggiunge subito la quota giusta e scende per rallentare la ricezione."
    ],
    "answer": 0,
    "why": "Scendere più a fondo compensa la minore altezza raggiunta dal bilanciere, ma fa perdere la ricezione alta tipica della variante."
@@ -591,10 +591,10 @@
    "line": 1,
    "question": "Da quale posizione parte il bilanciere nelle varianti hang trattate nella lezione?",
    "options": [
-    "Da terra, accelerando appena supera il ginocchio.",
+    "Da una posizione a terra, con i dischi appoggiati al pavimento.",
     "Da una posizione sollevata, appena sopra il ginocchio.",
     "Da una posizione sollevata, appena sotto il ginocchio.",
-    "Dall'appoggio sulla schiena, prima di scendere sotto."
+    "Da una posizione eretta, con la barra appoggiata sulla schiena."
    ],
    "answer": 1,
    "why": "In un'alzata hang il bilanciere è già sollevato. In questa lezione si sceglie di partire sopra il ginocchio, anche se l'altezza può variare."
@@ -617,9 +617,9 @@
    "line": 5,
    "question": "Su quali qualità può concentrarsi l'atleta quando elimina la partenza da terra con l'hang snatch?",
    "options": [
-    "Sulla forza massima da terra e sul controllo della prima tirata.",
-    "Sulla tenuta statica sopra la testa e sulla durata dell'incastro.",
-    "Sulla discesa lenta e sul controllo del carico durante tutto il gesto.",
+    "Sulla forza massima e sul controllo della tirata fino al ginocchio.",
+    "Sulla tenuta statica del carico sopra la testa e sulla durata dell'incastro.",
+    "Sulla lentezza dell'estensione e sul controllo del carico a velocità costante.",
     "Sulla rapidità con cui sviluppa forza, sulla potenza e sull'esplosività."
    ],
    "answer": 3,
@@ -631,9 +631,9 @@
    "question": "A parità di partenza sopra il ginocchio, che cosa distingue l'hang power snatch dall'hang snatch?",
    "options": [
     "L'incastro è alto, a circa un quarto di squat, anziché in squat profondo.",
-    "L'incastro resta profondo, ma il bilanciere parte da terra.",
-    "La tirata finisce senza portare il bilanciere sopra la testa.",
-    "La ricezione resta profonda, ma avviene con una discesa più lenta."
+    "L'incastro è alla stessa profondità, ma avviene con i piedi più stretti.",
+    "L'incastro è più alto, ma avviene a gambe distese prima di piegarle.",
+    "L'incastro è in squat profondo, ma la discesa sotto il bilanciere è più lenta."
    ],
    "answer": 0,
    "why": "«Hang» indica la partenza già sollevata; «power» indica la ricezione alta, utile quando l'atleta fatica a raggiungere lo squat profondo."
@@ -643,10 +643,10 @@
    "line": 1,
    "question": "Quale errore di assetto è tipico delle varianti hang dello strappo?",
    "options": [
-    "Tenere le spalle leggermente davanti al bilanciere nella posizione di partenza.",
+    "Tenere le spalle leggermente davanti al bilanciere prima della tirata.",
     "Chiudersi troppo piegando il busto in avanti con le gambe rigide.",
-    "Flettere leggermente le gambe prima di completare la tripla estensione.",
-    "Mantenere il bilanciere vicino alle gambe prima della tirata."
+    "Flettere leggermente le ginocchia prima di completare la tripla estensione.",
+    "Tenere il bilanciere vicino alle gambe mentre si prepara la tirata."
    ],
    "answer": 1,
    "why": "Le spalle possono stare davanti al bilanciere: il problema è portare il busto troppo avanti e togliere alle gambe spazio per spingere."
@@ -656,10 +656,10 @@
    "line": 3,
    "question": "Nelle varianti hang, quando le spalle davanti al bilanciere diventano un problema?",
    "options": [
-    "Appena superano il bilanciere, anche se l'atleta controlla bene la posizione.",
-    "Quando le gambe si flettono leggermente nella preparazione alla spinta.",
+    "Quando il busto si inclina appena in avanti, con il peso al centro del piede.",
+    "Quando le ginocchia si flettono leggermente prima della spinta verso l'alto.",
     "Quando il busto si inclina troppo in avanti e le gambe rimangono rigide.",
-    "Quando il bilanciere resta vicino alle gambe all'inizio della tirata."
+    "Quando il carico resta vicino alle cosce mentre l'atleta prepara la tirata."
    ],
    "answer": 2,
    "why": "Conta l'assetto nel suo insieme: busto troppo inclinato e gambe rigide ostacolano l'estensione e favoriscono una traiettoria in avanti."
@@ -669,9 +669,9 @@
    "line": 5,
    "question": "Che cosa succede nella tirata hang se l'atleta parte troppo piegato e con le gambe rigide?",
    "options": [
-    "La tripla estensione resta completa, ma l'incastro risulta più alto del previsto.",
-    "Il bilanciere resta vicino, ma l'atleta non riesce a piegare i gomiti.",
-    "Le gambe si estendono prima del previsto e il bilanciere arretra troppo.",
+    "La tripla estensione resta completa e il bilanciere sale più del previsto.",
+    "La tripla estensione resta efficace e il bilanciere rimane vicino al busto.",
+    "La tripla estensione peggiora e il bilanciere tende a spostarsi indietro.",
     "La tripla estensione peggiora e il bilanciere tende a essere spinto in avanti."
    ],
    "answer": 3,
@@ -683,9 +683,9 @@
    "question": "Quale indicazione dai a chi si chiude troppo in avanti nella partenza hang?",
    "options": [
     "«Alza il petto, come per mostrare la scritta sulla maglietta.»",
-    "«Tieni le gambe più rigide per non cambiare l'angolo del busto.»",
-    "«Porta le spalle ancora più avanti prima di spingere.»",
-    "«Lascia il petto chiuso e tira prima con le braccia.»"
+    "«Alza il mento, senza modificare la posizione del busto.»",
+    "«Piega di più le ginocchia, senza cambiare l'angolo del busto.»",
+    "«Sposta il peso sui talloni, tenendo il busto alla stessa altezza.»"
    ],
    "answer": 0,
    "why": "Mostrare la scritta dà un riferimento concreto per aprire il petto quanto basta e ritrovare una posizione da cui estendersi."
@@ -695,10 +695,10 @@
    "line": 1,
    "question": "Quale criterio guida la scelta di una variante dello strappo?",
    "options": [
-    "La somiglianza con lo strappo completo, indipendentemente dall'atleta.",
+    "Le somiglianze con il gesto completo, le fasi riprodotte e la fedeltà alla tecnica di gara.",
     "Le caratteristiche dell'atleta, gli obiettivi di allenamento e le richieste dello sport.",
-    "Il carico più alto che l'atleta può sollevare in una qualunque variante.",
-    "La variante più comune nella squadra, a prescindere dagli obiettivi individuali."
+    "Le prestazioni già registrate, i carichi massimi raggiunti e i margini di aumento del peso.",
+    "Le abitudini della squadra, gli esercizi già in programma e le preferenze del preparatore."
    ],
    "answer": 1,
    "why": "La variante deve allenare la qualità che serve e richiedere posizioni che l'atleta riesce a gestire."
@@ -708,10 +708,10 @@
    "line": 3,
    "question": "Perché non esiste una variante dello strappo migliore in assoluto?",
    "options": [
-    "Perché basta cambiare il carico per rendere tutte le varianti equivalenti.",
-    "Perché tutte le varianti sviluppano allo stesso modo tutte le fasi dello strappo.",
+    "Perché l'efficacia cambia solo con il carico e il numero di ripetizioni.",
+    "Perché ogni esercizio allena tutte le fasi con la stessa efficacia.",
     "Perché la scelta migliore cambia con l'atleta, lo sport e l'obiettivo.",
-    "Perché la variante migliore è sempre quella che richiede meno tecnica."
+    "Perché a determinare la scelta è solo l'attrezzatura disponibile."
    ],
    "answer": 2,
    "why": "Una tirata può servire a sviluppare potenza, mentre lo snatch balance serve a lavorare sull'incastro: la scelta dipende da ciò che vuoi migliorare."
@@ -721,9 +721,9 @@
    "line": 4,
    "question": "Quale situazione rende particolarmente utile scegliere una variante invece dello strappo completo?",
    "options": [
-    "L'atleta controlla il gesto completo e deve proprio esercitarlo nel suo insieme.",
-    "L'atleta vuole cambiare esercizio, ma non c'è un obiettivo specifico.",
-    "L'atleta sa già eseguire la variante, che però non risponde all'obiettivo.",
+    "L'atleta esegue bene il gesto intero e deve allenare la sequenza che userà in gara.",
+    "L'atleta vuole alternare gli esercizi, ma il programma richiede di consolidare il gesto intero.",
+    "L’atleta è in forma e ha tutto il tempo per eseguire lo strappo completo in seduta.",
     "L'atleta ha limiti di mobilità che ostacolano una posizione dello strappo completo."
    ],
    "answer": 3,

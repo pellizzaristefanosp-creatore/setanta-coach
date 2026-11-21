@@ -18,10 +18,10 @@
       "check": {
         "question": "Quali sono i tre temi principali di questa lezione?",
         "options": [
-          "Ipertrofia, dieta e recupero",
+          "Analisi del bacino, sua mobilità e misurazione della flessibilità",
           "Definizione del core, sua funzione e valutazione della stabilità",
-          "Solo gli esercizi per gli addominali",
-          "Velocità, agilità e resistenza aerobica"
+          "Descrizione del riscaldamento, sua durata e verifica del recupero",
+          "Tecnica dello sprint, sua progressione e misurazione della velocità"
         ],
         "answer": 1,
         "explanation": "La lezione definisce il core, ne spiega la funzione e mostra metodi semplici per valutarne la stabilità."
@@ -41,10 +41,10 @@
       "check": {
         "question": "Quale zona viene spesso indicata dai preparatori come core in senso tradizionale?",
         "options": [
-          "Spalle e braccia",
-          "Solo il retto dell'addome",
+          "Colonna toracica e torace",
+          "Parete addominale e sterno",
           "Colonna lombare e bacino",
-          "Ginocchia e caviglie"
+          "Regione cervicale e cranio"
         ],
         "answer": 2,
         "explanation": "La definizione classica indica colonna lombare e bacino: corretta, ma limitata se vista in modo isolato."
@@ -65,9 +65,9 @@
         "question": "Secondo Joyce e Lewindon (2014), fin dove può essere utile estendere il cilindro del core?",
         "options": [
           "Fino alle scapole e alla colonna toracica",
-          "Solo fino all'ombelico",
-          "Fino alle ginocchia",
-          "Fino alla testa e al collo"
+          "Fino alle clavicole e alla colonna cervicale",
+          "Fino alle coste inferiori e alla zona lombare",
+          "Fino alle anche e alla parte alta delle cosce"
         ],
         "answer": 0,
         "explanation": "Gli autori suggeriscono di allungare il cilindro verso l'alto, fino alle scapole e alla colonna toracica."
@@ -88,9 +88,9 @@
       "check": {
         "question": "Quale muscolo è un esempio di stabilizzatore locale?",
         "options": [
-          "Grande gluteo",
-          "Obliquo esterno",
-          "Quadricipite",
+          "Grande gluteo dell'anca",
+          "Obliquo esterno del busto",
+          "Retto dell'addome",
           "Trasverso dell'addome"
         ],
         "answer": 3,
@@ -111,10 +111,10 @@
       "check": {
         "question": "Perché è un errore contrarre al massimo il core per uno sforzo molto leggero?",
         "options": [
-          "Perché aumenta la flessibilità",
+          "Perché rallenta i riflessi",
           "Perché spreca energia",
-          "Perché riduce la massa muscolare",
-          "Perché blocca la respirazione per sempre"
+          "Perché allenta i tendini",
+          "Perché affatica le gambe"
         ],
         "answer": 1,
         "explanation": "La stabilizzazione va dosata in base al carico: tensione massima per forze minime è uno spreco di energia."
@@ -135,10 +135,10 @@
       "check": {
         "question": "Qual è la cosa principale da osservare nelle valutazioni della stabilità del core?",
         "options": [
-          "Quante calorie consuma l'atleta",
-          "La frequenza cardiaca massima",
+          "Il mantenimento del bacino in massima retroversione",
+          "Il mantenimento del ritmo respiratorio durante la prova",
           "Il mantenimento della colonna in posizione neutra",
-          "La velocità di esecuzione"
+          "Il mantenimento della stessa velocità in ogni ripetizione"
         ],
         "answer": 2,
         "explanation": "Se l'atleta mantiene la colonna neutra durante movimenti o tenute isometriche, la stabilità del core è buona."
@@ -158,9 +158,9 @@
       "check": {
         "question": "Quante ripetizioni sono indicate come buon obiettivo nei test a basso carico?",
         "options": [
-          "5",
-          "10",
-          "50",
+          "15",
+          "20",
+          "40",
           "30"
         ],
         "answer": 3,
@@ -183,8 +183,8 @@
         "options": [
           "Leggermente flesse e morbide",
           "Completamente estese e rigide",
-          "Piegate a 90 gradi",
-          "A terra"
+          "Profondamente flesse e ferme",
+          "Via via flesse e spinte avanti"
         ],
         "answer": 0,
         "explanation": "Le ginocchia restano leggermente piegate, non bloccate, mentre l'atleta si inclina dalle anche con la colonna neutra."
@@ -204,10 +204,10 @@
       "check": {
         "question": "Quale errore va osservato nella Supine Hip Flexion durante l'estensione della gamba?",
         "options": [
-          "Le spalle si alzano da terra",
-          "La testa ruota di lato",
+          "Un eccessivo sollevamento delle spalle dal tappetino",
+          "Un eccessivo spostamento del capo verso un lato",
           "Un eccessivo inarcamento della colonna lombare",
-          "I piedi si incrociano"
+          "Un eccessivo piegamento delle braccia verso il petto"
         ],
         "answer": 2,
         "explanation": "Mentre la gamba si estende, il preparatore controlla che la zona lombare non si inarchi troppo."
@@ -228,9 +228,9 @@
         "question": "Quale test è indicato come metodo comune di valutazione ad alto carico?",
         "options": [
           "Plank",
-          "Waiters Bow",
-          "Supine Hip Flexion",
-          "Stretching dei flessori"
+          "Hinge",
+          "Crunch",
+          "Twist"
         ],
         "answer": 0,
         "explanation": "Il plank, tenuto in linea retta con colonna neutra il più a lungo possibile, è un comune test ad alto carico."
@@ -251,9 +251,9 @@
         "question": "Secondo il modello di Gibson e colleghi (2017), quale scelta aumenta la difficoltà di un esercizio per il core?",
         "options": [
           "Aumentare la base di appoggio",
-          "Accorciare la leva",
+          "Accorciare il braccio di leva",
           "Diminuire la base di appoggio",
-          "Ridurre i piani di movimento"
+          "Ridurre il numero di piani"
         ],
         "answer": 2,
         "explanation": "Ridurre la base di appoggio è una progressione; le altre opzioni rendono l'esercizio più facile."
@@ -276,7 +276,7 @@
           "2",
           "4",
           "3",
-          "6"
+          "5"
         ],
         "answer": 1,
         "explanation": "In posizione di push-up appoggi due mani e due piedi: quattro punti di contatto."
@@ -296,9 +296,9 @@
       "check": {
         "question": "Nel dead bug, come puoi applicare una regressione riducendo la complessità?",
         "options": [
-          "Aggiungere un peso alle caviglie",
-          "Muovere un braccio su un piano diverso",
-          "Eseguirlo su una palla bosu",
+          "Caricare le caviglie e distendere le gambe",
+          "Muovere le braccia e le gambe su piani diversi",
+          "Ridurre gli appoggi e muovere tutti gli arti",
           "Fermare le braccia e muovere solo le gambe"
         ],
         "answer": 3,
@@ -320,9 +320,9 @@
         "question": "Perché il push-up dalle ginocchia è più facile del push-up normale?",
         "options": [
           "Perché la leva è più corta",
-          "Perché la base di appoggio è più piccola",
-          "Perché coinvolge più piani di movimento",
-          "Perché la leva è più lunga"
+          "Perché la base è più stretta",
+          "Perché il busto è più verticale",
+          "Perché il movimento è più breve"
         ],
         "answer": 0,
         "explanation": "Appoggiando le ginocchia la leva si accorcia e il carico sul core diminuisce."
@@ -344,7 +344,7 @@
         "options": [
           "Anti-estensione",
           "Anti-rotazione",
-          "Anti-flessione laterale",
+          "Anti-fless. lat.",
           "Anti-abduzione"
         ],
         "answer": 3,
@@ -365,10 +365,10 @@
       "check": {
         "question": "Quali sono le due funzioni principali del core?",
         "options": [
-          "Respirazione e digestione",
-          "Flessibilità e velocità",
+          "Mobilità della colonna e produzione della spinta",
+          "Flessibilità del bacino e regolazione della falcata",
           "Stabilità della colonna e trasmissione della forza",
-          "Ipertrofia e resistenza aerobica"
+          "Protezione delle articolazioni e attenuazione degli impatti"
         ],
         "answer": 2,
         "explanation": "Il core stabilizza la colonna e trasmette la forza tra parte superiore e inferiore del corpo."
@@ -376,39 +376,135 @@
     }
   ],
   "flashcards": [
-    { "front": "Quali tre temi tratta la lezione 4.1?", "back": "Definizione del core, sua funzione e metodi di valutazione della stabilità.", "part": 0 },
-    { "front": "Il core coincide con gli addominali?", "back": "No: comprende molto di più, anche se gli addominali ne sono una parte molto importante.", "part": 1 },
-    { "front": "Definizione tradizionale di core?", "back": "Colonna lombare e regione del bacino: corretta, ma limitata se vista in modo isolato.", "part": 1 },
-    { "front": "Con quale immagine si descrive il core?", "back": "Un cilindro: il tronco, da cui partono tutti gli arti.", "part": 2 },
-    { "front": "Fin dove estendere il cilindro secondo Joyce e Lewindon (2014)?", "back": "Verso l'alto, fino alle scapole e alla colonna toracica.", "part": 2 },
-    { "front": "Quanto peso basterebbe a flettere la colonna senza muscoli?", "back": "Circa 10 kg.", "part": 3 },
-    { "front": "Elementi passivi ed elementi attivi del core?", "back": "Passivi: vertebre e articolazioni. Attivi: muscoli e tessuti non contrattili (tendini, fascia).", "part": 3 },
-    { "front": "I tre strati muscolari del core?", "back": "Stabilizzatori locali (trasverso), stabilizzatori globali (obliquo esterno), motori globali (grande gluteo).", "part": 3 },
-    { "front": "Funzioni primarie del core?", "back": "Stabilità della colonna e trasmissione della forza tra parte alta e bassa del corpo.", "part": 4 },
-    { "front": "Cosa succede con un core instabile?", "back": "Si perde forza, serve più sforzo e aumenta il rischio di lesioni.", "part": 4 },
-    { "front": "Criterio principale nelle valutazioni della stabilità del core?", "back": "La capacità di mantenere la colonna in posizione neutra.", "part": 5 },
-    { "front": "Isometrie e movimenti: cosa valutano?", "back": "Le isometrie la resistenza del core; i movimenti la capacità di restare stabile mentre ci si muove.", "part": 5 },
-    { "front": "Obiettivo di ripetizioni nei test a basso carico?", "back": "30 ripetizioni.", "part": 6 },
-    { "front": "Come si dà il punteggio nei test a basso carico?", "back": "A occhio: sono osservativi; si annota da quale ripetizione e come peggiora la tecnica.", "part": 6 },
-    { "front": "Che movimento è il Waiters Bow?", "back": "Un hip hinge: inclinarsi avanti dalle anche con colonna neutra e ginocchia morbide.", "part": 7 },
-    { "front": "Due errori da osservare nella Supine Hip Flexion?", "back": "Trattenere il respiro e irrigidirsi troppo; inarcare troppo la zona lombare.", "part": 8 },
-    { "front": "Esempi di valutazione ad alto carico?", "back": "Squat, stacco, affondo, analisi della corsa nello sprint e plank.", "part": 9 },
-    { "front": "Tre modi per progredire o regredire un esercizio (Gibson e colleghi, 2017)?", "back": "Base di appoggio, lunghezza della leva, complessità.", "part": 10 },
-    { "front": "Che cos'è la base di appoggio?", "back": "L'area che unisce tutti i punti di contatto con il suolo.", "part": 11 },
-    { "front": "Plank su bosu: progressione o regressione?", "back": "Progressione: due punti di contatto su superficie instabile.", "part": 11 },
-    { "front": "Cosa intendiamo per complessità di un esercizio?", "back": "Il numero di articolazioni e di piani di movimento coinvolti.", "part": 12 },
-    { "front": "Leva più lunga: esercizio più facile o più difficile?", "back": "Più difficile (es. push-up a gambe tese rispetto a quello dalle ginocchia).", "part": 13 },
-    { "front": "Le 4 categorie di allenamento del core?", "back": "Anti-flessione, anti-estensione, anti-flessione laterale, anti-rotazione.", "part": 14 },
-    { "front": "Riassumi la lezione in quattro parole chiave.", "back": "Cilindro, stabilità, valutazione (basso e alto carico), quattro categorie anti.", "part": 15 }
+    {
+      "front": "Quali tre temi tratta la lezione 4.1?",
+      "back": "Definizione del core, sua funzione e metodi di valutazione della stabilità.",
+      "part": 0
+    },
+    {
+      "front": "Il core coincide con gli addominali?",
+      "back": "No: comprende molto di più, anche se gli addominali ne sono una parte molto importante.",
+      "part": 1
+    },
+    {
+      "front": "Definizione tradizionale di core?",
+      "back": "Colonna lombare e regione del bacino: corretta, ma limitata se vista in modo isolato.",
+      "part": 1
+    },
+    {
+      "front": "Con quale immagine si descrive il core?",
+      "back": "Un cilindro: il tronco, da cui partono tutti gli arti.",
+      "part": 2
+    },
+    {
+      "front": "Fin dove estendere il cilindro secondo Joyce e Lewindon (2014)?",
+      "back": "Verso l'alto, fino alle scapole e alla colonna toracica.",
+      "part": 2
+    },
+    {
+      "front": "Quanto peso basterebbe a flettere la colonna senza muscoli?",
+      "back": "Circa 10 kg.",
+      "part": 3
+    },
+    {
+      "front": "Elementi passivi ed elementi attivi del core?",
+      "back": "Passivi: vertebre e articolazioni. Attivi: muscoli e tessuti non contrattili (tendini, fascia).",
+      "part": 3
+    },
+    {
+      "front": "I tre strati muscolari del core?",
+      "back": "Stabilizzatori locali (trasverso), stabilizzatori globali (obliquo esterno), motori globali (grande gluteo).",
+      "part": 3
+    },
+    {
+      "front": "Funzioni primarie del core?",
+      "back": "Stabilità della colonna e trasmissione della forza tra parte alta e bassa del corpo.",
+      "part": 4
+    },
+    {
+      "front": "Cosa succede con un core instabile?",
+      "back": "Si perde forza, serve più sforzo e aumenta il rischio di lesioni.",
+      "part": 4
+    },
+    {
+      "front": "Criterio principale nelle valutazioni della stabilità del core?",
+      "back": "La capacità di mantenere la colonna in posizione neutra.",
+      "part": 5
+    },
+    {
+      "front": "Isometrie e movimenti: cosa valutano?",
+      "back": "Le isometrie la resistenza del core; i movimenti la capacità di restare stabile mentre ci si muove.",
+      "part": 5
+    },
+    {
+      "front": "Obiettivo di ripetizioni nei test a basso carico?",
+      "back": "30 ripetizioni.",
+      "part": 6
+    },
+    {
+      "front": "Come si dà il punteggio nei test a basso carico?",
+      "back": "A occhio: sono osservativi; si annota da quale ripetizione e come peggiora la tecnica.",
+      "part": 6
+    },
+    {
+      "front": "Che movimento è il Waiters Bow?",
+      "back": "Un hip hinge: inclinarsi avanti dalle anche con colonna neutra e ginocchia morbide.",
+      "part": 7
+    },
+    {
+      "front": "Due errori da osservare nella Supine Hip Flexion?",
+      "back": "Trattenere il respiro e irrigidirsi troppo; inarcare troppo la zona lombare.",
+      "part": 8
+    },
+    {
+      "front": "Esempi di valutazione ad alto carico?",
+      "back": "Squat, stacco, affondo, analisi della corsa nello sprint e plank.",
+      "part": 9
+    },
+    {
+      "front": "Tre modi per progredire o regredire un esercizio (Gibson e colleghi, 2017)?",
+      "back": "Base di appoggio, lunghezza della leva, complessità.",
+      "part": 10
+    },
+    {
+      "front": "Che cos'è la base di appoggio?",
+      "back": "L'area che unisce tutti i punti di contatto con il suolo.",
+      "part": 11
+    },
+    {
+      "front": "Plank su bosu: progressione o regressione?",
+      "back": "Progressione: due punti di contatto su superficie instabile.",
+      "part": 11
+    },
+    {
+      "front": "Cosa intendiamo per complessità di un esercizio?",
+      "back": "Il numero di articolazioni e di piani di movimento coinvolti.",
+      "part": 12
+    },
+    {
+      "front": "Leva più lunga: esercizio più facile o più difficile?",
+      "back": "Più difficile (es. push-up a gambe tese rispetto a quello dalle ginocchia).",
+      "part": 13
+    },
+    {
+      "front": "Le 4 categorie di allenamento del core?",
+      "back": "Anti-flessione, anti-estensione, anti-flessione laterale, anti-rotazione.",
+      "part": 14
+    },
+    {
+      "front": "Riassumi la lezione in quattro parole chiave.",
+      "back": "Cilindro, stabilità, valutazione (basso e alto carico), quattro categorie anti.",
+      "part": 15
+    }
   ],
   "questions": [
     {
       "question": "Quale affermazione sul core è corretta?",
       "options": [
-        "Il core coincide con il retto dell'addome",
+        "Il core comprende solo i muscoli profondi, che sostengono la colonna",
         "Il core comprende molto più degli addominali, che restano comunque importanti",
-        "Gli addominali non fanno parte del core",
-        "Esiste una definizione di core accettata da tutti i preparatori"
+        "Il core comprende soltanto i muscoli del bacino, che controllano le anche",
+        "Il core comprende solo i tessuti contrattili, che producono la forza"
       ],
       "answer": 1,
       "explanation": "Il core va oltre gli addominali, che però ne sono un aspetto molto importante; i preparatori non concordano su una definizione unica.",
@@ -417,10 +513,10 @@
     {
       "question": "Secondo Joyce e Lewindon (2014), il cilindro del core può essere utilmente esteso:",
       "options": [
-        "Verso il basso fino alle caviglie",
-        "Solo alla parete addominale anteriore",
+        "Verso il basso fino alle ginocchia e alla parte alta dei polpacci",
+        "Verso l'alto fino alla nuca e alla colonna cervicale",
         "Verso l'alto fino alle scapole e alla colonna toracica",
-        "Alla sola colonna cervicale"
+        "Verso l'esterno fino alle braccia e alle articolazioni dei gomiti"
       ],
       "answer": 2,
       "explanation": "Gli autori suggeriscono di allungare il cilindro fino a scapole e colonna toracica.",
@@ -430,9 +526,9 @@
       "question": "In assenza del tessuto muscolare circostante, quale peso basterebbe a far flettere la colonna?",
       "options": [
         "Circa 10 kg",
+        "Circa 25 kg",
         "Circa 50 kg",
-        "Circa 100 kg",
-        "Circa 2 kg"
+        "Circa 5 kg"
       ],
       "answer": 0,
       "explanation": "Gli elementi passivi da soli non bastano: circa 10 kg causerebbero la flessione della colonna.",
@@ -442,8 +538,8 @@
       "question": "Quale gruppo muscolare produce la forza per resistere ai movimenti indesiderati del busto, come l'obliquo esterno?",
       "options": [
         "Stabilizzatori locali",
-        "Motori globali",
-        "Elementi passivi",
+        "Motori globali del tronco",
+        "Muscoli flessori dell'anca",
         "Stabilizzatori globali"
       ],
       "answer": 3,
@@ -453,10 +549,10 @@
     {
       "question": "Il grande gluteo è classificato come:",
       "options": [
-        "Stabilizzatore locale",
+        "Fissatore locale",
         "Motore globale",
-        "Stabilizzatore globale",
-        "Elemento passivo"
+        "Fissatore globale",
+        "Vincolo passivo"
       ],
       "answer": 1,
       "explanation": "I motori globali sono grandi muscoli multisegmentali, come il grande gluteo, che generano il movimento articolare.",
@@ -465,10 +561,10 @@
     {
       "question": "Durante uno sprint, cosa succede se il core è instabile?",
       "options": [
-        "La forza delle gambe viene trasferita meglio",
-        "Il rischio di lesioni diminuisce",
+        "La spinta diventa più efficace e la velocità aumenta",
+        "La postura migliora e la falcata diventa più regolare",
         "La tecnica peggiora e probabilmente la prestazione cala",
-        "Le braccia lavorano come pistoni più efficaci"
+        "La coordinazione migliora e la dispersione di forza diminuisce"
       ],
       "answer": 2,
       "explanation": "Se la spinta delle gambe crea movimenti indesiderati del tronco, tecnica e prestazione peggiorano e cresce il rischio di lesioni.",
@@ -477,9 +573,9 @@
     {
       "question": "Quale affermazione sulla valutazione della stabilità del core è corretta?",
       "options": [
-        "Un singolo test valuta tutte le forme di stabilità del core",
-        "Basta valutare un solo piano di movimento",
-        "Servono solo test ad alto carico",
+        "Nessun test da solo fornisce indicazioni utili sul controllo posturale",
+        "Nessun test da solo permette di osservare la posizione della colonna",
+        "Nessun test da solo permette di stimare la resistenza muscolare",
         "Nessun test da solo valuta la stabilità del core in tutte le sue forme"
       ],
       "answer": 3,
@@ -490,9 +586,9 @@
       "question": "Le tenute isometriche nella valutazione del core danno soprattutto un'idea di:",
       "options": [
         "Resistenza del core",
-        "Potenza esplosiva",
-        "Mobilità dell'anca",
-        "Velocità di reazione"
+        "Potenza del tronco",
+        "Mobilità del bacino",
+        "Rapidità esecutiva"
       ],
       "answer": 0,
       "explanation": "Le isometrie indicano la resistenza; i movimenti la capacità di restare stabili muovendosi.",
@@ -501,10 +597,10 @@
     {
       "question": "Come si attribuisce il punteggio nelle valutazioni del core a basso carico?",
       "options": [
-        "Con una tabella normativa a punti",
-        "Con un dinamometro",
+        "Soprattutto con una scala numerica standardizzata",
+        "Soprattutto con la misurazione della forza massima",
         "Soprattutto con l'osservazione del preparatore",
-        "Con il cardiofrequenzimetro"
+        "Soprattutto con la misurazione della frequenza cardiaca"
       ],
       "answer": 2,
       "explanation": "Sono test osservativi: l'occhio del preparatore è il principale sistema di punteggio.",
@@ -514,9 +610,9 @@
       "question": "Nel Waiters Bow l'atleta:",
       "options": [
         "Si inclina in avanti dalle anche con colonna neutra e ginocchia leggermente flesse",
-        "Esegue uno squat profondo con il bilanciere",
-        "Si sdraia supino e solleva una gamba a 90 gradi",
-        "Mantiene la posizione di push-up il più a lungo possibile"
+        "Si inclina in avanti dalle anche mantenendo le ginocchia tese per tutto il movimento",
+        "Si inclina in avanti arrotondando la zona lombare e mantenendo ferme le anche",
+        "Si inclina in avanti flettendo soprattutto le ginocchia e limitando la flessione delle anche"
       ],
       "answer": 0,
       "explanation": "Il Waiters Bow è un hip hinge: inclinazione dalle anche senza perdere il controllo della colonna.",
@@ -525,10 +621,10 @@
     {
       "question": "Nella Supine Hip Flexion, il fatto che l'atleta trattenga il respiro e si irrigidisca eccessivamente indica che:",
       "options": [
-        "Il test è stato eseguito perfettamente",
+        "Sta dosando la tensione in modo efficiente per tutta la prova",
         "Sta usando troppa tensione per un movimento a basso carico",
-        "Ha una base di appoggio troppo ampia",
-        "Deve passare subito a un test ad alto carico"
+        "Sta usando una strategia necessaria per mantenere neutra la schiena",
+        "Sta mostrando un controllo sufficiente per passare a carichi elevati"
       ],
       "answer": 1,
       "explanation": "In un movimento a basso carico non dovrebbe trattenere il respiro né irrigidirsi troppo.",
@@ -537,9 +633,9 @@
     {
       "question": "Nel plank usato come valutazione ad alto carico, cosa osserva principalmente il preparatore?",
       "options": [
-        "Solo il tempo totale sul cronometro",
-        "La frequenza respiratoria",
-        "Il numero di ripetizioni dinamiche",
+        "Quando inizia la tenuta e quanti secondi trascorrono fino alla fine",
+        "Quando rallenta la respirazione e quanto dura ciascuna pausa",
+        "Quando aumenta la tensione muscolare e in quale zona viene percepita",
         "Quando compaiono errori nello schema motorio e di che tipo sono"
       ],
       "answer": 3,
@@ -549,10 +645,10 @@
     {
       "question": "Quale combinazione rende un esercizio per il core più facile secondo il modello di Gibson e colleghi (2017)?",
       "options": [
-        "Base più piccola, leva più lunga, più complessità",
+        "Base più stretta, leva più lunga, maggiore complessità",
         "Base più grande, leva più corta, meno complessità",
-        "Base più grande, leva più lunga, più complessità",
-        "Base più piccola, leva più corta, meno complessità"
+        "Base più stretta, leva più corta, maggiore complessità",
+        "Base più stretta, leva più lunga, complessità invariata"
       ],
       "answer": 1,
       "explanation": "Per una regressione si aumenta la base, si accorcia la leva e si riduce la complessità.",
@@ -561,10 +657,10 @@
     {
       "question": "Eseguire un plank con le mani su una palla bosu è considerato:",
       "options": [
-        "Una regressione, perché aumenta la base di appoggio",
-        "Un esercizio di anti-rotazione",
+        "Una regressione, perché la superficie cedevole riduce la richiesta di controllo",
+        "Una progressione, perché la superficie cedevole aumenta la lunghezza della leva",
         "Una progressione, perché due punti di contatto sono su una superficie instabile",
-        "Una modifica della leva"
+        "Una variante equivalente, perché il numero dei punti di contatto resta invariato"
       ],
       "answer": 2,
       "explanation": "La superficie instabile sotto le mani obbliga il core a lavorare di più: è una progressione.",
@@ -574,9 +670,9 @@
       "question": "Quale elenco riporta correttamente le 4 categorie di allenamento del core?",
       "options": [
         "Anti-flessione, anti-estensione, anti-flessione laterale, anti-rotazione",
-        "Flessione, estensione, rotazione, circonduzione",
-        "Anti-flessione, anti-abduzione, anti-adduzione, anti-rotazione",
-        "Isometria, concentrica, eccentrica, pliometria"
+        "Anti-flessione, anti-estensione, anti-abduzione, anti-adduzione",
+        "Anti-flessione, anti-traslazione, anti-flessione laterale, anti-rotazione",
+        "Anti-estensione, anti-flessione laterale, anti-elevazione, anti-rotazione"
       ],
       "answer": 0,
       "explanation": "Le 4 categorie derivano dalla funzione del core di resistere ai movimenti indesiderati.",

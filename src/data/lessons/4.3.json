@@ -19,10 +19,10 @@
       "check": {
         "question": "A che cosa si oppongono i muscoli allenati negli esercizi anti-estensione?",
         "options": [
-          "Alla rotazione del busto",
+          "Alla rotazione del busto, cioè alla torsione sul proprio asse",
           "All'estensione della colonna, cioè all'arco all'indietro",
-          "All'inclinazione laterale",
-          "Alla flessione dell'anca"
+          "All'inclinazione del busto, cioè al piegamento di lato",
+          "Alla flessione della colonna, cioè al piegamento in avanti"
         ],
         "answer": 1,
         "explanation": "Gli esercizi anti-estensione colpiscono i muscoli che impediscono alla colonna di inarcarsi all'indietro."
@@ -43,9 +43,9 @@
         "question": "Quale postura è più frequente nelle popolazioni atletiche secondo la lezione?",
         "options": [
           "Iperflessione",
-          "Inclinazione laterale",
+          "Lateroflessione",
           "Iperestensione",
-          "Rotazione del tronco"
+          "Retroversione"
         ],
         "answer": 2,
         "explanation": "Negli atleti prevale spesso la tendenza all'iperestensione, per questo l'anti-estensione è molto utile."
@@ -65,10 +65,10 @@
       "check": {
         "question": "Quale tempo di tenuta è già considerato un buon risultato nel plank?",
         "options": [
-          "10–15 secondi",
-          "Almeno 5 minuti",
+          "Un minimo di 15 secondi",
+          "Un minimo di 3 minuti",
           "Un minuto o 90 secondi",
-          "Più di 3 minuti"
+          "Un totale di 5 minuti"
         ],
         "answer": 2,
         "explanation": "Non servono tempi enormi: tenere bene la forma per un minuto o 90 secondi è già un buon risultato."
@@ -88,9 +88,9 @@
         "question": "Qual è la differenza principale tra plank alto e plank classico?",
         "options": [
           "Cambia solo l'appoggio delle braccia",
-          "Il plank alto allena muscoli diversi",
-          "Il plank alto si fa in estensione",
-          "Il plank alto si fa sulle ginocchia"
+          "Cambia solo l'appoggio delle gambe",
+          "Cambia solo la posizione del bacino",
+          "Cambia solo il gruppo muscolare allenato"
         ],
         "answer": 0,
         "explanation": "Il plank alto ricrea il plank nella posizione alta del push-up: cambia solo il posizionamento delle braccia."
@@ -110,10 +110,10 @@
       "check": {
         "question": "Come conviene progredire un atleta che tiene il plank per 2 minuti?",
         "options": [
-          "Portarlo a 4–5 minuti",
+          "Prolungare la durata della serie",
           "Togliere un punto di appoggio",
-          "Passare al plank sulle ginocchia",
-          "Aggiungere un arco lombare"
+          "Accorciare la leva con le ginocchia",
+          "Allargare la base di appoggio"
         ],
         "answer": 1,
         "explanation": "Invece di allungare il tempo, si toglie un punto di contatto per aumentare la richiesta di stabilità."
@@ -133,9 +133,9 @@
       "check": {
         "question": "Perché il plank sulle ginocchia è più facile?",
         "options": [
-          "Perché attiva di più i flessori dell'anca",
-          "Perché toglie un punto di appoggio",
-          "Perché porta la colonna in estensione",
+          "Perché sfrutta la spinta dei flessori",
+          "Perché aumenta il numero degli appoggi",
+          "Perché favorisce l'arco della zona lombare",
           "Perché accorcia la lunghezza della leva"
         ],
         "answer": 3,
@@ -156,10 +156,10 @@
       "check": {
         "question": "Che cosa si fa prima di iniziare il dead bug?",
         "options": [
-          "Si inarca la schiena per prendere slancio",
-          "Si trattiene il respiro a lungo",
+          "Si solleva la zona lombare dal pavimento",
+          "Si trattiene il fiato per irrigidire il tronco",
           "Si preme la zona lombare contro il pavimento",
-          "Si appoggiano i piedi a terra"
+          "Si porta il bacino in lieve rotazione"
         ],
         "answer": 2,
         "explanation": "Premere la parte bassa della schiena a terra attiva il core anteriore fin dall'inizio."
@@ -179,10 +179,10 @@
       "check": {
         "question": "Come si rende ancora più difficile il dead bug con elastico?",
         "options": [
-          "Si allentano completamente le braccia",
-          "Si piegano le gambe al petto",
+          "Si riduce la distanza dall'ancoraggio",
+          "Si accorcia la leva piegando le gambe",
           "Si aumenta la tensione della banda",
-          "Si trattiene il respiro"
+          "Si limita la discesa delle gambe"
         ],
         "answer": 2,
         "explanation": "Più tensione sull'elastico significa più forza che spinge verso l'estensione da contrastare."
@@ -203,9 +203,9 @@
         "question": "Nel dead bug con kettlebell, quando si porta il peso sopra la testa?",
         "options": [
           "Mentre si allunga una gamba",
-          "Solo quando le gambe sono a terra",
+          "Mentre si allungano le due gambe",
           "Mentre si solleva il bacino",
-          "Mai, il kettlebell resta sul petto"
+          "Mentre si sollevano le gambe"
         ],
         "answer": 0,
         "explanation": "Il movimento resta quello del dead bug: il kettlebell va sopra la testa mentre una gamba si allunga."
@@ -226,9 +226,9 @@
         "question": "Qual è la regressione diretta del dead bug?",
         "options": [
           "Allungare solo la gamba, senza il braccio",
-          "Aggiungere un kettlebell",
-          "Fare il dead bug in piedi",
-          "Aumentare la tensione dell'elastico"
+          "Piegare il busto verso le ginocchia",
+          "Allungare insieme le due gambe",
+          "Sollevare il bacino a ogni ripetizione"
         ],
         "answer": 0,
         "explanation": "Muovere solo la gamba riduce le forze di estensione e rende più facile restare stabili."
@@ -248,10 +248,10 @@
       "check": {
         "question": "Nella vertical press in piedi, come vanno messi i piedi?",
         "options": [
-          "Paralleli e uniti",
+          "Perfettamente allineati",
           "Leggermente sfalsati",
-          "Su una gamba sola",
-          "Molto larghi e paralleli"
+          "Strettamente ravvicinati",
+          "Specularmente divaricati"
         ],
         "answer": 1,
         "explanation": "Una leggera sfalsatura allarga la base di appoggio; i piedi paralleli riducono la base e l'equilibrio."
@@ -271,10 +271,10 @@
       "check": {
         "question": "Da cosa nascono spesso i problemi legati a crunch e sit-up secondo la lezione?",
         "options": [
-          "Dal fatto di farli a fine seduta",
+          "Da una normale flessione della colonna",
           "Da una cattiva tecnica ed esecuzione",
-          "Dall'uso dei manubri",
-          "Dal respirare durante il movimento"
+          "Da una pausa troppo lunga tra le serie",
+          "Da una respirazione regolare sotto sforzo"
         ],
         "answer": 1,
         "explanation": "Molti problemi derivano da tecnica ed esecuzione scorrette; migliorandole si riduce il rischio di fastidi."
@@ -294,9 +294,9 @@
       "check": {
         "question": "Quale posizione delle braccia rende il crunch più impegnativo?",
         "options": [
-          "Braccia lungo i fianchi",
-          "Mani sul petto",
-          "Mani appoggiate sulle cosce",
+          "Braccia distese lungo i fianchi",
+          "Braccia incrociate davanti al petto",
+          "Braccia tese in avanti verso le cosce",
           "Braccia tese dritte dietro di te"
         ],
         "answer": 3,
@@ -317,10 +317,10 @@
       "check": {
         "question": "Di quanto si sollevano le spalle nel crunch isometrico?",
         "options": [
-          "Fino a toccare le ginocchia",
+          "Di cinque o sei centimetri",
           "Di uno o due centimetri",
-          "Di circa 30 centimetri",
-          "Non si sollevano, si sollevano le gambe"
+          "Di dieci o dodici centimetri",
+          "Di venti o trenta centimetri"
         ],
         "answer": 1,
         "explanation": "Si alzano le spalle di un centimetro o due e si tiene la posizione: contrazione isometrica."
@@ -340,9 +340,9 @@
       "check": {
         "question": "A cosa serve l'elastico dietro le caviglie nel sit-up?",
         "options": [
-          "A far lavorare di più i flessori dell'anca",
-          "A impedire la flessione della colonna",
-          "A sostituire il compagno che tiene i piedi",
+          "A favorire la flessione dell'anca e aumentare il contributo dei flessori nella risalita",
+          "A mantenere la colonna in posizione neutra e limitare la flessione del tronco",
+          "A stabilizzare i piedi e sostituire la presa del compagno durante la risalita",
           "A indurre l'inibizione reciproca e ridurre il contributo dei flessori dell'anca"
         ],
         "answer": 3,
@@ -363,10 +363,10 @@
       "check": {
         "question": "Quale di questi esercizi NON è stato trattato nella lezione?",
         "options": [
-          "Vertical press con elastico",
+          "Plank alto",
           "Dead bug",
           "Side plank",
-          "Sit-up"
+          "Crunch base"
         ],
         "answer": 2,
         "explanation": "La lezione ha trattato plank, dead bug, vertical press, crunch e sit-up; il side plank non è incluso."
@@ -474,10 +474,10 @@
     {
       "question": "Quale muscolo è il protagonista principale degli esercizi anti-estensione per il core?",
       "options": [
-        "Erettori spinali",
+        "Obliquo esterno",
         "Retto dell'addome",
-        "Grande gluteo",
-        "Gran dorsale"
+        "Trasverso dell'addome",
+        "Quadrato dei lombi"
       ],
       "answer": 1,
       "explanation": "Gli esercizi anti-estensione coinvolgono il core anteriore, soprattutto il retto dell'addome e, meno, gli obliqui.",
@@ -487,9 +487,9 @@
       "question": "Perché gli esercizi anti-estensione possono essere molto utili negli atleti?",
       "options": [
         "Perché gli atleti tendono spesso a una postura in iperestensione",
-        "Perché gli atleti tendono spesso all'iperflessione",
-        "Perché sostituiscono il lavoro di forza delle gambe",
-        "Perché migliorano soprattutto la rotazione"
+        "Perché gli atleti tendono spesso a una postura in iperflessione",
+        "Perché gli atleti possono così sostituire il lavoro di forza delle gambe",
+        "Perché gli atleti allenano così soprattutto la rotazione del busto"
       ],
       "answer": 0,
       "explanation": "Nelle popolazioni atletiche è frequente la tendenza all'iperestensione più che all'iperflessione.",
@@ -498,10 +498,10 @@
     {
       "question": "Nel plank, perché lasciarsi andare in estensione non è una buona posizione?",
       "options": [
-        "Perché attiva troppo il retto dell'addome",
+        "Perché glutei e muscoli posteriori della coscia si accorciano e il bacino sale troppo",
         "Perché vertebre e flessori dell'anca danno un appoggio passivo e il core lavora meno",
-        "Perché accorcia la leva",
-        "Perché impedisce di respirare"
+        "Perché costole e diaframma si muovono meno e la respirazione diventa il limite principale",
+        "Perché spalle e braccia assorbono più carico e il cedimento dipende soprattutto da loro"
       ],
       "answer": 1,
       "explanation": "In estensione le vertebre si avvicinano e i flessori dell'anca si allungano dando supporto: il core non è impegnato in modo ottimale.",
@@ -510,10 +510,10 @@
     {
       "question": "Un atleta tiene il plank per 2 minuti con buona tecnica. Qual è la scelta migliore?",
       "options": [
-        "Portarlo gradualmente a 5 minuti",
-        "Passare al plank sulle ginocchia",
+        "Allungare la tenuta fino a cinque minuti",
+        "Spostare l'appoggio dai piedi alle ginocchia",
         "Sollevare una mano o un piede da terra",
-        "Smettere di allenare il core"
+        "Allargare la distanza tra i punti di appoggio"
       ],
       "answer": 2,
       "explanation": "Dopo 90 secondi–2 minuti non serve allungare il tempo: si toglie un punto di contatto per aumentare la richiesta di stabilità.",
@@ -523,9 +523,9 @@
       "question": "Qual è la progressione più avanzata del plank descritta nella lezione?",
       "options": [
         "Sollevare insieme una mano e un piede",
-        "Fare il plank sulle ginocchia",
-        "Fare il plank sui gomiti per 4 minuti",
-        "Passare alla posizione alta del push-up"
+        "Sollevare soltanto un piede da terra",
+        "Prolungare la tenuta fino a quattro minuti",
+        "Avvicinare i piedi mantenendo gli appoggi"
       ],
       "answer": 0,
       "explanation": "Nei casi più avanzati si rimuovono contemporaneamente una mano e un piede.",
@@ -534,9 +534,9 @@
     {
       "question": "Il plank sulle ginocchia è una regressione perché:",
       "options": [
-        "Aumenta i punti di appoggio a sei",
-        "Elimina il lavoro del retto dell'addome",
-        "Porta la colonna in flessione",
+        "Aumenta la mobilità delle anche",
+        "Riduce la tensione delle spalle",
+        "Accentua la curva lombare",
         "Accorcia la lunghezza della leva"
       ],
       "answer": 3,
@@ -547,9 +547,9 @@
       "question": "Per chi è indicato il plank alto (posizione alta del push-up)?",
       "options": [
         "Per chi trova scomodo stare sui gomiti",
-        "Solo per atleti avanzati",
-        "Per chi vuole allenare la rotazione",
-        "Per chi ha già padroneggiato il plank con una mano"
+        "Per chi ha una mobilità limitata dei polsi",
+        "Per chi fatica a tenere le braccia tese",
+        "Per chi vuole allenare una spinta rapida"
       ],
       "answer": 0,
       "explanation": "È un plank con un diverso appoggio delle braccia, alternativa più comoda per chi trova scomodi i gomiti.",
@@ -558,10 +558,10 @@
     {
       "question": "Nel dead bug, che cosa rende la sfida più grande mentre si esegue il movimento?",
       "options": [
-        "Piegare le ginocchia al petto",
+        "Il peso delle gambe che si raccolgono verso il petto",
         "Il peso degli arti che si allontanano e porta il core in estensione",
-        "Trattenere il respiro",
-        "Staccare la schiena da terra"
+        "Il carico delle braccia che tornano verso la verticale",
+        "Il peso della testa che preme contro il pavimento"
       ],
       "answer": 1,
       "explanation": "Più si estendono le estremità, più il loro peso spinge verso l'estensione e il core deve lavorare.",
@@ -570,10 +570,10 @@
     {
       "question": "Come si può rendere più impegnativo il dead bug senza attrezzi?",
       "options": [
-        "Trattenendo il respiro con forte pressione addominale",
-        "Muovendo solo la gamba",
+        "Trattenendo il fiato mentre si distendono gli arti",
+        "Accorciando la leva mentre si distende la gamba",
         "Espirando mentre si allungano braccio e gamba",
-        "Inarcando leggermente la schiena"
+        "Inarcando la schiena mentre si abbassano gli arti"
       ],
       "answer": 2,
       "explanation": "Espirare mentre si estendono gli arti costringe i muscoli a lavorare di più per tenere la colonna stabile.",
@@ -582,10 +582,10 @@
     {
       "question": "Nel dead bug con kettlebell, il kettlebell:",
       "options": [
-        "Si tiene con una sola mano sul petto",
-        "Si appoggia sulle cosce",
+        "Si tiene sopra il petto mentre si allunga una gamba",
+        "Si sposta verso un fianco mentre si allunga una gamba",
         "Si porta sopra la testa mentre si allunga una gamba",
-        "Si lega alle caviglie"
+        "Si porta verso il bacino mentre si allunga una gamba"
       ],
       "answer": 2,
       "explanation": "Si tiene con entrambe le mani e si porta sopra la testa mentre una gamba si estende.",
@@ -594,9 +594,9 @@
     {
       "question": "Nella vertical press con elastico eseguita in piedi, perché si evitano i piedi paralleli?",
       "options": [
-        "Perché aumentano troppo la tensione dell'elastico",
-        "Perché impediscono di bloccare il torace",
-        "Perché attivano i flessori dell'anca",
+        "Perché aumentano la tensione della banda già in partenza",
+        "Perché limitano la salita delle braccia sopra la testa",
+        "Perché riducono la capacità delle spalle di produrre forza",
         "Perché riducono la base di appoggio e l'equilibrio"
       ],
       "answer": 3,
@@ -606,10 +606,10 @@
     {
       "question": "Nel crunch, quale posizione delle mani è un po' più facile rispetto alle mani ai lati delle tempie?",
       "options": [
-        "Braccia tese dietro la testa",
+        "Mani sulla testa",
         "Mani sul petto",
-        "Mani dietro la nuca con gomiti chiusi",
-        "Braccia tese verso il soffitto con un peso"
+        "Mani sulla nuca",
+        "Mani agli orecchi"
       ],
       "answer": 1,
       "explanation": "Le mani sul petto avvicinano la massa delle braccia al fulcro e rendono il crunch leggermente più facile.",
@@ -618,9 +618,9 @@
     {
       "question": "Che tipo di contrazione si ottiene nel crunch in cui sollevi le spalle di 1–2 cm e tieni?",
       "options": [
-        "Concentrica",
-        "Eccentrica",
-        "Pliometrica",
+        "Dinamica",
+        "Isotonica",
+        "Isocinetica",
         "Isometrica"
       ],
       "answer": 3,
@@ -631,9 +631,9 @@
       "question": "Nel sit-up con elastico dietro le caviglie, quali muscoli si rilassano per inibizione reciproca?",
       "options": [
         "Quadricipiti e flessori dell'anca",
-        "Muscoli posteriori della coscia",
-        "Retto dell'addome e obliqui",
-        "Polpacci e glutei"
+        "Ischiocrurali ed estensori dell’anca",
+        "Obliqui interni e obliqui esterni",
+        "Adduttori e rotatori dell’anca"
       ],
       "answer": 0,
       "explanation": "I posteriori della coscia si contraggono contro l'elastico e il gruppo opposto, quadricipiti e flessori dell'anca, si rilassa.",
@@ -642,10 +642,10 @@
     {
       "question": "Qual è la preoccupazione principale di chi sconsiglia crunch e sit-up?",
       "options": [
-        "Che riducano la velocità di sprint",
-        "Che allenino troppo gli erettori spinali",
+        "Che la tensione addominale prolungata riduca la mobilità del bacino",
+        "Che la fatica dei flessori dell’anca comprometta la stabilità del ginocchio",
         "Che la flessione spinale ripetuta favorisca la degenerazione dei dischi",
-        "Che causino iperestensione lombare"
+        "Che la trazione sulle vertebre irrigidisca la muscolatura lombare"
       ],
       "answer": 2,
       "explanation": "Una scuola di pensiero teme che la flessione ripetuta possa portare a degenerazione dei dischi e problemi alla schiena.",

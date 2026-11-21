@@ -18,10 +18,10 @@
       "check": {
         "question": "Qual è l'idea di base dell'allenamento anti-flessione laterale?",
         "options": [
-          "Piegarsi di lato con un manubrio il più possibile",
+          "Consentire al busto di inclinarsi sotto un carico",
           "Impedire al busto di piegarsi di lato sotto un carico",
-          "Ruotare il busto contro un elastico",
-          "Inarcare la schiena all'indietro"
+          "Impedire al busto di ruotare contro una resistenza",
+          "Impedire al busto di inarcarsi sotto un carico"
         ],
         "answer": 1,
         "explanation": "Il carico prova a piegarti di lato e tu resisti: il busto resta dritto e stabile."
@@ -40,9 +40,9 @@
       "check": {
         "question": "Che cosa va evitato soprattutto negli esercizi anti-flessione laterale?",
         "options": [
-          "Qualsiasi contrazione dei muscoli addominali",
-          "L'uso di manubri o kettlebell",
-          "Camminare durante l'esercizio",
+          "Contrazioni addominali prolungate, specie con carichi leggeri",
+          "Camminate lente e controllate, specie con manubri pesanti",
+          "Tenute statiche prolungate, specie con leve corte",
           "Flessioni laterali estreme, specie con carichi pesanti"
         ],
         "answer": 3,
@@ -64,8 +64,8 @@
         "options": [
           "Il quadrato dei lombi",
           "Il grande gluteo",
-          "Il gran dorsale",
-          "L'ileopsoas"
+          "Il multifido lombare",
+          "Il piccolo psoas"
         ],
         "answer": 0,
         "explanation": "Insieme a obliqui e retto dell'addome, il quadrato dei lombi lavora per impedire al tronco di piegarsi di lato."
@@ -85,10 +85,10 @@
       "check": {
         "question": "Perché il suitcase carry aumenta la sfida rispetto al farmer's walk?",
         "options": [
-          "Perché si usano pesi più leggeri",
-          "Perché il peso sta sopra la testa",
+          "Perché il peso sta davanti al busto e il tronco deve evitare di flettersi in avanti",
+          "Perché il peso sta sopra il capo e il tronco deve limitare l'inarcamento",
           "Perché il peso sta su un lato e il lato opposto deve lavorare di più",
-          "Perché si cammina all'indietro"
+          "Perché il peso si tiene lontano dal fianco e il braccio deve restare sollevato"
         ],
         "answer": 2,
         "explanation": "Con il peso in una sola mano, il lato opposto del core deve attivarsi di più per tenerti allineato."
@@ -109,9 +109,9 @@
         "question": "Dove va posizionato l'avambraccio nel side plank?",
         "options": [
           "Direttamente sotto la spalla",
-          "Davanti alla testa, ben lontano dal corpo",
-          "All'altezza del fianco",
-          "Sopra la testa, con il gomito teso"
+          "Direttamente davanti al viso",
+          "Direttamente accanto al fianco",
+          "Direttamente sotto il petto"
         ],
         "answer": 0,
         "explanation": "L'avambraccio a terra sta proprio sotto la spalla, poi il corpo forma una linea retta dalla testa ai piedi."
@@ -131,9 +131,9 @@
       "check": {
         "question": "Perché il side plank sulle ginocchia è più facile?",
         "options": [
-          "Perché si tiene per meno tempo",
-          "Perché lavora solo il retto dell'addome",
-          "Perché si aggiunge un movimento del braccio",
+          "Perché prevede una tenuta più breve a ogni ripetizione",
+          "Perché sposta gran parte del lavoro dal core alla spalla",
+          "Perché consente di tenere le anche appoggiate a terra",
           "Perché accorcia la leva e dà una base più stabile"
         ],
         "answer": 3,
@@ -154,10 +154,10 @@
       "check": {
         "question": "Come si rende più difficile il side lying hold?",
         "options": [
-          "Facendo sporgere meno busto dalla panca",
+          "Riducendo la parte di busto che sporge dalla panca",
           "Estendendo le braccia in fuori o tenendo un peso",
-          "Appoggiando le mani sulla panca",
-          "Piegando il busto verso il basso"
+          "Appoggiando entrambe le mani sulla panca per aiutarsi",
+          "Rilassando gli obliqui e lasciando scendere le spalle"
         ],
         "answer": 1,
         "explanation": "Braccia estese o un peso allungano la leva e aumentano la sfida alla stabilità del core."
@@ -177,10 +177,10 @@
       "check": {
         "question": "Perché il single-arm shoulder press allena il core anti-flessione laterale?",
         "options": [
-          "Perché si esegue sdraiati sulla panca",
-          "Perché il peso è sempre bilanciato sui due lati",
+          "Perché il peso sopra la testa tende a inarcare la schiena e il core deve frenare l'estensione",
+          "Perché il peso in una mano tende a ruotare il busto e il core deve contrastare la torsione",
           "Perché il peso in una mano tende a piegarti di lato e il core deve opporsi",
-          "Perché richiede di ruotare il busto a ogni ripetizione"
+          "Perché il busto si inclina verso il peso a ogni spinta e il core lo riporta al centro"
         ],
         "answer": 2,
         "explanation": "Il peso da un solo lato crea una forza laterale costante: il core lavora per tenerti neutro."
@@ -200,7 +200,7 @@
       "check": {
         "question": "Nell'esempio del corso, quale differenza di peso c'è tra i due lati del bilanciere?",
         "options": [
-          "2,5 chili",
+          "2 chili",
           "10 chili",
           "15 chili",
           "5 chili"
@@ -223,9 +223,9 @@
         "question": "Qual è il principio generale ricordato nel riepilogo?",
         "options": [
           "Qualsiasi resistenza che spinge in flessione laterale, se contrastata, allena l'anti-flessione laterale",
-          "Solo il side plank allena davvero l'anti-flessione laterale",
-          "Bisogna sempre piegarsi di lato con il manubrio",
-          "Il core si allena solo con esercizi a corpo libero"
+          "Qualsiasi resistenza che aumenta la tensione addominale allena l'anti-flessione laterale, anche senza una spinta di lato",
+          "Qualsiasi resistenza che spinge in flessione laterale allena l'anti-flessione laterale solo se la si asseconda",
+          "Qualsiasi resistenza che spinge in flessione laterale allena l'anti-flessione laterale solo se proviene da un peso unilaterale"
         ],
         "answer": 0,
         "explanation": "Non conta l'attrezzo: ogni forza laterale che devi contrastare produce l'effetto anti-flessione laterale."
@@ -308,10 +308,10 @@
     {
       "question": "Gli esercizi anti-flessione laterale del core hanno lo scopo di:",
       "options": [
-        "Aumentare l'ampiezza della flessione laterale del busto",
+        "Aumentare l'ampiezza della flessione laterale",
         "Resistere alla flessione laterale del busto",
-        "Allenare la rotazione del tronco",
-        "Allungare il quadrato dei lombi"
+        "Resistere alla rotazione del busto sotto carico",
+        "Favorire la flessione in avanti del busto"
       ],
       "answer": 1,
       "explanation": "Il core si oppone alla forza che vuole piegarlo di lato, invece di cercare il movimento.",
@@ -320,10 +320,10 @@
     {
       "question": "Quale pratica comune in palestra è l'opposto dell'approccio anti-flessione laterale?",
       "options": [
-        "Il farmer's walk con due manubri",
-        "Il side plank statico",
+        "Tenere due manubri e camminare a passo regolare",
+        "Tenere una posizione statica sul fianco a terra",
         "Tenere un manubrio e piegarsi lateralmente",
-        "Lo stacco con carico sbilanciato"
+        "Tenere un peso con una mano e spingerlo verso l'alto"
       ],
       "answer": 2,
       "explanation": "Piegarsi di lato col manubrio cerca la flessione laterale; l'anti-flessione laterale la impedisce.",
@@ -332,9 +332,9 @@
     {
       "question": "Secondo la lezione, quale affermazione sul movimento durante questi esercizi è corretta?",
       "options": [
-        "Non deve esserci alcun movimento, nemmeno minimo",
-        "Più ci si piega di lato, più l'esercizio è efficace",
-        "La flessione laterale estrema va cercata solo a carichi leggeri",
+        "Un po' di movimento naturale non va mai tollerato, nemmeno quando si lavora a corpo libero",
+        "Un po' di movimento laterale va ricercato a ogni ripetizione, anche quando si usano carichi elevati",
+        "Un po' di movimento naturale ci può stare soltanto senza carico, mentre con un peso serve immobilità assoluta",
         "Un po' di movimento naturale ci può stare, ma vanno evitate flessioni laterali estreme sotto carico"
       ],
       "answer": 3,
@@ -345,9 +345,9 @@
       "question": "Quale gruppo di muscoli è indicato come allenato sui lati del core?",
       "options": [
         "Obliqui interni ed esterni, retto dell'addome e quadrato dei lombi",
-        "Grande gluteo, ischiocrurali e polpacci",
-        "Gran dorsale, trapezio e romboidi",
-        "Ileopsoas, adduttori e quadricipite"
+        "Glutei medi e piccoli, grande gluteo e tensore della fascia lata",
+        "Erettori spinali lombari, gran dorsale e trapezio inferiore",
+        "Intercostali interni ed esterni, dentato anteriore e piccolo pettorale"
       ],
       "answer": 0,
       "explanation": "La lezione cita obliqui interni ed esterni, retto dell'addome e quadrato dei lombi.",
@@ -356,10 +356,10 @@
     {
       "question": "Perché un farmer's walk con due pesi uguali allena comunque l'anti-flessione laterale?",
       "options": [
-        "Perché i pesi sono tenuti sopra la testa",
+        "Perché avanzare richiede di inclinare il busto dal lato della gamba in appoggio",
         "Perché camminare introduce instabilità a cui il core deve resistere",
-        "Perché si cammina piegati di lato",
-        "Perché si usa una sola mano"
+        "Perché alternare i passi richiede di ruotare il busto a ogni appoggio",
+        "Perché distendere le braccia sposta il carico davanti al busto a ogni passo"
       ],
       "answer": 1,
       "explanation": "Il passo crea instabilità continua: il core deve resistere alla flessione laterale per tutto il tragitto.",
@@ -368,10 +368,10 @@
     {
       "question": "Oltre al core, quali benefici offrono i carries con sovraccarico?",
       "options": [
-        "Solo flessibilità delle anche",
-        "Solo resistenza aerobica",
+        "Mobilità delle anche e delle caviglie, grazie all'aumento dell'ampiezza del passo",
+        "Resistenza aerobica e capacità respiratoria, senza affaticare i muscoli della presa",
         "Forza della parte alta del corpo e della presa, con più gruppi muscolari coinvolti",
-        "Solo forza dei polpacci"
+        "Potenza delle gambe e velocità di reazione, grazie alle rapide accelerazioni"
       ],
       "answer": 2,
       "explanation": "I carries rinforzano parte alta e presa e coinvolgono molti gruppi muscolari insieme.",
@@ -380,9 +380,9 @@
     {
       "question": "Nell'overhead carry è particolarmente importante:",
       "options": [
-        "Usare pesi più pesanti del farmer's walk",
-        "Inarcare la schiena per stabilizzare il peso",
-        "Tenere il peso con le braccia lungo i fianchi",
+        "Mantenere un arco lombare e accentuarlo a ogni passo per bilanciare il peso",
+        "Usare un carico più pesante che nel farmer's walk per stabilizzare la spalla",
+        "Tenere una lieve inclinazione verso il lato carico per allineare il busto al peso",
         "Mantenere una postura neutra ed evitare un'estensione eccessiva della colonna"
       ],
       "answer": 3,
@@ -393,9 +393,9 @@
       "question": "Nel side plank, che cosa succede se lasci rilassare i muscoli del core?",
       "options": [
         "Il corpo cade naturalmente in flessione laterale",
-        "Il corpo ruota in avanti",
-        "La schiena si inarca all'indietro",
-        "Non succede nulla, la posizione regge da sola"
+        "Il corpo ruota in avanti attorno alla spalla di appoggio",
+        "Il corpo si inarca all'indietro senza perdere altezza",
+        "Il corpo resta in linea grazie al solo appoggio a terra"
       ],
       "answer": 0,
       "explanation": "Senza l'attivazione del core i fianchi cedono verso terra: è la prova che l'esercizio è anti-flessione laterale.",
@@ -404,10 +404,10 @@
     {
       "question": "Qual è la regressione del side plank proposta nella lezione?",
       "options": [
-        "Aggiungere un manubrio nella mano libera",
+        "Appoggiarsi sui piedi e tenere un peso con il braccio libero",
         "Appoggiarsi sulle ginocchia piegate invece che sui piedi",
-        "Sollevare la gamba superiore",
-        "Portare il braccio sotto il corpo e poi in alto"
+        "Appoggiarsi su un piede e tenere l'altro sollevato",
+        "Appoggiarsi sui piedi e portare il braccio libero sotto il busto"
       ],
       "answer": 1,
       "explanation": "Sulle ginocchia la leva è più corta e la base più stabile: il carico sul corpo diminuisce.",
@@ -416,10 +416,10 @@
     {
       "question": "Qual è la progressione del side plank proposta nella lezione?",
       "options": [
-        "Appoggiarsi sulle ginocchia",
-        "Tenere la posizione con entrambi gli avambracci a terra",
+        "Portare entrambe le ginocchia a terra e tenere fermo il bacino",
+        "Tenere il braccio libero lungo il fianco e accorciare ogni tenuta",
         "Portare il braccio libero sotto il corpo e poi verso l'alto",
-        "Ridurre il tempo di tenuta"
+        "Portare il braccio libero a terra per ottenere un secondo appoggio"
       ],
       "answer": 2,
       "explanation": "Il movimento del braccio aggiunge un elemento dinamico che sfida stabilità ed equilibrio.",
@@ -428,9 +428,9 @@
     {
       "question": "Nel side lying hold, come è posizionato il corpo?",
       "options": [
-        "Prono sulla panca con le gambe fuori",
-        "In piedi con un peso in una mano",
-        "Supino a terra con le ginocchia piegate",
+        "Di fianco sulla panca, con il busto appoggiato e le gambe che sporgono",
+        "Di fianco sulla panca, con il busto e le gambe appoggiati per intero",
+        "Di fianco sulla panca, con l’avambraccio a terra a sostenere il busto",
         "Di fianco sulla panca, fianchi allineati e busto che sporge in fuori"
       ],
       "answer": 3,
@@ -441,9 +441,9 @@
       "question": "Quali soluzioni di sicurezza indica la lezione per il side lying hold?",
       "options": [
         "Barre di sicurezza del rack oppure un compagno che tiene le gambe",
-        "Una cintura da sollevamento",
-        "Un tappetino più spesso",
-        "Eseguirlo solo a terra"
+        "Barre imbottite sotto le spalle oppure un compagno che sostiene il busto",
+        "Barre di appoggio davanti al petto oppure un supporto sotto il gomito",
+        "Barre da afferrare con entrambe le mani oppure un appoggio sotto la testa"
       ],
       "answer": 0,
       "explanation": "Le barre di sicurezza del rack o un compagno che tiene le gambe danno stabilità durante l'esercizio.",
@@ -452,10 +452,10 @@
     {
       "question": "Nel single-arm shoulder press, perché si consiglia di lavorare su entrambi i lati?",
       "options": [
-        "Per aumentare il carico massimo",
+        "Per aumentare il peso massimo da sollevare con il braccio dominante",
         "Per garantire uno sviluppo bilanciato e ridurre gli squilibri",
-        "Perché un lato da solo non attiva il core",
-        "Per allenare la rotazione del busto"
+        "Per migliorare la resistenza della presa prima di aumentare il peso",
+        "Per allenare la capacità di ruotare il busto durante la spinta"
       ],
       "answer": 1,
       "explanation": "Allenare i due lati mantiene lo sviluppo equilibrato e limita gli squilibri.",
@@ -464,10 +464,10 @@
     {
       "question": "Nello stacco da terra con carico sbilanciato, qual è l'effetto sul core?",
       "options": [
-        "Nessuno, perché l'obiettivo è solo la forza delle gambe",
-        "Allena la flessione laterale attiva del busto",
+        "Un effetto indiretto: il core deve ruotare il busto verso il lato più pesante",
+        "Un effetto diretto: il core deve produrre una flessione laterale del busto",
         "Un effetto indiretto: il core deve contrastare la trazione laterale",
-        "Sostituisce completamente il lavoro di stacco"
+        "Un effetto indiretto: il core deve mantenere il busto inclinato verso il lato più leggero"
       ],
       "answer": 2,
       "explanation": "L'obiettivo resta la forza, ma il carico diverso sui lati obbliga il core a contrastare la trazione laterale.",
@@ -476,9 +476,9 @@
     {
       "question": "Secondo il riepilogo, che cosa produce un effetto di allenamento anti-flessione laterale?",
       "options": [
-        "Solo i carries con sovraccarico",
-        "Solo gli esercizi statici a corpo libero",
-        "Solo gli esercizi con il bilanciere",
+        "Qualsiasi resistenza che spinge in flessione in avanti e che devi contrastare",
+        "Qualsiasi resistenza che spinge in rotazione e che devi contrastare senza inclinarti",
+        "Qualsiasi resistenza che spinge in flessione laterale e che devi seguire piegandoti",
         "Qualsiasi resistenza che spinge in flessione laterale e che devi contrastare"
       ],
       "answer": 3,
