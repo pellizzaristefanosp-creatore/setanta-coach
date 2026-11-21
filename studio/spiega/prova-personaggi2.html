@@ -1,0 +1,13 @@
+<!doctype html><html><head><meta charset="utf-8"><style>body{margin:0;background:#000}</style></head><body><canvas id="c" width="1440" height="1280"></canvas>
+<script type="module">
+import { drawPerson, POSES2 } from "./personaggi2.js";
+const g = document.getElementById("c").getContext("2d");
+await document.fonts.load("900 30px Inter");
+g.fillStyle = "#f0d3a8"; g.fillRect(0, 0, 1440, 1280);
+const poses = ["idle", "explain", "point", "think", "surprise", "shrug"];
+poses.forEach((p, i) => { const x = 130 + i * 230; drawPerson(g, i % 2 ? "PROF" : "STE", { x, y: 620, scale: 3.1, pose: POSES2[p], t: 0, mouth: { open: i % 3 === 0 ? 0.6 : 0.1, wide: 0.3, round: 0 }, look: [0.4, 0], brow: i === 4 ? 1 : 0.2 }); g.fillStyle = "#000"; g.font = "700 24px Inter"; g.textAlign = "center"; g.fillText(p, x, 660); });
+// mezzi busti grandi come alla scrivania
+drawPerson(g, "STE", { x: 400, y: 1280 + 600, scale: 5.5, pose: POSES2.explain, t: 0, mouth: { open: 0.5, wide: 0.2 }, look: [0.6, 0] });
+drawPerson(g, "PROF", { x: 1040, y: 1280 + 600, scale: 5.5, pose: POSES2.point, t: 0, mouth: { open: 0.2 }, look: [-0.6, 0] });
+window.READY = true;
+</script></body></html>

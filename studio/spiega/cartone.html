@@ -11,7 +11,9 @@
 <body>
 <canvas id="c" width="720" height="1280"></canvas>
 <script type="module">
-import { drawCharacter, POSES, mixPose, mouthFor, blinkAt } from "./personaggi.js";
+import { mouthFor, blinkAt } from "./personaggi.js";
+import { drawPerson, POSES2 as POSES, mixPose2 as mixPose } from "./personaggi2.js"; // grafica nuova
+const drawCharacter = drawPerson;
 // Spiegazione animata (2D, deterministica): cosa succede tra actina e miosina. Lezione 5.1, slide 6.
 // window.renderFrame(t) disegna l'istante t; i tempi vengono dalle voci (ElevenLabs con tempi per lettera).
 const W = 720, H = 1280;
@@ -226,7 +228,7 @@ function drawGym(t, holo) {
 // ——— stato dei personaggi nel tempo ———
 function poseAt(keys, t) { // keys: [tempo, posa, durata]
   let cur = POSES.idle, prev = POSES.idle, k = 1;
-  for (const [at, name, d = 0.45] of keys) { if (t < at - 0.08) break; prev = mixPose(prev, cur, k); cur = POSES[name]; k = ease(bt(t, at, at + d)); }
+  for (const [at, name, d = 0.45] of keys) { if (t < at - 0.08) break; prev = mixPose(prev, cur, k); cur = POSES[name] ?? POSES.idle; k = ease(bt(t, at, at + d)); }
   return mixPose(prev, cur, k);
 }
 const STE_KEYS = [[L.s1.start, "think", 0.5], [end("s1"), "idle"], [T.slide - 0.15, "surprise", 0.3], [end("s2") + 0.3, "idle"]];
@@ -238,7 +240,7 @@ function charState(who, t, base) {
   const st = {
     t, mouth: m, blink: blinkAt(t, isSte ? 7 : 13), pose: poseAt(isSte ? STE_KEYS : PROF_KEYS, t),
     look: isSte ? [0.55, -0.05] : [-0.55, -0.05], brow: 0, browTilt: 0, expr: "smile",
-    headTilt: Math.sin(t * 3.1) * (talking ? 0.03 : 0.01), bob: talking ? -Math.abs(Math.sin(t * 9)) * 3 : 0, ...base,
+    headTilt: Math.sin(t * 3.1) * (talking ? 0.03 : 0.01), bob: talking ? -Math.abs(Math.sin(t * 9)) * 3 : 0, mirror: !isSte, ...base,
   };
   if (isSte && t > L.s1.start && t < end("s1")) { st.brow = 0.6; st.browTilt = 0.3; st.headTilt += 0.08; }
   if (isSte && t > T.slide - 0.3 && t < end("s2") + 0.4) { st.brow = 1; st.expr = "wow"; st.look = [0, -0.3]; }
@@ -258,7 +260,7 @@ function drawDesk(t) {
     const on = l && l.chi === who;
     g.save(); g.beginPath(); g.rect(0, top + 4, W, H - top); g.clip();
     if (on) { glow(who === "PROF" ? "#ff8a4c" : "#47e3a6", 40); g.fillStyle = who === "PROF" ? "rgba(255,138,76,0.18)" : "rgba(71,227,166,0.18)"; g.beginPath(); g.ellipse(x, H - 40, 170, 240, 0, 0, 7); g.fill(); noGlow(); }
-    drawCharacter(g, who, charState(who, t, { x, y: H + 150, scale: 0.6 }));
+    drawCharacter(g, who, charState(who, t, { x, y: 1800, scale: 4.2 }));
     g.restore();
     g.font = "800 22px Inter"; g.textAlign = "center"; g.fillStyle = on ? (who === "PROF" ? "#ff8a4c" : "#47e3a6") : "rgba(255,255,255,0.45)"; g.fillText(who === "PROF" ? "PROF" : "STE", x, H - 22);
   }
@@ -278,21 +280,20 @@ function drawTug(t) {
   const beats = [T.grab, T.tug, T.let];
   let slide = 0; for (const b of beats) slide += ease(bt(t, b + 0.1, b + 0.55)) * 26;
   const sway = Math.sin(t * 5) * 4;
-  const ste = charState("STE", t, { x: 210 - slide * 0.5, y: 1160, scale: 0.85, pose: POSES.pullR });
-  const prof = charState("PROF", t, { x: 520 - slide * 0.5, y: 1160, scale: 0.85, pose: POSES.pullL });
-  ste.pose = { ...POSES.pullR, lean: -0.12 - Math.abs(Math.sin(t * 5)) * 0.04 }; prof.pose = { ...POSES.pullL, lean: 0.06 };
-  ste.look = [0.6, 0]; prof.look = [-0.6, 0]; ste.expr = "smile";
-  // prima i personaggi, poi la corda che passa per le loro mani
+  const ste = charState("STE", t, { x: 225 - slide * 0.5, y: 1175, scale: 3.0 });
+  const prof = charState("PROF", t, { x: 515 - slide * 0.5, y: 1175, scale: 3.0 });
+  // Ste tira verso sinistra con le mani verso il centro, il Prof (specchiato) verso destra
+  ste.pose = POSES.pull; prof.pose = POSES.pull; ste.lean = -0.16 - Math.abs(Math.sin(t * 5)) * 0.04; prof.lean = 0.1;
+  ste.look = [0.6, 0]; prof.look = [-0.6, 0];
   const sh = drawCharacter(g, "STE", ste), ph = drawCharacter(g, "PROF", prof);
-  const world = (c, h) => [c.x + h[0] * c.scale, c.y + h[1] * c.scale + (c.bob ?? 0)];
-  const pts = [world(ste, sh.backHand), world(ste, sh.frontHand), world(prof, ph.frontHand), world(prof, ph.backHand)];
+  const pts = [sh.L, sh.R, ph.R, ph.L].sort((p, q) => p[0] - q[0]);
   const y0 = (pts[0][1] + pts[1][1]) / 2, y1 = (pts[2][1] + pts[3][1]) / 2;
   const rope = () => { g.beginPath(); g.moveTo(-30, y0 + 6); g.lineTo(pts[0][0], pts[0][1]); g.lineTo(pts[1][0], pts[1][1]); g.quadraticCurveTo((pts[1][0] + pts[2][0]) / 2, Math.max(y0, y1) + 18, pts[2][0], pts[2][1]); g.lineTo(pts[3][0], pts[3][1]); g.lineTo(W + 30, y1 + 6); };
   g.strokeStyle = "#5c3d1f"; g.lineWidth = 17; g.lineCap = "round"; g.lineJoin = "round"; rope(); g.stroke();
   g.strokeStyle = "#c99b5e"; g.lineWidth = 11; rope(); g.stroke();
   g.setLineDash([8, 14]); g.lineDashOffset = -slide * 2; g.strokeStyle = "rgba(90,60,30,0.6)"; g.lineWidth = 4; rope(); g.stroke(); g.setLineDash([]);
   for (const [hx, hy] of pts) { g.fillStyle = "#1e1410"; g.beginPath(); g.arc(hx, hy, 17, 0, 7); g.fill(); }
-  for (const [i, [hx, hy]] of pts.entries()) { g.fillStyle = i < 2 ? "#f1c6a3" : "#e8b48f"; g.beginPath(); g.arc(hx, hy, 13, 0, 7); g.fill(); }
+  for (const [i, [hx, hy]] of pts.entries()) { g.fillStyle = i < 2 ? "#f1c6a3" : "#e2b08c"; g.beginPath(); g.arc(hx, hy, 13, 0, 7); g.fill(); }
   // parole che arrivano
   [["Afferri", T.grab], ["Tiri", T.tug], ["Lasci", T.let]].forEach(([w, at], i) => { const k = back(bt(t, at, at + 0.35)); if (k <= 0) return; label(w, 140 + i * 220, 170, "#c24f1c", k); });
   label("Come i filamenti!", 360, 100, "#ffffff", bt(t, T.come, T.come + 0.4));
@@ -305,8 +306,8 @@ window.renderFrame = (t) => {
     const z = 1 + 2.6 * ease(bt(t, T.zoom, T.zoom + 1.1));
     g.save(); g.translate(520, 360); g.scale(z, z); g.translate(-520, -360);
     drawGym(t, true);
-    drawCharacter(g, "STE", charState("STE", t, { x: 200, y: 1160, scale: 0.9 }));
-    drawCharacter(g, "PROF", charState("PROF", t, { x: 490, y: 1160, scale: 0.9 }));
+    drawCharacter(g, "STE", charState("STE", t, { x: 210, y: 1175, scale: 3.15 }));
+    drawCharacter(g, "PROF", charState("PROF", t, { x: 500, y: 1175, scale: 3.15 }));
     g.restore();
     drawSubtitle(t, 1268, false);
   } else if (t < T.come) {

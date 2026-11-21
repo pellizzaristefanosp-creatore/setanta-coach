@@ -11,6 +11,7 @@
 // Motore delle puntate: legge puntate/<codice>/spec.json (copione + lavagna) e i tempi delle voci,
 // e disegna palestra → lavagna animata con Prof e Ste a mezzo busto → finale in palestra.
 import { drawCharacter, POSES, mixPose, mouthFor, blinkAt } from "./personaggi.js";
+import { drawPerson, POSES2, mixPose2 } from "./personaggi2.js"; // Prof e Ste con la grafica nuova
 import { exercisePose, drawSide, bar, arrow } from "./atleta.js";
 // esercizi col modello biomeccanico (Winter 2009, controlli automatici in studio/biomeccanica)
 import * as exRdl from "../biomeccanica/rdl-es.js";
@@ -286,7 +287,7 @@ function drawGym(t, holo) {
     g.fillStyle = "rgba(60,140,255,0.16)"; g.strokeStyle = "rgba(140,200,255,0.9)"; g.lineWidth = 3; g.beginPath(); g.roundRect(-130, -170, 260, 340, 18); g.fill(); g.stroke();
     g.fillStyle = "rgba(200,230,255,0.85)"; g.font = "900 34px Inter"; g.textAlign = "center"; noGlow(); wrap(SPEC.titolo, 230).slice(0, 4).forEach((l, i) => g.fillText(l, 0, -60 + i * 42)); g.restore(); }
 }
-function poseAt(keys, t) { let cur = POSES.idle, prev = POSES.idle, k = 1; for (const [at, name, d = 0.45] of keys) { if (t < at - 0.08) break; prev = mixPose(prev, cur, k); cur = POSES[name]; k = ease(bt(t, at, at + d)); } return mixPose(prev, cur, k); }
+function poseAt(keys, t) { let cur = POSES2.idle, prev = POSES2.idle, k = 1; for (const [at, name, d = 0.45] of keys) { if (t < at - 0.08) break; prev = mixPose2(prev, cur, k); cur = POSES2[name] ?? POSES2.idle; k = ease(bt(t, at, at + d)); } return mixPose2(prev, cur, k); }
 const KEYS = { STE: [], PROF: [] };
 for (const b of SPEC.battute) { const l = L[b.id]; if (b.gesto) KEYS[b.chi].push([l.start - 0.1, b.gesto, 0.45], [l.start + l.dur + 0.4, "idle", 0.6]); }
 for (const r of SPEC.reazioni ?? []) KEYS[r.chi].push([cue(r.quando), r.gesto, 0.35], [cue(r.quando) + (r.durata ?? 1.6), "idle", 0.5]);
@@ -294,7 +295,7 @@ for (const k of Object.values(KEYS)) k.sort((a, b) => a[0] - b[0]);
 function charState(who, t, base) {
   const isSte = who === "STE", m = mouthFor(TL.lines, who, t), talking = m.open > 0.05;
   const st = { t, mouth: m, blink: blinkAt(t, isSte ? 7 : 13), pose: poseAt(KEYS[who], t), look: isSte ? [0.55, -0.05] : [-0.55, -0.05], brow: talking ? 0.25 : 0, browTilt: 0, expr: "smile",
-    headTilt: Math.sin(t * 3.1) * (talking ? 0.03 : 0.01), bob: talking ? -Math.abs(Math.sin(t * 9)) * 3 : 0, ...base };
+    headTilt: Math.sin(t * 3.1) * (talking ? 0.03 : 0.01), bob: talking ? -Math.abs(Math.sin(t * 9)) * 3 : 0, mirror: !isSte, ...base };
   for (const r of SPEC.reazioni ?? []) if (r.chi === who && t > cue(r.quando) - 0.2 && t < cue(r.quando) + (r.durata ?? 1.6)) { st.brow = 1; st.expr = r.gesto === "surprise" ? "wow" : "smile"; st.look = [0, -0.3]; }
   if (t > T.lavIn + 0.8 && t < T.outro) st.look = [0, -0.7];
   return st;
@@ -305,7 +306,7 @@ function drawDesk(t) {
   for (const [who, x] of [["STE", 190], ["PROF", 530]]) {
     const on = l && l.chi === who; g.save(); g.beginPath(); g.rect(0, top + 4, W, H - top); g.clip();
     if (on) { glow(who === "PROF" ? "#ff8a4c" : "#47e3a6", 40); g.fillStyle = who === "PROF" ? "rgba(255,138,76,0.18)" : "rgba(71,227,166,0.18)"; g.beginPath(); g.ellipse(x, H - 40, 170, 240, 0, 0, 7); g.fill(); noGlow(); }
-    drawCharacter(g, who, charState(who, t, { x, y: H + 150, scale: 0.6 })); g.restore();
+    drawPerson(g, who, charState(who, t, { x, y: 1800, scale: 4.2 })); g.restore();
     g.font = "800 22px Inter"; g.textAlign = "center"; g.fillStyle = on ? (who === "PROF" ? "#ff8a4c" : "#47e3a6") : "rgba(255,255,255,0.45)"; g.fillText(who, x, H - 22);
   }
 }
@@ -322,15 +323,15 @@ window.renderFrame = (t) => {
     const z = 1 + 2.6 * ease(bt(t, T.lavIn, T.lavIn + 1.1));
     g.save(); g.translate(520, 360); g.scale(z, z); g.translate(-520, -360);
     drawGym(t, true);
-    drawCharacter(g, "STE", charState("STE", t, { x: 200, y: 1160, scale: 0.9 }));
-    drawCharacter(g, "PROF", charState("PROF", t, { x: 490, y: 1160, scale: 0.9 }));
+    drawPerson(g, "STE", charState("STE", t, { x: 210, y: 1175, scale: 3.15 }));
+    drawPerson(g, "PROF", charState("PROF", t, { x: 500, y: 1175, scale: 3.15 }));
     g.restore(); drawSubtitle(t, 1268, false);
   } else if (t < T.outro) {
     drawBoard(t); drawDesk(t); drawSubtitle(t, 960, true);
   } else {
     drawGym(t, false);
-    drawCharacter(g, "STE", charState("STE", t, { x: 200, y: 1160, scale: 0.9, look: [0.55, -0.05] }));
-    drawCharacter(g, "PROF", charState("PROF", t, { x: 490, y: 1160, scale: 0.9, look: [-0.55, -0.05] }));
+    drawPerson(g, "STE", charState("STE", t, { x: 210, y: 1175, scale: 3.15, look: [0.55, -0.05] }));
+    drawPerson(g, "PROF", charState("PROF", t, { x: 500, y: 1175, scale: 3.15, look: [-0.55, -0.05] }));
     if (SPEC.finale) label(SPEC.finale, W / 2, 180, "#c24f1c", bt(t, T.outro + 0.3, T.outro + 0.8), 30);
     drawSubtitle(t, 1268, false);
   }
