@@ -12,6 +12,28 @@
 // e disegna palestra → lavagna animata con Prof e Ste a mezzo busto → finale in palestra.
 import { drawCharacter, POSES, mixPose, mouthFor, blinkAt } from "./personaggi.js";
 import { exercisePose, drawSide, bar, arrow } from "./atleta.js";
+// esercizi col modello biomeccanico (Winter 2009, controlli automatici in studio/biomeccanica)
+import * as exRdl from "../biomeccanica/rdl-es.js";
+import * as exPlank from "../biomeccanica/plank.js";
+import * as exCarry from "../biomeccanica/carry.js";
+import * as exPallof from "../biomeccanica/pallof.js";
+import * as exSalto from "../biomeccanica/salto.js";
+import * as exStrappo from "../biomeccanica/strappo.js";
+import * as exTirata from "../biomeccanica/tirata.js";
+const EX = { hinge: exRdl, plank: exPlank, carry: exCarry, pallof: exPallof, tripla: exSalto, snatch: exStrappo, snatch_pull: exTirata };
+const exCanvas = document.createElement("canvas"); exCanvas.width = 720; exCanvas.height = 1280; const exG = exCanvas.getContext("2d");
+/** disegna l'esercizio vero nella lavagna: corretto, e l'errore nell'ultimo 40 % se il copione lo chiede */
+function drawExercise(e, t) {
+  const M = EX[e.tipo === "carry" ? "carry" : e.esercizio]; if (!M) return false;
+  const u = Math.max(0, t - e.at), span = Math.max(1, Math.min(e.until, T.outro) - e.at);
+  const wrong = e.errore ? clamp((u - span * 0.6) / 0.6) : 0;
+  M.render(exG, 720, 1280, u, wrong, { compact: true });
+  // ritaglio per esercizio: il plank è basso e largo, gli altri alti
+  const [sy, sh, dy] = e.esercizio === "plank" ? [560, 470, 250] : e.tipo === "carry" || e.esercizio === "pallof" ? [280, 920, 165] : [290, 920, 165];
+  const dh = Math.min(650, sh), dw = Math.min(720, 720 * dh / sh);
+  g.drawImage(exCanvas, 0, sy, 720, sh, (W - dw) / 2, dy, dw, dh * (dw / 720) * (720 / dw));
+  return true;
+}
 
 const W = 720, H = 1280;
 const CODE = new URLSearchParams(location.search).get("code");
@@ -133,6 +155,7 @@ function drawElem(e, t, k) {
     g.strokeStyle = "rgba(207,228,255,0.5)"; g.lineWidth = 3; g.beginPath(); g.moveTo(40, 762); g.lineTo(W - 40, 762); g.stroke();
     return;
   }
+  if ((e.tipo === "esercizio" || e.tipo === "carry") && drawExercise(e, t)) { title(e.titolo ?? "", 120); return; }
   if (e.tipo === "esercizio") {
     title(e.titolo ?? "", 120);
     if (e.esercizio === "pallof") { // visto dall'alto: l'elastico tira di lato, il busto non ruota

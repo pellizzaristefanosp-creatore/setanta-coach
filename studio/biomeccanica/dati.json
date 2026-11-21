@@ -1,0 +1,801 @@
+[
+ {
+  "id": "rdl",
+  "nome": "Romanian deadlift",
+  "vista": "lato",
+  "durata": 14.700000000000001,
+  "errore": 9.5,
+  "fonti": [
+   "NSCA, Essentials of Strength Training and Conditioning",
+   "Winter 2009"
+  ],
+  "modello": {
+   "statura_cm": 180,
+   "massa_kg": 78,
+   "segmenti": "Winter 2009"
+  },
+  "fotogrammi_chiave": [
+   {
+    "nome": "Partenza",
+    "t": 0,
+    "busto": 3,
+    "ginocchio": 8,
+    "collo": 0
+   },
+   {
+    "nome": "Metà discesa",
+    "t": 1.2,
+    "busto": 35,
+    "ginocchio": 16,
+    "collo": 0
+   },
+   {
+    "nome": "Fondo",
+    "t": 2.4,
+    "busto": 70,
+    "ginocchio": 20,
+    "collo": 0
+   },
+   {
+    "nome": "Fondo (pausa)",
+    "t": 2.8,
+    "busto": 70,
+    "ginocchio": 20,
+    "collo": 0
+   },
+   {
+    "nome": "Risalita",
+    "t": 3.6,
+    "busto": 30,
+    "ginocchio": 14,
+    "collo": 0
+   },
+   {
+    "nome": "In piedi",
+    "t": 4.3,
+    "busto": 3,
+    "ginocchio": 8,
+    "collo": 0
+   }
+  ],
+  "verifica": [
+   {
+    "nome": "Partenza",
+    "tempo_s": 0,
+    "angoli": {
+     "busto": 3,
+     "ginocchio": 8,
+     "collo": 0,
+     "caviglia": 4.5,
+     "spalla": 9.8,
+     "gomito": 0
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     4.9,
+     78
+    ]
+   },
+   {
+    "nome": "Metà discesa",
+    "tempo_s": 1.2,
+    "angoli": {
+     "busto": 35,
+     "ginocchio": 16,
+     "collo": 0,
+     "caviglia": 2,
+     "spalla": 24.1,
+     "gomito": 0
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     0.7,
+     68.3
+    ]
+   },
+   {
+    "nome": "Fondo",
+    "tempo_s": 2.4,
+    "angoli": {
+     "busto": 70,
+     "ginocchio": 20,
+     "collo": 0,
+     "caviglia": -1.7,
+     "spalla": 49.1,
+     "gomito": 0
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     -0.6,
+     45.1
+    ]
+   },
+   {
+    "nome": "Fondo (pausa)",
+    "tempo_s": 2.8,
+    "angoli": {
+     "busto": 70,
+     "ginocchio": 20,
+     "collo": 0,
+     "caviglia": -1.7,
+     "spalla": 49.1,
+     "gomito": 0
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     -0.6,
+     45.1
+    ]
+   },
+   {
+    "nome": "Risalita",
+    "tempo_s": 3.6,
+    "angoli": {
+     "busto": 30,
+     "ginocchio": 14,
+     "collo": 0,
+     "caviglia": 2.2,
+     "spalla": 21,
+     "gomito": 0
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     0.9,
+     70.7
+    ]
+   },
+   {
+    "nome": "In piedi",
+    "tempo_s": 4.3,
+    "angoli": {
+     "t": 4.3,
+     "busto": 3,
+     "ginocchio": 8,
+     "collo": 0,
+     "caviglia": 4.5,
+     "spalla": 9.8,
+     "gomito": 0
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     4.9,
+     78
+    ]
+   }
+  ],
+  "controlli": "fondo: busto 70°, ginocchio 20°, bilanciere a 45 cm (ginocchio 51 cm)"
+ },
+ {
+  "id": "plank",
+  "nome": "Plank sui gomiti",
+  "vista": "lato",
+  "durata": 12,
+  "errore": 6.5,
+  "fonti": [
+   "McGill, Low Back Disorders",
+   "Winter 2009"
+  ],
+  "modello": {
+   "statura_cm": 180,
+   "massa_kg": 78,
+   "segmenti": "Winter 2009"
+  },
+  "fotogrammi_chiave": [
+   {
+    "nome": "Tenuta corretta",
+    "t": 0,
+    "abbassamento_anca_cm": 0,
+    "collo": 0,
+    "nota": "spalla sopra il gomito, corpo in linea, respiro"
+   },
+   {
+    "nome": "Errore",
+    "t": 0,
+    "abbassamento_anca_cm": 10,
+    "collo": -25,
+    "nota": "anche che cadono, lombare inarcata, testa estesa"
+   }
+  ],
+  "verifica": [
+   {
+    "nome": "Tenuta corretta",
+    "tempo_s": 0,
+    "angoli": {
+     "busto": 80.30527016379038,
+     "anca": 0.8636729238894532,
+     "ginocchio": 1.5904285201534805,
+     "collo": 0,
+     "spalla": 90
+    },
+    "baricentro_cm_dal_mesopiede": -41.4
+   },
+   {
+    "nome": "Errore",
+    "tempo_s": 0,
+    "angoli": {
+     "busto": 80.30527016379038,
+     "anca": 0.8636729238894532,
+     "ginocchio": 1.5904285201534805,
+     "collo": 0,
+     "spalla": 90
+    },
+    "baricentro_cm_dal_mesopiede": -41.4
+   }
+  ],
+  "controlli": "anca dalla linea: corretto 0.0 cm, errore 10.0 cm; gomiti 73% del peso"
+ },
+ {
+  "id": "carry",
+  "nome": "Suitcase carry",
+  "vista": "fronte",
+  "durata": 12,
+  "errore": 6.6,
+  "fonti": [
+   "Perry e Burnfield 2010",
+   "McGill, Low Back Disorders",
+   "Winter 2009"
+  ],
+  "modello": {
+   "statura_cm": 180,
+   "massa_kg": 78,
+   "segmenti": "Winter 2009"
+  },
+  "fotogrammi_chiave": [
+   {
+    "nome": "Appoggio destro (metà)",
+    "fase": 0.3,
+    "bacino_obliquita": -4,
+    "baricentro_laterale_cm": -2,
+    "baricentro_verticale_cm": 2
+   },
+   {
+    "nome": "Doppio appoggio",
+    "fase": 0.6,
+    "bacino_obliquita": 0,
+    "baricentro_laterale_cm": 0,
+    "baricentro_verticale_cm": -2
+   },
+   {
+    "nome": "Appoggio sinistro (metà)",
+    "fase": 0.8,
+    "bacino_obliquita": 4,
+    "baricentro_laterale_cm": 2,
+    "baricentro_verticale_cm": 2
+   }
+  ],
+  "verifica": [],
+  "controlli": "spalle max 1.2°, errore busto -8°"
+ },
+ {
+  "id": "pallof",
+  "nome": "Pallof press in piedi",
+  "vista": "alto + fronte",
+  "durata": 13.5,
+  "errore": 8.7,
+  "fonti": [
+   "McGill, Low Back Disorders",
+   "NSCA, Essentials of Strength Training and Conditioning"
+  ],
+  "modello": {
+   "statura_cm": 180,
+   "massa_kg": 78,
+   "segmenti": "Winter 2009"
+  },
+  "fotogrammi_chiave": [
+   {
+    "nome": "Mani al petto",
+    "t": 0,
+    "distanza_mani_petto_cm": 8,
+    "rotazione_spalle": 0
+   },
+   {
+    "nome": "Braccia distese",
+    "t": 1,
+    "distanza_mani_petto_cm": 58,
+    "rotazione_spalle": 0
+   },
+   {
+    "nome": "Tenuta",
+    "t": 3,
+    "distanza_mani_petto_cm": 58,
+    "rotazione_spalle": 0
+   },
+   {
+    "nome": "Ritorno",
+    "t": 4,
+    "distanza_mani_petto_cm": 8,
+    "rotazione_spalle": 0
+   }
+  ],
+  "verifica": [
+   {
+    "nome": "Mani al petto",
+    "tempo_s": 0
+   },
+   {
+    "nome": "Braccia distese",
+    "tempo_s": 1
+   },
+   {
+    "nome": "Tenuta",
+    "tempo_s": 3
+   },
+   {
+    "nome": "Ritorno",
+    "tempo_s": 4
+   }
+  ],
+  "controlli": "mani–petto 8 → 58 cm; errore: rotazione 15°, mani fuori linea 8 cm"
+ },
+ {
+  "id": "salto",
+  "nome": "Tripla estensione: il salto",
+  "vista": "lato",
+  "durata": 9,
+  "errore": 5.6,
+  "fonti": [
+   "Linthorne 2001",
+   "McMahon 2018",
+   "Bobbert e van Ingen Schenau 1988",
+   "Winter 2009"
+  ],
+  "modello": {
+   "statura_cm": 180,
+   "massa_kg": 78,
+   "segmenti": "Winter 2009"
+  },
+  "fotogrammi_chiave": [
+   {
+    "nome": "In piedi",
+    "t": 0,
+    "busto": 2,
+    "ginocchio": 4,
+    "spalla": 0,
+    "tallone": 0
+   },
+   {
+    "nome": "Inizio contromovimento",
+    "t": 0.4,
+    "busto": 4,
+    "ginocchio": 8,
+    "spalla": 10,
+    "tallone": 0
+   },
+   {
+    "nome": "Discesa e braccia indietro",
+    "t": 0.72,
+    "busto": 30,
+    "ginocchio": 60,
+    "spalla": -50,
+    "tallone": 0
+   },
+   {
+    "nome": "Fondo (ginocchio ~90°)",
+    "t": 0.95,
+    "busto": 45,
+    "ginocchio": 90,
+    "spalla": -60,
+    "tallone": 0
+   },
+   {
+    "nome": "Prima l'anca",
+    "t": 1.08,
+    "busto": 22,
+    "ginocchio": 72,
+    "spalla": 40,
+    "tallone": 0
+   },
+   {
+    "nome": "Poi il ginocchio",
+    "t": 1.18,
+    "busto": 8,
+    "ginocchio": 30,
+    "spalla": 130,
+    "tallone": 3
+   },
+   {
+    "nome": "Stacco: caviglia",
+    "t": 1.25,
+    "busto": 2,
+    "ginocchio": 3,
+    "spalla": 170,
+    "tallone": 13
+   }
+  ],
+  "verifica": [
+   {
+    "nome": "In piedi",
+    "tempo_s": 0,
+    "angoli": {
+     "i": 0,
+     "u": 0,
+     "busto": 2,
+     "ginocchio": 4,
+     "spalla": 0,
+     "tallone": 0,
+     "collo": 0,
+     "caviglia": 6.3,
+     "gomito": 10
+    },
+    "baricentro_cm_dal_mesopiede": 0.2
+   },
+   {
+    "nome": "Inizio contromovimento",
+    "tempo_s": 0.4,
+    "angoli": {
+     "i": 1,
+     "u": 0,
+     "busto": 4,
+     "ginocchio": 8,
+     "spalla": 10,
+     "tallone": 0,
+     "collo": 0,
+     "caviglia": 7.1,
+     "gomito": 10
+    },
+    "baricentro_cm_dal_mesopiede": 0.2
+   },
+   {
+    "nome": "Discesa e braccia indietro",
+    "tempo_s": 0.72,
+    "angoli": {
+     "i": 2,
+     "u": 0,
+     "busto": 30,
+     "ginocchio": 60,
+     "spalla": -50,
+     "tallone": 0,
+     "collo": 0,
+     "caviglia": 25.6,
+     "gomito": 10
+    },
+    "baricentro_cm_dal_mesopiede": 0
+   },
+   {
+    "nome": "Fondo (ginocchio ~90°)",
+    "tempo_s": 0.95,
+    "angoli": {
+     "i": 3,
+     "u": 0,
+     "busto": 45,
+     "ginocchio": 90,
+     "spalla": -60,
+     "tallone": 0,
+     "collo": 0,
+     "caviglia": 32.9,
+     "gomito": 10
+    },
+    "baricentro_cm_dal_mesopiede": 0
+   },
+   {
+    "nome": "Prima l'anca",
+    "tempo_s": 1.08,
+    "angoli": {
+     "i": 4,
+     "u": 0,
+     "busto": 22,
+     "ginocchio": 72,
+     "spalla": 40,
+     "tallone": 0,
+     "collo": 0,
+     "caviglia": 29.4,
+     "gomito": 10
+    },
+    "baricentro_cm_dal_mesopiede": 0.1
+   },
+   {
+    "nome": "Poi il ginocchio",
+    "tempo_s": 1.18,
+    "angoli": {
+     "i": 5,
+     "u": 0,
+     "busto": 8,
+     "ginocchio": 30,
+     "spalla": 130,
+     "tallone": 3,
+     "collo": 0,
+     "caviglia": 15.4,
+     "gomito": 10
+    },
+    "baricentro_cm_dal_mesopiede": 2.9
+   },
+   {
+    "nome": "Stacco: caviglia",
+    "tempo_s": 1.25,
+    "angoli": {
+     "i": 6,
+     "u": 0,
+     "busto": 2,
+     "ginocchio": 3,
+     "spalla": 170,
+     "tallone": 13,
+     "collo": 0,
+     "caviglia": 9.1,
+     "gomito": 10
+    },
+    "baricentro_cm_dal_mesopiede": 13
+   }
+  ],
+  "controlli": "salita 40.0 cm, volo 0.571 s, stacco 2.80 m/s, ginocchio al fondo 90°"
+ },
+ {
+  "id": "strappo",
+  "nome": "Lo strappo",
+  "vista": "lato",
+  "durata": 10.8,
+  "errore": 7,
+  "fonti": [
+   "Harbili 2012",
+   "Gourgoulis 2000",
+   "Garhammer 1985",
+   "Everett, Olympic Weightlifting",
+   "Winter 2009"
+  ],
+  "modello": {
+   "statura_cm": 180,
+   "massa_kg": 78,
+   "segmenti": "Winter 2009"
+  },
+  "fotogrammi_chiave": [
+   {
+    "nome": "Partenza",
+    "t": 0,
+    "mode": "pull",
+    "busto": 55,
+    "h": 22.5
+   },
+   {
+    "nome": "Ginocchio (fine prima tirata)",
+    "t": 0.4,
+    "curva": "in",
+    "mode": "pull",
+    "busto": 52,
+    "h": 52.199999999999996
+   },
+   {
+    "nome": "Tasca / alto coscia",
+    "t": 0.58,
+    "curva": "lineare",
+    "mode": "pull",
+    "busto": 12,
+    "h": 79.2,
+    "gap": 1.5
+   },
+   {
+    "nome": "Massima estensione",
+    "t": 0.68,
+    "curva": "lineare",
+    "mode": "pull",
+    "busto": -6,
+    "h": null,
+    "tallone": 8,
+    "tx": 3,
+    "gap": 2
+   },
+   {
+    "nome": "Scrollata",
+    "t": 0.76,
+    "curva": "lineare",
+    "mode": "free",
+    "busto": -4,
+    "ginocchio": 8,
+    "tallone": 6,
+    "dh": 10.799999999999999,
+    "dx": 2
+   },
+   {
+    "nome": "Rotazione (picco)",
+    "t": 0.92,
+    "curva": "out",
+    "mode": "free",
+    "busto": 18,
+    "ginocchio": 75,
+    "tallone": 0,
+    "h": 125.99999999999999,
+    "x": -1.5
+   },
+   {
+    "nome": "Incastro",
+    "t": 1.12,
+    "mode": "over",
+    "busto": 24,
+    "ginocchio": 118,
+    "arco": 1
+   },
+   {
+    "nome": "Incastro (tenuta)",
+    "t": 1.7,
+    "mode": "over",
+    "busto": 24,
+    "ginocchio": 118
+   },
+   {
+    "nome": "In piedi",
+    "t": 2.9,
+    "mode": "over",
+    "busto": 2,
+    "ginocchio": 4
+   }
+  ],
+  "verifica": [
+   {
+    "nome": "Partenza",
+    "tempo_s": 0,
+    "angoli": {
+     "busto": 55,
+     "ginocchio": 110.2,
+     "collo": -8,
+     "tallone": 0,
+     "armK": 0.8,
+     "caviglia": 24.1,
+     "spalla": 53.5
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     8.2,
+     22.5
+    ]
+   },
+   {
+    "nome": "Ginocchio (fine prima tirata)",
+    "tempo_s": 0.4,
+    "angoli": {
+     "busto": 52,
+     "ginocchio": 62.7,
+     "collo": -8,
+     "tallone": 0,
+     "armK": 0.8,
+     "caviglia": 11,
+     "spalla": 55.5
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     11.4,
+     52.2
+    ]
+   },
+   {
+    "nome": "Tasca / alto coscia",
+    "tempo_s": 0.58,
+    "angoli": {
+     "busto": 12,
+     "ginocchio": 53.1,
+     "collo": -8,
+     "tallone": 0,
+     "armK": 0.8,
+     "caviglia": 23.2,
+     "spalla": 17.1
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     4.4,
+     79.2
+    ]
+   },
+   {
+    "nome": "Massima estensione",
+    "tempo_s": 0.68,
+    "angoli": {
+     "busto": -6,
+     "ginocchio": 3,
+     "caviglia": 3.3,
+     "tallone": 8,
+     "collo": -8,
+     "armK": 0.8
+    },
+    "baricentro_cm_dal_mesopiede": 3,
+    "bilanciere_cm": [
+     10.8,
+     96.8
+    ]
+   },
+   {
+    "nome": "Scrollata",
+    "tempo_s": 0.76,
+    "angoli": {
+     "busto": -4,
+     "ginocchio": 8,
+     "caviglia": 7.8,
+     "tallone": 6,
+     "collo": -4,
+     "armK": 0.8
+    },
+    "baricentro_cm_dal_mesopiede": 5.8,
+    "bilanciere_cm": [
+     12.8,
+     107.6
+    ]
+   },
+   {
+    "nome": "Rotazione (picco)",
+    "tempo_s": 0.92,
+    "angoli": {
+     "busto": 18,
+     "ginocchio": 75,
+     "caviglia": 34.1,
+     "tallone": 0,
+     "collo": -4,
+     "armK": 0.8
+    },
+    "baricentro_cm_dal_mesopiede": 0.1,
+    "bilanciere_cm": [
+     -1.5,
+     126
+    ]
+   },
+   {
+    "nome": "Incastro",
+    "tempo_s": 1.12,
+    "angoli": {
+     "busto": 24,
+     "ginocchio": 118,
+     "caviglia": 47,
+     "tallone": 0,
+     "collo": 0,
+     "armK": 0.8
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     0,
+     156.4
+    ]
+   },
+   {
+    "nome": "Incastro (tenuta)",
+    "tempo_s": 1.7,
+    "angoli": {
+     "busto": 24,
+     "ginocchio": 118,
+     "caviglia": 47,
+     "tallone": 0,
+     "collo": 0,
+     "armK": 0.8
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     0,
+     156.4
+    ]
+   },
+   {
+    "nome": "In piedi",
+    "tempo_s": 2.9,
+    "angoli": {
+     "busto": 2,
+     "ginocchio": 4,
+     "caviglia": 6.2,
+     "tallone": 0,
+     "collo": 0,
+     "armK": 0.8
+    },
+    "baricentro_cm_dal_mesopiede": 0,
+    "bilanciere_cm": [
+     0,
+     204.6
+    ]
+   }
+  ],
+  "controlli": "bilanciere: partenza 22.5 cm, fine prima tirata 52 cm, picco 126 cm (70% statura); velocità max prima tirata 1.17 m/s, seconda 1.77 m/s"
+ },
+ {
+  "id": "tirata",
+  "nome": "Snatch pull (tirata da strappo)",
+  "vista": "lato",
+  "durata": 9.600000000000001,
+  "errore": 6.2,
+  "fonti": [
+   "Harbili 2012",
+   "Gourgoulis 2000",
+   "Everett, Olympic Weightlifting",
+   "Winter 2009"
+  ],
+  "modello": {
+   "statura_cm": 180,
+   "massa_kg": 78,
+   "segmenti": "Winter 2009"
+  },
+  "fotogrammi_chiave": [],
+  "verifica": [],
+  "controlli": "bilanciere: partenza 22.5 cm, fine prima tirata 52 cm, picco 97 cm (54% statura); velocità max prima tirata 1.17 m/s, seconda 1.74 m/s"
+ }
+]

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8"><title>Esercizi biomeccanici</title>
+<style>html,body{margin:0;background:#04070f;font-family:Inter,sans-serif}canvas{display:block}
+#ui{position:fixed;left:8px;bottom:8px;display:flex;flex-wrap:wrap;gap:6px;max-width:704px}#ui button{font:700 13px Inter;padding:7px 10px;border-radius:10px;border:0;background:#1d2b45;color:#fff}</style></head>
+<body><canvas id="c" width="720" height="1280"></canvas>
+<div id="ui"><button data-ex="rdl">RDL</button><button data-ex="plank">Plank</button><button data-ex="carry">Carry</button><button data-ex="pallof">Pallof</button><button data-ex="salto">Salto</button><button data-ex="strappo">Strappo</button><button data-ex="tirata">Snatch pull</button>
+<button data-v="0.25">0,25×</button><button data-v="0.5">0,5×</button><button data-v="1">1×</button><button id="stop">Pausa</button><button id="err">Corretto / Errore</button></div>
+<script type="module">
+// Una pagina per i 7 esercizi: ?ex=plank&render=1 per i fotogrammi del video (prima corretto, poi l'errore da meta.errore).
+const q = new URLSearchParams(location.search), id = q.get("ex") ?? "rdl";
+const M = await import(`./${id === "rdl" ? "rdl-es" : id}.js`);
+const g = document.getElementById("c").getContext("2d");
+await document.fonts.load("800 26px Inter"); await document.fonts.load("600 20px Inter"); await document.fonts.load("900 36px Inter");
+window.TIMING = { DURATION: M.meta.durata };
+const wrongAt = (t) => Math.min(1, Math.max(0, (t - M.meta.errore) / 0.6));
+window.renderFrame = (t, wrong) => M.render(g, 720, 1280, t, wrong ?? wrongAt(t), { compact: q.has("compact") });
+if (!q.has("render")) {
+  let u = 0, speed = 1, last = performance.now(), err = false, run = true;
+  document.querySelectorAll("[data-ex]").forEach((b) => (b.onclick = () => (location.search = `?ex=${b.dataset.ex}`)));
+  document.querySelectorAll("[data-v]").forEach((b) => (b.onclick = () => (speed = +b.dataset.v)));
+  document.getElementById("err").onclick = () => (err = !err);
+  document.getElementById("stop").onclick = () => (run = !run);
+  (function loop(now) { if (run) u += ((now - last) / 1000) * speed; last = now; window.renderFrame(u, err ? 1 : 0); requestAnimationFrame(loop); })(last);
+} else document.getElementById("ui").remove();
+window.READY = true;
+</script></body></html>

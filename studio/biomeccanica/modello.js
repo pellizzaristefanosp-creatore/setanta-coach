@@ -30,24 +30,39 @@ export const BAR = { r: 1.4, plateR: 22.5 };
  * a = { busto, ginocchio, caviglia, collo, spalla, gomito, lombare? }
  */
 export function chain(B, a) {
-  const { L } = B;
-  const ankle = [-0.25 * L.footLen, L.ankleH]; // caviglia a un quarto dal tallone → mesopiede in x=0
-  const heel = [ankle[0] - 0.2 * L.footLen, 0], toe = [heel[0] + L.footLen, 0];
+  const { L } = B, F = L.footLen, k = a.armK ?? 1; // armK: braccia accorciate nella vista di lato (presa larga)
+  let ankle = [-0.25 * F, L.ankleH], heel = [ankle[0] - 0.2 * F, 0];
+  const ball = [heel[0] + 0.73 * F, 0], toe = [heel[0] + F, 0];
+  // tallone sollevato: il piede ruota attorno ai metatarsi (le dita restano a terra)
+  const beta = Math.asin(clamp((a.tallone ?? 0) / (0.73 * F), 0, 0.99));
+  const rot = (p) => { const dx = p[0] - ball[0], dy = p[1] - ball[1]; return [ball[0] + dx * Math.cos(beta) + dy * Math.sin(beta), ball[1] - dx * Math.sin(beta) + dy * Math.cos(beta)]; };
+  if (beta) { ankle = rot(ankle); heel = rot(heel); }
   const shankA = a.caviglia, thighA = a.caviglia - a.ginocchio, trunkA = a.busto;
   const knee = add(ankle, dir(shankA), L.shank);
   const hip = add(knee, dir(thighA), L.thigh);
-  // busto: se c'è una flessione lombare (errore), la parte alta si piega di più
   const lumb = a.lombare ?? 0;
   const mid = add(hip, dir(trunkA - lumb / 2), L.trunk * 0.5);
   const sh = add(mid, dir(trunkA + lumb / 2), L.trunk * 0.5);
   const headA = trunkA + lumb / 2 + (a.collo ?? 0);
   const head = add(sh, dir(headA), L.headC);
-  // braccio: spalla misurata dal busto; 0 = lungo il fianco (verso il basso)
-  const armA = 180 + trunkA + lumb / 2 - (a.spalla ?? 0); // verso il basso = 180
-  const elbow = add(sh, dir(armA), L.uarm);
-  const wrist = add(elbow, dir(armA - (a.gomito ?? 0)), L.farm);
-  const hand = add(wrist, dir(armA - (a.gomito ?? 0)), L.grip);
-  return { ankle, heel, toe, knee, hip, mid, sh, head, headA, elbow, wrist, hand, angles: { shankA, thighA, trunkA, armA } };
+  let elbow, wrist, hand, armA;
+  if (a.mani) { // mani su un punto (bilanciere): gomito con la cinematica inversa, gomito alto e dietro
+    hand = a.mani; const u = L.uarm * k, f = (L.farm + L.grip) * k;
+    const dx = hand[0] - sh[0], dy = hand[1] - sh[1], d = Math.min(Math.hypot(dx, dy), u + f - 0.01);
+    const ang = Math.atan2(dy, dx) + (a.gomitoSu === false ? -1 : 1) * Math.acos(clamp((u * u + d * d - f * f) / (2 * u * d), -1, 1));
+    elbow = [sh[0] + Math.cos(ang) * u, sh[1] + Math.sin(ang) * u];
+    wrist = [lerp(elbow[0], hand[0], L.farm / (L.farm + L.grip)), lerp(elbow[1], hand[1], L.farm / (L.farm + L.grip))];
+    armA = Math.atan2(elbow[0] - sh[0], elbow[1] - sh[1]) / R;
+  } else {
+    armA = a.bracciaAss ?? 180 + trunkA + lumb / 2 - (a.spalla ?? 0); // verso il basso = 180, verso l'alto = 0
+    elbow = add(sh, dir(armA), L.uarm * k);
+    wrist = add(elbow, dir(armA - (a.gomito ?? 0)), L.farm * k);
+    hand = add(wrist, dir(armA - (a.gomito ?? 0)), L.grip * k);
+  }
+  const J = { ankle, heel, ball, toe, knee, hip, mid, sh, head, headA, elbow, wrist, hand, beta: beta / R, angles: { shankA, thighA, trunkA, armA } };
+  if (a.dy) for (const key of ["ankle", "heel", "ball", "toe", "knee", "hip", "mid", "sh", "head", "elbow", "wrist"]) J[key] = [J[key][0], J[key][1] + a.dy];
+  if (a.dy && !a.mani) J.hand = [J.hand[0], J.hand[1] + a.dy];
+  return J;
 }
 
 /** baricentro del corpo (+ carico opzionale in un punto) */
@@ -55,7 +70,7 @@ export function centerOfMass(B, J, load = 0, loadAt = null) {
   const { m, com } = B;
   const P = (p, d, k) => [lerp(d[0], p[0], k), lerp(d[1], p[1], k)]; // k dal distale
   const parts = [
-    [2 * m.foot, [(J.heel[0] + J.toe[0]) / 2, J.ankle[1] / 2]],
+    [2 * m.foot, [(J.heel[0] + J.toe[0]) / 2, (J.ankle[1] + J.toe[1]) / 2]],
     [2 * m.shank, P(J.knee, J.ankle, com.shank)],
     [2 * m.thigh, P(J.hip, J.knee, com.thigh)],
     [m.trunk, J.mid],
@@ -72,27 +87,27 @@ export function centerOfMass(B, J, load = 0, loadAt = null) {
 
 /** distanza con segno dal fronte della gamba (positiva = davanti alla superficie) */
 export function legGap(B, J, p) {
-  const segs = [[J.hip, J.knee, B.w.thigh], [J.knee, J.ankle, B.w.shank]];
-  let best = null;
-  for (const [a, b, w] of segs) {
-    const v = [b[0] - a[0], b[1] - a[1]], L2 = v[0] ** 2 + v[1] ** 2;
-    const t = clamp(((p[0] - a[0]) * v[0] + (p[1] - a[1]) * v[1]) / L2);
-    const q = [a[0] + v[0] * t, a[1] + v[1] * t];
-    const d = Math.hypot(p[0] - q[0], p[1] - q[1]);
-    const side = (p[0] - q[0]) * -v[1] + (p[1] - q[1]) * v[0] < 0 ? -1 : 1; // normale verso avanti
-    if (!best || d - w < best.d) best = { d: d - w, s: side * d - w - BAR.r };
-  }
-  return best.s;
+  // il segmento giusto è quello all'altezza del bilanciere: tibia sotto il ginocchio, coscia sopra
+  const [a, b, w] = p[1] < J.knee[1] ? [J.knee, J.ankle, B.w.shank] : [J.hip, J.knee, B.w.thigh];
+  const v = [b[0] - a[0], b[1] - a[1]], L2 = v[0] ** 2 + v[1] ** 2;
+  const t = clamp(((p[0] - a[0]) * v[0] + (p[1] - a[1]) * v[1]) / L2);
+  const q = [a[0] + v[0] * t, a[1] + v[1] * t];
+  const d = Math.hypot(p[0] - q[0], p[1] - q[1]);
+  const side = (p[0] - q[0]) * -v[1] + (p[1] - q[1]) * v[0] < 0 ? -1 : 1; // normale verso avanti
+  return side * d - w - BAR.r;
 }
 
 /** angolo della spalla che porta il bilanciere (braccia tese) a `gap` cm dalle gambe */
 export function armToBar(B, a, gap) {
-  let lo = -40, hi = 120;
-  for (let i = 0; i < 50; i++) {
-    const mid = (lo + hi) / 2, J = chain(B, { ...a, spalla: mid });
-    if (legGap(B, J, J.hand) < gap) lo = mid; else hi = mid;
+  // dalla posizione indietro, ruota il braccio in avanti finché il bilanciere arriva a `gap` cm davanti alle gambe
+  const g = (sp) => legGap(B, chain(B, { ...a, spalla: sp }), chain(B, { ...a, spalla: sp }).hand);
+  let prev = -40, gp = g(prev);
+  for (let sp = -39; sp <= 130; sp += 1) {
+    const gs = g(sp);
+    if (gp < gap && gs >= gap) { let lo = prev, hi = sp; for (let i = 0; i < 30; i++) { const m = (lo + hi) / 2; if (g(m) < gap) lo = m; else hi = m; } return (lo + hi) / 2; }
+    prev = sp; gp = gs;
   }
-  return (lo + hi) / 2;
+  return prev;
 }
 
 /** caviglia (inclinazione della tibia) che mette il baricentro sopra il mesopiede */
@@ -104,4 +119,21 @@ export function balance(B, a, load, gap) {
     if (centerOfMass(B, J, load, J.hand)[0] < 0) lo = c; else hi = c;
   }
   return { caviglia: (lo + hi) / 2, spalla: sp };
+}
+
+/** caviglia che porta il baricentro (con un carico opzionale in mano) sulla x indicata, a spalla data */
+export function balanceAt(B, a, targetX = 0, load = 0) {
+  let lo = -25, hi = 50;
+  for (let i = 0; i < 40; i++) { const c = (lo + hi) / 2, J = chain(B, { ...a, caviglia: c }); if (centerOfMass(B, J, load, J.hand)[0] < targetX) lo = c; else hi = c; }
+  return (lo + hi) / 2;
+}
+/** interpolazione tra fotogrammi chiave sugli angoli (curva morbida in ogni tratto) */
+export function interp(keys, t, fields) {
+  let i = keys.findIndex((k, j) => t >= k.t && t < (keys[j + 1]?.t ?? Infinity));
+  if (i < 0) i = t < keys[0].t ? 0 : keys.length - 1;
+  const a = keys[i], b = keys[Math.min(i + 1, keys.length - 1)];
+  const u = b === a ? 0 : clamp((t - a.t) / (b.t - a.t)), k = b.curva === "lineare" ? u : u * u * (3 - 2 * u);
+  const out = { key: u < 0.06 ? a.nome : u > 0.94 ? b.nome : null, i, u };
+  for (const f of fields) out[f] = lerp(a[f] ?? 0, b[f] ?? 0, k);
+  return out;
 }
