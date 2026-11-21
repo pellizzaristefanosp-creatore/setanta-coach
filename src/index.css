@@ -444,3 +444,14 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 .episode.full .bubble.prof .who { color: #ff8a4c; }
 .episode.full .bubble.ste .who { color: #47e3a6; }
 .cartoon-people { position: absolute; left: 0; top: 0; width: 100%; aspect-ratio: 360 / 300; pointer-events: none; }
+.session-foot.three { display: grid; grid-template-columns: 1fr 1.2fr 1fr; gap: 8px; }
+.session-foot.three .btn { padding-left: 8px; padding-right: 8px; justify-content: center; }
+.lesson-cal { display: flex; flex-direction: column; gap: 10px; }
+.cal-strip { display: flex; gap: 8px; overflow-x: auto; scroll-snap-type: x proximity; padding: 2px 2px 6px; scroll-behavior: smooth; }
+.cal-chip { all: unset; cursor: pointer; scroll-snap-align: center; flex: 0 0 auto; min-width: 64px; padding: 8px 10px; border-radius: 14px; border: 2px solid var(--line); background: #fff; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.cal-chip .cal-code { font-weight: 850; font-size: 18px; }
+.cal-chip .cal-state { font-size: 11px; color: #8c8278; }
+.cal-chip.done { background: #e8f6ee; border-color: #9fd8b7; }
+.cal-chip.half { border-color: #f3b38f; }
+.cal-chip.now { background: #e5652b; border-color: #c24f1c; color: #fff; }
+.cal-chip.now .cal-state { color: #fff; }

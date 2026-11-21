@@ -9,10 +9,10 @@ import { afterPart as practiceAfterPart, finalRound, type PracticeQuestion } fro
 import { nextAction } from "../lib/coach";
 import { addDays, daysBetween, shortDate, today, weekStart, weekday } from "../lib/dates";
 import { MINUTES_PER_PART, buildSchedule, formatMinutes, minutesOf } from "../lib/schedule";
-import { dailyChallenge, level, totalXp } from "../lib/game";
+import { level, totalXp } from "../lib/game";
 import type { LessonPack } from "../lib/lesson";
 import { lessonFor } from "../lib/lessons";
-import { currentItem, daySaved, isDone, nextItem } from "../lib/plan";
+import { comparePresentationCode, currentItem, daySaved, isDone, nextItem } from "../lib/plan";
 import {
   addCard,
   addMinute,
@@ -37,6 +37,17 @@ import { streak } from "../lib/streak";
 import { readSentences, splitSentences, ttsAvailable, unlockSpeech, voicesReady, type Reader } from "../lib/tts";
 import type { Presentation } from "../lib/types";
 import { Box, Icon, Progress, Sheet, beep, formatClock, unlockAudio } from "../ui";
+
+/** fa partire fn dopo ms, se active (si annulla se cambia schermata) */
+function useAfter(active: boolean, ms: number, fn: () => void) {
+  const cb = useRef(fn);
+  cb.current = fn;
+  useEffect(() => {
+    if (!active) return;
+    const id = window.setTimeout(() => cb.current(), ms);
+    return () => window.clearTimeout(id);
+  }, [active, ms]);
+}
 
 type Phase = "idle" | "check" | "practice" | "recall" | "again" | "finished" | "final" | "library";
 export type Intent = { kind: "cards" } | { kind: "boss"; unit: number } | { kind: "quiz" } | { kind: "exercise"; code: string };
@@ -131,34 +142,7 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
   }
 
   if (phase === "again" && lastP) {
-    const done = lastP.steps.filter((x) => x.done).length;
-    const daily = dailyChallenge(s, now);
-    return (
-      <div className="hero fade-in">
-        <div className="saved pop"><Icon.check /> Giornata salvata</div>
-        <p className="page-title" style={{ fontSize: 40 }}>Fatto.</p>
-        <p className="step-title">Ne fai un'altra?</p>
-        <div className="stack" style={{ width: "100%" }}>
-          <button
-            className="btn primary huge block"
-            onClick={() => {
-              unlockAudio();
-              unlockSpeech();
-              startStep(lastP.id);
-              setPhase("idle");
-            }}
-          >
-            Sì
-          </button>
-          <button className="link-btn" onClick={() => setPhase("idle")}>Basta per oggi</button>
-        </div>
-        <Progress value={done} max={lastP.steps.length} size="big" />
-        <p className="tiny">
-          {lastP.code} · {done} di {lastP.steps.length} parti
-          {!daily.complete && daily.target > 0 && ` · sfida di oggi ${Math.min(daily.done, daily.target)}/${daily.target}`}
-        </p>
-      </div>
-    );
+    return <AutoNext p={lastP} onStop={() => setPhase("idle")} onGo={() => setPhase("idle")} />;
   }
 
   if (phase === "finished" && lastP) {
@@ -177,6 +161,14 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
         onReview={() => goTo("ripasso", { kind: "cards" })}
         onExercise={() => goTo("ripasso", { kind: "exercise", code: lastP.code })}
         onClose={() => setPhase("idle")}
+        onNextLesson={() => {
+          const nx = currentItem(getState(), now);
+          if (!nx) return setPhase("idle");
+          unlockAudio();
+          unlockSpeech();
+          startStep(nx.kind === "real" ? nx.presentation.id : ensurePresentation(nx.code, nx.title));
+          setPhase("idle");
+        }}
       />
     );
   }
@@ -326,6 +318,8 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
         <span className="pill gold num"><Icon.fire /> {st.days}</span>
         <span className="pill num">{xp} pt</span>
       </button>
+
+      <LessonCalendar now={now} />
 
       <section className="card progress-hero" aria-label="A che punto sei">
         <Ring percent={sch.percent} />
@@ -647,6 +641,7 @@ export function StepList({ p, currentId }: { p: Presentation; currentId?: string
 function CheckStep({ code, index, part, onNext }: { code: string; index: number; part: LessonPack["parts"][number]; onNext: () => void }) {
   const [chosen, setChosen] = useState<number | null>(null);
   const q = part.check;
+  useAfter(chosen != null && chosen === q.answer, 1600, onNext);
   return (
     <div className="stack fade-in" style={{ gap: 14, paddingTop: 12 }}>
       <span className="tag" style={{ alignSelf: "flex-start" }}>Domanda veloce</span>
@@ -673,7 +668,7 @@ function CheckStep({ code, index, part, onNext }: { code: string; index: number;
       </div>
       {chosen != null && (
         <div className="card soft stack fade-in">
-          <p style={{ fontWeight: 750, color: chosen === q.answer ? "var(--field)" : "var(--alarm)" }}>{chosen === q.answer ? "Giusta." : "Non proprio."}</p>
+          <p style={{ fontWeight: 750, color: chosen === q.answer ? "var(--field)" : "var(--alarm)" }}>{chosen === q.answer ? "Bravo, giusta! Si va avanti…" : "Non proprio."}</p>
           <p className="small muted">{q.explanation}</p>
           <button className="btn primary block" onClick={onNext}>Avanti</button>
         </div>
@@ -773,6 +768,7 @@ function RecallStep({ p, onNext }: { p: Presentation; onNext: () => void }) {
         <div className="card soft stack" style={{ gap: 4 }}>
           <p className="small" style={{ fontWeight: 700 }}>Il tutor non ha potuto correggerti</p>
           <p className="small muted">{aiError}</p>
+          {/codice/i.test(aiError) && <CodeInline onSaved={() => void check()} />}
           <p className="tiny">Intanto ecco il confronto semplice con i punti chiave:</p>
         </div>
       )}
@@ -809,6 +805,9 @@ function QuestionRound({ title, questions, onDone }: { title: string; questions:
   const [chosen, setChosen] = useState<number | null>(null);
   const [right, setRight] = useState(0);
   const [over, setOver] = useState(false);
+  const cur = questions[i];
+  useAfter(over || questions.length === 0, 2200, onDone);
+  useAfter(!over && chosen != null && !!cur && chosen === cur.answer, 1500, () => (i + 1 < questions.length ? (setI(i + 1), setChosen(null)) : setOver(true)));
   if (over || questions.length === 0) {
     const wrong = questions.length - right;
     return (
@@ -862,7 +861,7 @@ function QuestionRound({ title, questions, onDone }: { title: string; questions:
       </div>
       {chosen != null && (
         <div className="card soft stack fade-in">
-          <p style={{ fontWeight: 750, color: chosen === q.answer ? "var(--field)" : "var(--alarm)" }}>{chosen === q.answer ? "Giusta." : `Era: ${q.options[q.answer]}`}</p>
+          <p style={{ fontWeight: 750, color: chosen === q.answer ? "var(--field)" : "var(--alarm)" }}>{chosen === q.answer ? "Bravo, giusta!" : `Era: ${q.options[q.answer]}`}</p>
           {q.explanation && <p className="small muted">{q.explanation}</p>}
           <button className="btn primary block" onClick={next}>{i + 1 < questions.length ? "Avanti" : "Fine"}</button>
         </div>
@@ -872,7 +871,9 @@ function QuestionRound({ title, questions, onDone }: { title: string; questions:
   );
 }
 
-function Finished({ p, hasExercise, onFinal, onReview, onExercise, onClose }: { p: Presentation; hasExercise: boolean; onFinal?: () => void; onReview: () => void; onExercise: () => void; onClose: () => void }) {
+function Finished({ p, hasExercise, onFinal, onReview, onExercise, onClose, onNextLesson }: { p: Presentation; hasExercise: boolean; onFinal?: () => void; onReview: () => void; onExercise: () => void; onClose: () => void; onNextLesson: () => void }) {
+  const [auto, setAuto] = useState(true);
+  useAfter(auto, 8000, onNextLesson);
   return (
     <div className="hero fade-in">
       <div className="trophy pop">🏁</div>
@@ -883,7 +884,28 @@ function Finished({ p, hasExercise, onFinal, onReview, onExercise, onClose }: { 
         {onFinal && <button className="btn primary block" onClick={onFinal}>Partita finale · 6 domande</button>}
         <button className={`btn block ${onFinal ? "" : "primary"}`} onClick={onReview}>Ripasso 10 minuti</button>
         {hasExercise && <button className="btn block" onClick={onExercise}>Esercizio pratico</button>}
-        <button className="link-btn" onClick={onClose}>Basta per oggi</button>
+        <button className="btn field block" onClick={onNextLesson}>Prossima lezione ›</button>
+        {auto ? <button className="link-btn" onClick={() => setAuto(false)}>Fra poco parte la prossima lezione · Fermati qui</button> : <button className="link-btn" onClick={onClose}>Basta per oggi</button>}
+      </div>
+    </div>
+  );
+}
+
+/** Bravo! e la parte dopo parte da sola (si può fermare). */
+function AutoNext({ p, onStop, onGo }: { p: Presentation; onStop: () => void; onGo: () => void }) {
+  const done = p.steps.filter((x) => x.done).length;
+  const go = () => { unlockAudio(); unlockSpeech(); startStep(p.id); onGo(); };
+  useAfter(true, 2500, go);
+  return (
+    <div className="hero fade-in">
+      <div className="saved pop"><Icon.check /> Bravo!</div>
+      <p className="page-title" style={{ fontSize: 36 }}>Parte fatta.</p>
+      <p className="step-title">Si va avanti con la prossima…</p>
+      <Progress value={done} max={p.steps.length} size="big" />
+      <p className="tiny">{p.code} · {done} di {p.steps.length} parti</p>
+      <div className="stack" style={{ width: "100%" }}>
+        <button className="btn primary huge block" onClick={go}>Vai subito</button>
+        <button className="link-btn" onClick={onStop}>Basta per oggi</button>
       </div>
     </div>
   );
@@ -967,8 +989,20 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   const doneCount = p.steps.filter((x) => x.done).length;
   const replay = !!s.timer?.replay;
   const returnTo = s.timer?.returnTo;
-  // riascolta la parte prima, poi si torna qui (o alla parte da cui eri partito)
-  const goBack = index > 0 ? () => { el.current?.pause(); startReplay(p.id, p.steps[index - 1]!.id, returnTo ?? (replay ? undefined : s.timer?.stepId)); } : undefined;
+  // ← Precedente: la parte prima (o l'ultima della lezione prima); Prossima →: la parte dopo (o la lezione dopo)
+  const ordered = [...s.presentations].sort((a, b) => comparePresentationCode(a.code, b.code));
+  const pi = ordered.findIndex((x) => x.id === p.id);
+  const openPart = (pp: Presentation, stepIdx: number) => { const st = pp.steps[stepIdx]; if (!st) return; if (st.done) startReplay(pp.id, st.id); else startStepAt(pp.id, st.id); };
+  const goPrev = () => {
+    if (index > 0) return openPart(p, index - 1);
+    const prev = ordered[pi - 1]; if (prev) openPart(prev, prev.steps.length - 1);
+  };
+  const goNext = () => {
+    if (index + 1 < p.steps.length) return openPart(p, index + 1);
+    const nx = ordered[pi + 1]; if (nx) openPart(nx, Math.max(0, nx.steps.findIndex((x) => !x.done)));
+  };
+  // finito l'ascolto si va avanti da soli (domande e poi la parte dopo)
+  const [autoOn, setAutoOn] = useState(true);
   const close = () => {
     if (replay && returnTo) startStepAt(p.id, returnTo);
     else if (replay || confirm("Chiudere? Questa parte non viene segnata.")) cancelStep();
@@ -1015,7 +1049,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
     // se il video della lezione ha già le voci, il dialogo parte quando il video finisce
     if (!(video?.voices && videoOn)) a.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
     if ("mediaSession" in navigator) {
-      navigator.mediaSession.metadata = new MediaMetadata({ title: `${p.code} · ${part.title}`, artist: "Marco e Luca", album: "Setanta Coach", artwork: [{ src: "/icon-512.png", sizes: "512x512", type: "image/png" }] });
+      navigator.mediaSession.metadata = new MediaMetadata({ title: `${p.code} · ${part.title}`, artist: "Prof e Ste", album: "Setanta Coach", artwork: [{ src: "/icon-512.png", sizes: "512x512", type: "image/png" }] });
       navigator.mediaSession.setActionHandler("play", () => void a.play());
       navigator.mediaSession.setActionHandler("pause", () => a.pause());
       navigator.mediaSession.setActionHandler("seekbackward", () => (a.currentTime = Math.max(0, a.currentTime - 10)));
@@ -1025,6 +1059,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index]);
 
+  useAfter(ended && !replay && autoOn && turnState !== "domanda", 1800, onDone);
   const toggle = () => {
     const a = el.current;
     if (!a) return;
@@ -1082,7 +1117,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
       ) : (
         <>
       <div className="card lesson-card stack" style={{ gap: 12 }}>
-        <span className="listen-label"><Icon.headphones /> {playing ? "Marco e Luca" : ended ? "Fatto l'ascolto" : "Pronto"}</span>
+        <span className="listen-label"><Icon.headphones /> {playing ? "Prof e Ste" : ended ? "Fatto l'ascolto" : "Pronto"}</span>
         <p className="step-title">{part.title}</p>
         <ul className="keypoints">
           {part.keyPoints.slice(0, shown).map((k, i) => <li key={i} className="pop">{k}</li>)}
@@ -1094,11 +1129,11 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
       {showText ? (
         <div className="card soft stack" style={{ gap: 6 }}>
           {audio.lines.map((l, i) => (
-            <p key={i} className={`small ${i === cur && playing ? "now-line" : ""}`}><b>{l.who === "M" ? "Marco" : "Luca"}:</b> {l.text}</p>
+            <p key={i} className={`small ${i === cur && playing ? "now-line" : ""}`}><b>{l.who === "M" ? "Prof" : "Ste"}:</b> {nomi(l.text)}</p>
           ))}
         </div>
       ) : (
-        <p className="caption" aria-live="polite"><b>{audio.lines[cur]?.who === "M" ? "Marco" : "Luca"}:</b> {audio.lines[cur]?.text}</p>
+        <p className="caption" aria-live="polite"><b>{audio.lines[cur]?.who === "M" ? "Prof" : "Ste"}:</b> {nomi(audio.lines[cur]?.text ?? "")}</p>
       )}
 
         </>
@@ -1123,16 +1158,14 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         <button className="btn" onClick={() => setShowText(!showText)}>{showText ? "Nascondi" : "Testo"}</button>
       </div>
 
-      <div className="session-foot">
-        {goBack ? (
-          <button className="btn" onClick={goBack}>← Parte precedente</button>
-        ) : (
-          <span />
-        )}
+      <div className="session-foot three">
+        <button className="btn" onClick={() => { el.current?.pause(); goPrev(); }}>← Precedente</button>
         <button className={`btn field ${ended ? "pulse" : ""}`} onClick={() => { el.current?.pause(); onDone(); }}>
-          <Icon.check /> {replay && returnTo ? "Torna alla lezione" : "Fatto"}
+          <Icon.check /> {replay && returnTo ? "Torna" : "Fatto"}
         </button>
+        <button className="btn" onClick={() => { el.current?.pause(); goNext(); }}>Prossima →</button>
       </div>
+      {ended && !replay && autoOn && <p className="tiny center muted">Finita: tra un attimo le domande… <button className="link-btn" onClick={() => setAutoOn(false)}>aspetta</button></p>}
       {card && <CardSheet presentationId={p.id} onClose={() => setCard(false)} />}
       {turn && turnState === "domanda" && (
         <TurnSheet
@@ -1151,7 +1184,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
 
 /** Frasi di Marco dopo la tua risposta (file in public/audio/turni). */
 const MARCO_SAYS = {
-  giusto: ["Esatto. Hai ragionato da preparatore.", "Bravo! Proprio così.", "Giusto. Luca, prendi appunti.", "Perfetto: è il ragionamento giusto."],
+  giusto: ["Esatto. Hai ragionato da preparatore.", "Bravo! Proprio così.", "Giusto. Prendi appunti.", "Perfetto: è il ragionamento giusto."],
   sbagliato: ["Quasi. Ragioniamoci un attimo insieme.", "Ci sei vicino. Guarda bene qui.", "Tranquillo, è l'errore più comune. Vediamo perché.", "Non proprio. Ma ci arriviamo in un attimo."],
 } as const;
 
@@ -1169,7 +1202,7 @@ function TurnSheet({ code, turn, asker, onDone }: { code: string; turn: Turn; as
   return (
     <Sheet label="Tocca a te" onClose={finish}>
       <span className="tag">🎯 Tocca a te</span>
-      <p className="tiny">{asker.who === "M" ? "Marco ti chiede:" : "Luca chiede. Rispondi tu, prima di Marco:"}</p>
+      <p className="tiny">{asker.who === "M" ? "Il Prof ti chiede:" : "Ste chiede. Rispondi tu, prima del Prof:"}</p>
       <h2 className="step-title" style={{ fontSize: 21 }}>{turn.question}</h2>
       <div className="stack" style={{ gap: 8 }}>
         {turn.options.map((o, k) => {
@@ -1199,11 +1232,11 @@ function TurnSheet({ code, turn, asker, onDone }: { code: string; turn: Turn; as
       {chosen != null && (
         <div className="card soft stack fade-in" style={{ gap: 8 }}>
           <p style={{ fontWeight: 750, color: right ? "var(--field)" : "var(--alarm)" }}>
-            <span className="turn-who">Marco</span> {MARCO_SAYS[right ? "giusto" : "sbagliato"][say]}
+            <span className="turn-who">Prof</span> {MARCO_SAYS[right ? "giusto" : "sbagliato"][say]}
           </p>
           <p className="small muted">{turn.why}</p>
           <button className="btn primary block" onClick={finish}>
-            <Icon.play /> Senti la risposta di {asker.who === "M" ? "Luca" : "Marco"}
+            <Icon.play /> Senti la risposta di {asker.who === "M" ? "Ste" : "Prof"}
           </button>
         </div>
       )}
@@ -1215,3 +1248,53 @@ function TurnSheet({ code, turn, asker, onDone }: { code: string; turn: Turn; as
     </Sheet>
   );
 }
+
+/**
+ * Calendario delle lezioni: tocchi una lezione e l'app riparte da lì (resta salvato).
+ * Da lì va avanti da sola; puoi sempre tornare indietro toccando una lezione prima.
+ */
+function LessonCalendar({ now }: { now: string }) {
+  const s = useStore();
+  const cur = currentItem(s, now);
+  const curId = cur?.kind === "real" ? cur.presentation.id : undefined;
+  const list = s.presentations.filter((p) => lessonFor(s, p.code)).sort((a, b) => comparePresentationCode(a.code, b.code));
+  const strip = useRef<HTMLDivElement | null>(null);
+  useEffect(() => {
+    const el = strip.current?.querySelector<HTMLElement>(".cal-chip.now");
+    if (el && strip.current) strip.current.scrollLeft = el.offsetLeft - strip.current.clientWidth / 2 + el.clientWidth / 2;
+  }, [curId]);
+  return (
+    <section className="card lesson-cal" aria-label="Da quale lezione parti">
+      <div className="spread"><h2>Le lezioni</h2><span className="tiny muted">tocca per ripartire da lì</span></div>
+      <div className="cal-strip" ref={strip}>
+        {list.map((p) => {
+          const done = p.steps.filter((x) => x.done).length, all = p.steps.length;
+          const state = done === all ? "done" : p.id === curId ? "now" : done > 0 ? "half" : "";
+          return (
+            <button key={p.id} className={`cal-chip ${state}`} aria-pressed={p.id === curId}
+              onClick={() => setState((d) => void (d.lastPresentationId = p.id))}>
+              <span className="cal-code num">{p.code}</span>
+              <span className="cal-state">{done === all ? "✓ fatta" : p.id === curId ? "▶ adesso" : done > 0 ? `${done}/${all}` : "da fare"}</span>
+            </button>
+          );
+        })}
+      </div>
+      {cur && <p className="small">Si parte da: <b>{cur.kind === "real" ? `${cur.presentation.code} · ${lessonFor(s, cur.presentation.code)?.title ?? ""}` : cur.code}</b></p>}
+    </section>
+  );
+}
+
+/** Codice del tutor scritto qui, senza andare in Altro: lo salva e riprova subito. */
+function CodeInline({ onSaved }: { onSaved: () => void }) {
+  const s = useStore();
+  const [code, setCode] = useState(s.settings.appCode ?? "");
+  return (
+    <div className="stack" style={{ gap: 6 }}>
+      <label className="field">Codice di accesso del tutor<input type="text" value={code} onChange={(e) => setCode(e.target.value)} autoComplete="off" placeholder="lo stesso che avevi scritto in Altro" /></label>
+      <button className="btn primary block" disabled={!code.trim()} onClick={() => { setState((d) => void (d.settings.appCode = code.trim())); onSaved(); }}>Salva e correggimi</button>
+    </div>
+  );
+}
+
+/** I nomi nei testi delle lezioni: Marco → Prof, Luca → Ste (le voci registrate restano quelle). */
+function nomi(t: string) { return t.replace(/\[[^\]]*\]\s*/g, "").replace(/\bLuca\b/g, "Ste").replace(/\bMarco\b/g, "Prof"); }
