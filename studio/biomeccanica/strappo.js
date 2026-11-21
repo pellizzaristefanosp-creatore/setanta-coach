@@ -133,7 +133,7 @@ export function makeRender(lift, meta) {
     ground(V, W);
     const c = t % P.REP, pts = []; for (let k = 0; k <= c; k += 0.02) pts.push(pose(t - c + k, wrong, lift).bar); trail(V, pts);
     drawSide(V, B, P.J, { nearArm: false, bad: wrong > 0.5 ? (lift === "strappo" ? {} : { anca: c > 0.2 && c < 0.7 }) : {} });
-    plate(V, P.bar); drawNearArm(V, P.J); comDot(V, P.com);
+    drawNearArm(V, P.J); plate(V, P.bar); comDot(V, P.com); // di profilo il disco copre mano e avambraccio (le mani sono dentro i dischi)
     const bq = V.X(P.bar); g.font = "800 20px Inter"; g.fillStyle = C.gold; g.textAlign = "left"; g.fillText(`${(P.bar[1] / 100).toFixed(2).replace(".", ",")} m`, bq[0] + 76, bq[1] + 6);
     if (P.key) pill(g, P.key, W / 2, 1175, C.gold, 23);
     if (!compact) {

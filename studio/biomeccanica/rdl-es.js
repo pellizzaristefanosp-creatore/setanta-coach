@@ -11,7 +11,7 @@ export function render(g, W, H, t, wrong, { compact = false } = {}) {
   ground(V, W);
   const c = t % REP, pts = []; for (let k = 0; k <= c; k += 0.08) pts.push(pose(t - c + k, wrong).J.hand); trail(V, pts);
   drawSide(V, B, P.J, { bad: wrong > 0.5 ? { busto: true, collo: true } : {}, nearArm: false });
-  plate(V, P.J.hand); drawNearArm(V, P.J);
+  drawNearArm(V, P.J); plate(V, P.J.hand); // il disco copre mano e avambraccio
   const hp = V.X(P.J.hip), bp = V.X(P.J.hand), lev = Math.abs(P.J.hand[0] - P.J.hip[0]);
   g.strokeStyle = C.gold; g.lineWidth = 4; g.setLineDash([6, 6]); g.beginPath(); g.moveTo(hp[0], hp[1]); g.lineTo(bp[0], hp[1]); g.lineTo(bp[0], bp[1]); g.stroke(); g.setLineDash([]);
   g.fillStyle = C.gold; g.beginPath(); g.arc(hp[0], hp[1], 8, 0, 7); g.fill();
