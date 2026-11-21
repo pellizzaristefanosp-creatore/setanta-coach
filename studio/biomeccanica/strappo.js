@@ -41,9 +41,10 @@ function snatchKeys(wrong) {
     { nome: "Ginocchio (fine prima tirata)", t: 0.4, curva: "in", mode: "pull", busto: lerp(52, 66, wrong), h: pct(29) },
     { nome: "Tasca / alto coscia", t: 0.58, curva: "lineare", mode: "pull", busto: 12, h: pct(44), gap: 1.5 },
     { nome: "Massima estensione", t: 0.68, curva: "lineare", mode: "pull", busto: -6, h: null, tallone: 8, tx: 3, gap: lerp(2, 10, wrong) },
-    { nome: "Scrollata", t: 0.76, curva: "lineare", mode: "free", busto: -4, ginocchio: 8, tallone: 6, dh: pct(6), dx: lerp(2, 9, wrong) },
-    { nome: "Rotazione (picco)", t: 0.92, curva: "out", mode: "free", busto: 18, ginocchio: 75, tallone: 0, h: pct(70), x: lerp(-1.5, 8, wrong) },
-    { nome: "Incastro", t: 1.12, mode: "over", busto: lerp(24, 34, wrong), ginocchio: 118, arco: 1 },
+    { nome: "Scrollata (braccia tese)", t: 0.76, curva: "lineare", mode: "pull", busto: -6, h: null, tallone: 9, tx: 3, shrug: 1, gap: lerp(2, 10, wrong) },
+    { nome: "Tirata sotto: gomiti alti", t: 0.84, curva: "lineare", mode: "free", busto: 0, ginocchio: 22, tallone: 2, dh: pct(6), dx: lerp(1, 8, wrong) },
+    { nome: "Rotazione (picco)", t: 1.0, curva: "lineare", mode: "free", busto: 18, ginocchio: 75, tallone: 0, h: pct(70), x: lerp(-1.5, 8, wrong) },
+    { nome: "Incastro", t: 1.18, mode: "over", busto: lerp(24, 34, wrong), ginocchio: 118, arco: 1 },
     { nome: "Incastro (tenuta)", t: 1.7, mode: "over", busto: lerp(24, 34, wrong), ginocchio: 118 },
     { nome: "In piedi", t: 2.9, mode: "over", busto: 2, ginocchio: 4 },
   ];
@@ -71,7 +72,7 @@ function solveKey(k, prev) {
         const J = chain(B, { busto: k.busto, ginocchio: gin, caviglia: c, spalla: sp, tallone: k.tallone ?? 0, collo: -8, armK: ARMK }); if (centerOfMass(B, J, LOAD, J.hand)[0] < (k.tx ?? 0)) lo = c; else hi = c; }
       a = { busto: k.busto, ginocchio: gin, caviglia: (lo + hi) / 2, spalla: sp, tallone: k.tallone ?? 0, collo: -8, armK: ARMK };
     } else a = pullPose(k.busto, k.h, { tallone: k.tallone ?? 0, gap: k.gap ?? 1, tx: k.tx ?? 0 });
-    if (k.shrug) a = { ...a, spalla: a.spalla + 4 };
+    // la scrollata è nelle spalle che salgono col corpo in estensione (tallone e ginocchio), non nelle braccia
     a.bar = chain(B, a).hand;
   } else if (k.mode === "over") { a = overheadPose(k.busto, k.ginocchio); a.bar = chain(B, a).hand; }
   else { // libero: corpo dato, bilanciere su un punto della traiettoria, gomiti alti
@@ -149,8 +150,8 @@ export function checksFor(lift) {
   let peak = 0, v1 = 0, v2 = 0, prev = null;
   for (let t = 0; t < REP; t += 1 / 120) {
     const P = pose(t, 0, lift);
-    if (t < 0.93) peak = Math.max(peak, P.bar[1]);
-    if (prev) { const v = (P.bar[1] - prev) * 120 / 100; if (t < 0.4) v1 = Math.max(v1, v); else if (t < 0.9) v2 = Math.max(v2, v); }
+    if (t < 1.01) peak = Math.max(peak, P.bar[1]);
+    if (prev) { const v = (P.bar[1] - prev) * 120 / 100; if (t < 0.4) v1 = Math.max(v1, v); else if (t < 1.0) v2 = Math.max(v2, v); }
     prev = P.bar[1];
     if (P.a.mani == null && P.bar[1] < 100 && (P.gap < 0 || P.gap > 3)) f.push(`${t.toFixed(2)}s bilanciere a ${P.gap.toFixed(1)} cm`);
     if (t < 0.5 && Math.abs(P.com[0]) > 3) f.push(`${t.toFixed(2)}s baricentro ${P.com[0].toFixed(1)}`);

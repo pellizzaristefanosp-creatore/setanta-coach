@@ -49,8 +49,13 @@ export function chain(B, a) {
   if (a.mani) { // mani su un punto (bilanciere): gomito con la cinematica inversa, gomito alto e dietro
     hand = a.mani; const u = L.uarm * k, f = (L.farm + L.grip) * k;
     const dx = hand[0] - sh[0], dy = hand[1] - sh[1], d = Math.min(Math.hypot(dx, dy), u + f - 0.01);
-    const ang = Math.atan2(dy, dx) + (a.gomitoSu === false ? -1 : 1) * Math.acos(clamp((u * u + d * d - f * f) / (2 * u * d), -1, 1));
-    elbow = [sh[0] + Math.cos(ang) * u, sh[1] + Math.sin(ang) * u];
+    const base = Math.atan2(dy, dx), off = Math.acos(clamp((u * u + d * d - f * f) / (2 * u * d), -1, 1));
+    const e1 = [sh[0] + Math.cos(base + off) * u, sh[1] + Math.sin(base + off) * u], e2 = [sh[0] + Math.cos(base - off) * u, sh[1] + Math.sin(base - off) * u];
+    // bilanciere sotto le spalle: gomiti alti (tirata sotto); sopra le spalle: gomiti dietro e sotto il bilanciere (rotazione)
+    // bilanciere sotto le spalle: gomito sopra il bilanciere con l'avambraccio il più verticale possibile (gomiti alti);
+    // sopra le spalle: gomito dietro e sotto il bilanciere (rotazione e incastro)
+    if (hand[1] < sh[1]) { const up = [e1, e2].filter((e) => e[1] > hand[1]); elbow = up.length ? up.reduce((b, e) => (Math.abs(e[0] - hand[0]) < Math.abs(b[0] - hand[0]) ? e : b)) : (e1[1] > e2[1] ? e1 : e2); }
+    else elbow = e1[0] < e2[0] ? e1 : e2;
     wrist = [lerp(elbow[0], hand[0], L.farm / (L.farm + L.grip)), lerp(elbow[1], hand[1], L.farm / (L.farm + L.grip))];
     armA = Math.atan2(elbow[0] - sh[0], elbow[1] - sh[1]) / R;
   } else {
