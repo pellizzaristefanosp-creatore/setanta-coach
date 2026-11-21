@@ -101,6 +101,8 @@ export type State = {
   version: 1;
   /** L'ultima lezione su cui hai lavorato: "Solo 2 minuti" riparte da lì finché non è finita. */
   lastPresentationId?: string;
+  /** Puntate animate già viste (codice lezione): la prima volta partono appena tocchi "2 minuti". */
+  seenEpisodes?: string[];
   units: Unit[];
   presentations: Presentation[];
   cards: Card[];

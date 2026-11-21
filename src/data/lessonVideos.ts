@@ -128,6 +128,7 @@ export const LESSON_VIDEOS: LessonVideo[] = [
   },
 ];
 
-export function lessonVideo(code: string, part: number): LessonVideo | undefined {
-  return LESSON_VIDEOS.find((v) => v.code === code && v.part === part);
+/** la puntata della lezione (con `part`, solo se è legata a quella parte) */
+export function lessonVideo(code: string, part?: number): LessonVideo | undefined {
+  return LESSON_VIDEOS.find((v) => v.code === code && (part === undefined || v.part === part));
 }

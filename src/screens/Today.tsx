@@ -227,6 +227,12 @@ function Library({ onBack, onPlay }: { onBack: () => void; onPlay: (presentation
               </span>
               <span aria-hidden="true">{isOpen ? "▴" : "▾"}</span>
             </button>
+            {isOpen && lessonVideo(p.code) && (
+              <figure className="lesson-video">
+                <video src={lessonVideo(p.code)!.src} poster={lessonVideo(p.code)!.poster} controls playsInline preload="none" />
+                <figcaption><span className="small">🎬 La puntata · {lessonVideo(p.code)!.caption}</span></figcaption>
+              </figure>
+            )}
             {isOpen && (
               <ol className="lib-parts">
                 {p.steps.map((st, i) => {
@@ -964,10 +970,15 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   const progress = audio.duration > 0 ? Math.min(1, t / audio.duration) : 0;
   const shown = ended ? part.keyPoints.length : Math.max(1, Math.ceil(progress * part.keyPoints.length));
   // video animato della lezione: parte con la voce e poi lascia il posto al cartone
-  const video = lessonVideo(p.code, index);
+  // la puntata della lezione parte appena tocchi "2 minuti" la prima volta (in qualunque parte tu sia),
+  // e poi di nuovo nella sua parte
+  const episode = lessonVideo(p.code);
+  const firstTime = !!episode && !replay && !(s.seenEpisodes ?? []).includes(p.code);
+  const video = firstTime || episode?.part === index ? episode : undefined;
   const [videoOn, setVideoOn] = useState(!!video);
   const endVideo = () => {
     setVideoOn(false);
+    if (video) setState((d) => void (d.seenEpisodes = [...new Set([...(d.seenEpisodes ?? []), p.code])]));
     if (video?.voices) void el.current?.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
   };
   // "Tocca a te": a caso, una domanda del dialogo la fa rispondere a te prima della risposta vera
