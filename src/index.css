@@ -455,3 +455,102 @@ a svg { width: 16px; height: 16px; vertical-align: -2px; margin-left: 2px; }
 .cal-chip.half { border-color: #f3b38f; }
 .cal-chip.now { background: #e5652b; border-color: #c24f1c; color: #fff; }
 .cal-chip.now .cal-state { color: #fff; }
+
+/* ————————————————————————————————————————————————
+   Tema morbido (22/11/2026): pietra calda, vetro, verde salvia, luce di traverso.
+   Sovrascrive i colori dell'app senza toccare la struttura.
+   ———————————————————————————————————————————————— */
+:root {
+  --bg: #d9d5cb;
+  --surface: rgba(250, 248, 241, 0.6);
+  --surface-2: rgba(238, 236, 226, 0.72);
+  --line: rgba(70, 78, 60, 0.14);
+  --ink: #2f3329;
+  --ink-2: #5d6252;
+  --ink-3: #7e8372;
+  --brand: #66744f;
+  --brand-ink: #f6f3ea;
+  --brand-soft: #e1e5d3;
+  --field: #4e7652;
+  --field-soft: #dbe6d6;
+  --gold: #bfa063;
+  --gold-soft: #eee4cb;
+  --alarm: #a5493c;
+  --alarm-soft: #f0ddd6;
+  --sage-glass: rgba(74, 82, 66, 0.62);
+  --sage-glass-2: rgba(96, 104, 86, 0.42);
+  --cream: #f3efe3;
+  --cream-2: rgba(243, 239, 227, 0.68);
+  --radius: 24px;
+  --shadow: 0 16px 36px -22px rgba(40, 44, 32, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.35);
+  --display: "Outfit", "Avenir Next", -apple-system, "Segoe UI", sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+}
+html, body {
+  background: var(--bg);
+  background-image:
+    radial-gradient(120% 60% at 85% -10%, rgba(255, 246, 222, 0.85), transparent 60%),
+    linear-gradient(115deg, transparent 38%, rgba(255, 250, 236, 0.32) 46%, transparent 58%),
+    linear-gradient(180deg, #d9d5cb 0%, #c4c3b5 100%);
+  background-attachment: fixed;
+}
+.page-title, .step-title, .ph-title, .big-num, .clock, h1, h2, .lv-name, .cal-code, .go-label { font-family: var(--display); font-weight: 400; letter-spacing: -0.01em; }
+.page-title { font-weight: 300; }
+.card { background: var(--surface); backdrop-filter: blur(18px) saturate(1.1); -webkit-backdrop-filter: blur(18px) saturate(1.1); border: 1px solid rgba(255, 255, 255, 0.45); }
+.card h2 { font-weight: 500; }
+.card.soft { background: var(--surface-2); }
+.btn { border-radius: 999px; background: rgba(250, 248, 241, 0.7); border: 1px solid rgba(255, 255, 255, 0.5); }
+.btn.primary { background: var(--brand); color: var(--brand-ink); border-color: transparent; }
+.btn.field { background: #586a4b; color: var(--cream); border-color: transparent; }
+.btn.huge { border-radius: 26px; font-family: var(--display); font-weight: 500; }
+.icon-btn { border-radius: 50%; background: rgba(250, 248, 241, 0.7); }
+.progress { background: rgba(250, 248, 241, 0.55); border-color: rgba(255, 255, 255, 0.4); }
+.progress > span { background: linear-gradient(90deg, #a9b98f, var(--gold)); }
+.option { background: rgba(250, 248, 241, 0.72); border-radius: 18px; }
+.chip.on, .cal-chip.now { background: var(--brand); border-color: var(--brand); color: var(--brand-ink); }
+.sheet { background: #e4e1d7; }
+.gamebar { background: rgba(250, 248, 241, 0.55); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border: 1px solid rgba(255, 255, 255, 0.45); }
+
+/* barra in basso: pillola di vetro salvia */
+.tabbar { background: transparent; border-top: 0; backdrop-filter: none; -webkit-backdrop-filter: none; padding: 8px 12px calc(env(safe-area-inset-bottom) + 10px); }
+.tabbar nav { background: linear-gradient(160deg, var(--sage-glass-2), var(--sage-glass)); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); border: 1px solid rgba(240, 236, 222, 0.22); border-radius: 28px; padding: 6px; box-shadow: 0 18px 40px -20px rgba(40, 44, 32, 0.6); }
+.tab { color: var(--cream-2); border-radius: 20px; min-height: 50px; }
+.tab.on { color: var(--ink); background: rgba(243, 239, 227, 0.9); }
+.tab .dot { border-color: transparent; }
+
+/* saluto che si rimpicciolisce scorrendo */
+.greet { position: sticky; top: 0; z-index: 9; margin: calc(-1 * (env(safe-area-inset-top) + 16px)) -16px 0; padding: calc(env(safe-area-inset-top) + 14px) 16px 12px; transition: background 0.3s, box-shadow 0.3s; }
+.greet.small { background: rgba(217, 213, 203, 0.78); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); box-shadow: 0 1px 0 rgba(47, 51, 41, 0.08); }
+.greet h1 { font-family: var(--display); font-weight: 300; font-size: calc(36px - 14px * var(--shrink, 0)); line-height: 1.1; }
+.greet p { color: var(--ink-2); font-size: 14px; margin-top: 4px; opacity: calc(1 - var(--shrink, 0) * 1.6); max-height: calc(40px * (1 - var(--shrink, 0))); overflow: hidden; }
+
+/* carta di oggi con la foto e il pulsante a pillola */
+.hero.compact { min-height: 0; flex: none; align-items: flex-start; text-align: left; gap: 14px; padding: 22px; border-radius: 26px; color: var(--cream); background-image: linear-gradient(100deg, rgba(54, 60, 46, 0.88) 0%, rgba(54, 60, 46, 0.52) 55%, rgba(54, 60, 46, 0.1) 100%), url(/img/oggi.jpg); background-size: cover; background-position: center; border: 1px solid rgba(240, 236, 222, 0.22); box-shadow: 0 18px 40px -22px rgba(40, 44, 32, 0.6); transform: scale(var(--z, 1)); transform-origin: center top; }
+.hero.compact .muted { color: var(--cream-2); }
+.hero.compact .saved { background: rgba(243, 239, 227, 0.16); color: var(--cream); }
+.go.small-go, .go.small-go.calm { width: auto; aspect-ratio: auto; border-radius: 999px; flex-direction: row; gap: 10px; padding: 14px 24px; font-size: 19px; font-weight: 500; background: rgba(243, 239, 227, 0.92); color: var(--ink); box-shadow: 0 8px 20px -10px rgba(0, 0, 0, 0.4); }
+.go.small-go svg { width: 18px; height: 18px; }
+.hero.compact .next-lesson { background: rgba(243, 239, 227, 0.14); color: var(--cream); border: 1px solid rgba(240, 236, 222, 0.25); border-radius: 20px; }
+.hero.compact .next-lesson .muted, .hero.compact .next-lesson .tiny { color: var(--cream-2); }
+
+/* calendario: una foto per lezione, scorrimento a scatti */
+.lesson-cal { background: transparent; border: 0; box-shadow: none; backdrop-filter: none; -webkit-backdrop-filter: none; padding: 0; }
+.cal-strip { scroll-snap-type: x mandatory; gap: 12px; padding-bottom: 8px; scrollbar-width: none; }
+.cal-strip::-webkit-scrollbar { display: none; }
+.cal-chip { scroll-snap-align: center; flex: 0 0 58%; min-height: 170px; border-radius: 24px; align-items: flex-start; justify-content: space-between; padding: 16px; color: var(--cream); border: 1px solid rgba(240, 236, 222, 0.22); background-image: linear-gradient(180deg, rgba(52, 58, 44, 0.25) 0%, rgba(46, 52, 38, 0.85) 100%), var(--img); background-size: cover; background-position: center; transform: scale(var(--s, 0.94)); opacity: var(--o, 0.75); transition: transform 0.25s, opacity 0.25s; box-shadow: 0 16px 34px -22px rgba(40, 44, 32, 0.6); }
+.cal-chip .cal-code { font-family: var(--display); font-weight: 200; font-size: 42px; line-height: 1; }
+.cal-chip .cal-state { color: var(--cream-2); font-size: 12px; }
+.cal-chip .cal-title { font-size: 14px; line-height: 1.3; }
+.cal-chip.done { background-color: transparent; border-color: rgba(240, 236, 222, 0.22); }
+.cal-chip.half { border-color: rgba(216, 192, 138, 0.6); }
+.cal-chip.now { background-image: linear-gradient(180deg, rgba(120, 104, 60, 0.3) 0%, rgba(70, 64, 40, 0.88) 100%), var(--img); color: var(--cream); border-color: rgba(216, 192, 138, 0.7); }
+.cal-chip.now .cal-state { color: #f1dca8; }
+
+/* effetti di scorrimento */
+.fx-blur { filter: blur(calc(var(--b, 0) * 8px)); opacity: calc(1 - var(--b, 0) * 0.6); transform: translateY(calc(var(--b, 0) * 20px)); }
+.fx-tilt { transform: perspective(900px) rotateX(calc(var(--r, 0) * 30deg)) translateY(calc(var(--r, 0) * 24px)); transform-origin: center bottom; opacity: calc(1 - var(--r, 0) * 0.45); }
+@media (prefers-reduced-motion: reduce) { .fx-blur, .fx-tilt, .hero.compact { filter: none !important; transform: none !important; opacity: 1 !important; } }
+.hero-head { display: flex; flex-direction: column; gap: 6px; }
+.hero-eyebrow { font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cream-2); }
+.hero-title { font-family: var(--display); font-weight: 300; font-size: 30px; line-height: 1.1; color: var(--cream); text-wrap: balance; }
+.go.small-go .go-label { white-space: nowrap; }

@@ -307,8 +307,14 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
   const restToday = weekday(now) === s.settings.restDay;
   const note = s.replanNote?.date === now ? s.replanNote : undefined;
 
+  useScrollFx();
+  const hour = new Date().getHours();
   return (
     <div className="stack fade-in" style={{ gap: 14 }}>
+      <header className="greet" id="greet">
+        <h1>{hour < 13 ? "Buongiorno," : hour < 18 ? "Buon pomeriggio," : "Buonasera,"}<br />Stefano</h1>
+        <p>Due minuti oggi. Il resto viene da sé.</p>
+      </header>
       <button className="gamebar" onClick={() => goTo("situazione")} aria-label="Vai alla stagione">
         <span className="lv-badge">{lv.index + 1}</span>
         <span className="grow" style={{ textAlign: "left" }}>
@@ -321,12 +327,12 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
 
       <LessonCalendar now={now} />
 
-      <section className="card progress-hero" aria-label="A che punto sei">
+      <section className="card progress-hero fx-blur" aria-label="A che punto sei">
         <Ring percent={sch.percent} />
         <div className="stack" style={{ gap: 4 }}>
           <p className="tiny">A che punto sei</p>
-          <p className="ph-title">Corso al {sch.percent}%</p>
-          <p className="small muted num">{sch.doneParts} parti fatte su {sch.totalParts}</p>
+          <p className="ph-title">Corso al <CountUp to={sch.percent} />%</p>
+          <p className="small muted num"><CountUp to={sch.doneParts} /> parti fatte su {sch.totalParts}</p>
           <p className="small num">Fine prevista: <b>{sch.end ? shortDate(sch.end) : "–"}</b></p>
           <p className="small muted num">MCQ tra {mcqDays} giorni · mancano circa {formatMinutes(minutesOf(sch.remainingParts))}</p>
         </div>
@@ -339,7 +345,7 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
         </div>
       )}
 
-      <section className={`card today-card ${sch.todayDone >= sch.todayTarget && sch.todayTarget > 0 ? "won" : ""}`} aria-label="Oggi">
+      <section className={`card today-card fx-blur ${sch.todayDone >= sch.todayTarget && sch.todayTarget > 0 ? "won" : ""}`} aria-label="Oggi">
         <div className="spread">
           <h2>Oggi</h2>
           <span className="small num" style={{ fontWeight: 750 }}>{restToday ? "giorno libero" : `${todayDone}/${sch.todayTarget} parti`}</span>
@@ -356,6 +362,7 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
 
       <div className="hero compact">
         {saved && <div className="saved"><Icon.check /> Giornata salvata</div>}
+        {(() => { const c = currentItem(s, now); const code = c ? (c.kind === "real" ? c.presentation.code : c.code) : ""; return c ? (<div className="hero-head"><p className="hero-eyebrow">★ Si riparte da qui · lezione {code}</p><h2 className="hero-title">{lessonFor(s, code)?.title ?? (c.kind === "real" ? c.presentation.title : c.title)}</h2></div>) : null; })()}
         <button className={`go small-go ${action.kind === "part" ? "" : "calm"}`} onClick={go} aria-label={`${action.label}: ${action.sub}`}>
           <Icon.play />
           <span className="go-label">{action.label}</span>
@@ -376,7 +383,7 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
         })()}
       </div>
 
-      <section className="card stack" aria-label="Questa settimana" style={{ gap: 10 }}>
+      <section className="card stack fx-tilt" aria-label="Questa settimana" style={{ gap: 10 }}>
         <div className="spread">
           <h2>Questa settimana</h2>
           <span className="small muted num">fino a {shortDate(sunday)}</span>
@@ -1271,9 +1278,10 @@ function LessonCalendar({ now }: { now: string }) {
           const done = p.steps.filter((x) => x.done).length, all = p.steps.length;
           const state = done === all ? "done" : p.id === curId ? "now" : done > 0 ? "half" : "";
           return (
-            <button key={p.id} className={`cal-chip ${state}`} aria-pressed={p.id === curId}
+            <button key={p.id} className={`cal-chip ${state}`} aria-pressed={p.id === curId} style={{ ["--img" as string]: `url(/img/${LESSON_IMG[p.code] ?? "g3"}.jpg)` }}
               onClick={() => { if (done === all) { unlockAudio(); unlockSpeech(); startReplay(p.id, p.steps[0]!.id); } else setState((d) => void (d.lastPresentationId = p.id)); }}>
               <span className="cal-code num">{p.code}</span>
+              <span className="cal-title">{lessonFor(s, p.code)?.title}</span>
               <span className="cal-state">{done === all ? "✓ rivedi" : p.id === curId ? "▶ adesso" : done > 0 ? `${done}/${all}` : "da fare"}</span>
             </button>
           );
@@ -1298,3 +1306,62 @@ function CodeInline({ onSaved }: { onSaved: () => void }) {
 
 /** I nomi nei testi delle lezioni: Marco → Prof, Luca → Ste (le voci registrate restano quelle). */
 function nomi(t: string) { return t.replace(/\[[^\]]*\]\s*/g, "").replace(/\bLuca\b/g, "Ste").replace(/\bMarco\b/g, "Prof"); }
+
+/** Foto morbide delle lezioni (public/img, stesso stile: salvia, pietra, luce calda). */
+const LESSON_IMG: Record<string, string> = { "4.1": "l41", "4.2": "l42", "4.3": "l43", "4.4": "l44", "4.5": "l45", "5.1": "l51", "5.2": "l52", "5.3": "l53", "6.1": "l61", "6.2": "l62", "6.3": "l63", "7.1": "l71", "7.2": "l72", "7.3": "l73" };
+
+/** Numero che sale da 0 al valore quando entra nello schermo (una volta sola). */
+function CountUp({ to }: { to: number }) {
+  const [v, setV] = useState(to);
+  const el = useRef<HTMLSpanElement | null>(null);
+  useEffect(() => {
+    const node = el.current;
+    if (!node || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    let raf = 0;
+    const io = new IntersectionObserver(([e]) => {
+      if (!e?.isIntersecting) return;
+      io.disconnect();
+      const t0 = performance.now();
+      const step = (t: number) => { const k = Math.min(1, (t - t0) / 1100); setV(Math.round(to * (1 - Math.pow(1 - k, 3)))); if (k < 1) raf = requestAnimationFrame(step); };
+      raf = requestAnimationFrame(step);
+    }, { threshold: 0.6 });
+    io.observe(node);
+    return () => { io.disconnect(); cancelAnimationFrame(raf); };
+  }, [to]);
+  return <span ref={el}>{v}</span>;
+}
+
+/**
+ * Effetti di scorrimento della schermata principale: saluto che si rimpicciolisce, carta di oggi che si allontana,
+ * sezioni che arrivano a fuoco (.fx-blur), carte che si raddrizzano (.fx-tilt), lezioni a scatti con quella al centro più grande.
+ */
+function useScrollFx() {
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+    const clamp = (x: number) => Math.min(1, Math.max(0, x));
+    const entered = (el: Element, span: number) => clamp((innerHeight - el.getBoundingClientRect().top) / (innerHeight * span));
+    const frame = () => {
+      const g = document.getElementById("greet");
+      if (g) { const k = clamp(scrollY / 120); g.style.setProperty("--shrink", String(k)); g.classList.toggle("small", k > 0.95); }
+      if (reduce) return;
+      const hero = document.querySelector<HTMLElement>(".hero.compact");
+      if (hero) hero.style.setProperty("--z", String(1 - clamp((160 - hero.getBoundingClientRect().top) / 600) * 0.1));
+      document.querySelectorAll<HTMLElement>(".fx-blur").forEach((el) => el.style.setProperty("--b", String(1 - entered(el, 0.4))));
+      document.querySelectorAll<HTMLElement>(".fx-tilt").forEach((el) => el.style.setProperty("--r", String(1 - entered(el, 0.35))));
+    };
+    const strip = () => {
+      const box = document.querySelector<HTMLElement>(".cal-strip");
+      if (!box) return;
+      const mid = box.getBoundingClientRect().left + box.clientWidth / 2;
+      box.querySelectorAll<HTMLElement>(".cal-chip").forEach((el) => { const r = el.getBoundingClientRect(), d = clamp(Math.abs(r.left + r.width / 2 - mid) / r.width); el.style.setProperty("--s", String(1 - d * 0.07)); el.style.setProperty("--o", String(1 - d * 0.35)); });
+    };
+    let raf = 0;
+    const onScroll = () => { cancelAnimationFrame(raf); raf = requestAnimationFrame(() => { frame(); strip(); }); };
+    addEventListener("scroll", onScroll, { passive: true });
+    const box = document.querySelector(".cal-strip");
+    box?.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+    return () => { removeEventListener("scroll", onScroll); box?.removeEventListener("scroll", onScroll); cancelAnimationFrame(raf); };
+  }, []);
+}
