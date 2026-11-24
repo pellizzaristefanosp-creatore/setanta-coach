@@ -1,0 +1,83 @@
+{
+ "code": "2.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Cosa fanno le api se lo spazio tra le parti è troppo largo?",
+   "options": [
+    "Ci costruiscono un pezzo di favo in più",
+    "Lo chiudono subito con la propoli",
+    "Lo usano come uscita di sicurezza",
+    "Lo lasciano vuoto come corridoio"
+   ],
+   "answer": 0,
+   "why": "Oltre lo spazio d'ape le api costruiscono favi di troppo; negli spazi più stretti mettono la propoli."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Perché alle api serve una casa che non disperde calore?",
+   "options": [
+    "Perché il miele si scioglie col caldo",
+    "Perché la regina non sopporta la luce",
+    "Perché scaldare la covata costa energia",
+    "Perché la cera si rompe col freddo"
+   ],
+   "answer": 2,
+   "why": "La covata va tenuta calda: se il calore scappa, le api consumano più energia, cioè miele."
+  },
+  {
+   "part": 2,
+   "line": 10,
+   "question": "Cosa succede se metti una famiglia piccola in un nido grande?",
+   "options": [
+    "Le api lo riempiono subito di miele",
+    "Le api faticano a scaldare lo spazio vuoto",
+    "La regina depone più uova del solito",
+    "Le api costruiscono un secondo nido"
+   ],
+   "answer": 1,
+   "why": "Troppo spazio vuoto è difficile da scaldare: per questo si stringe il nido con il diaframma."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "Perché è comodo poter sfilare il cassetto del fondo?",
+   "options": [
+    "Per far entrare aria fresca d'estate",
+    "Per togliere il miele senza i melari",
+    "Per far uscire le api più in fretta",
+    "Per vedere cosa cade senza aprire l'arnia"
+   ],
+   "answer": 3,
+   "why": "Sul cassetto trovi varroe, cera e polline: capisci molto senza disturbare la famiglia."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Cosa conviene fare prima di credere che le celle piccole fermino la varroa?",
+   "options": [
+    "Cercare prove fatte davvero sulle api",
+    "Comprare subito fogli a cella piccola",
+    "Smettere subito tutti i trattamenti",
+    "Chiedere solo a chi vende i fogli"
+   ],
+   "answer": 0,
+   "why": "Le prove ci sono e dicono che la cella piccola non frena la varroa."
+  },
+  {
+   "part": 5,
+   "line": 8,
+   "question": "In un tronco d'albero, in che direzione costruiscono i favi le api?",
+   "options": [
+    "Dal basso verso l'alto, come una torre",
+    "Dall'alto verso il basso, dal soffitto",
+    "Di lato, da una parete all'altra",
+    "A caso, in tutte le direzioni"
+   ],
+   "answer": 1,
+   "why": "Le api partono dal soffitto e scendono: per questo nella Warré le cassette nuove vanno sotto."
+  }
+ ]
+}

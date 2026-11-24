@@ -1,0 +1,322 @@
+{
+ "code": "6.4",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi parliamo di un'altra ospite venuta da lontano: la vespa velutina, che molti chiamano calabrone asiatico."
+    },
+    {
+     "who": "E",
+     "text": "Asiatico? Allora non è una vespa nostra."
+    },
+    {
+     "who": "M",
+     "text": "No. Vive in Asia, e quella arrivata da noi viene dalla Cina orientale. In Europa è comparsa in Francia, nel 2004."
+    },
+    {
+     "who": "E",
+     "text": "E come ha fatto a fare tutta quella strada?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, come può viaggiare un insetto dalla Cina alla Francia?"
+    },
+    {
+     "who": "E",
+     "text": "Forse nascosto nelle merci, dentro una cassa su una nave."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. E pensa: probabilmente è bastata una sola regina, o poche, già fecondate, per dare inizio a tutta l'invasione."
+    },
+    {
+     "who": "E",
+     "text": "Una sola regina? Incredibile! E in Italia quando è arrivata?"
+    },
+    {
+     "who": "M",
+     "text": "La prima è stata catturata alla fine del 2012 a Loano, in Liguria. Era arrivata dalla Francia, lungo la costa."
+    },
+    {
+     "who": "E",
+     "text": "E poi si è fermata in Liguria?"
+    },
+    {
+     "who": "M",
+     "text": "Purtroppo no. Si è allargata al Piemonte e negli ultimi anni ci sono nidi anche in Toscana ed Emilia-Romagna, e casi sparsi altrove."
+    },
+    {
+     "who": "E",
+     "text": "Allora devo stare attenta anche io, ovunque viva."
+    },
+    {
+     "who": "M",
+     "text": "Sì. L'Unione Europea l'ha messa nella lista delle specie invasive da fermare. La situazione cambia ogni anno: guarda le mappe aggiornate e chiedi alla tua associazione."
+    },
+    {
+     "who": "E",
+     "text": "E il mio compito qual è?"
+    },
+    {
+     "who": "M",
+     "text": "Riconoscerla e segnalarla. Ma prima devi distinguerla dal nostro calabrone, che non va confuso con lei."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso facciamo un po' di scuola di riconoscimento. La vespa velutina ha il corpo scuro, quasi nero, come vellutato."
+    },
+    {
+     "who": "E",
+     "text": "Velutina viene da velluto, allora?"
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Sull'addome, cioè la parte dietro, ha una sola fascia larga arancione. E le zampe hanno la punta gialla."
+    },
+    {
+     "who": "E",
+     "text": "Corpo scuro, una fascia arancione, zampe gialle. Me lo segno."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Ora il nostro calabrone, Vespa crabro. È più grande, ha colori rossicci e marroni davanti e l'addome quasi tutto giallo."
+    },
+    {
+     "who": "E",
+     "text": "Quindi il nostro è più chiaro e più giallo."
+    },
+    {
+     "who": "M",
+     "text": "Sì. Anche il nostro calabrone a volte prende qualche ape, ma convive con le api da sempre e non fa gli stessi danni."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, cosa succede se uccidiamo tutti i calabroni perché li confondiamo?"
+    },
+    {
+     "who": "E",
+     "text": "Facciamo un danno alla natura, perché uccidiamo un insetto nostro che non è il vero problema."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Il calabrone nostrano mangia anche tanti altri insetti e fa parte del nostro ambiente. Va rispettato."
+    },
+    {
+     "who": "E",
+     "text": "E se non sono sicura di cosa ho visto?"
+    },
+    {
+     "who": "M",
+     "text": "Fai una foto, anche col telefono, da una distanza sicura. Poi la mandi ai siti di segnalazione o alla tua associazione: ci pensano gli esperti."
+    },
+    {
+     "who": "E",
+     "text": "E se è vicina, mi punge?"
+    },
+    {
+     "who": "M",
+     "text": "Lontano dal nido di solito non attacca le persone. Vicino al nido, invece, difende la casa: lì non avvicinarti mai."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Parliamo di case. La vespa velutina, in un anno, ne costruisce due: il nido primario e il nido secondario."
+    },
+    {
+     "who": "E",
+     "text": "Due nidi? E perché non ne basta uno?"
+    },
+    {
+     "who": "M",
+     "text": "Ascolta la sua storia. In primavera la regina si sveglia dall'inverno e, tutta da sola, costruisce un nido piccolo, in un posto riparato."
+    },
+    {
+     "who": "E",
+     "text": "Riparato dove?"
+    },
+    {
+     "who": "M",
+     "text": "Sotto una tettoia, in un capanno, in una siepe. All'inizio è piccolo, più o meno come un'arancia, poi cresce un po'."
+    },
+    {
+     "who": "E",
+     "text": "E poi cosa succede?"
+    },
+    {
+     "who": "M",
+     "text": "Nascono le prime operaie e la famiglia cresce in fretta. Secondo te, cosa fa una famiglia che non entra più in casa?"
+    },
+    {
+     "who": "E",
+     "text": "Cambia casa! Ne costruisce una più grande, come facciamo noi quando arrivano i figli."
+    },
+    {
+     "who": "M",
+     "text": "Brava! In estate molte colonie costruiscono il nido secondario, grande, di carta, spesso in alto sugli alberi, nascosto tra le foglie."
+    },
+    {
+     "who": "E",
+     "text": "Quindi in estate è difficile vederlo."
+    },
+    {
+     "who": "M",
+     "text": "Molto. Spesso si scopre in autunno, quando cadono le foglie. Ma intanto dentro sono nate le nuove regine e i maschi."
+    },
+    {
+     "who": "E",
+     "text": "E quelle regine cosa fanno?"
+    },
+    {
+     "who": "M",
+     "text": "Si accoppiano, poi passano l'inverno nascoste, da sole. In primavera ognuna fonda un nido nuovo. Il vecchio nido non si usa più."
+    },
+    {
+     "who": "E",
+     "text": "Allora conviene trovare i nidi prima che escano le nuove regine."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ma attenzione: i nidi non si toccano mai da soli. Li rimuovono squadre esperte, con le protezioni giuste."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora vediamo come la velutina caccia le api. È un metodo molto particolare."
+    },
+    {
+     "who": "E",
+     "text": "Entra nell'arnia come un ladro?"
+    },
+    {
+     "who": "M",
+     "text": "Di solito no. Resta in volo, quasi ferma, davanti all'ingresso, come un elicottero. E aspetta le bottinatrici che tornano cariche."
+    },
+    {
+     "who": "E",
+     "text": "Le bottinatrici sono le api che vanno a prendere nettare e polline, vero?"
+    },
+    {
+     "who": "M",
+     "text": "Proprio loro. La vespa ne afferra una al volo, la porta su un ramo e tiene la parte centrale, ricca di muscoli."
+    },
+    {
+     "who": "E",
+     "text": "Che brutta fine! E cosa ci fa con quella parte?"
+    },
+    {
+     "who": "M",
+     "text": "La porta al nido: le sue larve hanno bisogno di carne per crescere. E le api sono una preda comoda, tutte nello stesso posto."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, qual è il danno più grande per la famiglia: le api mangiate o qualcos'altro?"
+    },
+    {
+     "who": "E",
+     "text": "Forse qualcos'altro: le api hanno paura e non escono più a cercare cibo."
+    },
+    {
+     "who": "M",
+     "text": "Hai capito benissimo. Si chiama paralisi del bottinamento. Le api restano a casa, entrano poco nettare e poco polline."
+    },
+    {
+     "who": "E",
+     "text": "E così arrivano all'inverno senza scorte."
+    },
+    {
+     "who": "M",
+     "text": "E con meno api giovani, perché senza polline la regina depone meno. Le famiglie deboli rischiano di morire durante l'inverno."
+    },
+    {
+     "who": "E",
+     "text": "In che periodo succede di più?"
+    },
+    {
+     "who": "M",
+     "text": "Soprattutto tra fine estate e autunno, quando i nidi sono più grandi e le vespe hanno più bocche da sfamare."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Siamo arrivati alla difesa. Una bacchetta magica non c'è, ma possiamo fare molto."
+    },
+    {
+     "who": "E",
+     "text": "Da dove comincio?"
+    },
+    {
+     "who": "M",
+     "text": "Sempre dalle famiglie forti, con tante api e scorte abbondanti. Una famiglia debole cede prima."
+    },
+    {
+     "who": "E",
+     "text": "E all'ingresso cosa posso mettere?"
+    },
+    {
+     "who": "M",
+     "text": "Una museruola: una gabbietta di rete davanti all'ingresso, con maglie larghe abbastanza per le api ma che tengono lontana la vespa dal volo."
+    },
+    {
+     "who": "E",
+     "text": "Però le api passano lo stesso?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, e la vespa non riesce a cacciare comoda davanti alla porta. Secondo te, qual è allora il vantaggio più grande?"
+    },
+    {
+     "who": "E",
+     "text": "Che le api non hanno più paura e tornano a uscire a cercare cibo."
+    },
+    {
+     "who": "M",
+     "text": "Esatto, la museruola combatte proprio la paralisi. Anche restringere l'ingresso aiuta le guardiane a difendersi."
+    },
+    {
+     "who": "E",
+     "text": "E le trappole? Ne ho viste tante nei negozi."
+    },
+    {
+     "who": "M",
+     "text": "Attenta: molte trappole catturano soprattutto altri insetti, utili alla natura. Usa solo trappole selettive, quando e dove lo consigliano i tecnici della tua zona."
+    },
+    {
+     "who": "E",
+     "text": "E se trovo un nido?"
+    },
+    {
+     "who": "M",
+     "text": "Non toccarlo. Lo segnali, per esempio sul sito stopvelutina.it o al servizio della tua Regione, con foto e posizione. Lo rimuovono squadre esperte."
+    },
+    {
+     "who": "E",
+     "text": "Quindi la mia difesa è fatta di arnie forti, reti e segnalazioni."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. E ricorda: le regole e i numeri da chiamare cambiano da Regione a Regione. Chiedi sempre alla tua associazione."
+    }
+   ]
+  }
+ ]
+}

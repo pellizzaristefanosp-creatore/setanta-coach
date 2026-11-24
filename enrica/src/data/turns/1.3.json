@@ -1,0 +1,57 @@
+{
+ "code": "1.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 5,
+   "question": "Da chi dipendono soprattutto le api da miele in Europa oggi?",
+   "options": [
+    "Dai boschi vecchi",
+    "Dagli apicoltori",
+    "Dalle api selvatiche",
+    "Dai grandi parchi"
+   ],
+   "answer": 1,
+   "why": "Le colonie davvero selvatiche sono rare: sono gli apicoltori a tenere in vita la maggior parte delle colonie."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Perché un'ape locale dovrebbe cavarsela meglio di una importata?",
+   "options": [
+    "Perché è più grande e più forte",
+    "Perché produce sempre più cera",
+    "Perché è adattata a clima e fiori",
+    "Perché non ha mai bisogno di cure"
+   ],
+   "answer": 2,
+   "why": "L'ape locale è abituata a clima, fioriture e inverni della sua zona; lo studio europeo ha visto colonie locali più longeve."
+  },
+  {
+   "part": 2,
+   "line": 5,
+   "question": "Cosa succede a un frutteto in fiore se non passano impollinatori?",
+   "options": [
+    "Molti fiori non diventano frutti",
+    "I fiori durano molto più a lungo",
+    "Gli alberi fanno frutti più grandi",
+    "Le foglie crescono più in fretta"
+   ],
+   "answer": 0,
+   "why": "Senza polline portato da un fiore all'altro, molti fiori non diventano frutti e il raccolto è più povero."
+  },
+  {
+   "part": 3,
+   "line": 7,
+   "question": "Cosa succede se si usa sempre lo stesso prodotto contro la varroa?",
+   "options": [
+    "Le api diventano resistenti agli acari",
+    "La varroa sparisce per sempre",
+    "La varroa si abitua e resiste",
+    "Il miele diventa più dolce"
+   ],
+   "answer": 2,
+   "why": "Come gli antibiotici usati male: l'uso eccessivo o sbagliato ha fatto nascere varroe resistenti."
+  }
+ ]
+}

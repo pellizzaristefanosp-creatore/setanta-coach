@@ -1,0 +1,173 @@
+{
+ "code": "1.1",
+ "order": [
+  {
+   "title": "I lavori di un'operaia, dal primo all'ultimo",
+   "steps": [
+    "Pulisce le celle vuote",
+    "Nutre le larve come nutrice",
+    "Costruisce favi con la cera",
+    "Sistema il nettare e fa la guardia",
+    "Esce a bottinare sui fiori"
+   ],
+   "slide": 4
+  },
+  {
+   "title": "Dal volo nuziale alla deposizione",
+   "steps": [
+    "La regina giovane esce dall'arnia",
+    "Raggiunge i fuchi in volo",
+    "Si accoppia con molti fuchi",
+    "Conserva il seme nella spermateca",
+    "Torna e comincia a deporre"
+   ],
+   "slide": 2
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Vivo al centro di una piccola folla che mi lecca e mi tocca.",
+    "Il mio odore dice a tutti che la famiglia è a posto.",
+    "Depongo le uova di tutta la colonia."
+   ],
+   "answer": "La regina",
+   "distractors": [
+    "Il fuco",
+    "La nutrice",
+    "La guardiana"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi trovi sulle zampe di dietro, con tanti peli intorno.",
+    "Mi riempio di palline colorate durante il lavoro.",
+    "Servo a portare il polline a casa."
+   ],
+   "answer": "La corbicula",
+   "distractors": [
+    "La ligula",
+    "La mandibola",
+    "L'antenna"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Sono lunga e pelosa, e di solito resto ripiegata.",
+    "Arrivo in fondo ai fiori più stretti.",
+    "Servo a succhiare il nettare come una cannuccia."
+   ],
+   "answer": "La ligula",
+   "distractors": [
+    "La corbicula",
+    "L'antenna",
+    "La mandibola"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Ho occhi enormi che si toccano in cima alla testa.",
+    "Non pungo e non raccolgo cibo.",
+    "In autunno mi cacciano fuori dall'arnia."
+   ],
+   "answer": "Il fuco",
+   "distractors": [
+    "La regina",
+    "La nutrice",
+    "L'operaia"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Lavoro dentro l'arnia nelle prime settimane di vita.",
+    "Nel capo ho ghiandole molto sviluppate.",
+    "Do la pappa alle larve."
+   ],
+   "answer": "La nutrice",
+   "distractors": [
+    "La guardiana",
+    "La regina",
+    "La bottinatrice"
+   ],
+   "slide": 4
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Un'ape operaia può vivere a lungo da sola, lontana dalla colonia.",
+   "true": false,
+   "why": "Da sola non si scalda, non si nutre bene e non alleva: la vera unità è la colonia.",
+   "slide": 1
+  },
+  {
+   "text": "In una colonia ci sono regina, operaie e fuchi.",
+   "true": true,
+   "why": "Sono i tre tipi di individui della famiglia delle api.",
+   "slide": 1
+  },
+  {
+   "text": "La regina esce ogni settimana per accoppiarsi di nuovo.",
+   "true": false,
+   "why": "Si accoppia da giovane in pochi voli e conserva il seme per tutta la vita.",
+   "slide": 2
+  },
+  {
+   "text": "Le operaie sentono la presenza della regina grazie al suo odore.",
+   "true": true,
+   "why": "Le api della corte portano il suo odore in giro per tutta l'arnia.",
+   "slide": 2
+  },
+  {
+   "text": "Le operaie sono femmine nate da uova fecondate.",
+   "true": true,
+   "why": "Dalle uova fecondate nascono femmine: operaie o, con cure speciali, regine.",
+   "slide": 2
+  },
+  {
+   "text": "I fuchi hanno un pungiglione con uncini, come le operaie.",
+   "true": false,
+   "why": "I fuchi non hanno il pungiglione: in mano non pungono.",
+   "slide": 5
+  },
+  {
+   "text": "La cera esce da ghiandole sotto l'addome delle operaie.",
+   "true": true,
+   "why": "Le operaie giovani hanno quattro paia di ghiandole della cera sotto l'addome.",
+   "slide": 3
+  },
+  {
+   "text": "Le palline colorate sulle zampe delle api sono cera.",
+   "true": false,
+   "why": "Sono polline, pressato nelle corbicule delle zampe posteriori.",
+   "slide": 3
+  },
+  {
+   "text": "Le api giovani escono subito a raccogliere nettare.",
+   "true": false,
+   "why": "Le giovani lavorano in casa; di solito bottinano dopo circa tre settimane.",
+   "slide": 4
+  },
+  {
+   "text": "Se servono, alcune api cambiano lavoro prima del solito.",
+   "true": true,
+   "why": "La divisione dei compiti è flessibile e segue i bisogni della colonia.",
+   "slide": 4
+  },
+  {
+   "text": "I fuchi si accoppiano con le regine in volo, fuori dall'arnia.",
+   "true": true,
+   "why": "Si radunano in zone precise in aria, dove arrivano le regine giovani.",
+   "slide": 5
+  },
+  {
+   "text": "D'inverno una colonia sana è piena di fuchi.",
+   "true": false,
+   "why": "In autunno le operaie cacciano i fuchi: d'inverno di solito non ce ne sono.",
+   "slide": 5
+  }
+ ]
+}

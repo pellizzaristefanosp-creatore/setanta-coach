@@ -1,0 +1,168 @@
+{
+ "code": "1.2",
+ "order": [
+  {
+   "title": "La vita di un'operaia prima di nascere",
+   "steps": [
+    "La regina depone l'uovo",
+    "L'uovo si schiude dopo tre giorni",
+    "La larva mangia e cresce",
+    "Le api chiudono la cella",
+    "La pupa si trasforma",
+    "L'ape adulta esce dalla cella"
+   ],
+   "slide": 1
+  },
+  {
+   "title": "Le stagioni della colonia, da gennaio",
+   "steps": [
+    "Glomere stretto sulle scorte",
+    "La regina riprende a deporre",
+    "La colonia cresce e può sciamare",
+    "Grande raccolto di nettare",
+    "Nascono le api d'inverno"
+   ],
+   "slide": 3
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi preparano solo le api giovani, con il capo.",
+    "Tutte le larve mi assaggiano nei primi giorni.",
+    "Chi mi mangia sempre diventa regina."
+   ],
+   "answer": "La pappa reale",
+   "distractors": [
+    "La cera d'api",
+    "Il pane d'api",
+    "La propoli"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Sono più grande delle mie vicine e pendo verso il basso.",
+    "Mi trovi spesso sul bordo dei favi.",
+    "Ho la forma di una ghianda."
+   ],
+   "answer": "La cella reale",
+   "distractors": [
+    "La cella da fuco",
+    "La cella da miele",
+    "La cella da polline"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi formo quando fuori fa freddo.",
+    "Al mio centro c'è la regina, al caldo.",
+    "Sono una palla di api strette."
+   ],
+   "answer": "Il glomere",
+   "distractors": [
+    "Lo sciame",
+    "Il favo",
+    "Il predellino"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Arrivo di solito in primavera, quando la casa è piena.",
+    "Con me la vecchia regina cambia casa.",
+    "Sono il modo in cui una colonia diventa due."
+   ],
+   "answer": "La sciamatura",
+   "distractors": [
+    "La smielatura",
+    "La nutrizione",
+    "L'invernamento"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Sto chiusa sotto un tappo di cera.",
+    "Non mangio e mi trasformo.",
+    "Vengo dopo la larva e prima dell'adulto."
+   ],
+   "answer": "La pupa",
+   "distractors": [
+    "La larva",
+    "L'uovo",
+    "La nutrice"
+   ],
+   "slide": 1
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Regina, operaia e fuco impiegano gli stessi giorni per nascere.",
+   "true": false,
+   "why": "Regina circa 16 giorni, operaia circa 21, fuco circa 24.",
+   "slide": 1
+  },
+  {
+   "text": "L'uovo dell'ape si schiude dopo circa tre giorni.",
+   "true": true,
+   "why": "Dopo circa tre giorni nasce la larva, per tutte le caste.",
+   "slide": 1
+  },
+  {
+   "text": "La covata ha bisogno di un caldo quasi costante.",
+   "true": true,
+   "why": "Le api la tengono intorno ai 35 gradi; il freddo dà api più deboli.",
+   "slide": 1
+  },
+  {
+   "text": "Regina e operaie nascono da uova di tipo diverso.",
+   "true": false,
+   "why": "Le uova sono uguali: la differenza la fa il cibo della larva.",
+   "slide": 2
+  },
+  {
+   "text": "La futura regina mangia solo pappa reale per tutta la vita da larva.",
+   "true": true,
+   "why": "Le operaie, dopo tre giorni, ricevono anche miele e polline.",
+   "slide": 2
+  },
+  {
+   "text": "D'inverno le api vanno in letargo come gli orsi.",
+   "true": false,
+   "why": "Restano sveglie nel glomere e producono calore con i muscoli.",
+   "slide": 3
+  },
+  {
+   "text": "Nel glomere le api esterne fanno da cappotto per le altre.",
+   "true": true,
+   "why": "Le api esterne stanno strette e isolano; quelle interne producono calore.",
+   "slide": 3
+  },
+  {
+   "text": "Durante la sciamatura parte di solito la vecchia regina.",
+   "true": true,
+   "why": "Parte con parte delle operaie; in casa nasce una regina nuova.",
+   "slide": 4
+  },
+  {
+   "text": "Lo sciame sceglie la nuova casa a caso.",
+   "true": false,
+   "why": "Le esploratrici visitano i posti e il gruppo sceglie insieme il migliore.",
+   "slide": 4
+  },
+  {
+   "text": "Un'ape d'estate e un'ape d'inverno vivono lo stesso tempo.",
+   "true": false,
+   "why": "D'estate vivono poche settimane, d'inverno possono vivere alcuni mesi.",
+   "slide": 5
+  },
+  {
+   "text": "Il polline d'autunno aiuta le api d'inverno a durare di più.",
+   "true": true,
+   "why": "Dà le proteine per le riserve nel corpo, che allungano la vita.",
+   "slide": 5
+  }
+ ]
+}

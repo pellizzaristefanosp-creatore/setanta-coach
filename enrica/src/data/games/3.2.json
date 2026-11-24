@@ -1,0 +1,187 @@
+{
+ "code": "3.2",
+ "order": [
+  {
+   "title": "Dalla famiglia affollata allo sciame nella casa nuova",
+   "steps": [
+    "Il nido si affolla e manca spazio",
+    "Le api allevano regine nelle celle reali",
+    "Le api si riempiono di miele",
+    "Lo sciame esce con la regina vecchia",
+    "Lo sciame si posa a grappolo vicino",
+    "Le esploratrici scelgono la casa nuova",
+    "Lo sciame vola nella casa scelta"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Catturare uno sciame",
+   "steps": [
+    "Prepara cassetta, telo e spruzzino",
+    "Spruzza un po' d'acqua sul grappolo",
+    "Metti la cassetta sotto il grappolo",
+    "Dai un colpo secco al ramo",
+    "Controlla che la regina sia dentro",
+    "Porta via la cassetta la sera"
+   ],
+   "slide": 5
+  },
+  {
+   "title": "Riunire due famiglie",
+   "steps": [
+    "Togli la regina che non serve",
+    "Metti sotto la famiglia forte",
+    "Appoggia un giornale con piccoli fori",
+    "Metti sopra la famiglia debole",
+    "Aspetta che rosicchino la carta"
+   ],
+   "slide": 7
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Ho la forma di una ghianda",
+    "Pendo spesso dal bordo in basso del favo",
+    "Dentro di me cresce una regina"
+   ],
+   "answer": "Cella reale",
+   "distractors": [
+    "Cella da fuco",
+    "Cella da miele",
+    "Cella operaia"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Parto in primavera con la regina vecchia",
+    "Mi posso posare su un ramo a grappolo",
+    "Sono il primo gruppo che lascia l'arnia"
+   ],
+   "answer": "Sciame primario",
+   "distractors": [
+    "Sciame secondario",
+    "Nucleo orfano",
+    "Melario pieno"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Lascio il grappolo per cercare casa",
+    "Al ritorno racconto con la danza",
+    "Do il segnale per il decollo"
+   ],
+   "answer": "Esploratrice",
+   "distractors": [
+    "Nutrice",
+    "Guardiana",
+    "Ceraiola"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi metti tra due casse di api",
+    "Le api mi rosicchiano piano piano",
+    "Servo a mescolare gli odori"
+   ],
+   "answer": "Foglio di giornale",
+   "distractors": [
+    "Escludiregina",
+    "Telo di juta",
+    "Coprifavo"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Mi usi per accogliere api in volo",
+    "Mi metti sotto un ramo pieno di api",
+    "Porto lo sciame fino all'apiario"
+   ],
+   "answer": "Cassetta portasciami",
+   "distractors": [
+    "Arnia da nomadismo",
+    "Gabbietta per regine",
+    "Nutritore a tasca"
+   ],
+   "slide": 5
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La sciamatura è il modo in cui la famiglia di api si riproduce.",
+   "true": true,
+   "why": "Da una famiglia ne nascono due: una parte parte, l'altra resta.",
+   "slide": 1
+  },
+  {
+   "text": "Avviene soprattutto in pieno inverno.",
+   "true": false,
+   "why": "Avviene soprattutto in primavera, quando la famiglia cresce in fretta.",
+   "slide": 1
+  },
+  {
+   "text": "Una coppetta reale vuota vuol dire che lo sciame parte domani.",
+   "true": false,
+   "why": "Preoccupa quando dentro c'è un uovo o una larva con pappa reale.",
+   "slide": 2
+  },
+  {
+   "text": "Prima della sciamatura la regina depone meno e diventa più snella.",
+   "true": true,
+   "why": "Così riesce a volare con lo sciame.",
+   "slide": 2
+  },
+  {
+   "text": "Lo sciame appena uscito vola subito lontano, senza fermarsi.",
+   "true": false,
+   "why": "Di solito si posa vicino a grappolo mentre le esploratrici cercano casa.",
+   "slide": 3
+  },
+  {
+   "text": "Prima del decollo alcune api emettono un suono simile a un fischio.",
+   "true": true,
+   "why": "È il segnale per scaldare i muscoli del volo.",
+   "slide": 3
+  },
+  {
+   "text": "Nello sciame primario parte la regina vecchia.",
+   "true": true,
+   "why": "Le regine giovani restano o partono con i secondari.",
+   "slide": 4
+  },
+  {
+   "text": "Alla fine in una famiglia restano molte regine insieme.",
+   "true": false,
+   "why": "Ne resta una sola: le altre vengono eliminate o partono.",
+   "slide": 4
+  },
+  {
+   "text": "Uno sciame catturato si porta via subito, a mezzogiorno.",
+   "true": false,
+   "why": "Si porta via la sera, quando anche le api in volo sono rientrate.",
+   "slide": 5
+  },
+  {
+   "text": "Le api che sventolano le ali all'ingresso indicano che la regina è dentro.",
+   "true": true,
+   "why": "Diffondono un odore che richiama le compagne.",
+   "slide": 5
+  },
+  {
+   "text": "Nella sciamatura artificiale la parte orfana deve avere larve giovanissime.",
+   "true": true,
+   "why": "Solo da larve molto giovani le api allevano una nuova regina.",
+   "slide": 6
+  },
+  {
+   "text": "Per riunire due famiglie basta metterle insieme senza precauzioni.",
+   "true": false,
+   "why": "Gli odori diversi fanno litigare le api: serve il foglio di giornale.",
+   "slide": 7
+  }
+ ]
+}

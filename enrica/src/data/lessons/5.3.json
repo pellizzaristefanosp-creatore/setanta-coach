@@ -1,0 +1,340 @@
+{
+ "version": 1,
+ "code": "5.3",
+ "unit": 5,
+ "title": "Il pane delle api",
+ "pages": "197–202",
+ "summary": "Scopri cos'è il pane delle api, cioè il polline che le api conservano nei favi e che fermenta. Impari come si estrae senza togliere cibo alla famiglia, come si conserva e cosa dice davvero la ricerca sul suo uso.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Che cos'è il pane delle api",
+   "narration": "Ciao Enrica! Oggi parliamo di un prodotto meno conosciuto: il pane delle api. Vediamo cos'è, come si estrae, come si conserva e come si usa. Pane? Le api fanno il pane? Con il forno? Niente forno. Ricordi il polline nelle cellette intorno alla covata? Le api lo pressano con la testa e ci mettono sopra un po' di miele. Sì, me lo ricordo. Come una dispensa vicino alla cucina. Ecco. Dentro quella celletta succede una cosa speciale: una fermentazione lattica. Batteri buoni trasformano un po' di zuccheri in acido lattico. Come nello yogurt! Proprio come nello yogurt o nei crauti. Secondo te, a cosa serve quell'acidità alle api? A conservare il polline più a lungo, perché i microbi cattivi nell'acido crescono male. Brava. Il polline compatto, un po' acido e coperto di miele diventa una scorta più stabile. Lo chiamiamo pane delle api, o perga. E le api lo mangiano tutto? Le nutrici lo mangiano per fare la pappa. Quello che avanza resta come scorta per i periodi senza fiori. Quindi è più nutriente del polline fresco? Qui gli scienziati discutono ancora. Uno studio ha visto che le api preferiscono il polline fresco, e che quello vecchio non è più nutriente per loro. Meglio non esagerare con le promesse. Va bene: polline conservato e acidulo, ma senza magie.",
+   "keyPoints": [
+    "È polline pressato nelle cellette con miele e saliva",
+    "Nelle cellette avviene una fermentazione lattica",
+    "Fermentazione lattica: batteri buoni producono acido lattico",
+    "L'acidità aiuta a proteggerlo dai microbi dannosi",
+    "Si chiama anche perga o, in inglese, bee bread"
+   ],
+   "analogy": "Il pane delle api è un po' come i crauti o lo yogurt: un cibo che, grazie a batteri buoni, diventa acidulo e si conserva più a lungo.",
+   "check": {
+    "question": "Che cos'è il pane delle api?",
+    "options": [
+     "Polline pressato nelle celle che fermenta",
+     "Cera masticata che le api usano come cibo",
+     "Miele cristallizzato sul fondo dei favi",
+     "Pappa reale avanzata nelle celle reali"
+    ],
+    "answer": 0,
+    "explanation": "È polline pressato nelle cellette con miele e saliva, che poi fermenta grazie a batteri lattici."
+   },
+   "science": {
+    "text": "Una revisione del 2022 descrive il pane delle api come polline fermentato nei favi grazie a una fermentazione lattica. Nella fermentazione lavorano soprattutto batteri lattici. L'acido lattico che si forma aiuta a proteggere il pane d'api dai microbi che lo rovinerebbero.",
+    "source": "Barta et al. 2022, Frontiers in Nutrition",
+    "url": "https://doi.org/10.3389/fnut.2022.871896"
+   },
+   "tip": "Quando guardi un telaino controluce, cerca le cellette piene di polline compatto e lucido, spesso con un velo di miele sopra: quello è il pane delle api."
+  },
+  {
+   "slide": 2,
+   "title": "L'estrazione",
+   "narration": "Ora vediamo l'estrazione. Il pane delle api è incastrato nelle cellette di cera, ben pressato. Tirarlo fuori non è semplice. E da dove lo prendo? Dal nido delle mie api? Con molta attenzione. Il polline è il cibo della covata. Secondo te, cosa succede se togli le scorte di polline a fine inverno? In primavera le nutrici non hanno cibo e la famiglia non cresce. Esatto. Per questo prendi solo favi in più, per esempio telaini pieni di polline che togli dal nido quando rinnovi i favi. Va bene. E poi come lo stacco dalla cera? Un modo diffuso è questo: tagli i pezzi di favo e li metti in congelatore. Con il freddo la cera diventa fragile, come un biscotto secco. E il pane d'api resta morbido? Resta più compatto. Poi sbricioli il favo, e con i setacci separi i granuli dalla cera. Alcuni fanno prima seccare i pezzi. Come sgusciare i piselli: tolgo il guscio e tengo il chicco. Proprio così. Un'ultima cosa importante: dove stanno le arnie. Le api raccolgono anche quello che c'è nell'aria e nel terreno. Intendi lo smog? Sì, e i metalli come il piombo. Una revisione ha visto che possono finire anche nel pane d'api. Meglio prenderlo da apiari lontani da strade trafficate e fabbriche. Favi in più, freddo, setaccio, e api che vivono in un posto pulito.",
+   "keyPoints": [
+    "Si prende solo da favi che la famiglia può cedere",
+    "Mai togliere le scorte prima della primavera",
+    "Si congelano i pezzi di favo per indurire la cera",
+    "Si sbriciola e si separa la cera con setacci",
+    "Meglio favi di apiari lontani da strade e fabbriche"
+   ],
+   "analogy": "Separare il pane d'api dalla cera è come sgusciare i piselli: c'è un guscio da togliere e un chicco prezioso da tenere.",
+   "check": {
+    "question": "Da quali favi prendi il pane delle api?",
+    "options": [
+     "Da tutti i favi del nido, anche in inverno",
+     "Solo da favi in più che la famiglia può cedere",
+     "Dai favi con la covata, dove è più fresco",
+     "Dai favi del melario pieni di miele maturo"
+    ],
+    "answer": 1,
+    "explanation": "Il polline è il cibo della covata: si prende solo da favi in più, senza lasciare la famiglia senza scorte."
+   },
+   "science": {
+    "text": "Una revisione del 2023 ha raccolto le misure di metalli nei prodotti dell'alveare, pane d'api compreso. I valori cambiano molto con il suolo, i fiori, le attività umane e il modo di lavorare. Il piombo a volte era alto: conta dove stanno le arnie.",
+    "source": "Végh et al. 2023, Chemosphere",
+    "url": "https://doi.org/10.1016/j.chemosphere.2023.139571"
+   },
+   "tip": "Prendi il pane d'api solo da favi in più, per esempio telaini pieni di polline che stai togliendo dal nido. Lascia sempre alla famiglia le sue scorte di polline."
+  },
+  {
+   "slide": 3,
+   "title": "La conservazione",
+   "narration": "Hai i tuoi granuli di pane d'api. Adesso bisogna conservarli bene. Ma non era già conservato dalla fermentazione? In parte sì. Dentro il favo, con il miele sopra e l'acidità, si conserva meglio del polline fresco. Ma fuori dal favo è un'altra storia. Perché? Perché non ha più il tappo di miele e la cera intorno. Secondo te, cosa succede se lo lasci in una ciotola aperta in cucina? Prende umidità e odori, e alla fine fa la muffa. Proprio così. Quindi barattoli di vetro puliti e asciutti, ben chiusi. E poi un armadio fresco e buio. E per tenerlo tanto tempo? Il congelatore va bene, in contenitori per alimenti ben chiusi. Scrivi sempre la data, così usi prima quello più vecchio. Ma i batteri della fermentazione sono tutti buoni? Bella domanda. Uno studio americano ha trovato batteri utili, ma anche batteri che possono rovinare il cibo. Il pane d'api non è sterile. Allora pulizia e attenzione, come con ogni cibo. Esatto. Se vedi muffa, puntini bianchi, o senti un odore strano, non usarlo. Meglio buttare un barattolo che stare male. Vetro asciutto, coperchio stretto, buio e data. E se c'è muffa, via.",
+   "keyPoints": [
+    "Il pane d'api si conserva meglio del polline fresco",
+    "Va comunque tenuto asciutto e ben chiuso",
+    "Barattoli di vetro, al buio e al fresco",
+    "Per tempi lunghi va bene il congelatore",
+    "Scrivi sempre la data sul contenitore"
+   ],
+   "analogy": "È come il formaggio stagionato: dura più del latte fresco, ma se lo lasci all'umido e all'aria fa la muffa lo stesso.",
+   "check": {
+    "question": "Come conservi il pane d'api estratto?",
+    "options": [
+     "In un sacchetto aperto, così respira",
+     "In frigo scoperto, accanto al formaggio",
+     "In barattoli chiusi, al fresco e al buio",
+     "Al sole sul balcone, per tenerlo asciutto"
+    ],
+    "answer": 2,
+    "explanation": "Chiuso, asciutto, al buio e al fresco non prende umidità né odori; per tempi lunghi va bene il congelatore."
+   },
+   "science": {
+    "text": "Ricercatori americani hanno studiato i batteri del pane d'api. Hanno trovato batteri utili, come Lactobacillus kunkeei, ma anche batteri che possono rovinare il cibo o fare male. I batteri utili potrebbero aiutare a conservarlo, ma il pane d'api non è sterile.",
+    "source": "Anderson et al. 2013, PLoS ONE",
+    "url": "https://doi.org/10.1371/journal.pone.0083125"
+   },
+   "tip": "Metti il pane d'api in barattoli di vetro puliti e asciutti, ben chiusi, in un armadio fresco e buio. Se vedi muffa o senti odore strano, non usarlo."
+  },
+  {
+   "slide": 4,
+   "title": "L'utilizzo",
+   "narration": "Ultimo argomento: come si usa il pane delle api. Lo si mangia, come un alimento. Ha un sapore acidulo, un po' come il pane di segale. Ho letto su internet che cura un sacco di malattie! Su internet si legge di tutto. Vediamo cosa dice la ricerca. Nel pane d'api ci sono tante sostanze: proteine, zuccheri, grassi, minerali, vitamine. Quindi fa bene? È nutriente. Ma gli effetti sulla salute sono stati studiati quasi solo in laboratorio e sugli animali. Secondo te, basta per dire che cura le persone? No, servono studi fatti sulle persone. Un topo non è una persona. Brava, ragioni come una scienziata. Quindi il pane d'api è un alimento, non una medicina. Non sostituisce mai le cure del medico. E c'è qualcuno che deve stare attento? Sì. È fatto di polline. Con il polline d'api sono descritte reazioni allergiche, anche gravi, soprattutto in chi ha già allergie ai pollini. Allora chi starnutisce in primavera deve chiedere prima al medico. Esatto. E vale anche per chi è incinta o prende medicine: prima si chiede al medico. Poi, se va bene, si comincia con pochissimo. E se lo voglio regalare? Regalalo come un cibo buono e curioso, senza promettere guarigioni. E metti un bigliettino sulle allergie. Un alimento prezioso, ma senza magie e con prudenza. Ho capito.",
+   "keyPoints": [
+    "Si mangia come alimento, in piccole quantità",
+    "Contiene proteine, zuccheri, grassi, minerali e vitamine",
+    "Gli effetti sulla salute vengono soprattutto da studi in laboratorio",
+    "Non è una medicina e non cura malattie",
+    "Chi è allergico ai pollini chieda prima al medico"
+   ],
+   "analogy": "Il pane d'api è come un buon alimento della dispensa, tipo la frutta secca: nutre, ma non sostituisce le medicine del dottore.",
+   "check": {
+    "question": "Cosa puoi dire onestamente a chi ti chiede del pane d'api?",
+    "options": [
+     "Che è una medicina naturale che cura tutto",
+     "Che sostituisce le medicine del dottore",
+     "Che fa sempre bene a chiunque lo mangi",
+     "Che è un alimento e non una medicina"
+    ],
+    "answer": 3,
+    "explanation": "Gli effetti sulla salute vengono soprattutto da laboratorio e animali: è un alimento, non una cura."
+   },
+   "science": {
+    "text": "Una revisione del 2022 conta più di 300 sostanze trovate nel pane d'api, tra cui amminoacidi, zuccheri, grassi, minerali e vitamine. Gli effetti studiati vengono da prove in laboratorio e su animali. Per dire che fa bene alle persone servono studi sulle persone.",
+    "source": "Bakour et al. 2022, Antibiotics",
+    "url": "https://doi.org/10.3390/antibiotics11020203"
+   },
+   "tip": "Se regali pane d'api, non scrivere che cura qualcosa. Di' che è un alimento e ricorda a chi soffre di allergie ai pollini di chiedere al medico."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Che cos'è il pane delle api?",
+   "back": "Polline pressato nelle cellette con miele e saliva, che fermenta.",
+   "part": 0
+  },
+  {
+   "front": "Che tipo di fermentazione avviene nel pane d'api?",
+   "back": "Una fermentazione lattica: batteri buoni producono acido lattico.",
+   "part": 0
+  },
+  {
+   "front": "Qual è un altro nome del pane delle api?",
+   "back": "Perga (in inglese bee bread).",
+   "part": 0
+  },
+  {
+   "front": "Da quali favi si prende il pane d'api?",
+   "back": "Solo da favi in più, senza togliere le scorte di cui la famiglia ha bisogno.",
+   "part": 1
+  },
+  {
+   "front": "Perché si congelano i pezzi di favo?",
+   "back": "Il freddo rende la cera fragile: si sbriciola e si separa meglio dai granuli.",
+   "part": 1
+  },
+  {
+   "front": "Perché conta dove stanno le arnie?",
+   "back": "Metalli come il piombo dell'ambiente possono finire nel pane d'api.",
+   "part": 1
+  },
+  {
+   "front": "Come si conserva il pane d'api estratto?",
+   "back": "In barattoli di vetro asciutti e chiusi, al fresco e al buio, o in congelatore.",
+   "part": 2
+  },
+  {
+   "front": "Il pane d'api è sterile?",
+   "back": "No: contiene batteri utili, ma anche batteri che possono rovinarlo.",
+   "part": 2
+  },
+  {
+   "front": "Il pane d'api è una medicina?",
+   "back": "No, è un alimento: gli effetti sulla salute vengono soprattutto da laboratorio e animali.",
+   "part": 3
+  },
+  {
+   "front": "Chi deve chiedere al medico prima di mangiarlo?",
+   "back": "Chi ha allergie ai pollini, chi è incinta o chi prende medicine.",
+   "part": 3
+  }
+ ],
+ "questions": [
+  {
+   "question": "Cosa producono i batteri lattici nel pane delle api?",
+   "options": [
+    "Acido lattico che lo rende acidulo",
+    "Cera nuova per chiudere le cellette",
+    "Zucchero bianco che lo rende dolce",
+    "Acqua che lo rende più morbido"
+   ],
+   "answer": 0,
+   "explanation": "La fermentazione lattica produce acido lattico: il pane d'api diventa acidulo e si conserva meglio.",
+   "part": 0
+  },
+  {
+   "question": "Cosa mettono le api sopra il polline pressato nella celletta?",
+   "options": [
+    "Un tappo di propoli",
+    "Un velo di miele",
+    "Un uovo di regina",
+    "Un pezzo di foglia"
+   ],
+   "answer": 1,
+   "explanation": "Le api pressano il polline con la testa e lo coprono con un po' di miele.",
+   "part": 0
+  },
+  {
+   "question": "Cosa dicono gli studi sul valore del polline conservato a lungo per le api?",
+   "options": [
+    "Che diventa molto più nutriente con il tempo",
+    "Che diventa tossico dopo pochi giorni",
+    "Che non è più nutriente di quello fresco",
+    "Che le api lo mangiano sempre per primo"
+   ],
+   "answer": 2,
+   "explanation": "Uno studio ha visto che le api preferiscono il polline fresco e che quello vecchio non è più nutriente.",
+   "part": 0
+  },
+  {
+   "question": "Perché non si tolgono le scorte di polline a fine inverno?",
+   "options": [
+    "Perché la cera in inverno è troppo morbida",
+    "Perché in primavera servono alla covata",
+    "Perché il polline d'inverno non ha sapore",
+    "Perché le api lo trasformano tutto in miele"
+   ],
+   "answer": 1,
+   "explanation": "In primavera la famiglia cresce: le nutrici hanno bisogno di polline per la pappa.",
+   "part": 1
+  },
+  {
+   "question": "Dopo aver sbriciolato il favo congelato, come separi i granuli dalla cera?",
+   "options": [
+    "Con l'acqua calda che scioglie il pane",
+    "Con lo smielatore che li lancia fuori",
+    "Con le mani, uno per uno, col coltello",
+    "Con i setacci, che dividono i pezzi"
+   ],
+   "answer": 3,
+   "explanation": "I setacci separano i granuli di pane d'api dai frammenti di cera.",
+   "part": 1
+  },
+  {
+   "question": "Dove è meglio che stiano le arnie da cui prendi il pane d'api?",
+   "options": [
+    "Lontano da strade trafficate e fabbriche",
+    "Accanto all'autostrada, per il calore",
+    "Vicino a una fabbrica, per il riparo",
+    "In mezzo alla città, tra i palazzi"
+   ],
+   "answer": 0,
+   "explanation": "Metalli come il piombo dell'ambiente possono finire nei prodotti dell'alveare.",
+   "part": 1
+  },
+  {
+   "question": "Perché il pane d'api fuori dal favo va protetto meglio?",
+   "options": [
+    "Perché perde il tappo di miele e la cera intorno",
+    "Perché fuori dal favo diventa subito liquido",
+    "Perché all'aria si trasforma in cera dura",
+    "Perché le api lo riconoscono e lo cercano"
+   ],
+   "answer": 0,
+   "explanation": "Senza miele e cera intorno prende umidità e odori, e può ammuffire.",
+   "part": 2
+  },
+  {
+   "question": "Cosa fai se nel barattolo vedi puntini bianchi e senti odore strano?",
+   "options": [
+    "Lo scaldo e poi lo mangio",
+    "Lo mescolo al miele",
+    "Non lo uso e lo butto via",
+    "Lo lascio all'aria aperta"
+   ],
+   "answer": 2,
+   "explanation": "Muffa o odore strano: meglio buttare un barattolo che rischiare di stare male.",
+   "part": 2
+  },
+  {
+   "question": "Cosa ha trovato lo studio americano sui batteri del pane d'api?",
+   "options": [
+    "Solo batteri buoni e nessun altro",
+    "Nessun batterio, perché è sterile",
+    "Solo batteri che fanno ammalare",
+    "Batteri utili ma anche batteri dannosi"
+   ],
+   "answer": 3,
+   "explanation": "Accanto a batteri utili come Lactobacillus kunkeei c'erano batteri che possono rovinare il cibo.",
+   "part": 2
+  },
+  {
+   "question": "Da che tipo di studi vengono soprattutto gli effetti sulla salute del pane d'api?",
+   "options": [
+    "Da grandi studi su migliaia di persone",
+    "Da prove in laboratorio e su animali",
+    "Da ricette antiche delle nonne",
+    "Da pubblicità dei negozi online"
+   ],
+   "answer": 1,
+   "explanation": "La revisione del 2022 riporta prove in laboratorio e su animali: per le persone servono altri studi.",
+   "part": 3
+  },
+  {
+   "question": "Chi deve chiedere al medico prima di mangiare pane d'api?",
+   "options": [
+    "Chi non ha mai visto un'arnia da vicino",
+    "Chi preferisce il miele chiaro a quello scuro",
+    "Chi ha allergie ai pollini o prende medicine",
+    "Chi lo mangia solo la mattina a colazione"
+   ],
+   "answer": 2,
+   "explanation": "È fatto di polline: con il polline d'api sono descritte reazioni allergiche anche gravi.",
+   "part": 3
+  },
+  {
+   "question": "Come scrivi il bigliettino se regali pane d'api?",
+   "options": [
+    "«Cura la stanchezza e tutte le malattie»",
+    "«Alimento delle api: attenzione alle allergie»",
+    "«Sostituisce le medicine del dottore»",
+    "«Fa bene a tutti, anche ai bambini piccoli»"
+   ],
+   "answer": 1,
+   "explanation": "Si presenta come alimento, senza promesse di cura, e con l'avviso sulle allergie.",
+   "part": 3
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Favi di polline a marzo",
+   "prompt": "È metà marzo. Apri un'arnia e trovi due telaini pieni di pane d'api accanto alla covata. Hai letto che il pane d'api si vende bene e vorresti prenderli entrambi. Cosa fai?",
+   "modelAnswer": "Non li prendo. A marzo la famiglia sta crescendo: la regina depone sempre di più e le nutrici hanno bisogno di tanto polline per fare la pappa per le larve. Quei telaini accanto alla covata sono la sua dispensa. Se li togliessi, la covata calerebbe e la famiglia partirebbe male nella stagione. Lascio tutto al suo posto. Il pane d'api lo prendo solo da favi in più, per esempio telaini pieni di polline che tolgo quando rinnovo i favi, e solo da famiglie forti con scorte abbondanti. Controllo anche che l'apiario sia lontano da strade trafficate e fabbriche, perché i metalli dell'ambiente possono finire nel pane d'api."
+  },
+  {
+   "title": "La zia e la cura miracolosa",
+   "prompt": "Tua zia ha l'asma e allergia ai pollini. Ha letto che il pane d'api 'cura tutto' e ti chiede un barattolo per smettere le medicine. Cosa le rispondi?",
+   "modelAnswer": "Le dico con gentilezza che non deve smettere le sue medicine. Il pane d'api è un alimento, non una medicina: gli effetti sulla salute di cui si legge vengono soprattutto da prove in laboratorio e su animali, non da studi solidi sulle persone. In più, il pane d'api è fatto di polline, e con il polline d'api sono descritte reazioni allergiche anche gravi, soprattutto in chi è già allergico ai pollini. Per questo non le do il barattolo finché non ne ha parlato con il suo medico. Se il medico è d'accordo, potrà assaggiarne pochissimo, come un cibo curioso, senza aspettarsi miracoli."
+  }
+ ]
+}

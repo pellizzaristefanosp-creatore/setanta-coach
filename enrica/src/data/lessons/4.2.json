@@ -1,0 +1,343 @@
+{
+ "version": 1,
+ "code": "4.2",
+ "unit": 4,
+ "title": "La nutrizione degli alveari",
+ "pages": "133–140",
+ "summary": "Impari come aiutare le famiglie quando in natura il cibo manca: lo sciroppo, il nutritore a goccia e il candito. Capisci anche quando nutrire e perché il polline è così importante.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Lo sciroppo zuccherino per la nutrizione liquida",
+   "narration": "Ciao Enrica! Oggi parliamo di cucina, ma per le api: la nutrizione. Cioè come aiutare le famiglie quando in natura il cibo manca. Ciao Tonino! Quindi si cucina per le api? Cosa si prepara? Il piatto più semplice è lo sciroppo: zucchero bianco sciolto in acqua. Ma la ricetta cambia secondo lo scopo. In che senso? Lo zucchero è sempre zucchero. Se metti un chilo di zucchero e un chilo d'acqua, fai lo sciroppo uno a uno. È leggero, simile al nettare. La regina lo sente arrivare e depone di più. Come se in campagna fosse cominciata una fioritura. Esatto, per questo si chiama stimolante. Poi c'è lo sciroppo due a uno: due chili di zucchero per un chilo d'acqua. Secondo te, a cosa serve uno sciroppo così denso? Forse a fare scorte, perché le api devono togliere meno acqua prima di metterlo via. Brava, proprio così. Si dà a fine estate, per riempire la dispensa prima dell'inverno. E come lo preparo? Lo faccio bollire come una marmellata? No, mai bollire. Scaldi l'acqua, ci sciogli lo zucchero mescolando e lasci raffreddare. Con il troppo calore si forma una sostanza che fa male alle api. E posso usare lo zucchero di canna, quello scuro? Meglio di no. Usa zucchero bianco da cucina. Quello scuro ha sostanze che le api digeriscono male. Allora: bilancia, zucchero bianco, acqua calda ma non bollente. Uno a uno per stimolare, due a uno per le scorte.",
+   "keyPoints": [
+    "Sciroppo 1:1 per peso: stimola la regina",
+    "Sciroppo 2:1 per peso: serve per le scorte",
+    "Solo zucchero bianco da cucina e acqua pulita",
+    "Mai far bollire lo sciroppo"
+   ],
+   "analogy": "Lo sciroppo leggero è come il brodo per chi è convalescente: si beve subito e dà energia. Quello denso è come la marmellata messa in dispensa per l'inverno.",
+   "check": {
+    "question": "A cosa serve soprattutto lo sciroppo 2:1, più denso?",
+    "options": [
+     "A curare la varroa",
+     "A far sciamare la famiglia",
+     "A pulire i favi vecchi",
+     "A fare scorte per l'inverno"
+    ],
+    "answer": 3,
+    "explanation": "Ha meno acqua da togliere: le api lo mettono via più in fretta come scorta."
+   },
+   "science": {
+    "text": "Un gruppo di ricercatori del Dipartimento dell'Agricoltura degli Stati Uniti ha misurato l'HMF, una sostanza tossica per le api, negli sciroppi di mais usati per nutrirle. L'HMF aumenta quando lo sciroppo si scalda o resta conservato a lungo al caldo. Per questo non si fa bollire e non si lascia al sole.",
+    "source": "LeBlanc et al. 2009, Journal of Agricultural and Food Chemistry",
+    "url": "https://doi.org/10.1021/jf9014526"
+   },
+   "tip": "Pesa zucchero e acqua con la bilancia di cucina. Sciogli lo zucchero in acqua calda, mescolando, senza far bollire. Fai raffreddare prima di darlo alle api."
+  },
+  {
+   "slide": 2,
+   "title": "Il nutritore a goccia",
+   "narration": "Ora vediamo come si dà lo sciroppo. Lo strumento più semplice è il nutritore a goccia. Com'è fatto? Me lo immagino come un rubinetto. Quasi. È un barattolo o un secchiello con il coperchio pieno di forellini. Lo riempi di sciroppo, lo chiudi e lo capovolgi. Ma così lo sciroppo esce tutto e allaga l'arnia! Lo pensano tutti la prima volta. Invece escono poche gocce e poi si ferma. Secondo te, perché si ferma? Perché dentro non entra aria, e senza aria lo sciroppo resta appeso, come nella bottiglia del criceto. Perfetto. Si forma il vuoto. Le api arrivano da sotto, leccano le gocce dai forellini e piano piano lo svuotano. E dove lo metto? Sopra il coprifavo, cioè l'asse che chiude l'arnia sotto il tetto. Il coprifavo ha un foro: il barattolo va proprio lì sopra. Così le api salgono dal foro e bevono. E il tetto? Intorno al barattolo metti un melario vuoto o un rialzo, poi il tetto. Così tutto resta chiuso e al buio. Ecco perché è utile contro il saccheggio. Lo sciroppo sta dentro e le ladre non lo sentono. Esatto. Un'ultima cosa: prima di metterlo, capovolgilo sopra un secchio e lascia uscire le prime gocce. Così non gocciola sulle api. Mi piace, è semplice e pulito.",
+   "keyPoints": [
+    "Un barattolo con piccoli fori, capovolto",
+    "Il vuoto trattiene lo sciroppo: escono solo gocce",
+    "Si mette sopra il foro del coprifavo",
+    "Lo sciroppo resta dentro: meno saccheggio"
+   ],
+   "analogy": "Funziona come la bottiglia d'acqua capovolta nella gabbietta del criceto: l'acqua non cade tutta, esce solo quando qualcuno beve.",
+   "check": {
+    "question": "Perché il nutritore a goccia capovolto non si svuota di colpo?",
+    "options": [
+     "Perché il vuoto trattiene lo sciroppo",
+     "Perché le api tappano i fori con la cera",
+     "Perché lo sciroppo diventa duro al buio",
+     "Perché il coperchio ha una valvola speciale"
+    ],
+    "answer": 0,
+    "explanation": "Dentro il barattolo chiuso non entra aria: si forma il vuoto e escono solo gocce."
+   },
+   "science": {
+    "text": "Ricercatori svizzeri hanno dato alle api soluzioni di zucchero più o meno concentrate e hanno guardato dentro le cellette con la tomografia. Le api spostano e mescolano il liquido tra le cellette, poi lo addensano mentre chiudono il favo. Il loro lavoro cambia secondo la concentrazione.",
+    "source": "Eyer et al. 2016, PLoS One",
+    "url": "https://doi.org/10.1371/journal.pone.0161059"
+   },
+   "tip": "Riempi il barattolo, chiudilo e capovolgilo sopra un secchio: escono poche gocce, poi si ferma. Solo allora mettilo sul foro del coprifavo."
+  },
+  {
+   "slide": 3,
+   "title": "Il candito per la nutrizione solida",
+   "narration": "Passiamo all'inverno. Quando fa freddo lo sciroppo non va bene. Si usa il candito. Candito come la frutta candita del panettone? Quasi! È una pasta solida di zucchero, morbida come il marzapane. Si compra pronto, oppure si prepara con zucchero a velo e un po' di sciroppo. E perché d'inverno non si dà lo sciroppo? Secondo te, cosa succede se d'inverno metto un litro di liquido freddo sopra il glomere? Il glomere è la palla di api che si scaldano, giusto? Il liquido porta umidità e freddo, e le api fanno fatica a lavorarlo. Esatto. E lo sciroppo può spingere la regina a deporre quando non è il momento. Il candito invece è asciutto: le api lo sciolgono un po' alla volta. E dove lo metto? Anche lui sopra il foro del coprifavo, dentro un sacchetto di plastica con un taglio sotto. Così non si secca. Posso farlo con il miele? Mi sembra più naturale. Solo con miele tuo, di famiglie sane. Il miele comprato o di altri apiari può portare spore di peste americana, una malattia grave della covata. Non ci avrei mai pensato. Il miele può essere un pericolo per le api! Proprio così. E controlla che il candito non finisca: d'inverno basta sollevare il tetto, senza aprire. Allora: candito solido, sul foro del coprifavo, e mai miele sconosciuto.",
+   "keyPoints": [
+    "Una pasta solida di zucchero",
+    "Si usa d'inverno, con il freddo",
+    "Non bagna l'arnia e non stimola troppo",
+    "Si mette sul foro del coprifavo",
+    "Mai miele di origine sconosciuta"
+   ],
+   "analogy": "Il candito è come una grossa caramella sul comodino: le api la sciolgono un po' alla volta, quando hanno fame, senza dover cucinare.",
+   "check": {
+    "question": "Perché d'inverno si preferisce il candito allo sciroppo?",
+    "options": [
+     "Perché fa deporre molto la regina",
+     "Perché cura la varroa delle api",
+     "Perché è solido e non bagna l'arnia",
+     "Perché attira le api delle altre arnie"
+    ],
+    "answer": 2,
+    "explanation": "Il candito è asciutto: non porta umidità e freddo vicino al glomere."
+   },
+   "science": {
+    "text": "In Belgio alcune famiglie nutrite con uno sciroppo di zucchero invertito ricco di HMF sono morte in modo anomalo. Una revisione degli studi ipotizza che l'HMF, che si forma con il calore, possa avere un ruolo. Per questo conviene usare alimenti di qualità e ben conservati.",
+    "source": "Zirbes et al. 2013, Journal of Agricultural and Food Chemistry",
+    "url": "https://doi.org/10.1021/jf403280n"
+   },
+   "tip": "D'inverno controlla il candito sollevando piano il tetto, senza aprire l'arnia. Se è quasi finito, aggiungi subito un altro pezzo sopra il foro."
+  },
+  {
+   "slide": 4,
+   "title": "Quando nutrire",
+   "narration": "Ora la domanda più importante: quando si nutre? La regola d'oro è semplice: solo quando in natura il cibo manca. E come faccio a saperlo? Guardi la campagna e guardi l'arnia. Se non ci sono fioriture e i favi hanno poco miele, la famiglia ha bisogno. Devo aprire per forza? Non sempre. Un trucco antico: sollevi l'arnia da dietro di pochi centimetri. Se è pesante, la dispensa è piena. Se è leggera, preoccupati. Come quando sollevo la borsa della spesa e capisco cosa c'è dentro! Proprio così. I momenti tipici sono due. A fine estate, per le scorte. E a fine inverno, quando la famiglia riparte ma i fiori sono ancora pochi. E durante il raccolto? Mai sciroppo quando c'è il melario, cioè la cassetta dove le api mettono il miele che raccogli. Secondo te, perché? Perché le api metterebbero lo sciroppo nel melario e il mio miele non sarebbe più miele vero. Esatto. Sarebbe una frode, anche senza volerlo. E poi ricordati: lo sciroppo non vale il miele. Davvero? Non sono uguali, per le api? No. Il miele contiene piccole sostanze, che vengono dal polline e dalla propoli, che aiutano le api a difendersi. Lo sciroppo dà solo energia. Quindi lascio sempre abbastanza miele alle api, e lo sciroppo è solo un aiuto.",
+   "keyPoints": [
+    "Si nutre solo quando in natura manca cibo",
+    "Fine estate: scorte per l'inverno",
+    "Fine inverno: aiuto alla ripartenza",
+    "Mai sciroppo con il melario sopra",
+    "Solleva l'arnia da dietro per sentire il peso"
+   ],
+   "analogy": "È come fare la spesa: non riempi il frigo quando è già pieno, ma prima di un lungo inverno o quando la dispensa è vuota.",
+   "check": {
+    "question": "Perché non si dà sciroppo con il melario sopra l'arnia?",
+    "options": [
+     "Perché il melario diventerebbe troppo pesante",
+     "Perché finirebbe nel miele da raccogliere",
+     "Perché le api smetterebbero di fare la cera",
+     "Perché la regina salirebbe a deporre lì sopra"
+    ],
+    "answer": 1,
+    "explanation": "Le api metterebbero lo sciroppo nel melario e il raccolto non sarebbe più miele vero."
+   },
+   "science": {
+    "text": "Ricercatori dell'Università dell'Illinois hanno scoperto che alcune sostanze del miele, che vengono soprattutto dal polline e dalla propoli, accendono nelle api i geni che servono a eliminare veleni e a difendersi dai microbi. Lo sciroppo non le contiene: è un aiuto, non un sostituto del miele.",
+    "source": "Mao, Schuler e Berenbaum 2013, PNAS",
+    "url": "https://doi.org/10.1073/pnas.1303884110"
+   },
+   "tip": "Solleva l'arnia da dietro, di pochi centimetri: capisci se è pesante o leggera. Con l'esperienza la mano impara. Un'arnia leggera a fine estate va nutrita."
+  },
+  {
+   "slide": 5,
+   "title": "Il polline e i suoi sostituti",
+   "narration": "Fin qui abbiamo parlato di zucchero. Ma le api non vivono di solo zucchero. Hanno bisogno anche di polline. Il polline è quella polverina colorata che portano sulle zampe? Proprio quella. Lo zucchero è il carburante. Il polline invece porta proteine, grassi e vitamine. Secondo te, chi ha più bisogno di proteine nell'arnia? Le larve, i piccoli che crescono! Come i bambini che devono mangiare bene. Brava. Le nutrici mangiano il polline e producono la pappa per le larve. Senza polline, niente covata. E se in natura il polline manca? Succede, per esempio dopo una lunga siccità o all'inizio della primavera. In commercio ci sono i sostituti del polline: paste con farine e lieviti ricchi di proteine. Funzionano bene? Gli studi dicono che i risultati sono misti. A volte aiutano, a volte no. Il polline vero ha più cose buone di qualsiasi pasta. Quindi il sostituto è come un integratore, non come un pranzo vero. Bel paragone. La cosa migliore è mettere le api in un posto con tante fioriture diverse, per tutta la stagione. Così compro poco o niente. E come capisco se il polline entra? Guarda l'entrata: se vedi palline gialle, arancioni o grigie sulle zampe delle bottinatrici, il polline arriva. Che bello, un arcobaleno di palline! Lo guarderò sempre.",
+   "keyPoints": [
+    "Il polline porta proteine, grassi e vitamine",
+    "Senza polline non c'è covata",
+    "Esistono sostituti: paste ricche di proteine",
+    "Nessun sostituto vale il polline vero"
+   ],
+   "analogy": "Lo zucchero è come il pane: dà energia. Il polline è come carne, uova e verdure insieme: serve per far crescere i bambini.",
+   "check": {
+    "question": "Cosa dà il polline alle api che lo zucchero non dà?",
+    "options": [
+     "La cera per costruire i favi",
+     "L'acqua per rinfrescare l'arnia",
+     "Il colore giallo alle api giovani",
+     "Le proteine per crescere la covata"
+    ],
+    "answer": 3,
+    "explanation": "Le nutrici mangiano polline e producono la pappa per le larve: senza proteine niente covata."
+   },
+   "science": {
+    "text": "Una revisione del 2021 ha raccolto gli studi sui sostituti del polline. I risultati sono misti: a volte aiutano la famiglia, a volte non cambiano nulla, a volte peggiorano le cose. I sostituti non rimpiazzano davvero il polline naturale, che ha più nutrienti.",
+    "source": "Noordyke ed Ellis 2021, Frontiers in Sustainable Food Systems",
+    "url": "https://doi.org/10.3389/fsufs.2021.772897"
+   },
+   "tip": "In primavera guarda le bottinatrici all'entrata: se tante portano palline colorate sulle zampe, il polline arriva. Se non ne vedi per giorni, controlla la covata e chiedi consiglio."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "A cosa serve lo sciroppo 1:1?",
+   "back": "A stimolare la regina a deporre, come una fioritura.",
+   "part": 0
+  },
+  {
+   "front": "A cosa serve lo sciroppo 2:1?",
+   "back": "A fare scorte per l'inverno.",
+   "part": 0
+  },
+  {
+   "front": "Perché non si fa bollire lo sciroppo?",
+   "back": "Con il troppo calore si forma l'HMF, che fa male alle api.",
+   "part": 0
+  },
+  {
+   "front": "Come funziona il nutritore a goccia?",
+   "back": "Barattolo capovolto con forellini: il vuoto lascia uscire solo gocce.",
+   "part": 1
+  },
+  {
+   "front": "Cos'è il candito?",
+   "back": "Una pasta solida di zucchero da dare d'inverno.",
+   "part": 2
+  },
+  {
+   "front": "Perché non dare alle api miele sconosciuto?",
+   "back": "Può portare spore di peste americana.",
+   "part": 2
+  },
+  {
+   "front": "Quando si nutre?",
+   "back": "Solo quando in natura il cibo manca.",
+   "part": 3
+  },
+  {
+   "front": "Perché mai sciroppo con il melario?",
+   "back": "Finirebbe nel miele da raccogliere.",
+   "part": 3
+  },
+  {
+   "front": "Cosa porta il polline?",
+   "back": "Proteine, grassi e vitamine per la covata.",
+   "part": 4
+  },
+  {
+   "front": "I sostituti del polline funzionano?",
+   "back": "Risultati misti: non valgono il polline vero.",
+   "part": 4
+  }
+ ],
+ "questions": [
+  {
+   "question": "Come si misurano zucchero e acqua per lo sciroppo 1:1?",
+   "options": [
+    "Un chilo di zucchero e un chilo d'acqua",
+    "Un cucchiaio di zucchero in un litro d'acqua",
+    "Due chili di zucchero e mezzo litro d'acqua",
+    "Un bicchiere di zucchero in un secchio d'acqua"
+   ],
+   "answer": 0,
+   "explanation": "Uno a uno per peso: stessa quantità di zucchero e di acqua.",
+   "part": 0
+  },
+  {
+   "question": "Quale zucchero si usa per lo sciroppo delle api?",
+   "options": [
+    "Zucchero di canna scuro",
+    "Zucchero bianco da cucina",
+    "Zucchero a velo vanigliato",
+    "Miele comprato al mercato"
+   ],
+   "answer": 1,
+   "explanation": "Lo zucchero bianco si digerisce bene; quello scuro e il miele sconosciuto no.",
+   "part": 0
+  },
+  {
+   "question": "Dove si mette il nutritore a goccia?",
+   "options": [
+    "Davanti all'entrata dell'arnia",
+    "Sotto il fondo dell'arnia",
+    "Sopra il foro del coprifavo",
+    "Appeso a un ramo vicino"
+   ],
+   "answer": 2,
+   "explanation": "Sul foro del coprifavo le api bevono da sotto, al buio e al riparo.",
+   "part": 1
+  },
+  {
+   "question": "Perché il nutritore dentro l'arnia aiuta contro il saccheggio?",
+   "options": [
+    "Le ladre hanno paura del buio",
+    "Il barattolo fa un rumore forte",
+    "Le guardiane bevono tutto subito",
+    "Lo sciroppo resta chiuso e non si sente"
+   ],
+   "answer": 3,
+   "explanation": "Niente sciroppo all'aperto: le api delle altre famiglie non sentono l'odore.",
+   "part": 1
+  },
+  {
+   "question": "Dove si mette il candito d'inverno?",
+   "options": [
+    "Sopra il foro del coprifavo, incartato",
+    "Sul predellino, davanti all'entrata",
+    "Sotto il fondo, vicino alla rete",
+    "Nel melario, tra i telaini vuoti"
+   ],
+   "answer": 0,
+   "explanation": "Sul foro del coprifavo il candito è vicino al glomere; il sacchetto evita che si secchi.",
+   "part": 2
+  },
+  {
+   "question": "Perché lo sciroppo d'inverno è un problema?",
+   "options": [
+    "Fa diventare le api più aggressive",
+    "Porta umidità e può far deporre la regina",
+    "Fa crescere la muffa sul tetto di legno",
+    "Fa scappare le api fuori dall'arnia"
+   ],
+   "answer": 1,
+   "explanation": "Il liquido freddo porta umidità e può stimolare la deposizione nel momento sbagliato.",
+   "part": 2
+  },
+  {
+   "question": "Come capisci se un'arnia ha poche scorte senza aprirla?",
+   "options": [
+    "La sollevo da dietro e sento il peso",
+    "Conto le api che escono in un minuto",
+    "Ascolto il ronzio con l'orecchio",
+    "Guardo il colore del tetto"
+   ],
+   "answer": 0,
+   "explanation": "Un'arnia leggera ha poco miele: è il trucco più semplice e antico.",
+   "part": 3
+  },
+  {
+   "question": "In quali momenti si nutre di solito?",
+   "options": [
+    "Solo in piena fioritura",
+    "Solo durante il raccolto",
+    "Ogni settimana tutto l'anno",
+    "A fine estate e a fine inverno"
+   ],
+   "answer": 3,
+   "explanation": "A fine estate per le scorte, a fine inverno per aiutare la ripartenza.",
+   "part": 3
+  },
+  {
+   "question": "Chi mangia il polline per fare la pappa delle larve?",
+   "options": [
+    "Le guardiane",
+    "Le nutrici",
+    "I fuchi",
+    "Le ceraiole"
+   ],
+   "answer": 1,
+   "explanation": "Le nutrici trasformano il polline nella pappa che danno alle larve.",
+   "part": 4
+  },
+  {
+   "question": "Cosa dicono gli studi sui sostituti del polline?",
+   "options": [
+    "Che valgono più del polline vero",
+    "Che fanno male a tutte le api",
+    "Che i risultati sono misti",
+    "Che curano la varroa in pochi giorni"
+   ],
+   "answer": 2,
+   "explanation": "A volte aiutano, a volte no: il polline naturale resta il cibo migliore.",
+   "part": 4
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Arnia leggera a settembre",
+   "prompt": "A inizio settembre sollevi da dietro un'arnia e la senti molto leggera. In campagna non c'è più niente in fiore. Il melario è già stato tolto. Cosa fai?",
+   "modelAnswer": "La famiglia ha poche scorte e l'inverno si avvicina: va nutrita. Prima apro l'arnia per controllare che ci siano regina e covata sana e quanti favi di miele restano. Poi preparo uno sciroppo 2:1 per peso: due chili di zucchero bianco per un chilo d'acqua, sciolto in acqua calda senza bollire, e lo lascio raffreddare. La sera lo metto in un nutritore a goccia sopra il foro del coprifavo, con un melario vuoto intorno e il tetto sopra. Non ne verso una goccia, per non scatenare saccheggi, e stringo l'entrata. Ripeto la nutrizione finché, sollevando l'arnia, la sento pesante. Segno tutto sul quaderno."
+  },
+  {
+   "title": "Gennaio e candito finito",
+   "prompt": "A metà gennaio sollevi il tetto di un'arnia: il candito è finito e le api sono proprio sotto il foro del coprifavo. Fa freddo. Cosa fai?",
+   "modelAnswer": "Le api stanno cercando cibo vicino al foro: rischiano di restare senza. Non apro l'arnia e non tolgo telaini, perché con il freddo il glomere non va disturbato. Non do sciroppo, che porterebbe umidità e freddo. Metto subito un nuovo pezzo di candito sopra il foro del coprifavo, dentro un sacchetto di plastica con un taglio rivolto verso le api, così non si secca. Uso candito comprato o fatto con zucchero, mai con miele di origine sconosciuta. Richiudo bene il tetto. Nelle settimane dopo controllo spesso, sollevando solo il tetto, e aggiungo candito prima che finisca."
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "code": "6.4",
+ "order": [
+  {
+   "title": "L'anno della vespa velutina",
+   "steps": [
+    "La regina passa l'inverno nascosta",
+    "In primavera fonda il nido primario",
+    "Nascono le prime operaie",
+    "La colonia costruisce il nido secondario",
+    "Le vespe cacciano api davanti alle arnie",
+    "In autunno nascono regine e maschi",
+    "Le regine fecondate cercano un riparo"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Cosa fai se trovi un nido",
+   "steps": [
+    "Ti allontani con calma",
+    "Fai una foto da lontano",
+    "Annoti il posto preciso",
+    "Segnali su stopvelutina.it o alla Regione",
+    "Aspetti la squadra esperta"
+   ],
+   "slide": 5
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Vivo in Europa da sempre",
+    "Ho l'addome quasi tutto giallo",
+    "Mi confondono con la velutina, ma sono nostrano"
+   ],
+   "answer": "Il calabrone europeo",
+   "distractors": [
+    "Il calabrone asiatico",
+    "Il bombo terrestre",
+    "L'ape carpentiera"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi costruisce una regina da sola",
+    "Sono piccolo e sto al riparo",
+    "Esisto in primavera, prima di quello grande"
+   ],
+   "answer": "Il nido primario",
+   "distractors": [
+    "Il nido secondario",
+    "Il favo di covata",
+    "Il nucleo di api"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi trovi spesso in cima agli alberi",
+    "Sono fatto di carta e sono grande",
+    "Dentro di me nascono le nuove regine"
+   ],
+   "answer": "Il nido secondario",
+   "distractors": [
+    "Il nido primario",
+    "Il nido di rondine",
+    "Il nido di vespa"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Arrivo quando le vespe stanno davanti all'arnia",
+    "Lascio le scorte vuote prima dell'inverno",
+    "Faccio restare le api in casa per paura"
+   ],
+   "answer": "La paralisi del bottinamento",
+   "distractors": [
+    "La febbre della covata",
+    "La sciamatura di primavera",
+    "La malattia delle ali"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi metti davanti all'ingresso",
+    "Faccio passare le api ma non la caccia",
+    "Sono una gabbietta di rete"
+   ],
+   "answer": "La museruola",
+   "distractors": [
+    "La trappola",
+    "La griglia",
+    "La porticina"
+   ],
+   "slide": 5
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La vespa velutina è arrivata in Francia nel 2004.",
+   "true": true,
+   "why": "Comparsa in Francia nel 2004, probabilmente con merci dalla Cina.",
+   "slide": 1
+  },
+  {
+   "text": "In Italia la velutina è comparsa prima in Sicilia.",
+   "true": false,
+   "why": "La prima è stata catturata in Liguria, a Loano, alla fine del 2012.",
+   "slide": 1
+  },
+  {
+   "text": "Oggi la velutina c'è in diverse regioni del Centro-Nord.",
+   "true": true,
+   "why": "Dalla Liguria si è allargata al Piemonte, alla Toscana, all'Emilia-Romagna e altrove.",
+   "slide": 1
+  },
+  {
+   "text": "La velutina ha l'addome quasi tutto giallo.",
+   "true": false,
+   "why": "Ha il corpo scuro con una sola fascia arancione; giallo è il calabrone nostrano.",
+   "slide": 2
+  },
+  {
+   "text": "Il calabrone nostrano va rispettato e non ucciso.",
+   "true": true,
+   "why": "È un insetto del nostro ambiente e non fa i danni della velutina.",
+   "slide": 2
+  },
+  {
+   "text": "Il nido primario è grande e sta in cima agli alberi.",
+   "true": false,
+   "why": "Il primario è piccolo e riparato; quello in alto è il secondario.",
+   "slide": 3
+  },
+  {
+   "text": "In autunno nel nido secondario nascono nuove regine.",
+   "true": true,
+   "why": "Regine e maschi nascono in autunno; le regine fecondate passano l'inverno.",
+   "slide": 3
+  },
+  {
+   "text": "Le regine della velutina riusano il nido vecchio ogni anno.",
+   "true": false,
+   "why": "Ogni regina fonda un nido nuovo in primavera; il vecchio resta vuoto.",
+   "slide": 3
+  },
+  {
+   "text": "La velutina caccia volando ferma davanti all'arnia.",
+   "true": true,
+   "why": "Aspetta in volo le bottinatrici che rientrano e le afferra.",
+   "slide": 4
+  },
+  {
+   "text": "Il danno maggiore è solo il numero di api mangiate.",
+   "true": false,
+   "why": "Pesa di più la paralisi: le api non escono e mancano le scorte.",
+   "slide": 4
+  },
+  {
+   "text": "La museruola aiuta le api a tornare a bottinare.",
+   "true": true,
+   "why": "Tiene la vespa lontana dall'ingresso e riduce la paura delle api.",
+   "slide": 5
+  },
+  {
+   "text": "Puoi distruggere da sola un nido con l'insetticida.",
+   "true": false,
+   "why": "È pericoloso: i nidi si segnalano e li rimuovono squadre esperte.",
+   "slide": 5
+  }
+ ]
+}

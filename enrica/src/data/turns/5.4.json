@@ -1,0 +1,83 @@
+{
+ "code": "5.4",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Perché le api nutrono tanto una sola larva reale?",
+   "options": [
+    "La regina vecchia lo ordina",
+    "Senza regina la famiglia finisce",
+    "La larva reale ha più fame",
+    "La pappa avanza in primavera"
+   ],
+   "answer": 1,
+   "why": "Solo la regina depone uova: una regina nuova salva tutta la colonia."
+  },
+  {
+   "part": 1,
+   "line": 6,
+   "question": "Che cosa tiene la larva in alto nella cella reale?",
+   "options": [
+    "Un filo di seta della nutrice",
+    "Un tappo di cera sotto di lei",
+    "La pappa densa e appiccicosa",
+    "Le zampe delle api intorno"
+   ],
+   "answer": 2,
+   "why": "La pappa reale è densa come una colla e tiene la larva attaccata in alto."
+  },
+  {
+   "part": 2,
+   "line": 8,
+   "question": "Che rischio ha un cibo pieno di proteine delle api?",
+   "options": [
+    "Può far ingrassare molto",
+    "Può far venire sonno",
+    "Può macchiare i denti",
+    "Può dare allergia"
+   ],
+   "answer": 3,
+   "why": "Le proteine possono dare allergia, anche grave, soprattutto in chi è già allergico."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "Chi deve abbondare nella famiglia per fare tanta pappa?",
+   "options": [
+    "Le nutrici",
+    "Le vecchie",
+    "I fuchi",
+    "Le guardiane"
+   ],
+   "answer": 0,
+   "why": "Le nutrici producono la pappa con le ghiandole della testa."
+  },
+  {
+   "part": 4,
+   "line": 8,
+   "question": "Perché si sceglie una larva così piccola?",
+   "options": [
+    "Perché pesa meno da spostare",
+    "Perché può ancora diventare regina",
+    "Perché mangia meno pappa delle altre",
+    "Perché non ha ancora gli occhi"
+   ],
+   "answer": 1,
+   "why": "Solo una larva giovanissima può essere allevata come regina e ricevere tanta pappa."
+  },
+  {
+   "part": 5,
+   "line": 2,
+   "question": "Che cosa rovina di più la pappa reale?",
+   "options": [
+    "Freddo, buio e vetro",
+    "Sale, zucchero e limone",
+    "Caldo, luce e aria",
+    "Panni, carta e plastica"
+   ],
+   "answer": 2,
+   "why": "La pappa è delicata: caldo, luce e aria le fanno perdere qualità."
+  }
+ ]
+}

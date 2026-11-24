@@ -1,0 +1,382 @@
+{
+ "version": 1,
+ "code": "7.2",
+ "unit": 7,
+ "title": "Confezionamento ed etichettatura",
+ "pages": "333–342",
+ "summary": "Impari che cosa deve esserci sull'etichetta di un vasetto di miele e come si scrivono il paese d'origine e il nome del fiore. Scopri anche a cosa serve il sigillo di garanzia e quali frasi sulla salute non si possono scrivere.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "L'etichetta: le voci obbligatorie",
+   "narration": "Ciao Enrica! Oggi parliamo del vestito del vasetto: l'etichetta. Se un giorno venderai il miele, deve essere fatta bene. Ciao Tonino! Io pensavo bastasse scrivere «Miele di Enrica» con un bel disegno. Il disegno va benissimo, ma prima ci sono le voci obbligatorie. La prima è la denominazione, cioè il nome del prodotto: semplicemente «miele». Poi immagino il peso. Sì, la quantità netta. Secondo te, il peso comprende anche il vasetto? No, netto vuol dire solo il miele, senza il vetro. Esatto. Poi c'è il termine minimo di conservazione, il TMC: la frase è «da consumarsi preferibilmente entro» con la data. Preferibilmente? Quindi dopo non è scaduto? Vuol dire che fino a quella data il miele dà il meglio di sé, se conservato bene. La data la sceglie chi lo confeziona. E poi? Il lotto, un codice che collega il vasetto a una smielatura. Poi nome e indirizzo di chi produce o confeziona. E il paese dove il miele è stato raccolto. Per me sarebbe Italia. Ma devo scrivere tutto grande? Leggibile. Di regola le lettere minuscole devono essere alte almeno 1,2 millimetri. E nome e peso devono stare nello stesso campo visivo. Cioè si devono vedere insieme, senza girare il vasetto. Brava. Le regole a volte cambiano: chiedi sempre conferma alla tua ASL o alla tua associazione.",
+   "keyPoints": [
+    "Denominazione: la parola «miele»",
+    "Quantità netta in grammi, senza il vasetto",
+    "Da consumarsi preferibilmente entro: il TMC",
+    "Lotto, nome e indirizzo di chi produce o confeziona",
+    "Paese d'origine dove il miele è stato raccolto"
+   ],
+   "analogy": "L'etichetta è come la carta d'identità del vasetto: dice chi è, quanto pesa, da dove viene, chi l'ha fatto e fino a quando dà il meglio.",
+   "check": {
+    "question": "Che cosa indica il peso scritto sull'etichetta del miele?",
+    "options": [
+     "Il miele più il vasetto di vetro",
+     "Il miele più il coperchio e l'etichetta",
+     "Il miele più la cera dei favi",
+     "Solo il miele, senza il vasetto"
+    ],
+    "answer": 3,
+    "explanation": "Si scrive la quantità netta: solo il prodotto, senza contenitore."
+   },
+   "science": {
+    "text": "Il regolamento europeo sull'informazione ai consumatori elenca le voci obbligatorie, tra cui denominazione, quantità netta, termine minimo di conservazione e nome e indirizzo dell'operatore. Le scritte devono essere leggibili: di regola, le lettere minuscole alte almeno 1,2 millimetri.",
+    "source": "Regolamento (UE) n. 1169/2011, articoli 9 e 13",
+    "url": "https://eur-lex.europa.eu/eli/reg/2011/1169/oj"
+   },
+   "tip": "Prima di stampare cento etichette, fanne vedere una prova alla tua associazione o alla ASL. Correggere un foglio costa meno che rifare tutto."
+  },
+  {
+   "slide": 2,
+   "title": "Il paese d'origine e le miscele",
+   "narration": "Parliamo di una voce che i clienti guardano sempre: il paese d'origine. Per il mio miele è facile: le api volano qui, quindi Italia. Giusto. Ma al supermercato trovi anche miscele, cioè mieli di paesi diversi mescolati insieme. E come si scrive in quel caso? In passato le regole europee permettevano diciture generiche. In Italia, però, già da anni bisogna nominare i paesi. E adesso è cambiato ancora qualcosa? Sì. Con un decreto del dicembre 2025, dal 14 giugno 2026 per le miscele vanno scritti tutti i paesi, dal più presente al meno presente, con la percentuale. Tipo: sessanta per cento da un paese, quaranta da un altro? Proprio così, e nel campo visivo principale del vasetto. Secondo te, perché si è arrivati a questa regola? Perché chi compra vuole sapere davvero da dove viene il miele, e quanto da ciascun paese. Esatto. È una questione di trasparenza. Una frase come «miscela di mieli UE e non UE» diceva poco. A me però tocca poco, se faccio solo miele mio. Vero, ma è bene sapere leggere le etichette degli altri. E se mai comprassi miele da mescolare, tieni le carte: servono a dimostrare l'origine. E per i dettagli, come la tolleranza sulle percentuali? Quelli li trovi nel decreto, ma chiedi sempre alla tua ASL o all'associazione: sono regole nuove.",
+   "keyPoints": [
+    "L'origine è il paese dove il miele è stato raccolto",
+    "Il tuo miele italiano: scrivi «Italia»",
+    "Miscele: tutti i paesi, dal più al meno presente",
+    "Dal 14 giugno 2026 anche le percentuali",
+    "Le parole generiche come «miscela UE» non bastano"
+   ],
+   "analogy": "È come la ricetta del minestrone della nonna: se dici che dentro ci sono verdure di tre orti, chi mangia vuole sapere quali orti e quanto da ciascuno.",
+   "check": {
+    "question": "Come si indica l'origine di una miscela di mieli di tre paesi, con le regole del 2026?",
+    "options": [
+     "Si scrive solo il paese di chi confeziona il miele",
+     "Si scrive «miscela di mieli» senza nominare i paesi",
+     "Si scrivono i tre paesi in ordine, con le percentuali",
+     "Si scrive solo il paese da cui viene la parte più grande"
+    ],
+    "answer": 2,
+    "explanation": "Vanno indicati tutti i paesi, dal più presente al meno presente, ciascuno con la sua percentuale."
+   },
+   "science": {
+    "text": "Con il decreto legislativo 207 del 2025, che recepisce la nuova direttiva europea, dal 14 giugno 2026 le miscele di mieli di più paesi devono indicare tutti i paesi d'origine, in ordine dal più presente al meno presente, con la percentuale di ciascuno.",
+    "source": "D.Lgs. 30 dicembre 2025, n. 207 (Gazzetta Ufficiale 5 gennaio 2026)",
+    "url": "https://www.gazzettaufficiale.it/eli/id/2026/01/05/26G00001/sg"
+   },
+   "tip": "Se un giorno compri miele da un altro apicoltore per mescolarlo al tuo, tieni le carte d'acquisto: ti servono per dimostrare l'origine e le percentuali."
+  },
+  {
+   "slide": 3,
+   "title": "Il nome del fiore: millefiori, acacia e gli altri",
+   "narration": "Adesso la parte più poetica dell'etichetta: il nome del fiore. Acacia, castagno, tiglio, girasole… Che belli! Allora, se vicino alle mie arnie c'è un'acacia, scrivo «miele di acacia»? Piano! Un albero non basta. Le api volano lontano e visitano tanti fiori. Per scrivere il nome di un fiore, il miele deve venire tutto o soprattutto da lì. E come faccio a saperlo? Il miele di quel fiore ha caratteristiche tipiche: colore, profumo, sapore. L'acacia è chiara e delicata, il castagno è scuro e un po' amaro. Quindi lo riconosco assaggiando. Con l'esperienza, in parte sì. Ma c'è anche il microscopio. Secondo te, che cosa si cerca al microscopio nel miele? I granuli di polline! Ogni fiore ha il suo polline, quindi si vede da dove viene il miele. Bravissima. Questa si chiama analisi del polline. Alcuni laboratori e associazioni la fanno. E se nel mio miele ci sono tanti fiori insieme? Allora è un millefiori: nessun fiore domina. Ed è un miele bellissimo, che racconta il paesaggio intorno alle arnie. Meglio un millefiori onesto che un'acacia finta, insomma. Proprio così. Chi compra si fida del nome. E un nome sbagliato può costare caro, anche in multe. Allora tengo separate le smielature e assaggio sempre.",
+   "keyPoints": [
+    "Il nome del fiore si aggiunge alla parola «miele»",
+    "Il miele deve venire tutto o soprattutto da quel fiore",
+    "Deve avere sapore, colore e polline tipici",
+    "Millefiori: nessun fiore domina",
+    "In caso di dubbio, fai analizzare il miele"
+   ],
+   "analogy": "È come la marmellata: se scrivi «di albicocche», dentro devono esserci soprattutto albicocche, non una frutta mista che le ricorda.",
+   "check": {
+    "question": "Quando si può scrivere «miele di acacia» sul vasetto?",
+    "options": [
+     "Quando l'apiario ha almeno un albero di acacia",
+     "Quando il miele viene soprattutto dall'acacia",
+     "Quando il miele è chiaro e molto liquido",
+     "Quando il miele è stato raccolto in maggio"
+    ],
+    "answer": 1,
+    "explanation": "Il miele deve venire tutto o principalmente da quel fiore e averne le caratteristiche."
+   },
+   "science": {
+    "text": "La direttiva europea sul miele permette di aggiungere al nome il fiore o la pianta solo se il miele proviene tutto o principalmente da lì e ne ha le caratteristiche: sapore e profumo, qualità chimico-fisiche e aspetto al microscopio, cioè i granuli di polline.",
+    "source": "Direttiva 2001/110/CE del Consiglio, articolo 2",
+    "url": "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX:32001L0110"
+   },
+   "tip": "Assaggia e annusa ogni smielatura separatamente. Se un miele «di acacia» sa di castagno, non chiamarlo acacia: chiamalo millefiori, oppure fallo analizzare."
+  },
+  {
+   "slide": 4,
+   "title": "Il sigillo di garanzia",
+   "narration": "Guarda questo vasetto: vedi la striscia di carta che passa sopra il coperchio e scende ai lati? Sì, me la ricordo anche sui vasetti al mercato. È solo decorazione? No, è il sigillo di garanzia. Secondo te, che cosa succede alla striscia quando apri il vasetto? Si strappa! Quindi se è intera, nessuno l'ha aperto prima di me. Esatto. Protegge chi compra, ma anche chi produce. Se qualcuno manomette un vasetto, si vede subito. È obbligatorio per legge? Secondo le guide delle Camere di commercio, in Italia no: è facoltativo, e non ci sono regole su misure o scritte. Ma molti apicoltori lo usano. E cosa ci si scrive sopra? Puoi metterci il tuo nome o il tuo marchio. Alcune associazioni hanno sigilli propri. Attenta però a non scriverci promesse che non puoi mantenere. Tipo «miele miracoloso»? Ecco, quello mai! Ne parleremo tra poco. Un consiglio pratico: il sigillo attacca solo su vetro pulito e asciutto. Allora prima pulisco bene i vasetti, poi chiudo e sigillo. E fallo passare sopra il coperchio, così non si può svitare senza strapparlo. Chiaro. Un piccolo gesto che dà fiducia.",
+   "keyPoints": [
+    "Il sigillo si rompe quando apri il vasetto",
+    "Mostra che nessuno l'ha aperto prima",
+    "Di solito è una striscia adesiva sul coperchio",
+    "In Italia non è obbligatorio per legge",
+    "Protegge chi compra e chi produce"
+   ],
+   "analogy": "È come il sigillo sulla bottiglia d'acqua: se il tappo gira senza fare clic, capisci subito che qualcuno l'ha già aperta.",
+   "check": {
+    "question": "A che cosa serve il sigillo di garanzia sul vasetto?",
+    "options": [
+     "A mostrare che il miele è di prima qualità",
+     "A tenere il miele liquido più a lungo",
+     "A dimostrare che il miele è biologico",
+     "A mostrare che nessuno l'ha aperto prima"
+    ],
+    "answer": 3,
+    "explanation": "Il sigillo si rompe all'apertura: se è intatto, il vasetto non è stato aperto."
+   },
+   "science": {
+    "text": "Una guida delle Camere di commercio spiega che il sigillo di garanzia è facoltativo: non ci sono norme su misure o scritte. Deve però restare intatto finché il vasetto non viene aperto, per proteggere consumatore e produttore da possibili manomissioni.",
+    "source": "Camera di commercio di Torino, Guida all'etichettatura del miele",
+    "url": "https://portale-etichettatura.lab-to.camcom.it/media/questions/institutions/2/docs/10_guida_etichette_miele.pdf"
+   },
+   "tip": "Metti il sigillo solo su vasetti puliti e asciutti all'esterno: su un vetro appiccicoso di miele la striscia non attacca bene e si stacca."
+  },
+  {
+   "slide": 5,
+   "title": "Cosa non si può scrivere",
+   "narration": "Ultimo argomento: quello che sull'etichetta non si può scrivere. Ho visto vasetti con scritto «ottimo contro la tosse» o «rinforza le difese». Non va bene? No. In Europa le frasi sulla salute si possono usare solo se sono state autorizzate dopo un esame scientifico. Per il miele non ce n'è nessuna autorizzata. Ma la nonna mi dava sempre miele e latte quando avevo mal di gola! E fai bene a ricordarlo con affetto. Ma un ricordo di famiglia non è una prova. E c'è una regola ancora più netta. Secondo te, quale? Che non si può dire che un cibo cura o previene una malattia? Esatto. Il regolamento europeo lo vieta per tutti gli alimenti, non solo per il miele. Allora cosa posso scrivere per rendere bello il vasetto? Cose vere che puoi dimostrare: la zona, il fiore, il mese di raccolta, il tuo nome, magari una foto delle tue arnie. E parole come «naturale» o «artigianale»? Attenzione a non ingannare. Ogni miele è naturale per legge: farlo sembrare un pregio speciale può confondere. Se hai dubbi, chiedi all'associazione o alla ASL. Ultima cosa: posso dire che il miele va bene per tutti? No! Anzi, ricorda che il miele non si dà ai bambini sotto l'anno di età. Molti apicoltori lo scrivono come avvertenza. Allora: onestà, cose vere, e nessuna promessa miracolosa.",
+   "keyPoints": [
+    "Mai dire che il miele cura o previene malattie",
+    "Le frasi sulla salute devono essere autorizzate",
+    "Per il miele non ce ne sono di autorizzate",
+    "Niente parole che ingannano chi compra",
+    "Il miele non va dato sotto l'anno di età"
+   ],
+   "analogy": "È come raccontare la propria torta: puoi dire che è buona e fatta in casa, ma non che fa guarire dal raffreddore.",
+   "check": {
+    "question": "Quale frase NON si può scrivere sull'etichetta del miele?",
+    "options": [
+     "Raccolto in collina nella primavera 2026",
+     "Prodotto e confezionato da Enrica, apicoltrice",
+     "Miele millefiori dalle colline di casa mia",
+     "Cura la tosse e rinforza le difese del corpo"
+    ],
+    "answer": 3,
+    "explanation": "Non si può dire che un alimento cura o previene malattie, e per il miele non ci sono frasi sulla salute autorizzate."
+   },
+   "science": {
+    "text": "L'autorità irlandese per la sicurezza alimentare spiega che in Europa per il miele non ci sono indicazioni sulla salute autorizzate. E il regolamento europeo vieta di attribuire a un alimento il potere di prevenire, trattare o guarire una malattia.",
+    "source": "Food Safety Authority of Ireland, Honey; Reg. (UE) 1169/2011, art. 7",
+    "url": "https://www.fsai.ie/Enforcement-and-Legislation/Legislation/Food-Legislation/Honey"
+   },
+   "tip": "Sull'etichetta racconta cose vere che puoi dimostrare: la zona, il fiore, il periodo di raccolta, il tuo nome. Lascia stare le promesse sulla salute."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Qual è la denominazione da scrivere sul vasetto?",
+   "back": "La parola «miele», a cui si può aggiungere il fiore.",
+   "part": 0
+  },
+  {
+   "front": "Che cosa vuol dire quantità netta?",
+   "back": "Il peso del solo miele, senza vasetto.",
+   "part": 0
+  },
+  {
+   "front": "Che cos'è il TMC?",
+   "back": "Il termine minimo di conservazione: «da consumarsi preferibilmente entro».",
+   "part": 0
+  },
+  {
+   "front": "A cosa serve il lotto?",
+   "back": "A collegare il vasetto a una precisa smielatura e rintracciarlo.",
+   "part": 0
+  },
+  {
+   "front": "Che cosa cambia dal 14 giugno 2026 per le miscele di miele?",
+   "back": "Tutti i paesi d'origine, in ordine, con la percentuale di ciascuno.",
+   "part": 1
+  },
+  {
+   "front": "Quando si può scrivere il nome di un fiore?",
+   "back": "Se il miele viene tutto o soprattutto da quel fiore e ne ha le caratteristiche.",
+   "part": 2
+  },
+  {
+   "front": "Che cos'è un miele millefiori?",
+   "back": "Un miele in cui nessun fiore domina sugli altri.",
+   "part": 2
+  },
+  {
+   "front": "Il sigillo di garanzia è obbligatorio in Italia?",
+   "back": "No, è facoltativo, ma molti apicoltori lo usano.",
+   "part": 3
+  },
+  {
+   "front": "Si può scrivere che il miele cura la tosse?",
+   "back": "No: è vietato dire che un alimento cura o previene malattie.",
+   "part": 4
+  },
+  {
+   "front": "Sotto quale età non si dà il miele ai bambini?",
+   "back": "Sotto l'anno di età.",
+   "part": 4
+  }
+ ],
+ "questions": [
+  {
+   "question": "Quale frase introduce il termine minimo di conservazione?",
+   "options": [
+    "«Da consumarsi preferibilmente entro»",
+    "«Da buttare obbligatoriamente dopo il»",
+    "«Da vendere esclusivamente entro il»",
+    "«Da aprire solamente a partire dal»"
+   ],
+   "answer": 0,
+   "explanation": "Il TMC indica fino a quando il miele mantiene al meglio le sue qualità.",
+   "part": 0
+  },
+  {
+   "question": "Quale di queste voci è obbligatoria sull'etichetta del miele?",
+   "options": [
+    "Il nome dell'ape regina",
+    "Il numero degli alveari",
+    "Il numero di lotto",
+    "Il prezzo al chilo"
+   ],
+   "answer": 2,
+   "explanation": "Il lotto permette di rintracciare il vasetto e collegarlo a una smielatura.",
+   "part": 0
+  },
+  {
+   "question": "Che cosa devono avere nello stesso campo visivo nome e peso?",
+   "options": [
+    "Devono essere scritti in rosso",
+    "Devono essere scritti in inglese",
+    "Devono stare sul fondo del vasetto",
+    "Devono vedersi senza girare il vasetto"
+   ],
+   "answer": 3,
+   "explanation": "Denominazione e quantità netta si devono leggere insieme, guardando il vasetto da un lato.",
+   "part": 0
+  },
+  {
+   "question": "Chi decide la data del «da consumarsi preferibilmente entro»?",
+   "options": [
+    "La ASL per ogni singolo vasetto",
+    "Chi confeziona il miele",
+    "Il cliente quando compra",
+    "Il comune dove sta l'apiario"
+   ],
+   "answer": 1,
+   "explanation": "La data la sceglie chi confeziona, in base a come si conserva il prodotto.",
+   "part": 0
+  },
+  {
+   "question": "Il tuo miele è raccolto solo in Italia. Che cosa scrivi come origine?",
+   "options": [
+    "Italia",
+    "Europa",
+    "Mondo",
+    "Estero"
+   ],
+   "answer": 0,
+   "explanation": "L'origine è il paese dove il miele è stato raccolto.",
+   "part": 1
+  },
+  {
+   "question": "In che ordine si scrivono i paesi di una miscela?",
+   "options": [
+    "In ordine alfabetico, dalla A alla Z",
+    "Dal paese più vicino al più lontano",
+    "Dal paese più presente al meno presente",
+    "Dal paese più piccolo al più grande"
+   ],
+   "answer": 2,
+   "explanation": "I paesi vanno in ordine decrescente di quantità, ciascuno con la sua percentuale.",
+   "part": 1
+  },
+  {
+   "question": "Perché conviene tenere le carte d'acquisto del miele comprato da altri?",
+   "options": [
+    "Per chiedere uno sconto la volta dopo",
+    "Per dimostrare origine e percentuali",
+    "Per avere un rimborso dallo Stato",
+    "Per sapere il nome delle api regine"
+   ],
+   "answer": 1,
+   "explanation": "Le carte provano da dove viene il miele e in che quantità.",
+   "part": 1
+  },
+  {
+   "question": "Che cosa si cerca al microscopio per capire da quale fiore viene il miele?",
+   "options": [
+    "I cristalli di zucchero",
+    "Le bollicine d'aria",
+    "I pezzetti di cera",
+    "I granuli di polline"
+   ],
+   "answer": 3,
+   "explanation": "Ogni pianta ha un polline riconoscibile: l'analisi del polline indica l'origine botanica.",
+   "part": 2
+  },
+  {
+   "question": "Un miele sa un po' di tutto e nessun fiore domina. Come lo chiami?",
+   "options": [
+    "Miele di acacia",
+    "Miele millefiori",
+    "Miele di castagno",
+    "Miele di tiglio"
+   ],
+   "answer": 1,
+   "explanation": "Millefiori indica un miele da tanti fiori, senza uno che domina.",
+   "part": 2
+  },
+  {
+   "question": "Dove si mette di solito il sigillo di garanzia?",
+   "options": [
+    "Sopra il coperchio, fino ai lati",
+    "Sul fondo del vasetto di vetro",
+    "Dentro il vasetto, sopra il miele",
+    "Sulla scatola che contiene i vasetti"
+   ],
+   "answer": 0,
+   "explanation": "Passando sopra il coperchio, il sigillo si rompe quando lo sviti.",
+   "part": 3
+  },
+  {
+   "question": "Perché il sigillo protegge anche chi produce?",
+   "options": [
+    "Perché fa costare di più il vasetto",
+    "Perché sostituisce l'etichetta obbligatoria",
+    "Perché mostra se qualcuno l'ha manomesso",
+    "Perché allunga la durata del miele"
+   ],
+   "answer": 2,
+   "explanation": "Se il sigillo è rotto, si capisce che il vasetto è stato aperto dopo la vendita.",
+   "part": 3
+  },
+  {
+   "question": "Quante indicazioni sulla salute sono autorizzate oggi per il miele in Europa?",
+   "options": [
+    "Cinque",
+    "Dieci",
+    "Nessuna",
+    "Una sola"
+   ],
+   "answer": 2,
+   "explanation": "Per il miele non ci sono frasi sulla salute autorizzate.",
+   "part": 4
+  },
+  {
+   "question": "Quale avvertenza scrivono molti apicoltori sull'etichetta?",
+   "options": [
+    "Non dare ai bambini sotto i 12 mesi",
+    "Non dare agli adulti sopra i 65 anni",
+    "Non mangiare più di un vasetto al mese",
+    "Non conservare in casa oltre una settimana"
+   ],
+   "answer": 0,
+   "explanation": "Il miele non si dà ai bambini sotto l'anno di età.",
+   "part": 4
+  }
+ ],
+ "exercises": [
+  {
+   "title": "La prima etichetta",
+   "prompt": "Prepari l'etichetta per i tuoi primi vasetti da 500 grammi, da vendere al mercato del paese. Hai scritto: «Miele delle colline – fa bene alla gola – peso lordo 750 g». Cosa correggi e cosa aggiungi?",
+   "modelAnswer": "Tolgo «fa bene alla gola»: non si può dire che un alimento cura o previene malattie, e per il miele non ci sono frasi sulla salute autorizzate. Scrivo il peso netto, cioè 500 g di solo miele, non il peso con il vasetto. Mi assicuro che la parola «miele» e il peso si vedano insieme, nello stesso campo visivo. Aggiungo «da consumarsi preferibilmente entro» con la data, il numero di lotto, il mio nome e indirizzo, e il paese d'origine: Italia. Uso lettere leggibili, di regola alte almeno 1,2 mm per le minuscole. Posso aggiungere che è un millefiori, se lo è davvero. Prima di stampare, faccio controllare la prova alla mia associazione o alla ASL, e chiedo se mi serve altro per vendere."
+  },
+  {
+   "title": "Acacia o no?",
+   "prompt": "Hai smielato a fine maggio. Vicino all'apiario ci sono acacie fiorite, ma il miele è ambrato e ha un retrogusto un po' amaro. Un amico dice: «Scrivi acacia, si vende meglio». Cosa fai?",
+   "modelAnswer": "Non scrivo acacia solo perché ci sono alberi vicini. Il miele di acacia di solito è molto chiaro e delicato; un miele ambrato e amarognolo fa pensare che le api abbiano raccolto anche da altri fiori, forse castagno. Per scrivere il nome di un fiore, il miele deve venire tutto o soprattutto da quel fiore e averne sapore, aspetto e polline tipici. Lo chiamo millefiori, che è un nome onesto e bello. Se voglio essere sicura, posso far fare un'analisi del polline tramite la mia associazione o un laboratorio. La prossima volta tengo separate le smielature e assaggio ogni melario. Un nome sbagliato inganna chi compra e può portare a sanzioni."
+  }
+ ]
+}

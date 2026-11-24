@@ -1,0 +1,143 @@
+{
+ "code": "4.4",
+ "order": [
+  {
+   "title": "Dal fiore al vasetto",
+   "steps": [
+    "Il fiore produce il nettare",
+    "La bottinatrice lo succhia e lo porta a casa",
+    "Le api lo passano tra loro aggiungendo enzimi",
+    "Ventilano per far evaporare l'acqua",
+    "Chiudono la celletta con l'opercolo",
+    "L'apicoltore raccoglie il melario"
+   ],
+   "slide": 1
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Il mio miele resta liquido a lungo",
+    "Tutti mi chiamano con il nome di un'altra pianta",
+    "Fiorisco in primavera e il mio miele è chiarissimo"
+   ],
+   "answer": "La robinia",
+   "distractors": [
+    "La sulla",
+    "La lavanda",
+    "La colza"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Vengo dal Nord America",
+    "Mi copro di una polverina cerosa",
+    "Succhio la linfa e lascio melata"
+   ],
+   "answer": "La Metcalfa pruinosa",
+   "distractors": [
+    "La cimice asiatica",
+    "La tarma della cera",
+    "La mosca della frutta"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Sono soprattutto acqua e zuccheri",
+    "I fiori mi offrono come premio",
+    "Le api mi trasformano in miele"
+   ],
+   "answer": "Il nettare",
+   "distractors": [
+    "Il polline",
+    "Il glucosio",
+    "Il candito"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Il laboratorio mi misura con uno strumento",
+    "Nel miele di melata salgo di più",
+    "Dipendo dai minerali sciolti nel miele"
+   ],
+   "answer": "La conducibilità elettrica",
+   "distractors": [
+    "La densità del miele",
+    "La temperatura dell'arnia",
+    "L'acidità totale"
+   ],
+   "slide": 4
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Il nettare è fatto soprattutto di acqua e zuccheri.",
+   "true": true,
+   "why": "Ha anche piccole quantità di altre sostanze che danno profumo e sapore.",
+   "slide": 1
+  },
+  {
+   "text": "Il nettare è già miele appena raccolto dal fiore.",
+   "true": false,
+   "why": "Le api devono togliere acqua e aggiungere enzimi.",
+   "slide": 1
+  },
+  {
+   "text": "Le api aggiungono enzimi al nettare.",
+   "true": true,
+   "why": "Gli enzimi spezzano lo zucchero in zuccheri più semplici.",
+   "slide": 1
+  },
+  {
+   "text": "Il miele d'acacia viene dalla robinia.",
+   "true": true,
+   "why": "La robinia viene chiamata comunemente acacia.",
+   "slide": 2
+  },
+  {
+   "text": "Il millefiori è sempre uguale in ogni zona.",
+   "true": false,
+   "why": "Cambia con le piante intorno all'apiario e con la stagione.",
+   "slide": 2
+  },
+  {
+   "text": "La melata viene prodotta dai fiori.",
+   "true": false,
+   "why": "La producono insetti che succhiano la linfa delle piante.",
+   "slide": 3
+  },
+  {
+   "text": "La Metcalfa pruinosa succhia la linfa delle piante.",
+   "true": true,
+   "why": "E butta fuori lo zucchero in più come melata.",
+   "slide": 3
+  },
+  {
+   "text": "Le api raccolgono la melata soprattutto dalle foglie.",
+   "true": true,
+   "why": "La melata cade su foglie e rami, non nei fiori.",
+   "slide": 3
+  },
+  {
+   "text": "Il miele di melata è di solito più chiaro di quello d'acacia.",
+   "true": false,
+   "why": "È di solito scuro; l'acacia è tra i mieli più chiari.",
+   "slide": 4
+  },
+  {
+   "text": "Il miele di melata ha più minerali del miele di fiori.",
+   "true": true,
+   "why": "Per questo conduce meglio la corrente elettrica.",
+   "slide": 4
+  },
+  {
+   "text": "La conducibilità elettrica aiuta a riconoscere la melata.",
+   "true": true,
+   "why": "Nel miele di melata è più alta, grazie ai minerali.",
+   "slide": 4
+  }
+ ]
+}

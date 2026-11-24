@@ -1,0 +1,509 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "5.1-01",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Secondo la presentazione, come si può definire l'ipertrofia in parole povere?",
+      "options": [
+        "L'aumento del numero di fibre muscolari",
+        "L'aumento della densità delle ossa",
+        "L'aumento delle riserve di glicogeno",
+        "L'aumento delle dimensioni dei muscoli"
+      ],
+      "answer": 3,
+      "explanation": "Slide 4: l'ipertrofia è definita come l'aumento delle dimensioni dei muscoli, in particolare del muscolo scheletrico."
+    },
+    {
+      "id": "5.1-02",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Perché, secondo la slide, a Mo Farah non converrebbe una grande massa muscolare?",
+      "options": [
+        "Sarebbe un limite alla capacità di usare i grassi come carburante",
+        "Sarebbe un fattore di rischio per le lesioni da sovraccarico",
+        "Sarebbe un ostacolo alla capacità di reclutare le fibre lente",
+        "Sarebbe peso extra da trasportare per lunghe distanze"
+      ],
+      "answer": 3,
+      "explanation": "Slide 4: per un corridore di lunga distanza molta massa muscolare sarebbe un peso extra da trasportare per lunghe distanze."
+    },
+    {
+      "id": "5.1-03",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Che cos'è un'unità motoria?",
+      "options": [
+        "Un sarcomero e i filamenti di actina e miosina al suo interno",
+        "Un recettore e le fibre muscolari da cui raccoglie segnali",
+        "Un motoneurone e le miofibrille di una singola fibra muscolare",
+        "Un motoneurone e la serie di fibre muscolari a cui è collegato"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5: un motoneurone collegato a una serie di fibre muscolari forma l'unità motoria; tutte quelle fibre si contraggono insieme."
+    },
+    {
+      "id": "5.1-04",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Secondo la teoria dei filamenti scorrevoli, cosa scopre il sito di legame sull'actina?",
+      "options": [
+        "Il sodio entrato nella fibra muscolare",
+        "Il potassio uscito dalla fibra muscolare",
+        "Il calcio rilasciato nelle miofibrille",
+        "Il fosfato liberato nel ciclo contrattile"
+      ],
+      "answer": 2,
+      "explanation": "Slide 6: il potenziale d'azione fa rilasciare calcio nelle miofibrille, che scopre il sito di legame sull'actina a cui si attacca la miosina."
+    },
+    {
+      "id": "5.1-05",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Secondo la tabella dei tipi di fibre, qual è la durata massima di utilizzo delle fibre di tipo IIa?",
+      "options": [
+        "Meno di 30 minuti",
+        "Meno di 10 minuti",
+        "Meno di 15 minuti",
+        "Meno di 45 minuti"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7: la tabella indica per le fibre IIa una durata massima di utilizzo inferiore a 30 minuti (tipo I ore, tipo IIb meno di 1 minuto)."
+    },
+    {
+      "id": "5.1-06",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Qual è la principale energia immagazzinata nelle fibre di tipo I, secondo la tabella?",
+      "options": [
+        "Trigliceridi",
+        "Polisaccaridi",
+        "Amminoacidi",
+        "Fosfolipidi"
+      ],
+      "answer": 0,
+      "explanation": "Slide 7: per le fibre di tipo I la principale energia immagazzinata sono i trigliceridi; per IIa e IIb creatina fosfato e glicogeno."
+    },
+    {
+      "id": "5.1-07",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Come spiega la slide che il record dei 400 m non sia quello dei 100 m moltiplicato per 4?",
+      "options": [
+        "Le riserve di glicogeno si esauriscono e l'atleta perde velocità",
+        "Le fibre a contrazione rapida si affaticano e l'atleta rallenta",
+        "Le fibre a contrazione rapida smettono di essere reclutate dopo la partenza",
+        "Le fibre a contrazione lenta sostengono da sole la seconda metà della gara"
+      ],
+      "answer": 1,
+      "explanation": "Slide 7: le fibre veloci che producono l'inizio esplosivo iniziano ad affaticarsi, quindi l'atleta deve rallentare."
+    },
+    {
+      "id": "5.1-08",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Quale muscolo, citato nella presentazione, ha un'elevata percentuale di fibre di tipo I?",
+      "options": [
+        "Il psoas",
+        "Il soleo",
+        "Il dorsale",
+        "Il gracile"
+      ],
+      "answer": 1,
+      "explanation": "Slide 8: soleo e gastrocnemio, usati di continuo per camminare e stare in piedi, devono resistere alla fatica e hanno molte fibre di tipo I."
+    },
+    {
+      "id": "5.1-09",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Di quanto è maggiore la capacità di crescita delle fibre di tipo 2 rispetto alle tipo 1, secondo la ricerca citata?",
+      "options": [
+        "Del 50%",
+        "Del 75%",
+        "Del 10%",
+        "Del 25%"
+      ],
+      "answer": 0,
+      "explanation": "Slide 8: la ricerca indica che le fibre di tipo 2 hanno una capacità maggiore del 50% di crescere rispetto alle fibre di tipo 1."
+    },
+    {
+      "id": "5.1-10",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Da cosa dipendono principalmente gli incrementi iniziali di forza in un nuovo programma?",
+      "options": [
+        "Dagli adattamenti vascolari",
+        "Dagli aumenti di massa magra",
+        "Dagli adattamenti neurali",
+        "Dagli aumenti di glicogeno"
+      ],
+      "answer": 2,
+      "explanation": "Slide 9: i primi incrementi di forza dipendono soprattutto da adattamenti neurali, cioè apprendimento motorio e organizzazione più efficiente."
+    },
+    {
+      "id": "5.1-11",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Che cosa indica la frequenza di scarica (rate coding)?",
+      "options": [
+        "La quantità di unità motorie attivate nello stesso istante",
+        "La velocità di accorciamento dei sarcomeri nella fibra",
+        "La frequenza di stimolazione delle unità motorie",
+        "La durata di attivazione delle singole unità motorie"
+      ],
+      "answer": 2,
+      "explanation": "Slide 10: il rate coding è la frequenza con cui vengono stimolate le unità motorie; il reclutamento è la quantità di fibre attivate."
+    },
+    {
+      "id": "5.1-12",
+      "presentation": "5.1",
+      "unit": 5,
+      "question": "Di quanto aumenta circa la sintesi proteica dopo una sessione con i pesi, secondo la presentazione?",
+      "options": [
+        "Di circa 6-8 volte",
+        "Di circa 2-5 volte",
+        "Di circa 1,5 volte",
+        "Di circa 10-15 volte"
+      ],
+      "answer": 1,
+      "explanation": "Slide 13: durante la sessione la disgregazione aumenta, ma dopo l'allenamento la sintesi proteica aumenta di circa 2-5 volte."
+    },
+    {
+      "id": "6.1-01",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Come viene definita la frequenza di allenamento nella presentazione?",
+      "options": [
+        "Il numero di ripetizioni per serie di ciascun esercizio",
+        "Il numero di sessioni di allenamento alla settimana",
+        "Il numero di serie per gruppo muscolare a seduta",
+        "Il numero di giorni di recupero tra due sessioni"
+      ],
+      "answer": 1,
+      "explanation": "Slide 4: la frequenza dell'allenamento è definita come il numero di sessioni di allenamento alla settimana."
+    },
+    {
+      "id": "6.1-02",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Quale esempio usa la presentazione per mostrare che volume e carico sono collegati?",
+      "options": [
+        "Non si possono prescrivere 6 ripetizioni al 70% dell'1RM",
+        "Non si possono prescrivere 8 ripetizioni al 65% dell'1RM",
+        "Non si possono prescrivere 5 ripetizioni al 75% dell'1RM",
+        "Non si possono prescrivere 10 ripetizioni al 90% dell'1RM"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5: il preparatore non può prescrivere 10 ripetizioni al 90% dell'1RM, perché il carico detta le ripetizioni possibili."
+    },
+    {
+      "id": "6.1-03",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Secondo gli studi sul breve termine, che effetto ha un volume più elevato sulla sintesi proteica?",
+      "options": [
+        "La aumenta e la prolunga dopo la sessione",
+        "La riduce e ne abbrevia la durata",
+        "La aumenta senza prolungarne la durata",
+        "La lascia invariata nelle ore successive"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6: un volume maggiore porta a più sintesi proteica e la mantiene più a lungo dopo la fine della sessione."
+    },
+    {
+      "id": "6.1-04",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Quante ripetizioni per sessione multiserie sono indicate per individui non allenati o principianti?",
+      "options": [
+        "20-30 ripetizioni",
+        "10-20 ripetizioni",
+        "80-100 ripetizioni",
+        "40-70 ripetizioni"
+      ],
+      "answer": 3,
+      "explanation": "Slide 7: i principianti potrebbero puntare a sessioni multiserie con 40-70 ripetizioni; gli avanzati ne richiedono di più."
+    },
+    {
+      "id": "6.1-05",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Confrontando protocolli a serie singola e a serie multiple, cosa emerge per l'ipertrofia?",
+      "options": [
+        "Le serie multiple danno un effetto minore, le singole uno maggiore",
+        "Le serie multiple danno un effetto positivo, le singole nessun effetto",
+        "Le serie multiple danno lo stesso effetto positivo delle singole",
+        "Le serie multiple danno un effetto maggiore, le singole comunque positivo"
+      ],
+      "answer": 3,
+      "explanation": "Slide 7: le serie multiple mostrano un effetto ipertrofico maggiore, ma anche le serie singole hanno un effetto positivo, minore."
+    },
+    {
+      "id": "6.1-06",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Nello studio sui bodybuilder a volume costante, 4 contro 6 giorni, cosa si è osservato?",
+      "options": [
+        "Una crescita significativamente maggiore nel secondo gruppo",
+        "Una riduzione della massa muscolare in entrambi i gruppi",
+        "Nessuna differenza significativa nell'ipertrofia",
+        "Una crescita significativamente maggiore nel primo gruppo"
+      ],
+      "answer": 2,
+      "explanation": "Slide 8: con volume mantenuto, tra il gruppo da 4 giorni e quello da 6 non sono state trovate differenze significative nell'ipertrofia."
+    },
+    {
+      "id": "6.1-07",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Secondo la presentazione, quale approccio potrebbe dare risultati migliori ai principianti?",
+      "options": [
+        "La routine a serie unica",
+        "La routine al cedimento",
+        "La routine full-body",
+        "La routine split"
+      ],
+      "answer": 2,
+      "explanation": "Slide 9: i principianti potrebbero ottenere di più con il full-body, perché non abituati ai volumi più elevati delle split routine."
+    },
+    {
+      "id": "6.1-08",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Secondo la tabella %1RM-ripetizioni, quante ripetizioni sono possibili all'80% dell'1RM?",
+      "options": [
+        "9",
+        "8",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "Slide 10: nella tabella l'80% dell'1RM corrisponde a 8 ripetizioni possibili in una serie al massimo sforzo."
+    },
+    {
+      "id": "6.1-09",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Nella classificazione per zone, quale intervallo corrisponde al carico moderato?",
+      "options": [
+        "8-15 ripetizioni massime",
+        "16-20 ripetizioni massime",
+        "6-12 ripetizioni massime",
+        "1-5 ripetizioni massime"
+      ],
+      "answer": 2,
+      "explanation": "Slide 11: pesante 1-5 ripetizioni, moderato 6-12, leggero oltre 15 ripetizioni massime."
+    },
+    {
+      "id": "6.1-10",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Quale stimolo, secondo la presentazione, è favorito soprattutto dal carico leggero (15+ ripetizioni)?",
+      "options": [
+        "Lo stress metabolico",
+        "Lo sviluppo della forza",
+        "Lo stress tendineo",
+        "Lo sforzo esplosivo"
+      ],
+      "answer": 0,
+      "explanation": "Slide 12: il carico pesante è ottimo per la tensione meccanica, quello leggero è buono per lo stress metabolico."
+    },
+    {
+      "id": "6.1-11",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Entro quale intervallo di ripetizioni massime può verificarsi l'ipertrofia, secondo la slide?",
+      "options": [
+        "1-20 ripetizioni massime",
+        "6-12 ripetizioni massime",
+        "12-30 ripetizioni massime",
+        "1-5 ripetizioni massime"
+      ],
+      "answer": 0,
+      "explanation": "Slide 13: i carichi associati a un intervallo di 1-20 ripetizioni massime potrebbero potenzialmente massimizzare la risposta ipertrofica."
+    },
+    {
+      "id": "6.1-12",
+      "presentation": "6.1",
+      "unit": 6,
+      "question": "Con quali carichi l'allenamento al cedimento può essere più importante, secondo la presentazione?",
+      "options": [
+        "Con carichi moderati",
+        "Con carichi leggeri",
+        "Con carichi pesanti",
+        "Con carichi massimali"
+      ],
+      "answer": 1,
+      "explanation": "Slide 14: con carichi leggeri le unità motorie di ordine superiore non sono stimolate pienamente se non si spinge il muscolo ai limiti."
+    },
+    {
+      "id": "7.1-01",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Quali sono i due sollevamenti eseguiti nel sollevamento pesi olimpico?",
+      "options": [
+        "Squat e girata",
+        "Strappo e slancio",
+        "Girata e stacco",
+        "Strappo e stacco"
+      ],
+      "answer": 1,
+      "explanation": "Slide 4: nel weightlifting l'atleta esegue 2 sollevamenti con bilanciere, lo strappo (snatch) e lo slancio (clean and jerk)."
+    },
+    {
+      "id": "7.1-02",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Perché le alzate olimpiche non sono adatte a tutti gli atleti, secondo la presentazione?",
+      "options": [
+        "Richiederebbero troppo tempo per l'apprendimento",
+        "Richiederebbero attrezzature troppo costose",
+        "Richiederebbero carichi sempre vicini al massimale",
+        "Richiederebbero una corporatura tipica dei pesisti"
+      ],
+      "answer": 0,
+      "explanation": "Slide 4: sono schemi motori molto complessi che richiedono molte ore di pratica, quindi troppo tempo per l'apprendimento."
+    },
+    {
+      "id": "7.1-03",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Con il test dell'apertura alare, quando le braccia sono considerate più corte del normale?",
+      "options": [
+        "Quando l'apertura alare coincide con l'altezza in piedi",
+        "Quando l'apertura alare supera l'altezza in piedi",
+        "Quando l'apertura alare è inferiore all'altezza in piedi",
+        "Quando l'apertura alare e l'altezza in piedi non coincidono"
+      ],
+      "answer": 2,
+      "explanation": "Slide 6: apertura uguale all'altezza è normale, inferiore indica braccia più corte, maggiore braccia più lunghe."
+    },
+    {
+      "id": "7.1-04",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Quale corporatura è generalmente favorevole per il sollevamento pesi?",
+      "options": [
+        "Gambe corte e busto lungo",
+        "Gambe lunghe e busto compatto",
+        "Gambe lunghe e busto medio",
+        "Gambe medie e busto corto"
+      ],
+      "answer": 0,
+      "explanation": "Slide 6: una corporatura favorevole richiede gambe corte e busto lungo, per un vantaggio meccanico e tecnico."
+    },
+    {
+      "id": "7.1-05",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Secondo la slide, cosa caratterizza avambracci e gambe del sollevatore ideale?",
+      "options": [
+        "Avambracci lunghi e sottili, gambe corte e robuste",
+        "Avambracci corti e sottili, gambe lunghe e robuste",
+        "Avambracci lunghi e spessi, gambe lunghe e robuste",
+        "Avambracci corti e spessi, gambe vicine al suolo"
+      ],
+      "answer": 3,
+      "explanation": "Slide 5: i sollevatori hanno bisogno di avambracci più corti e spessi e gambe il più possibile vicine al suolo."
+    },
+    {
+      "id": "7.1-06",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Con quale screening si dovrebbero valutare mobilità e stabilità prima delle alzate complete?",
+      "options": [
+        "L'affondo frontale",
+        "L'overhead press",
+        "L'appoggio singolo",
+        "L'overhead squat"
+      ],
+      "answer": 3,
+      "explanation": "Slide 7: le limitazioni di mobilità e stabilità dovrebbero essere valutate con lo screening dell'overhead squat e test simili."
+    },
+    {
+      "id": "7.1-07",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Quale non è uno dei tre criteri per autorizzare girata e strappo completi?",
+      "options": [
+        "Limitare l'inclinazione del busto durante lo squat",
+        "Scendere fino alla posizione di accosciata profonda",
+        "Tenere le braccia sempre sopra la testa",
+        "Sollevare almeno il proprio peso corporeo"
+      ],
+      "answer": 3,
+      "explanation": "Slide 8: i tre criteri sono squat profondo, busto senza eccessiva inclinazione in avanti e braccia sempre sopra la testa."
+    },
+    {
+      "id": "7.1-08",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Qual è una modifica comune per chi non soddisfa i tre criteri?",
+      "options": [
+        "Usare le varianti eseguite con un braccio",
+        "Usare le versioni di potenza delle alzate",
+        "Usare le varianti con una presa più stretta",
+        "Usare le varianti con fermo in accosciata"
+      ],
+      "answer": 1,
+      "explanation": "Slide 8: nelle versioni di potenza il bilanciere si incastra più in alto, senza squat profondo né overhead squat."
+    },
+    {
+      "id": "7.1-09",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Nella tabella, quale disciplina ha la frequenza di infortunio più alta per 1.000 ore?",
+      "options": [
+        "Pesistica",
+        "CrossFit",
+        "Strongman",
+        "Culturismo"
+      ],
+      "answer": 2,
+      "explanation": "Slide 9: lo strongman (Winwood) ha 5,50 infortuni per 1.000 ore, il valore più alto della tabella."
+    },
+    {
+      "id": "7.1-10",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Che risultato ha mostrato Hoffman con un programma di alzate olimpiche di otto settimane?",
+      "options": [
+        "Superiore alla pliometria nel miglioramento della velocità di sprint",
+        "Superiore al powerlifting nel miglioramento della forza massima",
+        "Superiore all'allenamento di forza tradizionale nella potenza del salto",
+        "Superiore allo squat nel miglioramento della resistenza muscolare"
+      ],
+      "answer": 2,
+      "explanation": "Slide 10: Hoffman e colleghi hanno mostrato che 8 settimane di alzate olimpiche superavano la forza tradizionale nel migliorare la potenza del salto."
+    },
+    {
+      "id": "7.1-11",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Perché le alzate olimpiche possono essere più specifiche dello squat per lo sport?",
+      "options": [
+        "Sono balistiche: la parte più veloce è alla fine della tripla estensione",
+        "Sono più intense: si eseguono con carichi maggiori a parità di ripetizioni",
+        "Sono parziali: la spinta si completa senza estendere le caviglie",
+        "Sono selettive: la spinta nasce soprattutto dai muscoli delle braccia"
+      ],
+      "answer": 0,
+      "explanation": "Slide 12: nello squat si decelera il bilanciere alla fine, mentre nelle alzate la fase più veloce è alla fine della tripla estensione."
+    },
+    {
+      "id": "7.1-12",
+      "presentation": "7.1",
+      "unit": 7,
+      "question": "Secondo le linee guida NSCA citate, sotto quale età i bambini dovrebbero fare solo allenamenti adeguati all'età?",
+      "options": [
+        "Sotto i sei anni",
+        "Sotto i sette anni",
+        "Sotto i nove anni",
+        "Sotto gli undici anni"
+      ],
+      "answer": 1,
+      "explanation": "Slide 13: le linee guida NSCA indicano che sotto i sette anni i bambini dovrebbero fare solo allenamenti adeguati all'età."
+    }
+  ]
+}

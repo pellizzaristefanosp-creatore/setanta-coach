@@ -1,0 +1,175 @@
+{
+ "code": "3.3",
+ "order": [
+  {
+   "title": "Dall'uovo scelto alla regina che depone",
+   "steps": [
+    "Scegli la famiglia madre migliore",
+    "Fai il traslarvo nei cupolini",
+    "Metti le larve nel nucleo starter",
+    "L'alveare di allevamento finisce le celle",
+    "Tieni al caldo le celle opercolate",
+    "Sposta ogni cella in un nucleo",
+    "La regina fa i voli nuziali e depone"
+   ],
+   "slide": 4
+  },
+  {
+   "title": "Il codice dei colori, dall'1 al 5",
+   "steps": [
+    "Bianco: anni che finiscono con 1",
+    "Giallo: anni che finiscono con 2",
+    "Rosso: anni che finiscono con 3",
+    "Verde: anni che finiscono con 4",
+    "Blu: anni che finiscono con 5"
+   ],
+   "slide": 6
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi metti in una famiglia orfana",
+    "Accolgo le larve appena traslarvate",
+    "Ho tante nutrici piene di pappa reale"
+   ],
+   "answer": "Nucleo starter",
+   "distractors": [
+    "Nucleo di fecondazione",
+    "Melario",
+    "Nucleo orfano debole"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi usi con mano ferma e leggera",
+    "Ho una punta sottile e morbida",
+    "Sposto le larve nei cupolini"
+   ],
+   "answer": "Ago da traslarvo",
+   "distractors": [
+    "Pennello da api",
+    "Spazzolino morbido",
+    "Coltello disopercolatore"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi metti sul torace della regina",
+    "Cambio colore ogni anno",
+    "Ti dico l'anno di nascita"
+   ],
+   "answer": "Puntino di marcatura",
+   "distractors": [
+    "Numero di arnia",
+    "Nastrino del telaino",
+    "Cartellino del nucleo"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Mi trovi in fondo alle celle",
+    "Sono piccolo, bianco e dritto",
+    "Ti dico che la regina c'è"
+   ],
+   "answer": "Uovo fresco",
+   "distractors": [
+    "Bozzolo",
+    "Opercolo",
+    "Cupolino"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Viaggio con la regina per posta",
+    "Mi chiudo con un tappo di candito",
+    "Aiuto le api ad accettarla piano"
+   ],
+   "answer": "Gabbietta",
+   "distractors": [
+    "Cassetta",
+    "Nutritore",
+    "Portasciami"
+   ],
+   "slide": 7
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La regina è la madre di tutte le api della famiglia.",
+   "true": true,
+   "why": "Operaie e fuchi nascono tutti dalle sue uova.",
+   "slide": 1
+  },
+  {
+   "text": "I profumi della regina non hanno nessun effetto sulle api.",
+   "true": false,
+   "why": "Tengono unita la famiglia e frenano sciamatura e operaie ovificatrici.",
+   "slide": 1
+  },
+  {
+   "text": "Le regine venute da lontano sono sempre migliori di quelle locali.",
+   "true": false,
+   "why": "Una prova europea ha visto che le regine locali vivevano più a lungo.",
+   "slide": 2
+  },
+  {
+   "text": "Nel traslarvo si scelgono larve appena uscite dall'uovo.",
+   "true": true,
+   "why": "Più giovane è la larva, più diventa una regina ben fatta.",
+   "slide": 3
+  },
+  {
+   "text": "Se giri una larva durante il traslarvo, va bene lo stesso.",
+   "true": false,
+   "why": "Meglio lasciarla e prenderne un'altra: deve restare com'era.",
+   "slide": 3
+  },
+  {
+   "text": "Il nucleo starter è una famiglia senza regina.",
+   "true": true,
+   "why": "Orfano e pieno di nutrici, accetta e nutre bene le larve.",
+   "slide": 4
+  },
+  {
+   "text": "La prima regina nata può uccidere le sorelle ancora chiuse.",
+   "true": true,
+   "why": "Per questo le celle si spostano nei nuclei prima della nascita.",
+   "slide": 4
+  },
+  {
+   "text": "La regina si accoppia con un solo fuco per tutta la vita.",
+   "true": false,
+   "why": "Si accoppia con molti fuchi, durante i voli nuziali.",
+   "slide": 5
+  },
+  {
+   "text": "Una famiglia con tanti padri cresce di più e sverna meglio.",
+   "true": true,
+   "why": "Lo ha mostrato un esperimento con 15 padri contro uno solo.",
+   "slide": 5
+  },
+  {
+   "text": "Una regina nata nel 2026 si marca di bianco.",
+   "true": true,
+   "why": "Il bianco vale per gli anni che finiscono con 1 o 6.",
+   "slide": 6
+  },
+  {
+   "text": "Il puntino di marcatura si mette sulla testa della regina.",
+   "true": false,
+   "why": "Si mette sul torace, mai su testa, ali o addome.",
+   "slide": 6
+  },
+  {
+   "text": "Tutte le regine in vendita hanno la stessa qualità.",
+   "true": false,
+   "why": "Uno studio ha trovato differenze tra un allevatore e l'altro.",
+   "slide": 7
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "version": 1,
+ "code": "6.5",
+ "unit": 6,
+ "title": "Il collasso dell'alveare",
+ "pages": "317–322",
+ "summary": "Scopri che cosa vuol dire collasso dell'alveare e perché i due grandi indiziati sono Nosema ceranae e l'acaro Varroa. Impari che oggi la scienza vede più cause insieme e che la prevenzione quotidiana è la tua arma migliore.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Che cosa vuol dire collasso",
+   "narration": "Ciao Enrica! Oggi parliamo di una cosa che spaventa tutti gli apicoltori: il collasso dell'alveare. Collasso vuol dire che la famiglia muore? Sì, ma in un modo strano. Le api adulte spariscono in poco tempo. Apri l'arnia e trovi la regina, un po' di covata, il miele, ma quasi nessuna operaia. E le api morte dove sono? Sul fondo? Ecco il mistero: davanti all'arnia se ne vedono pochissime. Il nome inglese è Colony Collapse Disorder, ed è nato negli Stati Uniti verso il 2006. Come mai se ne parlò tanto proprio allora? Perché in due inverni di fila molti apicoltori americani persero tantissime famiglie, senza capire il perché. Secondo te, gli scienziati hanno trovato un solo colpevole? Immagino di no, sennò non sarebbe ancora un mistero. Forse le cause sono più di una. Hai indovinato. Hanno misurato tantissime cose e nessuna, da sola, spiegava tutto. Ma le api delle famiglie collassate avevano più malattie insieme. Come quando uno è stanco, mangia male e prende un raffreddore: tutto insieme lo butta giù. Bel paragone. Comunque, nella ricerca sono emersi due grandi indiziati: un parassita dell'intestino, Nosema ceranae, e l'acaro Varroa. Li vediamo uno alla volta? Sì. E alla fine parleremo della cosa più importante: come prevenire, perché lì puoi fare tanto anche tu.",
+   "keyPoints": [
+    "Le api adulte spariscono in poco tempo",
+    "Nell'arnia restano regina, covata e scorte",
+    "Intorno si vedono poche api morte",
+    "Il nome nasce negli Stati Uniti, verso il 2006",
+    "Non c'è una sola causa"
+   ],
+   "analogy": "È come una casa che una mattina trovi con la tavola apparecchiata e il frigo pieno, ma senza nessuno dentro: la domanda è dove sono andati tutti.",
+   "check": {
+    "question": "Che cosa trovi di solito in un'arnia colpita dal collasso?",
+    "options": [
+     "Tante api morte sul fondo e niente miele",
+     "Favi rotti e covata mangiata dalle larve",
+     "Api arrabbiate che pungono più del solito",
+     "Poche api adulte, ma regina e scorte ancora lì"
+    ],
+    "answer": 3,
+    "explanation": "Le api adulte spariscono; restano regina, covata e scorte, con poche api morte intorno."
+   },
+   "science": {
+    "text": "Un grande studio negli Stati Uniti ha confrontato famiglie collassate e famiglie sane, misurando 61 fattori. Nessuno, da solo, spiegava il collasso. Le api delle famiglie collassate però avevano più malattie insieme: segno che più problemi agiscono uniti.",
+    "source": "vanEngelsdorp et al. 2009, PLoS ONE",
+    "url": "https://doi.org/10.1371/journal.pone.0006481"
+   },
+   "tip": "Se trovi un'arnia quasi vuota con scorte e covata, non buttare niente. Annota cosa vedi, fai foto e chiedi consiglio al veterinario o all'associazione."
+  },
+  {
+   "slide": 2,
+   "title": "Il primo indiziato: Nosema ceranae",
+   "narration": "Primo indiziato: Nosema ceranae. È un parassita piccolissimo, si vede solo al microscopio. È parente dei funghi. E da dove viene? Dall'ape asiatica, Apis cerana, da cui prende il nome. Poi è passato alla nostra ape e oggi si trova in quasi tutto il mondo. E dove si nasconde nell'ape? Nell'intestino delle api adulte. Rovina le cellule che servono a digerire, così l'ape vive meno e lavora peggio. E come passa da un'ape all'altra? Con le spore, cioè piccoli semi del parassita, che finiscono nel cibo, nell'acqua e negli escrementi. Le api pulendo le ingoiano. Secondo te, perché è così difficile accorgersi di nosema? Forse perché all'inizio non si vede niente: le api sembrano normali. Esatto. In Spagna hanno visto famiglie stare bene a lungo e poi crollare d'improvviso, quando la regina non riusciva più a rimpiazzare le api perse. E c'è una medicina? In Italia e in Europa oggi non c'è nessun farmaco autorizzato contro nosema. Per questo conta tanto la buona gestione. Allora famiglie forti, buone scorte e pulizia. Brava. E se hai un dubbio, porti un campione di api a un laboratorio: al microscopio vedono le spore.",
+   "keyPoints": [
+    "Parassita microscopico, parente dei funghi",
+    "Viene dall'ape asiatica, Apis cerana",
+    "Vive nell'intestino delle api adulte",
+    "Spesso agisce in silenzio, senza segni chiari",
+    "In Italia non ci sono farmaci autorizzati"
+   ],
+   "analogy": "È come un tarlo nel mobile: da fuori sembra tutto a posto, ma dentro rovina piano piano, finché un giorno il mobile cede.",
+   "check": {
+    "question": "Dove vive Nosema ceranae nel corpo dell'ape?",
+    "options": [
+     "Sulle ali, tra le venature sottili",
+     "Nell'intestino, dentro le sue cellule",
+     "Nelle zampe, vicino ai cestelli del polline",
+     "Negli occhi, dove rovina la vista"
+    ],
+    "answer": 1,
+    "explanation": "È un parassita dell'intestino delle api adulte."
+   },
+   "science": {
+    "text": "In Spagna i ricercatori hanno seguito famiglie infettate in modo naturale da Nosema ceranae. Per molto tempo non si vedevano segni. Poi, quando la regina non riusciva più a rimpiazzare le api che morivano, la famiglia crollava d'improvviso.",
+    "source": "Higes et al. 2008, Environmental Microbiology",
+    "url": "https://doi.org/10.1111/j.1462-2920.2008.01687.x"
+   },
+   "tip": "Contro nosema conta la buona gestione: famiglie forti, scorte di miele e polline, acqua pulita, favi vecchi cambiati. Per un controllo, porta un campione di api a un laboratorio."
+  },
+  {
+   "slide": 3,
+   "title": "Il secondo indiziato: l'acaro Varroa",
+   "narration": "Secondo indiziato: la varroa. È un acaro, cioè un parente piccolissimo dei ragni, grande come una capocchia di spillo. E anche lei viene dall'Asia? Sì, anche lei viveva sull'ape asiatica. Poi è passata alla nostra ape, che non sa difendersi bene. E cosa fa alle api? La femmina entra nelle celle di covata poco prima che le api le chiudano. Lì depone le uova e i piccoli acari crescono insieme all'ape. Quindi l'ape nasce già indebolita. Proprio così. La varroa si nutre dell'ape. E c'è di peggio: le passa dei virus, come quello delle ali deformi. Ali deformi? Le api nascono con le ali rovinate? Sì, accartocciate. Non possono volare e muoiono presto. Senza controllo, una famiglia piena di varroa muore in pochi anni. Secondo te, oggi la scienza dà tutta la colpa alla varroa? Credo di no. Dopo il discorso di prima, penso che conti la somma di tanti problemi. Brava. Varroa e virus, nosema, pesticidi, poca varietà di fiori, il clima che cambia: insieme pesano molto di più. Come uno zaino: ogni sasso da solo è leggero, ma tutti insieme ti piegano la schiena. Bellissimo. E la varroa è il sasso più grosso, quello che un apicoltore deve togliere per primo.",
+   "keyPoints": [
+    "Varroa è un acaro, parente dei ragni",
+    "Si riproduce nelle celle di covata chiuse",
+    "Indebolisce le api e porta virus",
+    "Il virus delle ali deformi viaggia con lei",
+    "Oggi si parla di tante cause insieme"
+   ],
+   "analogy": "La varroa è come una zanzara che punge e intanto porta una malattia: il morso fa male, ma la malattia che lascia fa ancora peggio.",
+   "check": {
+    "question": "Perché la varroa è così pericolosa per la famiglia?",
+    "options": [
+     "Perché indebolisce le api e porta virus",
+     "Perché mangia il miele delle scorte",
+     "Perché rompe la cera dei favi nuovi",
+     "Perché uccide subito la regina"
+    ],
+    "answer": 0,
+    "explanation": "Si nutre delle api e trasmette virus come quello delle ali deformi."
+   },
+   "science": {
+    "text": "Studiando il virus delle ali deformi in tutto il mondo, i ricercatori hanno visto che si è diffuso di recente, insieme alla varroa e al commercio di api. L'acaro gli ha aperto una strada diretta da un'ape all'altra: un'epidemia causata dall'uomo.",
+    "source": "Wilfert et al. 2016, Science",
+    "url": "https://doi.org/10.1126/science.aac9976"
+   },
+   "tip": "Durante le visite guarda le api appena nate: ali accartocciate e corpo piccolo sono un campanello d'allarme di molta varroa e virus."
+  },
+  {
+   "slide": 4,
+   "title": "La prevenzione, un atto fondamentale",
+   "narration": "Siamo all'ultima parte, la più importante: la prevenzione. Qui il lavoro è tutto nelle tue mani. Da dove comincio? Dalla varroa. Va contata con regolarità, per esempio guardando quante ne cadono sul fondo dell'arnia, su un foglio apposta. Secondo te, perché contare e non trattare e basta? Perché così so quante ce ne sono, e capisco quando serve trattare e se il trattamento ha funzionato. Perfetto. Per trattare si usano prodotti autorizzati, per esempio con acido ossalico, acido formico, timolo o amitraz. E le dosi? Le dosi le leggi sull'etichetta e le decidi con il veterinario. Mai a occhio. E ogni trattamento va scritto nel registro, come vuole la legge. E oltre alla varroa? Famiglie forti, regine giovani, scorte sufficienti. E polline di tanti fiori diversi: un'alimentazione varia aiuta le difese delle api. Come noi con la frutta e la verdura di stagione. Esatto. Poi cambia i favi vecchi e scuri, che accumulano spore e residui, e tieni pulite le attrezzature. E se un giorno trovo tante api morte davanti all'arnia? Raccogli un campione, fai foto e avvisa subito il Servizio veterinario dell'ASL. Potrebbe essere un avvelenamento o una malattia. Per le regole, chiedi sempre all'ASL o all'associazione.",
+   "keyPoints": [
+    "Controlla la varroa con regolarità",
+    "Tratta con prodotti autorizzati, seguendo l'etichetta",
+    "Scrivi i trattamenti nel registro",
+    "Famiglie forti, regine giovani, scorte e polline vario",
+    "Segnala morie strane all'ASL"
+   ],
+   "analogy": "È come la salute in famiglia: mangiare bene, fare i controlli e tenere un diario dal medico vale più di mille cure all'ultimo momento.",
+   "check": {
+    "question": "Perché è utile un quaderno per ogni arnia?",
+    "options": [
+     "Per ricordare il nome della regina di ogni anno",
+     "Per vendere le arnie a un prezzo più alto",
+     "Per vedere in tempo quando qualcosa cambia",
+     "Per non dover più visitare le arnie d'estate"
+    ],
+    "answer": 2,
+    "explanation": "Annotare forza, covata, varroa e trattamenti ti fa notare presto i problemi."
+   },
+   "science": {
+    "text": "Una revisione molto citata spiega che le api soffrono per più stress insieme: parassiti, pesticidi e pochi fiori. I pesticidi possono indebolire le difese e rendere le api più fragili ai parassiti. Ridurre ogni stress, anche piccolo, è la scelta più saggia.",
+    "source": "Goulson et al. 2015, Science",
+    "url": "https://doi.org/10.1126/science.1255957"
+   },
+   "tip": "Tieni un quaderno per ogni arnia: data, forza, covata, scorte, varroa contata, trattamento fatto. Così vedi subito quando qualcosa cambia."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Che cosa vuol dire collasso dell'alveare?",
+   "back": "Le api adulte spariscono; restano regina, covata e scorte.",
+   "part": 0
+  },
+  {
+   "front": "Dove è nato il nome Colony Collapse Disorder?",
+   "back": "Negli Stati Uniti, verso il 2006.",
+   "part": 0
+  },
+  {
+   "front": "Il collasso ha una sola causa?",
+   "back": "No, più problemi agiscono insieme.",
+   "part": 0
+  },
+  {
+   "front": "Che cos'è Nosema ceranae?",
+   "back": "Un parassita microscopico dell'intestino delle api, parente dei funghi.",
+   "part": 1
+  },
+  {
+   "front": "Da quale ape viene Nosema ceranae?",
+   "back": "Dall'ape asiatica, Apis cerana.",
+   "part": 1
+  },
+  {
+   "front": "Ci sono farmaci autorizzati contro nosema in Italia?",
+   "back": "No: conta la buona gestione.",
+   "part": 1
+  },
+  {
+   "front": "Dove si riproduce la varroa?",
+   "back": "Nelle celle di covata chiuse.",
+   "part": 2
+  },
+  {
+   "front": "Quale virus trasmette la varroa?",
+   "back": "Per esempio il virus delle ali deformi.",
+   "part": 2
+  },
+  {
+   "front": "Dove scrivi i trattamenti contro la varroa?",
+   "back": "Nel registro dei trattamenti, come vuole la legge.",
+   "part": 3
+  },
+  {
+   "front": "Chi avvisi se trovi una moria strana?",
+   "back": "Il Servizio veterinario dell'ASL.",
+   "part": 3
+  }
+ ],
+ "questions": [
+  {
+   "question": "Quale segno fa pensare a un collasso e non a un saccheggio?",
+   "options": [
+    "Cera strappata e api che lottano all'ingresso",
+    "Tante api morte ammucchiate sul predellino",
+    "Scorte di miele ancora intatte nei favi",
+    "Larve bianche che strisciano sul fondo"
+   ],
+   "answer": 2,
+   "explanation": "Nel collasso le scorte restano; nel saccheggio il miele viene portato via.",
+   "part": 0
+  },
+  {
+   "question": "Che cosa ha trovato il grande studio americano sulle famiglie collassate?",
+   "options": [
+    "Che avevano più malattie insieme",
+    "Che erano tutte vicino a campi di mais",
+    "Che avevano regine molto vecchie",
+    "Che erano state trattate troppo poco"
+   ],
+   "answer": 0,
+   "explanation": "Nessun fattore da solo spiegava il collasso, ma c'erano più malattie insieme.",
+   "part": 0
+  },
+  {
+   "question": "In quale Paese si è cominciato a parlare di collasso dell'alveare?",
+   "options": [
+    "In Spagna e Portogallo",
+    "Negli Stati Uniti",
+    "In Australia del Sud",
+    "In Cina orientale"
+   ],
+   "answer": 1,
+   "explanation": "Negli Stati Uniti, dopo grandi perdite invernali verso il 2006.",
+   "part": 0
+  },
+  {
+   "question": "Come passa Nosema ceranae da un'ape all'altra?",
+   "options": [
+    "Con il volo, quando le api si toccano in aria",
+    "Con il veleno, quando un'ape punge un'altra",
+    "Con il polline, quando i fiori sono bagnati",
+    "Con le spore, nel cibo, nell'acqua e negli escrementi"
+   ],
+   "answer": 3,
+   "explanation": "Le spore finiscono nel cibo e negli escrementi; le api le ingoiano pulendo.",
+   "part": 1
+  },
+  {
+   "question": "Perché una famiglia con nosema può crollare all'improvviso?",
+   "options": [
+    "Perché la regina non riesce più a rimpiazzare le api perse",
+    "Perché il parassita uccide tutte le api nello stesso giorno",
+    "Perché le api scappano appena sentono l'odore del parassita",
+    "Perché il miele diventa velenoso e le api non lo mangiano"
+   ],
+   "answer": 0,
+   "explanation": "Le api muoiono piano piano; quando la regina non tiene il passo, la famiglia cede.",
+   "part": 1
+  },
+  {
+   "question": "Come si scopre con sicurezza se le api hanno nosema?",
+   "options": [
+    "Guardando il colore del miele nei favi",
+    "Contando le api sul predellino al mattino",
+    "Portando un campione di api a un laboratorio",
+    "Annusando l'odore dell'arnia durante la visita"
+   ],
+   "answer": 2,
+   "explanation": "Al microscopio, in laboratorio, si vedono le spore.",
+   "part": 1
+  },
+  {
+   "question": "Dove depone le uova la femmina di varroa?",
+   "options": [
+    "Sul fondo dell'arnia, tra i detriti",
+    "Nei favi di miele, sotto gli opercoli",
+    "Sulle ali delle bottinatrici in volo",
+    "Nelle celle di covata prima che si chiudano"
+   ],
+   "answer": 3,
+   "explanation": "Entra nelle celle di covata poco prima che le api le opercolino.",
+   "part": 2
+  },
+  {
+   "question": "Che cosa vedi nelle api colpite dal virus delle ali deformi?",
+   "options": [
+    "Ali lucide e molto più lunghe",
+    "Ali accartocciate e corpo piccolo",
+    "Ali colorate di rosso e di nero",
+    "Ali normali ma zampe senza peli"
+   ],
+   "answer": 1,
+   "explanation": "Le ali sono accartocciate: l'ape non vola e muore presto.",
+   "part": 2
+  },
+  {
+   "question": "Come vede oggi la scienza le perdite di famiglie di api?",
+   "options": [
+    "Come effetto di un solo virus nuovo",
+    "Come colpa di un solo pesticida",
+    "Come somma di tante cause insieme",
+    "Come conseguenza del solo freddo"
+   ],
+   "answer": 2,
+   "explanation": "Varroa e virus, nosema, pesticidi, pochi fiori e clima pesano insieme.",
+   "part": 2
+  },
+  {
+   "question": "Perché devi contare la varroa prima di trattare?",
+   "options": [
+    "Per sapere quando trattare e se ha funzionato",
+    "Per sapere quanto miele potrai vendere",
+    "Per scegliere il colore della nuova arnia",
+    "Per capire quanti anni ha la regina"
+   ],
+   "answer": 0,
+   "explanation": "Contare ti dice quando serve il trattamento e se è stato efficace.",
+   "part": 3
+  },
+  {
+   "question": "Chi decide le dosi di un prodotto contro la varroa?",
+   "options": [
+    "Il vicino che alleva api da più anni",
+    "Il negozio che vende i prodotti",
+    "L'apicoltore, a occhio, secondo l'esperienza",
+    "L'etichetta del prodotto e il veterinario"
+   ],
+   "answer": 3,
+   "explanation": "Segui sempre l'etichetta e il veterinario, mai dosi a occhio.",
+   "part": 3
+  },
+  {
+   "question": "Perché è meglio cambiare i favi vecchi e scuri?",
+   "options": [
+    "Perché le api non sanno più dove deporre",
+    "Perché accumulano spore e residui nel tempo",
+    "Perché il miele prende un colore troppo scuro",
+    "Perché diventano troppo pesanti da sollevare"
+   ],
+   "answer": 1,
+   "explanation": "La cera vecchia trattiene spore di malattie e residui: cambiarla è pulizia.",
+   "part": 3
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Un'arnia quasi vuota a fine inverno",
+   "prompt": "A fine inverno apri un'arnia: dentro c'è la regina con poche api, un po' di covata e tanto miele, ma davanti all'arnia quasi nessuna ape morta. Cosa fai?",
+   "modelAnswer": "Non butti via niente e non dai subito i favi ad altre famiglie, perché potrebbero portare malattie. Annoti tutto sul quaderno: forza, covata, scorte, data. Fai foto. Ripensi ai controlli della varroa e ai trattamenti dell'anno: se la varroa era alta o il trattamento è stato tardivo, è un indizio importante. Raccogli un campione di api e lo porti a un laboratorio, anche per cercare nosema. Chiedi consiglio al veterinario o all'associazione. Ricorda che di solito le cause sono più di una: varroa e virus, nosema, poco cibo, stress. Da quello che scopri, migliori la prevenzione per le altre arnie."
+  },
+  {
+   "title": "Api con le ali accartocciate",
+   "prompt": "A fine estate, durante la visita, vedi diverse api appena nate con le ali accartocciate che camminano sul favo senza volare. Cosa fai?",
+   "modelAnswer": "È un segno di virus delle ali deformi, che viaggia con la varroa: probabilmente gli acari sono tanti. Conti subito la varroa, per esempio con la caduta sul fondo dell'arnia. Poi parli con il veterinario e scegli un prodotto autorizzato, per esempio a base di acido ossalico, acido formico, timolo o amitraz, seguendo l'etichetta. Scrivi il trattamento nel registro. Controlli anche le altre arnie dell'apiario, perché la varroa passa da una famiglia all'altra. Dopo il trattamento conti di nuovo, per vedere se ha funzionato. Ti assicuri che la famiglia abbia scorte per l'inverno."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "code": "4.4",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Cosa devono fare le api per trasformare il nettare in miele?",
+   "options": [
+    "Aggiungere polline e farlo fermentare",
+    "Togliere tanta acqua e aggiungere enzimi",
+    "Mescolarlo con la cera e la propoli",
+    "Scaldarlo al sole fuori dall'arnia"
+   ],
+   "answer": 1,
+   "why": "Come la marmellata che si restringe: le api fanno evaporare l'acqua e con gli enzimi cambiano gli zuccheri."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Cosa fa l'apicoltore per ottenere un miele di una sola pianta?",
+   "options": [
+    "Mette il melario solo durante quella fioritura",
+    "Chiude le api in casa per tutta l'estate",
+    "Pianta un solo albero vicino all'arnia",
+    "Nutre le api con sciroppo profumato"
+   ],
+   "answer": 0,
+   "why": "Il melario si mette all'inizio della fioritura e si toglie appena finisce: così il miele è uniflorale."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Cosa fanno gli insetti con lo zucchero in più della linfa?",
+   "options": [
+    "Lo trasformano in cera per il nido",
+    "Lo conservano nella pancia per l'inverno",
+    "Lo buttano fuori in goccioline dolci",
+    "Lo restituiscono alla pianta di notte"
+   ],
+   "answer": 2,
+   "why": "La linfa ha tanto zucchero e poche proteine: lo zucchero in più esce come melata, che rende le foglie appiccicose."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "A cosa serve in laboratorio misurare la corrente nel miele?",
+   "options": [
+    "A scaldare il miele più in fretta",
+    "A togliere l'acqua in eccesso",
+    "A uccidere i lieviti nel vasetto",
+    "A capire se è melata o fiori"
+   ],
+   "answer": 3,
+   "why": "Il miele di melata ha più minerali e conduce meglio la corrente: è uno degli esami per riconoscerlo."
+  }
+ ]
+}

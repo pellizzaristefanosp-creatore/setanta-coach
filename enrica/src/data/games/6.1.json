@@ -1,0 +1,174 @@
+{
+ "code": "6.1",
+ "order": [
+  {
+   "title": "Sospetto di peste americana: cosa fai, in ordine",
+   "steps": [
+    "Noti tappi scuri, infossati e bucati",
+    "Fai la prova dello stecchino",
+    "Richiudi l'arnia e restringi la porticina",
+    "Non sposti favi né attrezzi",
+    "Chiami il veterinario della ASL",
+    "Segui le misure decise dal veterinario"
+   ],
+   "slide": 1
+  },
+  {
+   "title": "Moria di api: i passi giusti",
+   "steps": [
+    "Trovi tante api morte davanti all'arnia",
+    "Non butti via le api morte",
+    "Chiami subito il veterinario della ASL",
+    "Il veterinario preleva i campioni",
+    "L'Istituto Zooprofilattico fa le analisi"
+   ],
+   "slide": 6
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi trovi anche sul predellino, buttata fuori dalle api.",
+    "Nasco da un fungo e colpisco le larve.",
+    "Le larve che uccido sembrano gessetti."
+   ],
+   "answer": "covata calcificata",
+   "distractors": [
+    "peste europea",
+    "peste americana",
+    "covata a sacco"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Mi vedi solo al microscopio.",
+    "Depongo le uova dentro un tubo del respiro.",
+    "Abito nelle trachee delle api adulte."
+   ],
+   "answer": "Acarapis woodi",
+   "distractors": [
+    "Varroa destructor",
+    "Tropilaelaps",
+    "Aethina tumida"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Lascio fili di seta ovunque passo.",
+    "Scavo gallerie nei favi scuri.",
+    "Da grande volo di notte come una farfallina."
+   ],
+   "answer": "tarma della cera",
+   "distractors": [
+    "vespa velutina",
+    "Aethina tumida",
+    "formica argentina"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Mi hanno descritto prima nell'ape asiatica.",
+    "Abito nell'intestino delle api adulte.",
+    "Spesso non lascio macchie di diarrea."
+   ],
+   "answer": "Nosema ceranae",
+   "distractors": [
+    "Nosema apis",
+    "Ascosphaera apis",
+    "Acarapis woodi"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi mettono sui semi per difendere le piante.",
+    "Arrivo anche nel polline e nel nettare.",
+    "Dal 2018 in UE tre di noi non si usano all'aperto."
+   ],
+   "answer": "neonicotinoidi",
+   "distractors": [
+    "piretroidi",
+    "fungicidi",
+    "erbicidi"
+   ],
+   "slide": 6
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La peste americana colpisce soprattutto le api adulte.",
+   "true": false,
+   "why": "Colpisce la covata: le larve muoiono dopo la chiusura della cella.",
+   "slide": 1
+  },
+  {
+   "text": "Nell'UE non ci sono antibiotici autorizzati per le api.",
+   "true": true,
+   "why": "Contro la peste americana non si usano antibiotici: decide il veterinario dell'ASL.",
+   "slide": 1
+  },
+  {
+   "text": "In Italia la peste americana va denunciata al veterinario dell'ASL.",
+   "true": true,
+   "why": "È una malattia soggetta a denuncia: in caso di sospetto si avvisa subito l'ASL.",
+   "slide": 1
+  },
+  {
+   "text": "La peste europea colpisce di solito le larve nelle celle aperte.",
+   "true": true,
+   "why": "Le larve giovani si torcono e ingialliscono prima della chiusura della cella.",
+   "slide": 2
+  },
+  {
+   "text": "L'odore acido basta da solo per riconoscere la peste europea.",
+   "true": false,
+   "why": "L'odore è un indizio, ma per la diagnosi serve il laboratorio.",
+   "slide": 2
+  },
+  {
+   "text": "L'Acarapis woodi si vede bene a occhio nudo.",
+   "true": false,
+   "why": "È piccolissimo e vive nelle trachee: serve il microscopio.",
+   "slide": 3
+  },
+  {
+   "text": "Api che camminano senza volare possono avere cause diverse.",
+   "true": true,
+   "why": "Acari, virus o veleni danno segni simili: decide il laboratorio.",
+   "slide": 3
+  },
+  {
+   "text": "Il Nosema ceranae dà sempre tante macchie di diarrea.",
+   "true": false,
+   "why": "Spesso non ne dà: la famiglia si spopola piano piano.",
+   "slide": 4
+  },
+  {
+   "text": "L'ameba delle api colpisce i tubuli malpighiani.",
+   "true": true,
+   "why": "Sono gli organi che fanno da reni alle api adulte.",
+   "slide": 4
+  },
+  {
+   "text": "Il freddo uccide uova e larve della tarma della cera.",
+   "true": true,
+   "why": "Per questo i favi in magazzino si tengono al fresco o in congelatore.",
+   "slide": 5
+  },
+  {
+   "text": "Contro i topi si chiude del tutto la porticina in autunno.",
+   "true": false,
+   "why": "Si usa una griglia che lascia passare le api ma non il topo.",
+   "slide": 5
+  },
+  {
+   "text": "Segnalare una moria significa denunciare l'agricoltore vicino.",
+   "true": false,
+   "why": "La segnalazione serve a capire cosa è successo, non è un'accusa.",
+   "slide": 6
+  }
+ ]
+}

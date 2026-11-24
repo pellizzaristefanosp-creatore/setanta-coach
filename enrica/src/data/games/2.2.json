@@ -1,0 +1,173 @@
+{
+ "code": "2.2",
+ "order": [
+  {
+   "title": "Controllare il cassetto del fondo",
+   "steps": [
+    "Sfila il cassetto da dietro l'arnia",
+    "Guarda varroe, cera e polline caduti",
+    "Conta le varroe e annota il numero",
+    "Pulisci bene il cassetto",
+    "Rimettilo al suo posto sotto la rete"
+   ],
+   "slide": 4
+  },
+  {
+   "title": "Dal nucleo al melario",
+   "steps": [
+    "Metti il nucleo nel nido con il diaframma",
+    "Quando la famiglia cresce, sposta il diaframma",
+    "Aggiungi telaini fino a riempire il nido",
+    "All'arrivo delle fioriture, metti il melario",
+    "Se il melario si riempie, aggiungi il secondo"
+   ],
+   "slide": 3
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi preparano con le resine delle piante",
+    "Chiudo le fessure più strette dello spazio d'ape",
+    "Mi chiamano la colla delle api"
+   ],
+   "answer": "La propoli",
+   "distractors": [
+    "La cera",
+    "La pappa reale",
+    "La covata"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Scorro sotto una rete metallica",
+    "Raccolgo quello che cade dai favi",
+    "Mi sfili da dietro per contare le varroe"
+   ],
+   "answer": "Il cassetto",
+   "distractors": [
+    "Il melario",
+    "Il coprifavo",
+    "Il diaframma"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi sposti dentro il nido come una parete",
+    "Aiuto una famiglia piccola a stare al caldo",
+    "Stringo il nido ai soli telaini occupati"
+   ],
+   "answer": "Il diaframma",
+   "distractors": [
+    "Il melario",
+    "Il cassetto",
+    "Il coprifavo"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Porto stampato il disegno delle celle",
+    "Mi metti dentro il telaino",
+    "Guido le api a costruire un favo dritto"
+   ],
+   "answer": "Il foglio cereo",
+   "distractors": [
+    "Il telaino equatore",
+    "Il listello di legno",
+    "Il favo naturale"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Il mio nome viene da un abate francese",
+    "Le mie cassette sono piccole e stanno una sopra l'altra",
+    "Le cassette nuove le aggiungi sotto"
+   ],
+   "answer": "L'arnia Warré",
+   "distractors": [
+    "L'arnia top bar",
+    "L'arnia Dadant",
+    "L'arnia Langstroth"
+   ],
+   "slide": 6
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Lo spazio d'ape misura circa tra 6 e 9 millimetri.",
+   "true": true,
+   "why": "È il corridoio che le api lasciano libero tra le parti dell'arnia.",
+   "slide": 1
+  },
+  {
+   "text": "In uno spazio troppo largo le api mettono solo propoli.",
+   "true": false,
+   "why": "Negli spazi larghi costruiscono favi in più; la propoli va negli spazi stretti.",
+   "slide": 1
+  },
+  {
+   "text": "In natura le api vivono spesso nei tronchi cavi degli alberi.",
+   "true": true,
+   "why": "Le pareti spesse del tronco tengono la temperatura stabile.",
+   "slide": 2
+  },
+  {
+   "text": "Per le api è indifferente se l'arnia disperde calore.",
+   "true": false,
+   "why": "Scaldare la covata costa energia: più calore si perde, più fatica fanno.",
+   "slide": 2
+  },
+  {
+   "text": "La Dadant-Blatt da 12 telaini ha il nido più largo della 10.",
+   "true": true,
+   "why": "Ha due telaini in più, quindi è più larga e, piena, pesa di più.",
+   "slide": 3
+  },
+  {
+   "text": "Una famiglia piccola sta meglio in un nido enorme.",
+   "true": false,
+   "why": "Fatica a scaldarlo: meglio stringere il nido con il diaframma.",
+   "slide": 3
+  },
+  {
+   "text": "Il fondo a rete basta da solo a eliminare la varroa.",
+   "true": false,
+   "why": "Aiuta a ridurla, ma servono comunque i trattamenti, seguendo etichetta e veterinario.",
+   "slide": 4
+  },
+  {
+   "text": "Dal cassetto del fondo capisci qualcosa senza aprire l'arnia.",
+   "true": true,
+   "why": "Varroe, cera e polline caduti raccontano come sta la famiglia.",
+   "slide": 4
+  },
+  {
+   "text": "Gli studi hanno mostrato che la cella piccola frena la varroa.",
+   "true": false,
+   "why": "Le prove non hanno trovato questo effetto: i controlli restano necessari.",
+   "slide": 5
+  },
+  {
+   "text": "Nel telaino equatore le api costruiscono il favo senza foglio cereo.",
+   "true": true,
+   "why": "Si appoggiano al listello a metà altezza e fanno da sole le celle.",
+   "slide": 5
+  },
+  {
+   "text": "Nella top bar ogni favo pende da un listello di legno.",
+   "true": true,
+   "why": "Non c'è telaio intorno: il favo è attaccato solo in alto.",
+   "slide": 6
+  },
+  {
+   "text": "Nella Warré le cassette nuove si mettono sopra.",
+   "true": false,
+   "why": "Si aggiungono sotto, perché le api costruiscono dall'alto verso il basso.",
+   "slide": 6
+  }
+ ]
+}

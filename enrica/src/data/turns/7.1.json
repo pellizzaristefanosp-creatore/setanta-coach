@@ -1,0 +1,57 @@
+{
+ "code": "7.1",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Perché la mieleria deve essere un posto asciutto?",
+   "options": [
+    "Perché lo smielatore si arrugginisce",
+    "Perché il miele prende umidità e fermenta",
+    "Perché le api amano l'aria umida",
+    "Perché la cera si scioglie con l'umido"
+   ],
+   "answer": 1,
+   "why": "Il miele assorbe l'acqua dall'aria. Con troppa acqua, i lieviti lo fanno fermentare."
+  },
+  {
+   "part": 1,
+   "line": 2,
+   "question": "Perché le api chiudono la celletta con la cera solo a un certo punto?",
+   "options": [
+    "Perché la regina ha deposto l'uovo",
+    "Perché è arrivato il freddo dell'inverno",
+    "Perché il miele è maturo, con poca acqua",
+    "Perché la celletta è troppo vecchia"
+   ],
+   "answer": 2,
+   "why": "Le api asciugano il nettare ventilando. Quando è diventato miele maturo, chiudono la celletta."
+  },
+  {
+   "part": 2,
+   "line": 8,
+   "question": "A chi conviene chiedere le regole prima di vendere il miele?",
+   "options": [
+    "Al vicino che fa miele da anni",
+    "Al negozio che vende i vasetti",
+    "Al primo cliente del mercato",
+    "Alla ASL o all'associazione"
+   ],
+   "answer": 3,
+   "why": "Le regole dipendono dalla regione e cambiano negli anni: ASL e associazione sanno cosa vale oggi."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "Dove può nascere un pericolo per il miele in mieleria?",
+   "options": [
+    "Nei filtri rotti o nei vasetti scheggiati",
+    "Nel colore troppo scuro del miele",
+    "Nel profumo forte di alcuni mieli",
+    "Nel sapore dolce del miele maturo"
+   ],
+   "answer": 0,
+   "why": "Filtri rotti o vetro scheggiato possono lasciare pezzetti nel miele: sono punti da controllare."
+  }
+ ]
+}

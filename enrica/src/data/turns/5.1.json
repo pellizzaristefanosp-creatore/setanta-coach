@@ -1,0 +1,96 @@
+{
+ "code": "5.1",
+ "turns": [
+  {
+   "part": 0,
+   "line": 4,
+   "question": "Perché le api chiudono la celletta solo alla fine?",
+   "options": [
+    "Perché prima aspettano che arrivi il freddo",
+    "Perché prima devono deporre un uovo dentro",
+    "Perché prima asciugano il nettare fino a poca acqua",
+    "Perché prima aggiungono altro polline fresco"
+   ],
+   "answer": 2,
+   "why": "Il nettare è acquoso: le api lo asciugano con le ali e chiudono quando l'acqua è circa al 18 per cento."
+  },
+  {
+   "part": 1,
+   "line": 6,
+   "question": "Cosa succede se il melario senza api ha una fessura?",
+   "options": [
+    "Entrano api di altre famiglie a rubare il miele",
+    "Il miele si asciuga troppo e diventa durissimo",
+    "La regina sale nel melario e depone le uova",
+    "Le api della famiglia tornano su a difenderlo"
+   ],
+   "answer": 0,
+   "why": "Il miele senza difesa attira le api ladre: è il saccheggio. Per questo si chiude bene ogni buco."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Cosa ci guadagni a far scolare gli opercoli?",
+   "options": [
+    "Il polline che le api hanno messo sotto",
+    "Il miele che resta attaccato e cera pulita",
+    "L'acqua in più che toglie al miele maturo",
+    "Le uova di regina nascoste nella cera"
+   ],
+   "answer": 1,
+   "why": "Dagli opercoli scola altro miele, e la cera che resta è tra la più bella e pulita dell'alveare."
+  },
+  {
+   "part": 3,
+   "line": 8,
+   "question": "Cosa fanno le bollicine d'aria nel miele fermo nel maturatore?",
+   "options": [
+    "Scendono sul fondo e si fermano lì",
+    "Si sciolgono nel miele e spariscono",
+    "Diventano cristalli di zucchero duri",
+    "Salgono in alto, più leggere del miele"
+   ],
+   "answer": 3,
+   "why": "L'aria è più leggera del miele: le bolle e la cera salgono e formano la schiuma da togliere."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Dove tieni i vasetti pieni di miele?",
+   "options": [
+    "Vicino al forno, così resta bello liquido",
+    "Al sole sulla finestra, così prende luce",
+    "In un armadio fresco e buio, lontano dal caldo",
+    "In cantina umida, con il coperchio aperto"
+   ],
+   "answer": 2,
+   "why": "Il caldo fa scurire il miele e fa salire l'HMF; al fresco e al buio il miele si conserva bene."
+  },
+  {
+   "part": 5,
+   "line": 4,
+   "question": "Un miele con tanto fruttosio cristallizza presto o tardi?",
+   "options": [
+    "Presto, perché il fruttosio indurisce subito",
+    "Tardi, perché il glucosio che cristallizza è poco",
+    "Presto, perché il fruttosio attira l'umidità",
+    "Mai, perché il fruttosio non cambia nel tempo"
+   ],
+   "answer": 1,
+   "why": "I cristalli li fa il glucosio. Con tanto fruttosio e poco glucosio il miele resta liquido a lungo, come l'acacia."
+  },
+  {
+   "part": 6,
+   "line": 4,
+   "question": "Cosa fanno le api che sentono il profumo di miele dalla finestra?",
+   "options": [
+    "Restano lontane perché hanno paura dell'uomo",
+    "Tornano subito all'arnia per difenderla",
+    "Volano via verso i fiori più vicini",
+    "Arrivano in tante e chiamano le compagne"
+   ],
+   "answer": 3,
+   "why": "Il profumo è un richiamo: arrivano, trovano il bottino e chiamano altre api. Per questo si lavora chiusi."
+  }
+ ]
+}

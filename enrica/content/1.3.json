@@ -1,0 +1,758 @@
+{
+  "code": "1.3",
+  "unit": 1,
+  "title": "Un'apicoltura di tutela e qualità",
+  "pages": "27–30",
+  "summary": "Scopri perché l'apicoltore oggi è un custode delle api e non solo chi raccoglie il miele. Vedi il valore dell'ape italiana e delle api locali, dell'impollinazione e di una cura delle api rispettosa e ragionata.",
+  "parts": [
+    {
+      "title": "L'apicoltore come custode",
+      "keyPoints": [
+        "In Europa le colonie davvero selvatiche sono poche",
+        "Oggi le api da miele vivono soprattutto con l'apicoltore",
+        "Custodire vuol dire curare la colonia, non solo raccogliere",
+        "Ogni scelta in apiario pesa sulla salute delle api"
+      ],
+      "analogy": "L'apicoltore è come chi custodisce l'orto di famiglia: raccoglie i frutti, ma prima pensa alla terra, all'acqua e alle piante, perché l'orto duri anni.",
+      "tip": "Tieni un quaderno dell'apiario: data, colonia, cosa hai visto, cosa hai fatto. È il primo strumento del custode, e ti aiuta a chiedere consiglio con dati veri.",
+      "science": {
+        "text": "Un grande studio genetico in Europa, Africa e Asia centrale ha trovato che in Europa le api selvatiche sono rare: la densità di colonie somiglia al numero di arnie gestite. Gli autori concludono che l'apicoltura va vista anche come una parte essenziale della tutela della biodiversità.",
+        "source": "Jaffé et al. 2010, Conservation Biology",
+        "url": "https://doi.org/10.1111/j.1523-1739.2009.01331.x"
+      },
+      "check": {
+        "question": "Perché in Europa l'apicoltore ha un ruolo importante per le api da miele?",
+        "options": [
+          "Perché le colonie selvatiche sono rare",
+          "Perché le api non sanno fare il miele da sole",
+          "Perché le api vivono solo in città",
+          "Perché la legge vieta le api senza arnia"
+        ],
+        "answer": 0,
+        "explanation": "In Europa le colonie davvero selvatiche sono poche: le api da miele dipendono molto dagli apicoltori."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Enrica, oggi parliamo di te. Non delle api, ma di che apicoltrice vuoi diventare."
+        },
+        {
+          "who": "E",
+          "text": "Di me? Io pensavo di imparare a fare il miele e basta."
+        },
+        {
+          "who": "M",
+          "text": "Il miele arriva, tranquilla. Ma oggi l'apicoltore è prima di tutto un custode. Chi tiene le api ha in mano la loro salute."
+        },
+        {
+          "who": "E",
+          "text": "Ma le api non se la cavano da sole? In natura ci sono sempre state."
+        },
+        {
+          "who": "M",
+          "text": "Una volta in Europa c'erano tante colonie nei tronchi cavi. Oggi gli studi dicono che le colonie davvero selvatiche sono rare."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, se le colonie selvatiche sono poche, da chi dipendono soprattutto le api da miele qui da noi?"
+        },
+        {
+          "who": "E",
+          "text": "Dagli apicoltori. Siamo noi che teniamo in vita la maggior parte delle colonie."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Per questo i ricercatori dicono che l'apicoltura è anche tutela della natura, non solo un lavoro per fare miele."
+        },
+        {
+          "who": "E",
+          "text": "Mi piace questa idea. Ma in pratica cosa vuol dire essere custode?"
+        },
+        {
+          "who": "M",
+          "text": "Vuol dire guardare le api con attenzione, capire di cosa hanno bisogno, curarle bene e raccogliere solo il giusto."
+        },
+        {
+          "who": "E",
+          "text": "Un po' come con l'orto: prima la terra e le piante, poi il raccolto."
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. E un buon custode scrive tutto. Un quaderno con le visite vale più di cento ricordi."
+        },
+        {
+          "who": "E",
+          "text": "Allora comincio subito il mio quaderno dell'apiario."
+        },
+        {
+          "who": "M",
+          "text": "Brava. Nelle prossime parti vediamo quali api custodire, perché contano tanto e come curarle con rispetto."
+        }
+      ]
+    },
+    {
+      "title": "L'ape italiana e le api locali",
+      "keyPoints": [
+        "In gran parte d'Italia vive l'ape ligustica",
+        "In Sicilia vive anche l'ape siciliana",
+        "Le api locali sono adattate al loro clima",
+        "Le regine importate mescolano le razze locali",
+        "Una legge italiana tutela l'ape italiana"
+      ],
+      "analogy": "Le api locali sono come i semi antichi dell'orto della nonna: forse non sono i più vistosi, ma conoscono quella terra, quel clima e quelle stagioni.",
+      "tip": "Quando comprerai api o regine, chiedi da dove vengono. Preferisci allevatori vicini e colonie adatte alla tua zona, e chiedi consiglio alla tua associazione.",
+      "science": {
+        "text": "In un grande esperimento europeo con 597 colonie in 20 apiari di diversi Paesi, le colonie con regine di origine locale sono sopravvissute in media 83 giorni in più di quelle con regine portate da lontano. Contava molto anche l'ambiente dell'apiario.",
+        "source": "Büchler et al. 2014, Journal of Apicultural Research",
+        "url": "https://doi.org/10.3896/IBRA.1.53.2.03"
+      },
+      "check": {
+        "question": "Che cosa hanno mostrato le colonie con regine di origine locale nello studio europeo?",
+        "options": [
+          "Hanno dato sempre il doppio del miele",
+          "Sono sopravvissute più a lungo in media",
+          "Non si sono mai ammalate di varroa",
+          "Hanno sciamato molto più spesso"
+        ],
+        "answer": 1,
+        "explanation": "Le colonie con regine locali sono vissute in media 83 giorni in più; l'ambiente contava comunque molto."
+      },
+      "dialogue": [
+        {
+          "who": "E",
+          "text": "Tonino, le api sono tutte uguali o ci sono razze diverse, come per le galline?"
+        },
+        {
+          "who": "M",
+          "text": "Ci sono, eccome. La specie è Apis mellifera, ma in Europa ci sono diverse sottospecie, cioè gruppi adattati a zone diverse."
+        },
+        {
+          "who": "E",
+          "text": "E qui da noi quale c'è?"
+        },
+        {
+          "who": "M",
+          "text": "In gran parte d'Italia c'è l'ape italiana, Apis mellifera ligustica. In Sicilia c'è anche l'ape siciliana, più scura."
+        },
+        {
+          "who": "E",
+          "text": "L'ape italiana è famosa, vero?"
+        },
+        {
+          "who": "M",
+          "text": "È tra le api più diffuse al mondo, la usano in tanti Paesi. E una legge italiana del 2004 sull'apicoltura nomina la sua tutela tra i suoi scopi."
+        },
+        {
+          "who": "E",
+          "text": "Ma se un apicoltore compra regine da lontano, cosa succede?"
+        },
+        {
+          "who": "M",
+          "text": "Le regine si accoppiano in volo con i fuchi della zona. Così le razze si mescolano, e le popolazioni locali piano piano si perdono."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, perché un'ape nata e cresciuta qui dovrebbe cavarsela meglio di una arrivata da un altro Paese?"
+        },
+        {
+          "who": "E",
+          "text": "Perché è abituata al nostro clima, alle nostre fioriture e ai nostri inverni. Conosce la sua terra."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Uno studio europeo con quasi seicento colonie l'ha visto: le colonie con regine locali sono vissute più a lungo."
+        },
+        {
+          "who": "E",
+          "text": "Quindi scegliere api locali è un modo per custodirle."
+        },
+        {
+          "who": "M",
+          "text": "Sì. Non è l'unica cosa che conta: anche la posizione dell'apiario e la cura fanno tanto. Ma è un buon inizio."
+        },
+        {
+          "who": "E",
+          "text": "Allora quando comprerò le api chiederò sempre da dove vengono."
+        }
+      ]
+    },
+    {
+      "title": "Il valore dell'impollinazione",
+      "keyPoints": [
+        "Le api portano il polline da un fiore all'altro",
+        "Molte colture alimentari dipendono dagli impollinatori",
+        "Il valore dell'impollinazione è enorme anche in denaro",
+        "Le api da miele lavorano insieme alle api selvatiche"
+      ],
+      "analogy": "Le api sono come il postino del paese: portano messaggi tra i fiori. Senza postino, molte lettere non arrivano, e molti frutti non nascono.",
+      "tip": "Se hai le api vicino a frutteti o orti, parla con i vicini agricoltori: sapere quando trattano le piante ti aiuta a proteggere le api.",
+      "science": {
+        "text": "Una revisione con dati da 200 Paesi ha trovato che 87 delle principali colture alimentari del mondo hanno bisogno, poco o tanto, degli animali impollinatori per frutti o semi. Un altro studio ha stimato il valore mondiale dell'impollinazione in 153 miliardi di euro nel 2005.",
+        "source": "Klein et al. 2007, Proceedings of the Royal Society B; Gallai et al. 2009, Ecological Economics",
+        "url": "https://doi.org/10.1098/rspb.2006.3721"
+      },
+      "check": {
+        "question": "Che cosa fanno le api quando impollinano un fiore?",
+        "options": [
+          "Portano il polline da un fiore all'altro",
+          "Tolgono il nettare in eccesso dal fiore",
+          "Proteggono il fiore dagli insetti nocivi",
+          "Aprono i petali chiusi con le zampe"
+        ],
+        "answer": 0,
+        "explanation": "Passando di fiore in fiore, l'ape sposta il polline: così il fiore può diventare frutto o seme."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Adesso parliamo del regalo più grande che le api ci fanno. E non è il miele."
+        },
+        {
+          "who": "E",
+          "text": "Non è il miele? E cosa allora?"
+        },
+        {
+          "who": "M",
+          "text": "L'impollinazione. Quando l'ape va sui fiori per il nettare, si sporca di polline e lo porta al fiore dopo."
+        },
+        {
+          "who": "E",
+          "text": "E a cosa serve al fiore?"
+        },
+        {
+          "who": "M",
+          "text": "Il polline è come il seme maschile della pianta. Se arriva al fiore giusto, il fiore può diventare frutto: una mela, una ciliegia, una zucchina."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, cosa succede a un frutteto in fiore se in quei giorni non passano insetti impollinatori?"
+        },
+        {
+          "who": "E",
+          "text": "Che molti fiori non diventano frutti. Il raccolto è molto più povero."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Uno studio su 200 Paesi ha visto che molte delle principali colture alimentari hanno bisogno degli impollinatori, poco o tanto."
+        },
+        {
+          "who": "E",
+          "text": "Tutto il cibo, quindi?"
+        },
+        {
+          "who": "M",
+          "text": "No, attenzione. Grano, riso e mais vanno con il vento. Ma frutta, verdura e semi, che danno varietà e vitamine, spesso dipendono dagli insetti."
+        },
+        {
+          "who": "E",
+          "text": "E vale anche tanti soldi, immagino."
+        },
+        {
+          "who": "M",
+          "text": "Sì, un altro studio ha stimato un valore mondiale di 153 miliardi di euro in un anno. E non lavorano solo le api da miele: ci sono anche tante api selvatiche."
+        },
+        {
+          "who": "E",
+          "text": "Allora con le mie arnie aiuto anche gli orti dei vicini."
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. E per questo conviene anche parlare con gli agricoltori della zona: le api e i campi stanno bene insieme."
+        }
+      ]
+    },
+    {
+      "title": "Benessere delle api e cure integrate",
+      "keyPoints": [
+        "Rispetta le api: visite calme, non troppo frequenti",
+        "Cibo, acqua e un buon posto per l'apiario",
+        "Controlla la varroa prima di trattare",
+        "Unisci più metodi: è la lotta integrata",
+        "Solo farmaci autorizzati: segui etichetta e veterinario"
+      ],
+      "analogy": "È come curare la famiglia: prima mangiare bene e dormire al caldo, poi misurare la febbre, e la medicina solo quando serve, nella dose giusta del medico.",
+      "tip": "Prima di ogni trattamento, misura quanta varroa c'è. Usa solo farmaci autorizzati per le api, segui l'etichetta e il veterinario, e annota tutto sul quaderno.",
+      "science": {
+        "text": "Una revisione dell'Università della Florida spiega che l'uso eccessivo o sbagliato dei prodotti contro la varroa ha fatto nascere acari resistenti. La lotta integrata unisce controllo dell'infestazione, prevenzione, metodi fisici o di allevamento e trattamenti solo quando servono.",
+        "source": "Jack e Ellis 2021, Journal of Insect Science",
+        "url": "https://doi.org/10.1093/jisesa/ieab058"
+      },
+      "check": {
+        "question": "Che cosa vuol dire «lotta integrata» contro la varroa?",
+        "options": [
+          "Usare ogni mese lo stesso farmaco",
+          "Non trattare mai e aspettare",
+          "Unire più metodi e trattare se serve",
+          "Cambiare arnia a ogni stagione"
+        ],
+        "answer": 2,
+        "explanation": "La lotta integrata combina controllo, prevenzione e metodi diversi, con i farmaci solo quando servono."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ultima parte: come si cura una colonia con rispetto. Si parla di benessere delle api."
+        },
+        {
+          "who": "E",
+          "text": "Benessere delle api? Come per gli animali della fattoria?"
+        },
+        {
+          "who": "M",
+          "text": "Proprio. Le api stanno bene se hanno cibo, acqua pulita, un posto riparato e un apicoltore che non le disturba troppo."
+        },
+        {
+          "who": "E",
+          "text": "Quindi non devo aprire l'arnia ogni giorno per curiosità."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Ogni visita costa fatica alla colonia. Apri quando hai un motivo, lavora con calma e richiudi presto."
+        },
+        {
+          "who": "E",
+          "text": "E per le malattie? Ho sentito parlare tanto della varroa."
+        },
+        {
+          "who": "M",
+          "text": "La varroa è un acaro che succhia le api e porta virus. È il problema numero uno. Ma va affrontata con la testa."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, cosa succede se un apicoltore usa sempre lo stesso prodotto, tante volte, anche quando non serve?"
+        },
+        {
+          "who": "E",
+          "text": "Che la varroa si abitua e il prodotto non funziona più. Come gli antibiotici usati male."
+        },
+        {
+          "who": "M",
+          "text": "Brava, è proprio quello che dicono gli studi: sono nati acari resistenti. Per questo si parla di lotta integrata."
+        },
+        {
+          "who": "E",
+          "text": "Cioè?"
+        },
+        {
+          "who": "M",
+          "text": "Prima controlli quanta varroa c'è. Poi unisci più metodi: per esempio fermare per un po' la covata, togliere favi da fuco, e trattare solo se serve."
+        },
+        {
+          "who": "E",
+          "text": "E i farmaci quali sono?"
+        },
+        {
+          "who": "M",
+          "text": "Solo quelli autorizzati, con principi attivi come acido ossalico, acido formico, timolo o amitraz. Sempre seguendo l'etichetta e il veterinario. Così anche il miele resta pulito."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Che cosa vuol dire essere un apicoltore custode?",
+      "back": "Curare la salute delle colonie e raccogliere solo il giusto.",
+      "part": 0
+    },
+    {
+      "front": "Perché tenere un quaderno dell'apiario?",
+      "back": "Per ricordare visite e interventi e chiedere consiglio con dati veri.",
+      "part": 0
+    },
+    {
+      "front": "Qual è il nome scientifico dell'ape italiana?",
+      "back": "Apis mellifera ligustica.",
+      "part": 1
+    },
+    {
+      "front": "Perché le regine importate possono far perdere le api locali?",
+      "back": "Si accoppiano con i fuchi della zona e le razze si mescolano.",
+      "part": 1
+    },
+    {
+      "front": "Che cos'è l'impollinazione?",
+      "back": "Il trasporto del polline da un fiore all'altro, che permette frutti e semi.",
+      "part": 2
+    },
+    {
+      "front": "Grano, riso e mais hanno bisogno delle api?",
+      "back": "No, sono impollinati soprattutto dal vento.",
+      "part": 2
+    },
+    {
+      "front": "Che cos'è la lotta integrata alla varroa?",
+      "back": "Unire controllo, prevenzione e più metodi, trattando solo quando serve.",
+      "part": 3
+    },
+    {
+      "front": "Che cosa devi fare prima di un trattamento contro la varroa?",
+      "back": "Misurare l'infestazione, usare un farmaco autorizzato e seguire etichetta e veterinario.",
+      "part": 3
+    }
+  ],
+  "questions": [
+    {
+      "question": "Secondo gli studi genetici, come sono le colonie selvatiche in Europa?",
+      "options": [
+        "Sono poche e rare",
+        "Sono la maggioranza",
+        "Sono in aumento",
+        "Sono tutte in città"
+      ],
+      "answer": 0,
+      "explanation": "In Europa le colonie davvero selvatiche sono rare: le api da miele dipendono molto dagli apicoltori.",
+      "part": 0
+    },
+    {
+      "question": "Qual è il primo strumento del buon custode dell'apiario?",
+      "options": [
+        "Un affumicatore sempre acceso",
+        "Un'arnia di legno nuova",
+        "Un barattolo di zucchero",
+        "Un quaderno delle visite"
+      ],
+      "answer": 3,
+      "explanation": "Annotare visite e interventi aiuta a seguire ogni colonia e a chiedere consiglio con dati veri.",
+      "part": 0
+    },
+    {
+      "question": "Quale ape vive nella maggior parte d'Italia?",
+      "options": [
+        "L'ape carnica",
+        "L'ape nera del nord",
+        "L'ape ligustica",
+        "L'ape africana"
+      ],
+      "answer": 2,
+      "explanation": "In gran parte d'Italia vive Apis mellifera ligustica, l'ape italiana; in Sicilia anche l'ape siciliana.",
+      "part": 1
+    },
+    {
+      "question": "Perché comprare regine da lontano può danneggiare le api locali?",
+      "options": [
+        "Perché portano sempre malattie nuove",
+        "Perché si accoppiano con i fuchi locali",
+        "Perché depongono meno uova delle altre",
+        "Perché uccidono le regine delle altre arnie"
+      ],
+      "answer": 1,
+      "explanation": "Le regine e i fuchi si accoppiano in volo con quelli della zona: così le razze locali si mescolano e si perdono.",
+      "part": 1
+    },
+    {
+      "question": "Nello studio europeo, quanto in più sono vissute in media le colonie con regine locali?",
+      "options": [
+        "Circa 83 giorni",
+        "Circa 8 giorni",
+        "Circa 3 anni",
+        "Circa 830 giorni"
+      ],
+      "answer": 0,
+      "explanation": "Le colonie con regine di origine locale sono sopravvissute in media 83 giorni in più.",
+      "part": 1
+    },
+    {
+      "question": "Che cosa nasce da un fiore impollinato bene?",
+      "options": [
+        "Più nettare per le api",
+        "Una pianta senza foglie",
+        "Un frutto o dei semi",
+        "Più petali colorati"
+      ],
+      "answer": 2,
+      "explanation": "Il polline arrivato al fiore giusto permette al fiore di diventare frutto e semi.",
+      "part": 2
+    },
+    {
+      "question": "Quali di queste piante sono impollinate soprattutto dal vento?",
+      "options": [
+        "Melo, ciliegio e zucchina",
+        "Fragola, mandorlo e melone",
+        "Girasole, pero e zucca",
+        "Grano, riso e mais"
+      ],
+      "answer": 3,
+      "explanation": "Grano, riso e mais vanno con il vento; molta frutta e verdura dipende invece dagli insetti.",
+      "part": 2
+    },
+    {
+      "question": "Quanto valeva l'impollinazione nel mondo secondo la stima del 2009?",
+      "options": [
+        "Circa 15 milioni di euro",
+        "Circa 1,5 miliardi di euro",
+        "Circa 153 miliardi di euro",
+        "Circa 15 mila miliardi di euro"
+      ],
+      "answer": 2,
+      "explanation": "Lo studio di Gallai e colleghi ha stimato 153 miliardi di euro per l'anno 2005.",
+      "part": 2
+    },
+    {
+      "question": "Perché conviene parlare con gli agricoltori vicini all'apiario?",
+      "options": [
+        "Per sapere quando trattano le piante",
+        "Per vendere loro tutta la cera",
+        "Per chiedere di tagliare i fiori",
+        "Per farsi prestare le loro arnie"
+      ],
+      "answer": 0,
+      "explanation": "Conoscere i loro trattamenti ti aiuta a proteggere le api; e le api impollinano i loro campi.",
+      "part": 2
+    },
+    {
+      "question": "Perché non si apre l'arnia ogni giorno per curiosità?",
+      "options": [
+        "Perché ogni visita disturba la colonia",
+        "Perché il miele si rovina subito",
+        "Perché la regina scappa sempre",
+        "Perché le api dimenticano la casa"
+      ],
+      "answer": 0,
+      "explanation": "Ogni apertura raffredda la covata e stressa le api: si apre solo con un motivo.",
+      "part": 3
+    },
+    {
+      "question": "Che cosa è successo dove i prodotti contro la varroa sono stati usati troppo o male?",
+      "options": [
+        "Le api sono diventate più grandi",
+        "Il miele è diventato più chiaro",
+        "Sono comparsi acari resistenti",
+        "La varroa è sparita per sempre"
+      ],
+      "answer": 2,
+      "explanation": "L'uso eccessivo o sbagliato ha fatto nascere varroe resistenti: per questo serve la lotta integrata.",
+      "part": 3
+    },
+    {
+      "question": "Quale di questi è un principio attivo autorizzato contro la varroa?",
+      "options": [
+        "L'aceto di mele",
+        "Il bicarbonato",
+        "L'olio di oliva",
+        "L'acido ossalico"
+      ],
+      "answer": 3,
+      "explanation": "Acido ossalico, acido formico, timolo e amitraz sono principi attivi autorizzati: sempre secondo etichetta e veterinario.",
+      "part": 3
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Regine a buon prezzo da lontano",
+      "prompt": "«Un amico ti propone regine molto economiche, allevate in un altro Paese, e dice che fanno tantissimo miele.» Cosa valuti prima di decidere?",
+      "modelAnswer": "Prima di tutto chiedi da dove vengono davvero e chi le alleva. Ricorda che le regine si accoppiano in volo con i fuchi della zona: introdurre api di altre razze mescola le api locali e, piano piano, le fa perdere. Gli studi europei mostrano che le colonie con regine di origine locale sono sopravvissute in media più a lungo. Inoltre, comprare animali da lontano può portare malattie o parassiti nuovi. Un custode preferisce allevatori vicini e api adatte al proprio clima. Parlane con la tua associazione o con un apicoltore esperto, e controlla con la tua ASL le regole per comprare e spostare api e regine."
+    },
+    {
+      "title": "Il vicino vuole trattare il frutteto",
+      "prompt": "«Il tuo vicino ha un frutteto a pochi metri dalle tue arnie e ti dice che la settimana prossima tratterà le piante.» Cosa fai?",
+      "modelAnswer": "È un'ottima notizia che te lo abbia detto: parlare con gli agricoltori è parte del lavoro del custode. Chiedi gentilmente che giorno e a che ora tratterà, e se le piante saranno in fiore. Spiega che le api impollinano i suoi alberi e che trattamenti sui fiori aperti possono essere pericolosi per loro. Chiedi se è possibile trattare quando le api non volano, per esempio la sera, e non durante la fioritura. Annota tutto sul quaderno e osserva le api nei giorni dopo. Se vedi molte api morte davanti alle arnie, chiedi subito consiglio alla tua associazione o all'ASL."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "La lotta integrata alla varroa, passo per passo",
+        "steps": [
+          "Misura quanta varroa c'è",
+          "Valuta se serve intervenire",
+          "Usa metodi di allevamento quando puoi",
+          "Se serve, scegli un farmaco autorizzato",
+          "Segui etichetta e veterinario",
+          "Annota tutto sul quaderno"
+        ],
+        "part": 3
+      },
+      {
+        "title": "Dal fiore al frutto",
+        "steps": [
+          "L'ape cerca nettare nel fiore",
+          "Si sporca di polline",
+          "Vola su un altro fiore",
+          "Lascia lì un po' di polline",
+          "Il fiore diventa frutto"
+        ],
+        "part": 2
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Vivo in gran parte d'Italia da tantissimo tempo.",
+          "Mi allevano anche in molti altri Paesi del mondo.",
+          "Il mio nome scientifico finisce con ligustica."
+        ],
+        "answer": "L'ape italiana",
+        "distractors": [
+          "L'ape carnica",
+          "L'ape siciliana",
+          "L'ape africana"
+        ],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Sono un acaro piccolissimo.",
+          "Succhio le api e porto virus.",
+          "Mi combatti con la lotta integrata."
+        ],
+        "answer": "La varroa",
+        "distractors": [
+          "La tarma",
+          "La vespa",
+          "La nosema"
+        ],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Mi fai senza volerlo, cercando cibo.",
+          "Porto il polline da un fiore all'altro.",
+          "Senza di me molti frutti non nascono."
+        ],
+        "answer": "L'impollinazione",
+        "distractors": [
+          "La sciamatura",
+          "La smielatura",
+          "La bottinatura"
+        ],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Mi scrivi dopo ogni visita all'apiario.",
+          "Ricordo date, colonie e interventi.",
+          "Aiuto a chiedere consiglio con dati veri."
+        ],
+        "answer": "Il quaderno",
+        "distractors": [
+          "Il telaino",
+          "Il diario",
+          "Il melario"
+        ],
+        "part": 0
+      }
+    ],
+    "truefalse": [
+      {
+        "text": "In Europa le colonie di api da miele davvero selvatiche sono poche.",
+        "true": true,
+        "why": "Gli studi genetici mostrano che sono rare: le api dipendono molto dagli apicoltori.",
+        "part": 0
+      },
+      {
+        "text": "Il buon apicoltore pensa solo a raccogliere più miele possibile.",
+        "true": false,
+        "why": "Il custode pensa prima alla salute delle colonie, poi al raccolto giusto.",
+        "part": 0
+      },
+      {
+        "text": "In Sicilia vive anche l'ape siciliana, oltre alla ligustica.",
+        "true": true,
+        "why": "L'ape siciliana, Apis mellifera sicula, è una sottospecie propria dell'isola.",
+        "part": 1
+      },
+      {
+        "text": "Le regine importate non si mescolano mai con le api locali.",
+        "true": false,
+        "why": "Si accoppiano in volo con i fuchi della zona: le razze si mescolano.",
+        "part": 1
+      },
+      {
+        "text": "Una legge italiana del 2004 tutela l'ape italiana.",
+        "true": true,
+        "why": "La legge 313 del 2004 sull'apicoltura nomina la tutela dell'ape italiana tra i suoi scopi.",
+        "part": 1
+      },
+      {
+        "text": "Tutto il cibo del mondo dipende dalle api.",
+        "true": false,
+        "why": "Grano, riso e mais vanno con il vento; molta frutta e verdura invece dipende dagli insetti.",
+        "part": 2
+      },
+      {
+        "text": "Anche le api selvatiche sono importanti impollinatori.",
+        "true": true,
+        "why": "Le api da miele lavorano insieme a tante api selvatiche e altri insetti.",
+        "part": 2
+      },
+      {
+        "text": "L'impollinazione nel mondo vale miliardi di euro.",
+        "true": true,
+        "why": "Una stima l'ha valutata 153 miliardi di euro per il 2005.",
+        "part": 2
+      },
+      {
+        "text": "Più spesso apri l'arnia, meglio stanno le api.",
+        "true": false,
+        "why": "Ogni visita disturba la colonia: apri solo quando hai un motivo.",
+        "part": 3
+      },
+      {
+        "text": "Usare sempre lo stesso prodotto contro la varroa può creare resistenze.",
+        "true": true,
+        "why": "L'uso eccessivo o sbagliato ha già fatto nascere varroe resistenti.",
+        "part": 3
+      },
+      {
+        "text": "Contro la varroa si può usare qualsiasi prodotto trovato in casa.",
+        "true": false,
+        "why": "Solo farmaci autorizzati per le api, seguendo etichetta e veterinario.",
+        "part": 3
+      }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 5,
+      "question": "Da chi dipendono soprattutto le api da miele in Europa oggi?",
+      "options": [
+        "Dai boschi vecchi",
+        "Dagli apicoltori",
+        "Dalle api selvatiche",
+        "Dai grandi parchi"
+      ],
+      "answer": 1,
+      "why": "Le colonie davvero selvatiche sono rare: sono gli apicoltori a tenere in vita la maggior parte delle colonie."
+    },
+    {
+      "part": 1,
+      "line": 8,
+      "question": "Perché un'ape locale dovrebbe cavarsela meglio di una importata?",
+      "options": [
+        "Perché è più grande e più forte",
+        "Perché produce sempre più cera",
+        "Perché è adattata a clima e fiori",
+        "Perché non ha mai bisogno di cure"
+      ],
+      "answer": 2,
+      "why": "L'ape locale è abituata a clima, fioriture e inverni della sua zona; lo studio europeo ha visto colonie locali più longeve."
+    },
+    {
+      "part": 2,
+      "line": 5,
+      "question": "Cosa succede a un frutteto in fiore se non passano impollinatori?",
+      "options": [
+        "Molti fiori non diventano frutti",
+        "I fiori durano molto più a lungo",
+        "Gli alberi fanno frutti più grandi",
+        "Le foglie crescono più in fretta"
+      ],
+      "answer": 0,
+      "why": "Senza polline portato da un fiore all'altro, molti fiori non diventano frutti e il raccolto è più povero."
+    },
+    {
+      "part": 3,
+      "line": 7,
+      "question": "Cosa succede se si usa sempre lo stesso prodotto contro la varroa?",
+      "options": [
+        "Le api diventano resistenti agli acari",
+        "La varroa sparisce per sempre",
+        "La varroa si abitua e resiste",
+        "Il miele diventa più dolce"
+      ],
+      "answer": 2,
+      "why": "Come gli antibiotici usati male: l'uso eccessivo o sbagliato ha fatto nascere varroe resistenti."
+    }
+  ]
+}

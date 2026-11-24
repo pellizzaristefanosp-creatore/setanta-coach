@@ -1,0 +1,1115 @@
+{
+  "code": "5.1",
+  "unit": 5,
+  "title": "Il miele",
+  "pages": "173–186",
+  "summary": "Impari quando il miele è pronto da raccogliere e come si porta dal melario al vasetto. Vedi gli attrezzi uno per uno, perché il miele cristallizza e come si lavora puliti in laboratorio.",
+  "parts": [
+    {
+      "title": "Il momento della raccolta",
+      "keyPoints": [
+        "Il miele è maturo quando le cellette sono opercolate",
+        "L'opercolo è il tappo di cera sulla celletta",
+        "Raccogli solo telaini quasi tutti opercolati",
+        "Troppa acqua fa fermentare il miele",
+        "Per legge al massimo 20% di acqua, meglio circa 18%"
+      ],
+      "analogy": "È come la marmellata: se la togli dal fuoco troppo presto resta liquida e va a male. Le api 'cuociono' il nettare con il vento delle ali finché è denso.",
+      "tip": "Prima di togliere un melario, solleva due o tre telaini contro la luce: se vedi tante cellette aperte e lucide di liquido, aspetta ancora qualche giorno.",
+      "science": {
+        "text": "Le regole europee sul miele fissano l'acqua al massimo al 20 per cento. Solo il miele di brugo e il miele per uso industriale possono arrivare al 23 per cento. In Italia queste regole valgono per tutto il miele in vendita.",
+        "source": "Direttiva 2001/110/CE del Consiglio (concernente il miele), allegato II",
+        "url": "https://eur-lex.europa.eu/eli/dir/2001/110/oj"
+      },
+      "check": {
+        "question": "Qual è il segno più sicuro che il miele di un favo è maturo?",
+        "options": [
+          "Le cellette sono quasi tutte chiuse da opercoli",
+          "Il favo è diventato di colore molto più scuro",
+          "Le api non si posano più sopra quel telaino",
+          "Il melario pesa meno rispetto alla settimana prima"
+        ],
+        "answer": 0,
+        "explanation": "Le api chiudono la celletta con l'opercolo solo quando il nettare è diventato miele con poca acqua."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ciao Enrica! Oggi entriamo nel capitolo più dolce: il miele. Vediamo quando si raccoglie, con quali attrezzi, e come si lavora in laboratorio."
+        },
+        {
+          "who": "E",
+          "text": "Finalmente! Ma come faccio a sapere quando il miele è pronto? Non posso mica assaggiarlo ogni giorno."
+        },
+        {
+          "who": "M",
+          "text": "Guardi i favi del melario, cioè la cassetta sopra il nido dove le api mettono le scorte. Quando il miele è maturo, le api chiudono le cellette con un tappo di cera."
+        },
+        {
+          "who": "E",
+          "text": "Il tappo di cera ha un nome?"
+        },
+        {
+          "who": "M",
+          "text": "Si chiama opercolo, e il lavoro di chiudere si chiama opercolatura. Secondo te, perché le api chiudono la celletta solo alla fine?"
+        },
+        {
+          "who": "E",
+          "text": "Forse perché prima devono asciugare il nettare, e lo chiudono solo quando ha poca acqua?"
+        },
+        {
+          "who": "M",
+          "text": "Brava, proprio così. Il nettare appena raccolto è molto acquoso. Le api lo asciugano ventilando con le ali. Quando l'acqua scende intorno al 18 per cento, chiudono."
+        },
+        {
+          "who": "E",
+          "text": "E se raccolgo un favo con tante cellette ancora aperte?"
+        },
+        {
+          "who": "M",
+          "text": "Rischi un miele troppo acquoso. Con troppa acqua i lieviti, che nel miele ci sono sempre, si svegliano e lo fanno fermentare: diventa acido e fa la schiuma."
+        },
+        {
+          "who": "E",
+          "text": "Come il succo di frutta dimenticato fuori dal frigo."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Per questo togli solo i telaini quasi tutti opercolati. Se hai un dubbio, usa il rifrattometro: uno strumentino che, con una goccia di miele, ti dice quanta acqua c'è."
+        },
+        {
+          "who": "E",
+          "text": "E c'è anche un limite di legge?"
+        },
+        {
+          "who": "M",
+          "text": "Sì. Le regole europee dicono che il miele può avere al massimo il 20 per cento di acqua, con poche eccezioni come il miele di brugo. Ma un buon apicoltore resta più basso."
+        },
+        {
+          "who": "E",
+          "text": "Allora punto al 18 e dormo tranquilla!"
+        }
+      ]
+    },
+    {
+      "title": "Liberare i melari dalle api",
+      "keyPoints": [
+        "L'apiscampo fa scendere le api senza farle risalire",
+        "Si mette tra nido e melario uno o due giorni prima",
+        "Controlla che il melario non abbia fessure",
+        "Spazzola o soffiatore servono per poche api rimaste",
+        "Lavora veloce per non scatenare il saccheggio"
+      ],
+      "analogy": "L'apiscampo è come la porta girevole di un negozio che gira in un verso solo: si esce, ma non si rientra.",
+      "tip": "Metti l'apiscampo nel pomeriggio e torna dopo uno o due giorni. Chiudi bene coprifavo e melario: una fessura basta per far entrare api ladre da altre famiglie.",
+      "science": {
+        "text": "Uno studio su 21 mieli spagnoli ha visto che solo i mieli con meno del 17,1 per cento di acqua non rischiavano di fermentare. Più acqua c'è, più lieviti e muffe possono crescere. Per questo i melari tolti vanno tenuti all'asciutto.",
+        "source": "Sanz et al. 1995, Journal of Food Protection",
+        "url": "https://doi.org/10.4315/0362-028X-58.5.515"
+      },
+      "check": {
+        "question": "A cosa serve l'apiscampo?",
+        "options": [
+          "A tenere la regina chiusa dentro il melario",
+          "A far uscire le api dal melario senza ritorno",
+          "A misurare quanta acqua resta nel miele",
+          "A raccogliere il polline portato dalle api"
+        ],
+        "answer": 1,
+        "explanation": "L'apiscampo è una porticina a senso unico: le api scendono nel nido e non possono più risalire nel melario."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ora che il miele è maturo, c'è un problema: nel melario ci sono migliaia di api. Come lo porti via senza portarti dietro anche loro?"
+        },
+        {
+          "who": "E",
+          "text": "Le scrollo via una per una? Mi sembra un lavoro infinito."
+        },
+        {
+          "who": "M",
+          "text": "Per fortuna c'è l'apiscampo. È una tavola con una porticina speciale che si mette tra il nido e il melario."
+        },
+        {
+          "who": "E",
+          "text": "E cosa fa questa porticina?"
+        },
+        {
+          "who": "M",
+          "text": "Lascia passare le api in un verso solo. Scendono nel nido, dove c'è la regina e la covata, ma non trovano la strada per risalire."
+        },
+        {
+          "who": "E",
+          "text": "Furbo! Quanto tempo ci vuole?"
+        },
+        {
+          "who": "M",
+          "text": "Di solito uno o due giorni. Secondo te, cosa succede se il melario ha una fessura mentre è senza api?"
+        },
+        {
+          "who": "E",
+          "text": "Entrano api di altre famiglie a rubare il miele, perché nessuno lo difende!"
+        },
+        {
+          "who": "M",
+          "text": "Proprio così, è il saccheggio. Per questo chiudi bene ogni buco. E non lasciare l'apiscampo per troppi giorni."
+        },
+        {
+          "who": "E",
+          "text": "E se restano alcune api nel melario?"
+        },
+        {
+          "who": "M",
+          "text": "Le togli con una spazzola morbida, oppure con un soffiatore, che le butta via con un getto d'aria. Ma con delicatezza: le api spazzolate male si arrabbiano."
+        },
+        {
+          "who": "E",
+          "text": "Poi porto i melari a casa?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, subito, e li tieni in un posto asciutto e chiuso. Il miele assorbe l'umidità dell'aria, e se prende acqua rischia di fermentare."
+        },
+        {
+          "who": "E",
+          "text": "Quindi niente cantina umida. Melari al sicuro e all'asciutto."
+        }
+      ]
+    },
+    {
+      "title": "Disopercolare e smielare",
+      "keyPoints": [
+        "Disopercolare vuol dire togliere gli opercoli di cera",
+        "Si usano coltello, anche riscaldato, o forchetta",
+        "Gli opercoli scolano miele e danno cera pulita",
+        "Lo smielatore fa girare i telaini e lancia fuori il miele",
+        "Parti piano e carica i telaini in modo bilanciato"
+      ],
+      "analogy": "Lo smielatore è come la centrifuga dell'insalata: gira forte e l'acqua schizza contro le pareti. Qui, al posto dell'acqua, esce il miele.",
+      "tip": "Metti nello smielatore telaini di peso simile, uno di fronte all'altro. Se è sbilanciato, la macchina balla e i favi si possono rompere.",
+      "science": {
+        "text": "Le regole europee danno un nome al miele secondo come è estratto. Il miele «centrifugato» si ottiene facendo girare favi disopercolati e senza covata. Ci sono anche il miele «scolato» e il miele «torchiato», cioè spremuto dai favi.",
+        "source": "Direttiva 2001/110/CE del Consiglio (concernente il miele), allegato I",
+        "url": "https://eur-lex.europa.eu/eli/dir/2001/110/oj"
+      },
+      "check": {
+        "question": "Perché si caricano telaini di peso simile uno di fronte all'altro?",
+        "options": [
+          "Per far uscire il miele più chiaro per primo",
+          "Per far scaldare il miele in modo più uguale",
+          "Per tenere lo smielatore bilanciato mentre gira",
+          "Per raccogliere la cera insieme al miele liquido"
+        ],
+        "answer": 2,
+        "explanation": "Uno smielatore sbilanciato vibra e balla: i favi possono rompersi e la macchina si rovina."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "I melari sono in laboratorio. Ma il miele è chiuso nelle cellette. Il primo lavoro è disopercolare, cioè togliere i tappi di cera."
+        },
+        {
+          "who": "E",
+          "text": "Con che cosa li tolgo?"
+        },
+        {
+          "who": "M",
+          "text": "Con un coltello lungo, a volte riscaldato, che passi rasente al favo. Oppure con la forchetta disopercolatrice, che ha tanti dentini e solleva gli opercoli."
+        },
+        {
+          "who": "E",
+          "text": "E gli opercoli tolti li butto?"
+        },
+        {
+          "who": "M",
+          "text": "No, mai! Li lasci scolare su una vasca con una rete. Secondo te, cosa ci guadagni?"
+        },
+        {
+          "who": "E",
+          "text": "Il miele che ci resta attaccato, e poi anche la cera, che è molto pulita."
+        },
+        {
+          "who": "M",
+          "text": "Brava. La cera degli opercoli è tra la più bella che hai. Poi metti i telaini aperti nello smielatore."
+        },
+        {
+          "who": "E",
+          "text": "Quello che gira, vero?"
+        },
+        {
+          "who": "M",
+          "text": "Sì. È un grande cilindro di acciaio. Dentro, i telaini girano veloci e il miele schizza contro le pareti, poi cola in fondo e esce da un rubinetto."
+        },
+        {
+          "who": "E",
+          "text": "Come la centrifuga dell'insalata!"
+        },
+        {
+          "who": "M",
+          "text": "Proprio. Nel modello tangenziale giri i telaini a metà lavoro, per svuotare l'altro lato. Nel radiale si svuotano i due lati insieme."
+        },
+        {
+          "who": "E",
+          "text": "C'è un trucco per non rompere i favi?"
+        },
+        {
+          "who": "M",
+          "text": "Parti piano e aumenta poco a poco, soprattutto con favi nuovi e teneri. E carica telaini di peso simile, uno di fronte all'altro, così la macchina non balla."
+        },
+        {
+          "who": "E",
+          "text": "Piano, bilanciato, e il miele cola da solo. Mi piace!"
+        }
+      ]
+    },
+    {
+      "title": "Il maturatore e i filtri",
+      "keyPoints": [
+        "Il filtro trattiene pezzi di cera e api",
+        "Meglio un doppio filtro: prima largo, poi fine",
+        "Il maturatore è il bidone dove il miele riposa",
+        "Bolle e cera salgono in superficie come schiuma",
+        "Si imbottiglia dal rubinetto in basso"
+      ],
+      "analogy": "Il maturatore è come il brodo lasciato riposare: il grasso sale a galla e lo togli con il cucchiaio, sotto resta limpido.",
+      "tip": "Dopo qualche giorno nel maturatore, togli la schiuma in superficie con una spatola pulita. Poi riempi i vasetti dal rubinetto in basso, dove il miele è più pulito.",
+      "science": {
+        "text": "Una legge europea del 2014 dice che il polline è un componente naturale del miele, non un ingrediente aggiunto. Il polline non si deve togliere, salvo quando non si può evitare mentre si eliminano impurità. Per questo si usano filtri che fermano la cera ma non il polline.",
+        "source": "Direttiva 2014/63/UE del Parlamento europeo e del Consiglio",
+        "url": "https://eur-lex.europa.eu/eli/dir/2014/63/oj"
+      },
+      "check": {
+        "question": "Perché il miele si lascia riposare qualche giorno nel maturatore?",
+        "options": [
+          "Perché diventi più dolce e cambi colore",
+          "Perché perda il polline e resti più chiaro",
+          "Perché si scaldi da solo e resti liquido",
+          "Perché bolle d'aria e cera salgano in alto"
+        ],
+        "answer": 3,
+        "explanation": "Nel riposo le bollicine e i pezzetti di cera, più leggeri, salgono a galla e si tolgono con la schiuma."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Il miele esce dallo smielatore. Ma non è ancora pronto per il vasetto. Dentro ci sono pezzetti di cera, a volte qualche ape."
+        },
+        {
+          "who": "E",
+          "text": "Lo devo filtrare, come il tè con le foglie?"
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Di solito si usa un doppio filtro: sopra uno a maglie larghe, sotto uno a maglie fini. Così il primo prende i pezzi grossi e non intasa il secondo."
+        },
+        {
+          "who": "E",
+          "text": "E allora prendo un filtro finissimo, così è perfetto!"
+        },
+        {
+          "who": "M",
+          "text": "Piano. Nel miele c'è il polline, che è naturale e fa parte del miele. Le regole europee dicono che non si deve togliere. Un filtro troppo fine lo porta via."
+        },
+        {
+          "who": "E",
+          "text": "Quindi filtro la cera, ma lascio il polline."
+        },
+        {
+          "who": "M",
+          "text": "Giusto. Poi il miele va nel maturatore: un bidone di acciaio inox con un rubinetto in basso. Lì riposa qualche giorno, chiuso."
+        },
+        {
+          "who": "E",
+          "text": "Perché lo chiamano maturatore, se il miele è già maturo?"
+        },
+        {
+          "who": "M",
+          "text": "È un nome antico. In realtà serve a farlo decantare. Secondo te, cosa succede alle bollicine d'aria mentre il miele sta fermo?"
+        },
+        {
+          "who": "E",
+          "text": "Salgono in alto, perché l'aria è più leggera del miele."
+        },
+        {
+          "who": "M",
+          "text": "Brava. Salgono anche i pezzettini di cera rimasti. In superficie si forma una schiuma bianca, che togli con una spatola."
+        },
+        {
+          "who": "E",
+          "text": "E poi?"
+        },
+        {
+          "who": "M",
+          "text": "Poi riempi i vasetti dal rubinetto in basso, dove il miele è più limpido. Tieni il maturatore coperto: il miele prende odori e umidità."
+        },
+        {
+          "who": "E",
+          "text": "Filtro, riposo, schiuma via, e giù nei vasetti. Ci sto."
+        }
+      ]
+    },
+    {
+      "title": "I contenitori e la conservazione",
+      "keyPoints": [
+        "Solo contenitori adatti agli alimenti",
+        "Vetro per i vasetti, acciaio inox per i bidoni",
+        "Niente ferro o recipienti non per alimenti",
+        "Conserva il miele chiuso, al fresco e al buio",
+        "In etichetta serve il Paese d'origine"
+      ],
+      "analogy": "Il miele è come il caffè macinato: se lo lasci aperto vicino ai fornelli perde profumo e prende odori.",
+      "tip": "Tieni i vasetti in un armadio fresco e buio, lontano da forno e termosifoni. Chiudi bene il coperchio: il miele assorbe umidità e odori.",
+      "science": {
+        "text": "Uno studio ha conservato mieli per 12 mesi a 25 e a 35 gradi. L'HMF, una sostanza che aumenta quando il miele si scalda o invecchia, è cambiato poco a 25 gradi ma è salito molto a 35. Il caldo rovina il miele.",
+        "source": "Sanz et al. 2003, Journal of Agricultural and Food Chemistry",
+        "url": "https://doi.org/10.1021/jf021235s"
+      },
+      "check": {
+        "question": "Dove conservi meglio i vasetti di miele?",
+        "options": [
+          "Sulla mensola accanto al forno caldo",
+          "Sul davanzale al sole della finestra",
+          "In un armadio chiuso, fresco e buio",
+          "Aperti in cantina per farli respirare"
+        ],
+        "answer": 2,
+        "explanation": "Il caldo fa salire l'HMF e il miele invecchia; chiuso e al buio tiene profumo e qualità."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Parliamo dei contenitori. Il miele può stare anni in un vasetto, ma solo se il vasetto è quello giusto."
+        },
+        {
+          "who": "E",
+          "text": "Va bene un barattolo qualsiasi? Ne ho tanti in cucina."
+        },
+        {
+          "who": "M",
+          "text": "Va bene il vetro pulito e asciutto, con un buon coperchio. Per i bidoni grandi si usa acciaio inox o plastica adatta agli alimenti."
+        },
+        {
+          "who": "E",
+          "text": "E un vecchio secchio di ferro?"
+        },
+        {
+          "who": "M",
+          "text": "No. Il miele è un po' acido e intacca i metalli che non sono per alimenti. Usa sempre recipienti nati per il cibo."
+        },
+        {
+          "who": "E",
+          "text": "Capito. E dove li tengo i vasetti pieni?"
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, è meglio vicino al forno o in un armadio fresco e buio?"
+        },
+        {
+          "who": "E",
+          "text": "Nell'armadio fresco e buio, perché il caldo rovina il miele."
+        },
+        {
+          "who": "M",
+          "text": "Giusto. Con il caldo il miele scurisce e perde profumo. Gli scienziati misurano una sostanza, l'HMF, che sale quando il miele viene scaldato o invecchia."
+        },
+        {
+          "who": "E",
+          "text": "Quindi l'HMF è come un orologio che dice quanto il miele ha sofferto."
+        },
+        {
+          "who": "M",
+          "text": "Bella immagine. E chiudi sempre bene il coperchio: il miele prende umidità dall'aria e assorbe gli odori, anche quello delle cipolle."
+        },
+        {
+          "who": "E",
+          "text": "E se voglio regalarli o venderli, cosa scrivo sull'etichetta?"
+        },
+        {
+          "who": "M",
+          "text": "Ci vogliono alcune cose obbligatorie, per esempio il Paese d'origine. Le regole cambiano ogni tanto: chiedi sempre alla tua ASL o all'associazione."
+        },
+        {
+          "who": "E",
+          "text": "Vetro pulito, coperchio stretto, armadio buio. E per l'etichetta chiedo prima."
+        }
+      ]
+    },
+    {
+      "title": "Il miele che cristallizza",
+      "keyPoints": [
+        "Cristallizzare è naturale, non è un difetto",
+        "Lo zucchero glucosio forma i cristalli",
+        "Più fruttosio, più a lungo resta liquido",
+        "Il fresco intorno ai 14 gradi favorisce i cristalli",
+        "Si fa tornare liquido con calore dolce"
+      ],
+      "analogy": "È come l'olio d'oliva in frigo: diventa torbido e solido, ma resta buono. Col tepore torna come prima.",
+      "tip": "Se un vasetto cristallizza e lo vuoi liquido, mettilo a bagnomaria tiepido, senza farlo scaldare troppo. Il caldo forte rovina profumo e qualità.",
+      "science": {
+        "text": "Ricercatori dell'Università di Bologna hanno fatto cristallizzare tre mieli aggiungendo il 5 per cento di miele già cristallizzato e tenendoli a 14 gradi. Spiegano che il rapporto tra fruttosio e glucosio è la caratteristica chiave che decide quanto il miele cristallizza.",
+        "source": "Tappi et al. 2019, Food Chemistry",
+        "url": "https://doi.org/10.1016/j.foodchem.2019.05.047"
+      },
+      "check": {
+        "question": "Quale zucchero del miele forma i cristalli?",
+        "options": [
+          "Il fruttosio, che resta sempre in superficie",
+          "Il saccarosio, che arriva dallo zucchero bianco",
+          "Il maltosio, che si forma solo con il calore",
+          "Il glucosio, che si scioglie meno nell'acqua"
+        ],
+        "answer": 3,
+        "explanation": "Il glucosio si scioglie meno del fruttosio: quando è tanto, si separa e forma i cristalli."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Un giorno aprirai un vasetto e il miele sarà duro e chiaro. Non spaventarti: si chiama cristallizzazione."
+        },
+        {
+          "who": "E",
+          "text": "Pensavo fosse andato a male!"
+        },
+        {
+          "who": "M",
+          "text": "No, è naturale. Nel miele ci sono soprattutto due zuccheri: il fruttosio e il glucosio. Il glucosio si scioglie meno, e col tempo forma piccoli cristalli."
+        },
+        {
+          "who": "E",
+          "text": "Allora tutti i mieli cristallizzano?"
+        },
+        {
+          "who": "M",
+          "text": "Quasi tutti, ma con tempi diversi. Secondo te, un miele con tanto fruttosio cristallizza presto o tardi?"
+        },
+        {
+          "who": "E",
+          "text": "Tardi, perché il fruttosio si scioglie bene e il glucosio è poco."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Il miele di acacia, cioè di robinia, ha tanto fruttosio e resta liquido a lungo. Il miele di colza o di tarassaco invece diventa solido in fretta."
+        },
+        {
+          "who": "E",
+          "text": "E la temperatura conta?"
+        },
+        {
+          "who": "M",
+          "text": "Sì. Il fresco, intorno ai 14 gradi, aiuta i cristalli a crescere. Nel frigo o al caldo vanno più piano."
+        },
+        {
+          "who": "E",
+          "text": "E il miele cremoso che si compra? Quello morbido come burro?"
+        },
+        {
+          "who": "M",
+          "text": "Quello si guida: si aggiunge un po' di miele già cristallizzato fine, si mescola e si tiene al fresco. I cristalli nascono piccoli e la crema è liscia."
+        },
+        {
+          "who": "E",
+          "text": "Come il lievito madre che fa partire il pane!"
+        },
+        {
+          "who": "M",
+          "text": "Bel paragone. Se invece lo vuoi liquido, bagnomaria tiepido e pazienza. Mai fuoco forte: il caldo rovina il miele."
+        },
+        {
+          "who": "E",
+          "text": "Quindi i cristalli non sono un difetto. Il mio miele è vivo e sincero."
+        }
+      ]
+    },
+    {
+      "title": "Il laboratorio e l'arnia cattedrale",
+      "keyPoints": [
+        "Il laboratorio deve essere pulito e chiuso agli insetti",
+        "Superfici lavabili e acqua potabile",
+        "Mani, grembiule e capelli raccolti come in cucina",
+        "Chi vende miele segue le regole di igiene",
+        "Chiedi sempre alla tua ASL prima di vendere"
+      ],
+      "analogy": "Il laboratorio del miele è come la cucina di un ristorante: tutto lavabile, tutto in ordine, niente animali che girano.",
+      "tip": "Prima della smielatura lava attrezzi e pavimento, chiudi le finestre con le zanzariere e prepara tutto. Un'ape che entra ne chiama tante altre.",
+      "science": {
+        "text": "Il Regolamento europeo 852/2004 sull'igiene degli alimenti non si applica a chi produce solo per uso domestico privato. Chi vende il miele invece deve seguire le regole di igiene. I dettagli dipendono dalla regione: controlla sempre con la tua ASL o la tua associazione.",
+        "source": "Regolamento (CE) n. 852/2004, articolo 1",
+        "url": "https://eur-lex.europa.eu/eli/reg/2004/852/oj"
+      },
+      "check": {
+        "question": "Cosa fai prima di iniziare una smielatura in laboratorio?",
+        "options": [
+          "Apro le finestre per far uscire il profumo",
+          "Lavo gli attrezzi e chiudo bene le zanzariere",
+          "Lascio i melari fuori al sole per scaldarli",
+          "Porto dentro un'arnia per tenere calme le api"
+        ],
+        "answer": 1,
+        "explanation": "Pulizia e finestre chiuse: il miele deve restare pulito e le api attirate dal profumo devono restare fuori."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "L'ultimo argomento è il posto dove lavori il miele: il laboratorio. Anche se è una stanza di casa, va trattato come una piccola cucina professionale."
+        },
+        {
+          "who": "E",
+          "text": "Cosa intendi?"
+        },
+        {
+          "who": "M",
+          "text": "Pavimento e pareti lavabili, acqua potabile, attrezzi puliti. E finestre con le zanzariere, sempre chiuse quando c'è miele in giro."
+        },
+        {
+          "who": "E",
+          "text": "Perché proprio le finestre?"
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, cosa fanno le api quando sentono il profumo di miele che esce da una finestra?"
+        },
+        {
+          "who": "E",
+          "text": "Arrivano in massa a prenderselo, e poi chiamano anche le compagne!"
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. In mezz'ora il laboratorio diventa un alveare. E il miele si sporca di api morte."
+        },
+        {
+          "who": "E",
+          "text": "E io come mi vesto per lavorare?"
+        },
+        {
+          "who": "M",
+          "text": "Come in cucina: mani lavate, grembiule pulito, capelli raccolti. E niente animali di casa nella stanza."
+        },
+        {
+          "who": "E",
+          "text": "Se un giorno voglio vendere qualche vasetto?"
+        },
+        {
+          "who": "M",
+          "text": "Allora valgono le regole di igiene per chi vende alimenti, e serve parlare con l'ASL. Le regole cambiano da regione a regione, quindi chiedi sempre prima."
+        },
+        {
+          "who": "E",
+          "text": "D'accordo. E l'arnia cattedrale che c'è nell'indice del capitolo, cos'è?"
+        },
+        {
+          "who": "M",
+          "text": "È un modello di arnia particolare: come è fatta e come si raccoglie lo leggi su quelle pagine. Ma le regole d'oro valgono per ogni arnia: miele maturo, favi puliti, lavoro pulito."
+        },
+        {
+          "who": "E",
+          "text": "Allora le regole d'oro le ho già in tasca. Ora leggo le pagine con calma."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Cos'è l'opercolo?",
+      "back": "Il tappo di cera che chiude la celletta del miele maturo.",
+      "part": 0
+    },
+    {
+      "front": "Quanta acqua può avere al massimo il miele per legge?",
+      "back": "Il 20 per cento (23 per cento solo per pochi casi, come il miele di brugo).",
+      "part": 0
+    },
+    {
+      "front": "A cosa serve il rifrattometro?",
+      "back": "A misurare, con una goccia, quanta acqua c'è nel miele.",
+      "part": 0
+    },
+    {
+      "front": "Come funziona l'apiscampo?",
+      "back": "È una porticina a senso unico: le api scendono nel nido e non risalgono nel melario.",
+      "part": 1
+    },
+    {
+      "front": "Cos'è il saccheggio?",
+      "back": "Api di altre famiglie che entrano a rubare il miele non difeso.",
+      "part": 1
+    },
+    {
+      "front": "Cosa vuol dire disopercolare?",
+      "back": "Togliere gli opercoli di cera dai favi prima di smielare.",
+      "part": 2
+    },
+    {
+      "front": "Che differenza c'è tra smielatore tangenziale e radiale?",
+      "back": "Nel tangenziale giri i telaini per svuotare l'altro lato; nel radiale si svuotano i due lati insieme.",
+      "part": 2
+    },
+    {
+      "front": "Perché non si usa un filtro finissimo?",
+      "back": "Perché toglierebbe il polline, che è un componente naturale del miele.",
+      "part": 3
+    },
+    {
+      "front": "A cosa serve il maturatore?",
+      "back": "A far riposare il miele: bolle e cera salgono in superficie e si tolgono.",
+      "part": 3
+    },
+    {
+      "front": "Cos'è l'HMF?",
+      "back": "Una sostanza che aumenta quando il miele si scalda o invecchia.",
+      "part": 4
+    },
+    {
+      "front": "Quale zucchero forma i cristalli nel miele?",
+      "back": "Il glucosio, che si scioglie meno del fruttosio.",
+      "part": 5
+    },
+    {
+      "front": "Perché il miele di acacia resta liquido a lungo?",
+      "back": "Perché ha tanto fruttosio e poco glucosio.",
+      "part": 5
+    },
+    {
+      "front": "Perché le finestre del laboratorio restano chiuse?",
+      "back": "Il profumo del miele attira le api, che entrano e lo sporcano.",
+      "part": 6
+    }
+  ],
+  "questions": [
+    {
+      "question": "Cosa può succedere a un miele raccolto con troppa acqua?",
+      "options": [
+        "Fermenta, diventa acido e fa la schiuma",
+        "Cristallizza subito e diventa bianchissimo",
+        "Diventa più dolce e più profumato",
+        "Perde il polline e diventa trasparente"
+      ],
+      "answer": 0,
+      "explanation": "Con troppa acqua i lieviti naturali del miele crescono e lo fanno fermentare.",
+      "part": 0
+    },
+    {
+      "question": "A che punto di acqua, più o meno, le api opercolano il miele?",
+      "options": [
+        "Intorno al 40 per cento",
+        "Intorno al 30 per cento",
+        "Intorno al 5 per cento",
+        "Intorno al 18 per cento"
+      ],
+      "answer": 3,
+      "explanation": "Le api asciugano il nettare e chiudono le cellette quando l'acqua scende circa al 18 per cento.",
+      "part": 0
+    },
+    {
+      "question": "Dove si mette l'apiscampo?",
+      "options": [
+        "Tra il nido e il melario da liberare",
+        "Davanti alla porticina d'ingresso",
+        "Sotto il fondo dell'arnia, a terra",
+        "Sopra il tetto, fuori dall'arnia"
+      ],
+      "answer": 0,
+      "explanation": "Va tra nido e melario: le api scendono nel nido e non possono più tornare su.",
+      "part": 1
+    },
+    {
+      "question": "Perché i melari tolti si tengono in un posto asciutto?",
+      "options": [
+        "Perché la cera al buio diventa più dura",
+        "Perché il miele assorbe l'umidità dell'aria",
+        "Perché così le api tornano a prenderli",
+        "Perché all'umido il miele perde il colore"
+      ],
+      "answer": 1,
+      "explanation": "Il miele prende acqua dall'aria umida; con più acqua rischia di fermentare.",
+      "part": 1
+    },
+    {
+      "question": "Cosa fai degli opercoli tolti durante la disopercolatura?",
+      "options": [
+        "Li butto subito nel bidone dei rifiuti",
+        "Li rimetto nell'arnia per le api del nido",
+        "Li lascio scolare e poi recupero la cera",
+        "Li mescolo al miele per dargli più sapore"
+      ],
+      "answer": 2,
+      "explanation": "Dagli opercoli scola altro miele, e poi resta una cera molto pulita.",
+      "part": 2
+    },
+    {
+      "question": "Come si avvia lo smielatore con favi nuovi e teneri?",
+      "options": [
+        "Subito alla massima velocità possibile",
+        "Solo con un telaino per volta dentro",
+        "Con il miele riscaldato prima nel forno",
+        "Piano, aumentando la velocità poco a poco"
+      ],
+      "answer": 3,
+      "explanation": "Una partenza dolce evita che i favi nuovi si rompano sotto la spinta del miele.",
+      "part": 2
+    },
+    {
+      "question": "Perché si usa un doppio filtro, largo sopra e fine sotto?",
+      "options": [
+        "Perché il primo ferma i pezzi grossi e il fine non si intasa",
+        "Perché il primo toglie il polline e il fine toglie l'acqua",
+        "Perché il primo scalda il miele e il fine lo raffredda",
+        "Perché il primo cambia colore e il fine cambia sapore"
+      ],
+      "answer": 0,
+      "explanation": "Il filtro largo trattiene cera e pezzi grossi, così quello fine lavora meglio.",
+      "part": 3
+    },
+    {
+      "question": "Da dove si riempiono i vasetti dal maturatore?",
+      "options": [
+        "Dall'alto, con un mestolo dalla superficie",
+        "Dal rubinetto in basso, dove è più limpido",
+        "Rovesciando il bidone con tutta la schiuma",
+        "Dal centro, con una siringa da cucina"
+      ],
+      "answer": 1,
+      "explanation": "Schiuma, bolle e cera salgono in alto: dal rubinetto in basso esce il miele più pulito.",
+      "part": 3
+    },
+    {
+      "question": "Che recipiente NON va bene per il miele?",
+      "options": [
+        "Un vasetto di vetro pulito e asciutto",
+        "Un bidone di acciaio inox per alimenti",
+        "Un secchio di plastica per alimenti",
+        "Un vecchio secchio di ferro arrugginito"
+      ],
+      "answer": 3,
+      "explanation": "Il miele è un po' acido e intacca i metalli non adatti agli alimenti.",
+      "part": 4
+    },
+    {
+      "question": "Cosa indica un HMF alto nel miele?",
+      "options": [
+        "Che il miele è stato scaldato o è vecchio",
+        "Che il miele ha tanto polline di castagno",
+        "Che il miele è stato raccolto troppo presto",
+        "Che il miele contiene ancora troppa acqua"
+      ],
+      "answer": 0,
+      "explanation": "L'HMF sale con il calore e con il tempo: è un segno che il miele ha sofferto.",
+      "part": 4
+    },
+    {
+      "question": "Quale miele, di solito, cristallizza più in fretta?",
+      "options": [
+        "Il miele di acacia, ricco di fruttosio",
+        "Il miele di colza, ricco di glucosio",
+        "Il miele tenuto sempre al caldo",
+        "Il miele appena filtrato e caldo"
+      ],
+      "answer": 1,
+      "explanation": "Più glucosio c'è, prima si formano i cristalli: la colza indurisce in fretta.",
+      "part": 5
+    },
+    {
+      "question": "Come si ottiene un miele cremoso e liscio?",
+      "options": [
+        "Si aggiunge acqua e si mescola a lungo",
+        "Si scalda forte e poi si mette in frigo",
+        "Si aggiunge miele già cristallizzato fine",
+        "Si filtra con un filtro molto più stretto"
+      ],
+      "answer": 2,
+      "explanation": "I cristalli fini fanno da 'lievito': nascono tanti cristalli piccoli e la crema è liscia.",
+      "part": 5
+    },
+    {
+      "question": "Prima di vendere qualche vasetto di miele, cosa fai?",
+      "options": [
+        "Chiedo alla mia ASL quali regole valgono",
+        "Chiedo a un vicino se il miele è buono",
+        "Chiedo al negozio quanto costa il vetro",
+        "Chiedo alle api se sono d'accordo"
+      ],
+      "answer": 0,
+      "explanation": "Chi vende alimenti segue regole di igiene ed etichetta: l'ASL ti dice cosa serve dove abiti.",
+      "part": 6
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Il melario mezzo aperto",
+      "prompt": "È inizio luglio. Sollevi i telaini del melario: metà delle cellette sono opercolate, l'altra metà sono aperte e lucide di liquido. Un amico ti dice: «Raccogli adesso, poi lo filtri». Cosa fai?",
+      "modelAnswer": "Non raccolgo ancora. Le cellette aperte e lucide contengono nettare con troppa acqua: le api non hanno finito di asciugarlo. Se lo smielassi adesso, il miele avrebbe troppa acqua e potrebbe fermentare, diventando acido e schiumoso. Il filtro toglie la cera, non l'acqua. Aspetto qualche giorno e ricontrollo: raccolgo quando i telaini sono quasi tutti opercolati. Se ho un dubbio, misuro una goccia con il rifrattometro: il limite di legge è il 20 per cento di acqua, ma è meglio stare intorno al 18. Intanto, se le api hanno bisogno di spazio, posso aggiungere un altro melario."
+    },
+    {
+      "title": "Api in laboratorio",
+      "prompt": "Stai smielando nel garage. Hai lasciato la porta socchiusa per il caldo. Dopo mezz'ora entrano decine di api e si posano sui favi e sul maturatore. Cosa fai, adesso e la prossima volta?",
+      "modelAnswer": "Per prima cosa copro subito il maturatore, la vasca degli opercoli e i telaini, così le api non trovano più miele. Spengo la luce interna e lascio aperta solo una finestra in alto o la porta verso la luce, perché le api vanno verso la luce e escono. Non le schiaccio e non le spazzolo nel miele. Quando sono uscite, chiudo tutto e tolgo dal miele eventuali api cadute, poi filtro. La prossima volta lavoro con porte chiuse e zanzariere alle finestre, preparo tutto prima e pulisco subito le gocce di miele. Il profumo di miele attira le api, e un'ape che trova il bottino chiama le compagne."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Dal melario al vasetto",
+        "steps": [
+          "Controllo che i favi siano opercolati",
+          "Metto l'apiscampo tra nido e melario",
+          "Porto i melari nel laboratorio",
+          "Disopercolo i favi",
+          "Smielo con lo smielatore",
+          "Filtro e lascio riposare nel maturatore",
+          "Riempio i vasetti dal rubinetto"
+        ],
+        "part": 2
+      },
+      {
+        "title": "Fare un miele cremoso",
+        "steps": [
+          "Scelgo un miele liquido e pulito",
+          "Aggiungo un po' di miele cristallizzato fine",
+          "Mescolo bene tutto insieme",
+          "Tengo il miele al fresco",
+          "Aspetto che diventi cremoso"
+        ],
+        "part": 5
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Mi metti tra due piani dell'arnia",
+          "Faccio passare le api in un verso solo",
+          "Servo a svuotare il melario dalle api"
+        ],
+        "answer": "Apiscampo",
+        "distractors": [
+          "Escludiregina",
+          "Coprifavo",
+          "Nutritore"
+        ],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Mi basta una goccia per lavorare",
+          "Guardo la luce che passa nel miele",
+          "Ti dico quanta acqua c'è nel miele"
+        ],
+        "answer": "Rifrattometro",
+        "distractors": [
+          "Termometro",
+          "Densimetro",
+          "Igrometro"
+        ],
+        "part": 0
+      },
+      {
+        "clues": [
+          "Giro forte, a volte piano",
+          "Dentro di me ci sono i telaini aperti",
+          "Lancio il miele contro le mie pareti"
+        ],
+        "answer": "Smielatore",
+        "distractors": [
+          "Maturatore",
+          "Sceratrice",
+          "Affumicatore"
+        ],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Sto fermo per giorni, chiuso",
+          "In alto mi si forma la schiuma",
+          "Ho un rubinetto in basso per i vasetti"
+        ],
+        "answer": "Maturatore",
+        "distractors": [
+          "Smielatore",
+          "Disopercolatore",
+          "Filtro doppio"
+        ],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Sono uno zucchero del miele",
+          "Mi sciolgo meno del mio compagno",
+          "Formo i cristalli nel vasetto"
+        ],
+        "answer": "Glucosio",
+        "distractors": [
+          "Fruttosio",
+          "Saccarosio",
+          "Maltosio"
+        ],
+        "part": 5
+      }
+    ],
+    "truefalse": [
+      {
+        "text": "Le api opercolano le cellette quando il miele ha ancora molta acqua.",
+        "true": false,
+        "why": "Opercolano alla fine, quando l'acqua è scesa più o meno al 18 per cento.",
+        "part": 0
+      },
+      {
+        "text": "Per le regole europee il miele può avere al massimo il 20 per cento di acqua.",
+        "true": true,
+        "why": "È il limite generale; poche eccezioni, come il miele di brugo, arrivano al 23.",
+        "part": 0
+      },
+      {
+        "text": "L'apiscampo lascia le api libere di entrare e uscire dal melario.",
+        "true": false,
+        "why": "Funziona a senso unico: le api scendono nel nido e non risalgono.",
+        "part": 1
+      },
+      {
+        "text": "Un melario lasciato con una fessura può scatenare il saccheggio.",
+        "true": true,
+        "why": "Api di altre famiglie entrano a rubare il miele che nessuno difende.",
+        "part": 1
+      },
+      {
+        "text": "Gli opercoli tolti vanno buttati perché sono sporchi.",
+        "true": false,
+        "why": "Danno altro miele che scola e una cera molto pulita.",
+        "part": 2
+      },
+      {
+        "text": "Nello smielatore tangenziale si girano i telaini per svuotare l'altro lato.",
+        "true": true,
+        "why": "Il tangenziale svuota un lato per volta; il radiale tutti e due insieme.",
+        "part": 2
+      },
+      {
+        "text": "Un filtro finissimo è il migliore perché toglie anche il polline.",
+        "true": false,
+        "why": "Il polline è un componente naturale del miele e non si deve togliere.",
+        "part": 3
+      },
+      {
+        "text": "Nel maturatore bolle d'aria e cera salgono in superficie.",
+        "true": true,
+        "why": "Sono più leggere del miele: si forma una schiuma che si toglie.",
+        "part": 3
+      },
+      {
+        "text": "Il miele si conserva meglio vicino a una fonte di calore.",
+        "true": false,
+        "why": "Il caldo fa salire l'HMF e fa invecchiare il miele.",
+        "part": 4
+      },
+      {
+        "text": "Un miele cristallizzato è un miele andato a male.",
+        "true": false,
+        "why": "La cristallizzazione è naturale: il miele resta buono.",
+        "part": 5
+      },
+      {
+        "text": "Il miele di acacia resta liquido a lungo perché ha tanto fruttosio.",
+        "true": true,
+        "why": "Il fruttosio si scioglie bene; poco glucosio vuol dire pochi cristalli.",
+        "part": 5
+      },
+      {
+        "text": "Durante la smielatura è meglio tenere le finestre aperte.",
+        "true": false,
+        "why": "Il profumo attira le api: si lavora chiusi, con le zanzariere.",
+        "part": 6
+      }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 4,
+      "question": "Perché le api chiudono la celletta solo alla fine?",
+      "options": [
+        "Perché prima aspettano che arrivi il freddo",
+        "Perché prima devono deporre un uovo dentro",
+        "Perché prima asciugano il nettare fino a poca acqua",
+        "Perché prima aggiungono altro polline fresco"
+      ],
+      "answer": 2,
+      "why": "Il nettare è acquoso: le api lo asciugano con le ali e chiudono quando l'acqua è circa al 18 per cento."
+    },
+    {
+      "part": 1,
+      "line": 6,
+      "question": "Cosa succede se il melario senza api ha una fessura?",
+      "options": [
+        "Entrano api di altre famiglie a rubare il miele",
+        "Il miele si asciuga troppo e diventa durissimo",
+        "La regina sale nel melario e depone le uova",
+        "Le api della famiglia tornano su a difenderlo"
+      ],
+      "answer": 0,
+      "why": "Il miele senza difesa attira le api ladre: è il saccheggio. Per questo si chiude bene ogni buco."
+    },
+    {
+      "part": 2,
+      "line": 4,
+      "question": "Cosa ci guadagni a far scolare gli opercoli?",
+      "options": [
+        "Il polline che le api hanno messo sotto",
+        "Il miele che resta attaccato e cera pulita",
+        "L'acqua in più che toglie al miele maturo",
+        "Le uova di regina nascoste nella cera"
+      ],
+      "answer": 1,
+      "why": "Dagli opercoli scola altro miele, e la cera che resta è tra la più bella e pulita dell'alveare."
+    },
+    {
+      "part": 3,
+      "line": 8,
+      "question": "Cosa fanno le bollicine d'aria nel miele fermo nel maturatore?",
+      "options": [
+        "Scendono sul fondo e si fermano lì",
+        "Si sciolgono nel miele e spariscono",
+        "Diventano cristalli di zucchero duri",
+        "Salgono in alto, più leggere del miele"
+      ],
+      "answer": 3,
+      "why": "L'aria è più leggera del miele: le bolle e la cera salgono e formano la schiuma da togliere."
+    },
+    {
+      "part": 4,
+      "line": 6,
+      "question": "Dove tieni i vasetti pieni di miele?",
+      "options": [
+        "Vicino al forno, così resta bello liquido",
+        "Al sole sulla finestra, così prende luce",
+        "In un armadio fresco e buio, lontano dal caldo",
+        "In cantina umida, con il coperchio aperto"
+      ],
+      "answer": 2,
+      "why": "Il caldo fa scurire il miele e fa salire l'HMF; al fresco e al buio il miele si conserva bene."
+    },
+    {
+      "part": 5,
+      "line": 4,
+      "question": "Un miele con tanto fruttosio cristallizza presto o tardi?",
+      "options": [
+        "Presto, perché il fruttosio indurisce subito",
+        "Tardi, perché il glucosio che cristallizza è poco",
+        "Presto, perché il fruttosio attira l'umidità",
+        "Mai, perché il fruttosio non cambia nel tempo"
+      ],
+      "answer": 1,
+      "why": "I cristalli li fa il glucosio. Con tanto fruttosio e poco glucosio il miele resta liquido a lungo, come l'acacia."
+    },
+    {
+      "part": 6,
+      "line": 4,
+      "question": "Cosa fanno le api che sentono il profumo di miele dalla finestra?",
+      "options": [
+        "Restano lontane perché hanno paura dell'uomo",
+        "Tornano subito all'arnia per difenderla",
+        "Volano via verso i fiori più vicini",
+        "Arrivano in tante e chiamano le compagne"
+      ],
+      "answer": 3,
+      "why": "Il profumo è un richiamo: arrivano, trovano il bottino e chiamano altre api. Per questo si lavora chiusi."
+    }
+  ]
+}

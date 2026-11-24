@@ -1,0 +1,432 @@
+{
+ "code": "5.6",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi parliamo della cera, il materiale con cui le api costruiscono casa. Cominciamo dal favo. Tu come lo descriveresti?"
+    },
+    {
+     "who": "E",
+     "text": "Una lastra di cera piena di cellette, da tutte e due le parti."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Al centro c'è una parete sottile, e da lì partono le celle verso destra e verso sinistra."
+    },
+    {
+     "who": "E",
+     "text": "E perché le celle sono esagoni e non quadrati o cerchi?"
+    },
+    {
+     "who": "M",
+     "text": "Bella domanda. Prova a pensare a una tavola piena di bicchieri rotondi. Che cosa resta tra un bicchiere e l'altro?"
+    },
+    {
+     "who": "E",
+     "text": "Restano dei buchi vuoti. Con gli esagoni invece non resta nessuno spazio sprecato."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ogni parete è in comune con la cella vicina, così si usa poca cera per tanto spazio."
+    },
+    {
+     "who": "E",
+     "text": "Ma come fanno le api a fare esagoni così precisi?"
+    },
+    {
+     "who": "M",
+     "text": "Qui c'è una scoperta curiosa: all'inizio le celle sono quasi rotonde. Poi la cera tiepida si sistema da sola dove tre celle si toccano, e nascono gli esagoni."
+    },
+    {
+     "who": "E",
+     "text": "Come le bolle di sapone che, strette insieme, diventano a facce."
+    },
+    {
+     "who": "M",
+     "text": "Bel paragone. Poi nota che le celle non sono tutte uguali: quelle delle operaie sono più piccole, quelle dei fuchi più grandi."
+    },
+    {
+     "who": "E",
+     "text": "E il miele dove va?"
+    },
+    {
+     "who": "M",
+     "text": "Nelle stesse celle, spesso in alto e ai lati. Il favo è insieme culla, dispensa e magazzino del polline."
+    },
+    {
+     "who": "E",
+     "text": "Quindi il favo è tutta la casa: camere, cucina e cantina insieme."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso vediamo chi fa la cera. Secondo te, da dove esce?"
+    },
+    {
+     "who": "E",
+     "text": "Dalla bocca, come la pappa reale?"
+    },
+    {
+     "who": "M",
+     "text": "No, stavolta dalla pancia. Sotto l'addome le operaie hanno quattro paia di ghiandole della cera, chiamate ghiandole ceripare."
+    },
+    {
+     "who": "E",
+     "text": "E come esce? Liquida?"
+    },
+    {
+     "who": "M",
+     "text": "Esce liquida e indurisce subito in scagliette sottili e trasparenti, come piccole unghie. L'ape le prende con le zampe e le mastica per ammorbidirle. Poi la lavora con le mandibole e la attacca al favo."
+    },
+    {
+     "who": "E",
+     "text": "Tutte le operaie fanno la cera?"
+    },
+    {
+     "who": "M",
+     "text": "Soprattutto quelle giovani, più o meno nella seconda e terza settimana di vita. Poi le ghiandole si riducono e l'ape passa ad altri lavori."
+    },
+    {
+     "who": "E",
+     "text": "Quindi c'è un'età per ogni mestiere."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ora una domanda. Secondo te, che cosa serve all'ape per produrre cera?"
+    },
+    {
+     "who": "E",
+     "text": "Tanto cibo zuccherino, cioè miele o nettare, perché fare cera costa energia."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Per questo le api costruiscono soprattutto quando entra tanto nettare. E serve caldo: si appendono una all'altra in catene, dette festoni."
+    },
+    {
+     "who": "E",
+     "text": "Le ho viste! Sembrano una tendina di api appese."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Lì dentro fa caldo e la cera si lavora meglio. Ogni ape aggiunge un pezzetto, come in un cantiere."
+    },
+    {
+     "who": "E",
+     "text": "Allora: ghiandole sotto la pancia, api giovani, tanto miele e tanto caldo. Mi è chiaro."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora guardiamo dentro la cera. Di che cosa pensi che sia fatta?"
+    },
+    {
+     "who": "E",
+     "text": "Di grasso? Al tatto sembra un po' una candela."
+    },
+    {
+     "who": "M",
+     "text": "Ci sei vicina. La parte più grande sono gli esteri, sostanze che nascono dall'unione di acidi grassi e alcoli. Poi ci sono idrocarburi e acidi grassi liberi."
+    },
+    {
+     "who": "E",
+     "text": "Parole difficili. Me lo dici in modo semplice?"
+    },
+    {
+     "who": "M",
+     "text": "Una miscela di grassi particolari, solida a temperatura di casa. Fonde intorno ai sessantadue, sessantaquattro gradi."
+    },
+    {
+     "who": "E",
+     "text": "Più bassa dell'acqua che bolle, quindi."
+    },
+    {
+     "who": "M",
+     "text": "Sì, molto più bassa. E la cosa interessante è che la ricetta della cera d'api cambia poco da un posto all'altro."
+    },
+    {
+     "who": "E",
+     "text": "E a che cosa serve saperlo?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, se qualcuno mescola alla cera una sostanza più economica, come si può scoprire?"
+    },
+    {
+     "who": "E",
+     "text": "Con un'analisi: se i valori escono diversi dalla ricetta normale, c'è qualcosa che non va."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ora il colore. La cera appena fatta è bianca. Diventa gialla per il polline e la propoli, e scura nei favi vecchi. Anche la propoli lascia il suo colore."
+    },
+    {
+     "who": "E",
+     "text": "Perché scura nei vecchi?"
+    },
+    {
+     "who": "M",
+     "text": "Perché ogni ape che nasce lascia nella cella il suo bozzolo, una pellicina sottile. Dopo tante nascite il favo diventa marrone, quasi nero."
+    },
+    {
+     "who": "E",
+     "text": "Quindi la cera più chiara viene dai favi nuovi e dagli opercoli."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Vediamo come si recupera la cera. Che cosa pensi che si possa raccogliere?"
+    },
+    {
+     "who": "E",
+     "text": "I favi vecchi che tolgo, e forse i pezzetti che raschio dai telaini."
+    },
+    {
+     "who": "M",
+     "text": "Sì, e poi gli opercoli, cioè i tappini di cera che togli dai favi di miele prima di smielare."
+    },
+    {
+     "who": "E",
+     "text": "Quelli sono belli chiari."
+    },
+    {
+     "who": "M",
+     "text": "Infatti danno la cera migliore. I favi vecchi danno cera più scura e più sporca."
+    },
+    {
+     "who": "E",
+     "text": "E come la sciolgo? In pentola sul fornello?"
+    },
+    {
+     "who": "M",
+     "text": "Mai sulla fiamma diretta: la cera calda prende fuoco facilmente. Un sistema semplice e gratis è la sceratrice solare."
+    },
+    {
+     "who": "E",
+     "text": "Che cos'è?"
+    },
+    {
+     "who": "M",
+     "text": "Una cassa chiusa con un vetro sopra. Dentro c'è un piano inclinato dove metti la cera, e sotto una vaschetta. Secondo te, che cosa succede al sole?"
+    },
+    {
+     "who": "E",
+     "text": "Dentro fa caldissimo, la cera si scioglie, cola lungo il piano e finisce nella vaschetta."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Le impurità più grosse restano sul piano. Per tanta cera si usano anche sceratrici a vapore. Sono più adatte a chi ha tanti favi da sciogliere."
+    },
+    {
+     "who": "E",
+     "text": "C'è qualcosa a cui stare attenta?"
+    },
+    {
+     "who": "M",
+     "text": "Due cose. La cassa deve essere chiusa bene, altrimenti le api entrano attirate dall'odore. E il troppo calore scurisce la cera e le toglie valore."
+    },
+    {
+     "who": "E",
+     "text": "Allora: opercoli a parte, niente fiamma, sole e cassa ben chiusa."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso un tema serio: la sterilizzazione della cera. Hai mai sentito parlare della peste americana?"
+    },
+    {
+     "who": "E",
+     "text": "Sì, è una malattia grave della covata, giusto?"
+    },
+    {
+     "who": "M",
+     "text": "Giustissimo. La causa un batterio che forma spore, cioè piccole forme di resistenza, come semi chiusi in un guscio."
+    },
+    {
+     "who": "E",
+     "text": "E che cosa c'entra con la cera?"
+    },
+    {
+     "who": "M",
+     "text": "Le spore restano nei favi, nella cera e nelle arnie per decenni. E resistono molto al calore."
+    },
+    {
+     "who": "E",
+     "text": "Quindi se sciolgo la cera di un'arnia malata nella sceratrice solare, le spore muoiono?"
+    },
+    {
+     "who": "M",
+     "text": "Purtroppo no, quel calore non basta. Secondo te, che cosa succede se poi uso quella cera per fare fogli cerei?"
+    },
+    {
+     "who": "E",
+     "text": "Porto le spore nelle arnie sane e la malattia si diffonde."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Per questo la cera destinata ai fogli cerei deve essere sterilizzata con metodi speciali, in laboratori attrezzati."
+    },
+    {
+     "who": "E",
+     "text": "E se io trovo la peste americana in un'arnia?"
+    },
+    {
+     "who": "M",
+     "text": "Chiami subito la tua ASL. Saranno i veterinari a dirti che cosa fare di api, favi e materiale. Non si decide da soli."
+    },
+    {
+     "who": "E",
+     "text": "E per stare tranquilla in generale?"
+    },
+    {
+     "who": "M",
+     "text": "Non comprare favi vecchi di provenienza sconosciuta, e fai fare i fogli cerei a chi garantisce la sterilizzazione."
+    },
+    {
+     "who": "E",
+     "text": "Allora: spore dure come sassi, calore normale che non basta e, al minimo dubbio, telefono all'ASL."
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Parliamo dei fogli cerei. Sai che cosa sono?"
+    },
+    {
+     "who": "E",
+     "text": "Le lastre di cera con le basi delle celle stampate, che metto nei telaini."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Le api partono da lì e tirano su le celle. Si comprano, ma si possono anche fare in casa."
+    },
+    {
+     "who": "E",
+     "text": "Davvero? E come?"
+    },
+    {
+     "who": "M",
+     "text": "Si scioglie la cera pulita e la si stampa con una pressa apposita o un piccolo laminatoio. Esce il foglio con il disegno degli esagoni."
+    },
+    {
+     "who": "E",
+     "text": "Che vantaggio c'è a farli da sé?"
+    },
+    {
+     "who": "M",
+     "text": "Sai da dove viene la cera. E questo conta. Secondo te, perché la provenienza è importante?"
+    },
+    {
+     "who": "E",
+     "text": "Perché la cera può essere sporca di qualcosa che non si vede, tipo residui dei trattamenti."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Uno studio negli Stati Uniti ha trovato residui di acaricidi in quasi tutti i favi e i fogli cerei analizzati. La cera li trattiene."
+    },
+    {
+     "who": "E",
+     "text": "Allora è meglio usare la cera degli opercoli, che è nuova."
+    },
+    {
+     "who": "M",
+     "text": "Sì. E poi c'è il riciclo dei favi. I favi vecchi e scuri si tolgono a poco a poco e si sostituiscono con fogli nuovi."
+    },
+    {
+     "who": "E",
+     "text": "E la cera dei favi vecchi la butto?"
+    },
+    {
+     "who": "M",
+     "text": "No, la sciogli e la usi per altro: candele, lucidi per il legno, oppure la scambi con chi fa fogli cerei e garantisce la pulizia."
+    },
+    {
+     "who": "E",
+     "text": "Quindi: opercoli per i miei fogli, favi vecchi da cambiare e niente si butta."
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ultima parte: il mercato della cera. Che cosa fanno gli apicoltori con la cera che raccolgono?"
+    },
+    {
+     "who": "E",
+     "text": "La vendono, immagino. O la usano per le candele."
+    },
+    {
+     "who": "M",
+     "text": "Molti la portano a chi produce fogli cerei e la scambiano con fogli nuovi. Ma qui c'è un problema: la cera adulterata."
+    },
+    {
+     "who": "E",
+     "text": "Adulterata vuol dire mescolata con altro?"
+    },
+    {
+     "who": "M",
+     "text": "Sì. Le aggiunte più comuni sono la paraffina, che viene dal petrolio, e la stearina, fatta da grassi animali o vegetali. Costano meno della cera d'api."
+    },
+    {
+     "who": "E",
+     "text": "E alle api che cosa fa?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, che cosa può succedere se la larva cresce in una cella fatta di cera sbagliata?"
+    },
+    {
+     "who": "E",
+     "text": "Può crescere male o morire, e la covata diventa piena di buchi."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. L'autorità europea, l'EFSA, ha visto che la stearina oltre certe quantità può danneggiare la covata. E i fogli adulterati possono anche piegarsi e cedere col caldo."
+    },
+    {
+     "who": "E",
+     "text": "È un problema raro?"
+    },
+    {
+     "who": "M",
+     "text": "Non tanto. In Belgio, per esempio, un'indagine ha trovato cera adulterata sia tra gli apicoltori sia tra quella in commercio."
+    },
+    {
+     "who": "E",
+     "text": "Come mi difendo?"
+    },
+    {
+     "who": "M",
+     "text": "Compra da produttori seri, chiedi se fanno analisi sulla cera e, se puoi, fai i fogli con la tua cera di opercolo."
+    },
+    {
+     "who": "E",
+     "text": "Allora: occhio alla covata sparsa, fornitori di fiducia e analisi quando ho dubbi."
+    }
+   ]
+  }
+ ]
+}

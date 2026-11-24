@@ -1,0 +1,488 @@
+{
+  "code": "3.4",
+  "unit": 3,
+  "title": "La colonia orfana",
+  "pages": "117–124",
+  "summary": "Scopri perché una famiglia può restare senza regina e come accorgertene in tempo. Impari a riconoscere le operaie ovificatrici e a scegliere il rimedio giusto.",
+  "parts": [
+    {
+      "title": "Le cause dell'orfanità",
+      "keyPoints": [
+        "Orfana vuol dire senza regina che depone",
+        "La regina può morire di vecchiaia o malattia",
+        "Può essere schiacciata durante una visita",
+        "Una regina giovane può perdersi nel volo nuziale"
+      ],
+      "analogy": "Una famiglia orfana è come una cucina senza chi fa la spesa: per un po' si va avanti con le scorte, poi la dispensa si svuota.",
+      "tip": "Durante la visita muovi i telaini piano e rimettili senza strisciarli: molte regine muoiono schiacciate tra i favi. Dopo una sciamatura, controlla che la nuova regina deponga.",
+      "science": {
+        "text": "Nei sondaggi tra apicoltori americani sulle perdite di alveari del 2024 e 2025, la causa più citata era la varroa. Per gli apicoltori più piccoli, subito dopo venivano i problemi della regina e il tempo. Perdere la regina, o averne una che non funziona, è quindi una causa comune di guai.",
+        "source": "Nearman et al. 2025, Science of the Total Environment",
+        "url": "https://doi.org/10.1016/j.scitotenv.2025.180650"
+      },
+      "check": {
+        "question": "Quale di queste è una causa comune di orfanità?",
+        "options": [
+          "Una fioritura abbondante di tiglio",
+          "Un melario messo troppo presto",
+          "La regina schiacciata durante la visita",
+          "Un ingresso rivolto verso il sole"
+        ],
+        "answer": 2,
+        "explanation": "Muovendo i telaini senza attenzione si può schiacciare la regina tra i favi."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo di un problema che prima o poi capita a tutti: la colonia orfana." },
+        { "who": "E", "text": "Ciao Tonino! Orfana vuol dire senza regina, giusto?" },
+        { "who": "M", "text": "Senza una regina che depone. A volte c'è una regina ma non funziona più, e per la famiglia è quasi lo stesso." },
+        { "who": "E", "text": "E come fa una famiglia a perdere la regina?" },
+        { "who": "M", "text": "Le cause sono tante. Può morire di vecchiaia o di malattia. Oppure può finire male durante una nostra visita." },
+        { "who": "E", "text": "Durante una visita? Per colpa nostra?" },
+        { "who": "M", "text": "Eh sì. Secondo te, come può un apicoltore uccidere la regina senza accorgersene?" },
+        { "who": "E", "text": "Schiacciandola tra due telaini mentre li rimette a posto, o facendola cadere fuori dall'arnia." },
+        { "who": "M", "text": "Esatto. Per questo i telaini si muovono piano e sopra l'arnia." },
+        { "who": "E", "text": "Altre cause?" },
+        { "who": "M", "text": "Dopo una sciamatura, la regina giovane deve uscire per i voli nuziali. Può essere mangiata da un uccello o sbagliare arnia al ritorno." },
+        { "who": "E", "text": "Che peccato! E la famiglia resta lì ad aspettare." },
+        { "who": "M", "text": "Proprio. E nei sondaggi tra apicoltori i problemi della regina sono tra le cause più citate di guai, dopo la varroa." },
+        { "who": "E", "text": "Allora dopo ogni sciamatura e ogni cambio di regina devo controllare che ci siano uova nuove." }
+      ]
+    },
+    {
+      "title": "I segnali dell'orfanità",
+      "keyPoints": [
+        "Mancano uova e larve giovani",
+        "Compaiono celle reali in mezzo al favo",
+        "Le api sono più nervose e ronzano in modo diverso",
+        "Il polline e il miele riempiono le celle libere"
+      ],
+      "analogy": "Una casa senza mamma si riconosce da piccoli segni: nessun biberon in giro, culle vuote, e tutti un po' più agitati del solito.",
+      "tip": "Se non trovi la regina, non cercarla per un'ora: guarda le uova. Uova fresche, una per cella e dritte in fondo, vogliono dire che la regina c'era fino a pochi giorni fa.",
+      "science": {
+        "text": "Quando la regina muore, le api allevano subito una regina d'emergenza partendo da larve di operaia. Uno studio ha visto che le api scelgono larve di tre giorni o meno, e preferiscono quelle di un giorno, che danno regine di qualità migliore.",
+        "source": "Pan et al. 2024, Animals",
+        "url": "https://doi.org/10.3390/ani14111535"
+      },
+      "check": {
+        "question": "Qual è il primo segnale da cercare per capire se manca la regina?",
+        "options": [
+          "Le celle piene di polline colorato",
+          "La mancanza di uova e larve giovani",
+          "La presenza di molti fuchi all'ingresso",
+          "Il miele chiuso in cima ai favi"
+        ],
+        "answer": 1,
+        "explanation": "Senza regina non arrivano uova nuove: dopo pochi giorni mancano uova e larve giovani."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Enrica, come facciamo a capire che una famiglia è orfana?" },
+        { "who": "E", "text": "Cerco la regina e non la trovo!" },
+        { "who": "M", "text": "Attenta: la regina si nasconde bene, anche agli esperti. Meglio cercare i suoi segni. Secondo te, qual è il segno più sicuro che la regina c'è?" },
+        { "who": "E", "text": "Le uova fresche, una per cella, dritte in fondo. Se ci sono, la regina c'era fino a pochi giorni fa." },
+        { "who": "M", "text": "Brava. E se non ci sono uova né larve giovani, devi preoccuparti." },
+        { "who": "E", "text": "E le api cosa fanno quando si accorgono che la regina non c'è?" },
+        { "who": "M", "text": "Provano a farne una nuova. Prendono una larva giovane di operaia e allargano la sua cella, che diventa una cella reale." },
+        { "who": "E", "text": "Come quelle della sciamatura?" },
+        { "who": "M", "text": "Un po' diverse. Queste di emergenza sono spesso in mezzo al favo, perché nascono da celle normali. Quelle della sciamatura stanno di più sul bordo in basso." },
+        { "who": "E", "text": "Quindi la posizione mi dà un indizio." },
+        { "who": "M", "text": "Sì, ma non è una regola fissa. Poi ci sono altri segni: le api sono più nervose, e molti apicoltori dicono che il ronzio sembra un lamento." },
+        { "who": "E", "text": "Come un bambino che piange perché non trova la mamma." },
+        { "who": "M", "text": "Più o meno. E il polline e il miele riempiono le celle dove prima c'era la covata." },
+        { "who": "E", "text": "Allora controllo uova, larve, celle reali e anche l'umore delle api." }
+      ]
+    },
+    {
+      "title": "Le operaie ovificatrici",
+      "keyPoints": [
+        "Senza regina alcune operaie iniziano a deporre",
+        "Le loro uova danno solo fuchi",
+        "Più uova per cella, anche sulle pareti",
+        "Covata da fuco a mosaico in celle da operaia"
+      ],
+      "analogy": "È come quando in una famiglia manca la mamma e i figli provano a cucinare da soli: ci mettono buona volontà, ma il pranzo non viene come dovrebbe.",
+      "tip": "Se vedi due o tre uova nella stessa cella, appoggiate sulle pareti, e opercoli bombati sparsi qua e là, pensa subito alle operaie ovificatrici.",
+      "science": {
+        "text": "Il profumo che esce dalle mandibole della regina frena lo sviluppo delle ovaie delle operaie. In uno studio, questo profumo da solo funzionava come l'estratto della regina intera. Quando la regina manca, il freno sparisce e alcune operaie possono sviluppare le ovaie e deporre.",
+        "source": "Hoover et al. 2003, Naturwissenschaften",
+        "url": "https://doi.org/10.1007/s00114-003-0462-z"
+      },
+      "check": {
+        "question": "Che cosa nasce dalle uova delle operaie ovificatrici?",
+        "options": [
+          "Soltanto fuchi, spesso piccoli",
+          "Soltanto operaie molto deboli",
+          "Nuove regine senza ali",
+          "Operaie e regine insieme"
+        ],
+        "answer": 0,
+        "explanation": "Le operaie non si accoppiano: le loro uova non sono fecondate e danno solo fuchi."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Enrica, se una famiglia resta orfana troppo a lungo, succede una cosa strana." },
+        { "who": "E", "text": "Cioè? Mi incuriosisci." },
+        { "who": "M", "text": "Alcune operaie iniziano a deporre uova. Si chiamano operaie ovificatrici." },
+        { "who": "E", "text": "Ma allora il problema è risolto! Qualcuno fa le uova." },
+        { "who": "M", "text": "Purtroppo no. Le operaie non si accoppiano mai. Secondo te, cosa nasce da un uovo non fecondato?" },
+        { "who": "E", "text": "Un fuco! Ce lo hai insegnato: le uova non fecondate diventano maschi." },
+        { "who": "M", "text": "Esatto. Quindi nascono solo fuchi, e la famiglia piano piano si spegne." },
+        { "who": "E", "text": "Perché però le operaie di solito non depongono?" },
+        { "who": "M", "text": "Perché il profumo della regina frena le loro ovaie. Quando la regina sparisce, il freno si toglie." },
+        { "who": "E", "text": "E come le riconosco?" },
+        { "who": "M", "text": "Guarda le uova: spesso ce ne sono due o tre per cella, appoggiate sulle pareti invece che in fondo. Le operaie hanno l'addome corto." },
+        { "who": "E", "text": "E la covata com'è?" },
+        { "who": "M", "text": "A mosaico, sparsa qua e là, con opercoli bombati da fuco dentro celle piccole da operaia. Sembra un pavimento con le piastrelle in rilievo." },
+        { "who": "E", "text": "Allora più uova per cella e covata bombata sparsa mi dicono: operaie ovificatrici." }
+      ]
+    },
+    {
+      "title": "I rimedi all'orfanità",
+      "keyPoints": [
+        "Il telaino di prova conferma l'orfanità",
+        "Si può dare una cella reale o una regina",
+        "Le ovificatrici rendono difficile accettare una regina",
+        "A volte conviene riunire con una famiglia forte"
+      ],
+      "analogy": "Il telaino di prova è come lasciare un biberon in una stanza: se qualcuno lo prende e lo usa, vuol dire che lì c'è davvero un neonato senza mamma.",
+      "tip": "Metti nella famiglia un telaino con uova e larve giovani preso da un'altra arnia. Dopo qualche giorno guarda: se fanno celle reali, la famiglia è davvero orfana.",
+      "science": {
+        "text": "Anche la covata parla con le api attraverso i profumi. Le larve giovani producono una sostanza volatile, l'E-beta-ocimene, che in parte frena lo sviluppo delle ovaie delle operaie. Per questo un telaino di covata giovane, oltre a fare da prova, aiuta a tenere tranquilla la famiglia orfana.",
+        "source": "Maisonnasse et al. 2010, PLoS ONE",
+        "url": "https://doi.org/10.1371/journal.pone.0013531"
+      },
+      "check": {
+        "question": "A che cosa serve il telaino di prova?",
+        "options": [
+          "A dare più miele alla famiglia orfana",
+          "A far uscire le operaie ovificatrici",
+          "A scaldare il nido nelle notti fresche",
+          "A capire se la famiglia è davvero orfana"
+        ],
+        "answer": 3,
+        "explanation": "Se le api usano le larve del telaino per fare celle reali, non hanno una regina."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Enrica, abbiamo il sospetto che la famiglia sia orfana. Come facciamo a esserne sicuri?" },
+        { "who": "E", "text": "Non lo so. C'è un trucco?" },
+        { "who": "M", "text": "Sì: il telaino di prova. Prendi da un'altra arnia un telaino con uova e larve giovani e lo metti nella famiglia sospetta." },
+        { "who": "E", "text": "E poi cosa guardo?" },
+        { "who": "M", "text": "Secondo te, cosa faranno le api di quel telaino, se sono davvero senza regina?" },
+        { "who": "E", "text": "Useranno le larve giovani per allevare celle reali, perché vogliono subito una nuova regina." },
+        { "who": "M", "text": "Brava. Se dopo qualche giorno vedi celle reali, la famiglia è orfana. Se no, forse una regina c'è, magari giovane e non ancora in deposizione." },
+        { "who": "E", "text": "E se è orfana davvero, cosa le do?" },
+        { "who": "M", "text": "Puoi lasciare che allevi una regina dalle celle, oppure darle una cella reale matura, o meglio ancora una regina feconda in gabbietta." },
+        { "who": "E", "text": "E se ci sono già le operaie ovificatrici?" },
+        { "who": "M", "text": "Lì è più difficile: spesso non accettano una regina nuova. Si possono dare più telaini di covata giovane, uno alla settimana." },
+        { "who": "E", "text": "Perché la covata giovane aiuta?" },
+        { "who": "M", "text": "Le larve giovani hanno un profumo che frena le ovaie delle operaie. Se la famiglia è debole, conviene riunirla a una famiglia forte con il giornale." },
+        { "who": "E", "text": "Allora prima la prova, poi la regina nuova, e nei casi difficili la riunione." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Che cos'è una colonia orfana?", "back": "Una famiglia senza una regina che depone.", "part": 0 },
+    { "front": "Perché la regina giovane può non tornare?", "back": "Durante i voli nuziali può essere mangiata o sbagliare arnia.", "part": 0 },
+    { "front": "Segno più sicuro che la regina c'è?", "back": "Uova fresche, una per cella, dritte in fondo.", "part": 1 },
+    { "front": "Dove stanno spesso le celle reali d'emergenza?", "back": "In mezzo al favo, nate da celle di operaia.", "part": 1 },
+    { "front": "Che cosa sono le operaie ovificatrici?", "back": "Operaie che depongono uova non fecondate in una famiglia orfana.", "part": 2 },
+    { "front": "Che cosa nasce dalle loro uova?", "back": "Solo fuchi.", "part": 2 },
+    { "front": "Com'è la covata delle ovificatrici?", "back": "A mosaico, con opercoli bombati da fuco in celle da operaia.", "part": 2 },
+    { "front": "Che cos'è il telaino di prova?", "back": "Un telaino con uova e larve giovani dato alla famiglia sospetta.", "part": 3 },
+    { "front": "Cosa vuol dire se sul telaino di prova fanno celle reali?", "back": "Che la famiglia è davvero orfana.", "part": 3 },
+    { "front": "Rimedio a una famiglia orfana debole?", "back": "Riunirla a una famiglia forte con il metodo del giornale.", "part": 3 }
+  ],
+  "questions": [
+    {
+      "question": "Perché dopo una sciamatura conviene controllare le uova?",
+      "options": [
+        "Perché la regina nuova potrebbe non tornare",
+        "Perché le uova vecchie diventano tutte fuchi",
+        "Perché la varroa mangia le uova in estate",
+        "Perché le operaie le spostano nel melario"
+      ],
+      "answer": 0,
+      "explanation": "La regina giovane deve fare i voli nuziali e può perdersi: le uova nuove dicono che è tornata.",
+      "part": 0
+    },
+    {
+      "question": "Come si riduce il rischio di schiacciare la regina?",
+      "options": [
+        "Visitando l'arnia solo di notte",
+        "Muovendo i telaini piano e sopra l'arnia",
+        "Togliendo tutti i telaini insieme",
+        "Dando tanto fumo prima di aprire"
+      ],
+      "answer": 1,
+      "explanation": "Gesti lenti e telaini tenuti sopra l'arnia evitano di schiacciarla o farla cadere fuori.",
+      "part": 0
+    },
+    {
+      "question": "Una regina c'è ma non depone più. Per la famiglia è...",
+      "options": [
+        "Un vantaggio, perché risparmia cibo",
+        "Un segno che sta per sciamare",
+        "Quasi come restare senza regina",
+        "Una cosa normale in estate"
+      ],
+      "answer": 2,
+      "explanation": "Senza uova nuove la famiglia invecchia e si indebolisce, come se fosse orfana.",
+      "part": 0
+    },
+    {
+      "question": "Da che cosa allevano le api una regina d'emergenza?",
+      "options": [
+        "Da una larva giovane di operaia",
+        "Da un uovo deposto da un fuco",
+        "Da una pupa ormai opercolata",
+        "Da una larva di fuco già grande"
+      ],
+      "answer": 0,
+      "explanation": "Le api scelgono larve giovani di operaia, preferendo quelle di un giorno.",
+      "part": 1
+    },
+    {
+      "question": "Perché non conviene cercare la regina per un'ora?",
+      "options": [
+        "Perché la covata si raffredda e le uova bastano",
+        "Perché la regina si arrabbia e smette di deporre",
+        "Perché le api la nascondono sempre nel melario",
+        "Perché di giorno la regina è fuori a volare"
+      ],
+      "answer": 0,
+      "explanation": "Una visita lunga raffredda la covata; le uova fresche ti dicono già che la regina c'è.",
+      "part": 1
+    },
+    {
+      "question": "Che cosa succede alle celle della covata in una famiglia orfana?",
+      "options": [
+        "Vengono riempite di polline e miele",
+        "Vengono rotte e portate fuori dall'arnia",
+        "Vengono chiuse vuote con la cera nuova",
+        "Vengono allargate tutte in celle reali"
+      ],
+      "answer": 0,
+      "explanation": "Senza nuove uova, le api usano le celle libere per le scorte.",
+      "part": 1
+    },
+    {
+      "question": "Perché di solito le operaie non depongono uova?",
+      "options": [
+        "Perché sono troppo occupate a raccogliere",
+        "Perché il profumo della regina frena le ovaie",
+        "Perché i fuchi impediscono loro di deporre",
+        "Perché non hanno mai le ovaie nel corpo"
+      ],
+      "answer": 1,
+      "explanation": "Il profumo delle mandibole della regina frena lo sviluppo delle ovaie delle operaie.",
+      "part": 2
+    },
+    {
+      "question": "Quale segno fa pensare alle operaie ovificatrici?",
+      "options": [
+        "Un uovo dritto in fondo a ogni cella",
+        "Celle reali sul bordo in basso del favo",
+        "Più uova nella stessa cella, sulle pareti",
+        "Covata compatta chiusa con opercoli piatti"
+      ],
+      "answer": 2,
+      "explanation": "Le operaie hanno l'addome corto e depongono più uova per cella, spesso sulle pareti.",
+      "part": 2
+    },
+    {
+      "question": "Perché una famiglia con operaie ovificatrici si spegne?",
+      "options": [
+        "Perché nascono solo fuchi e niente operaie",
+        "Perché le operaie smettono di fare la cera",
+        "Perché i fuchi mangiano tutte le scorte",
+        "Perché la varroa attacca le uova nuove"
+      ],
+      "answer": 0,
+      "explanation": "Senza nuove operaie la famiglia invecchia e si riduce fino a morire.",
+      "part": 2
+    },
+    {
+      "question": "Sul telaino di prova le api non fanno celle reali. Cosa può voler dire?",
+      "options": [
+        "Che la famiglia ha già molti fuchi",
+        "Che manca polline nei campi vicini",
+        "Che il telaino è troppo pesante",
+        "Che forse una regina giovane c'è"
+      ],
+      "answer": 3,
+      "explanation": "Se non allevano regine, probabilmente ne hanno una, magari non ancora in deposizione.",
+      "part": 3
+    },
+    {
+      "question": "Perché con le ovificatrici è difficile dare una regina nuova?",
+      "options": [
+        "Perché le api spesso non la accettano",
+        "Perché la regina non riesce a volare",
+        "Perché nell'arnia manca la cera nuova",
+        "Perché i fuchi la cacciano dall'arnia"
+      ],
+      "answer": 0,
+      "explanation": "Una famiglia con ovificatrici si comporta come se avesse già una madre e rifiuta spesso la regina.",
+      "part": 3
+    },
+    {
+      "question": "Qual è il rimedio più semplice per una famiglia orfana e debole?",
+      "options": [
+        "Lasciarla sola finché si riprende",
+        "Riunirla a una famiglia forte",
+        "Darle tanto sciroppo ogni giorno",
+        "Spostarla in un apiario lontano"
+      ],
+      "answer": 1,
+      "explanation": "Da sola non ce la fa: unita a una famiglia forte, le sue api non vanno perse.",
+      "part": 3
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Nessuna uova a giugno",
+      "prompt": "A metà giugno apri una famiglia che era forte. Non trovi uova né larve giovani, solo covata opercolata. Su un favo, in mezzo, vedi due celle reali. Le api sono nervose. Cosa fai?",
+      "modelAnswer": "Penso che la famiglia abbia perso la regina da pochi giorni: niente uova né larve giovani, celle reali d'emergenza in mezzo al favo e api nervose. Non rompo le celle reali: sono la loro speranza. Posso lasciare che una di quelle regine nasca, faccia i voli nuziali e inizi a deporre. Segno la data e torno a controllare dopo qualche settimana, cercando uova fresche. Se voglio fare prima, o se la famiglia mi sembra debole, posso darle una regina feconda in gabbietta, dopo aver tolto le celle reali. Intanto muovo i telaini piano, per non schiacciare la futura regina."
+    },
+    {
+      "title": "Tre uova per cella",
+      "prompt": "Apri una famiglia e vedi celle con due o tre uova ciascuna, appoggiate sulle pareti. Qua e là ci sono opercoli bombati in celle piccole. Non ci sono celle reali. Cosa fai?",
+      "modelAnswer": "Sono i segni delle operaie ovificatrici: più uova per cella sulle pareti e covata da fuco a mosaico in celle da operaia. La famiglia è orfana da tempo e nasceranno solo fuchi. Una regina nuova rischia di non essere accettata. Valuto quanto è forte la famiglia. Se è debole, la riunisco a una famiglia forte con il metodo del giornale, dopo aver controllato che la famiglia forte abbia la sua regina. Se è ancora abbastanza popolosa, posso darle un telaino di covata giovane alla settimana: la covata frena le ovaie delle operaie e, quando le api fanno celle reali, posso introdurre una regina. Chiedo consiglio alla mia associazione."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Dalla perdita della regina alle ovificatrici",
+        "steps": [
+          "La regina muore o si perde",
+          "Non arrivano più uova nuove",
+          "Le api fanno celle reali d'emergenza",
+          "La regina d'emergenza non riesce",
+          "Alcune operaie sviluppano le ovaie",
+          "Nasce solo covata da fuco"
+        ],
+        "part": 2
+      },
+      {
+        "title": "Usare il telaino di prova",
+        "steps": [
+          "Sospetti che la famiglia sia orfana",
+          "Prendi un telaino con uova e larve giovani",
+          "Mettilo nella famiglia sospetta",
+          "Aspetta qualche giorno",
+          "Controlla se ci sono celle reali",
+          "Decidi il rimedio"
+        ],
+        "part": 3
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Nasco in una famiglia senza regina",
+          "Depongo più uova nella stessa cella",
+          "Dalle mie uova nascono solo fuchi"
+        ],
+        "answer": "Operaia ovificatrice",
+        "distractors": ["Regina vergine", "Nutrice giovane", "Regina fucaiola"],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Mi prendi da un'altra arnia",
+          "Porto uova e larve giovani",
+          "Ti dico se la famiglia è orfana"
+        ],
+        "answer": "Telaino di prova",
+        "distractors": ["Telaino da nido", "Melario vuoto", "Diaframma"],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Nasco in mezzo al favo",
+          "Mi costruiscono da una cella di operaia",
+          "Mi fanno quando la regina manca"
+        ],
+        "answer": "Cella d'emergenza",
+        "distractors": ["Cella da fuco", "Cella da polline", "Cella di sciamatura"],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Mi trovi in fondo alla cella",
+          "Sono uno solo, dritto e bianco",
+          "Ti dico che la regina c'era da poco"
+        ],
+        "answer": "Uovo fresco",
+        "distractors": ["Opercolo", "Bozzolo", "Cupolino"],
+        "part": 1
+      }
+    ],
+    "truefalse": [
+      { "text": "Una famiglia orfana è una famiglia senza una regina che depone.", "true": true, "why": "Anche una regina che non depone più lascia la famiglia come orfana.", "part": 0 },
+      { "text": "La regina non può mai morire durante una visita.", "true": false, "why": "Può essere schiacciata tra i telaini o cadere fuori dall'arnia.", "part": 0 },
+      { "text": "Una regina giovane può perdersi durante i voli nuziali.", "true": true, "why": "Può essere mangiata da un uccello o sbagliare arnia al ritorno.", "part": 0 },
+      { "text": "Uova fresche nelle celle dicono che la regina c'era da poco.", "true": true, "why": "Le uova schiudono in pochi giorni, quindi sono un segno recente.", "part": 1 },
+      { "text": "Le api orfane allevano regine d'emergenza da larve di fuco.", "true": false, "why": "Usano larve giovani di operaia, preferendo quelle di un giorno.", "part": 1 },
+      { "text": "Le celle d'emergenza sono spesso in mezzo al favo.", "true": true, "why": "Nascono allargando celle normali di operaia.", "part": 1 },
+      { "text": "Dalle uova delle operaie ovificatrici nascono nuove operaie.", "true": false, "why": "Le loro uova non sono fecondate: nascono solo fuchi.", "part": 2 },
+      { "text": "Le ovificatrici depongono spesso più uova per cella.", "true": true, "why": "Hanno l'addome corto e mettono le uova anche sulle pareti.", "part": 2 },
+      { "text": "Il profumo della regina frena le ovaie delle operaie.", "true": true, "why": "Quando la regina manca, quel freno sparisce.", "part": 2 },
+      { "text": "Se sul telaino di prova nascono celle reali, la regina c'è.", "true": false, "why": "Al contrario: le celle reali dicono che la famiglia è orfana.", "part": 3 },
+      { "text": "Una famiglia con ovificatrici accetta sempre subito una regina nuova.", "true": false, "why": "Spesso la rifiuta: per questo è un caso difficile.", "part": 3 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 6,
+      "question": "Come può un apicoltore uccidere la regina senza accorgersene?",
+      "options": [
+        "Dando troppo sciroppo alla famiglia",
+        "Mettendo il melario troppo tardi",
+        "Schiacciandola tra due telaini",
+        "Aprendo l'arnia nelle ore calde"
+      ],
+      "answer": 2,
+      "why": "Muovendo i telaini in fretta si può schiacciare la regina o farla cadere fuori."
+    },
+    {
+      "part": 1,
+      "line": 2,
+      "question": "Qual è il segno più sicuro che la regina c'è?",
+      "options": [
+        "Molto polline fresco nei favi",
+        "Tante api ferme all'ingresso",
+        "Uova fresche, una per cella",
+        "Celle reali sul bordo del favo"
+      ],
+      "answer": 2,
+      "why": "Le uova fresche e dritte, una per cella, vogliono dire che la regina deponeva pochi giorni fa."
+    },
+    {
+      "part": 2,
+      "line": 4,
+      "question": "Che cosa nasce da un uovo non fecondato?",
+      "options": [
+        "Un'operaia piccola",
+        "Una regina debole",
+        "Un fuco, cioè un maschio",
+        "Una nutrice giovane"
+      ],
+      "answer": 2,
+      "why": "Le uova non fecondate diventano fuchi: per questo le ovificatrici danno solo maschi."
+    },
+    {
+      "part": 3,
+      "line": 4,
+      "question": "Che cosa fanno le api orfane con il telaino di prova?",
+      "options": [
+        "Lo riempiono subito di miele e polline",
+        "Lo portano fuori pezzo per pezzo",
+        "Lo lasciano vuoto e non lo toccano",
+        "Allevano celle reali dalle larve giovani"
+      ],
+      "answer": 3,
+      "why": "Senza regina, usano le larve giovani del telaino per allevarne una nuova."
+    }
+  ]
+}

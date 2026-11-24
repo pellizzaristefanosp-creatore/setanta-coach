@@ -1,0 +1,669 @@
+{
+  "code": "3.3",
+  "unit": 3,
+  "title": "L'allevamento delle api regina",
+  "pages": "99–116",
+  "summary": "Capisci perché la regina è il cuore della famiglia e perché conviene allevarne di buone. Impari i passi dell'allevamento, dal traslarvo al nucleo di fecondazione, come si marca una regina e come scegliere una regina da comprare.",
+  "parts": [
+    {
+      "title": "L'importanza della regina",
+      "keyPoints": [
+        "La regina è la madre di tutta la famiglia",
+        "Con i suoi profumi tiene unite le api",
+        "Il suo profumo frena sciamatura e operaie ovificatrici",
+        "Da lei dipendono forza e carattere della famiglia"
+      ],
+      "analogy": "La regina è come il lievito madre nella pasta: è poca cosa in mezzo a tanta farina, ma senza di lei la pasta non cresce.",
+      "tip": "A ogni visita di primavera e d'estate cerca le uova fresche, dritte in fondo alle celle: ti dicono che la regina c'è ed è al lavoro, anche se non la vedi.",
+      "science": {
+        "text": "La regina produce un miscuglio di profumi chiamati feromoni. Attirano le api che le stanno intorno, richiamano i fuchi nei voli d'amore e frenano sia la deposizione delle operaie sia la sciamatura. Per il solo cerchio di api intorno a lei servono almeno nove sostanze diverse.",
+        "source": "Keeling et al. 2003, PNAS",
+        "url": "https://doi.org/10.1073/pnas.0836984100"
+      },
+      "check": {
+        "question": "Che cosa fanno i profumi della regina nella famiglia?",
+        "options": [
+          "Fanno maturare il miele più in fretta",
+          "Tengono unite le api e frenano la sciamatura",
+          "Allontanano la varroa dalle celle della covata",
+          "Fanno crescere le larve dei fuchi più grandi"
+        ],
+        "answer": 1,
+        "explanation": "I feromoni della regina attirano le api, tengono unita la famiglia e frenano sciamatura e operaie ovificatrici."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo di un argomento che fa sentire gli apicoltori un po' allevatori di principesse: l'allevamento delle api regina." },
+        { "who": "E", "text": "Ciao Tonino! Allevare regine mi sembra roba da esperti." },
+        { "who": "M", "text": "Un po' sì, ma capire come funziona ti serve comunque. Prima di tutto: perché la regina è così importante?" },
+        { "who": "E", "text": "Perché fa le uova, credo." },
+        { "who": "M", "text": "Giusto, è la madre di tutte le api della famiglia. Ma fa anche un'altra cosa: produce dei profumi, i feromoni." },
+        { "who": "E", "text": "Profumi? A cosa servono?" },
+        { "who": "M", "text": "Le api se li passano tra loro, e così tutte sanno che la regina c'è. Secondo te, cosa succede se il suo profumo arriva male a tante api?" },
+        { "who": "E", "text": "Le api pensano che manchi qualcosa e iniziano ad allevare nuove regine, magari per sciamare." },
+        { "who": "M", "text": "Brava, ti ricordi la lezione sulla sciamatura! Il suo profumo frena anche le operaie dal deporre uova." },
+        { "who": "E", "text": "Quindi la regina comanda con il profumo, non con la voce." },
+        { "who": "M", "text": "Proprio. E poi c'è il carattere: le operaie sono tutte figlie sue. Una regina buona dà una famiglia forte, tranquilla e sana." },
+        { "who": "E", "text": "E una regina scadente?" },
+        { "who": "M", "text": "Covata a buchi, famiglia debole, a volte nervosa. Per questo gli apicoltori cercano regine giovani e di buona famiglia." },
+        { "who": "E", "text": "Allora la regina è come il lievito madre: piccola, ma decide come viene tutta la pasta." }
+      ]
+    },
+    {
+      "title": "Perché allevare regine e quali sono le migliori",
+      "keyPoints": [
+        "Si allevano regine per sostituire quelle vecchie o scadenti",
+        "Servono anche per fare nuove famiglie",
+        "Le migliori vengono da famiglie docili, sane e produttive",
+        "Le api del posto spesso si adattano meglio"
+      ],
+      "analogy": "È come scegliere i semi per l'orto: tieni quelli delle piante più sane e saporite, e meglio se sono varietà del tuo paese.",
+      "tip": "Tieni un quaderno per ogni arnia: carattere, sciamature, miele raccolto, malattie. Dopo un anno sai quali famiglie meritano di diventare madri delle tue future regine.",
+      "science": {
+        "text": "Una grande prova europea ha seguito quasi seicento famiglie in venti apiari di diversi Paesi. Le famiglie con regine di origine locale sono sopravvissute in media circa 83 giorni in più di quelle con regine venute da lontano. Le api del posto sono più adatte al loro clima e ai loro fiori.",
+        "source": "Büchler et al. 2014, Journal of Apicultural Research",
+        "url": "https://doi.org/10.3896/IBRA.1.53.2.03"
+      },
+      "check": {
+        "question": "Da quale famiglia conviene prendere le larve per nuove regine?",
+        "options": [
+          "Da quella che ha sciamato più volte",
+          "Da quella più aggressiva dell'apiario",
+          "Da quella docile, sana e produttiva",
+          "Da quella con la regina più anziana"
+        ],
+        "answer": 2,
+        "explanation": "Le figlie ereditano le qualità della madre: si scelgono famiglie docili, sane, produttive e poco sciamatrici."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Enrica, secondo te perché un apicoltore dovrebbe allevare le sue regine, invece di lasciar fare alle api?" },
+        { "who": "E", "text": "Per scegliere lui le regine migliori, invece di lasciare tutto al caso." },
+        { "who": "M", "text": "Esatto. Le api da sole allevano regine quando sciamano o quando restano orfane, ma non scelgono per noi." },
+        { "who": "E", "text": "E a cosa servono le regine allevate?" },
+        { "who": "M", "text": "A sostituire regine vecchie o scadenti, a rimettere la regina nelle famiglie orfane e a fare nuove famiglie." },
+        { "who": "E", "text": "E come si capisce quali sono le regine migliori?" },
+        { "who": "M", "text": "Si guardano le loro famiglie: docili, sane, che fanno buon miele, che sciamano poco e che superano bene l'inverno." },
+        { "who": "E", "text": "Come si sceglie la gallina che fa più uova." },
+        { "who": "M", "text": "Più o meno. Per questo serve un quaderno: per ogni arnia scrivi carattere, miele, malattie, sciamature." },
+        { "who": "E", "text": "E le regine che vengono da lontano? Sono migliori?" },
+        { "who": "M", "text": "Non per forza. Una grande prova in Europa ha visto che le regine di origine locale vivevano più a lungo." },
+        { "who": "E", "text": "Perché sono abituate al clima e ai fiori di casa?" },
+        { "who": "M", "text": "Proprio così. In Italia abbiamo l'ape ligustica, ma anche nella tua zona ci sono famiglie adattate da tanti anni." },
+        { "who": "E", "text": "Allora prima guardo bene le mie famiglie, e scelgo le madri tra le più brave e tranquille." }
+      ]
+    },
+    {
+      "title": "Il traslarvo",
+      "keyPoints": [
+        "Si spostano larve giovanissime nei cupolini",
+        "Le larve devono avere meno di un giorno",
+        "Servono luce, umidità, calma e mano leggera",
+        "Le larve non vanno girate né schiacciate"
+      ],
+      "analogy": "Il traslarvo è come trapiantare piantine appena nate: le prendi piccolissime, con delicatezza, e le metti subito in un vasetto morbido.",
+      "tip": "Esercitati prima su un vecchio favo di covata. Lavora in un posto riparato e luminoso, senza sole diretto né vento, e copri le larve con un panno umido.",
+      "science": {
+        "text": "Uno studio ha allevato larve in laboratorio partendo da età diverse. Le larve più giovani avevano più probabilità di diventare adulte con il corpo tipico della regina. Per questo nel traslarvo si scelgono larve appena nate dall'uovo, nutrite fin dall'inizio come future regine.",
+        "source": "De Souza, Hartfelder e Tarpy 2019, Journal of Economic Entomology",
+        "url": "https://doi.org/10.1093/jee/toz148"
+      },
+      "check": {
+        "question": "Quali larve si scelgono per il traslarvo?",
+        "options": [
+          "Larve giovanissime, di meno di un giorno",
+          "Larve grandi, ormai pronte da opercolare",
+          "Larve di fuco, più grosse e robuste",
+          "Larve di tre giorni, già ben nutrite"
+        ],
+        "answer": 0,
+        "explanation": "Più la larva è giovane, più diventa una regina ben fatta."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Adesso arriva la parte che fa tremare le mani: il traslarvo." },
+        { "who": "E", "text": "Che parola strana! Cosa vuol dire?" },
+        { "who": "M", "text": "Vuol dire spostare le larve. Prendi una larva piccolissima da una cella normale e la metti in un cupolino, cioè una coppetta che imita la cella reale." },
+        { "who": "E", "text": "E con cosa la prendi? Con le dita?" },
+        { "who": "M", "text": "No, con un ago apposta, che ha una punta sottile e morbida. La larva si sfila da sotto, insieme a un po' della sua pappa." },
+        { "who": "E", "text": "Quanto deve essere piccola?" },
+        { "who": "M", "text": "Piccolissima, appena uscita dall'uovo. Secondo te, perché si sceglie una larva così giovane?" },
+        { "who": "E", "text": "Perché così viene nutrita da regina fin dall'inizio, e diventa una regina più completa." },
+        { "who": "M", "text": "Brava. Più cresce da operaia, meno sarà una regina perfetta. Lo hanno visto anche gli studi." },
+        { "who": "E", "text": "E bisogna fare in fretta?" },
+        { "who": "M", "text": "Sì, perché le larve si seccano. Lavora in un posto riparato, con buona luce, e tieni il favo coperto con un panno umido." },
+        { "who": "E", "text": "E se la giro per sbaglio?" },
+        { "who": "M", "text": "Meglio lasciarla e prenderne un'altra. La larva deve restare come era, con la stessa faccia in su." },
+        { "who": "E", "text": "Allora mi alleno prima su un favo vecchio, come quando si impara a fare i tortellini." }
+      ]
+    },
+    {
+      "title": "Starter, alveare di allevamento e incubazione",
+      "keyPoints": [
+        "Lo starter è una famiglia orfana piena di nutrici",
+        "Lo starter accetta le larve e le nutre bene",
+        "L'alveare di allevamento finisce le celle reali",
+        "Le celle opercolate si tengono al caldo fino alla nascita"
+      ],
+      "analogy": "È come una staffetta di cucine: la prima prepara l'impasto con cura, la seconda lo fa cuocere, la terza lo tiene in caldo finché è pronto.",
+      "tip": "Segna sul calendario il giorno del traslarvo e conta i giorni: le celle reali vanno spostate prima che nasca la prima regina, altrimenti può uccidere le sorelle.",
+      "science": {
+        "text": "I metodi standard per allevare regine, scritti da un gruppo europeo di ricercatori, descrivono le condizioni base e le diverse tecniche: famiglie ricche di api giovani e ben nutrite, buone attrezzature e controllo della qualità. Sono un riferimento per chi alleva regine in modo ordinato.",
+        "source": "Büchler et al. 2013, Journal of Apicultural Research (COLOSS BEEBOOK)",
+        "url": "https://doi.org/10.3896/IBRA.1.52.1.07"
+      },
+      "check": {
+        "question": "A che cosa serve il nucleo starter?",
+        "options": [
+          "A far fecondare le regine appena nate",
+          "A far accettare e nutrire le larve traslarvate",
+          "A conservare le regine vecchie durante l'inverno",
+          "A produrre il miele per nutrire le altre arnie"
+        ],
+        "answer": 1,
+        "explanation": "Lo starter è orfano e pieno di nutrici: accetta volentieri le larve e le nutre con tanta pappa reale."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Enrica, le larve sono nei cupolini. E adesso a chi le diamo?" },
+        { "who": "E", "text": "A una famiglia che le curi, immagino." },
+        { "who": "M", "text": "Sì, ma non a una qualsiasi. Prima vanno nel nucleo starter, che vuol dire di avvio. È una famiglia senza regina, piena di api giovani." },
+        { "who": "E", "text": "Perché proprio senza regina?" },
+        { "who": "M", "text": "Secondo te, perché una famiglia orfana accetta volentieri le larve nei cupolini?" },
+        { "who": "E", "text": "Perché si sente senza mamma e vuole allevare subito una nuova regina, quindi nutre le larve con tanta pappa reale." },
+        { "who": "M", "text": "Esatto. Le api giovani, le nutrici, producono la pappa reale. Più sono e più sono ben nutrite, meglio è." },
+        { "who": "E", "text": "E poi le celle restano lì fino alla fine?" },
+        { "who": "M", "text": "Spesso no. Dopo l'avvio passano nell'alveare di allevamento, una famiglia forte che finisce le celle e le chiude con la cera." },
+        { "who": "E", "text": "Una staffetta, allora!" },
+        { "who": "M", "text": "Proprio. Quando le celle sono opercolate, cioè chiuse, vanno tenute al caldo: in una famiglia o in un'incubatrice. È l'incubazione." },
+        { "who": "E", "text": "E poi nascono tutte insieme?" },
+        { "who": "M", "text": "Quasi. Ma attenzione: la prima regina che nasce uccide le sorelle ancora chiuse. Per questo le celle si spostano prima, una per nucleo." },
+        { "who": "E", "text": "Quindi tengo il calendario e non perdo il giorno giusto." }
+      ]
+    },
+    {
+      "title": "Il nucleo di fecondazione",
+      "keyPoints": [
+        "Ogni cella matura va in un piccolo nucleo",
+        "La regina vergine esce per i voli nuziali",
+        "Si accoppia in volo con molti fuchi",
+        "Tanti padri danno una famiglia più forte"
+      ],
+      "analogy": "Una famiglia con tanti padri è come una squadra di cuochi con ricette diverse: se manca un ingrediente, qualcuno sa sempre come fare.",
+      "tip": "Metti i nuclei di fecondazione ben distanziati, con ingressi colorati o orientati in modo diverso: la regina al ritorno dal volo deve ritrovare la sua casetta.",
+      "science": {
+        "text": "La regina si accoppia con molti fuchi. In un esperimento, famiglie con figlie di quindici padri diversi hanno costruito i favi più in fretta, raccolto più cibo, sono cresciute di più e hanno superato meglio l'inverno rispetto a famiglie con un solo padre.",
+        "source": "Mattila e Seeley 2007, Science",
+        "url": "https://doi.org/10.1126/science.1143046"
+      },
+      "check": {
+        "question": "Perché è utile che la regina si accoppi con molti fuchi?",
+        "options": [
+          "Perché così depone soltanto uova di fuco",
+          "Perché così vive molti anni in più",
+          "Perché così la famiglia sciama più spesso",
+          "Perché così la famiglia è più varia e forte"
+        ],
+        "answer": 3,
+        "explanation": "Con tanti padri le operaie sono più varie, e la famiglia lavora meglio e sopravvive di più."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Adesso ogni cella reale va nella sua casetta: il nucleo di fecondazione." },
+        { "who": "E", "text": "Una casetta piccola?" },
+        { "who": "M", "text": "Sì, pochi favi, un po' di api, scorte di cibo. Lì nasce la regina e da lì parte per i voli nuziali." },
+        { "who": "E", "text": "Voli nuziali? Come un viaggio di nozze!" },
+        { "who": "M", "text": "Quasi. La regina vergine esce e vola nelle zone dove si radunano i fuchi. Lì si accoppia in volo, con molti fuchi." },
+        { "who": "E", "text": "Con molti? Non con uno solo?" },
+        { "who": "M", "text": "Con molti. Secondo te, perché alla famiglia conviene avere tanti padri?" },
+        { "who": "E", "text": "Perché le figlie sono più diverse tra loro, e una famiglia varia se la cava meglio in tante situazioni." },
+        { "who": "M", "text": "Brava. Uno studio famoso lo ha dimostrato: le famiglie con tanti padri crescevano di più e passavano meglio l'inverno." },
+        { "who": "E", "text": "E dopo i voli cosa succede?" },
+        { "who": "M", "text": "La regina conserva il seme dei fuchi per tutta la vita, in un piccolo serbatoio. Poi torna a casa e inizia a deporre." },
+        { "who": "E", "text": "E se non ritrova il nucleo?" },
+        { "who": "M", "text": "È un rischio vero. Per questo i nuclei si mettono distanziati, con ingressi diversi, così la regina riconosce la sua porta." },
+        { "who": "E", "text": "Quando vedo uova fresche nel nucleo, so che il viaggio di nozze è andato bene." }
+      ]
+    },
+    {
+      "title": "La marcatura delle api regina",
+      "keyPoints": [
+        "Un puntino di colore sul torace della regina",
+        "Il colore indica l'anno di nascita",
+        "Bianco 1-6, giallo 2-7, rosso 3-8, verde 4-9, blu 5-0",
+        "Una regina marcata si trova più in fretta"
+      ],
+      "analogy": "Marcare la regina è come mettere un nastrino colorato sulla valigia: in mezzo a tante uguali la riconosci subito, e sai da quale viaggio viene.",
+      "tip": "Usa un pennarello apposta per api. Tieni ferma la regina con delicatezza, metti un solo puntino sul torace, mai su testa, ali o addome. Aspetta che asciughi prima di liberarla.",
+      "science": {
+        "text": "Le guide universitarie per apicoltori consigliano di segnare la regina con il codice internazionale dei colori, che indica l'anno in cui è stata allevata. I colori seguono l'ultima cifra dell'anno: bianco per 1 e 6, giallo per 2 e 7, rosso per 3 e 8, verde per 4 e 9, blu per 5 e 0.",
+        "source": "University of Florida, IFAS Extension, pubblicazione IN1457",
+        "url": "https://ask.ifas.ufl.edu/publication/IN1457"
+      },
+      "check": {
+        "question": "Di che colore si marca una regina nata nel 2026?",
+        "options": [
+          "Giallo, il colore degli anni pari",
+          "Blu, il colore degli anni nuovi",
+          "Rosso, il colore di quest'anno",
+          "Bianco, come gli anni che finiscono per 6"
+        ],
+        "answer": 3,
+        "explanation": "Il bianco vale per gli anni che finiscono con 1 o 6, quindi anche per il 2026."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Enrica, hai mai visto una regina con un puntino colorato sulla schiena?" },
+        { "who": "E", "text": "Sì, in un video! Pensavo fosse un adesivo." },
+        { "who": "M", "text": "È un puntino di vernice sul torace, la parte in mezzo tra testa e addome. Si chiama marcatura." },
+        { "who": "E", "text": "E a cosa serve?" },
+        { "who": "M", "text": "Secondo te, a cosa serve un puntino colorato su una regina, in mezzo a migliaia di api?" },
+        { "who": "E", "text": "A trovarla più in fretta durante la visita, e forse anche a sapere quanti anni ha." },
+        { "who": "M", "text": "Esatto, tutte e due le cose. C'è un codice internazionale: il colore dipende dall'ultima cifra dell'anno." },
+        { "who": "E", "text": "Dimmi i colori, li scrivo." },
+        { "who": "M", "text": "Bianco per gli anni che finiscono con 1 o 6. Giallo per 2 e 7. Rosso per 3 e 8. Verde per 4 e 9. Blu per 5 e 0." },
+        { "who": "E", "text": "Quindi una regina nata quest'anno, nel 2026, è bianca." },
+        { "who": "M", "text": "Brava. E se l'anno prossimo vedi una regina bianca ma non ne hai mai messa una, cosa pensi?" },
+        { "who": "E", "text": "Che le api l'hanno cambiata da sole, quindi quella non è più la regina che avevo marcato." },
+        { "who": "M", "text": "Giusto, o al contrario: se trovi una regina senza puntino. Usa un pennarello apposta, un puntino solo, e aspetta che asciughi." },
+        { "who": "E", "text": "E mai sulla testa o sulle ali. Ci vuole la mano leggera, come per dipingere le uova di Pasqua." }
+      ]
+    },
+    {
+      "title": "Il mercato delle regine",
+      "keyPoints": [
+        "Si possono comprare regine da allevatori",
+        "In Italia c'è un albo nazionale di allevatori",
+        "La qualità cambia molto tra allevatori",
+        "Meglio regine sane, giovani e adatte al territorio"
+      ],
+      "analogy": "Comprare una regina è come comprare piantine di pomodoro: meglio dal vivaista serio della tua zona che dalla bancarella di passaggio.",
+      "tip": "Quando arriva una regina comprata, controlla subito che sia viva. Inseriscila con la sua gabbietta in una famiglia orfana e non disturbare per alcuni giorni.",
+      "science": {
+        "text": "Ricercatori americani hanno comprato ottanta regine da grandi allevatori e le hanno esaminate. In media erano accoppiate con molti fuchi e avevano oltre quattro milioni di spermatozoi conservati. La qualità fisica però cambiava da un allevatore all'altro: conviene scegliere bene da chi comprare.",
+        "source": "Tarpy et al. 2012, Journal of Economic Entomology",
+        "url": "https://doi.org/10.1603/ec11276"
+      },
+      "check": {
+        "question": "Che cosa conviene guardare quando si compra una regina?",
+        "options": [
+          "Che sia economica e arrivi da molto lontano",
+          "Che sia grande e con le ali già tagliate",
+          "Che venga da un allevatore serio e vicino",
+          "Che abbia almeno tre anni di esperienza"
+        ],
+        "answer": 2,
+        "explanation": "La qualità cambia tra allevatori, e le api adatte al territorio vivono meglio."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Enrica, non tutti allevano le proprie regine. Molti apicoltori le comprano." },
+        { "who": "E", "text": "Si comprano le regine? Come le piantine al vivaio?" },
+        { "who": "M", "text": "Proprio così. Arrivano in una gabbietta, con alcune api che le fanno compagnia e un po' di candito per mangiare." },
+        { "who": "E", "text": "E da chi si comprano?" },
+        { "who": "M", "text": "Da allevatori di regine. In Italia c'è un albo nazionale degli allevatori di api italiane, seguito dal CREA. Chiedi anche alla tua associazione." },
+        { "who": "E", "text": "Sono tutte uguali?" },
+        { "who": "M", "text": "No. Secondo te, perché conviene una regina di un allevatore serio della tua zona?" },
+        { "who": "E", "text": "Perché la qualità cambia da un allevatore all'altro, e le api del posto sono abituate al nostro clima." },
+        { "who": "M", "text": "Brava. Uno studio ha esaminato tante regine comprate e ha trovato differenze di qualità tra un allevatore e l'altro." },
+        { "who": "E", "text": "E quando arriva la regina, cosa faccio?" },
+        { "who": "M", "text": "Controlli subito che sia viva. Poi la metti nella famiglia orfana dentro la sua gabbietta, chiusa con il candito." },
+        { "who": "E", "text": "Perché non la libero subito?" },
+        { "who": "M", "text": "Perché le api devono abituarsi al suo profumo. Mangiando il candito, in qualche giorno la liberano da sole." },
+        { "who": "E", "text": "E io intanto non disturbo, così la accettano con calma." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Che cosa sono i feromoni della regina?", "back": "Profumi che tengono unita la famiglia e frenano la sciamatura.", "part": 0 },
+    { "front": "Come capisci che la regina c'è, senza vederla?", "back": "Dalle uova fresche, dritte in fondo alle celle.", "part": 0 },
+    { "front": "Perché allevare regine?", "back": "Per sostituire le vecchie, rimediare all'orfanità e fare nuove famiglie.", "part": 1 },
+    { "front": "Quali famiglie scegliere come madri?", "back": "Docili, sane, produttive e poco sciamatrici.", "part": 1 },
+    { "front": "Che cos'è il traslarvo?", "back": "Spostare larve giovanissime nei cupolini.", "part": 2 },
+    { "front": "Che cos'è un cupolino?", "back": "Una coppetta che imita l'inizio di una cella reale.", "part": 2 },
+    { "front": "Che cos'è il nucleo starter?", "back": "Una famiglia orfana piena di nutrici che avvia le celle reali.", "part": 3 },
+    { "front": "Perché le celle si spostano prima della nascita?", "back": "La prima regina nata uccide le sorelle ancora chiuse.", "part": 3 },
+    { "front": "Dove si accoppia la regina?", "back": "In volo, con molti fuchi, durante i voli nuziali.", "part": 4 },
+    { "front": "Colore di marcatura per il 2026?", "back": "Bianco (anni che finiscono con 1 o 6).", "part": 5 },
+    { "front": "Colore per gli anni che finiscono con 5 o 0?", "back": "Blu.", "part": 5 },
+    { "front": "Come si inserisce una regina comprata?", "back": "Nella sua gabbietta chiusa col candito, in una famiglia orfana.", "part": 6 }
+  ],
+  "questions": [
+    {
+      "question": "Che cosa ti dicono le uova fresche nelle celle?",
+      "options": [
+        "Che la regina c'è ed è al lavoro",
+        "Che la famiglia sta per sciamare",
+        "Che le operaie stanno deponendo",
+        "Che i fuchi sono appena nati"
+      ],
+      "answer": 0,
+      "explanation": "Le uova fresche e dritte, una per cella, dicono che la regina c'era fino a pochi giorni fa.",
+      "part": 0
+    },
+    {
+      "question": "Perché le regine di origine locale sono spesso migliori?",
+      "options": [
+        "Perché depongono il doppio delle uova",
+        "Perché sono adatte al clima e ai fiori",
+        "Perché non hanno mai bisogno di cure",
+        "Perché non si accoppiano con i fuchi"
+      ],
+      "answer": 1,
+      "explanation": "Le api del posto si sono adattate al clima e ai fiori della zona e vivono più a lungo.",
+      "part": 1
+    },
+    {
+      "question": "A che cosa serve il quaderno delle arnie?",
+      "options": [
+        "A scegliere le famiglie migliori come madri",
+        "A ricordare il colore di ogni coperchio",
+        "A segnare quante api escono ogni ora",
+        "A contare i fuchi presenti in primavera"
+      ],
+      "answer": 0,
+      "explanation": "Annotando carattere, miele e malattie capisci quali famiglie meritano di dare regine.",
+      "part": 1
+    },
+    {
+      "question": "Con che cosa si prende la larva nel traslarvo?",
+      "options": [
+        "Con una pinzetta da cucito",
+        "Con la punta delle dita",
+        "Con un ago apposta, sottile",
+        "Con un cucchiaino di legno"
+      ],
+      "answer": 2,
+      "explanation": "Un ago da traslarvo con la punta sottile e morbida sfila la larva senza schiacciarla.",
+      "part": 2
+    },
+    {
+      "question": "Perché durante il traslarvo si copre il favo con un panno umido?",
+      "options": [
+        "Perché le larve non si secchino",
+        "Perché le api non vedano la luce",
+        "Perché il miele non coli giù",
+        "Perché la regina non scappi via"
+      ],
+      "answer": 0,
+      "explanation": "Le larve sono piccolissime e si seccano in fretta all'aria.",
+      "part": 2
+    },
+    {
+      "question": "Che cosa fa l'alveare di allevamento?",
+      "options": [
+        "Accoppia le regine con i suoi fuchi",
+        "Termina le celle reali e le chiude",
+        "Produce le larve da traslarvare",
+        "Conserva le regine per l'inverno"
+      ],
+      "answer": 1,
+      "explanation": "Dopo l'avvio nello starter, una famiglia forte finisce di nutrire e opercolare le celle.",
+      "part": 3
+    },
+    {
+      "question": "Che cosa vuol dire che una cella reale è opercolata?",
+      "options": [
+        "Che è stata rotta dalle api",
+        "Che è vuota e pronta all'uso",
+        "Che è chiusa con un tappo di cera",
+        "Che è stata spostata nel melario"
+      ],
+      "answer": 2,
+      "explanation": "Opercolata vuol dire chiusa con la cera: dentro la futura regina sta finendo di formarsi.",
+      "part": 3
+    },
+    {
+      "question": "Che cosa conserva la regina dopo i voli nuziali?",
+      "options": [
+        "Il polline raccolto durante il volo",
+        "Il seme dei fuchi per tutta la vita",
+        "La pappa reale per nutrire le larve",
+        "Il profumo dei fiori del suo viaggio"
+      ],
+      "answer": 1,
+      "explanation": "Il seme resta in un piccolo serbatoio nel suo corpo e le basta per anni.",
+      "part": 4
+    },
+    {
+      "question": "Perché i nuclei di fecondazione si mettono distanziati?",
+      "options": [
+        "Perché la regina ritrovi la sua casetta",
+        "Perché i fuchi non entrino nei nuclei",
+        "Perché le api non si rubino il miele",
+        "Perché il sole scaldi ogni ingresso"
+      ],
+      "answer": 0,
+      "explanation": "Al ritorno dal volo la regina può sbagliare porta: distanza e ingressi diversi la aiutano.",
+      "part": 4
+    },
+    {
+      "question": "Dove si mette il puntino di marcatura?",
+      "options": [
+        "Sulla testa, tra le due antenne",
+        "Sulle ali, vicino al corpo",
+        "Sull'addome, nella parte finale",
+        "Sul torace, nella parte centrale"
+      ],
+      "answer": 3,
+      "explanation": "Il torace è la parte giusta: testa, ali e addome non vanno mai toccati con il colore.",
+      "part": 5
+    },
+    {
+      "question": "Trovi una regina senza puntino dove l'avevi marcata. Cosa pensi?",
+      "options": [
+        "Che il colore si è sciolto con il miele",
+        "Che le api l'hanno sostituita da sole",
+        "Che la regina si è pulita da sola",
+        "Che il puntino serve solo un mese"
+      ],
+      "answer": 1,
+      "explanation": "Spesso vuol dire che la famiglia ha cambiato regina da sola.",
+      "part": 5
+    },
+    {
+      "question": "Perché la regina comprata resta qualche giorno nella gabbietta?",
+      "options": [
+        "Perché deve riposare dopo il viaggio lungo",
+        "Perché le api si abituino al suo profumo",
+        "Perché deve finire di accoppiarsi in gabbia",
+        "Perché così depone le uova più grandi"
+      ],
+      "answer": 1,
+      "explanation": "Mentre le api mangiano il candito, conoscono il suo profumo e poi la accettano.",
+      "part": 6
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Quale famiglia scegliere come madre",
+      "prompt": "Hai sei arnie. La numero 2 fa tanto miele ma è molto aggressiva. La numero 5 è docile, sana, ha superato bene l'inverno e non ha sciamato. Vuoi allevare qualche regina. Cosa fai?",
+      "modelAnswer": "Scelgo la numero 5 come famiglia madre: le figlie ereditano le qualità della madre, e una famiglia docile, sana, che sverna bene e sciama poco è quello che voglio moltiplicare. La numero 2 fa tanto miele, ma il carattere aggressivo passerebbe alle figlie e renderebbe difficile il lavoro. Prendo dalla numero 5 un favo con larve appena nate, faccio il traslarvo nei cupolini, metto le larve in un nucleo starter orfano pieno di api giovani, poi nell'alveare di allevamento. Prima della nascita sposto ogni cella in un nucleo di fecondazione. Più avanti posso usare una di queste regine per sostituire quella della numero 2. Segno tutto nel quaderno."
+    },
+    {
+      "title": "Una regina da marcare",
+      "prompt": "A giugno 2026 trovi nel nucleo una regina giovane che depone bene. Vuoi marcarla. Cosa fai, e di che colore?",
+      "modelAnswer": "Il 2026 finisce con 6, quindi il colore è il bianco. Preparo un pennarello apposta per api, bianco. Trovo la regina sul favo, la prendo con delicatezza per il torace o per le zampe, oppure uso una gabbietta per marcare. Metto un solo puntino piccolo sul torace, senza toccare testa, ali o addome. Aspetto qualche secondo che il colore asciughi, poi la rimetto sul favo, tra le sue api, piano. Segno sul quaderno l'arnia, la data e il colore. Così alle prossime visite la troverò più in fretta e saprò che è del 2026."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Dall'uovo scelto alla regina che depone",
+        "steps": [
+          "Scegli la famiglia madre migliore",
+          "Fai il traslarvo nei cupolini",
+          "Metti le larve nel nucleo starter",
+          "L'alveare di allevamento finisce le celle",
+          "Tieni al caldo le celle opercolate",
+          "Sposta ogni cella in un nucleo",
+          "La regina fa i voli nuziali e depone"
+        ],
+        "part": 3
+      },
+      {
+        "title": "Il codice dei colori, dall'1 al 5",
+        "steps": [
+          "Bianco: anni che finiscono con 1",
+          "Giallo: anni che finiscono con 2",
+          "Rosso: anni che finiscono con 3",
+          "Verde: anni che finiscono con 4",
+          "Blu: anni che finiscono con 5"
+        ],
+        "part": 5
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Mi metti in una famiglia orfana",
+          "Accolgo le larve appena traslarvate",
+          "Ho tante nutrici piene di pappa reale"
+        ],
+        "answer": "Nucleo starter",
+        "distractors": ["Nucleo di fecondazione", "Melario", "Nucleo orfano debole"],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Mi usi con mano ferma e leggera",
+          "Ho una punta sottile e morbida",
+          "Sposto le larve nei cupolini"
+        ],
+        "answer": "Ago da traslarvo",
+        "distractors": ["Pennello da api", "Spazzolino morbido", "Coltello disopercolatore"],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Mi metti sul torace della regina",
+          "Cambio colore ogni anno",
+          "Ti dico l'anno di nascita"
+        ],
+        "answer": "Puntino di marcatura",
+        "distractors": ["Numero di arnia", "Nastrino del telaino", "Cartellino del nucleo"],
+        "part": 5
+      },
+      {
+        "clues": [
+          "Mi trovi in fondo alle celle",
+          "Sono piccolo, bianco e dritto",
+          "Ti dico che la regina c'è"
+        ],
+        "answer": "Uovo fresco",
+        "distractors": ["Bozzolo", "Opercolo", "Cupolino"],
+        "part": 0
+      },
+      {
+        "clues": [
+          "Viaggio con la regina per posta",
+          "Mi chiudo con un tappo di candito",
+          "Aiuto le api ad accettarla piano"
+        ],
+        "answer": "Gabbietta",
+        "distractors": ["Cassetta", "Nutritore", "Portasciami"],
+        "part": 6
+      }
+    ],
+    "truefalse": [
+      { "text": "La regina è la madre di tutte le api della famiglia.", "true": true, "why": "Operaie e fuchi nascono tutti dalle sue uova.", "part": 0 },
+      { "text": "I profumi della regina non hanno nessun effetto sulle api.", "true": false, "why": "Tengono unita la famiglia e frenano sciamatura e operaie ovificatrici.", "part": 0 },
+      { "text": "Le regine venute da lontano sono sempre migliori di quelle locali.", "true": false, "why": "Una prova europea ha visto che le regine locali vivevano più a lungo.", "part": 1 },
+      { "text": "Nel traslarvo si scelgono larve appena uscite dall'uovo.", "true": true, "why": "Più giovane è la larva, più diventa una regina ben fatta.", "part": 2 },
+      { "text": "Se giri una larva durante il traslarvo, va bene lo stesso.", "true": false, "why": "Meglio lasciarla e prenderne un'altra: deve restare com'era.", "part": 2 },
+      { "text": "Il nucleo starter è una famiglia senza regina.", "true": true, "why": "Orfano e pieno di nutrici, accetta e nutre bene le larve.", "part": 3 },
+      { "text": "La prima regina nata può uccidere le sorelle ancora chiuse.", "true": true, "why": "Per questo le celle si spostano nei nuclei prima della nascita.", "part": 3 },
+      { "text": "La regina si accoppia con un solo fuco per tutta la vita.", "true": false, "why": "Si accoppia con molti fuchi, durante i voli nuziali.", "part": 4 },
+      { "text": "Una famiglia con tanti padri cresce di più e sverna meglio.", "true": true, "why": "Lo ha mostrato un esperimento con 15 padri contro uno solo.", "part": 4 },
+      { "text": "Una regina nata nel 2026 si marca di bianco.", "true": true, "why": "Il bianco vale per gli anni che finiscono con 1 o 6.", "part": 5 },
+      { "text": "Il puntino di marcatura si mette sulla testa della regina.", "true": false, "why": "Si mette sul torace, mai su testa, ali o addome.", "part": 5 },
+      { "text": "Tutte le regine in vendita hanno la stessa qualità.", "true": false, "why": "Uno studio ha trovato differenze tra un allevatore e l'altro.", "part": 6 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 6,
+      "question": "Cosa succede se il profumo della regina arriva male a tante api?",
+      "options": [
+        "Le api smettono di uscire dall'arnia",
+        "Le api iniziano ad allevare nuove regine",
+        "Le api fanno più miele per la regina",
+        "Le api cacciano subito tutti i fuchi"
+      ],
+      "answer": 1,
+      "why": "Senza il segnale della regina, le api allevano nuove regine, spesso per sciamare."
+    },
+    {
+      "part": 1,
+      "line": 0,
+      "question": "Perché un apicoltore alleva le sue regine?",
+      "options": [
+        "Per vendere tutte le api in autunno",
+        "Per non dover più visitare le arnie",
+        "Per avere più fuchi in primavera",
+        "Per scegliere lui le regine migliori"
+      ],
+      "answer": 3,
+      "why": "Allevando da famiglie scelte, l'apicoltore moltiplica le qualità che vuole."
+    },
+    {
+      "part": 2,
+      "line": 6,
+      "question": "Perché nel traslarvo si sceglie una larva così giovane?",
+      "options": [
+        "Perché è nutrita da regina fin dall'inizio",
+        "Perché è più leggera da trasportare",
+        "Perché non ha ancora bisogno di mangiare",
+        "Perché le api non la riconoscono"
+      ],
+      "answer": 0,
+      "why": "Nutrita subito con pappa reale, la larva giovane diventa una regina più completa."
+    },
+    {
+      "part": 3,
+      "line": 4,
+      "question": "Perché una famiglia orfana accetta volentieri le larve nei cupolini?",
+      "options": [
+        "Perché ha troppo miele e poco spazio",
+        "Perché le sue api sono tutte vecchie",
+        "Perché vuole subito una nuova regina",
+        "Perché i fuchi le chiedono una regina"
+      ],
+      "answer": 2,
+      "why": "Senza regina, le api nutrono le larve con tanta pappa reale per farne una regina."
+    },
+    {
+      "part": 4,
+      "line": 6,
+      "question": "Perché alla famiglia conviene avere tanti padri?",
+      "options": [
+        "Perché le figlie sono tutte uguali tra loro",
+        "Perché nascono più fuchi per l'estate",
+        "Perché le figlie sono più varie e se la cavano meglio",
+        "Perché la regina vive il doppio degli anni"
+      ],
+      "answer": 2,
+      "why": "Una famiglia varia lavora meglio, cresce di più e sverna meglio."
+    },
+    {
+      "part": 5,
+      "line": 4,
+      "question": "A cosa serve il puntino colorato sulla regina?",
+      "options": [
+        "A trovarla in fretta e sapere l'anno",
+        "A proteggerla dalle punture delle api",
+        "A farla riconoscere dai suoi fuchi",
+        "A tenere lontana la varroa da lei"
+      ],
+      "answer": 0,
+      "why": "Il puntino aiuta a trovarla tra migliaia di api e il colore dice l'anno."
+    },
+    {
+      "part": 6,
+      "line": 6,
+      "question": "Perché conviene una regina di un allevatore serio della tua zona?",
+      "options": [
+        "Perché costa sempre meno di tutte le altre",
+        "Perché la qualità cambia e le api locali sono adatte",
+        "Perché arriva già dentro la sua arnia nuova",
+        "Perché non ha bisogno di essere accettata"
+      ],
+      "answer": 1,
+      "why": "La qualità varia tra allevatori, e le api adatte al territorio vivono meglio."
+    }
+  ]
+}

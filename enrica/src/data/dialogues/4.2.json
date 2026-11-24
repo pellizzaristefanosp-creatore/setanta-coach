@@ -1,0 +1,310 @@
+{
+ "code": "4.2",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi parliamo di cucina, ma per le api: la nutrizione. Cioè come aiutare le famiglie quando in natura il cibo manca."
+    },
+    {
+     "who": "E",
+     "text": "Ciao Tonino! Quindi si cucina per le api? Cosa si prepara?"
+    },
+    {
+     "who": "M",
+     "text": "Il piatto più semplice è lo sciroppo: zucchero bianco sciolto in acqua. Ma la ricetta cambia secondo lo scopo."
+    },
+    {
+     "who": "E",
+     "text": "In che senso? Lo zucchero è sempre zucchero."
+    },
+    {
+     "who": "M",
+     "text": "Se metti un chilo di zucchero e un chilo d'acqua, fai lo sciroppo uno a uno. È leggero, simile al nettare. La regina lo sente arrivare e depone di più."
+    },
+    {
+     "who": "E",
+     "text": "Come se in campagna fosse cominciata una fioritura."
+    },
+    {
+     "who": "M",
+     "text": "Esatto, per questo si chiama stimolante. Poi c'è lo sciroppo due a uno: due chili di zucchero per un chilo d'acqua. Secondo te, a cosa serve uno sciroppo così denso?"
+    },
+    {
+     "who": "E",
+     "text": "Forse a fare scorte, perché le api devono togliere meno acqua prima di metterlo via."
+    },
+    {
+     "who": "M",
+     "text": "Brava, proprio così. Si dà a fine estate, per riempire la dispensa prima dell'inverno."
+    },
+    {
+     "who": "E",
+     "text": "E come lo preparo? Lo faccio bollire come una marmellata?"
+    },
+    {
+     "who": "M",
+     "text": "No, mai bollire. Scaldi l'acqua, ci sciogli lo zucchero mescolando e lasci raffreddare. Con il troppo calore si forma una sostanza che fa male alle api."
+    },
+    {
+     "who": "E",
+     "text": "E posso usare lo zucchero di canna, quello scuro?"
+    },
+    {
+     "who": "M",
+     "text": "Meglio di no. Usa zucchero bianco da cucina. Quello scuro ha sostanze che le api digeriscono male."
+    },
+    {
+     "who": "E",
+     "text": "Allora: bilancia, zucchero bianco, acqua calda ma non bollente. Uno a uno per stimolare, due a uno per le scorte."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora vediamo come si dà lo sciroppo. Lo strumento più semplice è il nutritore a goccia."
+    },
+    {
+     "who": "E",
+     "text": "Com'è fatto? Me lo immagino come un rubinetto."
+    },
+    {
+     "who": "M",
+     "text": "Quasi. È un barattolo o un secchiello con il coperchio pieno di forellini. Lo riempi di sciroppo, lo chiudi e lo capovolgi."
+    },
+    {
+     "who": "E",
+     "text": "Ma così lo sciroppo esce tutto e allaga l'arnia!"
+    },
+    {
+     "who": "M",
+     "text": "Lo pensano tutti la prima volta. Invece escono poche gocce e poi si ferma. Secondo te, perché si ferma?"
+    },
+    {
+     "who": "E",
+     "text": "Perché dentro non entra aria, e senza aria lo sciroppo resta appeso, come nella bottiglia del criceto."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Si forma il vuoto. Le api arrivano da sotto, leccano le gocce dai forellini e piano piano lo svuotano."
+    },
+    {
+     "who": "E",
+     "text": "E dove lo metto?"
+    },
+    {
+     "who": "M",
+     "text": "Sopra il coprifavo, cioè l'asse che chiude l'arnia sotto il tetto. Il coprifavo ha un foro: il barattolo va proprio lì sopra."
+    },
+    {
+     "who": "E",
+     "text": "Così le api salgono dal foro e bevono. E il tetto?"
+    },
+    {
+     "who": "M",
+     "text": "Intorno al barattolo metti un melario vuoto o un rialzo, poi il tetto. Così tutto resta chiuso e al buio."
+    },
+    {
+     "who": "E",
+     "text": "Ecco perché è utile contro il saccheggio. Lo sciroppo sta dentro e le ladre non lo sentono."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Un'ultima cosa: prima di metterlo, capovolgilo sopra un secchio e lascia uscire le prime gocce."
+    },
+    {
+     "who": "E",
+     "text": "Così non gocciola sulle api. Mi piace, è semplice e pulito."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Passiamo all'inverno. Quando fa freddo lo sciroppo non va bene. Si usa il candito."
+    },
+    {
+     "who": "E",
+     "text": "Candito come la frutta candita del panettone?"
+    },
+    {
+     "who": "M",
+     "text": "Quasi! È una pasta solida di zucchero, morbida come il marzapane. Si compra pronto, oppure si prepara con zucchero a velo e un po' di sciroppo."
+    },
+    {
+     "who": "E",
+     "text": "E perché d'inverno non si dà lo sciroppo?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, cosa succede se d'inverno metto un litro di liquido freddo sopra il glomere?"
+    },
+    {
+     "who": "E",
+     "text": "Il glomere è la palla di api che si scaldano, giusto? Il liquido porta umidità e freddo, e le api fanno fatica a lavorarlo."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. E lo sciroppo può spingere la regina a deporre quando non è il momento. Il candito invece è asciutto: le api lo sciolgono un po' alla volta."
+    },
+    {
+     "who": "E",
+     "text": "E dove lo metto?"
+    },
+    {
+     "who": "M",
+     "text": "Anche lui sopra il foro del coprifavo, dentro un sacchetto di plastica con un taglio sotto. Così non si secca."
+    },
+    {
+     "who": "E",
+     "text": "Posso farlo con il miele? Mi sembra più naturale."
+    },
+    {
+     "who": "M",
+     "text": "Solo con miele tuo, di famiglie sane. Il miele comprato o di altri apiari può portare spore di peste americana, una malattia grave della covata."
+    },
+    {
+     "who": "E",
+     "text": "Non ci avrei mai pensato. Il miele può essere un pericolo per le api!"
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. E controlla che il candito non finisca: d'inverno basta sollevare il tetto, senza aprire."
+    },
+    {
+     "who": "E",
+     "text": "Allora: candito solido, sul foro del coprifavo, e mai miele sconosciuto."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora la domanda più importante: quando si nutre? La regola d'oro è semplice: solo quando in natura il cibo manca."
+    },
+    {
+     "who": "E",
+     "text": "E come faccio a saperlo?"
+    },
+    {
+     "who": "M",
+     "text": "Guardi la campagna e guardi l'arnia. Se non ci sono fioriture e i favi hanno poco miele, la famiglia ha bisogno."
+    },
+    {
+     "who": "E",
+     "text": "Devo aprire per forza?"
+    },
+    {
+     "who": "M",
+     "text": "Non sempre. Un trucco antico: sollevi l'arnia da dietro di pochi centimetri. Se è pesante, la dispensa è piena. Se è leggera, preoccupati."
+    },
+    {
+     "who": "E",
+     "text": "Come quando sollevo la borsa della spesa e capisco cosa c'è dentro!"
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. I momenti tipici sono due. A fine estate, per le scorte. E a fine inverno, quando la famiglia riparte ma i fiori sono ancora pochi."
+    },
+    {
+     "who": "E",
+     "text": "E durante il raccolto?"
+    },
+    {
+     "who": "M",
+     "text": "Mai sciroppo quando c'è il melario, cioè la cassetta dove le api mettono il miele che raccogli. Secondo te, perché?"
+    },
+    {
+     "who": "E",
+     "text": "Perché le api metterebbero lo sciroppo nel melario e il mio miele non sarebbe più miele vero."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Sarebbe una frode, anche senza volerlo. E poi ricordati: lo sciroppo non vale il miele."
+    },
+    {
+     "who": "E",
+     "text": "Davvero? Non sono uguali, per le api?"
+    },
+    {
+     "who": "M",
+     "text": "No. Il miele contiene piccole sostanze, che vengono dal polline e dalla propoli, che aiutano le api a difendersi. Lo sciroppo dà solo energia."
+    },
+    {
+     "who": "E",
+     "text": "Quindi lascio sempre abbastanza miele alle api, e lo sciroppo è solo un aiuto."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Fin qui abbiamo parlato di zucchero. Ma le api non vivono di solo zucchero. Hanno bisogno anche di polline."
+    },
+    {
+     "who": "E",
+     "text": "Il polline è quella polverina colorata che portano sulle zampe?"
+    },
+    {
+     "who": "M",
+     "text": "Proprio quella. Lo zucchero è il carburante. Il polline invece porta proteine, grassi e vitamine. Secondo te, chi ha più bisogno di proteine nell'arnia?"
+    },
+    {
+     "who": "E",
+     "text": "Le larve, i piccoli che crescono! Come i bambini che devono mangiare bene."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Le nutrici mangiano il polline e producono la pappa per le larve. Senza polline, niente covata."
+    },
+    {
+     "who": "E",
+     "text": "E se in natura il polline manca?"
+    },
+    {
+     "who": "M",
+     "text": "Succede, per esempio dopo una lunga siccità o all'inizio della primavera. In commercio ci sono i sostituti del polline: paste con farine e lieviti ricchi di proteine."
+    },
+    {
+     "who": "E",
+     "text": "Funzionano bene?"
+    },
+    {
+     "who": "M",
+     "text": "Gli studi dicono che i risultati sono misti. A volte aiutano, a volte no. Il polline vero ha più cose buone di qualsiasi pasta."
+    },
+    {
+     "who": "E",
+     "text": "Quindi il sostituto è come un integratore, non come un pranzo vero."
+    },
+    {
+     "who": "M",
+     "text": "Bel paragone. La cosa migliore è mettere le api in un posto con tante fioriture diverse, per tutta la stagione."
+    },
+    {
+     "who": "E",
+     "text": "Così compro poco o niente. E come capisco se il polline entra?"
+    },
+    {
+     "who": "M",
+     "text": "Guarda l'entrata: se vedi palline gialle, arancioni o grigie sulle zampe delle bottinatrici, il polline arriva."
+    },
+    {
+     "who": "E",
+     "text": "Che bello, un arcobaleno di palline! Lo guarderò sempre."
+    }
+   ]
+  }
+ ]
+}

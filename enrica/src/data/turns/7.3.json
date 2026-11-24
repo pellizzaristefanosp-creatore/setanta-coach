@@ -1,0 +1,96 @@
+{
+ "code": "7.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Dove si nasconde la varroa per fare i suoi piccoli?",
+   "options": [
+    "Nel miele delle cellette aperte",
+    "Nelle cellette chiuse della covata",
+    "Nella cera del coprifavo",
+    "Nel polline dei favi laterali"
+   ],
+   "answer": 1,
+   "why": "La varroa si riproduce nella covata opercolata. Senza covata resta sulle api ed è più facile da colpire."
+  },
+  {
+   "part": 1,
+   "line": 6,
+   "question": "Cosa succede dopo che le api hanno preparato le celle reali?",
+   "options": [
+    "La famiglia smette di raccogliere nettare",
+    "Le api costruiscono un nuovo melario",
+    "La vecchia regina parte con lo sciame",
+    "Le api uccidono subito tutti i fuchi"
+   ],
+   "answer": 2,
+   "why": "Quando le nuove regine stanno per nascere, la vecchia regina parte con circa metà delle api: è la sciamatura."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Cosa succederebbe trattando con i melari ancora sopra?",
+   "options": [
+    "Il farmaco finirebbe nel miele",
+    "Le api smetterebbero di volare",
+    "Il miele diventerebbe più chiaro",
+    "La regina salirebbe nel melario"
+   ],
+   "answer": 0,
+   "why": "Il farmaco potrebbe lasciare residui nel miele che mangiamo: si tratta solo dopo aver tolto i melari."
+  },
+  {
+   "part": 3,
+   "line": 4,
+   "question": "Perché lo sciroppo va dato quando fa ancora tiepido?",
+   "options": [
+    "Perché d'inverno lo zucchero costa di più",
+    "Perché con il freddo lo sciroppo gela subito",
+    "Perché le vespe d'inverno lo mangiano tutto",
+    "Perché le api devono sistemarlo prima del freddo"
+   ],
+   "answer": 3,
+   "why": "Le api devono mettere lo sciroppo nelle cellette e asciugarlo: con il freddo non ci riescono."
+  },
+  {
+   "part": 4,
+   "line": 2,
+   "question": "A cosa serve scrivere ogni farmaco usato sulle api?",
+   "options": [
+    "A sapere quanto si è speso in un anno",
+    "A dimostrare l'assenza di residui nel miele",
+    "A decidere il prezzo del miele raccolto",
+    "A scegliere il nome del fiore in etichetta"
+   ],
+   "answer": 1,
+   "why": "Il registro mostra che i farmaci sono usati bene e aiuta a garantire un miele senza residui."
+  },
+  {
+   "part": 5,
+   "line": 2,
+   "question": "Perché per seguire le arnie non basta la memoria?",
+   "options": [
+    "Perché dopo poche arnie si confondono i dettagli",
+    "Perché le api cambiano arnia ogni settimana",
+    "Perché la scheda la chiede ogni volta la ASL",
+    "Perché le arnie non hanno mai un numero"
+   ],
+   "answer": 0,
+   "why": "Dopo alcune arnie è facile confondere chi aveva la regina o le celle reali: la scheda lo ricorda per te."
+  },
+  {
+   "part": 6,
+   "line": 6,
+   "question": "Che cosa vuol dire tempo di attesa?",
+   "options": [
+    "Il tempo tra due visite all'apiario",
+    "Il tempo che serve allo sciroppo per asciugare",
+    "Il tempo prima di raccogliere il miele dopo un farmaco",
+    "Il tempo che la regina impiega a deporre"
+   ],
+   "answer": 2,
+   "why": "È il tempo da aspettare dopo un trattamento prima di raccogliere il miele, scritto sull'etichetta."
+  }
+ ]
+}

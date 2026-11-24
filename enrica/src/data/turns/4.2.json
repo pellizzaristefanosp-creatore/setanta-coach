@@ -1,0 +1,70 @@
+{
+ "code": "4.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 6,
+   "question": "A cosa serve lo sciroppo due a uno, così denso?",
+   "options": [
+    "A curare le api malate di varroa",
+    "A far nascere più fuchi in estate",
+    "A fare scorte: c'è meno acqua da togliere",
+    "A pulire i favi vecchi dalla muffa"
+   ],
+   "answer": 2,
+   "why": "Con meno acqua da far evaporare, le api lo trasformano in scorta più in fretta: si dà a fine estate."
+  },
+  {
+   "part": 1,
+   "line": 4,
+   "question": "Perché lo sciroppo nel nutritore capovolto si ferma?",
+   "options": [
+    "Le api tappano subito i fori con la cera",
+    "Dentro non entra aria e si forma il vuoto",
+    "Lo sciroppo si indurisce a contatto col legno",
+    "Il coperchio ha una piccola valvola interna"
+   ],
+   "answer": 1,
+   "why": "Come nella bottiglia del criceto: senza aria che entra, il liquido resta appeso ed esce solo a gocce."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Cosa succede se d'inverno metti liquido freddo sopra il glomere?",
+   "options": [
+    "Il liquido porta freddo e umidità nel glomere",
+    "Lo sciroppo gela e rompe il nutritore di vetro",
+    "Le api si ubriacano con lo zucchero freddo",
+    "Il liquido attira subito le vespe d'inverno"
+   ],
+   "answer": 0,
+   "why": "Il glomere fatica a scaldare e lavorare il liquido, e la regina può deporre fuori stagione."
+  },
+  {
+   "part": 3,
+   "line": 8,
+   "question": "Perché non si dà sciroppo quando c'è il melario?",
+   "options": [
+    "Il melario diventerebbe troppo pesante",
+    "Le api non farebbero più la cera nuova",
+    "La regina salirebbe a deporre nel melario",
+    "Lo sciroppo finirebbe nel miele da vendere"
+   ],
+   "answer": 3,
+   "why": "Le api lo metterebbero nel melario: il raccolto non sarebbe più miele vero, anche senza volerlo."
+  },
+  {
+   "part": 4,
+   "line": 2,
+   "question": "Chi ha più bisogno di proteine nell'arnia?",
+   "options": [
+    "Le larve che stanno crescendo",
+    "I fuchi che volano a sposarsi",
+    "Le bottinatrici più anziane",
+    "Le guardiane sul predellino"
+   ],
+   "answer": 0,
+   "why": "Le larve crescono in fretta: le nutrici mangiano polline e producono la pappa per loro."
+  }
+ ]
+}

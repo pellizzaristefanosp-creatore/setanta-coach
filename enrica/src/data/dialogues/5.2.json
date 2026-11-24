@@ -1,0 +1,310 @@
+{
+ "code": "5.2",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi parliamo del polline: perché è importante, da dove viene, come si raccoglie e come si conserva."
+    },
+    {
+     "who": "E",
+     "text": "Il polline è quella polverina gialla dei fiori, giusto? Quella che fa starnutire."
+    },
+    {
+     "who": "M",
+     "text": "Proprio quella. Per le api è un cibo prezioso. Il miele dà gli zuccheri, cioè l'energia. Il polline dà le proteine, i grassi, le vitamine."
+    },
+    {
+     "who": "E",
+     "text": "Quindi il miele è la benzina e il polline è il mattone."
+    },
+    {
+     "who": "M",
+     "text": "Bella immagine. E chi mangia più polline di tutte? Le api giovani, le nutrici. Secondo te, a cosa serve loro?"
+    },
+    {
+     "who": "E",
+     "text": "A fare la pappa per nutrire le larve!"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Nella testa le nutrici hanno delle ghiandole che producono la pappa. Per farle lavorare devono mangiare tanto polline."
+    },
+    {
+     "who": "E",
+     "text": "E se il polline manca?"
+    },
+    {
+     "who": "M",
+     "text": "La regina rallenta, le nutrici non hanno pappa e la covata, cioè uova, larve e pupe, cala. In primavera la famiglia non cresce."
+    },
+    {
+     "who": "E",
+     "text": "Basta che ce ne sia tanto, allora?"
+    },
+    {
+     "who": "M",
+     "text": "Non solo. Conta anche la qualità. Ogni pianta dà un polline diverso: alcuni sono ricchi di proteine, altri poveri. Polline di tanti fiori è come una dieta varia."
+    },
+    {
+     "who": "E",
+     "text": "Come noi: se mangio solo patate, mi manca qualcosa."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Gli studi dicono che la qualità del polline cambia la salute delle api. Una zona con fiori diversi è un bel regalo per la famiglia."
+    },
+    {
+     "who": "E",
+     "text": "Allora quando scelgo dove mettere le arnie, guardo anche quanti fiori ci sono intorno."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Le piante che danno polline alle api si chiamano fonti pollinifere. Alcune danno solo polline, altre polline e nettare."
+    },
+    {
+     "who": "E",
+     "text": "E quali sono le prime dell'anno?"
+    },
+    {
+     "who": "M",
+     "text": "A fine inverno il nocciolo, con i suoi amenti, quei pendagli gialli. Poi il salice. Sono le prime proteine dopo il freddo."
+    },
+    {
+     "who": "E",
+     "text": "Allora le api a febbraio già lavorano?"
+    },
+    {
+     "who": "M",
+     "text": "Nelle giornate di sole sì. Poi arrivano gli alberi da frutto, il tarassaco nei prati, e tante altre fioriture di primavera."
+    },
+    {
+     "who": "E",
+     "text": "E d'estate?"
+    },
+    {
+     "who": "M",
+     "text": "Dipende dalla zona: per esempio il castagno, il trifoglio, il girasole. Ma c'è una pianta d'autunno che le api adorano. Te la ricordi? Cresce sui muri e sugli alberi."
+    },
+    {
+     "who": "E",
+     "text": "L'edera! Fiorisce tardi, quando quasi tutto il resto è finito."
+    },
+    {
+     "who": "M",
+     "text": "Brava. L'edera aiuta le api a fare le ultime scorte prima dell'inverno. Secondo te, perché è meglio avere intorno tante piante diverse?"
+    },
+    {
+     "who": "E",
+     "text": "Perché così le api trovano polline in ogni stagione, e una dieta più varia."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Ogni polline ha anche un colore: giallo, arancio, grigio, perfino blu. Guardando le pallottoline sulle zampe puoi indovinare la pianta."
+    },
+    {
+     "who": "E",
+     "text": "Come un gioco di colori!"
+    },
+    {
+     "who": "M",
+     "text": "Sì, ma attenta: lo stesso colore può venire da piante diverse. All'inizio confrontalo con quello che fiorisce intorno in quei giorni."
+    },
+    {
+     "who": "E",
+     "text": "Allora girerò con gli occhi aperti, guardando i fiori e le zampette."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Vediamo il viaggio del polline. Quando un'ape entra in un fiore, il suo corpo peloso si copre di polverina."
+    },
+    {
+     "who": "E",
+     "text": "Come quando mi sporco di farina in cucina."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Poi, mentre vola, l'ape si pettina con le zampe e raccoglie la polvere. La bagna con un po' di nettare e di saliva."
+    },
+    {
+     "who": "E",
+     "text": "Perché la bagna?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, cosa succede alla polvere se la bagni un poco?"
+    },
+    {
+     "who": "E",
+     "text": "Si attacca insieme e diventa una pallina, come la farina con l'acqua."
+    },
+    {
+     "who": "M",
+     "text": "Brava. L'ape preme la pallina nelle cestelle, cioè due piccole conche sulle zampe dietro, circondate da peli. Torna a casa con due pallottole colorate."
+    },
+    {
+     "who": "E",
+     "text": "E in arnia cosa ne fa?"
+    },
+    {
+     "who": "M",
+     "text": "Infila le zampe in una celletta e fa cadere le pallottole. Poi altre api le pressano con la testa e aggiungono un po' di miele sopra."
+    },
+    {
+     "who": "E",
+     "text": "Dove sono queste cellette?"
+    },
+    {
+     "who": "M",
+     "text": "Di solito intorno alla covata, come una dispensa vicino alla cucina. Così le nutrici hanno il cibo a portata di mano."
+    },
+    {
+     "who": "E",
+     "text": "Furbe. E lo mangiano subito?"
+    },
+    {
+     "who": "M",
+     "text": "Uno studio ha visto che preferiscono quello messo da pochi giorni. Quello più vecchio resta come scorta per i momenti di magra."
+    },
+    {
+     "who": "E",
+     "text": "Come il pane fresco, che finisce prima di quello del giorno dopo."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Se vuoi raccogliere polline per te, usi una trappola. Si mette davanti all'ingresso dell'arnia."
+    },
+    {
+     "who": "E",
+     "text": "Una trappola? Mi sembra cattiva per le api."
+    },
+    {
+     "who": "M",
+     "text": "Il nome spaventa, ma non fa male. È una griglia con buchi piccoli: l'ape passa, ma le pallottole sulle zampe sbattono e cadono in un cassetto sotto."
+    },
+    {
+     "who": "E",
+     "text": "Ah, quindi le api passano e il polline resta fuori."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ma pensaci: secondo te, cosa succede alla famiglia se le togli troppo polline?"
+    },
+    {
+     "who": "E",
+     "text": "Le nutrici non hanno cibo e la covata cala."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Per questo la trappola va solo su famiglie forti, quando fuori c'è tanta fioritura. E non tutto l'anno: si alterna, qualche giorno sì e qualche giorno no."
+    },
+    {
+     "who": "E",
+     "text": "E sulle famiglie piccole?"
+    },
+    {
+     "who": "M",
+     "text": "Meglio di no. Uno studio ha visto che le famiglie grandi recuperano, ma i nuclei, cioè le famiglie piccole, soffrono di più."
+    },
+    {
+     "who": "E",
+     "text": "Capito. E il cassetto quando lo svuoto?"
+    },
+    {
+     "who": "M",
+     "text": "Ogni giorno, meglio la sera. Il polline fresco è umido e prende muffa in fretta. E con la pioggia può bagnarsi."
+    },
+    {
+     "who": "E",
+     "text": "Ci sono anche insetti nel cassetto?"
+    },
+    {
+     "who": "M",
+     "text": "A volte sì, o pezzetti di ape e terra. Per questo poi il polline va pulito con cura, e il cassetto deve avere una rete e un tetto."
+    },
+    {
+     "who": "E",
+     "text": "Famiglia forte, pochi giorni, cassetto vuotato ogni sera. Me lo segno."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Hai il cassetto pieno di pallottole colorate. Bellissimo! Ma il polline fresco è delicato. Secondo te, perché?"
+    },
+    {
+     "who": "E",
+     "text": "Perché è ancora umido, e le cose umide fanno la muffa."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. In pochi giorni può ammuffire o riempirsi di piccoli parassiti. Quindi si lavora subito."
+    },
+    {
+     "who": "E",
+     "text": "Qual è il primo passo?"
+    },
+    {
+     "who": "M",
+     "text": "Pulirlo. Togli insetti, pezzetti di ape, terra. Si può usare un setaccio, e poi si guarda a occhio su un vassoio."
+    },
+    {
+     "who": "E",
+     "text": "E poi?"
+    },
+    {
+     "who": "M",
+     "text": "Due strade. La prima: congelarlo in sacchetti per alimenti ben chiusi. È la più semplice per chi comincia."
+    },
+    {
+     "who": "E",
+     "text": "E la seconda?"
+    },
+    {
+     "who": "M",
+     "text": "Seccarlo, cioè togliergli l'acqua, con un essiccatore a bassa temperatura. Poi va in barattoli chiusi, al buio e al fresco."
+    },
+    {
+     "who": "E",
+     "text": "Seccarlo cambia qualcosa?"
+    },
+    {
+     "who": "M",
+     "text": "Sì. Uno studio dell'Università di Pisa ha visto che il modo di seccare e il tempo cambiano le sostanze utili, e in modo diverso per ogni pianta."
+    },
+    {
+     "who": "E",
+     "text": "Quindi non c'è un metodo perfetto per tutto."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. E un'ultima cosa importante: chi è allergico ai pollini deve stare attento a mangiarlo. Prima di assaggiare o regalarlo, meglio chiedere al medico."
+    },
+    {
+     "who": "E",
+     "text": "Pulito, congelato o seccato, chiuso al buio. E prudenza con le allergie."
+    }
+   ]
+  }
+ ]
+}

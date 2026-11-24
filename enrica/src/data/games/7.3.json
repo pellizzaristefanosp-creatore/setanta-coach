@@ -1,0 +1,176 @@
+{
+ "code": "7.3",
+ "order": [
+  {
+   "title": "L'anno dell'apiario, da gennaio",
+   "steps": [
+    "Trattamento con acido ossalico senza covata",
+    "Controllo del peso e candito se serve",
+    "Prima visita completa in giornata tiepida",
+    "Melari e controllo delle celle reali",
+    "Raccolto del miele opercolato",
+    "Trattamento estivo dopo il raccolto",
+    "Nutrimento e preparazione all'inverno"
+   ],
+   "slide": 1
+  },
+  {
+   "title": "Cosa scrivere sulla scheda, in ordine",
+   "steps": [
+    "Numero dell'alveare e data",
+    "Meteo e motivo della visita",
+    "Regina o uova, covata e scorte",
+    "Problemi visti e varroa",
+    "Lavori fatti",
+    "Cosa fare la prossima volta"
+   ],
+   "slide": 6
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi formo quando fa freddo e mi stringo sempre di più.",
+    "Al mio centro c'è la regina, al calduccio.",
+    "Sono una palla fatta di api."
+   ],
+   "answer": "Il glomere",
+   "distractors": [
+    "Lo sciame",
+    "Il melario",
+    "Il favo"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Mi preparano le api quando si sentono strette.",
+    "Ho la forma di una ghianda e pendo dal favo.",
+    "Dentro di me cresce una futura regina."
+   ],
+   "answer": "La cella reale",
+   "distractors": [
+    "La celletta da fuco",
+    "La celletta da miele",
+    "La celletta da polline"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi usi quando la varroa non ha covata dove nascondersi.",
+    "Sono un acido che si trova anche in alcune piante.",
+    "Il mio nome comincia come «ossa»."
+   ],
+   "answer": "L'acido ossalico",
+   "distractors": [
+    "L'acido formico",
+    "Il timolo",
+    "L'amitraz"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Conservami per almeno cinque anni.",
+    "In me scrivi data, farmaco, quantità e alveari.",
+    "Sono il libretto sanitario delle tue api."
+   ],
+   "answer": "Il registro dei trattamenti",
+   "distractors": [
+    "La scheda dell'alveare",
+    "Il quaderno della mieleria",
+    "Il calendario dei lavori"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "In me si registrano gli apiari di tutta Italia.",
+    "Ogni anno tra novembre e dicembre mi aggiorni.",
+    "Il mio nome è una sigla di tre lettere."
+   ],
+   "answer": "La BDA",
+   "distractors": [
+    "La ASL",
+    "La SCIA",
+    "La UE"
+   ],
+   "slide": 7
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "In inverno si apre l'arnia ogni settimana per controllare.",
+   "true": false,
+   "why": "Aprire fa disperdere il calore del glomere: si soppesa da dietro.",
+   "slide": 1
+  },
+  {
+   "text": "Senza covata l'acido ossalico raggiunge meglio la varroa.",
+   "true": true,
+   "why": "La varroa non può nascondersi nelle cellette chiuse.",
+   "slide": 1
+  },
+  {
+   "text": "Al Sud i lavori stagionali di solito arrivano prima.",
+   "true": true,
+   "why": "Il clima più mite anticipa fioriture e sviluppo delle famiglie.",
+   "slide": 1
+  },
+  {
+   "text": "Dare spazio in primavera aiuta a prevenire la sciamatura.",
+   "true": true,
+   "why": "Una famiglia stretta prepara le celle reali e sciama.",
+   "slide": 2
+  },
+  {
+   "text": "Uno sciame non cambia nulla per il raccolto.",
+   "true": false,
+   "why": "Parte circa metà della famiglia e con lei buona parte del raccolto.",
+   "slide": 2
+  },
+  {
+   "text": "Si può trattare contro la varroa con i melari sopra.",
+   "true": false,
+   "why": "Il farmaco potrebbe finire nel miele: prima si tolgono i melari.",
+   "slide": 3
+  },
+  {
+   "text": "Il trattamento estivo protegge le api che passeranno l'inverno.",
+   "true": true,
+   "why": "Le api invernali nascono a fine estate e devono essere sane.",
+   "slide": 3
+  },
+  {
+   "text": "Lo sciroppo d'autunno è meglio darlo tardi, a dicembre.",
+   "true": false,
+   "why": "Con il freddo le api non riescono più a sistemarlo nei favi.",
+   "slide": 4
+  },
+  {
+   "text": "Il censimento in BDA si fa tra 1 novembre e 31 dicembre.",
+   "true": true,
+   "why": "È l'aggiornamento annuale previsto dall'anagrafe apistica.",
+   "slide": 4
+  },
+  {
+   "text": "Il registro dei trattamenti si può buttare dopo un anno.",
+   "true": false,
+   "why": "Va conservato almeno cinque anni.",
+   "slide": 5
+  },
+  {
+   "text": "La scheda dell'alveare si compila meglio subito dopo la visita.",
+   "true": true,
+   "why": "A fine giornata le arnie si confondono nella memoria.",
+   "slide": 6
+  },
+  {
+   "text": "L'opercolo è la cassetta che si mette sopra il nido.",
+   "true": false,
+   "why": "L'opercolo è il tappino di cera; la cassetta è il melario.",
+   "slide": 7
+  }
+ ]
+}

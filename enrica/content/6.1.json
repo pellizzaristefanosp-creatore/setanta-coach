@@ -1,0 +1,998 @@
+{
+  "code": "6.1",
+  "unit": 6,
+  "title": "Le malattie e i nemici delle api",
+  "pages": "247–276",
+  "summary": "Impari a riconoscere le principali malattie delle api, dalla peste americana alla nosemiasi, e i nemici come la tarma della cera e i pesticidi. Scopri quando chiamare il veterinario dell'ASL e come prevenire con famiglie forti e arnie pulite.",
+  "parts": [
+    {
+      "title": "La peste americana o putrefazione della covata",
+      "keyPoints": [
+        "È causata dal batterio Paenibacillus larvae",
+        "Uccide le larve dopo la chiusura della cella",
+        "Tappi scuri, infossati, bucati; covata a mosaico",
+        "Prova dello stecchino: la larva fa il filo",
+        "Malattia da denunciare: chiama il veterinario dell'ASL"
+      ],
+      "analogy": "Le spore della peste americana sono come i semi di un'erbaccia: restano nel terreno per anni e, appena trovano l'occasione, ricrescono. Per questo non basta pulire in superficie.",
+      "tip": "Se vedi tappi scuri e bucati, non spostare favi né attrezzi da quell'arnia. Lavati le mani, chiudi bene l'arnia e chiama subito il veterinario della tua ASL.",
+      "science": {
+        "text": "Una grande rassegna sulla peste americana spiega che il Paenibacillus larvae è un batterio che forma spore molto resistenti. Dopo più di un secolo di studi, questa infezione mortale della covata resta tra le malattie più dannose per le api.",
+        "source": "Genersch 2010, Journal of Invertebrate Pathology",
+        "url": "https://doi.org/10.1016/j.jip.2009.06.015"
+      },
+      "check": {
+        "question": "Che cosa succede nella prova dello stecchino se c'è la peste americana?",
+        "options": [
+          "La larva diventa dura e bianca come gesso",
+          "La larva salta fuori dalla cella da sola",
+          "La larva marcia si allunga come un filo",
+          "La larva profuma di miele appena fatto"
+        ],
+        "answer": 2,
+        "explanation": "La larva morta di peste americana è vischiosa: tirando piano lo stecchino si allunga come un filo di colla."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ciao Enrica! Oggi parliamo della difesa dell'alveare: le malattie e i nemici delle api. Cominciamo dalla più seria, la peste americana, detta anche putrefazione della covata."
+        },
+        {
+          "who": "E",
+          "text": "Peste? Che nome brutto. Colpisce le api adulte?"
+        },
+        {
+          "who": "M",
+          "text": "No, colpisce la covata, cioè uova, larve e pupe. La causa è un batterio, il Paenibacillus larvae. Le larve lo mangiano con la pappa e muoiono dopo che la cella è stata chiusa."
+        },
+        {
+          "who": "E",
+          "text": "Quindi da fuori vedo solo i tappi delle celle?"
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Ma i tappi diventano scuri, infossati, a volte bucati. E la covata sembra a mosaico: celle piene e celle vuote mescolate."
+        },
+        {
+          "who": "E",
+          "text": "E come faccio a capire se è proprio lei?"
+        },
+        {
+          "who": "M",
+          "text": "C'è la prova dello stecchino. Infili un fiammifero nella cella sospetta e lo tiri fuori piano. Se la larva marcia si allunga come un filo di colla, il sospetto è forte."
+        },
+        {
+          "who": "E",
+          "text": "Che schifo, ma è utile. E poi la curo con un antibiotico?"
+        },
+        {
+          "who": "M",
+          "text": "No. Nell'Unione Europea non ci sono antibiotici autorizzati per le api. Secondo te, perché questo batterio è così difficile da eliminare?"
+        },
+        {
+          "who": "E",
+          "text": "Forse perché resiste a lungo, anche nell'arnia vuota?"
+        },
+        {
+          "who": "M",
+          "text": "Brava. Forma spore, cioè semi duri che restano vivi per anni nel legno, nella cera e nel miele. Per questo non si passano mai favi da un'arnia malata."
+        },
+        {
+          "who": "E",
+          "text": "E se la trovo, cosa devo fare per legge?"
+        },
+        {
+          "who": "M",
+          "text": "In Italia è una malattia da denunciare. Chiami subito il veterinario della tua ASL: decide lui le misure, che nei casi gravi arrivano fino a bruciare famiglia e favi."
+        },
+        {
+          "who": "E",
+          "text": "Capito: niente cure fai da te, solo il veterinario."
+        }
+      ]
+    },
+    {
+      "title": "La peste europea o covata acida",
+      "keyPoints": [
+        "È causata dal batterio Melissococcus plutonius",
+        "Colpisce di solito le larve giovani, nelle celle aperte",
+        "Larve torte, giallastre, poi marroni; odore acido",
+        "Esplode spesso quando la famiglia è sotto stress",
+        "In Italia va segnalata al veterinario dell'ASL"
+      ],
+      "analogy": "La peste europea è come un raffreddore che arriva quando sei stanca e mangi male: il microbo c'è, ma colpisce forte soprattutto chi è già debole.",
+      "tip": "Guarda bene le larve nelle celle aperte: devono essere bianche perlacee e a forma di C. Se le vedi gialle, torte o sciolte, chiudi l'arnia e chiama l'ASL.",
+      "science": {
+        "text": "Oggi sappiamo anche che esistono ceppi «atipici» del batterio della peste europea. Scoperti prima in Giappone e poi trovati in molti paesi, sono geneticamente diversi dagli altri e molto virulenti per le singole larve. Per riconoscerli servono analisi di laboratorio.",
+        "source": "Takamatsu 2023, Journal of Veterinary Medical Science",
+        "url": "https://doi.org/10.1292/jvms.23-0180"
+      },
+      "check": {
+        "question": "Quali larve colpisce di solito la peste europea?",
+        "options": [
+          "Le larve giovani, nelle celle ancora aperte",
+          "Le pupe ormai pronte a uscire dalla cella",
+          "Solo le larve dei fuchi, sotto il tappo",
+          "Solo le larve reali, nelle celle reali"
+        ],
+        "answer": 0,
+        "explanation": "La peste europea colpisce di solito le larve giovani prima della chiusura della cella."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ora la peste europea, chiamata anche covata acida. Anche lei è causata da un batterio: il Melissococcus plutonius."
+        },
+        {
+          "who": "E",
+          "text": "Un altro batterio! Ma è uguale alla peste americana?"
+        },
+        {
+          "who": "M",
+          "text": "No. Questa colpisce di solito le larve giovani, ancora nelle celle aperte. Le larve si torcono, diventano giallastre e poi marroni, come sciolte."
+        },
+        {
+          "who": "E",
+          "text": "E l'odore? Il nome dice acida."
+        },
+        {
+          "who": "M",
+          "text": "Spesso c'è un odore acido, un po' di aceto. Ma attenta: l'odore da solo non basta per capire. E lo stecchino, di solito, non fa il filo lungo."
+        },
+        {
+          "who": "E",
+          "text": "Quindi la differenza la vedo soprattutto nelle celle aperte."
+        },
+        {
+          "who": "M",
+          "text": "Sì. Un'altra cosa: la peste europea esplode spesso quando la famiglia è sotto stress. Secondo te, che cosa può stressare una famiglia?"
+        },
+        {
+          "who": "E",
+          "text": "Poco cibo, freddo, pochi fiori, magari tanti spostamenti?"
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. Le famiglie forti e ben nutrite si difendono meglio. A volte le api tolgono da sole le larve malate e la famiglia si riprende."
+        },
+        {
+          "who": "E",
+          "text": "E la legge? Anche questa si denuncia?"
+        },
+        {
+          "who": "M",
+          "text": "In Italia sì, anche la peste europea va segnalata al veterinario dell'ASL. In altri paesi europei le regole sono diverse, ma qui vale questa."
+        },
+        {
+          "who": "E",
+          "text": "Allora, per ogni covata strana, prima il veterinario."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. E nel frattempo restringi la porticina dell'arnia malata, così le altre api non vanno a rubarle il miele."
+        },
+        {
+          "who": "E",
+          "text": "Così il batterio non viaggia con le api ladre. Mi è chiaro."
+        }
+      ]
+    },
+    {
+      "title": "L'acariasi o acarosi",
+      "keyPoints": [
+        "È causata dall'acaro Acarapis woodi",
+        "Vive dentro le trachee delle api adulte",
+        "Non si vede a occhio nudo: serve il laboratorio",
+        "Api che camminano e non volano: segno non sicuro",
+        "Passa per contatto, soprattutto tra api giovani"
+      ],
+      "analogy": "L'acaro delle trachee è come la polvere che intasa il filtro dell'aspirapolvere: l'aria passa sempre meno, e la macchina lavora male.",
+      "tip": "Se vedi tante api che camminano sul prato senza volare, raccogline un campione in un barattolo e chiedi alla tua ASL o all'associazione dove farle analizzare.",
+      "science": {
+        "text": "In Spagna un nuovo test sul DNA ha trovato l'acaro delle trachee nell'8,3% degli apiari esaminati nel 2010 e nel 4% nel 2011. Gli autori dicono che non va sottovalutato: può essere una delle cause che indeboliscono le famiglie.",
+        "source": "Cepero et al. 2015, Parasitology Research",
+        "url": "https://doi.org/10.1007/s00436-014-4229-6"
+      },
+      "check": {
+        "question": "Dove vive l'acaro Acarapis woodi?",
+        "options": [
+          "Sotto il tappo delle celle di covata",
+          "Nel miele vecchio in fondo ai favi",
+          "Sul fondo dell'arnia, tra i detriti",
+          "Dentro le trachee delle api adulte"
+        ],
+        "answer": 3,
+        "explanation": "L'Acarapis woodi vive nelle trachee, i tubicini con cui le api adulte respirano."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Adesso un acaro piccolissimo: l'Acarapis woodi. Causa l'acariasi, detta anche acarosi."
+        },
+        {
+          "who": "E",
+          "text": "Un acaro come la varroa?"
+        },
+        {
+          "who": "M",
+          "text": "No, molto più piccolo: non lo vedi a occhio nudo. Vive dentro le trachee delle api adulte, cioè i tubicini con cui respirano."
+        },
+        {
+          "who": "E",
+          "text": "Dentro i tubi del respiro? Poverine!"
+        },
+        {
+          "who": "M",
+          "text": "Sì. Lì depone le uova e succhia l'emolinfa, cioè il sangue delle api. Le trachee si macchiano di scuro e si intasano."
+        },
+        {
+          "who": "E",
+          "text": "E io come me ne accorgo, se non lo vedo?"
+        },
+        {
+          "who": "M",
+          "text": "Puoi vedere api che camminano davanti all'arnia e non riescono a volare, con le ali in disordine. Secondo te, questi segni bastano per essere sicuri?"
+        },
+        {
+          "who": "E",
+          "text": "Direi di no: anche altre malattie o un veleno possono fare lo stesso."
+        },
+        {
+          "who": "M",
+          "text": "Brava. Serve il laboratorio: si guardano le trachee al microscopio. Oggi si usano anche test sul DNA."
+        },
+        {
+          "who": "E",
+          "text": "Si passa da un'ape all'altra?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, per contatto, soprattutto tra le api giovani. Per questo una famiglia affollata e debole rischia di più."
+        },
+        {
+          "who": "E",
+          "text": "Quindi anche qui contano famiglie forti e controlli."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. In Italia l'acariasi è nell'elenco delle malattie del regolamento di polizia veterinaria. Se hai un dubbio, chiedi alla tua ASL o alla tua associazione."
+        },
+        {
+          "who": "E",
+          "text": "Va bene, niente ipotesi da sola: prendo un campione di api e chiedo a chi sa."
+        }
+      ]
+    },
+    {
+      "title": "La nosemiasi e l'amebiasi",
+      "keyPoints": [
+        "Nosema: parassita microscopico dell'intestino delle api adulte",
+        "Nosema apis può dare diarrea e macchie scure",
+        "Nosema ceranae spesso spopola la famiglia senza macchie",
+        "L'ameba Malpighamoeba colpisce i reni delle api",
+        "Diagnosi solo con microscopio o test sul DNA"
+      ],
+      "analogy": "Il Nosema è come un ospite che svuota la dispensa di nascosto: la famiglia mangia, ma le api adulte non riescono a nutrirsi bene e si consumano prima.",
+      "tip": "A fine inverno guarda davanzale e tetto dell'arnia: macchie scure di diarrea sono un campanello. Non bastano per la diagnosi: chiedi un'analisi delle api al laboratorio.",
+      "science": {
+        "text": "Nel 2006 un gruppo spagnolo ha trovato per la prima volta in Europa il Nosema ceranae, in api di famiglie che si stavano spopolando. Prima si conosceva soprattutto il Nosema apis. Per distinguere i due serve un'analisi del DNA in laboratorio.",
+        "source": "Higes et al. 2006, Journal of Invertebrate Pathology",
+        "url": "https://doi.org/10.1016/j.jip.2006.02.005"
+      },
+      "check": {
+        "question": "Perché il Nosema ceranae può passare inosservato?",
+        "options": [
+          "Perché colpisce soltanto le api regine",
+          "Perché spesso non lascia macchie di diarrea",
+          "Perché vive soltanto nel miele dei melari",
+          "Perché si vede solo nelle celle dei fuchi"
+        ],
+        "answer": 1,
+        "explanation": "Il Nosema ceranae spesso non dà diarrea: la famiglia si indebolisce piano, senza segni evidenti."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Passiamo all'intestino delle api. La nosemiasi è causata dal Nosema, un parassita microscopico che vive nell'intestino delle api adulte."
+        },
+        {
+          "who": "E",
+          "text": "Come un mal di pancia?"
+        },
+        {
+          "who": "M",
+          "text": "Un po' sì. Il Nosema apis, quello conosciuto da tanto tempo, può dare diarrea: vedi macchie scure sul davanzale e sul tetto dell'arnia."
+        },
+        {
+          "who": "E",
+          "text": "Ce n'è solo uno?"
+        },
+        {
+          "who": "M",
+          "text": "No. Nel 2006 in Spagna hanno trovato in Europa il Nosema ceranae, descritto prima nell'ape asiatica. Spesso non dà diarrea: la famiglia si spopola piano piano."
+        },
+        {
+          "who": "E",
+          "text": "Quindi senza macchie posso non accorgermene?"
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. Bisogna guardare le api al microscopio. Secondo te, come prende le spore un'ape adulta?"
+        },
+        {
+          "who": "E",
+          "text": "Pulendo i favi sporchi o scambiandosi il cibo con le altre?"
+        },
+        {
+          "who": "M",
+          "text": "Brava. Per questo si cambiano i favi vecchi e si tengono famiglie forti, con scorte buone. In Italia anche la nosemiasi è nell'elenco del regolamento veterinario."
+        },
+        {
+          "who": "E",
+          "text": "E l'amebiasi cos'è?"
+        },
+        {
+          "who": "M",
+          "text": "È causata da un'ameba, la Malpighamoeba mellificae. Colpisce i tubuli malpighiani, che fanno da reni alle api adulte, e spesso si trova insieme al Nosema."
+        },
+        {
+          "who": "E",
+          "text": "Quindi due inquilini cattivi nello stesso corpo."
+        },
+        {
+          "who": "M",
+          "text": "Sì. Dell'ameba si sa ancora poco: quasi tutti gli studi sono vecchi. Da poco esiste un test sul DNA per cercarla."
+        },
+        {
+          "who": "E",
+          "text": "Allora anche qui decide il laboratorio, non il mio occhio."
+        }
+      ]
+    },
+    {
+      "title": "Altri nemici delle api",
+      "keyPoints": [
+        "Tarma della cera: larve che scavano gallerie nei favi",
+        "Favi in magazzino: freddo e aria li proteggono",
+        "Covata calcificata: fungo, larve dure come gessetti",
+        "Gruccione: uccello che cattura le api in volo",
+        "Topi in autunno: griglia sulla porticina"
+      ],
+      "analogy": "La tarma della cera è come la tarma nell'armadio dei maglioni: se l'armadio è usato e arieggiato fa pochi danni, se lo dimentichi chiuso trovi tutto bucato.",
+      "tip": "In autunno metti la griglia anti-topo sulla porticina. I favi vuoti tienili in un posto fresco e arieggiato, e controllali spesso per vedere fili di seta.",
+      "science": {
+        "text": "Una rassegna scientifica spiega che la covata calcificata, causata dal fungo Ascosphaera apis, oggi si trova in tutto il mondo e forse è in aumento. Si diffonde anche con i viaggi e con il nomadismo, cioè lo spostamento degli alveari.",
+        "source": "Aronstein & Murray 2010, Journal of Invertebrate Pathology",
+        "url": "https://doi.org/10.1016/j.jip.2009.06.018"
+      },
+      "check": {
+        "question": "Come appaiono le larve colpite dalla covata calcificata?",
+        "options": [
+          "Molli e marroni, con un filo vischioso",
+          "Gialle e torte, con un odore di aceto",
+          "Dure, bianche o grigie, come gessetti",
+          "Gonfie e piene di liquido, come sacchi"
+        ],
+        "answer": 2,
+        "explanation": "Il fungo secca le larve: diventano dure, bianche, poi grigie o nere, simili a gessetti."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ora i nemici che non sono microbi. Il primo è la tarma della cera, una farfallina che vola di notte."
+        },
+        {
+          "who": "E",
+          "text": "Una farfalla? Sembra innocua."
+        },
+        {
+          "who": "M",
+          "text": "La farfalla no, ma le sue larve scavano gallerie nei favi e li riempiono di fili di seta. Amano i favi scuri, con resti di covata e polline."
+        },
+        {
+          "who": "E",
+          "text": "Come le tarme nell'armadio dei maglioni!"
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Una famiglia forte le tiene a bada. Il pericolo vero è in magazzino. Secondo te, come proteggi i favi messi da parte?"
+        },
+        {
+          "who": "E",
+          "text": "Al fresco, in un posto arieggiato, magari passandoli in congelatore?"
+        },
+        {
+          "who": "M",
+          "text": "Brava, il freddo uccide uova e larve della tarma. Poi c'è la covata calcificata, causata da un fungo."
+        },
+        {
+          "who": "E",
+          "text": "Un fungo nelle celle?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, l'Ascosphaera apis. Le larve diventano dure e bianche, poi grigie o nere, come gessetti. Le trovi anche sul predellino, buttate fuori dalle api."
+        },
+        {
+          "who": "E",
+          "text": "Gessetti davanti all'arnia. E come si evita?"
+        },
+        {
+          "who": "M",
+          "text": "Arnie asciutte e ben esposte, famiglie forti e favi rinnovati. Poi ci sono gli animali: il gruccione, un uccello colorato, cattura le api in volo."
+        },
+        {
+          "who": "E",
+          "text": "E i topi?"
+        },
+        {
+          "who": "M",
+          "text": "In autunno cercano un posto caldo ed entrano nell'arnia, dove rovinano i favi. Si mette una griglia sulla porticina, che lascia passare le api ma non il topo."
+        },
+        {
+          "who": "E",
+          "text": "Allora una porta stretta, solo per le api. Facile da ricordare."
+        }
+      ]
+    },
+    {
+      "title": "L'inquinamento ambientale",
+      "keyPoints": [
+        "Pesticidi usati male possono avvelenare le api",
+        "Neonicotinoidi arrivano anche in polline e nettare",
+        "UE 2018: tre neonicotinoidi vietati all'aperto",
+        "In caso di moria avvisa subito l'ASL",
+        "La segnalazione serve a capire, non ad accusare"
+      ],
+      "analogy": "Il veleno nei campi è come il detersivo lasciato su un piatto: non lo vedi, ma chi ci mangia sopra ne risente.",
+      "tip": "Se trovi tante api morte o tremanti davanti alle arnie, chiama subito il servizio veterinario della tua ASL. Non buttare le api morte: possono servire per le analisi.",
+      "science": {
+        "text": "Un grande esperimento in Ungheria, Germania e Regno Unito ha studiato la colza seminata con neonicotinoidi. In Ungheria le famiglie di api erano più piccole la primavera dopo, del 24%. Nelle api selvatiche, più residui significavano meno figli.",
+        "source": "Woodcock et al. 2017, Science",
+        "url": "https://doi.org/10.1126/science.aaa1190"
+      },
+      "check": {
+        "question": "Che cosa ha deciso l'Unione Europea nel 2018 su tre neonicotinoidi?",
+        "options": [
+          "Li ha permessi solo durante la fioritura",
+          "Li ha vietati all'aperto, restano nelle serre",
+          "Li ha resi obbligatori per seminare il mais",
+          "Li ha vietati solo vicino agli apiari"
+        ],
+        "answer": 1,
+        "explanation": "Imidacloprid, clothianidin e thiamethoxam sono vietati all'aperto: restano possibili solo nelle serre fisse."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ultimo nemico: l'inquinamento, soprattutto i pesticidi usati nei campi."
+        },
+        {
+          "who": "E",
+          "text": "Ma allora in quel caso le api non sono malate?"
+        },
+        {
+          "who": "M",
+          "text": "Non per un microbo. Un pesticida usato male, magari in fioritura, può avvelenarle. Vedi tante api morte davanti all'arnia, api che tremano e non volano."
+        },
+        {
+          "who": "E",
+          "text": "E i neonicotinoidi? Ne ho sentito parlare al telegiornale."
+        },
+        {
+          "who": "M",
+          "text": "Sono insetticidi che la pianta assorbe e porta anche nel polline e nel nettare. Nel 2018 l'Unione Europea ne ha vietati tre all'aperto: imidacloprid, clothianidin e thiamethoxam."
+        },
+        {
+          "who": "E",
+          "text": "Solo all'aperto?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, restano possibili solo nelle serre fisse. Secondo te, perché è importante segnalare subito una moria di api?"
+        },
+        {
+          "who": "E",
+          "text": "Perché il veleno sparisce in fretta e dopo non si trova più?"
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. Molte sostanze si degradano presto. Chiami subito il servizio veterinario dell'ASL: viene in apiario e preleva api morte o altri campioni."
+        },
+        {
+          "who": "E",
+          "text": "E se poi l'agricoltore vicino si arrabbia?"
+        },
+        {
+          "who": "M",
+          "text": "La segnalazione non è un'accusa contro qualcuno: serve a capire cosa è successo. Le analisi le fa l'Istituto Zooprofilattico."
+        },
+        {
+          "who": "E",
+          "text": "Quindi segnalare aiuta tutti, anche gli altri apicoltori."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. E parla con gli agricoltori vicini: sapere quando trattano ti aiuta a proteggere le tue famiglie."
+        },
+        {
+          "who": "E",
+          "text": "Va bene: buon vicinato con gli agricoltori e segnalazioni veloci quando qualcosa non va."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Chi causa la peste americana?",
+      "back": "Il batterio Paenibacillus larvae, che forma spore resistenti.",
+      "part": 0
+    },
+    {
+      "front": "A cosa serve la prova dello stecchino?",
+      "back": "A sospettare la peste americana: la larva marcia fa il filo.",
+      "part": 0
+    },
+    {
+      "front": "Si usano antibiotici contro la peste americana?",
+      "back": "No: nell'UE non ci sono antibiotici autorizzati per le api.",
+      "part": 0
+    },
+    {
+      "front": "Chi causa la peste europea?",
+      "back": "Il batterio Melissococcus plutonius.",
+      "part": 1
+    },
+    {
+      "front": "Quando esplode spesso la peste europea?",
+      "back": "Quando la famiglia è sotto stress: poco cibo, freddo, spostamenti.",
+      "part": 1
+    },
+    {
+      "front": "Dove vive l'Acarapis woodi?",
+      "back": "Nelle trachee delle api adulte.",
+      "part": 2
+    },
+    {
+      "front": "Qual è la differenza tra Nosema apis e Nosema ceranae?",
+      "back": "Il primo dà spesso diarrea; il secondo spopola la famiglia anche senza macchie.",
+      "part": 3
+    },
+    {
+      "front": "Che cosa colpisce l'ameba Malpighamoeba mellificae?",
+      "back": "I tubuli malpighiani, i «reni» delle api adulte.",
+      "part": 3
+    },
+    {
+      "front": "Come proteggi i favi dalla tarma della cera?",
+      "back": "Al fresco e all'aria; il freddo uccide uova e larve.",
+      "part": 4
+    },
+    {
+      "front": "Che cosa si mette contro i topi in autunno?",
+      "back": "Una griglia sulla porticina che lascia passare solo le api.",
+      "part": 4
+    },
+    {
+      "front": "Quali neonicotinoidi sono vietati all'aperto dal 2018?",
+      "back": "Imidacloprid, clothianidin e thiamethoxam.",
+      "part": 5
+    },
+    {
+      "front": "Chi chiami se vedi una moria di api?",
+      "back": "Il servizio veterinario della tua ASL, subito.",
+      "part": 5
+    }
+  ],
+  "questions": [
+    {
+      "question": "Come appaiono i tappi della covata con la peste americana?",
+      "options": [
+        "Scuri, infossati e a volte bucati",
+        "Bianchi, gonfi e molto sporgenti",
+        "Lucidi, gialli e coperti di miele",
+        "Sottili, trasparenti e asciutti"
+      ],
+      "answer": 0,
+      "explanation": "Sopra le larve morte i tappi si scuriscono, si infossano e spesso le api li bucano.",
+      "part": 0
+    },
+    {
+      "question": "Perché non si spostano favi da un'arnia con peste americana?",
+      "options": [
+        "Perché i favi diventano troppo pesanti",
+        "Perché le api non accettano favi nuovi",
+        "Perché il miele perde subito il sapore",
+        "Perché le spore restano vive per anni"
+      ],
+      "answer": 3,
+      "explanation": "Le spore resistono a lungo in cera, legno e miele e porterebbero la malattia altrove.",
+      "part": 0
+    },
+    {
+      "question": "Che odore ha spesso la covata con peste europea?",
+      "options": [
+        "Un odore dolce di fiori di tiglio",
+        "Un odore acido, simile all'aceto",
+        "Un odore di fumo e legna bruciata",
+        "Nessun odore, proprio come la sana"
+      ],
+      "answer": 1,
+      "explanation": "Il nome «covata acida» viene dall'odore, che però da solo non basta per la diagnosi.",
+      "part": 1
+    },
+    {
+      "question": "In Italia, la peste europea va segnalata?",
+      "options": [
+        "No, basta curarla da soli con lo zucchero",
+        "No, si segnala solo se muore la regina",
+        "Sì, va segnalata al veterinario dell'ASL",
+        "Sì, ma solo all'associazione apicoltori"
+      ],
+      "answer": 2,
+      "explanation": "In Italia la peste europea è soggetta a denuncia, anche se in altri paesi UE non lo è.",
+      "part": 1
+    },
+    {
+      "question": "Come si conferma l'acariasi?",
+      "options": [
+        "Guardando le ali delle api al sole",
+        "Contando le api morte sul predellino",
+        "Annusando l'aria vicino alla porticina",
+        "Con il microscopio o un test sul DNA"
+      ],
+      "answer": 3,
+      "explanation": "L'acaro è invisibile a occhio nudo: si guardano le trachee al microscopio o si usa la PCR.",
+      "part": 2
+    },
+    {
+      "question": "Tra quali api passa più facilmente l'Acarapis woodi?",
+      "options": [
+        "Tra le api giovani, per contatto",
+        "Tra le api bottinatrici, sui fiori",
+        "Tra le regine, durante il volo",
+        "Tra i fuchi, solo in primavera"
+      ],
+      "answer": 0,
+      "explanation": "L'acaro passa da un'ape all'altra per contatto e preferisce le api giovani.",
+      "part": 2
+    },
+    {
+      "question": "Dove vive il Nosema?",
+      "options": [
+        "Nelle ali delle api in volo",
+        "Nella cera dei favi più vecchi",
+        "Nell'intestino delle api adulte",
+        "Nelle celle reali appena chiuse"
+      ],
+      "answer": 2,
+      "explanation": "Il Nosema è un parassita microscopico dell'intestino delle api adulte.",
+      "part": 3
+    },
+    {
+      "question": "Con quale altro parassita si trova spesso l'ameba delle api?",
+      "options": [
+        "Con la tarma della cera",
+        "Con il Nosema delle api",
+        "Con il gruccione in volo",
+        "Con la varroa dei fuchi"
+      ],
+      "answer": 1,
+      "explanation": "L'amebiasi colpisce i tubuli malpighiani e spesso compare insieme alla nosemiasi.",
+      "part": 3
+    },
+    {
+      "question": "Dove fa più danni la tarma della cera?",
+      "options": [
+        "Nelle famiglie forti in piena estate",
+        "Nel miele già messo nei vasetti",
+        "Sulle api bottinatrici in volo",
+        "Nei favi vuoti dimenticati in magazzino"
+      ],
+      "answer": 3,
+      "explanation": "Una famiglia forte la tiene a bada; i favi abbandonati invece vengono scavati e bucati.",
+      "part": 4
+    },
+    {
+      "question": "Che cosa aiuta a prevenire la covata calcificata?",
+      "options": [
+        "Arnie asciutte e famiglie forti",
+        "Arnie umide e all'ombra fitta",
+        "Molti favi vecchi e scuri nel nido",
+        "Dare antibiotici ogni primavera"
+      ],
+      "answer": 0,
+      "explanation": "Il fungo approfitta dell'umidità e delle famiglie deboli: asciutto e forza aiutano.",
+      "part": 4
+    },
+    {
+      "question": "Perché i neonicotinoidi arrivano anche alle api?",
+      "options": [
+        "Perché le api li bevono nell'acqua del mare",
+        "Perché restano attaccati al legno dell'arnia",
+        "Perché la pianta li porta in polline e nettare",
+        "Perché l'apicoltore li mette nello sciroppo"
+      ],
+      "answer": 2,
+      "explanation": "Sono insetticidi sistemici: la pianta li assorbe e li distribuisce, fino ai fiori.",
+      "part": 5
+    },
+    {
+      "question": "Perché una moria va segnalata subito?",
+      "options": [
+        "Perché dopo un mese arriva una multa",
+        "Perché molte sostanze si degradano presto",
+        "Perché le api morte diventano preziose",
+        "Perché l'ASL lavora solo il lunedì"
+      ],
+      "answer": 1,
+      "explanation": "Se si aspetta, il pesticida può sparire e le analisi non trovano più niente.",
+      "part": 5
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Covata strana a giugno",
+      "prompt": "Apri l'arnia e vedi una covata a mosaico. Alcuni tappi sono scuri, infossati e con un buchino. Cosa fai?",
+      "modelAnswer": "Il sospetto è la peste americana. Prima di tutto non sposto nessun favo e nessun attrezzo da quest'arnia ad altre. Se ho imparato a farla, provo con uno stecchino su una cella sospetta: se la larva si allunga come un filo, il sospetto diventa forte. Richiudo l'arnia, restringo la porticina per evitare che altre api vengano a rubare il miele e lavo bene mani, leva e guanti. Poi chiamo subito il servizio veterinario della mia ASL, perché in Italia è una malattia da denunciare. Non uso antibiotici né altri rimedi: nell'UE non ci sono antibiotici autorizzati per le api. Seguo le misure decise dal veterinario, anche se sono dure."
+    },
+    {
+      "title": "Api morte davanti all'arnia",
+      "prompt": "A maggio arrivi in apiario e trovi un mucchio di api morte davanti a due arnie. Altre tremano e non riescono a volare. Vicino c'è un campo appena trattato. Cosa fai?",
+      "modelAnswer": "Penso a un possibile avvelenamento da pesticidi. Non pulisco il predellino e non butto le api morte: possono servire per le analisi. Chiamo subito il servizio veterinario della mia ASL, perché molte sostanze si degradano in fretta e bisogna prelevare i campioni presto. Il veterinario viene in apiario e preleva api morte o altri materiali; le analisi le fa l'Istituto Zooprofilattico. Avviso anche la mia associazione. Ricordo che la segnalazione non è un'accusa: serve a capire cosa è successo. Dopo, parlo con l'agricoltore vicino per sapere quando tratta, così la prossima volta posso proteggere meglio le mie famiglie."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Sospetto di peste americana: cosa fai, in ordine",
+        "steps": [
+          "Noti tappi scuri, infossati e bucati",
+          "Fai la prova dello stecchino",
+          "Richiudi l'arnia e restringi la porticina",
+          "Non sposti favi né attrezzi",
+          "Chiami il veterinario della ASL",
+          "Segui le misure decise dal veterinario"
+        ],
+        "part": 0
+      },
+      {
+        "title": "Moria di api: i passi giusti",
+        "steps": [
+          "Trovi tante api morte davanti all'arnia",
+          "Non butti via le api morte",
+          "Chiami subito il veterinario della ASL",
+          "Il veterinario preleva i campioni",
+          "L'Istituto Zooprofilattico fa le analisi"
+        ],
+        "part": 5
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Mi trovi anche sul predellino, buttata fuori dalle api.",
+          "Nasco da un fungo e colpisco le larve.",
+          "Le larve che uccido sembrano gessetti."
+        ],
+        "answer": "covata calcificata",
+        "distractors": [
+          "peste europea",
+          "peste americana",
+          "covata a sacco"
+        ],
+        "part": 4
+      },
+      {
+        "clues": [
+          "Mi vedi solo al microscopio.",
+          "Depongo le uova dentro un tubo del respiro.",
+          "Abito nelle trachee delle api adulte."
+        ],
+        "answer": "Acarapis woodi",
+        "distractors": [
+          "Varroa destructor",
+          "Tropilaelaps",
+          "Aethina tumida"
+        ],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Lascio fili di seta ovunque passo.",
+          "Scavo gallerie nei favi scuri.",
+          "Da grande volo di notte come una farfallina."
+        ],
+        "answer": "tarma della cera",
+        "distractors": [
+          "vespa velutina",
+          "Aethina tumida",
+          "formica argentina"
+        ],
+        "part": 4
+      },
+      {
+        "clues": [
+          "Mi hanno descritto prima nell'ape asiatica.",
+          "Abito nell'intestino delle api adulte.",
+          "Spesso non lascio macchie di diarrea."
+        ],
+        "answer": "Nosema ceranae",
+        "distractors": [
+          "Nosema apis",
+          "Ascosphaera apis",
+          "Acarapis woodi"
+        ],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Mi mettono sui semi per difendere le piante.",
+          "Arrivo anche nel polline e nel nettare.",
+          "Dal 2018 in UE tre di noi non si usano all'aperto."
+        ],
+        "answer": "neonicotinoidi",
+        "distractors": [
+          "piretroidi",
+          "fungicidi",
+          "erbicidi"
+        ],
+        "part": 5
+      }
+    ],
+    "truefalse": [
+      {
+        "text": "La peste americana colpisce soprattutto le api adulte.",
+        "true": false,
+        "why": "Colpisce la covata: le larve muoiono dopo la chiusura della cella.",
+        "part": 0
+      },
+      {
+        "text": "Nell'UE non ci sono antibiotici autorizzati per le api.",
+        "true": true,
+        "why": "Contro la peste americana non si usano antibiotici: decide il veterinario dell'ASL.",
+        "part": 0
+      },
+      {
+        "text": "In Italia la peste americana va denunciata al veterinario dell'ASL.",
+        "true": true,
+        "why": "È una malattia soggetta a denuncia: in caso di sospetto si avvisa subito l'ASL.",
+        "part": 0
+      },
+      {
+        "text": "La peste europea colpisce di solito le larve nelle celle aperte.",
+        "true": true,
+        "why": "Le larve giovani si torcono e ingialliscono prima della chiusura della cella.",
+        "part": 1
+      },
+      {
+        "text": "L'odore acido basta da solo per riconoscere la peste europea.",
+        "true": false,
+        "why": "L'odore è un indizio, ma per la diagnosi serve il laboratorio.",
+        "part": 1
+      },
+      {
+        "text": "L'Acarapis woodi si vede bene a occhio nudo.",
+        "true": false,
+        "why": "È piccolissimo e vive nelle trachee: serve il microscopio.",
+        "part": 2
+      },
+      {
+        "text": "Api che camminano senza volare possono avere cause diverse.",
+        "true": true,
+        "why": "Acari, virus o veleni danno segni simili: decide il laboratorio.",
+        "part": 2
+      },
+      {
+        "text": "Il Nosema ceranae dà sempre tante macchie di diarrea.",
+        "true": false,
+        "why": "Spesso non ne dà: la famiglia si spopola piano piano.",
+        "part": 3
+      },
+      {
+        "text": "L'ameba delle api colpisce i tubuli malpighiani.",
+        "true": true,
+        "why": "Sono gli organi che fanno da reni alle api adulte.",
+        "part": 3
+      },
+      {
+        "text": "Il freddo uccide uova e larve della tarma della cera.",
+        "true": true,
+        "why": "Per questo i favi in magazzino si tengono al fresco o in congelatore.",
+        "part": 4
+      },
+      {
+        "text": "Contro i topi si chiude del tutto la porticina in autunno.",
+        "true": false,
+        "why": "Si usa una griglia che lascia passare le api ma non il topo.",
+        "part": 4
+      },
+      {
+        "text": "Segnalare una moria significa denunciare l'agricoltore vicino.",
+        "true": false,
+        "why": "La segnalazione serve a capire cosa è successo, non è un'accusa.",
+        "part": 5
+      }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 8,
+      "question": "Perché il batterio della peste americana è così difficile da eliminare?",
+      "options": [
+        "Perché vola da un apiario all'altro",
+        "Perché forma spore che resistono anni",
+        "Perché si nasconde dentro la regina",
+        "Perché cambia colore ogni stagione"
+      ],
+      "answer": 1,
+      "why": "Le spore restano vive per anni in legno, cera e miele: per questo i favi infetti non si spostano."
+    },
+    {
+      "part": 1,
+      "line": 6,
+      "question": "Che cosa può stressare una famiglia e favorire la peste europea?",
+      "options": [
+        "Un melario messo in primavera",
+        "Una visita breve dell'apicoltore",
+        "Una regina giovane appena nata",
+        "Poco cibo, freddo e spostamenti"
+      ],
+      "answer": 3,
+      "why": "Fame, freddo, pochi fiori e tanti spostamenti indeboliscono la famiglia, e il batterio ne approfitta."
+    },
+    {
+      "part": 2,
+      "line": 6,
+      "question": "Api che camminano e non volano bastano per dire «acariasi»?",
+      "options": [
+        "No, anche altre cause danno questi segni",
+        "Sì, è l'unica malattia che li provoca",
+        "Sì, se succede soltanto in primavera",
+        "No, perché l'acaro colpisce solo i fuchi"
+      ],
+      "answer": 0,
+      "why": "Malattie diverse e veleni danno segni simili: per essere sicuri serve il laboratorio."
+    },
+    {
+      "part": 3,
+      "line": 6,
+      "question": "Come prende le spore del Nosema un'ape adulta?",
+      "options": [
+        "Volando vicino ai fiori di campo",
+        "Dormendo sopra i favi di covata",
+        "Pulendo favi sporchi e scambiando cibo",
+        "Ronzando insieme alle altre api"
+      ],
+      "answer": 2,
+      "why": "Le spore stanno nello sporco dei favi e passano con la pulizia e lo scambio di cibo."
+    },
+    {
+      "part": 4,
+      "line": 4,
+      "question": "Come proteggi dalla tarma i favi messi da parte?",
+      "options": [
+        "Al fresco, all'aria o in congelatore",
+        "Al caldo, chiusi in un sacco di plastica",
+        "In cantina umida, vicino alle patate",
+        "Al sole, sopra il tetto delle arnie"
+      ],
+      "answer": 0,
+      "why": "La tarma ama il caldo e il chiuso: il freddo e l'aria la fermano, il congelatore uccide uova e larve."
+    },
+    {
+      "part": 5,
+      "line": 6,
+      "question": "Perché è importante segnalare subito una moria di api?",
+      "options": [
+        "Perché le api morte attirano gli orsi",
+        "Perché l'ASL chiude dopo l'estate",
+        "Perché il miele diventa subito amaro",
+        "Perché il veleno sparisce in fretta"
+      ],
+      "answer": 3,
+      "why": "Molte sostanze si degradano presto: se si aspetta, le analisi non trovano più la causa."
+    }
+  ]
+}

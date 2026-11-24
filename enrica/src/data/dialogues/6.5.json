@@ -1,0 +1,249 @@
+{
+ "code": "6.5",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi parliamo di una cosa che spaventa tutti gli apicoltori: il collasso dell'alveare."
+    },
+    {
+     "who": "E",
+     "text": "Collasso vuol dire che la famiglia muore?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, ma in un modo strano. Le api adulte spariscono in poco tempo. Apri l'arnia e trovi la regina, un po' di covata, il miele, ma quasi nessuna operaia."
+    },
+    {
+     "who": "E",
+     "text": "E le api morte dove sono? Sul fondo?"
+    },
+    {
+     "who": "M",
+     "text": "Ecco il mistero: davanti all'arnia se ne vedono pochissime. Il nome inglese è Colony Collapse Disorder, ed è nato negli Stati Uniti verso il 2006."
+    },
+    {
+     "who": "E",
+     "text": "Come mai se ne parlò tanto proprio allora?"
+    },
+    {
+     "who": "M",
+     "text": "Perché in due inverni di fila molti apicoltori americani persero tantissime famiglie, senza capire il perché."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, gli scienziati hanno trovato un solo colpevole?"
+    },
+    {
+     "who": "E",
+     "text": "Immagino di no, sennò non sarebbe ancora un mistero. Forse le cause sono più di una."
+    },
+    {
+     "who": "M",
+     "text": "Hai indovinato. Hanno misurato tantissime cose e nessuna, da sola, spiegava tutto. Ma le api delle famiglie collassate avevano più malattie insieme."
+    },
+    {
+     "who": "E",
+     "text": "Come quando uno è stanco, mangia male e prende un raffreddore: tutto insieme lo butta giù."
+    },
+    {
+     "who": "M",
+     "text": "Bel paragone. Comunque, nella ricerca sono emersi due grandi indiziati: un parassita dell'intestino, Nosema ceranae, e l'acaro Varroa."
+    },
+    {
+     "who": "E",
+     "text": "Li vediamo uno alla volta?"
+    },
+    {
+     "who": "M",
+     "text": "Sì. E alla fine parleremo della cosa più importante: come prevenire, perché lì puoi fare tanto anche tu."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Primo indiziato: Nosema ceranae. È un parassita piccolissimo, si vede solo al microscopio. È parente dei funghi."
+    },
+    {
+     "who": "E",
+     "text": "E da dove viene?"
+    },
+    {
+     "who": "M",
+     "text": "Dall'ape asiatica, Apis cerana, da cui prende il nome. Poi è passato alla nostra ape e oggi si trova in quasi tutto il mondo."
+    },
+    {
+     "who": "E",
+     "text": "E dove si nasconde nell'ape?"
+    },
+    {
+     "who": "M",
+     "text": "Nell'intestino delle api adulte. Rovina le cellule che servono a digerire, così l'ape vive meno e lavora peggio."
+    },
+    {
+     "who": "E",
+     "text": "E come passa da un'ape all'altra?"
+    },
+    {
+     "who": "M",
+     "text": "Con le spore, cioè piccoli semi del parassita, che finiscono nel cibo, nell'acqua e negli escrementi. Le api pulendo le ingoiano."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, perché è così difficile accorgersi di nosema?"
+    },
+    {
+     "who": "E",
+     "text": "Forse perché all'inizio non si vede niente: le api sembrano normali."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. In Spagna hanno visto famiglie stare bene a lungo e poi crollare d'improvviso, quando la regina non riusciva più a rimpiazzare le api perse."
+    },
+    {
+     "who": "E",
+     "text": "E c'è una medicina?"
+    },
+    {
+     "who": "M",
+     "text": "In Italia e in Europa oggi non c'è nessun farmaco autorizzato contro nosema. Per questo conta tanto la buona gestione."
+    },
+    {
+     "who": "E",
+     "text": "Allora famiglie forti, buone scorte e pulizia."
+    },
+    {
+     "who": "M",
+     "text": "Brava. E se hai un dubbio, porti un campione di api a un laboratorio: al microscopio vedono le spore."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Secondo indiziato: la varroa. È un acaro, cioè un parente piccolissimo dei ragni, grande come una capocchia di spillo."
+    },
+    {
+     "who": "E",
+     "text": "E anche lei viene dall'Asia?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, anche lei viveva sull'ape asiatica. Poi è passata alla nostra ape, che non sa difendersi bene."
+    },
+    {
+     "who": "E",
+     "text": "E cosa fa alle api?"
+    },
+    {
+     "who": "M",
+     "text": "La femmina entra nelle celle di covata poco prima che le api le chiudano. Lì depone le uova e i piccoli acari crescono insieme all'ape."
+    },
+    {
+     "who": "E",
+     "text": "Quindi l'ape nasce già indebolita."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. La varroa si nutre dell'ape. E c'è di peggio: le passa dei virus, come quello delle ali deformi."
+    },
+    {
+     "who": "E",
+     "text": "Ali deformi? Le api nascono con le ali rovinate?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, accartocciate. Non possono volare e muoiono presto. Senza controllo, una famiglia piena di varroa muore in pochi anni."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, oggi la scienza dà tutta la colpa alla varroa?"
+    },
+    {
+     "who": "E",
+     "text": "Credo di no. Dopo il discorso di prima, penso che conti la somma di tanti problemi."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Varroa e virus, nosema, pesticidi, poca varietà di fiori, il clima che cambia: insieme pesano molto di più."
+    },
+    {
+     "who": "E",
+     "text": "Come uno zaino: ogni sasso da solo è leggero, ma tutti insieme ti piegano la schiena."
+    },
+    {
+     "who": "M",
+     "text": "Bellissimo. E la varroa è il sasso più grosso, quello che un apicoltore deve togliere per primo."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Siamo all'ultima parte, la più importante: la prevenzione. Qui il lavoro è tutto nelle tue mani."
+    },
+    {
+     "who": "E",
+     "text": "Da dove comincio?"
+    },
+    {
+     "who": "M",
+     "text": "Dalla varroa. Va contata con regolarità, per esempio guardando quante ne cadono sul fondo dell'arnia, su un foglio apposta."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, perché contare e non trattare e basta?"
+    },
+    {
+     "who": "E",
+     "text": "Perché così so quante ce ne sono, e capisco quando serve trattare e se il trattamento ha funzionato."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Per trattare si usano prodotti autorizzati, per esempio con acido ossalico, acido formico, timolo o amitraz."
+    },
+    {
+     "who": "E",
+     "text": "E le dosi?"
+    },
+    {
+     "who": "M",
+     "text": "Le dosi le leggi sull'etichetta e le decidi con il veterinario. Mai a occhio. E ogni trattamento va scritto nel registro, come vuole la legge."
+    },
+    {
+     "who": "E",
+     "text": "E oltre alla varroa?"
+    },
+    {
+     "who": "M",
+     "text": "Famiglie forti, regine giovani, scorte sufficienti. E polline di tanti fiori diversi: un'alimentazione varia aiuta le difese delle api."
+    },
+    {
+     "who": "E",
+     "text": "Come noi con la frutta e la verdura di stagione."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Poi cambia i favi vecchi e scuri, che accumulano spore e residui, e tieni pulite le attrezzature."
+    },
+    {
+     "who": "E",
+     "text": "E se un giorno trovo tante api morte davanti all'arnia?"
+    },
+    {
+     "who": "M",
+     "text": "Raccogli un campione, fai foto e avvisa subito il Servizio veterinario dell'ASL. Potrebbe essere un avvelenamento o una malattia. Per le regole, chiedi sempre all'ASL o all'associazione."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "code": "6.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Che cosa ha portato la varroa così lontano e così veloce?",
+   "options": [
+    "Gli uccelli che migrano in autunno",
+    "Le piogge forti delle estati calde",
+    "Gli apicoltori, con regine e nomadismo",
+    "I fiori nuovi piantati nei giardini"
+   ],
+   "answer": 2,
+   "why": "Il commercio di regine e lo spostamento degli alveari per le fioriture hanno portato la varroa ovunque."
+  },
+  {
+   "part": 1,
+   "line": 6,
+   "question": "Perché la varroa preferisce la covata dei fuchi?",
+   "options": [
+    "Perché la cella resta chiusa più a lungo",
+    "Perché i fuchi hanno le ali più grandi",
+    "Perché la cella del fuco è più calda",
+    "Perché i fuchi mangiano meno miele"
+   ],
+   "answer": 0,
+   "why": "Più giorni di cella chiusa significano più tempo per crescere: nascono più varroe figlie."
+  },
+  {
+   "part": 2,
+   "line": 8,
+   "question": "Perché le api per il conteggio si prendono da un favo con covata?",
+   "options": [
+    "Perché lì le api pungono meno",
+    "Perché lì c'è meno zucchero",
+    "Perché lì il favo pesa meno",
+    "Perché lì ci sono più varroe"
+   ],
+   "answer": 3,
+   "why": "Le api giovani che curano la covata portano più varroe: il conteggio è più fedele."
+  },
+  {
+   "part": 3,
+   "line": 4,
+   "question": "Quale famiglia viene saccheggiata più facilmente?",
+   "options": [
+    "Una famiglia forte con molte guardiane",
+    "Una famiglia debole che non si difende",
+    "Una famiglia appena nutrita con sciroppo",
+    "Una famiglia con la regina appena nata"
+   ],
+   "answer": 1,
+   "why": "Le api ladre cercano le famiglie deboli, come quelle che crollano per la varroa."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Che cosa succede a fine estate, con poca covata e tante varroe?",
+   "options": [
+    "Le varroe muoiono di fame senza covata",
+    "Le varroe lasciano l'arnia per l'inverno",
+    "Quasi ogni ape nuova viene punta",
+    "Le api diventano tutte resistenti"
+   ],
+   "answer": 2,
+   "why": "Tante varroe si concentrano su poca covata: proprio le api d'inverno nascono indebolite."
+  },
+  {
+   "part": 5,
+   "line": 8,
+   "question": "Senza covata nell'arnia, dove possono nascondersi le varroe?",
+   "options": [
+    "Da nessuna parte: restano sulle api",
+    "Nel miele dei favi del melario",
+    "Nella cera dei favi più vecchi",
+    "Sotto il coprifavo, al caldo"
+   ],
+   "answer": 0,
+   "why": "Senza celle opercolate le varroe restano sulle api adulte, e il trattamento le raggiunge tutte."
+  },
+  {
+   "part": 6,
+   "line": 4,
+   "question": "Perché l'acido ossalico funziona bene solo senza covata?",
+   "options": [
+    "Perché la covata lo rende troppo forte",
+    "Perché le larve lo mangiano tutto",
+    "Perché d'estate evapora subito",
+    "Perché non entra nelle celle chiuse"
+   ],
+   "answer": 3,
+   "why": "Le varroe nelle celle opercolate restano protette: senza covata sono tutte allo scoperto."
+  }
+ ]
+}

@@ -1,0 +1,440 @@
+{
+ "code": "7.3",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi facciamo il giro dell'anno nell'apiario, stagione per stagione. Parlo del Centro-Nord: al Sud tutto si anticipa. Cominciamo dall'inverno."
+    },
+    {
+     "who": "E",
+     "text": "Ciao Tonino! In inverno le api dormono, giusto?"
+    },
+    {
+     "who": "M",
+     "text": "Non proprio. Si stringono a palla, il glomere, e tremano con i muscoli per scaldarsi. Mangiano le scorte di miele. Per questo non si apre l'arnia."
+    },
+    {
+     "who": "E",
+     "text": "Allora come faccio a sapere se hanno ancora da mangiare?"
+    },
+    {
+     "who": "M",
+     "text": "Sollevi un poco l'arnia dal retro. Se è pesante, va bene. Se è leggera, verso fine inverno puoi mettere un pane di candito, cioè zucchero solido, sopra i telaini."
+    },
+    {
+     "who": "E",
+     "text": "E poi guardo la porticina, che non sia chiusa da api morte o neve."
+    },
+    {
+     "who": "M",
+     "text": "Brava. C'è poi un lavoro importante: il trattamento contro la varroa con acido ossalico, quando le famiglie sono senza covata."
+    },
+    {
+     "who": "E",
+     "text": "Perché proprio quando non c'è covata?"
+    },
+    {
+     "who": "M",
+     "text": "Pensaci: dove si nasconde la varroa per fare i suoi piccoli?"
+    },
+    {
+     "who": "E",
+     "text": "Dentro le cellette chiuse della covata! Se la covata non c'è, gli acari restano sulle api e il farmaco li colpisce."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Di solito capita tra dicembre e gennaio, ma dipende dal clima e dall'anno. Si usa un prodotto autorizzato, seguendo l'etichetta e il veterinario."
+    },
+    {
+     "who": "E",
+     "text": "E poi lo scrivo nel registro dei trattamenti."
+    },
+    {
+     "who": "M",
+     "text": "Sempre! Ne parliamo più avanti. Intanto l'inverno è anche il tempo per pulire telaini e preparare il materiale."
+    },
+    {
+     "who": "E",
+     "text": "Lavoro di casa, mentre le api riposano."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Arriva la primavera. I salici e le prime fioriture portano polline, e la regina depone sempre di più."
+    },
+    {
+     "who": "E",
+     "text": "Quando posso fare la prima visita vera?"
+    },
+    {
+     "who": "M",
+     "text": "In una giornata tiepida, senza vento, verso mezzogiorno. Controlli tre cose: che ci sia la regina o le uova, com'è la covata, quante scorte ci sono."
+    },
+    {
+     "who": "E",
+     "text": "Regina, covata, scorte. Facile da ricordare."
+    },
+    {
+     "who": "M",
+     "text": "Poi la famiglia cresce in fretta. Bisogna darle spazio: prima telaini nel nido, poi il melario, quando il nettare arriva."
+    },
+    {
+     "who": "E",
+     "text": "E se non le do spazio?"
+    },
+    {
+     "who": "M",
+     "text": "Si sentono strette e preparano le celle reali, cioè culle grandi per nuove regine. Secondo te, cosa succede dopo?"
+    },
+    {
+     "who": "E",
+     "text": "La regina vecchia se ne va con una parte delle api: è la sciamatura!"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Uno sciame porta via circa metà della famiglia, e con essa buona parte del raccolto di quell'anno."
+    },
+    {
+     "who": "E",
+     "text": "Quindi in primavera devo controllare spesso."
+    },
+    {
+     "who": "M",
+     "text": "Circa ogni settimana, guardando il bordo inferiore dei telaini, dove spesso nascono le celle reali."
+    },
+    {
+     "who": "E",
+     "text": "E la varroa in primavera?"
+    },
+    {
+     "who": "M",
+     "text": "Si tiene d'occhio. Molti tolgono la covata da fuco, perché la varroa la preferisce. È un aiuto, non una cura completa."
+    },
+    {
+     "who": "E",
+     "text": "Primavera: spazio, controlli frequenti e occhi aperti."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Estate: il momento più atteso. Si raccolgono i melari pieni, con il miele opercolato."
+    },
+    {
+     "who": "E",
+     "text": "Che emozione! Ma poi è finita la fatica?"
+    },
+    {
+     "who": "M",
+     "text": "Per niente. Dopo l'ultimo raccolto viene uno dei lavori più importanti dell'anno: il trattamento estivo contro la varroa."
+    },
+    {
+     "who": "E",
+     "text": "Perché proprio dopo il raccolto e non prima?"
+    },
+    {
+     "who": "M",
+     "text": "Te lo chiedo io: cosa succederebbe se trattassi con i melari ancora sopra?"
+    },
+    {
+     "who": "E",
+     "text": "Il farmaco potrebbe finire nel miele che poi mangiamo."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Quindi prima togli i melari, poi tratti. E presto, perché a fine estate nascono le api che dovranno passare l'inverno."
+    },
+    {
+     "who": "E",
+     "text": "E devono nascere sane, senza varroa addosso."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Molti fanno il blocco di covata: chiudono la regina in una gabbietta per qualche settimana, così poi le api restano senza covata."
+    },
+    {
+     "who": "E",
+     "text": "E la varroa non ha più dove nascondersi, come in inverno!"
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Poi si usa un prodotto autorizzato, come l'acido ossalico. Altri usano acido formico o timolo. Sempre seguendo etichetta e veterinario."
+    },
+    {
+     "who": "E",
+     "text": "Altro da sapere sull'estate?"
+    },
+    {
+     "who": "M",
+     "text": "Le api hanno sete: metti acqua vicina se non c'è. E non lasciare miele in giro, o le famiglie si saccheggiano a vicenda."
+    },
+    {
+     "who": "E",
+     "text": "Raccolto, trattamento, acqua e ordine. Me lo segno."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Siamo in autunno. Le giornate si accorciano e la famiglia si prepara al freddo. Il tuo compito è aiutarla a riempire la dispensa."
+    },
+    {
+     "who": "E",
+     "text": "Quindi controllo le scorte, come in inverno, sollevando l'arnia?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, e puoi anche guardare i telaini nelle giornate tiepide. Se manca miele, si nutre con sciroppo di zucchero."
+    },
+    {
+     "who": "E",
+     "text": "Va bene anche a novembre?"
+    },
+    {
+     "who": "M",
+     "text": "Meglio prima. Secondo te, perché lo sciroppo va dato quando fa ancora tiepido?"
+    },
+    {
+     "who": "E",
+     "text": "Perché le api devono avere il tempo di metterlo nelle cellette e asciugarlo, prima del freddo."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Con il freddo non riescono più a lavorarlo. Poi si restringe la porticina, così è più facile difendersi."
+    },
+    {
+     "who": "E",
+     "text": "E i topi? Ho sentito che entrano nelle arnie d'inverno."
+    },
+    {
+     "who": "M",
+     "text": "Infatti si mette una griglia sulla porticina. E le famiglie troppo deboli si uniscono a una più forte: da sole rischiano di non farcela."
+    },
+    {
+     "who": "E",
+     "text": "Meglio una famiglia forte che due deboli."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Controlla anche la varroa: se ce n'è troppa, chiedi al veterinario o all'associazione come intervenire."
+    },
+    {
+     "who": "E",
+     "text": "C'è anche qualche carta da fare in autunno?"
+    },
+    {
+     "who": "M",
+     "text": "Sì: tra il primo novembre e il 31 dicembre si fa il censimento degli alveari nella Banca Dati Apistica. Lo si fa ogni anno."
+    },
+    {
+     "who": "E",
+     "text": "Lo segno sul calendario, così non lo dimentico."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Parliamo di un quaderno importante: il registro dei trattamenti."
+    },
+    {
+     "who": "E",
+     "text": "Perché devo registrare i trattamenti? Sono le mie api."
+    },
+    {
+     "who": "M",
+     "text": "Le api producono un alimento, il miele. Per la legge sono animali che producono alimenti, come mucche e galline. Secondo te, a cosa serve scrivere ogni farmaco?"
+    },
+    {
+     "who": "E",
+     "text": "A dimostrare che nel miele non ci sono residui, e a ricordare cosa ho fatto e quando."
+    },
+    {
+     "who": "M",
+     "text": "Esattamente. E aiuta anche il veterinario a capire cosa funziona e cosa no."
+    },
+    {
+     "who": "E",
+     "text": "Che cosa devo scrivere?"
+    },
+    {
+     "who": "M",
+     "text": "La data, il nome del medicinale, la quantità usata, quali alveari hai trattato, il tempo di attesa e da chi hai comprato il farmaco."
+    },
+    {
+     "who": "E",
+     "text": "Il tempo di attesa sarebbe il tempo da aspettare prima di raccogliere il miele?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, è scritto sull'etichetta del farmaco. Poi conservi il registro, con ricette e documenti d'acquisto, per almeno cinque anni."
+    },
+    {
+     "who": "E",
+     "text": "Cinque anni! E deve essere di carta o al computer?"
+    },
+    {
+     "who": "M",
+     "text": "Dipende dalle regole del momento e della tua regione. Negli ultimi anni stanno cambiando, anche verso il digitale."
+    },
+    {
+     "who": "E",
+     "text": "Quindi chiedo alla mia ASL o all'associazione come tenerlo."
+    },
+    {
+     "who": "M",
+     "text": "Brava, proprio così. Anche chi ha poche arnie per la famiglia farebbe bene a chiedere: le risposte possono cambiare da zona a zona."
+    },
+    {
+     "who": "E",
+     "text": "Allora lo considero come il libretto sanitario delle mie api."
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso ti presento la mia migliore amica in apiario: la scheda dell'alveare."
+    },
+    {
+     "who": "E",
+     "text": "Una scheda per ogni arnia?"
+    },
+    {
+     "who": "M",
+     "text": "Sì. Ogni arnia ha un numero, e la sua scheda. Dopo ogni visita scrivi qualcosa. Secondo te, perché non basta la memoria?"
+    },
+    {
+     "who": "E",
+     "text": "Perché dopo tre arnie già confondo quale aveva la regina e quale le celle reali!"
+    },
+    {
+     "who": "M",
+     "text": "Succede a tutti, anche a me dopo cinquant'anni. Allora: data, meteo, perché hai aperto."
+    },
+    {
+     "who": "E",
+     "text": "E poi quello che vedo dentro."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Regina vista o uova fresche, quanta covata e com'è, quante scorte, se le api sono calme o nervose."
+    },
+    {
+     "who": "E",
+     "text": "E le celle reali, in primavera."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Poi i segni di malattia, la varroa se l'hai contata, e i lavori fatti: melario messo, telaini aggiunti, nutrimento dato."
+    },
+    {
+     "who": "E",
+     "text": "E i trattamenti? Li scrivo qui?"
+    },
+    {
+     "who": "M",
+     "text": "Puoi annotarli anche qui, ma il registro dei trattamenti resta il documento ufficiale. Ultima riga: cosa fare la prossima volta."
+    },
+    {
+     "who": "E",
+     "text": "Così, quando torno, so subito da dove ripartire."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. E anno dopo anno vedi quali famiglie sono più forti e più calme."
+    },
+    {
+     "who": "E",
+     "text": "Un diario dell'orto, ma per le api. Mi piace!"
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Per finire, un ripasso delle parole che abbiamo usato. Io dico una parola, tu mi spieghi cosa vuol dire. Prima parola: glomere."
+    },
+    {
+     "who": "E",
+     "text": "La palla di api che si stringono per scaldarsi d'inverno."
+    },
+    {
+     "who": "M",
+     "text": "Opercolo."
+    },
+    {
+     "who": "E",
+     "text": "Il tappino di cera che chiude la celletta, di miele o di covata."
+    },
+    {
+     "who": "M",
+     "text": "Benissimo. Nido e melario?"
+    },
+    {
+     "who": "E",
+     "text": "Il nido è la parte bassa, dove la regina depone. Il melario è la cassetta sopra, dove le api mettono il miele che raccogliamo."
+    },
+    {
+     "who": "M",
+     "text": "Adesso una più difficile. Che cosa vuol dire tempo di attesa?"
+    },
+    {
+     "who": "E",
+     "text": "Il tempo da aspettare dopo un farmaco prima di raccogliere il miele. È scritto sull'etichetta."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Adesso una sigla: BDA."
+    },
+    {
+     "who": "E",
+     "text": "La Banca Dati Apistica, dove si registrano gli apiari e si fa il censimento tra novembre e dicembre."
+    },
+    {
+     "who": "M",
+     "text": "Ancora qualche parola, poi ti lascio andare. Covata e sciamatura."
+    },
+    {
+     "who": "E",
+     "text": "La covata sono uova, larve e pupe. La sciamatura è quando la vecchia regina parte con circa metà delle api."
+    },
+    {
+     "who": "M",
+     "text": "E il blocco di covata?"
+    },
+    {
+     "who": "E",
+     "text": "Si chiude la regina in una gabbietta per qualche settimana. Così la famiglia resta senza covata e il trattamento contro la varroa funziona meglio."
+    },
+    {
+     "who": "M",
+     "text": "Bravissima, Enrica. Hai imparato tanto. Le parole sono gli attrezzi della testa: più ne conosci, meglio lavori."
+    },
+    {
+     "who": "E",
+     "text": "Grazie, Tonino. Ora mi sento un po' più apicoltrice!"
+    }
+   ]
+  }
+ ]
+}

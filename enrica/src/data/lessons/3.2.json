@@ -1,0 +1,443 @@
+{
+ "version": 1,
+ "code": "3.2",
+ "unit": 3,
+ "title": "La sciamatura",
+ "pages": "75–98",
+ "summary": "Scopri perché e quando una famiglia di api si divide e parte in sciame, e come accorgertene prima. Impari a catturare uno sciame, a sistemarlo nell'arnia, a fare una sciamatura artificiale e a riunire due famiglie.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Quando avviene e cosa la favorisce",
+   "narration": "Ciao Enrica! Oggi parliamo della sciamatura, uno dei momenti più belli e più temuti dell'apicoltura. Ciao Tonino! È quando le api scappano tutte insieme, vero? Non scappano. È il modo in cui la famiglia si riproduce: la regina vecchia parte con una parte delle api e cerca una casa nuova. E quelle che restano? Restano con la covata e con alcune celle reali, cioè celle grandi dove crescono nuove regine. Così da una famiglia ne nascono due. Quando succede, di solito? Soprattutto in primavera, quando arrivano i fiori e la famiglia cresce in fretta. Secondo te, cosa spinge una famiglia a sciamare? Forse il fatto che in casa sono troppe e non c'è più spazio, come in un appartamento affollato. Brava, è uno dei motivi principali. Quando il nido è pieno, il profumo della regina non arriva bene a tutte le api. E se non sentono il profumo della regina? È come se pensassero che la regina basti a poche. Allora iniziano a preparare celle reali per le nuove regine. Ci sono altri motivi? Una regina vecchia, molte api giovani senza lavoro, un raccolto abbondante e il carattere della famiglia. Alcune linee sciamano più di altre. Quindi se in primavera do spazio per tempo, aiuto la famiglia a non sentirsi stretta.",
+   "keyPoints": [
+    "La sciamatura è il modo in cui la famiglia si riproduce",
+    "Avviene soprattutto in primavera, quando la famiglia cresce",
+    "Affollamento e poco spazio la spingono",
+    "Contano anche età della regina e carattere della famiglia"
+   ],
+   "analogy": "È come una famiglia numerosa in un appartamento piccolo: a un certo punto la mamma prende metà dei figli e va a vivere in una casa nuova.",
+   "check": {
+    "question": "Qual è uno dei motivi principali che spingono a sciamare?",
+    "options": [
+     "Il nido troppo affollato e senza spazio",
+     "La mancanza di fiori nei campi vicini",
+     "Il freddo improvviso di una notte d'estate",
+     "La presenza di troppi fuchi nel melario"
+    ],
+    "answer": 0,
+    "explanation": "Con il nido affollato il profumo della regina circola male e le api preparano nuove regine."
+   },
+   "science": {
+    "text": "Uno studio ha confrontato famiglie affollate e famiglie con tanto spazio, dando a tutte un profumo sintetico della regina. Conclusione: l'affollamento può spingere da solo a sciamare, ma rende anche più difficile che il profumo della regina arrivi a tutte le api. Senza quel segnale, le api iniziano a preparare nuove regine.",
+    "source": "Winston et al. 1991, Journal of Insect Behavior",
+    "url": "https://doi.org/10.1007/BF01048076"
+   },
+   "tip": "In primavera visita le famiglie forti ogni settimana circa e dai spazio per tempo: un melario o telaini da costruire prima che il nido sia pieno."
+  },
+  {
+   "slide": 2,
+   "title": "Come si riconosce l'alveare che sta per sciamare",
+   "narration": "Enrica, come facciamo ad accorgerci che una famiglia vuole sciamare, prima che sia troppo tardi? Me lo dici tu, io non saprei proprio da dove cominciare. Il segno più chiaro sono le celle reali. Sono grandi, a forma di ghianda, e spesso pendono dal bordo in basso dei favi. Le ho viste in foto! Sembrano arachidi attaccate alla cera. Proprio. Ma attenzione: le api fanno spesso delle coppette reali vuote. Quelle non bastano. Secondo te, quando bisogna preoccuparsi davvero? Quando dentro la coppetta c'è un uovo o una larva con la pappa reale. Allora stanno davvero allevando una regina. Esatto. E guarda anche il resto: il nido è pieno, la regina non trova celle vuote per deporre. E il miele dove lo mettono? Ecco un altro segno: miele e polline finiscono anche nelle celle della covata. La regina resta senza posto. Poverina, è come una cuoca a cui riempiono il piano di lavoro di scatole. Bel paragone. Poi spesso fuori dall'ingresso ci sono tante api ferme, ammassate. E la regina depone meno e diventa più snella, per poter volare. Quindi devo guardare le celle reali, lo spazio nel nido e quello che succede fuori. Brava. Più segni insieme ti dicono che la partenza è vicina. E se vedo le celle reali con le larve, devo agire in fretta.",
+   "keyPoints": [
+    "Celle reali con uova o larve sui favi",
+    "Nido pieno, senza celle libere per la regina",
+    "Miele e polline anche nella zona della covata",
+    "Tante api ferme fuori dall'ingresso"
+   ],
+   "analogy": "Le celle reali sono come le valigie pronte nell'ingresso: ti dicono che qualcuno sta per partire.",
+   "check": {
+    "question": "Quale segno indica di più che la famiglia sta per sciamare?",
+    "options": [
+     "Fuchi che escono nelle ore calde",
+     "Polline di molti colori nei favi",
+     "Celle reali con uova o larve dentro",
+     "Api che portano acqua all'ingresso"
+    ],
+    "answer": 2,
+    "explanation": "Le celle reali abitate sono il segno più chiaro: si stanno preparando nuove regine."
+   },
+   "science": {
+    "text": "Una grande revisione degli studi spiega che la sciamatura nasce da più segnali insieme, che arrivano dalla famiglia e dall'ambiente. Poi altri segnali, chimici e fatti con vibrazioni e movimenti, coordinano ogni fase: dalla preparazione delle celle reali fino alla partenza dello sciame.",
+    "source": "Grozinger, Richards e Mattila 2014, Apidologie",
+    "url": "https://pure.psu.edu/en/publications/from-molecules-to-societies-mechanisms-regulating-swarming-behavi/"
+   },
+   "tip": "Guarda bene il bordo in basso dei favi, dove spesso stanno le celle reali. Scuoti delicatamente le api da un favo per vederle meglio, se serve."
+  },
+  {
+   "slide": 3,
+   "title": "Come avviene l'uscita dello sciame",
+   "narration": "Hai mai visto uscire uno sciame, Enrica? Mai dal vivo. Dicono che sia impressionante. Lo è. Migliaia di api escono in pochi minuti e fanno una nuvola che ronza. Di solito succede in una giornata calda e serena. E la regina vecchia esce con loro? Sì, nel primo sciame parte la regina vecchia. Prima di uscire, le api si riempiono di miele. Secondo te, perché lo fanno? Perché devono portarsi le provviste per il viaggio e per costruire i favi nella casa nuova. Esatto. Il miele è la loro valigia. E con la pancia piena sono anche più tranquille e pungono meno. E poi dove vanno? Non vanno subito lontano. Si posano vicino, su un ramo o un palo, e formano un grappolo. E restano lì per sempre? No. Da lì partono le esploratrici, che cercano una cavità adatta, come un albero cavo. Poi tornano e la raccontano danzando. E quando hanno deciso, come si mettono d'accordo per partire tutte insieme? Alcune esploratrici emettono una specie di fischio. È il segnale: scaldate i muscoli, si parte! E il grappolo vola via. Quindi ho un po' di tempo per catturarlo, finché resta lì appeso al ramo.",
+   "keyPoints": [
+    "Di solito parte in una giornata calda e serena",
+    "Prima di partire le api si riempiono di miele",
+    "Lo sciame si posa vicino, a grappolo",
+    "Le esploratrici cercano la casa nuova"
+   ],
+   "analogy": "È come un trasloco: prima si riempiono le borse di provviste, poi tutti escono insieme e aspettano sul marciapiede che qualcuno trovi la casa nuova.",
+   "check": {
+    "question": "Che cosa fanno le api subito prima di uscire in sciame?",
+    "options": [
+     "Si riempiono la pancia di miele",
+     "Chiudono tutte le celle reali",
+     "Uccidono tutti i fuchi dell'arnia",
+     "Portano fuori la covata più vecchia"
+    ],
+    "answer": 0,
+    "explanation": "Il miele nella borsa melaria è la scorta per il viaggio e per costruire i favi nuovi."
+   },
+   "science": {
+    "text": "Prima del decollo, alcune api esploratrici corrono sul grappolo emettendo un suono acuto, come un fischio. Questo suono avvisa le altre di scaldare i muscoli del volo fino a circa 35 °C. Il segnale comincia circa un'ora prima della partenza e cresce fino al decollo.",
+    "source": "Seeley e Tautz 2001, Journal of Comparative Physiology A",
+    "url": "https://doi.org/10.1007/s00359-001-0243-0"
+   },
+   "tip": "Se vedi uno sciame uscire, non correre in mezzo alle api. Segui con lo sguardo dove si posa: spesso si ferma su un ramo vicino, e lì puoi raccoglierlo."
+  },
+  {
+   "slide": 4,
+   "title": "Sciame primario e secondario",
+   "narration": "Enrica, uno sciame non viene mai da solo. A volte, dopo il primo, ne partono altri. Altri ancora? Ma allora l'arnia si svuota! Può succedere. Il primo si chiama sciame primario e parte con la regina vecchia, quella già fecondata. E gli altri? Si chiamano secondari. Partono con le regine nuove appena nate dalle celle reali. Sono regine vergini, cioè non ancora fecondate. E sono sciami più piccoli? Di solito sì. Secondo te, cosa succede alla famiglia di partenza se parte uno sciame dopo l'altro? Diventa sempre più debole, perché perde tante api e rischia di non fare miele quell'anno. Esatto. Ecco perché all'apicoltore conviene evitarli. Ma alla fine, in casa, quante regine restano? Una sola. Le regine si sfidano a duello, oppure la prima nata uccide le altre ancora chiuse nelle celle. Oppure una se ne va con uno sciame. Che storia! Sembra una favola di principesse. E prima del duello a volte le regine cantano, con un suono che gli apicoltori chiamano canto della regina. Allora, dopo uno sciame, devo controllare le celle reali rimaste per evitare altre partenze.",
+   "keyPoints": [
+    "Il primario parte con la regina vecchia",
+    "I secondari partono con regine vergini",
+    "Ogni sciame in più indebolisce la famiglia",
+    "Alla fine resta una sola regina in casa"
+   ],
+   "analogy": "È come quando i figli lasciano casa uno dopo l'altro: se partono in troppi, in casa restano pochi a mandare avanti la famiglia.",
+   "check": {
+    "question": "Con quale regina parte lo sciame secondario?",
+    "options": [
+     "Con la regina vecchia della famiglia",
+     "Con una regina vergine appena nata",
+     "Con la regina di un'arnia vicina",
+     "Con una regina comprata dall'apicoltore"
+    ],
+    "answer": 1,
+    "explanation": "La regina vecchia parte con il primario; i secondari portano via le regine giovani non ancora fecondate."
+   },
+   "science": {
+    "text": "Osservando tredici famiglie in arnie con il vetro, i ricercatori hanno visto tre modi in cui le regine in più vengono eliminate: duelli tra regine, regine uccise prima di uscire dalla cella e regine che partono con uno sciame secondario. Le operaie aiutano, ma non uccidono le regine.",
+    "source": "Gilley e Tarpy 2005, Apidologie",
+    "url": "https://doi.org/10.1051/apido:2005033"
+   },
+   "tip": "Dopo una sciamatura, se nella famiglia ci sono ancora molte celle reali, puoi lasciarne una o due ben fatte e usare le altre per altri nuclei. Chiedi aiuto a un esperto la prima volta."
+  },
+  {
+   "slide": 5,
+   "title": "Catturare lo sciame e sistemarlo nell'arnia",
+   "narration": "Adesso prepariamo la cattura. Cosa ti porteresti, Enrica? La tuta, il velo e una cassetta, credo. Brava. Aggiungi un telo bianco, una spazzola, uno spruzzino con acqua e magari una scala. Se lo sciame è troppo in alto, chiedi aiuto. Lo spruzzino a cosa serve? Un po' d'acqua nebulizzata rende le api meno pronte a volare. Poi metti la cassetta sotto il grappolo e dai un colpo secco al ramo. E cadono tutte dentro? Quasi tutte. Chiudi piano, lasciando un'apertura. Secondo te, come capisci se la regina è caduta nella cassetta? Se le api restano e chiamano le altre all'ingresso, vuol dire che la regina è dentro. Se tornano sul ramo, lei è rimasta fuori. Esatto. Le vedrai con l'addome alzato che sventolano le ali: spargono un profumo che dice qui, venite qui. E poi lo porto a casa. La sera, quando tutte sono rientrate. Poi lo metti nell'arnia, su telaini con foglio cereo, cioè la base di cera da costruire. E deve mangiare qualcosa? Se non ci sono fioriture, dagli un po' di sciroppo. E siccome per qualche giorno non ha covata, è un buon momento per il trattamento contro la varroa. Segui l'etichetta e il veterinario. Quindi cattura con calma, regina dentro, arnia nuova la sera e un aiuto per partire bene.",
+   "keyPoints": [
+    "Servono cassetta, telo, spazzola e spruzzino d'acqua",
+    "Con un colpo secco il grappolo cade nella cassetta",
+    "Se la regina è dentro, le api restano",
+    "Poi si mette nell'arnia con telaini da costruire"
+   ],
+   "analogy": "Raccogliere uno sciame è come raccogliere le ciliegie da un ramo con un cesto sotto: un colpo deciso e cade tutto dentro.",
+   "check": {
+    "question": "Come capisci che la regina è entrata nella cassetta?",
+    "options": [
+     "Le api escono tutte e tornano sul ramo",
+     "Le api diventano subito molto aggressive",
+     "Le api sventolano le ali all'ingresso",
+     "Le api smettono di ronzare del tutto"
+    ],
+    "answer": 2,
+    "explanation": "Le api sventolano le ali e diffondono un odore che richiama le compagne verso la regina."
+   },
+   "science": {
+    "text": "Lo sciame sceglie casa con un vero voto. Le esploratrici danzano per i posti che hanno trovato e, con piccoli colpi chiamati segnali di stop, fermano chi danza per un posto diverso dal loro. Così lo sciame non resta bloccato tra due case ugualmente buone e decide in modo affidabile.",
+    "source": "Seeley et al. 2012, Science",
+    "url": "https://doi.org/10.1126/science.1210361"
+   },
+   "tip": "Se all'ingresso della cassetta le api alzano l'addome e sventolano le ali, è buon segno: la regina è dentro e chiamano le altre. Lasciala lì fino a sera, poi portala via."
+  },
+  {
+   "slide": 6,
+   "title": "La sciamatura artificiale",
+   "narration": "Enrica, c'è un modo per anticipare le api: la sciamatura artificiale. Cioè la facciamo noi, al posto loro? Proprio. Prima che la famiglia parta da sola, la dividiamo in due. Ci sono tanti metodi, ma l'idea è sempre la stessa. E quale sarebbe? Una parte resta con la regina vecchia. L'altra parte resta orfana, ma con covata giovane, scorte e api. E la parte orfana come fa senza regina? Secondo te, cosa farà una famiglia orfana che ha ancora uova e larve giovanissime? Si alleverà una nuova regina da una di quelle larve, nutrendola con la pappa reale. Brava. Oppure le diamo noi una cella reale già pronta, o una regina nuova. Così non perdo lo sciame e in più ho due famiglie! Esatto. E c'è un vantaggio in più: una pausa nella covata ostacola la varroa, l'acaro che vive nelle celle della covata. Lo dicono anche gli studi? Sì. Le famiglie che sciamavano di più avevano meno varroa. Però la sciamatura artificiale non sostituisce i controlli e i trattamenti. Va bene. Divido per tempo, controllo che ogni parte abbia tutto, e continuo a tenere d'occhio la varroa.",
+   "keyPoints": [
+    "Si divide la famiglia prima che sciami da sola",
+    "Una parte ha la regina, l'altra la covata giovane",
+    "La parte orfana alleva una nuova regina",
+    "Si evita di perdere api e si moltiplicano le famiglie"
+   ],
+   "analogy": "È come dividere per tempo una pianta di salvia troppo grande: invece di lasciarla soffocare, ne fai due vasi che crescono bene.",
+   "check": {
+    "question": "Che cosa serve alla parte orfana dopo la divisione?",
+    "options": [
+     "Soltanto favi pieni di miele maturo",
+     "Uova o larve giovanissime da allevare",
+     "Un melario vuoto messo subito sopra",
+     "Molti fuchi per riscaldare la covata"
+    ],
+    "answer": 1,
+    "explanation": "Senza regina, le api possono allevarne una nuova solo da uova o larve molto giovani."
+   },
+   "science": {
+    "text": "In uno studio, famiglie in arnie piccole lasciate libere di sciamare sono state confrontate con famiglie in arnie grandi, controllate per non sciamare. Quelle che sciamavano di più avevano meno varroa, meno malattie e sopravvivevano di più. Gli autori pensano che la pausa nella covata dopo lo sciame ostacoli la varroa.",
+    "source": "Loftus, Smith e Seeley 2016, PLoS ONE",
+    "url": "https://doi.org/10.1371/journal.pone.0150362"
+   },
+   "tip": "Fai la sciamatura artificiale quando vedi i primi segni di sciamatura, in una bella giornata. Controlla che ogni parte abbia api, scorte e, se è orfana, uova o larve giovanissime."
+  },
+  {
+   "slide": 7,
+   "title": "Riunire le famiglie e sostituire le regine",
+   "narration": "Ultimo argomento, Enrica: a volte bisogna fare il contrario di dividere, cioè riunire due famiglie. Perché dovrei riunirle? Per esempio quando una famiglia è debole o orfana. Da sola non ce la farebbe, insieme a un'altra diventa forte. E basta mettere una cassa sopra l'altra? No! Ogni famiglia ha il suo odore, e le guardiane attaccano le estranee. Secondo te, come possiamo evitare una battaglia? Facendo in modo che gli odori si mescolino piano piano, prima che le api si incontrino davvero. Brava. Si mette un foglio di giornale con qualche forellino tra le due casse. Le api lo rosicchiano in pochi giorni. E quando la carta è sparita, sono ormai una famiglia sola! Esatto. Ma prima togli la regina peggiore, o quella della famiglia debole. Ne deve restare una. E il titolo parlava anche di sostituire le regine con la sciamatura. Sì. Le celle reali di sciamatura sono un regalo: se la famiglia è buona e docile, puoi usarle per dare una regina nuova a un nucleo orfano. Le stacco con attenzione e le metto nel nucleo? Con molta delicatezza, senza girarle o schiacciarle. La regina dentro è fragile. La prima volta fallo con un apicoltore esperto. Allora dalla sciamatura posso ricavare famiglie nuove e regine nuove, invece di perdere api.",
+   "keyPoints": [
+    "Si riuniscono famiglie deboli o orfane",
+    "Prima si toglie la regina che non serve",
+    "Un foglio di giornale mescola piano gli odori",
+    "Le celle reali di sciamatura possono dare nuove regine"
+   ],
+   "analogy": "Riunire due famiglie è come far conoscere due gatti: non li metti subito nella stessa stanza, prima fai sentire l'odore attraverso una porta.",
+   "check": {
+    "question": "Perché si usa un foglio di giornale per riunire due famiglie?",
+    "options": [
+     "Perché tiene al caldo le due covate",
+     "Perché assorbe l'umidità del nido",
+     "Perché gli odori si mescolano piano",
+     "Perché impedisce alla regina di deporre"
+    ],
+    "answer": 2,
+    "explanation": "Mentre le api rosicchiano la carta, gli odori si mescolano e le guardiane non si azzuffano."
+   },
+   "science": {
+    "text": "Le guardiane riconoscono le compagne dall'odore. Uno studio ha visto che, quando il nettare scarseggia, le guardiane accettano solo una piccola parte delle api estranee. Quando il nettare abbonda, diventano molto più tolleranti. Oggi sappiamo così perché conviene riunire piano e, se si può, durante una fioritura.",
+    "source": "Downs e Ratnieks 2000, Behavioral Ecology",
+    "url": "https://scilit.com/publications/1e1d40d57e9c7fc02b7666251a22e7da"
+   },
+   "tip": "Per riunire, metti un foglio di giornale con qualche piccolo foro tra le due casse. In pochi giorni le api lo rosicchiano e convivono. Riunisci quando c'è nettare nei campi."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Che cos'è la sciamatura?",
+   "back": "Il modo in cui una famiglia di api si riproduce dividendosi.",
+   "part": 0
+  },
+  {
+   "front": "In che stagione avviene soprattutto?",
+   "back": "In primavera, quando la famiglia cresce in fretta.",
+   "part": 0
+  },
+  {
+   "front": "Che cosa sono le celle reali?",
+   "back": "Celle grandi, a forma di ghianda, dove crescono le regine.",
+   "part": 1
+  },
+  {
+   "front": "Coppetta reale vuota: è un allarme?",
+   "back": "No: preoccupa quando dentro c'è un uovo o una larva.",
+   "part": 1
+  },
+  {
+   "front": "Dove si posa lo sciame appena uscito?",
+   "back": "Vicino all'arnia, su un ramo o un palo, a grappolo.",
+   "part": 2
+  },
+  {
+   "front": "Chi cerca la casa nuova dello sciame?",
+   "back": "Le api esploratrici.",
+   "part": 2
+  },
+  {
+   "front": "Chi parte con lo sciame primario?",
+   "back": "La regina vecchia, già fecondata.",
+   "part": 3
+  },
+  {
+   "front": "Chi parte con gli sciami secondari?",
+   "back": "Le regine vergini appena nate.",
+   "part": 3
+  },
+  {
+   "front": "Quando si porta via lo sciame catturato?",
+   "back": "La sera, quando tutte le api sono rientrate.",
+   "part": 4
+  },
+  {
+   "front": "Che cos'è il foglio cereo?",
+   "back": "Una base di cera che le api costruiscono in favo.",
+   "part": 4
+  },
+  {
+   "front": "Che cos'è la sciamatura artificiale?",
+   "back": "Dividere la famiglia in due prima che sciami da sola.",
+   "part": 5
+  },
+  {
+   "front": "Come si riuniscono due famiglie?",
+   "back": "Con un foglio di giornale bucherellato tra le due casse.",
+   "part": 6
+  },
+  {
+   "front": "A cosa possono servire le celle di sciamatura?",
+   "back": "A dare una regina nuova a un nucleo orfano.",
+   "part": 6
+  }
+ ],
+ "questions": [
+  {
+   "question": "Perché l'affollamento spinge le api a preparare regine?",
+   "options": [
+    "Perché il profumo della regina circola meno",
+    "Perché la regina smette di mangiare la pappa",
+    "Perché i fuchi chiedono una regina nuova",
+    "Perché il miele finisce prima dell'estate"
+   ],
+   "answer": 0,
+   "explanation": "Nel nido affollato il segnale della regina arriva male e le api iniziano ad allevarne altre.",
+   "part": 0
+  },
+  {
+   "question": "Che cosa aiuta a prevenire la sciamatura in primavera?",
+   "options": [
+    "Chiudere l'ingresso per alcuni giorni",
+    "Dare spazio prima che il nido sia pieno",
+    "Togliere tutto il polline dai favi",
+    "Spostare l'arnia all'ombra fitta"
+   ],
+   "answer": 1,
+   "explanation": "Con più spazio la famiglia non si sente stretta e la regina ha celle per deporre.",
+   "part": 0
+  },
+  {
+   "question": "Dove si trovano spesso le celle reali di sciamatura?",
+   "options": [
+    "Sul coperchio, attaccate alla propoli",
+    "Al centro esatto del favo di miele",
+    "Sul fondo dell'arnia, tra i detriti",
+    "Sul bordo in basso dei favi"
+   ],
+   "answer": 3,
+   "explanation": "Le celle di sciamatura pendono di solito dal margine inferiore dei favi.",
+   "part": 1
+  },
+  {
+   "question": "Perché è un segno d'allarme il miele nelle celle della covata?",
+   "options": [
+    "Perché la regina non trova posto per deporre",
+    "Perché il miele fa ammalare subito le larve",
+    "Perché le api smettono di andare sui fiori",
+    "Perché i fuchi mangiano tutto quel miele"
+   ],
+   "answer": 0,
+   "explanation": "Il nido bloccato dalle scorte lascia la regina senza celle vuote: la famiglia si sente stretta.",
+   "part": 1
+  },
+  {
+   "question": "Perché uno sciame appena uscito di solito punge poco?",
+   "options": [
+    "Perché ha lasciato il veleno nell'arnia",
+    "Perché le api hanno la pancia piena di miele",
+    "Perché la regina è rimasta nella vecchia casa",
+    "Perché le api sono stanche dopo il volo"
+   ],
+   "answer": 1,
+   "explanation": "Con la borsa melaria piena e senza casa da difendere, le api sono più tranquille.",
+   "part": 2
+  },
+  {
+   "question": "Che cosa fanno le esploratrici mentre lo sciame è appeso?",
+   "options": [
+    "Cercano una cavità adatta e la indicano danzando",
+    "Raccolgono nettare per nutrire tutto il grappolo",
+    "Costruiscono subito i primi favi sul ramo",
+    "Accompagnano la regina a fare i voli nuziali"
+   ],
+   "answer": 0,
+   "explanation": "Le esploratrici visitano i possibili nidi e li \"raccontano\" alle altre con la danza.",
+   "part": 2
+  },
+  {
+   "question": "Perché gli sciami secondari sono un problema per l'apicoltore?",
+   "options": [
+    "Perché portano via la regina vecchia",
+    "Perché indeboliscono molto la famiglia",
+    "Perché diffondono sempre malattie",
+    "Perché tornano tutti nell'arnia di sera"
+   ],
+   "answer": 1,
+   "explanation": "Ogni sciame in più porta via api: la famiglia di partenza resta debole.",
+   "part": 3
+  },
+  {
+   "question": "Quante regine restano alla fine nella famiglia di partenza?",
+   "options": [
+    "Tre, una per ogni zona del nido",
+    "Due, una giovane e una di riserva",
+    "Nessuna, finché l'apicoltore non la dà",
+    "Una sola, dopo duelli o partenze"
+   ],
+   "answer": 3,
+   "explanation": "Le regine in più vengono eliminate con duelli, uccise nelle celle o partono con uno sciame.",
+   "part": 3
+  },
+  {
+   "question": "A cosa serve lo spruzzino d'acqua durante la cattura?",
+   "options": [
+    "A pulire le api dalla polvere del ramo",
+    "A rendere le api meno pronte a volare",
+    "A dare da bere alla regina nella cassetta",
+    "A raffreddare la covata che portano via"
+   ],
+   "answer": 1,
+   "explanation": "Un velo d'acqua nebulizzata rende le api più pesanti e meno pronte a decollare.",
+   "part": 4
+  },
+  {
+   "question": "Perché lo sciame appena sistemato è adatto al trattamento antivarroa?",
+   "options": [
+    "Perché per qualche giorno non ha covata",
+    "Perché ha più miele da proteggere",
+    "Perché la regina è ancora vergine",
+    "Perché le api sono tutte giovani"
+   ],
+   "answer": 0,
+   "explanation": "Senza covata le varroe sono tutte sulle api e il trattamento le raggiunge meglio.",
+   "part": 4
+  },
+  {
+   "question": "Qual è un vantaggio della sciamatura artificiale?",
+   "options": [
+    "Le api non hanno più bisogno di trattamenti",
+    "Si evita di perdere api e si fa un'altra famiglia",
+    "La regina vecchia ringiovanisce in poche settimane",
+    "Il miele dell'anno raddoppia in ogni arnia"
+   ],
+   "answer": 1,
+   "explanation": "Dividendo per tempo non perdi lo sciame e ottieni una famiglia in più.",
+   "part": 5
+  },
+  {
+   "question": "Che cosa si fa prima di riunire due famiglie?",
+   "options": [
+    "Si toglie la regina che non serve",
+    "Si toglie tutto il miele dai favi",
+    "Si chiudono gli ingressi per una settimana",
+    "Si spruzza profumo su tutte le api"
+   ],
+   "answer": 0,
+   "explanation": "Deve restare una sola regina: si elimina quella peggiore o della famiglia debole.",
+   "part": 6
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Celle reali a maggio",
+   "prompt": "A maggio apri una famiglia molto forte. Il nido è pieno, c'è miele nelle celle della covata e sul bordo in basso di due favi vedi celle reali con larve e pappa reale. Cosa fai?",
+   "modelAnswer": "La famiglia sta preparando la sciamatura: le celle reali con larve sono il segno più chiaro. Non basta rompere le celle, perché le api spesso ne fanno altre. Faccio una sciamatura artificiale: divido la famiglia. Metto la regina vecchia con alcuni telaini, api e scorte in una parte; l'altra parte resta orfana con covata giovane e una o due celle reali ben fatte, che diventeranno la nuova regina. Do spazio a entrambe con telaini da costruire. Nei giorni seguenti controllo che non partano sciami secondari e, quando la nuova regina depone, verifico la covata. La prima volta mi faccio aiutare da un apicoltore esperto."
+  },
+  {
+   "title": "Lo sciame sul pruno",
+   "prompt": "Il vicino ti chiama: c'è un grappolo di api appeso a un ramo basso del suo pruno, a un metro e mezzo da terra. Cosa fai?",
+   "modelAnswer": "Mi preparo con tuta, velo e guanti, una cassetta portasciami, un telo bianco, una spazzola e uno spruzzino d'acqua. Chiedo al vicino di stare lontano. Spruzzo un po' d'acqua sul grappolo, metto la cassetta proprio sotto e do un colpo secco al ramo. Chiudo lasciando un'apertura. Guardo le api: se all'ingresso sventolano le ali con l'addome alzato, la regina è dentro; se tornano sul ramo, ripeto. Lascio la cassetta lì fino a sera, poi la porto via quando tutte sono rientrate. Sistemo lo sciame in un'arnia con fogli cerei, do sciroppo se non ci sono fioriture e valuto il trattamento antivarroa seguendo etichetta e veterinario."
+  },
+  {
+   "title": "Una famiglia orfana e debole",
+   "prompt": "A fine estate una famiglia è debole: pochi telaini di api, nessuna uova, nessuna regina. Accanto hai una famiglia buona e forte. Cosa fai?",
+   "modelAnswer": "A fine estate una famiglia orfana e debole difficilmente riesce ad allevare una regina e a passare l'inverno. La riunisco alla famiglia forte. Controllo che nella famiglia debole non ci sia davvero una regina. Metto la cassa della famiglia forte sotto, appoggio sopra un foglio di giornale con qualche piccolo foro e sopra metto la cassa della famiglia debole. In pochi giorni le api rosicchiano la carta e gli odori si mescolano piano, senza battaglie. Se possibile lo faccio quando c'è ancora un po' di nettare. Dopo una settimana controllo che la regina deponga e tolgo i resti di carta."
+  }
+ ]
+}

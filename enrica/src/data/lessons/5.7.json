@@ -1,0 +1,405 @@
+{
+ "version": 1,
+ "code": "5.7",
+ "unit": 5,
+ "title": "Il veleno",
+ "pages": "235–246",
+ "summary": "Scopri come funziona il pungiglione, che cosa contiene il veleno e che cosa dice davvero la ricerca sui suoi usi. Impari che cosa fare se un'ape ti punge, come si raccoglie il veleno con il raccoglitore elettrico e a che cosa serve sul mercato.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Struttura e funzionamento dell'apparato vulnerante",
+   "narration": "Ciao Enrica! Oggi parliamo del veleno delle api. Prima però vediamo l'arma: l'apparato vulnerante, cioè il pungiglione con tutto quello che gli sta attorno. Ciao Tonino! Tutte le api hanno il pungiglione? No: solo le femmine, cioè operaie e regina. I fuchi non pungono. Il pungiglione è nato da un organo per deporre le uova. Ecco perché i fuchi si possono prendere in mano. E com'è fatto? Quello delle operaie ha due lamette con tanti piccoli uncini, rivolti all'indietro. Secondo te, che cosa succede quando entrano nella nostra pelle? Restano agganciati e il pungiglione non esce più, come un amo. Esatto. L'ape vola via, ma il pungiglione resta nella pelle con la sacca del veleno. Lei si strappa l'addome e muore. Povera. E la sacca rimasta lì? Continua a pompare veleno per un po', grazie ai suoi muscoli. Per questo bisogna toglierla in fretta. E la regina? Punge anche lei? Il suo pungiglione è quasi liscio e lo usa soprattutto contro le regine rivali. Con l'apicoltore è molto rara. Poi ho notato che dopo una puntura ne arrivano altre. È un caso? No. Il pungiglione libera un odore d'allarme, che ricorda la banana, e chiama le compagne. Allontanati e affumica il punto. Quindi: uncini, sacca che pompa e odore che chiama rinforzi. Ho capito l'arma.",
+   "keyPoints": [
+    "Pungono solo le femmine: operaie e regina",
+    "Il pungiglione dell'operaia ha piccoli uncini",
+    "Nella pelle umana resta attaccato e l'ape muore",
+    "La sacca del veleno continua a pompare",
+    "Un odore d'allarme chiama altre api"
+   ],
+   "analogy": "Il pungiglione dell'operaia è come un amo da pesca: entra facile, ma gli uncini non lo lasciano più uscire dalla pelle elastica.",
+   "check": {
+    "question": "Perché l'operaia muore dopo aver punto una persona?",
+    "options": [
+     "Perché il veleno avvelena anche lei",
+     "Perché il pungiglione uncinato resta nella pelle",
+     "Perché la persona la schiaccia sempre",
+     "Perché resta senza energia per volare"
+    ],
+    "answer": 1,
+    "explanation": "Gli uncini trattengono il pungiglione nella pelle elastica: l'ape, staccandosi, si strappa l'addome."
+   },
+   "science": {
+    "text": "Già nel 1962 alcuni ricercatori canadesi scoprirono che il pungiglione libera sostanze volatili che rendono aggressive le altre api. Una di queste è l'acetato di isoamile, che ha un odore simile alla banana. Per questo, dopo una puntura, spesso ne arrivano altre.",
+    "source": "Boch et al. 1962, Nature",
+    "url": "https://doi.org/10.1038/1951018b0"
+   },
+   "tip": "Dopo una puntura, allontanati con calma dall'arnia e affumica il punto: l'odore d'allarme sul vestito può attirare altre api."
+  },
+  {
+   "slide": 2,
+   "title": "La composizione",
+   "narration": "Adesso vediamo che cosa c'è nel veleno. Appena uscito, com'è secondo te? Una goccia trasparente? Non l'ho mai guardata bene. Sì, un liquido chiaro, ricco d'acqua. Quando si secca resta una polverina. Dentro ci sono tante sostanze diverse. Una puntura ne porta pochissimo. Quali sono le più importanti? La prima è la melittina, un piccolo peptide, cioè una catenella di mattoncini di proteina. Nel veleno secco è la parte più grande, circa metà. Ed è lei che fa male? Soprattutto lei. Rompe le membrane delle cellule, come un ago che buca un palloncino. Da lì il bruciore. Poi arriva il gonfiore. E le altre sostanze? C'è la fosfolipasi A2, un enzima, cioè una proteina che lavora come una forbice sui grassi delle cellule. E c'è l'apamina, un altro piccolo peptide che agisce sui nervi. Che nomi complicati! Te li ripeto: melittina, fosfolipasi, apamina. Poi ci sono altri enzimi, come la ialuronidasi, che aiuta il veleno a diffondersi. E l'allergia da che cosa dipende? Secondo te, contro che cosa si arrabbia il corpo di una persona allergica? Contro alcune proteine del veleno, che il corpo scambia per nemici pericolosi. Esatto. Proprio alcune di queste proteine, come la fosfolipasi, sono tra le principali cause dell'allergia al veleno d'ape.",
+   "keyPoints": [
+    "Fresco è un liquido chiaro, ricco d'acqua",
+    "La melittina è la parte più grande",
+    "Contiene enzimi come la fosfolipasi A2",
+    "C'è anche l'apamina, un piccolo peptide",
+    "Alcune proteine causano le allergie"
+   ],
+   "analogy": "Il veleno è come un minestrone di poche gocce: tanti ingredienti diversi, e uno, la melittina, fa da base a quasi metà della pentola.",
+   "check": {
+    "question": "Qual è il componente più abbondante del veleno secco?",
+    "options": [
+     "L'apamina",
+     "La fosfolipasi A2",
+     "La melittina",
+     "L'istamina"
+    ],
+    "answer": 2,
+    "explanation": "La melittina forma circa dal 40 al 60% del veleno secco."
+   },
+   "science": {
+    "text": "La melittina è un piccolo peptide, cioè una corta catena di 26 mattoncini di proteina. Forma circa dal 40 al 60% del veleno secco ed è la principale causa del dolore. Rompe le membrane delle cellule, anche dei globuli rossi, e questo ne limita l'uso come medicina.",
+    "source": "Jafari et al. 2024, Archiv der Pharmazie",
+    "url": "https://doi.org/10.1002/ardp.202300569"
+   },
+   "tip": "Ricorda i tre nomi principali come una filastrocca: melittina, fosfolipasi, apamina. Ti serviranno per capire le etichette e gli articoli."
+  },
+  {
+   "slide": 3,
+   "title": "Le proprietà farmacologiche",
+   "narration": "Ora un argomento delicato: le proprietà farmacologiche del veleno. Avrai sentito dire che cura tante cose. Sì, una signora al mercato diceva che si fa pungere per i dolori alle ginocchia. Allora parliamo chiaro. In laboratorio i ricercatori studiano molto la melittina, anche contro le cellule tumorali in provetta. Quindi funziona? In provetta è una cosa, nel corpo umano un'altra. La melittina rompe anche le cellule sane, come i globuli rossi. Per ora non è una cura provata. E farsi pungere apposta? Secondo te, che cosa può succedere a chi si fa pungere tante volte di proposito? Può diventare allergico e avere una reazione grave, anche se prima stava bene. Esatto. In Spagna una donna è morta per anafilassi durante una seduta di punture volontarie. Le sedute precedenti erano andate bene. Che paura. Quindi non è vero che se l'hai già provato sei al sicuro. No. L'allergia può arrivare anche dopo tante punture senza problemi. Il veleno non è un farmaco da fai-da-te. Esiste un uso medico serio? Sì: gli allergologi usano estratti di veleno purificati per curare proprio l'allergia alle punture. Ma solo in ospedale o in ambulatorio, con lo specialista. Allora alla signora del mercato dirò di parlarne col suo medico, e niente api fai-da-te.",
+   "keyPoints": [
+    "In laboratorio la melittina viene molto studiata",
+    "Risultati in provetta non sono cure provate",
+    "Il veleno non è un farmaco da fai-da-te",
+    "Le punture volontarie possono uccidere",
+    "Usi medici seri solo con lo specialista"
+   ],
+   "analogy": "Il veleno è come un fuoco: in mano a chi sa usarlo in sicurezza può servire, ma giocarci in casa è pericoloso.",
+   "check": {
+    "question": "Qual è la frase più corretta sul veleno d'api come cura?",
+    "options": [
+     "È una cura provata per molte malattie",
+     "È studiato, ma non è una cura provata",
+     "È sicuro se le punture sono poche",
+     "È sicuro se lo si è già provato"
+    ],
+    "answer": 1,
+    "explanation": "In laboratorio è studiato, ma sulle persone non è una cura provata e può essere mortale."
+   },
+   "science": {
+    "text": "In Spagna una donna di 55 anni è morta dopo una seduta di punture d'ape volontarie, la cosiddetta agopuntura con api vive. Aveva già fatto sedute senza problemi, ma quella volta ha avuto un'anafilassi grave. Gli autori concludono che questa pratica non è sicura e non è consigliabile.",
+    "source": "Vazquez-Revuelta e Madrigal-Burgaleta 2018, Journal of Investigational Allergology and Clinical Immunology",
+    "url": "https://doi.org/10.18176/jiaci.0202"
+   },
+   "tip": "Se qualcuno ti chiede api per farsi pungere «per curarsi», non farlo. Spiega che la ricerca non lo sostiene e che può causare reazioni mortali."
+  },
+  {
+   "slide": 4,
+   "title": "Se un'ape ti punge",
+   "narration": "Adesso la parte più pratica: che cosa fai se un'ape ti punge? Prima cosa? Tolgo il pungiglione grattandolo con l'unghia, senza pizzicarlo. Me l'hanno sempre detto così. Lo dicevano tutti. Ma uno studio ha mostrato una cosa diversa. Secondo te, conta di più il modo o la velocità? La velocità, perché la sacca continua a pompare veleno finché resta attaccata. Brava. Grattare o pizzicare va bene uguale, purché lo fai subito. Ogni secondo in più, più veleno. E dopo? Ti allontani dall'arnia, lavi la zona e metti qualcosa di freddo. È normale che faccia male e si gonfi intorno. A volte mi si gonfia tutta la mano. È allergia? Un gonfiore grande ma vicino alla puntura di solito è una reazione locale. Parlane comunque col medico, se succede spesso. E quando devo preoccuparmi davvero? Quando la reazione va lontano dalla puntura: orticaria su tutto il corpo, gonfiore di viso, labbra o gola, fatica a respirare, vomito, giramenti di testa. E in quel caso? Chiami subito il 112. Se il medico ti ha dato l'adrenalina da fare da sola, la usi come ti ha insegnato. E non restare mai da sola. Ricordo: via il pungiglione subito, freddo, e se il corpo reagisce lontano dalla puntura, 112.",
+   "keyPoints": [
+    "Togli il pungiglione subito, in qualsiasi modo",
+    "Grattare o pizzicare: conta la velocità",
+    "Poi lava e metti qualcosa di freddo",
+    "Gonfiore sul posto, anche grande, di solito è locale",
+    "Respiro difficile o gonfiore al viso: chiama il 112"
+   ],
+   "analogy": "La sacca del veleno è come un rubinetto rimasto aperto: non importa come lo chiudi, importa chiuderlo subito.",
+   "check": {
+    "question": "Qual è la cosa più importante quando togli un pungiglione?",
+    "options": [
+     "Usare sempre una pinzetta",
+     "Grattarlo sempre con l'unghia",
+     "Toglierlo il più in fretta possibile",
+     "Aspettare che esca da solo"
+    ],
+    "answer": 2,
+    "explanation": "Più il pungiglione resta, più veleno entra: conta la velocità, non il metodo."
+   },
+   "science": {
+    "text": "Per anni si è detto di grattare via il pungiglione e mai pizzicarlo. Un esperimento ha visto che il gonfiore cresce se il pungiglione resta nella pelle anche pochi secondi in più, mentre grattare o pizzicare dà lo stesso risultato. Conta solo toglierlo subito.",
+    "source": "Visscher et al. 1996, The Lancet",
+    "url": "https://doi.org/10.1016/s0140-6736(96)01367-0"
+   },
+   "tip": "Tieni sempre il telefono carico in apiario e non andare mai da sola le prime volte. Se il medico ti ha dato l'adrenalina, portala sempre con te."
+  },
+  {
+   "slide": 5,
+   "title": "La raccolta",
+   "narration": "Ora vediamo come si raccoglie il veleno. Secondo te, si prende dalle api morte? No, sarebbe pochissimo. Forse si fa pungere qualcosa alle api vive. Esatto. Si usa un raccoglitore elettrico: un telaio con fili sottili, messo all'ingresso o sopra i telaini. Fili elettrici? Non le fulmina? No, passano impulsi molto leggeri. L'ape che tocca due fili sente una piccola scossa e reagisce pungendo. È una spinta, non una ferita. E che cosa punge? Sotto i fili c'è una lastra di vetro coperta da una pellicola sottile. Il pungiglione la attraversa, lascia la goccia di veleno sul vetro e di solito non resta incastrato. Quindi l'ape non muore. Di solito no, perché il vetro non trattiene gli uncini come la pelle. La goccia si secca e diventa una polverina chiara. Il veleno secco è molto concentrato. E poi si raschia? Sì, con una lametta, con mascherina, occhiali e guanti: quella polvere è molto irritante. Poi si conserva al buio, al fresco e all'asciutto. E alla famiglia fa male essere usata così? Un po' sì. Le api diventano più nervose per qualche giorno, e uno studio ha visto ghiandole della pappa reale più piccole nelle famiglie usate. Quindi è un lavoro da esperti, e non da fare troppo spesso.",
+   "keyPoints": [
+    "Si usa un raccoglitore elettrico all'ingresso o sui telaini",
+    "Leggeri impulsi spingono le api a pungere",
+    "Il veleno si secca su una lastra di vetro",
+    "La polvere si raschia e si conserva al riparo",
+    "La raccolta stressa la famiglia"
+   ],
+   "analogy": "È come chiedere un favore a una vicina: si può fare ogni tanto, ma se esageri lei si stanca e smette di aiutarti.",
+   "check": {
+    "question": "Dove finisce il veleno nel raccoglitore elettrico?",
+    "options": [
+     "In una boccetta d'acqua",
+     "Su una lastra di vetro",
+     "Dentro un favo vuoto",
+     "In una spugna bagnata"
+    ],
+    "answer": 1,
+    "explanation": "Le api pungono una pellicola sopra il vetro e il veleno si secca sulla lastra."
+   },
+   "science": {
+    "text": "In Brasile sono state confrontate famiglie da cui si raccoglieva veleno con il raccoglitore elettrico e famiglie lasciate in pace. Nelle api delle famiglie usate per il veleno, le ghiandole che producono la pappa reale erano più piccole. La raccolta ha un costo per le api.",
+    "source": "Bovi et al. 2017, Apidologie",
+    "url": "https://doi.org/10.1007/s13592-017-0520-8"
+   },
+   "tip": "Non provare la raccolta del veleno da principiante. La polvere di veleno è molto irritante: chi la raccoglie lavora con mascherina, occhiali e guanti."
+  },
+  {
+   "slide": 6,
+   "title": "Quanto veleno si produce e il mercato",
+   "narration": "Ultima parte: quanto veleno si può produrre e a chi si vende. Prova a indovinare: quanto veleno ha un'ape? Una goccina, immagino. Pochissimo. Pochissimo davvero. Uno studio ha misurato circa centocinquanta microgrammi per ape europea, cioè poco più di un decimo di milligrammo. Allora per un grammo ci vogliono migliaia di api! Esatto, migliaia di punture. Per questo il veleno è un prodotto costoso, raccolto in piccole quantità. E chi lo compra? Soprattutto laboratori. Il prezzo dipende anche dalla purezza e da quanta melittina contiene. Secondo te, qual è l'uso medico più serio? Curare proprio le persone allergiche alle punture, con il veleno purificato. Brava. Si chiama immunoterapia: lo specialista dà piccole dosi crescenti, e il corpo si abitua. È l'unica cura che previene nuove reazioni gravi. E le creme al veleno d'ape che vedo nei negozi? Sono cosmetici. Non sono cure, e chi è allergico deve fare attenzione anche a quelle. Leggi sempre gli ingredienti. Per noi apicoltori, conviene produrre veleno? Per pochi esperti e con le attrezzature giuste. Per te, oggi, conta di più conoscere il veleno per proteggerti. Il primo passo è imparare a proteggerti bene. Allora: pochissimo per ape, prezzo alto, uso medico vero contro l'allergia, e prudenza con tutto il resto.",
+   "keyPoints": [
+    "Un'ape europea ha circa 0,15 milligrammi di veleno",
+    "Per un grammo servono migliaia di punture",
+    "Il prezzo dipende anche dalla melittina",
+    "Serve per estratti contro l'allergia alle punture",
+    "Venduto come rimedio, non ha prove di cura"
+   ],
+   "analogy": "Raccogliere un grammo di veleno è come riempire un cucchiaino di zucchero un granello alla volta: serve tantissima pazienza.",
+   "check": {
+    "question": "Qual è un uso medico provato del veleno d'ape?",
+    "options": [
+     "Curare il mal di schiena",
+     "Curare l'allergia alle punture",
+     "Far crescere i capelli",
+     "Abbassare la febbre"
+    ],
+    "answer": 1,
+    "explanation": "Con veleno purificato si fa l'immunoterapia, l'unica cura che previene nuove reazioni allergiche."
+   },
+   "science": {
+    "text": "Le reazioni allergiche generali alle punture di imenotteri, come api e vespe, colpiscono fino al 7,5% degli adulti. Chi ha avuto una reazione seria deve portare con sé l'adrenalina. L'unica cura che previene nuove reazioni è l'immunoterapia, fatta con veleno purificato.",
+    "source": "Sturm et al. 2018, Allergy (linee guida EAACI)",
+    "url": "https://doi.org/10.1111/all.13262"
+   },
+   "tip": "Se sei allergica o ti accorgi che le reazioni peggiorano, chiedi al medico una visita da un allergologo: esiste una cura che riduce il rischio."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Quali api hanno il pungiglione?",
+   "back": "Solo le femmine: operaie e regina. I fuchi no.",
+   "part": 0
+  },
+  {
+   "front": "Perché l'operaia muore dopo aver punto una persona?",
+   "back": "Il pungiglione uncinato resta nella pelle e lei si strappa l'addome.",
+   "part": 0
+  },
+  {
+   "front": "Che cosa fa l'odore d'allarme del pungiglione?",
+   "back": "Richiama altre api e le rende aggressive.",
+   "part": 0
+  },
+  {
+   "front": "Qual è il componente principale del veleno?",
+   "back": "La melittina, circa dal 40 al 60% del veleno secco.",
+   "part": 1
+  },
+  {
+   "front": "Quali sono i tre nomi chiave del veleno?",
+   "back": "Melittina, fosfolipasi A2, apamina.",
+   "part": 1
+  },
+  {
+   "front": "Il veleno d'ape è una cura fai-da-te?",
+   "back": "No: non è un farmaco e le punture volontarie possono uccidere.",
+   "part": 2
+  },
+  {
+   "front": "Come si toglie il pungiglione?",
+   "back": "Subito, grattando o pizzicando: conta la velocità.",
+   "part": 3
+  },
+  {
+   "front": "Quali segni dopo una puntura richiedono il 112?",
+   "back": "Gonfiore di viso o gola, respiro difficile, orticaria diffusa, svenimento.",
+   "part": 3
+  },
+  {
+   "front": "Come funziona il raccoglitore elettrico?",
+   "back": "Impulsi leggeri fanno pungere una pellicola sopra un vetro.",
+   "part": 4
+  },
+  {
+   "front": "Che cos'è l'immunoterapia con veleno?",
+   "back": "La cura dello specialista contro l'allergia alle punture.",
+   "part": 5
+  }
+ ],
+ "questions": [
+  {
+   "question": "Da quale organo è nato il pungiglione?",
+   "options": [
+    "Da un organo per deporre uova",
+    "Da una zampa trasformata",
+    "Da un'antenna accorciata",
+    "Da una piccola ala rigida"
+   ],
+   "answer": 0,
+   "explanation": "Per questo pungono solo le femmine; i fuchi non hanno il pungiglione.",
+   "part": 0
+  },
+  {
+   "question": "A che cosa somiglia l'odore d'allarme del pungiglione?",
+   "options": [
+    "Al limone",
+    "Alla banana",
+    "Alla menta",
+    "Al caffè"
+   ],
+   "answer": 1,
+   "explanation": "Una delle sostanze, l'acetato di isoamile, ha un odore simile alla banana.",
+   "part": 0
+  },
+  {
+   "question": "Che cosa fa la melittina alle cellule?",
+   "options": [
+    "Le nutre e le fa crescere",
+    "Le colora di rosso",
+    "Ne rompe le membrane",
+    "Le rende più dure"
+   ],
+   "answer": 2,
+   "explanation": "La melittina buca le membrane delle cellule: da qui dolore e bruciore.",
+   "part": 1
+  },
+  {
+   "question": "Che cos'è la fosfolipasi A2?",
+   "options": [
+    "Un enzima del veleno",
+    "Un tipo di pungiglione",
+    "Una ghiandola dell'ape",
+    "Una cella del favo"
+   ],
+   "answer": 0,
+   "explanation": "È un enzima, cioè una proteina che lavora sui grassi delle cellule, ed è un allergene.",
+   "part": 1
+  },
+  {
+   "question": "Che cosa insegna il caso spagnolo delle punture volontarie?",
+   "options": [
+    "Che dopo tante sedute si è protetti",
+    "Che l'allergia può arrivare all'improvviso",
+    "Che bastano poche api per guarire",
+    "Che il veleno secco non fa male"
+   ],
+   "answer": 1,
+   "explanation": "La donna aveva fatto altre sedute senza problemi, ma quella volta ebbe un'anafilassi mortale.",
+   "part": 2
+  },
+  {
+   "question": "Perché la melittina non si usa facilmente come medicina?",
+   "options": [
+    "Perché costa troppo poco",
+    "Perché ha un cattivo odore",
+    "Perché rompe anche le cellule sane",
+    "Perché si scioglie nell'acqua"
+   ],
+   "answer": 2,
+   "explanation": "Rompe anche i globuli rossi e altre cellule sane: è un grosso limite.",
+   "part": 2
+  },
+  {
+   "question": "Che cosa conta di più per togliere il pungiglione?",
+   "options": [
+    "Il metodo usato",
+    "La velocità",
+    "La pinzetta",
+    "La crema dopo"
+   ],
+   "answer": 1,
+   "explanation": "Grattare o pizzicare dà lo stesso risultato: conta toglierlo subito.",
+   "part": 3
+  },
+  {
+   "question": "Quale segno dopo una puntura è un'emergenza?",
+   "options": [
+    "Bruciore nel punto punto",
+    "Rossore intorno alla puntura",
+    "Gonfiore della gola e fiato corto",
+    "Un piccolo prurito il giorno dopo"
+   ],
+   "answer": 2,
+   "explanation": "Gonfiore della gola e respiro difficile sono segni di anafilassi: subito il 112.",
+   "part": 3
+  },
+  {
+   "question": "Perché di solito l'ape non muore nel raccoglitore?",
+   "options": [
+    "Perché punge una pellicola sul vetro",
+    "Perché la scossa la addormenta",
+    "Perché non punge davvero mai",
+    "Perché le si toglie il pungiglione"
+   ],
+   "answer": 0,
+   "explanation": "Il vetro non trattiene gli uncini come la pelle elastica, quindi il pungiglione esce.",
+   "part": 4
+  },
+  {
+   "question": "Che cosa ha visto lo studio brasiliano sulle famiglie usate per il veleno?",
+   "options": [
+    "Più miele nei melari",
+    "Più regine nuove allevate in arnia",
+    "Ghiandole della pappa più piccole",
+    "Covata più abbondante"
+   ],
+   "answer": 2,
+   "explanation": "Le api delle famiglie usate per il veleno avevano ghiandole della pappa reale più piccole.",
+   "part": 4
+  },
+  {
+   "question": "Quanto veleno ha circa un'ape europea?",
+   "options": [
+    "Circa 15 grammi",
+    "Circa 1,5 grammi",
+    "Circa 15 milligrammi",
+    "Circa 0,15 milligrammi"
+   ],
+   "answer": 3,
+   "explanation": "Uno studio ha misurato circa 147 microgrammi per ape europea.",
+   "part": 5
+  },
+  {
+   "question": "Che cosa deve portare chi ha avuto una reazione seria alle punture?",
+   "options": [
+    "Una crema alla propoli",
+    "L'adrenalina prescritta",
+    "Un vasetto di miele",
+    "Un fazzoletto bagnato"
+   ],
+   "answer": 1,
+   "explanation": "Le linee guida dicono di portare sempre l'adrenalina prescritta dal medico.",
+   "part": 5
+  }
+ ],
+ "exercises": [
+  {
+   "title": "La puntura sul polso",
+   "prompt": "Durante una visita un'ape ti punge sul polso e vedi il pungiglione con la sacchetta che pulsa. Che cosa fai, passo per passo?",
+   "modelAnswer": "Tolgo subito il pungiglione, grattandolo con l'unghia o con la leva, oppure pizzicandolo: conta solo la velocità, perché la sacca continua a pompare veleno. Chiudo l'arnia con calma, mi allontano e affumico il punto, perché l'odore d'allarme richiama altre api. Lavo la zona e metto qualcosa di freddo. Un po' di dolore e gonfiore intorno sono normali. Nei minuti dopo controllo come sto: se avessi orticaria su tutto il corpo, gonfiore di viso o gola, fatica a respirare o giramenti di testa, chiamerei subito il 112."
+  },
+  {
+   "title": "Il compagno che si sente male",
+   "prompt": "Sei in apiario con un amico. Dieci minuti dopo una puntura sulla mano, lui ha macchie rosse sul collo, la voce rauca e dice che fa fatica a respirare. Che cosa fai?",
+   "modelAnswer": "Sono segni di una reazione allergica grave, lontana dalla puntura: è un'emergenza. Chiamo subito il 112 e dico che si tratta di una puntura d'ape con difficoltà a respirare. Se lui ha l'adrenalina prescritta dal medico, lo aiuto a usarla come gli hanno insegnato. Lo porto lontano dalle arnie, non lo lascio mai solo e seguo le istruzioni dell'operatore. Non gli do creme o rimedi casalinghi al posto dei soccorsi. Dopo, gli consiglio una visita da un allergologo."
+  },
+  {
+   "title": "La richiesta strana",
+   "prompt": "Una vicina con l'artrosi ti chiede di portarle qualche ape viva per farsi pungere sulle ginocchia, come ha letto su internet. Che cosa le rispondi?",
+   "modelAnswer": "Le dico di no, con gentilezza. Le spiego che il veleno d'ape viene studiato in laboratorio, ma sulle persone non è una cura provata. Farsi pungere apposta è pericoloso: l'allergia può comparire all'improvviso, anche dopo sedute andate bene, e in Spagna una donna è morta così. Le consiglio di parlare dei suoi dolori con il medico. Le racconto che l'unico uso medico serio del veleno è l'immunoterapia contro l'allergia alle punture, fatta dallo specialista con veleno purificato."
+  }
+ ]
+}

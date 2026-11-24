@@ -1,0 +1,57 @@
+{
+ "code": "6.5",
+ "turns": [
+  {
+   "part": 0,
+   "line": 7,
+   "question": "Gli scienziati hanno trovato un solo colpevole del collasso?",
+   "options": [
+    "Sì, un virus arrivato dall'Asia",
+    "No, le cause sono più di una",
+    "Sì, un pesticida usato nei campi",
+    "No, è dovuto solo al caso"
+   ],
+   "answer": 1,
+   "why": "Nessun fattore da solo spiegava il collasso: le famiglie colpite avevano più malattie insieme."
+  },
+  {
+   "part": 1,
+   "line": 7,
+   "question": "Perché è difficile accorgersi di nosema nelle api?",
+   "options": [
+    "Perché colpisce solo di notte",
+    "Perché vive solo nella regina",
+    "Perché sparisce in primavera",
+    "Perché all'inizio non si vede niente"
+   ],
+   "answer": 3,
+   "why": "Nosema agisce in silenzio: le api sembrano normali finché la famiglia non cede."
+  },
+  {
+   "part": 2,
+   "line": 9,
+   "question": "Oggi la scienza dà tutta la colpa delle perdite alla varroa?",
+   "options": [
+    "Sì, perché è l'unico vero nemico",
+    "Sì, perché i virus non contano",
+    "No, conta la somma di tanti problemi",
+    "No, la varroa ormai è innocua"
+   ],
+   "answer": 2,
+   "why": "La varroa pesa molto, ma insieme a virus, nosema, pesticidi, pochi fiori e clima."
+  },
+  {
+   "part": 3,
+   "line": 3,
+   "question": "Perché conviene contare la varroa invece di trattare e basta?",
+   "options": [
+    "Per sapere quando trattare e se ha funzionato",
+    "Per usare meno miele durante l'inverno",
+    "Per capire quando arriverà la sciamatura",
+    "Per scegliere il posto migliore per l'arnia"
+   ],
+   "answer": 0,
+   "why": "Il conteggio dice quando la varroa è troppa e, dopo il trattamento, se è scesa davvero."
+  }
+ ]
+}

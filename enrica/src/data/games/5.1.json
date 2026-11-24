@@ -1,0 +1,175 @@
+{
+ "code": "5.1",
+ "order": [
+  {
+   "title": "Dal melario al vasetto",
+   "steps": [
+    "Controllo che i favi siano opercolati",
+    "Metto l'apiscampo tra nido e melario",
+    "Porto i melari nel laboratorio",
+    "Disopercolo i favi",
+    "Smielo con lo smielatore",
+    "Filtro e lascio riposare nel maturatore",
+    "Riempio i vasetti dal rubinetto"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Fare un miele cremoso",
+   "steps": [
+    "Scelgo un miele liquido e pulito",
+    "Aggiungo un po' di miele cristallizzato fine",
+    "Mescolo bene tutto insieme",
+    "Tengo il miele al fresco",
+    "Aspetto che diventi cremoso"
+   ],
+   "slide": 6
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi metti tra due piani dell'arnia",
+    "Faccio passare le api in un verso solo",
+    "Servo a svuotare il melario dalle api"
+   ],
+   "answer": "Apiscampo",
+   "distractors": [
+    "Escludiregina",
+    "Coprifavo",
+    "Nutritore"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi basta una goccia per lavorare",
+    "Guardo la luce che passa nel miele",
+    "Ti dico quanta acqua c'è nel miele"
+   ],
+   "answer": "Rifrattometro",
+   "distractors": [
+    "Termometro",
+    "Densimetro",
+    "Igrometro"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Giro forte, a volte piano",
+    "Dentro di me ci sono i telaini aperti",
+    "Lancio il miele contro le mie pareti"
+   ],
+   "answer": "Smielatore",
+   "distractors": [
+    "Maturatore",
+    "Sceratrice",
+    "Affumicatore"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Sto fermo per giorni, chiuso",
+    "In alto mi si forma la schiuma",
+    "Ho un rubinetto in basso per i vasetti"
+   ],
+   "answer": "Maturatore",
+   "distractors": [
+    "Smielatore",
+    "Disopercolatore",
+    "Filtro doppio"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Sono uno zucchero del miele",
+    "Mi sciolgo meno del mio compagno",
+    "Formo i cristalli nel vasetto"
+   ],
+   "answer": "Glucosio",
+   "distractors": [
+    "Fruttosio",
+    "Saccarosio",
+    "Maltosio"
+   ],
+   "slide": 6
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Le api opercolano le cellette quando il miele ha ancora molta acqua.",
+   "true": false,
+   "why": "Opercolano alla fine, quando l'acqua è scesa più o meno al 18 per cento.",
+   "slide": 1
+  },
+  {
+   "text": "Per le regole europee il miele può avere al massimo il 20 per cento di acqua.",
+   "true": true,
+   "why": "È il limite generale; poche eccezioni, come il miele di brugo, arrivano al 23.",
+   "slide": 1
+  },
+  {
+   "text": "L'apiscampo lascia le api libere di entrare e uscire dal melario.",
+   "true": false,
+   "why": "Funziona a senso unico: le api scendono nel nido e non risalgono.",
+   "slide": 2
+  },
+  {
+   "text": "Un melario lasciato con una fessura può scatenare il saccheggio.",
+   "true": true,
+   "why": "Api di altre famiglie entrano a rubare il miele che nessuno difende.",
+   "slide": 2
+  },
+  {
+   "text": "Gli opercoli tolti vanno buttati perché sono sporchi.",
+   "true": false,
+   "why": "Danno altro miele che scola e una cera molto pulita.",
+   "slide": 3
+  },
+  {
+   "text": "Nello smielatore tangenziale si girano i telaini per svuotare l'altro lato.",
+   "true": true,
+   "why": "Il tangenziale svuota un lato per volta; il radiale tutti e due insieme.",
+   "slide": 3
+  },
+  {
+   "text": "Un filtro finissimo è il migliore perché toglie anche il polline.",
+   "true": false,
+   "why": "Il polline è un componente naturale del miele e non si deve togliere.",
+   "slide": 4
+  },
+  {
+   "text": "Nel maturatore bolle d'aria e cera salgono in superficie.",
+   "true": true,
+   "why": "Sono più leggere del miele: si forma una schiuma che si toglie.",
+   "slide": 4
+  },
+  {
+   "text": "Il miele si conserva meglio vicino a una fonte di calore.",
+   "true": false,
+   "why": "Il caldo fa salire l'HMF e fa invecchiare il miele.",
+   "slide": 5
+  },
+  {
+   "text": "Un miele cristallizzato è un miele andato a male.",
+   "true": false,
+   "why": "La cristallizzazione è naturale: il miele resta buono.",
+   "slide": 6
+  },
+  {
+   "text": "Il miele di acacia resta liquido a lungo perché ha tanto fruttosio.",
+   "true": true,
+   "why": "Il fruttosio si scioglie bene; poco glucosio vuol dire pochi cristalli.",
+   "slide": 6
+  },
+  {
+   "text": "Durante la smielatura è meglio tenere le finestre aperte.",
+   "true": false,
+   "why": "Il profumo attira le api: si lavora chiusi, con le zanzariere.",
+   "slide": 7
+  }
+ ]
+}

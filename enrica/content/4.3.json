@@ -1,0 +1,501 @@
+{
+  "code": "4.3",
+  "unit": 4,
+  "title": "Il nomadismo o transumanza degli alveari",
+  "pages": "141–154",
+  "summary": "Impari perché alcuni apicoltori spostano le arnie seguendo le fioriture e come le api aiutano i frutteti. Vedi come si organizza un viaggio sicuro, come rispettare gli altri apiari e quali regole valgono in Italia.",
+  "parts": [
+    {
+      "title": "L'utilità del nomadismo: l'impollinazione",
+      "keyPoints": [
+        "Nomadismo: portare le arnie dove ci sono fioriture",
+        "Più fioriture, più raccolti in un anno",
+        "Le api impollinano frutteti e colture",
+        "A volte gli agricoltori pagano il servizio"
+      ],
+      "analogy": "È come il pastore che porta le pecore dove l'erba è più verde: segui la stagione invece di aspettarla.",
+      "tip": "Prima di portare api in un frutteto, chiedi all'agricoltore quali trattamenti fa e quando. Un insetticida dato in fioritura può uccidere le tue api.",
+      "science": {
+        "text": "Una grande revisione ha studiato le colture alimentari del mondo. Per 87 delle principali colture, frutti o semi dipendono dagli animali impollinatori, come le api. Altre 28 non ne hanno bisogno. In quantità, però, il 60% del cibo viene da colture che non dipendono dagli impollinatori.",
+        "source": "Klein et al. 2007, Proceedings of the Royal Society B",
+        "url": "https://doi.org/10.1098/rspb.2006.3721"
+      },
+      "check": {
+        "question": "Cos'è il nomadismo in apicoltura?",
+        "options": [
+          "Cambiare la regina ogni primavera",
+          "Spostare le arnie seguendo le fioriture",
+          "Lasciare le api libere senza arnia",
+          "Vendere il miele nei mercati vicini"
+        ],
+        "answer": 1,
+        "explanation": "Come la transumanza dei pastori: le arnie vanno dove ci sono fiori."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo di viaggi. Non i nostri: quelli delle api. Si chiama nomadismo, o transumanza." },
+        { "who": "E", "text": "Ciao Tonino! Transumanza come i pastori con le pecore?" },
+        { "who": "M", "text": "Proprio così. Il pastore porta il gregge dove c'è erba. L'apicoltore nomadista porta le arnie dove ci sono fiori." },
+        { "who": "E", "text": "E perché? Le api non volano già da sole fino ai fiori?" },
+        { "who": "M", "text": "Volano, ma non lontanissimo: di solito restano entro qualche chilometro. Se intorno all'apiario la fioritura è finita, restano senza lavoro." },
+        { "who": "E", "text": "Allora le porti tu verso una nuova fioritura, come un taxi." },
+        { "who": "M", "text": "Esatto! In un anno puoi fare l'acacia in pianura, poi il castagno in collina, poi magari il girasole. Più fioriture, più raccolti." },
+        { "who": "E", "text": "Che bello. Ma ci guadagnano anche le piante?" },
+        { "who": "M", "text": "Eccome. Secondo te, cosa fanno le api mentre raccolgono il nettare in un frutteto?" },
+        { "who": "E", "text": "Portano il polline da un fiore all'altro, e così i fiori diventano frutti!" },
+        { "who": "M", "text": "Brava, questa è l'impollinazione. Melo, ciliegio, mandorlo e tante altre colture producono di più con gli impollinatori." },
+        { "who": "E", "text": "Quindi l'agricoltore è contento di avere le api vicino." },
+        { "who": "M", "text": "Sì, e a volte paga l'apicoltore per portarle. In alcuni paesi è un lavoro enorme, con migliaia di arnie in viaggio." },
+        { "who": "E", "text": "Allora il nomadismo serve a tutti: alle api, a noi e ai frutteti." }
+      ]
+    },
+    {
+      "title": "L'azienda apistica nomadista",
+      "keyPoints": [
+        "Serve un calendario delle fioriture",
+        "Bisogna conoscere bene il territorio",
+        "Mezzi adatti: furgone, pallet, gru o carrello",
+        "Il viaggio stanca le api: scegli posti ricchi"
+      ],
+      "analogy": "È come una famiglia che gira le fiere con un banco: guadagna di più, ma deve conoscere le date, avere il furgone giusto e non stancarsi troppo.",
+      "tip": "All'inizio non spostare tutte le arnie. Prova con poche famiglie forti, su un tragitto breve, e segna sul quaderno raccolti e problemi.",
+      "science": {
+        "text": "Uno studio negli Stati Uniti ha confrontato api di famiglie nomadi e api di famiglie ferme. Le api che viaggiavano vivevano in media meno a lungo. Però la mancanza di cibo pesava ancora di più: un pascolo ricco aiuta a ridurre i danni del viaggio.",
+        "source": "Simone-Finstrom et al. 2016, Scientific Reports",
+        "url": "https://doi.org/10.1038/srep32023"
+      },
+      "check": {
+        "question": "Cosa ha mostrato lo studio sulle api nomadi?",
+        "options": [
+          "Che vivono meno delle api ferme",
+          "Che fanno più miele in ogni posto",
+          "Che non sentono mai lo stress",
+          "Che vivono più delle api ferme"
+        ],
+        "answer": 0,
+        "explanation": "Le api in viaggio vivevano un po' meno; tanto cibo aiutava a recuperare."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Fare nomadismo sul serio è un vero mestiere. C'è chi ci costruisce un'azienda intera." },
+        { "who": "E", "text": "Cosa serve per cominciare?" },
+        { "who": "M", "text": "Prima di tutto la testa: un calendario delle fioriture. Devi sapere quando fiorisce l'acacia, quando il tiglio, quando il castagno, nella tua zona." },
+        { "who": "E", "text": "E ogni anno cambia un po', immagino, con il tempo che fa." },
+        { "who": "M", "text": "Esatto, per questo devi conoscere il territorio e avere amici agricoltori che ti avvisano. Poi servono le braccia, o meglio i mezzi." },
+        { "who": "E", "text": "Un camion?" },
+        { "who": "M", "text": "Un furgone o un camion, spesso con le arnie su pallet e una piccola gru o un carrello. Un'arnia piena pesa tanto." },
+        { "who": "E", "text": "Mi fa già male la schiena!" },
+        { "who": "M", "text": "Ah ah! Ma c'è anche un'altra cosa. Secondo te, il viaggio fa bene o male alle api?" },
+        { "who": "E", "text": "Forse le stanca. Sono chiuse, scosse, al caldo. Come noi dopo un lungo viaggio in macchina." },
+        { "who": "M", "text": "Proprio così. Gli studi dicono che le api nomadi vivono un po' meno. Ma se arrivano in un posto pieno di fiori, recuperano meglio." },
+        { "who": "E", "text": "Quindi conviene spostarle solo se la nuova fioritura vale davvero." },
+        { "who": "M", "text": "Brava. Il nomadismo si fa per una ragione, non per abitudine. E sempre con famiglie forti e sane." },
+        { "who": "E", "text": "Me lo segno: calendario, mezzi giusti, famiglie forti e posti ricchi di fiori." }
+      ]
+    },
+    {
+      "title": "Organizzazione e trasporto",
+      "keyPoints": [
+        "Si chiude la sera, con le api tutte in casa",
+        "Entrate chiuse con reti: l'aria deve passare",
+        "Arnie legate bene, telaini fermi",
+        "Mai soste al sole con le arnie chiuse",
+        "Appena arrivi, riapri le entrate"
+      ],
+      "analogy": "È come un trasloco con i bambini addormentati: parti di sera, tutto ben legato, finestrini un po' aperti, e appena arrivi apri le porte.",
+      "tip": "Il pomeriggio prima prepara reti, cinghie e attrezzi. Chiudi le entrate solo al tramonto, quando le bottinatrici sono rientrate, e controlla che nessuna arnia perda api.",
+      "science": {
+        "text": "Ricercatori americani hanno messo dei termometri dentro arnie trasportate su camion per lunghe distanze. La temperatura interna cambiava molto secondo la posizione sul rimorchio. Le famiglie piccole controllavano peggio il calore e fallivano più spesso dopo il viaggio.",
+        "source": "Melicher et al. 2019, Environmental Entomology",
+        "url": "https://doi.org/10.1093/ee/nvz027"
+      },
+      "check": {
+        "question": "Quando si chiudono le entrate prima del viaggio?",
+        "options": [
+          "A mezzogiorno, con il sole alto",
+          "All'alba, prima che si sveglino",
+          "Di pomeriggio, durante il raccolto",
+          "Al tramonto, con le api rientrate"
+        ],
+        "answer": 3,
+        "explanation": "La sera le bottinatrici sono a casa: chiudendo di giorno lasceresti fuori metà famiglia."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ora vediamo il viaggio vero e proprio. Regola numero uno: si parte di sera o di notte." },
+        { "who": "E", "text": "Per il fresco? Come quando si parte per le vacanze d'agosto?" },
+        { "who": "M", "text": "Anche. Ma soprattutto perché la sera le bottinatrici sono rientrate. Se chiudi di giorno, lasci fuori metà famiglia." },
+        { "who": "E", "text": "E come si chiude un'arnia?" },
+        { "who": "M", "text": "Con una rete sull'entrata, o con una porticina apposta. Le api devono restare dentro, ma l'aria deve passare." },
+        { "who": "E", "text": "Perché l'aria è così importante?" },
+        { "who": "M", "text": "Secondo te, cosa succede in un'arnia chiusa, piena di api agitate, magari d'estate?" },
+        { "who": "E", "text": "Si scalda tantissimo! Le api si muovono, fanno calore, e senza aria rischiano di soffocare." },
+        { "who": "M", "text": "Esatto. Il caldo è il nemico numero uno del trasporto. Per questo servono reti di ventilazione e mai soste al sole." },
+        { "who": "E", "text": "E durante il viaggio le arnie non si muovono?" },
+        { "who": "M", "text": "Devono essere legate bene con cinghie, una vicina all'altra. E i telaini dentro devono stare fermi, altrimenti schiacciano le api." },
+        { "who": "E", "text": "E quando arrivo nel posto nuovo, cosa faccio per prima cosa?" },
+        { "who": "M", "text": "Metti giù le arnie con calma, le sistemi in piano e apri subito le entrate. Meglio se arrivi prima dell'alba." },
+        { "who": "E", "text": "Così al mattino le api escono e scoprono il nuovo posto. E il giorno dopo controllo che volino bene." }
+      ]
+    },
+    {
+      "title": "La vicinanza tra apiari",
+      "keyPoints": [
+        "Troppe arnie insieme si contendono i fiori",
+        "Arnie vicine: più deriva e più contagi",
+        "Rispetta gli apiari già presenti",
+        "Codice civile: 10 m dalle strade, 5 m dai confini",
+        "Alcune regioni fissano distanze tra apiari"
+      ],
+      "analogy": "È come aprire una pizzeria di fianco a un'altra: i clienti sono gli stessi, e alla fine tutte e due lavorano peggio.",
+      "tip": "Prima di portare le arnie in un posto nuovo, guardati intorno e chiedi agli agricoltori se ci sono altri apiari. Se ce ne sono già tanti, cerca un'altra zona.",
+      "science": {
+        "text": "Ricercatori dell'Università della Georgia hanno messo coppie di arnie a 0, 10 o 100 metri l'una dall'altra, con la varroa in una sola. Dopo quattro mesi, nelle coppie distanti 100 metri c'erano in media meno acari. La distanza tra famiglie aiuta a frenare la varroa.",
+        "source": "Nolan e Delaplane 2016, Apidologie",
+        "url": "https://doi.org/10.1007/s13592-016-0443-9"
+      },
+      "check": {
+        "question": "Perché non conviene portare arnie vicino a un grande apiario?",
+        "options": [
+          "Le api diventano tutte della stessa famiglia",
+          "Le api smettono di fare la cera",
+          "Le api si contendono gli stessi fiori",
+          "Le api dimenticano la strada di casa"
+        ],
+        "answer": 2,
+        "explanation": "I fiori di una zona sono limitati: con troppe arnie tutti raccolgono meno, e i contagi aumentano."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Parliamo ora dei vicini. Quando sposti le arnie, devi pensare a chi c'è già." },
+        { "who": "E", "text": "Intendi altri apicoltori?" },
+        { "who": "M", "text": "Sì. Ogni zona ha una quantità limitata di fiori. Secondo te, cosa succede se in un posto con cento arnie ne porto altre cento?" },
+        { "who": "E", "text": "Che le api si dividono gli stessi fiori, e alla fine tutti raccolgono meno miele." },
+        { "who": "M", "text": "Esatto. È come aprire una pizzeria accanto a un'altra. E c'è anche un problema di salute." },
+        { "who": "E", "text": "Quale?" },
+        { "who": "M", "text": "Le api a volte sbagliano casa ed entrano nell'arnia vicina. Si chiama deriva. Più le arnie sono vicine, più succede." },
+        { "who": "E", "text": "E così si portano dietro la varroa." },
+        { "who": "M", "text": "Brava. E anche i saccheggi diventano più facili. Uno studio ha visto che le arnie lontane cento metri si passano meno acari di quelle vicine." },
+        { "who": "E", "text": "Ci sono anche regole su dove mettere gli apiari?" },
+        { "who": "M", "text": "Sì. Il codice civile dice che un apiario deve stare ad almeno dieci metri dalle strade pubbliche e a cinque metri dai confini delle proprietà." },
+        { "who": "E", "text": "E tra un apiario e l'altro?" },
+        { "who": "M", "text": "Alcune regioni fissano distanze minime tra un apiario nuovo e uno già presente. Cambiano da regione a regione, e possono cambiare nel tempo." },
+        { "who": "E", "text": "Quindi chiedo sempre alla mia ASL o all'associazione prima di spostarmi. E rispetto i colleghi." }
+      ]
+    },
+    {
+      "title": "Le carte in regola: anagrafe e spostamenti",
+      "keyPoints": [
+        "Ogni apicoltore è registrato all'anagrafe apistica",
+        "Gli spostamenti vanno registrati, anche temporanei",
+        "Censimento ogni anno: 1° novembre – 31 dicembre",
+        "Ogni apiario ha un cartello con il codice",
+        "Tempi e moduli cambiano tra le regioni"
+      ],
+      "analogy": "È come il cambio di residenza: se ti trasferisci, il comune deve saperlo, così sa dove trovarti in caso di bisogno.",
+      "tip": "Prima di ogni spostamento chiama la tua ASL o l'associazione per sapere cosa fare nella tua regione. Durante il viaggio tieni con te i documenti delle arnie.",
+      "science": {
+        "text": "Il decreto del Ministero della Salute dell'11 agosto 2014 ha approvato il manuale dell'anagrafe apistica nazionale. Prevede la registrazione di apicoltori e apiari e la comunicazione delle variazioni; gli spostamenti, anche temporanei, vanno registrati. Le regole vengono aggiornate: controlla sempre con la tua ASL.",
+        "source": "Ministero della Salute, DM 11 agosto 2014 (Gazzetta Ufficiale n. 291 del 2014)",
+        "url": "https://www.izs.it/bollettino_segn_legislative/bollettini_2014/dicembre_14/2_g.u._291_api.pdf"
+      },
+      "check": {
+        "question": "Quando si fa il censimento annuale degli alveari?",
+        "options": [
+          "Dal 1° marzo al 30 aprile",
+          "Dal 1° novembre al 31 dicembre",
+          "Dal 1° giugno al 31 luglio",
+          "Solo quando si vende il miele"
+        ],
+        "answer": 1,
+        "explanation": "Ogni anno, tra il 1° novembre e il 31 dicembre, si dichiarano quante famiglie hai e dove."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ultimo argomento, meno romantico ma importante: le carte. In Italia ogni apicoltore deve essere registrato all'anagrafe apistica." },
+        { "who": "E", "text": "Anche io, con poche arnie?" },
+        { "who": "M", "text": "Anche tu, anche con una sola arnia. Ricevi un codice, e ogni apiario ha un cartello con quel codice, vicino alle arnie." },
+        { "who": "E", "text": "Come la targa di una macchina." },
+        { "who": "M", "text": "Bel paragone. Ogni anno poi si fa il censimento: tra il primo novembre e il trentuno dicembre dichiari quante famiglie hai e dove sono." },
+        { "who": "E", "text": "E quando faccio nomadismo?" },
+        { "who": "M", "text": "Gli spostamenti, anche quelli temporanei, vanno registrati nella banca dati. Secondo te, perché lo Stato vuole sapere dove sono le api?" },
+        { "who": "E", "text": "Per le malattie! Se scoppia un problema in una zona, i veterinari devono sapere quali apiari controllare." },
+        { "who": "M", "text": "Proprio così. Pensa a parassiti pericolosi come il piccolo coleottero dell'alveare. Se non si sa dove sono le arnie, non si può intervenire in fretta." },
+        { "who": "E", "text": "E come si comunica lo spostamento? Ci sono dei giorni da rispettare?" },
+        { "who": "M", "text": "Qui devi stare attenta: tempi e moduli cambiano da regione a regione, e le regole vengono aggiornate." },
+        { "who": "E", "text": "Quindi la cosa giusta è chiedere prima alla mia ASL o all'associazione." },
+        { "who": "M", "text": "Esatto. E porta sempre con te i documenti quando viaggi con le arnie." },
+        { "who": "E", "text": "Va bene. Codice, cartello, censimento e spostamenti registrati." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Cos'è il nomadismo?", "back": "Spostare le arnie seguendo le fioriture.", "part": 0 },
+    { "front": "Cos'è l'impollinazione?", "back": "Il trasporto di polline tra i fiori, che fa nascere frutti e semi.", "part": 0 },
+    { "front": "Cosa serve a un'azienda nomadista?", "back": "Calendario delle fioriture, mezzi adatti, famiglie forti.", "part": 1 },
+    { "front": "Il viaggio fa male alle api?", "back": "Le stanca: le api nomadi vivono un po' meno.", "part": 1 },
+    { "front": "Quando si chiudono le arnie per il viaggio?", "back": "Al tramonto, con le bottinatrici rientrate.", "part": 2 },
+    { "front": "Nemico numero uno nel trasporto?", "back": "Il caldo: servono reti e niente soste al sole.", "part": 2 },
+    { "front": "Cos'è la deriva?", "back": "Api che sbagliano casa ed entrano nell'arnia vicina.", "part": 3 },
+    { "front": "Distanze del codice civile per un apiario?", "back": "10 m dalle strade pubbliche, 5 m dai confini.", "part": 3 },
+    { "front": "Quando si fa il censimento degli alveari?", "back": "Dal 1° novembre al 31 dicembre.", "part": 4 },
+    { "front": "Gli spostamenti temporanei vanno registrati?", "back": "Sì, nella banca dati dell'anagrafe apistica.", "part": 4 }
+  ],
+  "questions": [
+    {
+      "question": "Perché il nomadismo può dare più raccolti in un anno?",
+      "options": [
+        "Le api seguono più fioriture diverse",
+        "Le api lavorano anche di notte",
+        "Le api fanno miele senza fiori",
+        "Le api vivono il doppio in viaggio"
+      ],
+      "answer": 0,
+      "explanation": "Spostando le arnie si fanno più fioriture: acacia, castagno, girasole e altre.",
+      "part": 0
+    },
+    {
+      "question": "Quale di queste colture produce di più con le api?",
+      "options": ["Il grano", "Il mais", "Il melo", "Il riso"],
+      "answer": 2,
+      "explanation": "Il melo ha bisogno degli insetti; grano, mais e riso si impollinano col vento o da soli.",
+      "part": 0
+    },
+    {
+      "question": "Cosa serve prima di tutto a un nomadista?",
+      "options": [
+        "Un'arnia di colore diverso per ogni posto",
+        "Una regina nuova per ogni viaggio",
+        "Un vestito speciale per guidare",
+        "Un calendario delle fioriture della zona"
+      ],
+      "answer": 3,
+      "explanation": "Senza sapere quando fioriscono le piante, il viaggio rischia di essere inutile.",
+      "part": 1
+    },
+    {
+      "question": "Cosa aiuta le api nomadi a recuperare dopo il viaggio?",
+      "options": [
+        "Un viaggio ancora più lungo",
+        "Un posto pieno di fiori",
+        "Una pioggia forte all'arrivo",
+        "Un'arnia dipinta di nuovo"
+      ],
+      "answer": 1,
+      "explanation": "Tanto cibo riduce i danni dello stress del viaggio.",
+      "part": 1
+    },
+    {
+      "question": "Perché le arnie chiuse per il viaggio devono avere una rete?",
+      "options": [
+        "Per far passare l'aria e non scaldarsi",
+        "Per far uscire i fuchi durante il viaggio",
+        "Per vedere la regina mentre guidi",
+        "Per far entrare il polline nuovo"
+      ],
+      "answer": 0,
+      "explanation": "Un'arnia chiusa piena di api agitate si scalda molto: la rete fa passare l'aria.",
+      "part": 2
+    },
+    {
+      "question": "Cosa fai appena arrivi nel nuovo apiario?",
+      "options": [
+        "Lascio le arnie chiuse per tre giorni",
+        "Apro tutte le arnie e controllo i favi",
+        "Metto le arnie in piano e apro le entrate",
+        "Do subito lo sciroppo davanti all'entrata"
+      ],
+      "answer": 2,
+      "explanation": "Le api chiuse soffrono il caldo: appena le arnie sono sistemate si aprono le entrate.",
+      "part": 2
+    },
+    {
+      "question": "Cos'è la deriva delle api?",
+      "options": [
+        "Api che si perdono in volo e non tornano più",
+        "Api che seguono il vento verso i fiori lontani",
+        "Api che scappano con la regina a primavera",
+        "Api che sbagliano casa ed entrano nell'arnia vicina"
+      ],
+      "answer": 3,
+      "explanation": "Con arnie vicine le api sbagliano casa più spesso, e portano con sé acari e malattie.",
+      "part": 3
+    },
+    {
+      "question": "A che distanza minima dalle strade pubbliche va un apiario?",
+      "options": ["Cinque metri", "Dieci metri", "Cento metri", "Due metri"],
+      "answer": 1,
+      "explanation": "Il codice civile chiede dieci metri dalle strade pubbliche e cinque dai confini.",
+      "part": 3
+    },
+    {
+      "question": "Chi deve registrarsi all'anagrafe apistica?",
+      "options": [
+        "Ogni apicoltore, anche con una sola arnia",
+        "Solo chi ha più di cento arnie",
+        "Solo chi vende il miele al mercato",
+        "Solo chi fa nomadismo fuori regione"
+      ],
+      "answer": 0,
+      "explanation": "La registrazione vale per tutti: serve a sapere dove sono le api in caso di malattie.",
+      "part": 4
+    },
+    {
+      "question": "Cosa c'è vicino a ogni apiario registrato?",
+      "options": [
+        "Una recinzione alta almeno due metri",
+        "Una fontana per l'acqua delle api",
+        "Un cartello con il codice dell'apicoltore",
+        "Un cestino per le api morte"
+      ],
+      "answer": 2,
+      "explanation": "Il cartello con il codice identifica l'apiario, come una targa.",
+      "part": 4
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Il primo viaggio",
+      "prompt": "È giugno. Un amico agricoltore ti chiede di portare quattro arnie nel suo campo di girasole, a 30 chilometri. Fa caldo. Come organizzi lo spostamento?",
+      "modelAnswer": "Prima chiedo all'amico quando fiorisce il girasole e quali trattamenti fa, per non esporre le api agli insetticidi. Chiamo la mia ASL o l'associazione per sapere come registrare lo spostamento nella mia regione. Scelgo solo famiglie forti e sane. Il pomeriggio preparo reti di ventilazione, cinghie e attrezzi. Al tramonto, quando le bottinatrici sono rientrate, chiudo le entrate con le reti, controllo che non escano api e lego bene le arnie, con i telaini fermi. Viaggio di sera o di notte, senza soste al sole. All'arrivo metto le arnie in piano, a distanza da strade e confini, e apro subito le entrate. Il giorno dopo controllo che le api volino bene."
+    },
+    {
+      "title": "Il posto affollato",
+      "prompt": "Trovi un bel prato fiorito per il nomadismo, ma a pochi metri ci sono già una cinquantina di arnie di un altro apicoltore. Cosa fai?",
+      "modelAnswer": "Non porto lì le mie arnie. I fiori di una zona sono limitati: con troppe famiglie tutti raccolgono meno miele. Inoltre arnie vicine aumentano la deriva, cioè api che sbagliano casa, e i saccheggi, e con loro passano varroa e altre malattie. Per rispetto del collega e per la salute delle mie api cerco un'altra zona con fioriture simili e pochi apiari. Se proprio voglio stare in quella valle, ne parlo con l'altro apicoltore e mi informo con la ASL o l'associazione, perché alcune regioni fissano distanze minime tra apiari. Ricordo anche le distanze del codice civile da strade e confini."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Il viaggio delle arnie",
+        "steps": [
+          "Prepara reti, cinghie e attrezzi",
+          "Aspetta il tramonto, api tutte in casa",
+          "Chiudi le entrate con le reti",
+          "Carica e lega bene le arnie",
+          "Viaggia di notte, senza soste al sole",
+          "Scarica, metti in piano e apri le entrate",
+          "Il giorno dopo controlla il volo"
+        ],
+        "part": 2
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Succedo di più quando le arnie sono vicine",
+          "Porto api nella casa sbagliata",
+          "Sono l'errore di un'ape che sbaglia arnia"
+        ],
+        "answer": "La deriva",
+        "distractors": ["La sciamatura", "La covata", "La varroa"],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Senza di me tanti frutti non nascono",
+          "Gli agricoltori a volte pagano per avermi",
+          "Porto il polline da un fiore all'altro"
+        ],
+        "answer": "L'impollinazione",
+        "distractors": ["La sciamatura", "La bottinatura", "La smielatura"],
+        "part": 0
+      },
+      {
+        "clues": [
+          "Porto il codice dell'apicoltore",
+          "Mi trovi vicino a ogni apiario",
+          "Sono come la targa delle tue arnie"
+        ],
+        "answer": "Il cartello",
+        "distractors": ["Il registro", "Il coprifavo", "Il pallet"],
+        "part": 4
+      },
+      {
+        "clues": [
+          "Lascio passare l'aria ma non le api",
+          "Servo soprattutto quando fa caldo",
+          "Mi metti sull'arnia prima del viaggio"
+        ],
+        "answer": "La rete di ventilazione",
+        "distractors": ["La cinghia di trasporto", "La porticina di legno", "La griglia anti-saccheggio"],
+        "part": 2
+      }
+    ],
+    "truefalse": [
+      { "text": "Il nomadismo segue le fioriture spostando le arnie.", "true": true, "why": "Come la transumanza: le arnie vanno dove ci sono fiori.", "part": 0 },
+      { "text": "Grano e mais hanno bisogno delle api per fare i semi.", "true": false, "why": "Si impollinano soprattutto con il vento o da soli.", "part": 0 },
+      { "text": "Le api nomadi, in media, vivono un po' meno di quelle ferme.", "true": true, "why": "Il viaggio è uno stress; tanto cibo aiuta a recuperare.", "part": 1 },
+      { "text": "Conviene fare nomadismo anche verso posti poveri di fiori.", "true": false, "why": "Il viaggio stanca le api: vale la pena solo per fioriture ricche.", "part": 1 },
+      { "text": "Le arnie si chiudono di giorno, mentre le api bottinano.", "true": false, "why": "Si chiudono al tramonto, con le bottinatrici in casa.", "part": 2 },
+      { "text": "Il caldo è il pericolo più grande durante il trasporto.", "true": true, "why": "Le api chiuse e agitate scaldano l'arnia e rischiano di soffocare.", "part": 2 },
+      { "text": "Le arnie vicine si passano più facilmente la varroa.", "true": true, "why": "Deriva e saccheggi sono più frequenti quando le arnie sono vicine.", "part": 3 },
+      { "text": "Il codice civile chiede 10 metri dalle strade pubbliche.", "true": true, "why": "E cinque metri dai confini delle proprietà.", "part": 3 },
+      { "text": "Chi ha poche arnie non deve registrarsi all'anagrafe.", "true": false, "why": "Anche con una sola arnia bisogna registrarsi.", "part": 4 },
+      { "text": "Gli spostamenti temporanei non vanno mai comunicati.", "true": false, "why": "Anche gli spostamenti temporanei vanno registrati nella banca dati.", "part": 4 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 8,
+      "question": "Cosa fanno le api mentre raccolgono il nettare in un frutteto?",
+      "options": [
+        "Mangiano le foglie malate degli alberi",
+        "Tengono lontani gli insetti dannosi",
+        "Bevono la rugiada sulle foglie",
+        "Portano il polline da un fiore all'altro"
+      ],
+      "answer": 3,
+      "why": "È l'impollinazione: il polline passa da fiore a fiore e i fiori diventano frutti."
+    },
+    {
+      "part": 1,
+      "line": 8,
+      "question": "Il viaggio fa bene o male alle api?",
+      "options": [
+        "Le rende più forti contro la varroa",
+        "Non cambia niente, dormono tutto il tempo",
+        "Le stanca: sono chiuse, scosse e al caldo",
+        "Le fa diventare più buone e tranquille"
+      ],
+      "answer": 2,
+      "why": "Le api nomadi vivono un po' meno; un posto ricco di fiori le aiuta a recuperare."
+    },
+    {
+      "part": 2,
+      "line": 6,
+      "question": "Cosa succede in un'arnia chiusa e piena di api agitate d'estate?",
+      "options": [
+        "Si scalda tanto e le api rischiano di soffocare",
+        "Le api si addormentano subito per il buio",
+        "La cera diventa dura e si rompe",
+        "La regina smette di deporre per sempre"
+      ],
+      "answer": 0,
+      "why": "Il caldo è il nemico numero uno del trasporto: servono reti di ventilazione e niente soste al sole."
+    },
+    {
+      "part": 3,
+      "line": 2,
+      "question": "Cosa succede se in un posto con cento arnie ne porti altre cento?",
+      "options": [
+        "Le api fanno più miele tutte insieme",
+        "Le api si dividono gli stessi fiori",
+        "Le api cambiano colore per riconoscersi",
+        "Le api smettono di pungere per giorni"
+      ],
+      "answer": 1,
+      "why": "I fiori di una zona sono limitati: con il doppio delle arnie tutti raccolgono meno."
+    },
+    {
+      "part": 4,
+      "line": 6,
+      "question": "Perché lo Stato vuole sapere dove sono le api?",
+      "options": [
+        "Per contare il miele e mettere più tasse",
+        "Per decidere dove piantare nuovi alberi",
+        "Per vietare le api vicino alle città",
+        "Per sapere dove intervenire con le malattie"
+      ],
+      "answer": 3,
+      "why": "Se scoppia una malattia o arriva un parassita, i veterinari devono sapere subito quali apiari controllare."
+    }
+  ]
+}

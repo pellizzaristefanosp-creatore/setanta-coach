@@ -1,0 +1,175 @@
+{
+ "code": "6.3",
+ "order": [
+  {
+   "title": "Cosa fai se sospetti Aethina tumida",
+   "steps": [
+    "Non schiacci e non tocchi le larve",
+    "Chiudi l'arnia o il melario",
+    "Fai qualche foto chiara",
+    "Chiami il Servizio veterinario dell'ASL",
+    "Non sposti api né materiale",
+    "Segui le indicazioni dei veterinari"
+   ],
+   "slide": 1
+  },
+  {
+   "title": "Dalla raccolta alla smielatura sicura",
+   "steps": [
+    "Prepari il laboratorio pulito e asciutto",
+    "Togli i melari dalle arnie",
+    "Controlli i melari quando arrivano",
+    "Smieli entro uno o due giorni",
+    "Chiudi gli opercoli in contenitori",
+    "Lavi pavimento e attrezzi"
+   ],
+   "slide": 5
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi trovi nel terreno sotto le arnie",
+    "Esco dai favi quando ho mangiato abbastanza",
+    "Ho tre paia di zampette e spine sul dorso"
+   ],
+   "answer": "La larva del coleottero",
+   "distractors": [
+    "La larva della tarma",
+    "La larva della vespa",
+    "La larva della mosca"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Viaggio insieme a un piccolo coleottero",
+    "Cresco sul polline dell'alveare",
+    "Produco odori simili all'allarme delle api"
+   ],
+   "answer": "Il lievito Kodamaea",
+   "distractors": [
+    "Il fungo della muffa",
+    "Il batterio peste",
+    "Il virus delle ali"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Decido le misure in caso di focolaio",
+    "Ricevo le denunce delle malattie delle api",
+    "Mi chiami subito se sospetti il coleottero"
+   ],
+   "answer": "Il Servizio veterinario",
+   "distractors": [
+    "Il sindaco del paese",
+    "Il negozio di apicoltura",
+    "Il consorzio agrario"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Mi controllano spesso i veterinari",
+    "Ho trappole nascoste tra i favi",
+    "Servo a scoprire presto il coleottero"
+   ],
+   "answer": "L'arnia sentinella",
+   "distractors": [
+    "L'arnia da nucleo",
+    "L'arnia da sciame",
+    "L'arnia da miele"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi tagli con il coltello in laboratorio",
+    "Contengo ancora un po' di miele",
+    "Non devo restare in un angolo"
+   ],
+   "answer": "Gli opercoli",
+   "distractors": [
+    "Gli scarti",
+    "I telaini",
+    "I diaframmi"
+   ],
+   "slide": 5
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Aethina tumida è arrivata in Italia nel 2014, in Calabria.",
+   "true": true,
+   "why": "Trovata a settembre 2014 vicino al porto di Gioia Tauro.",
+   "slide": 1
+  },
+  {
+   "text": "Il coleottero è diffuso in tutta Italia da molti anni.",
+   "true": false,
+   "why": "È rimasto soprattutto in Calabria e nel nord-est della Sicilia, con pochi casi fuori.",
+   "slide": 1
+  },
+  {
+   "text": "Se sospetti il coleottero, devi avvisare l'ASL.",
+   "true": true,
+   "why": "È una malattia da denunciare per legge al Servizio veterinario.",
+   "slide": 1
+  },
+  {
+   "text": "Nella zona di protezione puoi spostare liberamente le tue api.",
+   "true": false,
+   "why": "Nella zona di protezione è vietato far uscire api, attrezzi e prodotti non lavorati.",
+   "slide": 1
+  },
+  {
+   "text": "Il danno maggiore lo fanno le larve del coleottero.",
+   "true": true,
+   "why": "Mangiano covata, polline e miele e lo fanno fermentare.",
+   "slide": 2
+  },
+  {
+   "text": "Le larve del coleottero filano ragnatele come la tarma.",
+   "true": false,
+   "why": "Le ragnatele sono tipiche della tarma della cera, non del coleottero.",
+   "slide": 2
+  },
+  {
+   "text": "Le larve si trasformano nel terreno vicino all'arnia.",
+   "true": true,
+   "why": "Escono dall'arnia e scendono a pochi centimetri sotto terra.",
+   "slide": 2
+  },
+  {
+   "text": "Tanti favi vuoti nell'arnia aiutano le api a difendersi.",
+   "true": false,
+   "why": "Favi senza api sono senza guardiani: il coleottero ci depone le uova.",
+   "slide": 3
+  },
+  {
+   "text": "Comprare api senza documenti sanitari è un rischio.",
+   "true": true,
+   "why": "Il coleottero viaggia con api e materiale spostati dall'uomo.",
+   "slide": 3
+  },
+  {
+   "text": "Contro il coleottero puoi usare un insetticida da giardino.",
+   "true": false,
+   "why": "Mai trattamenti fai da te: decide il veterinario, e l'insetticida avvelena api e miele.",
+   "slide": 4
+  },
+  {
+   "text": "Congelare i melari uccide uova e larve del coleottero.",
+   "true": true,
+   "why": "Il freddo intenso per almeno due giorni le uccide.",
+   "slide": 5
+  },
+  {
+   "text": "Un laboratorio caldo e umido protegge dal coleottero.",
+   "true": false,
+   "why": "L'umido favorisce le uova: il locale deve essere asciutto e arieggiato.",
+   "slide": 5
+  }
+ ]
+}

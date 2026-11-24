@@ -1,0 +1,418 @@
+{
+ "version": 1,
+ "code": "2.2",
+ "unit": 2,
+ "title": "L'arnia",
+ "pages": "43–58",
+ "summary": "Scopri come scegliere l'arnia, di che materiale, quanti telaini e cosa sono lo spazio d'ape e il fondo antivarroa. Poi conosci il favo naturale, il telaino equatore e le arnie top bar e Warré.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "La scelta",
+   "narration": "Ciao Enrica! Oggi entriamo in casa delle api: parliamo dell'arnia. Come sceglierla, di che materiale, quanti telaini, e le arnie con il favo naturale. Bene! Ma di arnie ce ne sono tante. Quale prendo? In Italia la più diffusa è la Dadant-Blatt, che chiamiamo DB. Nel mondo è molto usata anche la Langstroth. Sono casse di legno con dentro i telaini mobili. Mobili vuol dire che si tolgono? Sì, li sfili uno a uno, guardi i favi e li rimetti. Con le vecchie arnie a favo fisso, invece, per prendere il miele spesso si rovinava il nido. E come mai le api non incollano i telaini alle pareti? Grazie allo spazio d'ape. Il reverendo Langstroth, a metà Ottocento, usò un'osservazione semplice: le api lasciano libero un corridoio di pochi millimetri. Quanto, più o meno? Tra sei e nove millimetri. Secondo te, cosa fanno le api se lo spazio è più largo? Ci costruiscono dentro un pezzo di favo? Esatto, favi di troppo. E se è più stretto, lo chiudono con la propoli, una specie di colla fatta con le resine delle piante. Quindi l'arnia buona rispetta quella misura, così tutto si sfila senza strappi. Brava. E un consiglio pratico: scegli lo stesso modello degli apicoltori della tua zona. Così puoi scambiare telaini e attrezzi. Come avere la stessa moka della vicina: se ti manca la guarnizione, te la presta!",
+   "keyPoints": [
+    "In Italia la più diffusa è la Dadant-Blatt",
+    "Scegli lo stesso modello degli apicoltori vicini",
+    "Lo spazio d'ape misura circa 6–9 millimetri",
+    "Con lo spazio giusto i telaini si sfilano"
+   ],
+   "analogy": "Lo spazio d'ape è come il corridoio tra i mobili di casa: se è troppo stretto lo riempi di cose, se è troppo largo ci metti un altro mobile. Della misura giusta, resta libero per passare.",
+   "check": {
+    "question": "Cosa fanno le api in uno spazio più stretto dello spazio d'ape?",
+    "options": [
+     "Ci costruiscono un favo",
+     "Lo chiudono con la propoli",
+     "Ci depongono le uova",
+     "Ci mettono il polline"
+    ],
+    "answer": 1,
+    "explanation": "Gli spazi troppo stretti le api li sigillano con la propoli, una colla fatta di resine."
+   },
+   "science": {
+    "text": "Lo spazio d'ape è il corridoio che le api lasciano libero: circa 6–9 millimetri. Se lo spazio è più piccolo lo chiudono con la propoli, se è più grande ci costruiscono favi in più. Su questa misura si basa l'arnia a telaini mobili di Langstroth.",
+    "source": "Texas A&M AgriLife Extension, Beekeeping Equipment: Hive Boxes (ENTO-100)",
+    "url": "https://extensionentomology.tamu.edu/wp-content/uploads/2021/01/Beekeeping-Equipment-Hive-Boxes-ENTO-100.pdf"
+   },
+   "tip": "Prima di comprare, chiedi all'associazione che arnia usano in zona. Con lo stesso modello potrai scambiare telaini, melari e consigli con gli apicoltori vicini."
+  },
+  {
+   "slide": 2,
+   "title": "Materiali per la costruzione",
+   "narration": "Ora parliamo del materiale. Di cosa è fatta l'arnia classica? Di legno, immagino. Giusto. Di solito abete o pino, legni leggeri e facili da lavorare. Oggi ci sono anche arnie in polistirolo o in plastica. Il polistirolo? Come le cassette del pesce? Più o meno, ma più spesso e robusto. È leggero e isola bene, però si rovina se lo graffi, e non piace a tutti. E le api in natura dove vivono? Spesso nei tronchi cavi degli alberi, con pareti di legno spesse. Lì dentro la temperatura cambia poco tra il giorno e la notte. Allora le pareti spesse sono importanti? Molto. Secondo te, perché alle api serve una casa che non disperde il calore? Perché la covata deve stare al caldo, e se il calore scappa devono lavorare di più per scaldarla. Perfetto. Le api scaldano il nido facendo vibrare i muscoli del volo, e questo costa energia, cioè miele. Come scaldare la casa con le finestre aperte: la bolletta sale! Esatto. Un'ultima cosa: l'arnia di legno si protegge solo fuori, con prodotti adatti. Dentro si lascia naturale, perché le api la rivestono da sole con la propoli. Quindi legno buono, pareti senza fessure, e vernice solo all'esterno.",
+   "keyPoints": [
+    "Il legno è il materiale classico",
+    "Pareti spesse disperdono meno calore",
+    "Esistono anche arnie in polistirolo o plastica",
+    "Si protegge solo l'esterno, mai l'interno"
+   ],
+   "analogy": "È come una casa di campagna: i muri spessi la tengono fresca d'estate e calda d'inverno, una baracca di lamiera no.",
+   "check": {
+    "question": "Perché le pareti spesse sono utili all'arnia?",
+    "options": [
+     "Perché tengono lontane le formiche",
+     "Perché pesano di più col vento",
+     "Perché fanno entrare più luce",
+     "Perché disperdono meno calore"
+    ],
+    "answer": 3,
+    "explanation": "Meno calore disperso vuol dire meno fatica e meno miele consumato per scaldare la covata."
+   },
+   "science": {
+    "text": "Con simulazioni al computer, uno studio ha confrontato i nidi negli alberi, dalle pareti spesse, con le arnie dalle pareti sottili. Nelle arnie il calore si disperde molto di più e servono molte più api per tenere calda la covata. Le pareti contano.",
+    "source": "Mitchell 2024, Journal of Thermal Biology",
+    "url": "https://doi.org/10.1016/j.jtherbio.2024.103882"
+   },
+   "tip": "Se l'arnia è di legno grezzo, proteggi solo l'esterno con prodotti adatti e lascia l'interno naturale. Controlla che coperchio e fondo chiudano bene, senza fessure."
+  },
+  {
+   "slide": 3,
+   "title": "Numero di telaini per arnia",
+   "narration": "Parliamo di numeri. La Dadant-Blatt esiste in due misure: da dieci telaini e da dodici. Cambia solo la larghezza? Sì, nella dodici il nido è più largo. Il nido è la parte in basso, dove la regina depone e cresce la covata. E il miele dove va? Quello da raccogliere va nel melario, una cassetta più bassa che si mette sopra il nido quando arrivano le fioriture. Allora quale scelgo, dieci o dodici? Pensa anche a te: la dodici, piena, pesa di più. La dieci è più maneggevole e va bene per una famiglia normale. E le api cosa preferiscono? In natura scelgono di solito cavità tra trenta e sessanta litri. Non cercano un salone. E se metto una famiglia piccola in un nido grande? Secondo te, cosa succede? Fanno fatica a scaldare tutto quello spazio vuoto? Esatto. Per questo si usa il diaframma, una tavoletta mobile che stringe il nido ai soli telaini occupati dalle api. Come chiudere le stanze vuote d'inverno per scaldare solo quelle che usi! Brava. Man mano che la famiglia cresce, sposti il diaframma e aggiungi telaini, finché il nido è pieno. Poi arriva il momento del melario. Quindi prima il nido su misura, e il melario solo quando la famiglia è forte.",
+   "keyPoints": [
+    "La Dadant-Blatt esiste da 10 e da 12 telaini",
+    "Nel nido vivono regina e covata",
+    "Il miele da raccogliere va nel melario",
+    "Il diaframma stringe il nido a una famiglia piccola"
+   ],
+   "analogy": "È come scegliere la pentola: per una famiglia di quattro va bene quella media. Quella enorme è pesante da spostare e resta mezza vuota.",
+   "check": {
+    "question": "A cosa serve il diaframma nel nido?",
+    "options": [
+     "A dividere la regina dalle operaie",
+     "A raccogliere la varroa che cade",
+     "A stringere il nido ai telaini occupati",
+     "A chiudere l'entrata durante la notte"
+    ],
+    "answer": 2,
+    "explanation": "Il diaframma riduce lo spazio: una famiglia piccola scalda meglio un nido più stretto."
+   },
+   "science": {
+    "text": "Studiando 39 nidi selvatici negli alberi, i ricercatori hanno visto che le api scelgono di solito cavità tra 30 e 60 litri, con un'entrata piccola e in basso. È un'idea utile per capire quanto spazio serve davvero a una famiglia.",
+    "source": "Seeley e Morse 1976, Insectes Sociaux",
+    "url": "https://doi.org/10.1007/BF02223477"
+   },
+   "tip": "Se una famiglia è ancora piccola, non lasciarla in un nido troppo grande: usa il diaframma, una tavoletta mobile, per stringere lo spazio ai soli telaini occupati."
+  },
+  {
+   "slide": 4,
+   "title": "L'arnia con doppio melario e fondo mobile antivarroa",
+   "narration": "Guardiamo ora un'arnia moderna: fondo mobile antivarroa e, sopra, due melari. Cominciamo dal fondo. Cos'ha di speciale? Al posto del legno pieno c'è una rete metallica. Sotto la rete scorre un cassetto che puoi sfilare da dietro. E a cosa serve la rete? La varroa è un acaro, un parassita piccolissimo che vive sulle api. Quando cade, passa dalla rete e non riesce più a risalire. E il cassetto? Secondo te, perché è comodo poterlo sfilare? Per vedere cosa è caduto senza aprire l'arnia? Magari per contare le varroe. Esatto. Il cassetto racconta molto: varroe, briciole di cera, polline. È una finestra sulla famiglia. Come il cassettino delle briciole del tostapane! Proprio così. Ma attenzione: il fondo a rete aiuta, non cura. Contro la varroa servono comunque i trattamenti, seguendo l'etichetta e il veterinario. Chiaro. E i due melari, uno sopra l'altro, a cosa servono? Nelle fioriture forti, come l'acacia, un melario può riempirsi in fretta. Allora ne aggiungi un secondo, così le api hanno spazio per il nettare. E se non lo aggiungo? Le api si sentono strette e possono prepararsi a sciamare. Lo spazio dato al momento giusto le tiene più tranquille. Quindi rete e cassetto per controllare, secondo melario per dare spazio.",
+   "keyPoints": [
+    "Il fondo antivarroa ha una rete metallica",
+    "Sotto la rete scorre un cassetto estraibile",
+    "Il cassetto mostra cosa cade dai favi",
+    "Il secondo melario dà spazio nelle grandi fioriture"
+   ],
+   "analogy": "Il cassetto del fondo è come il cassettino delle briciole del tostapane: lo sfili e vedi subito cosa è caduto.",
+   "check": {
+    "question": "A cosa serve la rete del fondo antivarroa?",
+    "options": [
+     "Le varroe cadute passano e non risalgono",
+     "Le api entrano anche dal basso dell'arnia",
+     "Il miele in più scende nel cassetto",
+     "La regina passa da un piano all'altro"
+    ],
+    "answer": 0,
+    "explanation": "La varroa che cade attraversa la rete e non torna sulle api; nel cassetto la puoi vedere."
+   },
+   "science": {
+    "text": "Una meta-analisi, cioè uno studio che mette insieme altri studi, ha riunito 7 ricerche su 145 famiglie. Con il fondo a rete la varroa era in media più bassa che con il fondo di legno pieno. Da solo non basta: è un aiuto in più accanto ai trattamenti.",
+    "source": "Liu et al. 2020, Insects",
+    "url": "https://doi.org/10.3390/insects11090624"
+   },
+   "tip": "Ogni tanto sfila il cassetto e guarda cosa c'è: varroe, briciole di cera, polline. Ti racconta cosa succede dentro senza aprire l'arnia."
+  },
+  {
+   "slide": 5,
+   "title": "Il favo allargato e il favo naturale nel telaino equatore",
+   "narration": "Ora una questione che divide gli apicoltori: il favo allargato e il favo naturale. Ho sentito parlare di foglio cereo. Cos'è? È un foglio di cera con il disegno delle celle già stampato. Lo metti nel telaino e le api ci costruiscono sopra il favo, dritto e ordinato. Comodo! E dove sta il problema? Alcuni apicoltori sostengono che le celle stampate siano allargate, cioè più grandi di quelle che le api farebbero da sole. E che differenza fa? Secondo loro, con celle più piccole la varroa si riprodurrebbe peggio. Ma secondo te, cosa conviene fare prima di crederci? Controllare se qualcuno l'ha misurato davvero, con delle prove sulle api. Brava. Le prove ci sono, e le celle piccole non hanno frenato la varroa. Quindi controlli e trattamenti restano necessari. E il favo naturale nel telaino equatore? Che nome strano! È un telaino senza foglio cereo, con un listello di legno a metà altezza, come l'equatore sulla Terra. Le api costruiscono il favo da sole, appoggiandosi al listello. E perché il listello? Dà un appoggio in più al favo. Senza foglio, però, spesso le api costruiscono anche più celle da fuco. I fuchi sono i maschi, giusto? Esatto. Ed è bello osservare come lavorano le api quando sono libere di scegliere. Quindi il favo naturale è interessante, ma la varroa va controllata comunque.",
+   "keyPoints": [
+    "Il foglio cereo guida la costruzione del favo",
+    "Alcuni dicono che le celle stampate siano allargate",
+    "Le prove: la cella piccola non frena la varroa",
+    "Telaino equatore: listello a metà, favo costruito dalle api"
+   ],
+   "analogy": "Il foglio cereo è come il cartamodello per cucire: le api seguono il disegno. Senza, cuciono a mano libera, a modo loro.",
+   "check": {
+    "question": "Cosa hanno mostrato le prove sui favi a cella piccola?",
+    "options": [
+     "Che eliminano del tutto la varroa",
+     "Che fanno raddoppiare il miele raccolto",
+     "Che non frenano la crescita della varroa",
+     "Che rendono le api più aggressive"
+    ],
+    "answer": 2,
+    "explanation": "Le celle piccole non hanno fermato la varroa: controlli e trattamenti restano necessari."
+   },
+   "science": {
+    "text": "Un esperimento ha messo a confronto famiglie su favi a cella piccola e famiglie su favi normali, ripetendo la prova tre volte. La cella piccola non ha frenato la crescita della varroa. Oggi sappiamo che cambiare la misura delle celle non sostituisce i controlli e i trattamenti.",
+    "source": "Berry, Owens e Delaplane 2010, Apidologie",
+    "url": "https://doi.org/10.1051/apido/2009049"
+   },
+   "tip": "Se vuoi provare il favo naturale, metti un solo telaino senza foglio tra due favi già costruiti: le api tendono a farlo dritto, seguendo i vicini."
+  },
+  {
+   "slide": 6,
+   "title": "Le arnie con favo naturale",
+   "narration": "Ultima parte: le arnie con il favo naturale. Le più conosciute sono la top bar e la Warré. Top bar vuol dire…? Barra in alto, in inglese. È una cassa lunga e orizzontale, coperta da listelli di legno. Da ogni listello le api fanno pendere un favo. Senza telaino intorno? Senza. Il favo è attaccato solo in alto, per questo è fragile: quando lo sollevi, devi tenerlo sempre in verticale. E la Warré? Porta il nome di un sacerdote francese, l'abate Warré. Sono cassette piccole, una sopra l'altra, con listelli in alto. Le cassette nuove si aggiungono sotto, non sopra. Sotto? Perché? Secondo te, in un tronco d'albero, in che direzione costruiscono i favi le api? Dall'alto verso il basso: partono dal soffitto e scendono. Esatto. La Warré imita questo, e ha un nido piccolo e alto, un po' come un tronco cavo. E le api stanno meglio lì dentro? Uno studio dice che le famiglie in arnie piccole sciamano di più e hanno meno varroa. Ma il favo naturale non toglie il lavoro: anche qui la varroa va controllata. E per una principiante come me? Le visite sono più delicate e i favi non si scambiano con le arnie normali. Ti consiglio di partire con la DB e provare il resto più avanti. Come imparare a cucinare con la ricetta prima di improvvisare!",
+   "keyPoints": [
+    "Top bar: cassa lunga coperta da listelli",
+    "Warré: cassette piccole una sopra l'altra",
+    "Nella Warré le cassette nuove vanno sotto",
+    "Favi senza telaio: fragili, sempre in verticale"
+   ],
+   "analogy": "La top bar è come una fila di mestoli appesi in cucina: ogni listello regge il suo favo, che pende verso il basso.",
+   "check": {
+    "question": "Come si aggiungono le cassette nell'arnia Warré?",
+    "options": [
+     "Sopra quelle che ci sono già",
+     "Di fianco al nido, in orizzontale",
+     "Al posto di quelle più vecchie",
+     "Sotto quelle che ci sono già"
+    ],
+    "answer": 3,
+    "explanation": "Le api costruiscono dall'alto verso il basso, quindi la Warré cresce aggiungendo cassette sotto."
+   },
+   "science": {
+    "text": "In un esperimento di due anni, le famiglie in arnie piccole, da 42 litri, sciamavano di più ma avevano meno varroa, meno malattie e sopravvivevano meglio di quelle in arnie grandi. Lo spazio del nido cambia la vita della famiglia.",
+    "source": "Loftus, Smith e Seeley 2016, PLoS ONE",
+    "url": "https://doi.org/10.1371/journal.pone.0150362"
+   },
+   "tip": "Se scegli una top bar o una Warré, cerca un apicoltore che la usa già. Impara da lui a sollevare il favo senza spezzarlo: si tiene sempre in verticale."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Che cos'è lo spazio d'ape?",
+   "back": "Il corridoio di circa 6–9 millimetri che le api lasciano libero tra le parti dell'arnia.",
+   "part": 0
+  },
+  {
+   "front": "Cosa fanno le api in uno spazio troppo stretto?",
+   "back": "Lo chiudono con la propoli, una colla fatta di resine.",
+   "part": 0
+  },
+  {
+   "front": "Qual è il materiale classico dell'arnia?",
+   "back": "Il legno, di solito abete o pino.",
+   "part": 1
+  },
+  {
+   "front": "Che cos'è il melario?",
+   "back": "La cassetta più bassa sopra il nido, dove le api mettono il miele da raccogliere.",
+   "part": 2
+  },
+  {
+   "front": "A cosa serve il diaframma?",
+   "back": "A stringere il nido ai soli telaini occupati da una famiglia piccola.",
+   "part": 2
+  },
+  {
+   "front": "Cos'ha di speciale il fondo antivarroa?",
+   "back": "Una rete metallica e, sotto, un cassetto estraibile per vedere cosa cade.",
+   "part": 3
+  },
+  {
+   "front": "Che cos'è il foglio cereo?",
+   "back": "Un foglio di cera con il disegno delle celle già stampato.",
+   "part": 4
+  },
+  {
+   "front": "Che cos'è il telaino equatore?",
+   "back": "Un telaino senza foglio cereo, con un listello a metà, dove le api costruiscono il favo da sole.",
+   "part": 4
+  },
+  {
+   "front": "Come si aggiungono le cassette nella Warré?",
+   "back": "Sotto quelle che ci sono già, perché le api costruiscono dall'alto verso il basso.",
+   "part": 5
+  }
+ ],
+ "questions": [
+  {
+   "question": "Quale arnia è la più diffusa in Italia?",
+   "options": [
+    "L'arnia Dadant-Blatt",
+    "L'arnia Langstroth",
+    "L'arnia top bar",
+    "L'arnia di Warré"
+   ],
+   "answer": 0,
+   "explanation": "Da noi si usa soprattutto la Dadant-Blatt, chiamata DB.",
+   "part": 0
+  },
+  {
+   "question": "Quanto misura, più o meno, lo spazio d'ape?",
+   "options": [
+    "Tra 1 e 2 millimetri",
+    "Tra 6 e 9 millimetri",
+    "Tra 2 e 3 centimetri",
+    "Tra 15 e 20 millimetri"
+   ],
+   "answer": 1,
+   "explanation": "Circa 6–9 millimetri: più stretto diventa propoli, più largo diventa favo.",
+   "part": 0
+  },
+  {
+   "question": "Come scaldano il nido le api?",
+   "options": [
+    "Con i muscoli del volo, consumando miele",
+    "Con il calore del sole che entra dall'alto",
+    "Con la cera, che produce calore da sola",
+    "Con il polline, che fermenta nelle celle"
+   ],
+   "answer": 0,
+   "explanation": "Fanno vibrare i muscoli del volo: il calore costa energia, cioè miele.",
+   "part": 1
+  },
+  {
+   "question": "Dove vivono spesso le api in natura?",
+   "options": [
+    "In buche scavate nel terreno",
+    "Appese ai rami all'aria aperta",
+    "Nei tronchi cavi degli alberi",
+    "Dentro vecchi nidi di uccelli"
+   ],
+   "answer": 2,
+   "explanation": "Nei tronchi cavi, con pareti spesse che tengono la temperatura stabile.",
+   "part": 1
+  },
+  {
+   "question": "In quali misure esiste la Dadant-Blatt?",
+   "options": [
+    "Da 5 e da 8 telaini",
+    "Da 15 e da 20 telaini",
+    "Da 3 e da 6 telaini",
+    "Da 10 e da 12 telaini"
+   ],
+   "answer": 3,
+   "explanation": "La DB si trova da 10 e da 12 telaini; la 12 ha il nido più largo.",
+   "part": 2
+  },
+  {
+   "question": "Dove raccoglie il miele l'apicoltore, nell'arnia DB?",
+   "options": [
+    "Nel cassetto, sotto la rete",
+    "Nel melario, sopra il nido",
+    "Nel diaframma, accanto al nido",
+    "Nel coprifavo, sotto il tetto"
+   ],
+   "answer": 1,
+   "explanation": "Il miele da raccogliere sta nel melario; quello del nido resta alle api.",
+   "part": 2
+  },
+  {
+   "question": "Che cavità scelgono di solito le api selvatiche, secondo lo studio sui nidi negli alberi?",
+   "options": [
+    "Tra 30 e 60 litri",
+    "Tra 5 e 10 litri",
+    "Tra 200 e 300 litri",
+    "Tra 1 e 2 litri"
+   ],
+   "answer": 0,
+   "explanation": "Studiando 39 nidi selvatici, la maggior parte era tra 30 e 60 litri.",
+   "part": 2
+  },
+  {
+   "question": "Cosa si trova sul cassetto del fondo antivarroa?",
+   "options": [
+    "Uova, larve e pupe della regina",
+    "Miele, nettare e acqua piovana",
+    "Varroe, briciole di cera e polline",
+    "Api morte e celle reali intere"
+   ],
+   "answer": 2,
+   "explanation": "Sul cassetto cade quello che si stacca dai favi: è una finestra sulla famiglia.",
+   "part": 3
+  },
+  {
+   "question": "Cosa ha mostrato la meta-analisi sul fondo a rete?",
+   "options": [
+    "Varroa sparita del tutto senza cure",
+    "Più miele raccolto ma più varroa",
+    "Nessuna differenza dal fondo pieno",
+    "Varroa più bassa che col fondo pieno"
+   ],
+   "answer": 3,
+   "explanation": "Mettendo insieme 7 studi, la varroa era più bassa col fondo a rete. Ma da solo non basta.",
+   "part": 3
+  },
+  {
+   "question": "Perché si aggiunge un secondo melario?",
+   "options": [
+    "Per dare spazio alle api nelle grandi fioriture",
+    "Per dare più calore al nido durante l'inverno",
+    "Per far deporre la regina più in alto nell'arnia",
+    "Per raccogliere meglio la varroa che cade giù"
+   ],
+   "answer": 0,
+   "explanation": "Se il primo melario si riempie, le api hanno bisogno di spazio, o possono prepararsi a sciamare.",
+   "part": 3
+  },
+  {
+   "question": "Che cos'è il foglio cereo?",
+   "options": [
+    "Un foglio di carta per coprire i telaini",
+    "Un foglio di cera con le celle già stampate",
+    "Un foglio di plastica sotto il fondo a rete",
+    "Un foglio di legno che divide il nido"
+   ],
+   "answer": 1,
+   "explanation": "Le api costruiscono il favo seguendo il disegno stampato sulla cera.",
+   "part": 4
+  },
+  {
+   "question": "Che cos'è il telaino equatore?",
+   "options": [
+    "Un telaino con due fogli cerei incollati",
+    "Un telaino largo il doppio degli altri",
+    "Un telaino di plastica con celle piccole",
+    "Un telaino con un listello a metà, senza foglio"
+   ],
+   "answer": 3,
+   "explanation": "Il listello a metà altezza dà appoggio al favo che le api costruiscono da sole.",
+   "part": 4
+  },
+  {
+   "question": "Come si tiene un favo naturale quando lo sollevi?",
+   "options": [
+    "Sempre in orizzontale, come un vassoio",
+    "Inclinato, per far colare il miele",
+    "Sempre in verticale, per non spezzarlo",
+    "Capovolto, per vedere bene le celle"
+   ],
+   "answer": 2,
+   "explanation": "Il favo naturale è attaccato solo in alto: girato di piatto si può staccare.",
+   "part": 5
+  },
+  {
+   "question": "Cosa hanno mostrato le famiglie in arnie piccole, nell'esperimento di due anni?",
+   "options": [
+    "Sciamavano di meno e avevano più miele",
+    "Non sciamavano mai e vivevano meno",
+    "Sciamavano di più e morivano prima",
+    "Sciamavano di più e avevano meno varroa"
+   ],
+   "answer": 3,
+   "explanation": "Nelle arnie da 42 litri: più sciami, meno varroa, meno malattie e più sopravvivenza.",
+   "part": 5
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Il ponte di cera",
+   "prompt": "«Apri l'arnia e vedi che tra due telaini le api hanno costruito un pezzo di favo che li unisce.» Cosa fai?",
+   "modelAnswer": "È un segnale che lo spazio d'ape non è rispettato: tra quei telaini c'è più spazio del dovuto, forse perché sono troppo distanti o manca un telaino. Con calma e un po' di fumo, stacco con la leva il pezzo di favo di troppo, facendo attenzione a non schiacciare api e a controllare che la regina non sia lì sopra. Poi riavvicino bene i telaini, così il corridoio torna di pochi millimetri. Se lo spazio vuoto è grande, aggiungo un telaino o sposto il diaframma. La cera tolta non la lascio vicino all'arnia, per non attirare altre api."
+  },
+  {
+   "title": "Il cassetto pieno di varroe",
+   "prompt": "«Sfili il cassetto del fondo a rete e trovi tante varroe cadute.» Cosa fai?",
+   "modelAnswer": "Non mi spavento, ma lo prendo sul serio: tante varroe sul cassetto possono voler dire che la famiglia ne ha molte. Annoto il numero e la data, così posso confrontare nel tempo e con l'altro alveare. Poi chiedo subito consiglio all'associazione o al veterinario per decidere se e come trattare. Ricordo che il fondo a rete aiuta, ma non cura da solo. Per i trattamenti si usano solo prodotti autorizzati, come quelli a base di acido ossalico, acido formico o timolo, seguendo sempre l'etichetta e il veterinario, e registrandoli come previsto."
+  },
+  {
+   "title": "Una top bar in regalo",
+   "prompt": "«Un'amica ti regala una vecchia arnia top bar. Tu hai appena iniziato con due DB.» Cosa fai?",
+   "modelAnswer": "La ringrazio e la tengo da parte per più avanti. Nella top bar i favi pendono solo da un listello, senza telaio: sono fragili e si sollevano sempre in verticale, e non si possono scambiare con i telaini delle mie DB. All'inizio mi conviene imparare bene con le arnie che usano tutti in zona. Intanto controllo che la top bar sia sana, senza fessure e senza vecchia cera sporca. Quando avrò più esperienza, cercherò un apicoltore che la usa già e mi farò mostrare come si gestisce, ricordando che anche lì la varroa va controllata."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "code": "5.5",
+ "turns": [
+  {
+   "part": 0,
+   "line": 0,
+   "question": "Dove trovano le api la materia prima della propoli?",
+   "options": [
+    "Nei fiori",
+    "Nelle pozze",
+    "Sulle piante",
+    "Nei favi vecchi"
+   ],
+   "answer": 2,
+   "why": "Le api raccolgono resine dalle gemme e dalle ferite delle piante."
+  },
+  {
+   "part": 1,
+   "line": 6,
+   "question": "Che cosa fanno le api con un topolino morto nell'arnia?",
+   "options": [
+    "Lo coprono di propoli",
+    "Lo spingono nel melario",
+    "Lo lasciano dove si trova",
+    "Lo mangiano piano piano"
+   ],
+   "answer": 0,
+   "why": "Non riescono a portarlo fuori, quindi lo imbalsamano con la propoli."
+  },
+  {
+   "part": 2,
+   "line": 6,
+   "question": "Da che cosa dipende la ricetta della propoli?",
+   "options": [
+    "Dall'età della regina",
+    "Dalla forma dell'arnia",
+    "Dal colore dei telaini",
+    "Dalle piante vicine"
+   ],
+   "answer": 3,
+   "why": "Le resine vengono dalle piante intorno all'apiario: cambiano gli alberi, cambia la propoli."
+  },
+  {
+   "part": 3,
+   "line": 2,
+   "question": "Che cosa fanno le api se nella famiglia c'è un fungo?",
+   "options": [
+    "Smettono di bottinare",
+    "Raccolgono più resina",
+    "Cambiano subito la regina",
+    "Mangiano tutto il polline"
+   ],
+   "answer": 1,
+   "why": "Uno studio ha visto più raccolta di resina dopo il contatto con il fungo."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Come si rende fragile la propoli appiccicosa?",
+   "options": [
+    "Con il freddo",
+    "Con il caldo",
+    "Con l'acqua",
+    "Con il sale"
+   ],
+   "answer": 0,
+   "why": "In congelatore la propoli diventa dura e si stacca in pezzetti."
+  },
+  {
+   "part": 5,
+   "line": 8,
+   "question": "Che cosa può succedere a chi tocca spesso la propoli?",
+   "options": [
+    "Le unghie crescono più forti",
+    "Può avere pelle rossa che prude",
+    "Le mani restano sempre calde",
+    "Non viene più punto dalle api"
+   ],
+   "answer": 1,
+   "why": "La propoli può dare dermatite allergica da contatto, anche agli apicoltori."
+  }
+ ]
+}

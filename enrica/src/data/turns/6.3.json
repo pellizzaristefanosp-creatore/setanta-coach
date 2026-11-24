@@ -1,0 +1,70 @@
+{
+ "code": "6.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 5,
+   "question": "Perché il coleottero è comparso proprio vicino a un grande porto?",
+   "options": [
+    "Perché lì il clima è più caldo che altrove",
+    "Perché lì ci sono più fiori per le api",
+    "Perché lì arrivano navi e merci dal mondo",
+    "Perché lì gli apicoltori fanno meno visite"
+   ],
+   "answer": 2,
+   "why": "Nei porti arrivano merci da tutto il mondo: un insetto può viaggiare nascosto. Per questo si sorvegliano."
+  },
+  {
+   "part": 1,
+   "line": 7,
+   "question": "Cosa possono fare le api in un'arnia rovinata dal coleottero?",
+   "options": [
+    "Possono abbandonarla e scappare",
+    "Possono chiuderla con la cera",
+    "Possono mangiarsi tutte le larve",
+    "Possono costruire favi nuovi sopra"
+   ],
+   "answer": 0,
+   "why": "Con il miele fermentato e i favi rovinati, a volte la famiglia lascia l'arnia."
+  },
+  {
+   "part": 2,
+   "line": 3,
+   "question": "Cosa succede se nell'arnia ci sono tanti favi e poche api?",
+   "options": [
+    "Le api fanno più miele del solito",
+    "La regina depone più uova di prima",
+    "Le api si scaldano meglio d'inverno",
+    "I favi restano senza guardiani"
+   ],
+   "answer": 3,
+   "why": "Senza api a sorvegliare, il coleottero trova angoli liberi per deporre le uova."
+  },
+  {
+   "part": 3,
+   "line": 7,
+   "question": "Perché è giusto distruggere poche arnie infestate subito?",
+   "options": [
+    "Per avere un rimborso più alto dallo Stato",
+    "Per non perdere le arnie di tutta la zona",
+    "Per provare nuove regine più resistenti",
+    "Per liberare il terreno per altre arnie"
+   ],
+   "answer": 1,
+   "why": "Un piccolo sacrificio presto evita che il coleottero si diffonda e colpisca molti apiari."
+  },
+  {
+   "part": 4,
+   "line": 3,
+   "question": "Qual è la prima regola contro il coleottero in laboratorio?",
+   "options": [
+    "Lasciare i melari al caldo qualche giorno",
+    "Tenere le finestre chiuse tutta l'estate",
+    "Smielare presto, senza tenere fermi i melari",
+    "Lavare i melari con acqua prima di smielare"
+   ],
+   "answer": 2,
+   "why": "I melari fermi non hanno guardiani: smielare presto non lascia tempo alle larve di crescere."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "code": "7.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 4,
+   "question": "Il peso scritto in etichetta comprende anche il vasetto?",
+   "options": [
+    "Sì, comprende vasetto e coperchio",
+    "No, solo il miele senza il vetro",
+    "Sì, ma solo per i vasetti piccoli",
+    "No, solo il vetro senza il miele"
+   ],
+   "answer": 1,
+   "why": "La quantità netta è il peso del solo miele, senza contenitore."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Perché si è arrivati a scrivere paesi e percentuali nelle miscele?",
+   "options": [
+    "Perché così il miele costa meno",
+    "Perché le etichette erano troppo vuote",
+    "Perché chi compra vuole sapere l'origine vera",
+    "Perché lo chiedono gli apicoltori stranieri"
+   ],
+   "answer": 2,
+   "why": "È una questione di trasparenza: chi compra vuole sapere da dove viene il miele e in che misura."
+  },
+  {
+   "part": 2,
+   "line": 6,
+   "question": "Che cosa si cerca al microscopio nel miele?",
+   "options": [
+    "Le uova della regina",
+    "I granuli di polline",
+    "I cristalli di sale",
+    "Le scaglie di cera"
+   ],
+   "answer": 1,
+   "why": "Ogni fiore ha il suo polline: guardandolo si capisce da quali piante viene il miele."
+  },
+  {
+   "part": 3,
+   "line": 2,
+   "question": "Che cosa succede alla striscia del sigillo quando apri il vasetto?",
+   "options": [
+    "Cambia colore",
+    "Si allunga",
+    "Si scolla",
+    "Si strappa"
+   ],
+   "answer": 3,
+   "why": "Il sigillo si rompe all'apertura: se è intero, nessuno ha aperto il vasetto prima."
+  },
+  {
+   "part": 4,
+   "line": 4,
+   "question": "Quale regola vale per tutti gli alimenti, non solo per il miele?",
+   "options": [
+    "Non si può dire che un cibo cura malattie",
+    "Non si può scrivere il nome del produttore",
+    "Non si può mostrare la foto del prodotto",
+    "Non si può indicare il mese di raccolta"
+   ],
+   "answer": 0,
+   "why": "Il regolamento europeo vieta di attribuire a un alimento il potere di prevenire o curare malattie."
+  }
+ ]
+}

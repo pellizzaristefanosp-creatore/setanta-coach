@@ -1,0 +1,174 @@
+{
+ "code": "5.4",
+ "order": [
+  {
+   "title": "Produrre pappa reale con le celle artificiali",
+   "steps": [
+    "Prepara una famiglia forte e ben nutrita",
+    "Togli o isola la regina",
+    "Sposta larve di un giorno nei cupolini",
+    "Metti il telaino nella zona senza regina",
+    "Dopo circa tre giorni togli le larve",
+    "Raccogli la pappa e mettila al fresco"
+   ],
+   "slide": 5
+  },
+  {
+   "title": "Dalla raccolta al vasetto",
+   "steps": [
+    "Raccogli la pappa dai cupolini",
+    "Mettila in vasetti puliti e scuri",
+    "Chiudi bene i vasetti",
+    "Scrivi la data di raccolta",
+    "Metti i vasetti in frigo o congelatore"
+   ],
+   "slide": 6
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Ho una punta sottile e flessibile",
+    "Mi usi per spostare piccolissime vite",
+    "Con me fai il picking nei cupolini"
+   ],
+   "answer": "Il coglilarva",
+   "distractors": [
+    "Lo smielatore",
+    "L'affumicatore",
+    "Il raschietto"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Pendo dal favo verso il basso",
+    "Somiglio a una ghianda",
+    "Dentro di me cresce la futura regina"
+   ],
+   "answer": "La cella reale",
+   "distractors": [
+    "La cella da fuco",
+    "La cella operaia",
+    "La celletta del miele"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Più della metà di me è acqua",
+    "Contengo un grasso tipico, il 10-HDA",
+    "Nutro la futura regina per tutta la crescita"
+   ],
+   "answer": "La pappa reale",
+   "distractors": [
+    "La propoli",
+    "La cera d'api",
+    "La melata"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Siamo operaie di pochi giorni",
+    "Abbiamo ghiandole speciali nella testa",
+    "Prepariamo la pappa per le larve"
+   ],
+   "answer": "Le nutrici",
+   "distractors": [
+    "Le bottinatrici",
+    "Le guardiane",
+    "Le ceraiole"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Con me la pappa resta buona più a lungo",
+    "Tengo intatti gli enzimi per almeno un anno",
+    "Sono più freddo del frigorifero"
+   ],
+   "answer": "Il congelatore",
+   "distractors": [
+    "Il davanzale",
+    "Lo scaffale",
+    "Il forno"
+   ],
+   "slide": 6
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La pappa reale la produce la regina.",
+   "true": false,
+   "why": "La regina la mangia: la producono le nutrici con ghiandole della testa.",
+   "slide": 1
+  },
+  {
+   "text": "Tutte le larve ricevono pappa reale nei primi giorni.",
+   "true": true,
+   "why": "Poi solo la futura regina continua a riceverla in abbondanza.",
+   "slide": 1
+  },
+  {
+   "text": "Oggi sappiamo che una sola proteina decide chi diventa regina.",
+   "true": false,
+   "why": "Uno studio del 2016 ha visto che conta l'insieme del cibo, non una proteina.",
+   "slide": 1
+  },
+  {
+   "text": "Le celle reali pendono verso il basso.",
+   "true": true,
+   "why": "La pappa densa tiene la larva attaccata in alto.",
+   "slide": 2
+  },
+  {
+   "text": "Nelle celle delle operaie la pappa abbonda come nelle reali.",
+   "true": false,
+   "why": "Nelle celle normali ce n'è poca; abbonda nelle celle reali.",
+   "slide": 2
+  },
+  {
+   "text": "Più della metà della pappa reale è acqua.",
+   "true": true,
+   "why": "Il resto sono proteine, zuccheri, grassi, sali e vitamine.",
+   "slide": 3
+  },
+  {
+   "text": "La pappa reale è un farmaco approvato.",
+   "true": false,
+   "why": "È un alimento: sull'uomo le prove di benefici sono poche.",
+   "slide": 3
+  },
+  {
+   "text": "La pappa reale può causare reazioni allergiche gravi.",
+   "true": true,
+   "why": "Sono descritti casi di asma e anafilassi, soprattutto in persone allergiche.",
+   "slide": 3
+  },
+  {
+   "text": "Una famiglia debole produce tanta pappa reale.",
+   "true": false,
+   "why": "Servono famiglie forti, con tante nutrici e cibo abbondante.",
+   "slide": 4
+  },
+  {
+   "text": "Il traslarvo si fa con larve giovanissime.",
+   "true": true,
+   "why": "Si scelgono larve di circa un giorno.",
+   "slide": 5
+  },
+  {
+   "text": "La pappa si raccoglie dopo circa tre settimane.",
+   "true": false,
+   "why": "Si raccoglie di solito dopo circa tre giorni.",
+   "slide": 5
+  },
+  {
+   "text": "La pappa reale si conserva bene al caldo e alla luce.",
+   "true": false,
+   "why": "Teme caldo, luce e aria: va in frigo o congelatore, al buio.",
+   "slide": 6
+  }
+ ]
+}

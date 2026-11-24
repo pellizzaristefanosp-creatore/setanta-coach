@@ -1,0 +1,445 @@
+{
+ "version": 1,
+ "code": "6.2",
+ "unit": 6,
+ "title": "La varroatosi",
+ "pages": "277–298",
+ "summary": "Conosci la varroa, l'acaro che è il nemico numero uno delle api: da dove viene, come vive, come si conta e come si diffonde. Impari a tenerla bassa con le tecniche apistiche e con i prodotti autorizzati, sempre scritti nel registro.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Da dove proviene",
+   "narration": "Ciao Enrica! Oggi c'è un capitolo intero per un solo nemico: la varroa. È un acaro, e la malattia che causa si chiama varroatosi. Ne parlano tutti gli apicoltori. Da dove arriva? Arriva dall'Asia. Il suo ospite naturale è l'ape asiatica, l'Apis cerana, che ha imparato a conviverci. E poi è passata sulle nostre api? Sì, nel secolo scorso è saltata sull'ape occidentale, la nostra Apis mellifera. Con il commercio di api si è sparsa in quasi tutto il mondo. E in Italia quando è arrivata? È stata segnalata la prima volta nel 1981, vicino a Gorizia, al confine con la Slovenia. In pochi anni era in tutta Italia. Così in fretta? Eh sì. Secondo te, che cosa l'ha portata così lontano e così veloce? Gli apicoltori stessi, spostando alveari e vendendo regine? Brava. Il commercio di regine e il nomadismo, cioè portare gli alveari in posti diversi per le fioriture. Un tempo la chiamavano Varroa jacobsoni. Perché ha cambiato nome? Nel 2000 due ricercatori hanno visto che erano specie diverse. Quella che rovina le nostre api si chiama Varroa destructor. Destructor: il nome dice già tutto. Ma oggi la si può eliminare del tutto? No, ormai c'è ovunque in Italia. Si convive, tenendola bassa ogni anno. Allora non è un nemico di passaggio: è un inquilino fisso da controllare.",
+   "keyPoints": [
+    "Ospite originale: l'ape asiatica, Apis cerana",
+    "Nel secolo scorso è passata sulla nostra Apis mellifera",
+    "In Italia segnalata nel 1981 vicino a Gorizia",
+    "Diffusa con commercio di regine e nomadismo",
+    "Dal 2000 si chiama Varroa destructor"
+   ],
+   "analogy": "La varroa è come una pianta infestante arrivata da lontano: nel suo paese era tenuta a bada, da noi ha trovato un orto senza difese e si è allargata ovunque.",
+   "check": {
+    "question": "Qual è l'ospite originale della varroa?",
+    "options": [
+     "L'ape nera siciliana, Apis sicula",
+     "L'ape asiatica, Apis cerana",
+     "Il bombo dei nostri prati",
+     "La vespa delle nostre case"
+    ],
+    "answer": 1,
+    "explanation": "La varroa viveva sull'ape asiatica, che ha imparato a conviverci; poi è passata sulla nostra ape."
+   },
+   "science": {
+    "text": "Nel 2000 due ricercatori australiani hanno studiato gli acari dell'ape asiatica in tutta l'Asia. Hanno scoperto che quella chiamata «Varroa jacobsoni» era in realtà almeno due specie. Quella che danneggia le nostre api nel mondo ha ricevuto un nome nuovo: Varroa destructor.",
+    "source": "Anderson & Trueman 2000, Experimental and Applied Acarology",
+    "url": "https://doi.org/10.1023/a:1006456720416"
+   },
+   "tip": "Quando compri api o regine, chiedi sempre da dove vengono e come sono state trattate. Ogni famiglia nuova porta con sé anche le sue varroe."
+  },
+  {
+   "slide": 2,
+   "title": "Come vive l'acaro e come si sviluppa",
+   "narration": "Vediamo come vive la varroa. È un acaro rossiccio, grande come una capocchia di spillo: la vedi anche a occhio nudo. Dove sta, sulle api? Ha due fasi. Nella fase di dispersione, un tempo detta foretica, la femmina viaggia sulle api adulte, nascosta tra gli anelli della pancia. Come un passeggero senza biglietto. E l'altra fase? La fase di riproduzione. Poco prima che la cella venga chiusa, la femmina entra e si nasconde sotto la larva. Sotto il tappo depone le uova. Quindi i figli crescono dentro la cella chiusa, al sicuro. Sì, e si nutrono della pupa. Quando l'ape nasce, escono anche le nuove varroe. Secondo te, perché la varroa preferisce la covata dei fuchi? Forse perché la cella resta chiusa più a lungo e nascono più figli? Esatto. I fuchi restano opercolati qualche giorno in più, e la varroa fa più figlie. Per questo la covata maschile ne è piena. E di cosa si nutre? Del sangue delle api? Si pensava così. Ma nel 2019 uno studio ha mostrato che mangia soprattutto il corpo grasso, un tessuto che somiglia un po' al nostro fegato. E il corpo grasso a cosa serve? Alle difese, a smaltire i veleni e a passare l'inverno. Per questo un'ape punta dalla varroa è più debole. Allora non toglie solo nutrimento: toglie proprio la salute di scorta.",
+   "keyPoints": [
+    "Fase di dispersione: la femmina viaggia sulle api adulte",
+    "Si riproduce solo nella covata opercolata",
+    "Preferisce la covata dei fuchi: più figlie",
+    "Mangia soprattutto il corpo grasso delle api",
+    "Il corpo grasso serve a difese e inverno"
+   ],
+   "analogy": "La varroa che entra nella cella è come un ospite che si chiude in dispensa prima che tu chiuda a chiave: dentro ha cibo e tranquillità per far crescere la sua famiglia.",
+   "check": {
+    "question": "Dove si riproduce la varroa?",
+    "options": [
+     "Nelle celle con il miele maturo",
+     "Sul fondo dell'arnia, tra i detriti",
+     "Sulle ali delle api bottinatrici",
+     "Nelle celle di covata opercolata"
+    ],
+    "answer": 3,
+    "explanation": "La femmina entra nella cella poco prima della chiusura e depone le uova sotto il tappo."
+   },
+   "science": {
+    "text": "Per decenni si è pensato che la varroa bevesse l'emolinfa, il sangue delle api. Uno studio del 2019 ha mostrato che mangia soprattutto il corpo grasso: un tessuto importante per le difese, per eliminare i veleni e per superare l'inverno.",
+    "source": "Ramsey et al. 2019, PNAS",
+    "url": "https://doi.org/10.1073/pnas.1818371116"
+   },
+   "tip": "Quando guardi un favo di covata maschile opercolata, prova ad aprire qualche cella con una forchetta da disopercolare: vedrai le varroe sulle pupe bianche."
+  },
+  {
+   "slide": 3,
+   "title": "Come si riconosce",
+   "narration": "Ora: come capisci quante varroe hai? Se le vedi sulle api a occhio nudo, di solito sono già tante. Allora devo contarle prima che si vedano? Sì. Il metodo più semplice è la caduta naturale. Metti un vassoio sotto il fondo a rete e conti le varroe cadute ogni giorno. Come contare le briciole sotto la tavola. Bella immagine. Poi c'è lo zucchero a velo. Metti un campione di api in un barattolo con il coperchio a rete, aggiungi zucchero a velo e scuoti. E le varroe cadono con lo zucchero? Sì: lo zucchero le fa staccare. Le setacci su un foglio bianco e le conti. Le api, tutte bianche, tornano nell'arnia. E il lavaggio con l'alcol? Funziona allo stesso modo, ma le api muoiono. Secondo te, perché le api si prendono da un favo con covata? Perché lì ci sono le api giovani, dove la varroa sta di più? Brava, le nutrici portano più varroe. Poi guarda anche le api: ali accartocciate vogliono dire virus delle ali deformi. Il virus lo porta la varroa? Sì, la varroa lo trasmette mentre si nutre. Se vedi molte api così, le varroe sono già troppe. Quindi conto spesso, e non aspetto di vedere i danni.",
+   "keyPoints": [
+    "Se vedi varroe sulle api, sono già tante",
+    "Caduta naturale: vassoio sotto il fondo a rete",
+    "Zucchero a velo: si contano senza uccidere api",
+    "Lavaggio con alcol: preciso, ma le api muoiono",
+    "Ali accartocciate: virus delle ali deformi"
+   ],
+   "analogy": "Contare la varroa è come pesarsi ogni tanto: non aspetti che i pantaloni non si chiudano più, controlli prima e correggi in tempo.",
+   "check": {
+    "question": "Che cosa misura la «caduta naturale»?",
+    "options": [
+     "Le varroe cadute sul vassoio sotto il fondo",
+     "Le api morte cadute davanti alla porticina",
+     "Il miele colato sul fondo dopo la smielatura",
+     "Le larve cadute dalle celle dopo il freddo"
+    ],
+    "answer": 0,
+    "explanation": "Si mette un vassoio sotto il fondo a rete e si contano le varroe cadute ogni giorno."
+   },
+   "science": {
+    "text": "Un manuale internazionale di metodi standard, scritto da ricercatori di molti paesi, descrive i modi per misurare la varroa, come la caduta sul fondo e i campioni di api adulte, con pregi e difetti di ciascuno. Serve perché tutti misurino nello stesso modo.",
+    "source": "Dietemann et al. 2013, Journal of Apicultural Research",
+    "url": "https://doi.org/10.3896/IBRA.1.52.1.09"
+   },
+   "tip": "Scegli un metodo e usalo sempre allo stesso modo, così puoi confrontare i numeri. Segna su un quaderno data, arnia e varroe contate."
+  },
+  {
+   "slide": 4,
+   "title": "Come si diffonde",
+   "narration": "Adesso vediamo come passa la varroa da un alveare all'altro. Lei non vola: viaggia sulle api. Quindi sono le api che la portano in giro. Sì, in due modi. Il primo è la deriva: un'ape torna a casa e sbaglia arnia, magari perché le arnie sono tutte uguali e vicine. Come entrare nel portone sbagliato di un condominio! Proprio. Il secondo è il saccheggio, cioè api che rubano miele a un'altra famiglia. Secondo te, quale famiglia viene saccheggiata più facilmente? Una famiglia debole, che non riesce più a difendersi? Esatto. E una famiglia che sta crollando per la varroa è debole. Le api ladre entrano, rubano e tornano a casa con le varroe addosso. Che brutto regalo da portare a casa. Uno studio americano del 2019 lo ha visto bene: le famiglie sane si sono riempite di varroe dopo aver saccheggiato quelle che crollavano. Allora una sola arnia trascurata mette nei guai tutto il vicinato. Sì, anche gli apiari di altri apicoltori. Per questo conviene mettersi d'accordo con chi ha api nella stessa zona. E io cosa posso fare nel mio apiario? Arnie di colori diversi e non tutte in fila, porticine strette quando c'è poco nettare, e niente miele lasciato in giro. Colori diversi, porte strette e cucina pulita: me lo ricordo.",
+   "keyPoints": [
+    "La varroa non vola: viaggia sulle api",
+    "Deriva: api che sbagliano arnia al ritorno",
+    "Saccheggio: api che rubano a famiglie deboli",
+    "Una famiglia che crolla contagia il vicinato",
+    "Colori diversi e porticine strette aiutano"
+   ],
+   "analogy": "Una famiglia che crolla per la varroa è come una casa abbandonata con la dispensa aperta: arrivano i ladri, prendono il cibo e si portano via anche i pidocchi.",
+   "check": {
+    "question": "Che cos'è la deriva?",
+    "options": [
+     "Il volo della regina per l'accoppiamento",
+     "Lo sciame che lascia l'arnia in primavera",
+     "Un'ape che rientra nell'arnia sbagliata",
+     "Il vento che porta via le api in volo"
+    ],
+    "answer": 2,
+    "explanation": "Nella deriva un'ape sbaglia casa al ritorno, spesso perché le arnie sono uguali e vicine, e porta con sé le varroe."
+   },
+   "science": {
+    "text": "Uno studio americano ha messo famiglie quasi senza varroe vicino a famiglie molto infestate. Quando queste sono crollate e sono state saccheggiate, tante varroe sono passate alle famiglie sane, anche lontane. Gli autori le chiamano «esche per ladri».",
+    "source": "Peck & Seeley 2019, PLOS ONE",
+    "url": "https://doi.org/10.1371/journal.pone.0218392"
+   },
+   "tip": "Dipingi le arnie di colori diversi o mettile non tutte in fila. Quando c'è poco nettare, restringi le porticine e non lasciare mai miele o favi in giro."
+  },
+  {
+   "slide": 5,
+   "title": "I danni",
+   "narration": "Parliamo dei danni. La varroa da sola indebolisce le api, ma il guaio più grosso sono i virus che porta. Come una zanzara che porta malattie? Proprio così. Il più noto è il virus delle ali deformi. Le api nascono con le ali accartocciate, non volano e vivono poco. E nella famiglia cosa vedo? All'inizio niente. Poi meno api, covata a mosaico, api deboli sul predellino. Alla fine la famiglia può crollare. E quando succede più spesso? Secondo te, cosa succede a fine estate, quando la regina depone meno ma le varroe sono ormai tante? Le varroe si concentrano su poche celle di covata, e quasi ogni ape viene punta? Brava. E proprio allora nascono le api d'inverno, che devono vivere mesi. Se nascono malate, la famiglia non arriva a primavera. Quindi un danno d'estate si vede d'inverno. Esatto. Uno studio del 2016 ha mostrato che questo virus si è diffuso in tutto il mondo proprio grazie alla varroa e al commercio di api. Allora la varroa è come un autobus per i virus. Bella immagine. Per questo in Europa i controlli e i trattamenti regolari contro la varroa sono indispensabili. Allora controllare non è una scelta: è una necessità.",
+   "keyPoints": [
+    "La varroa indebolisce le api e porta virus",
+    "Virus delle ali deformi: api che non volano",
+    "Segni: meno api, covata a mosaico",
+    "A fine estate varroe tante su poca covata",
+    "Le api d'inverno malate non arrivano a primavera"
+   ],
+   "analogy": "La varroa è come una zanzara che oltre a pungere porta malattie: il morso da solo dà fastidio, ma il guaio vero è quello che lascia nel sangue.",
+   "check": {
+    "question": "Perché il danno della varroa a fine estate si vede in inverno?",
+    "options": [
+     "Perché in inverno le varroe diventano velenose",
+     "Perché le api d'inverno nascono già indebolite",
+     "Perché d'inverno l'apicoltore apre più spesso",
+     "Perché il miele d'inverno contiene il virus"
+    ],
+    "answer": 1,
+    "explanation": "Le api che devono vivere per mesi nascono a fine estate: se sono punte dalla varroa, la famiglia non arriva a primavera."
+   },
+   "science": {
+    "text": "Uno studio sui geni del virus delle ali deformi ha mostrato che si è diffuso di recente in tutto il mondo. La spinta è venuta dalla varroa, che lo trasmette direttamente, e dal commercio e dallo spostamento di famiglie di api.",
+    "source": "Wilfert et al. 2016, Science",
+    "url": "https://doi.org/10.1126/science.aac9976"
+   },
+   "tip": "Non fidarti di una famiglia che a luglio sembra forte: conta le varroe anche allora. Il danno di fine estate si vede solo in inverno, quando è tardi."
+  },
+  {
+   "slide": 6,
+   "title": "Come limitarne l'espansione: interventi di tecnica apistica",
+   "narration": "Prima dei farmaci ci sono le tecniche apistiche: modi di lavorare che tolgono varroe senza chimica. Come pulire casa senza detersivi forti? Un po'. La prima è togliere la covata dei fuchi. Metti nel nido un telaino senza foglio cereo: le api ci costruiscono celle da fuco. E la varroa ci va perché preferisce i fuchi. Esatto. Quando le celle sono opercolate, tagli via quel favo con le varroe dentro. Uno studio ha visto che aiuta in primavera, ma non basta per tutta la stagione. Quindi è un aiuto, non la soluzione. Giusto. La seconda è il blocco di covata: chiudi la regina in una gabbietta per alcune settimane, così smette di deporre. E a cosa serve fermare la regina? Pensaci. Se dopo qualche settimana non c'è più covata, secondo te dove si possono nascondere le varroe? Da nessuna parte: restano tutte sulle api adulte! Brava. Allora un trattamento le colpisce tutte. La terza è l'asportazione totale della covata: togli tutti i favi di covata e lasci le api senza. E quando si fanno questi blocchi? Di solito in estate, dopo il raccolto principale. Uno studio nel Mediterraneo ha visto che il momento conta: un blocco troppo presto toglie un po' di miele. Quindi scelgo il momento giusto, insieme alla mia associazione.",
+   "keyPoints": [
+    "Tecniche apistiche: meno varroe senza chimica",
+    "Telaino trappola: si taglia la covata da fuco",
+    "Blocco di covata: regina in gabbietta per settimane",
+    "Asportazione totale della covata: via tutti i favi di covata",
+    "Senza covata, le varroe restano sulle api adulte"
+   ],
+   "analogy": "Il blocco di covata è come svuotare tutti gli armadi prima della disinfestazione: se non ci sono nascondigli, il trattamento raggiunge tutti gli insetti.",
+   "check": {
+    "question": "A cosa serve chiudere la regina in una gabbietta?",
+    "options": [
+     "A proteggerla dalle punture delle operaie",
+     "A farle produrre più pappa reale per le larve",
+     "A fermare la deposizione e togliere i nascondigli",
+     "A farla accoppiare di nuovo con i fuchi giovani"
+    ],
+    "answer": 2,
+    "explanation": "Senza nuove uova, dopo alcune settimane non c'è covata: le varroe restano sulle api e il trattamento le raggiunge."
+   },
+   "science": {
+    "text": "In nove apiari di sei paesi del Mediterraneo, la regina chiusa in gabbietta per 28 giorni e poi l'acido ossalico gocciolato hanno tenuto la varroa più bassa dei trattamenti abituali. Ma se il blocco iniziava troppo presto rispetto al raccolto, si produceva meno miele.",
+    "source": "Kovačić et al. 2023, Insects",
+    "url": "https://doi.org/10.3390/insects14090751"
+   },
+   "tip": "Il telaino trappola va tagliato appena la covata da fuco è opercolata. Se te ne dimentichi, i fuchi nascono e liberi nell'arnia tutte le varroe che hai attirato."
+  },
+  {
+   "slide": 7,
+   "title": "Interventi antiparassitari",
+   "narration": "Infine i farmaci contro la varroa. Regola d'oro: solo prodotti autorizzati per le api, seguendo l'etichetta e il veterinario. Quali sostanze ci sono? Ci sono l'acido ossalico, l'acido formico, il timolo e l'amitraz. Ognuno ha il suo momento e il suo modo d'uso, scritti sull'etichetta. L'acido ossalico quando si usa? Quando non c'è covata: in inverno, oppure dopo il blocco di covata. Secondo te, perché funziona bene solo senza covata? Perché non arriva dentro le celle chiuse, dove si nascondono le varroe. Esatto. L'acido formico invece può agire anche sotto gli opercoli, ma dipende molto dalla temperatura. Anche il timolo vuole il clima giusto. E l'amitraz? Di solito si usa in strisce da appendere nel nido. Vale per tutti: niente prodotti fatti in casa, e rispetta i tempi scritti sull'etichetta. E devo scrivere qualcosa? Sì. Ogni trattamento va annotato nel registro dei trattamenti: cosa hai usato, quando e su quali alveari. Le regole sul registro cambiano un po' da regione a regione. Allora chiedo alla mia ASL come tenerlo, così sono sicura di fare tutto in regola. Brava. E un'ultima cosa: alterna i principi attivi, come consiglia il veterinario, perché le varroe possono diventare resistenti. Quindi: prodotto giusto, momento giusto, e tutto scritto.",
+   "keyPoints": [
+    "Solo prodotti autorizzati per le api",
+    "Principi attivi: acido ossalico, acido formico, timolo, amitraz",
+    "Acido ossalico: quando non c'è covata",
+    "Segui sempre l'etichetta e il veterinario",
+    "Ogni trattamento va scritto nel registro"
+   ],
+   "analogy": "Il registro dei trattamenti è come il quaderno delle medicine di un nonno: scrivi cosa hai dato, quando e a chi, così nessuno sbaglia e tutto è chiaro.",
+   "check": {
+    "question": "Che cosa devi fare dopo ogni trattamento contro la varroa?",
+    "options": [
+     "Raccontarlo agli altri apicoltori al bar",
+     "Rifarlo il giorno dopo per sicurezza",
+     "Scriverlo nel registro dei trattamenti",
+     "Togliere subito tutti i favi di covata"
+    ],
+    "answer": 2,
+    "explanation": "Ogni trattamento con un medicinale veterinario va annotato nel registro: cosa, quando, su quali alveari."
+   },
+   "science": {
+    "text": "Una grande rassegna sull'acido ossalico raccoglie gli studi sui tre modi di usarlo: gocciolato, sublimato e spruzzato. Esamina quanto funziona contro la varroa, quanto lo sopportano le api, come deve proteggersi l'apicoltore e i residui nei prodotti.",
+    "source": "Rademacher & Harz 2006, Apidologie",
+    "url": "https://doi.org/10.1051/apido:2005063"
+   },
+   "tip": "Prima di trattare leggi tutta l'etichetta: momento, temperatura, tempi e protezioni per te. Dopo, scrivi subito nel registro cosa hai usato, quando e su quali alveari."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Qual è l'ospite originale della varroa?",
+   "back": "L'ape asiatica, Apis cerana.",
+   "part": 0
+  },
+  {
+   "front": "Quando e dove è stata segnalata la varroa in Italia?",
+   "back": "Nel 1981, vicino a Gorizia.",
+   "part": 0
+  },
+  {
+   "front": "Dove si riproduce la varroa?",
+   "back": "Nelle celle di covata opercolata.",
+   "part": 1
+  },
+  {
+   "front": "Di che cosa si nutre soprattutto la varroa?",
+   "back": "Del corpo grasso delle api (Ramsey 2019).",
+   "part": 1
+  },
+  {
+   "front": "Che cos'è la caduta naturale?",
+   "back": "Il conteggio delle varroe cadute sul vassoio sotto il fondo a rete.",
+   "part": 2
+  },
+  {
+   "front": "Perché si usa lo zucchero a velo?",
+   "back": "Fa staccare le varroe senza uccidere le api.",
+   "part": 2
+  },
+  {
+   "front": "Quali sono i due modi in cui la varroa passa tra arnie?",
+   "back": "La deriva e il saccheggio.",
+   "part": 3
+  },
+  {
+   "front": "Quale virus porta la varroa?",
+   "back": "Soprattutto il virus delle ali deformi.",
+   "part": 4
+  },
+  {
+   "front": "Perché la fine dell'estate è pericolosa?",
+   "back": "Tante varroe su poca covata: le api d'inverno nascono deboli.",
+   "part": 4
+  },
+  {
+   "front": "Che cos'è il telaino trappola?",
+   "back": "Un telaino dove le api fanno covata da fuco, da tagliare a covata opercolata.",
+   "part": 5
+  },
+  {
+   "front": "Che cos'è il blocco di covata?",
+   "back": "La regina in gabbietta per alcune settimane: niente covata, varroe allo scoperto.",
+   "part": 5
+  },
+  {
+   "front": "Quando si usa l'acido ossalico?",
+   "back": "Quando non c'è covata: in inverno o dopo il blocco.",
+   "part": 6
+  },
+  {
+   "front": "Dove si annota ogni trattamento?",
+   "back": "Nel registro dei trattamenti.",
+   "part": 6
+  }
+ ],
+ "questions": [
+  {
+   "question": "Con che cosa si è diffusa la varroa in Italia?",
+   "options": [
+    "Con il commercio di regine e il nomadismo",
+    "Con il vento forte che soffia dalla Slovenia",
+    "Con il miele importato dai paesi asiatici",
+    "Con i fiori comprati dai vivai stranieri"
+   ],
+   "answer": 0,
+   "explanation": "Sono stati gli spostamenti di api fatti dall'uomo a portarla ovunque in pochi anni.",
+   "part": 0
+  },
+  {
+   "question": "Perché oggi si dice Varroa destructor e non Varroa jacobsoni?",
+   "options": [
+    "Perché il vecchio nome era troppo lungo",
+    "Perché si sono viste due specie diverse",
+    "Perché l'acaro ha cambiato colore in Europa",
+    "Perché un concorso ha scelto il nome nuovo"
+   ],
+   "answer": 1,
+   "explanation": "Nel 2000 si è scoperto che erano specie diverse: quella che danneggia le nostre api è Varroa destructor.",
+   "part": 0
+  },
+  {
+   "question": "Dove sta la varroa durante la fase di dispersione?",
+   "options": [
+    "Dentro il miele delle celle aperte",
+    "Nella propoli sul bordo dell'arnia",
+    "Sulle api adulte, tra gli anelli della pancia",
+    "Nel terreno umido vicino all'apiario"
+   ],
+   "answer": 2,
+   "explanation": "In questa fase, un tempo detta foretica, la femmina viaggia sulle api adulte.",
+   "part": 1
+  },
+  {
+   "question": "Perché la covata da fuco è piena di varroe?",
+   "options": [
+    "Perché i fuchi non sanno pulirsi",
+    "Perché le celle dei fuchi sono fredde",
+    "Perché i fuchi escono poco dall'arnia",
+    "Perché resta chiusa più a lungo"
+   ],
+   "answer": 3,
+   "explanation": "La cella del fuco resta opercolata più giorni: la varroa ha più tempo e fa più figlie.",
+   "part": 1
+  },
+  {
+   "question": "Da quale favo prendi le api per il test dello zucchero a velo?",
+   "options": [
+    "Da un favo con covata, dove ci sono le nutrici",
+    "Da un favo del melario, pieno di miele maturo",
+    "Da un favo vuoto lasciato vicino alla parete",
+    "Da un favo con polline, accanto alla porticina"
+   ],
+   "answer": 0,
+   "explanation": "Le api giovani sui favi di covata portano più varroe, quindi il campione è più fedele.",
+   "part": 2
+  },
+  {
+   "question": "Che cosa indicano tante api con le ali accartocciate?",
+   "options": [
+    "Che l'arnia è troppo piccola",
+    "Che la regina è molto giovane",
+    "Che le varroe sono già troppe",
+    "Che è arrivata la primavera"
+   ],
+   "answer": 2,
+   "explanation": "Il virus delle ali deformi lo trasmette la varroa: tante api così vogliono dire infestazione alta.",
+   "part": 2
+  },
+  {
+   "question": "Perché una famiglia che crolla per la varroa contagia le altre?",
+   "options": [
+    "Perché le sue api pungono le vicine",
+    "Perché manda la regina nelle altre arnie",
+    "Perché il suo miele avvelena i fiori",
+    "Perché viene saccheggiata dalle vicine"
+   ],
+   "answer": 3,
+   "explanation": "Le api ladre entrano nella famiglia debole e tornano a casa con le varroe addosso.",
+   "part": 3
+  },
+  {
+   "question": "Che cosa riduce la deriva nell'apiario?",
+   "options": [
+    "Arnie di colori diversi, non tutte in fila",
+    "Arnie tutte uguali, vicine e in fila",
+    "Arnie senza porticina durante l'estate",
+    "Arnie sempre aperte durante il giorno"
+   ],
+   "answer": 0,
+   "explanation": "Colori e posizioni diverse aiutano le api a riconoscere la propria casa.",
+   "part": 3
+  },
+  {
+   "question": "Qual è il guaio più grosso portato dalla varroa?",
+   "options": [
+    "Il miele che diventa più scuro",
+    "I virus che trasmette alle api",
+    "La cera che diventa più dura",
+    "Il polline che marcisce nelle celle"
+   ],
+   "answer": 1,
+   "explanation": "Oltre a indebolire le api, la varroa trasmette virus come quello delle ali deformi.",
+   "part": 4
+  },
+  {
+   "question": "Perché si taglia il telaino trappola appena è opercolato?",
+   "options": [
+    "Perché la cera nuova si vende meglio al mercato",
+    "Perché i fuchi non servono mai alla famiglia",
+    "Perché sennò i fuchi nascono e liberano le varroe",
+    "Perché le api lo riempiono subito di miele"
+   ],
+   "answer": 2,
+   "explanation": "Se i fuchi nascono, le varroe attirate escono e restano nell'arnia: il lavoro è perso.",
+   "part": 5
+  },
+  {
+   "question": "Che cosa si fa con l'asportazione totale della covata?",
+   "options": [
+    "Si tolgono tutti i favi di covata",
+    "Si toglie soltanto la regina vecchia",
+    "Si tolgono tutti i favi di miele",
+    "Si toglie solo il melario pieno"
+   ],
+   "answer": 0,
+   "explanation": "Senza covata le varroe restano sulle api adulte, dove il trattamento le raggiunge.",
+   "part": 5
+  },
+  {
+   "question": "Perché si alternano i principi attivi contro la varroa?",
+   "options": [
+    "Perché le api si annoiano dello stesso odore",
+    "Perché le varroe possono diventare resistenti",
+    "Perché ogni anno la legge cambia tutti i nomi",
+    "Perché i prodotti costano meno se si cambiano"
+   ],
+   "answer": 1,
+   "explanation": "Usare sempre la stessa sostanza favorisce le varroe resistenti; il veterinario consiglia come alternare.",
+   "part": 6
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Ali accartocciate ad agosto",
+   "prompt": "Ad agosto apri un'arnia e vedi diverse api con le ali accartocciate che camminano sul favo. La famiglia sembra ancora numerosa. Cosa fai?",
+   "modelAnswer": "Le ali accartocciate fanno pensare al virus delle ali deformi, che porta la varroa: è probabile che le varroe siano già troppe. Non mi fido della famiglia che sembra numerosa, perché il danno di fine estate si vede in inverno. Faccio subito un conteggio: con lo zucchero a velo su api prese da un favo di covata, oppure con la caduta sul vassoio. Poi chiedo alla mia associazione o al veterinario quale prodotto autorizzato usare in questo periodo, oppure se è il caso di un blocco di covata seguito da acido ossalico. Seguo l'etichetta e scrivo il trattamento nel registro. Controllo anche le arnie vicine, perché una famiglia debole può essere saccheggiata e passare le varroe alle altre."
+  },
+  {
+   "title": "Il telaino dimenticato",
+   "prompt": "A maggio avevi messo un telaino trappola. Torni dopo quattro settimane e vedi che le celle da fuco sono quasi tutte aperte e i fuchi sono nati. Cosa fai?",
+   "modelAnswer": "Purtroppo i fuchi nati hanno liberato nell'arnia le varroe che il telaino aveva attirato, quindi questa volta la trappola non è servita. Non mi spavento, ma imparo: segno sul quaderno le date, così la prossima volta torno quando le celle sono appena opercolate e taglio via il favo. Intanto rimetto il telaino al lavoro, se la stagione lo permette. Visto che la trappola ha fallito, faccio un conteggio delle varroe con la caduta naturale o lo zucchero a velo, per sapere com'è la situazione. Ricordo anche che il telaino trappola aiuta in primavera, ma da solo non basta per tutta la stagione: più avanti servirà un altro intervento."
+  }
+ ]
+}

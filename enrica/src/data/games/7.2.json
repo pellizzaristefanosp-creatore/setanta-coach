@@ -1,0 +1,149 @@
+{
+ "code": "7.2",
+ "order": [
+  {
+   "title": "Preparare un vasetto da vendere",
+   "steps": [
+    "Riempire il vasetto pulito con il miele",
+    "Chiudere bene il coperchio",
+    "Pulire e asciugare il vetro all'esterno",
+    "Attaccare l'etichetta con tutte le voci",
+    "Mettere il sigillo sopra il coperchio",
+    "Segnare il lotto sul quaderno"
+   ],
+   "slide": 4
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Sono un codice e collego il vasetto a una smielatura.",
+    "Spesso mi trovi dopo la lettera L.",
+    "Servo a rintracciare i vasetti se c'è un problema."
+   ],
+   "answer": "Il lotto",
+   "distractors": [
+    "Il prezzo",
+    "Il marchio",
+    "Il peso"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Indico fino a quando il miele dà il meglio di sé.",
+    "Comincio con le parole «da consumarsi preferibilmente».",
+    "Mi chiamano anche con tre lettere: T, M, C."
+   ],
+   "answer": "Il termine minimo",
+   "distractors": [
+    "Il numero di lotto",
+    "Il peso netto",
+    "Il nome del fiore"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Mi trovano al microscopio in ogni goccia di miele.",
+    "Ogni fiore ha la sua forma, e io la mostro.",
+    "Le api mi portano nelle cestelle delle zampe."
+   ],
+   "answer": "Il polline",
+   "distractors": [
+    "Il nettare",
+    "La propoli",
+    "La cera"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi rompo quando qualcuno apre il vasetto.",
+    "In Italia nessuna legge mi rende obbligatorio.",
+    "Passo sopra il coperchio come una striscia."
+   ],
+   "answer": "Il sigillo",
+   "distractors": [
+    "Il coperchio",
+    "Il cartellino",
+    "Il nastro"
+   ],
+   "slide": 4
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Sull'etichetta si scrive il peso del miele senza il vasetto.",
+   "true": true,
+   "why": "Si indica la quantità netta, cioè solo il prodotto.",
+   "slide": 1
+  },
+  {
+   "text": "Dopo la data del TMC il miele è sicuramente da buttare.",
+   "true": false,
+   "why": "Il TMC dice fino a quando dà il meglio, non che diventa pericoloso.",
+   "slide": 1
+  },
+  {
+   "text": "Nome e indirizzo di chi produce o confeziona vanno in etichetta.",
+   "true": true,
+   "why": "Chi compra deve sapere chi è responsabile del prodotto.",
+   "slide": 1
+  },
+  {
+   "text": "Per le miscele basta scrivere «miscela di mieli UE e non UE».",
+   "true": false,
+   "why": "In Italia vanno nominati i paesi, e dal 2026 con le percentuali.",
+   "slide": 2
+  },
+  {
+   "text": "Dal 14 giugno 2026 le miscele indicano le percentuali dei paesi.",
+   "true": true,
+   "why": "Lo prevede il D.Lgs. 207/2025 che recepisce la direttiva europea.",
+   "slide": 2
+  },
+  {
+   "text": "Basta un'acacia vicino alle arnie per scrivere «miele di acacia».",
+   "true": false,
+   "why": "Il miele deve venire tutto o soprattutto da quel fiore.",
+   "slide": 3
+  },
+  {
+   "text": "L'analisi del polline aiuta a capire da quale fiore viene il miele.",
+   "true": true,
+   "why": "Ogni pianta ha un polline con una forma riconoscibile.",
+   "slide": 3
+  },
+  {
+   "text": "Il millefiori è un miele di serie B.",
+   "true": false,
+   "why": "È un miele onesto e pregiato che racconta il paesaggio.",
+   "slide": 3
+  },
+  {
+   "text": "Il sigillo di garanzia è obbligatorio per legge in Italia.",
+   "true": false,
+   "why": "Le guide delle Camere di commercio lo indicano come facoltativo.",
+   "slide": 4
+  },
+  {
+   "text": "Un sigillo intatto mostra che il vasetto non è stato aperto.",
+   "true": true,
+   "why": "Il sigillo si strappa quando si svita il coperchio.",
+   "slide": 4
+  },
+  {
+   "text": "Si può scrivere «aiuta a guarire il mal di gola».",
+   "true": false,
+   "why": "È vietato attribuire a un alimento il potere di curare malattie.",
+   "slide": 5
+  },
+  {
+   "text": "Il miele non si deve dare ai bambini sotto l'anno.",
+   "true": true,
+   "why": "È un'avvertenza importante che molti scrivono in etichetta.",
+   "slide": 5
+  }
+ ]
+}

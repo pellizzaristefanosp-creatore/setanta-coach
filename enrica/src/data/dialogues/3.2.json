@@ -1,0 +1,432 @@
+{
+ "code": "3.2",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi parliamo della sciamatura, uno dei momenti più belli e più temuti dell'apicoltura."
+    },
+    {
+     "who": "E",
+     "text": "Ciao Tonino! È quando le api scappano tutte insieme, vero?"
+    },
+    {
+     "who": "M",
+     "text": "Non scappano. È il modo in cui la famiglia si riproduce: la regina vecchia parte con una parte delle api e cerca una casa nuova."
+    },
+    {
+     "who": "E",
+     "text": "E quelle che restano?"
+    },
+    {
+     "who": "M",
+     "text": "Restano con la covata e con alcune celle reali, cioè celle grandi dove crescono nuove regine. Così da una famiglia ne nascono due."
+    },
+    {
+     "who": "E",
+     "text": "Quando succede, di solito?"
+    },
+    {
+     "who": "M",
+     "text": "Soprattutto in primavera, quando arrivano i fiori e la famiglia cresce in fretta. Secondo te, cosa spinge una famiglia a sciamare?"
+    },
+    {
+     "who": "E",
+     "text": "Forse il fatto che in casa sono troppe e non c'è più spazio, come in un appartamento affollato."
+    },
+    {
+     "who": "M",
+     "text": "Brava, è uno dei motivi principali. Quando il nido è pieno, il profumo della regina non arriva bene a tutte le api."
+    },
+    {
+     "who": "E",
+     "text": "E se non sentono il profumo della regina?"
+    },
+    {
+     "who": "M",
+     "text": "È come se pensassero che la regina basti a poche. Allora iniziano a preparare celle reali per le nuove regine."
+    },
+    {
+     "who": "E",
+     "text": "Ci sono altri motivi?"
+    },
+    {
+     "who": "M",
+     "text": "Una regina vecchia, molte api giovani senza lavoro, un raccolto abbondante e il carattere della famiglia. Alcune linee sciamano più di altre."
+    },
+    {
+     "who": "E",
+     "text": "Quindi se in primavera do spazio per tempo, aiuto la famiglia a non sentirsi stretta."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Enrica, come facciamo ad accorgerci che una famiglia vuole sciamare, prima che sia troppo tardi?"
+    },
+    {
+     "who": "E",
+     "text": "Me lo dici tu, io non saprei proprio da dove cominciare."
+    },
+    {
+     "who": "M",
+     "text": "Il segno più chiaro sono le celle reali. Sono grandi, a forma di ghianda, e spesso pendono dal bordo in basso dei favi."
+    },
+    {
+     "who": "E",
+     "text": "Le ho viste in foto! Sembrano arachidi attaccate alla cera."
+    },
+    {
+     "who": "M",
+     "text": "Proprio. Ma attenzione: le api fanno spesso delle coppette reali vuote. Quelle non bastano. Secondo te, quando bisogna preoccuparsi davvero?"
+    },
+    {
+     "who": "E",
+     "text": "Quando dentro la coppetta c'è un uovo o una larva con la pappa reale. Allora stanno davvero allevando una regina."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. E guarda anche il resto: il nido è pieno, la regina non trova celle vuote per deporre."
+    },
+    {
+     "who": "E",
+     "text": "E il miele dove lo mettono?"
+    },
+    {
+     "who": "M",
+     "text": "Ecco un altro segno: miele e polline finiscono anche nelle celle della covata. La regina resta senza posto."
+    },
+    {
+     "who": "E",
+     "text": "Poverina, è come una cuoca a cui riempiono il piano di lavoro di scatole."
+    },
+    {
+     "who": "M",
+     "text": "Bel paragone. Poi spesso fuori dall'ingresso ci sono tante api ferme, ammassate. E la regina depone meno e diventa più snella, per poter volare."
+    },
+    {
+     "who": "E",
+     "text": "Quindi devo guardare le celle reali, lo spazio nel nido e quello che succede fuori."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Più segni insieme ti dicono che la partenza è vicina."
+    },
+    {
+     "who": "E",
+     "text": "E se vedo le celle reali con le larve, devo agire in fretta."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Hai mai visto uscire uno sciame, Enrica?"
+    },
+    {
+     "who": "E",
+     "text": "Mai dal vivo. Dicono che sia impressionante."
+    },
+    {
+     "who": "M",
+     "text": "Lo è. Migliaia di api escono in pochi minuti e fanno una nuvola che ronza. Di solito succede in una giornata calda e serena."
+    },
+    {
+     "who": "E",
+     "text": "E la regina vecchia esce con loro?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, nel primo sciame parte la regina vecchia. Prima di uscire, le api si riempiono di miele. Secondo te, perché lo fanno?"
+    },
+    {
+     "who": "E",
+     "text": "Perché devono portarsi le provviste per il viaggio e per costruire i favi nella casa nuova."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Il miele è la loro valigia. E con la pancia piena sono anche più tranquille e pungono meno."
+    },
+    {
+     "who": "E",
+     "text": "E poi dove vanno?"
+    },
+    {
+     "who": "M",
+     "text": "Non vanno subito lontano. Si posano vicino, su un ramo o un palo, e formano un grappolo."
+    },
+    {
+     "who": "E",
+     "text": "E restano lì per sempre?"
+    },
+    {
+     "who": "M",
+     "text": "No. Da lì partono le esploratrici, che cercano una cavità adatta, come un albero cavo. Poi tornano e la raccontano danzando."
+    },
+    {
+     "who": "E",
+     "text": "E quando hanno deciso, come si mettono d'accordo per partire tutte insieme?"
+    },
+    {
+     "who": "M",
+     "text": "Alcune esploratrici emettono una specie di fischio. È il segnale: scaldate i muscoli, si parte! E il grappolo vola via."
+    },
+    {
+     "who": "E",
+     "text": "Quindi ho un po' di tempo per catturarlo, finché resta lì appeso al ramo."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Enrica, uno sciame non viene mai da solo. A volte, dopo il primo, ne partono altri."
+    },
+    {
+     "who": "E",
+     "text": "Altri ancora? Ma allora l'arnia si svuota!"
+    },
+    {
+     "who": "M",
+     "text": "Può succedere. Il primo si chiama sciame primario e parte con la regina vecchia, quella già fecondata."
+    },
+    {
+     "who": "E",
+     "text": "E gli altri?"
+    },
+    {
+     "who": "M",
+     "text": "Si chiamano secondari. Partono con le regine nuove appena nate dalle celle reali. Sono regine vergini, cioè non ancora fecondate."
+    },
+    {
+     "who": "E",
+     "text": "E sono sciami più piccoli?"
+    },
+    {
+     "who": "M",
+     "text": "Di solito sì. Secondo te, cosa succede alla famiglia di partenza se parte uno sciame dopo l'altro?"
+    },
+    {
+     "who": "E",
+     "text": "Diventa sempre più debole, perché perde tante api e rischia di non fare miele quell'anno."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ecco perché all'apicoltore conviene evitarli."
+    },
+    {
+     "who": "E",
+     "text": "Ma alla fine, in casa, quante regine restano?"
+    },
+    {
+     "who": "M",
+     "text": "Una sola. Le regine si sfidano a duello, oppure la prima nata uccide le altre ancora chiuse nelle celle. Oppure una se ne va con uno sciame."
+    },
+    {
+     "who": "E",
+     "text": "Che storia! Sembra una favola di principesse."
+    },
+    {
+     "who": "M",
+     "text": "E prima del duello a volte le regine cantano, con un suono che gli apicoltori chiamano canto della regina."
+    },
+    {
+     "who": "E",
+     "text": "Allora, dopo uno sciame, devo controllare le celle reali rimaste per evitare altre partenze."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso prepariamo la cattura. Cosa ti porteresti, Enrica?"
+    },
+    {
+     "who": "E",
+     "text": "La tuta, il velo e una cassetta, credo."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Aggiungi un telo bianco, una spazzola, uno spruzzino con acqua e magari una scala. Se lo sciame è troppo in alto, chiedi aiuto."
+    },
+    {
+     "who": "E",
+     "text": "Lo spruzzino a cosa serve?"
+    },
+    {
+     "who": "M",
+     "text": "Un po' d'acqua nebulizzata rende le api meno pronte a volare. Poi metti la cassetta sotto il grappolo e dai un colpo secco al ramo."
+    },
+    {
+     "who": "E",
+     "text": "E cadono tutte dentro?"
+    },
+    {
+     "who": "M",
+     "text": "Quasi tutte. Chiudi piano, lasciando un'apertura. Secondo te, come capisci se la regina è caduta nella cassetta?"
+    },
+    {
+     "who": "E",
+     "text": "Se le api restano e chiamano le altre all'ingresso, vuol dire che la regina è dentro. Se tornano sul ramo, lei è rimasta fuori."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Le vedrai con l'addome alzato che sventolano le ali: spargono un profumo che dice qui, venite qui."
+    },
+    {
+     "who": "E",
+     "text": "E poi lo porto a casa."
+    },
+    {
+     "who": "M",
+     "text": "La sera, quando tutte sono rientrate. Poi lo metti nell'arnia, su telaini con foglio cereo, cioè la base di cera da costruire."
+    },
+    {
+     "who": "E",
+     "text": "E deve mangiare qualcosa?"
+    },
+    {
+     "who": "M",
+     "text": "Se non ci sono fioriture, dagli un po' di sciroppo. E siccome per qualche giorno non ha covata, è un buon momento per il trattamento contro la varroa. Segui l'etichetta e il veterinario."
+    },
+    {
+     "who": "E",
+     "text": "Quindi cattura con calma, regina dentro, arnia nuova la sera e un aiuto per partire bene."
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Enrica, c'è un modo per anticipare le api: la sciamatura artificiale."
+    },
+    {
+     "who": "E",
+     "text": "Cioè la facciamo noi, al posto loro?"
+    },
+    {
+     "who": "M",
+     "text": "Proprio. Prima che la famiglia parta da sola, la dividiamo in due. Ci sono tanti metodi, ma l'idea è sempre la stessa."
+    },
+    {
+     "who": "E",
+     "text": "E quale sarebbe?"
+    },
+    {
+     "who": "M",
+     "text": "Una parte resta con la regina vecchia. L'altra parte resta orfana, ma con covata giovane, scorte e api."
+    },
+    {
+     "who": "E",
+     "text": "E la parte orfana come fa senza regina?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, cosa farà una famiglia orfana che ha ancora uova e larve giovanissime?"
+    },
+    {
+     "who": "E",
+     "text": "Si alleverà una nuova regina da una di quelle larve, nutrendola con la pappa reale."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Oppure le diamo noi una cella reale già pronta, o una regina nuova."
+    },
+    {
+     "who": "E",
+     "text": "Così non perdo lo sciame e in più ho due famiglie!"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. E c'è un vantaggio in più: una pausa nella covata ostacola la varroa, l'acaro che vive nelle celle della covata."
+    },
+    {
+     "who": "E",
+     "text": "Lo dicono anche gli studi?"
+    },
+    {
+     "who": "M",
+     "text": "Sì. Le famiglie che sciamavano di più avevano meno varroa. Però la sciamatura artificiale non sostituisce i controlli e i trattamenti."
+    },
+    {
+     "who": "E",
+     "text": "Va bene. Divido per tempo, controllo che ogni parte abbia tutto, e continuo a tenere d'occhio la varroa."
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ultimo argomento, Enrica: a volte bisogna fare il contrario di dividere, cioè riunire due famiglie."
+    },
+    {
+     "who": "E",
+     "text": "Perché dovrei riunirle?"
+    },
+    {
+     "who": "M",
+     "text": "Per esempio quando una famiglia è debole o orfana. Da sola non ce la farebbe, insieme a un'altra diventa forte."
+    },
+    {
+     "who": "E",
+     "text": "E basta mettere una cassa sopra l'altra?"
+    },
+    {
+     "who": "M",
+     "text": "No! Ogni famiglia ha il suo odore, e le guardiane attaccano le estranee. Secondo te, come possiamo evitare una battaglia?"
+    },
+    {
+     "who": "E",
+     "text": "Facendo in modo che gli odori si mescolino piano piano, prima che le api si incontrino davvero."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Si mette un foglio di giornale con qualche forellino tra le due casse. Le api lo rosicchiano in pochi giorni."
+    },
+    {
+     "who": "E",
+     "text": "E quando la carta è sparita, sono ormai una famiglia sola!"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ma prima togli la regina peggiore, o quella della famiglia debole. Ne deve restare una."
+    },
+    {
+     "who": "E",
+     "text": "E il titolo parlava anche di sostituire le regine con la sciamatura."
+    },
+    {
+     "who": "M",
+     "text": "Sì. Le celle reali di sciamatura sono un regalo: se la famiglia è buona e docile, puoi usarle per dare una regina nuova a un nucleo orfano."
+    },
+    {
+     "who": "E",
+     "text": "Le stacco con attenzione e le metto nel nucleo?"
+    },
+    {
+     "who": "M",
+     "text": "Con molta delicatezza, senza girarle o schiacciarle. La regina dentro è fragile. La prima volta fallo con un apicoltore esperto."
+    },
+    {
+     "who": "E",
+     "text": "Allora dalla sciamatura posso ricavare famiglie nuove e regine nuove, invece di perdere api."
+    }
+   ]
+  }
+ ]
+}

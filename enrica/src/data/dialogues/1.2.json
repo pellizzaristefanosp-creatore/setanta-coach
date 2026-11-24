@@ -1,0 +1,310 @@
+{
+ "code": "1.2",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Enrica, oggi seguiamo la vita di un'ape fin dall'inizio, e poi la vita della colonia durante l'anno. Si parte da un uovo."
+    },
+    {
+     "who": "E",
+     "text": "Un uovo piccolissimo in fondo a una cella, giusto?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, come un chicco di riso minuscolo, dritto in piedi. Dopo circa tre giorni si schiude ed esce una larva bianca a forma di virgola."
+    },
+    {
+     "who": "E",
+     "text": "E la larva cosa fa?"
+    },
+    {
+     "who": "M",
+     "text": "Mangia e cresce, tantissimo, nutrita dalle operaie. Dopo alcuni giorni le api chiudono la cella con un tappo di cera: si dice covata opercolata."
+    },
+    {
+     "who": "E",
+     "text": "E dentro la cella chiusa cosa succede?"
+    },
+    {
+     "who": "M",
+     "text": "La larva diventa pupa e si trasforma: zampe, ali, occhi. Alla fine l'ape adulta rosicchia il tappo ed esce."
+    },
+    {
+     "who": "E",
+     "text": "Quanto ci vuole in tutto?"
+    },
+    {
+     "who": "M",
+     "text": "Dipende da chi nasce. La regina circa 16 giorni, l'operaia circa 21, il fuco circa 24. Sono numeri da tenere in tasca."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, perché le api nutrici stanno sempre sopra la covata, anche quando non hanno niente da dare da mangiare?"
+    },
+    {
+     "who": "E",
+     "text": "Per tenerla al caldo! Come una chioccia sulle uova."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Le api tengono la covata intorno ai 35 gradi, quasi sempre uguale. Se la covata prende freddo, le api nascono più deboli."
+    },
+    {
+     "who": "E",
+     "text": "Allora quando apro l'arnia non devo lasciare i favi di covata fuori al freddo troppo a lungo."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Lavora svelta e con calma, soprattutto nelle giornate fresche."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "E",
+     "text": "Tonino, ho una domanda. Regina e operaie sono tutte femmine. Allora perché sono così diverse?"
+    },
+    {
+     "who": "M",
+     "text": "Bella domanda. Nascono da uova uguali. La differenza la fa il cibo che ricevono da larve."
+    },
+    {
+     "who": "E",
+     "text": "Il cibo? Come in cucina?"
+    },
+    {
+     "who": "M",
+     "text": "Proprio. Le nutrici producono la pappa reale con le ghiandole del capo. Nei primi tre giorni la danno a tutte le larve, femmine e maschi."
+    },
+    {
+     "who": "E",
+     "text": "E dopo?"
+    },
+    {
+     "who": "M",
+     "text": "Le future operaie ricevono un cibo più semplice, con miele e polline. La futura regina invece continua a ricevere solo pappa reale, in abbondanza."
+    },
+    {
+     "who": "E",
+     "text": "E cresce in una cella normale?"
+    },
+    {
+     "who": "M",
+     "text": "No, in una cella grande, che pende verso il basso come una ghianda: la cella reale. Lì dentro ha spazio per diventare più lunga."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, se una colonia perde la regina, quali larve può usare per farne una nuova?"
+    },
+    {
+     "who": "E",
+     "text": "Quelle femmine molto giovani, di pochi giorni, che hanno mangiato ancora solo pappa reale."
+    },
+    {
+     "who": "M",
+     "text": "Esatto! Se la larva è troppo vecchia, ormai è una futura operaia. Per questo le api scelgono sempre larve giovanissime."
+    },
+    {
+     "who": "E",
+     "text": "Ma cos'ha di magico la pappa reale?"
+    },
+    {
+     "who": "M",
+     "text": "Magico niente, è ricchissima. E la scienza ha scoperto anche altro: miele e polline contengono sostanze che frenano le ovaie. La regina non le mangia."
+    },
+    {
+     "who": "E",
+     "text": "Quindi conta anche quello che la regina non mangia. Curioso!"
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso facciamo il giro dell'anno. Cominciamo dall'inverno, quando sembra che nell'arnia non succeda niente."
+    },
+    {
+     "who": "E",
+     "text": "Le api vanno in letargo, come gli orsi?"
+    },
+    {
+     "who": "M",
+     "text": "No, restano sveglie. Quando fa freddo si stringono tutte insieme in una specie di palla sui favi: si chiama glomere."
+    },
+    {
+     "who": "E",
+     "text": "E la regina dov'è?"
+    },
+    {
+     "who": "M",
+     "text": "Al centro, al calduccio, circondata dalle operaie. Non ci sono fuchi, li hanno cacciati in autunno."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, come fanno le api a scaldarsi, se non hanno una stufa e fuori magari gela?"
+    },
+    {
+     "who": "E",
+     "text": "Si muovono? Forse fanno vibrare il corpo per produrre calore, come quando noi tremiamo dal freddo."
+    },
+    {
+     "who": "M",
+     "text": "Esatto! Tengono le ali ferme e fanno tremare i muscoli del volo. Le api dentro scaldano, quelle fuori stanno strette e fanno da cappotto."
+    },
+    {
+     "who": "E",
+     "text": "E per tutto quel lavoro cosa mangiano?"
+    },
+    {
+     "who": "M",
+     "text": "Il miele che hanno messo da parte. Il glomere si sposta pian piano sui favi per raggiungere le scorte."
+    },
+    {
+     "who": "E",
+     "text": "Quindi un'arnia leggera a gennaio è un brutto segno."
+    },
+    {
+     "who": "M",
+     "text": "Sì, va tenuta d'occhio. Senza scorte vicine, le api possono morire di fame anche con il miele a pochi centimetri."
+    },
+    {
+     "who": "E",
+     "text": "E la regina depone anche d'inverno?"
+    },
+    {
+     "who": "M",
+     "text": "Nel pieno dell'inverno pochissimo o niente. Verso la fine, quando le giornate si allungano, ricomincia piano piano."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Poi arriva la primavera, e l'arnia si risveglia. Fioriscono gli alberi, arriva polline fresco, e la regina depone sempre di più."
+    },
+    {
+     "who": "E",
+     "text": "Quindi la colonia cresce in fretta."
+    },
+    {
+     "who": "M",
+     "text": "Moltissimo. Tornano anche i fuchi. E quando la famiglia è forte e piena, può decidere di dividersi in due: è la sciamatura."
+    },
+    {
+     "who": "E",
+     "text": "Ma perché lo fa? Non sta bene a casa sua?"
+    },
+    {
+     "who": "M",
+     "text": "Sta benissimo! La sciamatura è il modo in cui le colonie si moltiplicano. Una famiglia diventa due."
+    },
+    {
+     "who": "E",
+     "text": "E chi parte?"
+    },
+    {
+     "who": "M",
+     "text": "Prima le api allevano nuove regine nelle celle reali. Poi la vecchia regina parte con una parte delle operaie. In casa nascerà una regina nuova."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, come fa lo sciame appeso a un ramo a scegliere dove andare a vivere?"
+    },
+    {
+     "who": "E",
+     "text": "Mandano qualcuna a cercare? Delle esploratrici che poi tornano a raccontare."
+    },
+    {
+     "who": "M",
+     "text": "Brava, proprio così. Le esploratrici visitano cavità, tornano e danzano per il posto trovato. Alla fine il gruppo sceglie insieme il migliore."
+    },
+    {
+     "who": "E",
+     "text": "Una votazione tra api! E in estate cosa succede?"
+    },
+    {
+     "who": "M",
+     "text": "D'estate si raccoglie tanto nettare: è il tempo del raccolto. Poi, quando le fioriture calano, la regina comincia a deporre meno."
+    },
+    {
+     "who": "E",
+     "text": "Per l'apicoltore però lo sciame è un problema, no?"
+    },
+    {
+     "who": "M",
+     "text": "Si perde metà delle api e spesso il raccolto. Per questo in primavera si controllano le celle reali. Ne parleremo nelle lezioni sulla sciamatura."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Chiudiamo il giro con l'autunno, la stagione più importante per preparare l'anno dopo."
+    },
+    {
+     "who": "E",
+     "text": "Più importante della primavera? Perché?"
+    },
+    {
+     "who": "M",
+     "text": "Perché in autunno nascono le api che dovranno passare l'inverno. La covata cala, i fuchi vengono cacciati, e nascono api un po' speciali."
+    },
+    {
+     "who": "E",
+     "text": "Speciali in che senso?"
+    },
+    {
+     "who": "M",
+     "text": "Vivono molto di più. Un'ape d'estate vive di solito poche settimane. Un'ape d'inverno può vivere alcuni mesi."
+    },
+    {
+     "who": "E",
+     "text": "Che differenza! Ma è la stessa ape?"
+    },
+    {
+     "who": "M",
+     "text": "Stessa specie, ma vita diversa. Le api d'estate si consumano tra covata e voli. Quelle d'inverno lavorano poco e hanno il corpo pieno di riserve."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, che cosa serve a queste api d'autunno per accumulare tante riserve nel corpo?"
+    },
+    {
+     "who": "E",
+     "text": "Tanto cibo buono, soprattutto polline, che dà le proteine. E un po' di tempo per mangiare prima del freddo."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Le riserve di proteine fanno durare l'ape. Se in autunno manca il polline, o le api sono malate, l'inverno diventa difficile."
+    },
+    {
+     "who": "E",
+     "text": "Quindi la varroa in autunno fa doppio danno."
+    },
+    {
+     "who": "M",
+     "text": "Esatto, perché colpisce proprio le api che devono arrivare a primavera. Per questo si controlla la varroa già in estate."
+    },
+    {
+     "who": "E",
+     "text": "Allora il ciclo è: inverno stretti, primavera crescita, estate raccolto, autunno preparazione."
+    },
+    {
+     "who": "M",
+     "text": "Hai fatto il riassunto perfetto. E la primavera buona comincia proprio in autunno."
+    }
+   ]
+  }
+ ]
+}

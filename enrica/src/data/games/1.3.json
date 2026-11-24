@@ -1,0 +1,154 @@
+{
+ "code": "1.3",
+ "order": [
+  {
+   "title": "La lotta integrata alla varroa, passo per passo",
+   "steps": [
+    "Misura quanta varroa c'è",
+    "Valuta se serve intervenire",
+    "Usa metodi di allevamento quando puoi",
+    "Se serve, scegli un farmaco autorizzato",
+    "Segui etichetta e veterinario",
+    "Annota tutto sul quaderno"
+   ],
+   "slide": 4
+  },
+  {
+   "title": "Dal fiore al frutto",
+   "steps": [
+    "L'ape cerca nettare nel fiore",
+    "Si sporca di polline",
+    "Vola su un altro fiore",
+    "Lascia lì un po' di polline",
+    "Il fiore diventa frutto"
+   ],
+   "slide": 3
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Vivo in gran parte d'Italia da tantissimo tempo.",
+    "Mi allevano anche in molti altri Paesi del mondo.",
+    "Il mio nome scientifico finisce con ligustica."
+   ],
+   "answer": "L'ape italiana",
+   "distractors": [
+    "L'ape carnica",
+    "L'ape siciliana",
+    "L'ape africana"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Sono un acaro piccolissimo.",
+    "Succhio le api e porto virus.",
+    "Mi combatti con la lotta integrata."
+   ],
+   "answer": "La varroa",
+   "distractors": [
+    "La tarma",
+    "La vespa",
+    "La nosema"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi fai senza volerlo, cercando cibo.",
+    "Porto il polline da un fiore all'altro.",
+    "Senza di me molti frutti non nascono."
+   ],
+   "answer": "L'impollinazione",
+   "distractors": [
+    "La sciamatura",
+    "La smielatura",
+    "La bottinatura"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi scrivi dopo ogni visita all'apiario.",
+    "Ricordo date, colonie e interventi.",
+    "Aiuto a chiedere consiglio con dati veri."
+   ],
+   "answer": "Il quaderno",
+   "distractors": [
+    "Il telaino",
+    "Il diario",
+    "Il melario"
+   ],
+   "slide": 1
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "In Europa le colonie di api da miele davvero selvatiche sono poche.",
+   "true": true,
+   "why": "Gli studi genetici mostrano che sono rare: le api dipendono molto dagli apicoltori.",
+   "slide": 1
+  },
+  {
+   "text": "Il buon apicoltore pensa solo a raccogliere più miele possibile.",
+   "true": false,
+   "why": "Il custode pensa prima alla salute delle colonie, poi al raccolto giusto.",
+   "slide": 1
+  },
+  {
+   "text": "In Sicilia vive anche l'ape siciliana, oltre alla ligustica.",
+   "true": true,
+   "why": "L'ape siciliana, Apis mellifera sicula, è una sottospecie propria dell'isola.",
+   "slide": 2
+  },
+  {
+   "text": "Le regine importate non si mescolano mai con le api locali.",
+   "true": false,
+   "why": "Si accoppiano in volo con i fuchi della zona: le razze si mescolano.",
+   "slide": 2
+  },
+  {
+   "text": "Una legge italiana del 2004 tutela l'ape italiana.",
+   "true": true,
+   "why": "La legge 313 del 2004 sull'apicoltura nomina la tutela dell'ape italiana tra i suoi scopi.",
+   "slide": 2
+  },
+  {
+   "text": "Tutto il cibo del mondo dipende dalle api.",
+   "true": false,
+   "why": "Grano, riso e mais vanno con il vento; molta frutta e verdura invece dipende dagli insetti.",
+   "slide": 3
+  },
+  {
+   "text": "Anche le api selvatiche sono importanti impollinatori.",
+   "true": true,
+   "why": "Le api da miele lavorano insieme a tante api selvatiche e altri insetti.",
+   "slide": 3
+  },
+  {
+   "text": "L'impollinazione nel mondo vale miliardi di euro.",
+   "true": true,
+   "why": "Una stima l'ha valutata 153 miliardi di euro per il 2005.",
+   "slide": 3
+  },
+  {
+   "text": "Più spesso apri l'arnia, meglio stanno le api.",
+   "true": false,
+   "why": "Ogni visita disturba la colonia: apri solo quando hai un motivo.",
+   "slide": 4
+  },
+  {
+   "text": "Usare sempre lo stesso prodotto contro la varroa può creare resistenze.",
+   "true": true,
+   "why": "L'uso eccessivo o sbagliato ha già fatto nascere varroe resistenti.",
+   "slide": 4
+  },
+  {
+   "text": "Contro la varroa si può usare qualsiasi prodotto trovato in casa.",
+   "true": false,
+   "why": "Solo farmaci autorizzati per le api, seguendo etichetta e veterinario.",
+   "slide": 4
+  }
+ ]
+}

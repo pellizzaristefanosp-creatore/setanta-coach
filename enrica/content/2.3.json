@@ -1,0 +1,559 @@
+{
+  "code": "2.3",
+  "unit": 2,
+  "title": "Gli attrezzi dell'apicoltore",
+  "pages": "59–66",
+  "summary": "Conosci gli attrezzi di base: maschera, guanti, affumicatore, leva e spazzola. Capisci perché funzionano, come usarli bene e come tenere in ordine e pulita la cassetta degli attrezzi.",
+  "parts": [
+    {
+      "title": "La maschera",
+      "keyPoints": [
+        "Protegge viso e occhi, i punti più delicati",
+        "La rete nera davanti fa vedere meglio",
+        "Le api in difesa puntano i colori scuri",
+        "Prima di ogni visita controlla buchi e cerniera"
+      ],
+      "analogy": "La maschera è come la zanzariera della finestra: lascia passare aria e luce, ma non gli insetti.",
+      "tip": "Prima di ogni visita controlla la maschera: niente buchi, cerniera chiusa, collo ben coperto. Vesti chiaro e liscio, e raccogli i capelli lunghi.",
+      "science": {
+        "text": "Le api in difesa puntano di più i colori scuri, che ricordano i predatori. Anche l'anidride carbonica del nostro respiro è uno dei segnali che le attirano. Per questo gli esperti consigliano tessuti chiari e lisci e un viso ben protetto.",
+        "source": "California Master Beekeeper Program, UC Davis: Defensive honey bees",
+        "url": "https://cambp.ucdavis.edu/defensive-honey-bees"
+      },
+      "check": {
+        "question": "Perché per lavorare con le api si vestono colori chiari?",
+        "options": [
+          "Perché le api puntano di più i colori scuri",
+          "Perché i colori chiari profumano di fiori",
+          "Perché le api non vedono il colore bianco",
+          "Perché i colori chiari tengono lontana la varroa"
+        ],
+        "answer": 0,
+        "explanation": "Lo scuro ricorda i predatori: le api in difesa lo prendono di mira più spesso."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi apriamo la cassetta degli attrezzi: maschera, guanti, affumicatore, leva e spazzola. Cominciamo dalla cosa più importante: la maschera." },
+        { "who": "E", "text": "Perché proprio la maschera?" },
+        { "who": "M", "text": "Perché protegge viso e occhi. Una puntura sulla mano dà fastidio, una vicino all'occhio è tutta un'altra storia." },
+        { "who": "E", "text": "Ce ne sono di tanti tipi?" },
+        { "who": "M", "text": "Sì: c'è la maschera semplice con il cappello, la giacca con la maschera attaccata e la tuta intera. Per iniziare la giacca è comoda." },
+        { "who": "E", "text": "E perché la rete davanti è nera?" },
+        { "who": "M", "text": "Perché la rete nera riflette meno la luce, e vedi meglio attraverso. Una rete chiara, col sole, sarebbe come un velo luminoso davanti agli occhi." },
+        { "who": "E", "text": "E il resto del vestito? Di che colore?" },
+        { "who": "M", "text": "Secondo te, perché gli apicoltori vestono quasi sempre di bianco o di colori chiari?" },
+        { "who": "E", "text": "Forse perché le api se la prendono di più con i colori scuri?" },
+        { "who": "M", "text": "Esatto. Lo scuro ricorda i predatori pelosi che cercano il miele. E i tessuti lisci sono meglio delle lane pelose." },
+        { "who": "E", "text": "Quindi niente maglione nero di lana sotto la giacca." },
+        { "who": "M", "text": "Brava. E un'altra cosa: le api sentono anche il nostro respiro. Per questo il viso attira la loro attenzione e va protetto bene." },
+        { "who": "E", "text": "Allora prima di aprire controllo cerniera, collo e buchi nella rete." },
+        { "who": "M", "text": "Perfetto. Un'ape dentro la maschera è il modo più veloce per perdere la calma." }
+      ]
+    },
+    {
+      "title": "I guanti",
+      "keyPoints": [
+        "Proteggono le mani dalle punture",
+        "Pelle: protegge di più; gomma: fa sentire meglio",
+        "Il pungiglione libera un odore d'allarme",
+        "Guanto punto: gratta via, un po' di fumo, poi lava"
+      ],
+      "analogy": "È come lavorare in cucina con le presine: proteggono dal caldo, ma con le presine spesse è difficile prendere un cucchiaino.",
+      "tip": "Se un'ape ti punge il guanto, gratta via il pungiglione e passa un po' di fumo su quel punto per coprire l'odore d'allarme. A fine giornata lava i guanti.",
+      "science": {
+        "text": "Nel 1962 alcuni ricercatori hanno scoperto che il pungiglione libera un odore d'allarme: una delle sostanze è l'acetato di isoamile, lo stesso odore che ricorda la banana. Questo odore spinge altre api a difendere. Per questo conviene togliere subito il pungiglione dal guanto.",
+        "source": "Boch, Shearer e Stone 1962, Nature",
+        "url": "https://doi.org/10.1038/1951018b0"
+      },
+      "check": {
+        "question": "Perché un guanto punto può attirare altre api?",
+        "options": [
+          "Perché il veleno rende il guanto più scuro",
+          "Perché il pungiglione lascia un odore d'allarme",
+          "Perché l'ape lascia un po' di miele sul guanto",
+          "Perché il buco fa entrare il profumo della mano"
+        ],
+        "answer": 1,
+        "explanation": "Il pungiglione libera un odore d'allarme che chiama altre api a difendere."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Passiamo ai guanti. Per chi inizia, io dico: mettili, senza vergogna." },
+        { "who": "E", "text": "Pensavo che i veri apicoltori lavorassero a mani nude!" },
+        { "who": "M", "text": "Alcuni sì, dopo anni di esperienza. Ma all'inizio le mani tremano un po'. Con i guanti ti senti più tranquilla e fai movimenti più lenti, e le api lo apprezzano." },
+        { "who": "E", "text": "Che tipo di guanti?" },
+        { "who": "M", "text": "Ci sono quelli di pelle, lunghi fino al gomito, e quelli di gomma, più sottili. La pelle protegge di più, la gomma fa sentire meglio i telaini." },
+        { "who": "E", "text": "Come le presine in cucina: più sono spesse, meno sento cosa tengo in mano." },
+        { "who": "M", "text": "Esatto. E c'è un segreto. Quando un'ape punge, il pungiglione resta lì e libera un odore. Secondo te, a cosa serve quell'odore?" },
+        { "who": "E", "text": "A chiamare le altre api? Come un allarme?" },
+        { "who": "M", "text": "Proprio così. È un odore d'allarme, che ricorda un po' la banana. Le altre api lo sentono e arrivano a difendere la casa." },
+        { "who": "E", "text": "Allora un guanto punto attira altre punture!" },
+        { "who": "M", "text": "Brava. Per questo gratti via il pungiglione con l'unghia o con la leva e passi un filo di fumo sul punto. E i guanti si lavano spesso." },
+        { "who": "E", "text": "Lavarli anche se sembrano puliti?" },
+        { "who": "M", "text": "Sì, perché l'odore resta anche quando non si vede niente. Un guanto pulito non racconta storie di vecchie punture." },
+        { "who": "E", "text": "E le mani nude, un giorno?" },
+        { "who": "M", "text": "Quando sarai più sicura potrai provare guanti più sottili, e magari col tempo farne a meno. Senza fretta." },
+        { "who": "E", "text": "Quindi per ora guanti, pungiglione via subito e guanti sempre puliti." }
+      ]
+    },
+    {
+      "title": "L'affumicatore",
+      "keyPoints": [
+        "Fumo bianco e freddo, poche sbuffate",
+        "Il fumo copre l'odore d'allarme",
+        "Col fumo molte api si riempiono di miele",
+        "Troppo fumo disturba: meglio poco e lento"
+      ],
+      "analogy": "È come quando in casa senti odore di bruciato: lasci perdere la discussione e corri a controllare la dispensa.",
+      "tip": "Accendi l'affumicatore prima di avvicinarti all'arnia e controlla che faccia fumo bianco e freddo. Dai due o tre sbuffi all'entrata, aspetta un minuto, poi apri piano.",
+      "science": {
+        "text": "Il fumo rende le antenne meno sensibili all'odore d'allarme e spinge molte api a riempirsi di miele, cosa che le rende meno pronte a pungere. Uno studio del 2018 ha visto anche che, col fumo, le api fanno uscire meno spesso la gocciolina di veleno dal pungiglione.",
+        "source": "Gage et al. 2018, Journal of Insect Science (riprende Visscher et al. 1995 e Free 1968)",
+        "url": "https://doi.org/10.1093/jisesa/iey073"
+      },
+      "check": {
+        "question": "Che fumo deve fare l'affumicatore?",
+        "options": [
+          "Nero e caldo, a getto continuo",
+          "Con fiamme vive, per scaldare le api",
+          "Bianco e freddo, a sbuffi leggeri",
+          "Profumato, con erbe aromatiche accese"
+        ],
+        "answer": 2,
+        "explanation": "Fumo bianco e freddo, poco e lento: il fumo caldo o le fiamme fanno male alle api."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Eccolo, l'affumicatore: un barattolo di metallo con un soffietto. Dentro bruci materiali naturali, come juta, aghi di pino o trucioli." },
+        { "who": "E", "text": "E il fumo calma le api? Come fa?" },
+        { "who": "M", "text": "Fa due cose. Prima: le api parlano molto con gli odori, e il fumo copre l'odore d'allarme. Le antenne lo sentono di meno." },
+        { "who": "E", "text": "Come quando in cucina c'è odore di fritto e non senti più il profumo del sugo." },
+        { "who": "M", "text": "Esatto. Seconda cosa: col fumo molte api vanno sui favi e si riempiono la pancia di miele." },
+        { "who": "E", "text": "Si riempiono di miele? Perché?" },
+        { "who": "M", "text": "Secondo te, cosa farebbe una famiglia d'api in un albero, sentendo odore di incendio?" },
+        { "who": "E", "text": "Si preparerebbe a scappare, portandosi dietro le provviste!" },
+        { "who": "M", "text": "È proprio la spiegazione che danno molti studiosi. E un'ape con la pancia piena di miele punge meno volentieri." },
+        { "who": "E", "text": "Quindi ne do tanto, così stanno tranquillissime?" },
+        { "who": "M", "text": "No! Il fumo deve essere bianco e freddo, mai fiamme o fumo caldo. Poche sbuffate all'entrata, aspetti un minuto, poi apri piano." },
+        { "who": "E", "text": "E durante la visita?" },
+        { "who": "M", "text": "Qualche sbuffo leggero sopra i telaini, quando le api salgono troppo. Troppo fumo le disturba e rovina la visita." },
+        { "who": "E", "text": "E se si spegne a metà?" },
+        { "who": "M", "text": "Succede a tutti! Per questo si riempie bene prima di cominciare e si tiene in piedi, vicino a te." },
+        { "who": "E", "text": "Fumo bianco, poco e lento, e affumicatore pronto prima di aprire." }
+      ]
+    },
+    {
+      "title": "La leva e la spazzola per api",
+      "keyPoints": [
+        "La leva stacca i telaini incollati di propoli",
+        "La leva raschia anche cera e propoli in più",
+        "La propoli protegge il nido da microbi e funghi",
+        "Spazzola morbida e pulita, un colpo leggero"
+      ],
+      "analogy": "La leva è il coltello da burro dell'apicoltore: stacca, solleva, raschia. La spazzola è come la scopetta per le briciole: leggera, senza fare danni.",
+      "tip": "Tieni la leva sempre in mano o in tasca durante la visita: appoggiata sull'erba sparisce subito. Con la spazzola basta un colpo leggero e deciso.",
+      "science": {
+        "text": "Le api raccolgono resine dalle piante e le usano come propoli per sigillare e rivestire il nido. Una revisione di studi spiega che la propoli ha proprietà contro microbi e funghi e aiuta la salute della famiglia, come una difesa di gruppo.",
+        "source": "Simone-Finstrom e Spivak 2010, Apidologie",
+        "url": "https://doi.org/10.1051/apido/2010016"
+      },
+      "check": {
+        "question": "Perché per sollevare un telaino serve la leva?",
+        "options": [
+          "Perché il telaino pesa troppo per le mani",
+          "Perché la leva calma le api sul favo",
+          "Perché il telaino è avvitato all'arnia",
+          "Perché le api lo incollano con la propoli"
+        ],
+        "answer": 3,
+        "explanation": "Le api sigillano ogni fessura con la propoli: senza leva i telaini non si staccano."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ora la leva, che qualcuno chiama palettino staccafavi. È un ferro piatto, con una punta piegata." },
+        { "who": "E", "text": "E a cosa serve? Non basta tirare su il telaino?" },
+        { "who": "M", "text": "Prova e vedrai: i telaini sono incollati. Le api sigillano ogni fessura con la propoli." },
+        { "who": "E", "text": "Ah, la colla di resina di cui parlavamo con l'arnia!" },
+        { "who": "M", "text": "Proprio lei. Con la leva fai forza tra un telaino e l'altro, li stacchi e li sollevi. E raschi via cera e propoli in più." },
+        { "who": "E", "text": "Ma la propoli è solo un fastidio?" },
+        { "who": "M", "text": "Per noi un po' sì, per le api no. Secondo te, perché le api ricoprono il nido di propoli?" },
+        { "who": "E", "text": "Per chiudere gli spifferi? E forse per tenere la casa pulita dai germi?" },
+        { "who": "M", "text": "Brava, tutte e due. La propoli viene dalle resine delle piante e ha proprietà contro microbi e funghi. È come una pulizia di casa." },
+        { "who": "E", "text": "Allora non devo raschiare via tutto." },
+        { "who": "M", "text": "Esatto: togli solo quello che ti impedisce di lavorare. E ora la spazzola, con setole lunghe e morbide." },
+        { "who": "E", "text": "Per spazzare le api? Non si arrabbiano?" },
+        { "who": "M", "text": "Un po' sì, se esageri. Si usa per togliere le api da un favo, per esempio prima di portare via il miele. Un colpo leggero e deciso, non tante passate." },
+        { "who": "E", "text": "Come togliere le briciole dalla tovaglia: un gesto solo, senza strofinare." },
+        { "who": "M", "text": "Perfetto. E la spazzola si lava spesso: se è sporca di miele, le api ci restano attaccate." },
+        { "who": "E", "text": "Leva sempre in mano, propoli via solo dove dà fastidio, spazzola morbida e pulita." }
+      ]
+    },
+    {
+      "title": "La cassetta portattrezzi",
+      "keyPoints": [
+        "Tutto pronto prima di aprire l'arnia",
+        "Leva, spazzola, combustibile, accendino, guanti",
+        "Quaderno e matita per ogni visita",
+        "Attrezzi puliti: le malattie viaggiano anche così"
+      ],
+      "analogy": "È come la borsa del pronto soccorso in macchina: non la apri tutti i giorni, ma quando serve deve avere tutto al suo posto.",
+      "tip": "Prepara la cassetta la sera prima: leva, spazzola, combustibile, accendino, guanti di ricambio, quaderno e matita. Dopo la visita pulisci la leva, soprattutto prima di passare a un altro apiario.",
+      "science": {
+        "text": "La peste americana è una malattia mortale della covata, causata da un batterio che forma spore. Le spore sono molto resistenti e possono restare attive per anni nel materiale contaminato. Per questo tenere puliti attrezzi e materiale è una buona abitudine per tutto l'apiario.",
+        "source": "Genersch 2010, Journal of Invertebrate Pathology",
+        "url": "https://doi.org/10.1016/j.jip.2009.06.015"
+      },
+      "check": {
+        "question": "Perché si prepara la cassetta prima di arrivare all'apiario?",
+        "options": [
+          "Per non lasciare l'arnia aperta troppo a lungo",
+          "Per far abituare le api all'odore degli attrezzi",
+          "Per pesare gli attrezzi prima della visita",
+          "Per contare le api che escono dall'entrata"
+        ],
+        "answer": 0,
+        "explanation": "Con tutto a portata di mano la visita è più breve e l'arnia resta aperta meno tempo."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ultima cosa: la cassetta portattrezzi. Sembra un dettaglio, ma salva molte visite." },
+        { "who": "E", "text": "Una cassetta per gli attrezzi? Come quella del bricolage?" },
+        { "who": "M", "text": "Simile. Dentro ci metti tutto quello che serve: leva, spazzola, combustibile per l'affumicatore, accendino e guanti di ricambio." },
+        { "who": "E", "text": "E basta?" },
+        { "who": "M", "text": "Aggiungo sempre un quaderno e una matita, per segnare cosa hai visto in ogni arnia. La memoria, dopo tre visite, fa scherzi." },
+        { "who": "E", "text": "Come la lista della spesa: se non la scrivo, dimentico proprio la cosa che mi serviva." },
+        { "who": "M", "text": "Esatto. Secondo te, perché conviene preparare la cassetta prima di arrivare all'apiario?" },
+        { "who": "E", "text": "Perché con l'arnia aperta non posso correre a casa a prendere l'accendino o la leva." },
+        { "who": "M", "text": "Brava. Un'arnia aperta a lungo perde calore e le api si innervosiscono. Tutto deve essere a portata di mano." },
+        { "who": "E", "text": "E dove la metto durante la visita?" },
+        { "who": "M", "text": "Vicino a te, ma non davanti all'entrata, dove passano le api. E chiusa, se dentro c'è cera o miele." },
+        { "who": "E", "text": "Altrimenti attira le api curiose?" },
+        { "who": "M", "text": "Proprio così, anche api di altre famiglie in cerca di cibo. E c'è un'ultima regola: gli attrezzi si tengono puliti." },
+        { "who": "E", "text": "Per l'ordine?" },
+        { "who": "M", "text": "Anche per la salute delle api. Alcune malattie della covata, come la peste americana, hanno spore molto resistenti che possono viaggiare con il materiale sporco." },
+        { "who": "E", "text": "Quindi cassetta pronta, quaderno sempre con me e attrezzi puliti." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Perché la maschera è l'attrezzo più importante?", "back": "Protegge viso e occhi, i punti più delicati.", "part": 0 },
+    { "front": "Che colori indossare con le api?", "back": "Colori chiari e tessuti lisci: lo scuro attira le api in difesa.", "part": 0 },
+    { "front": "Cosa libera il pungiglione?", "back": "Un odore d'allarme, che ricorda la banana e chiama altre api a difendere.", "part": 1 },
+    { "front": "Come agisce il fumo sulle api?", "back": "Copre l'odore d'allarme e spinge molte api a riempirsi di miele.", "part": 2 },
+    { "front": "Che fumo deve fare l'affumicatore?", "back": "Bianco e freddo, a sbuffi leggeri.", "part": 2 },
+    { "front": "A cosa serve la leva?", "back": "A staccare i telaini incollati di propoli e a raschiare cera e propoli in più.", "part": 3 },
+    { "front": "Come si usa la spazzola per api?", "back": "Un colpo leggero e deciso, con setole morbide e pulite.", "part": 3 },
+    { "front": "Cosa c'è nella cassetta portattrezzi?", "back": "Leva, spazzola, combustibile, accendino, guanti di ricambio, quaderno e matita.", "part": 4 }
+  ],
+  "questions": [
+    {
+      "question": "Perché la rete della maschera di solito è nera?",
+      "options": [
+        "Perché le api non riescono a vederla",
+        "Perché riflette meno luce e si vede meglio",
+        "Perché si sporca meno con la propoli",
+        "Perché tiene le api lontane dal viso"
+      ],
+      "answer": 1,
+      "explanation": "La rete nera riflette meno luce: attraverso si vede meglio, anche col sole.",
+      "part": 0
+    },
+    {
+      "question": "Che tessuti si consigliano per lavorare con le api?",
+      "options": [
+        "Scuri e pelosi, come la lana",
+        "Scuri e lucidi, come la seta",
+        "Chiari e pelosi, come il pile",
+        "Chiari e lisci, come il cotone"
+      ],
+      "answer": 3,
+      "explanation": "Chiaro e liscio attira meno le api in difesa di scuro e peloso.",
+      "part": 0
+    },
+    {
+      "question": "Che odore ricorda la sostanza d'allarme del pungiglione?",
+      "options": ["Di limone", "Di menta", "Di banana", "Di rosa"],
+      "answer": 2,
+      "explanation": "L'acetato di isoamile, una delle sostanze d'allarme, ha odore di banana.",
+      "part": 1
+    },
+    {
+      "question": "Che differenza c'è tra guanti di pelle e di gomma?",
+      "options": [
+        "La pelle protegge di più, la gomma fa sentire meglio",
+        "La pelle fa sentire meglio, la gomma protegge di più",
+        "La pelle si lava meglio, la gomma dura di più",
+        "La pelle è più sottile, la gomma più spessa"
+      ],
+      "answer": 0,
+      "explanation": "Pelle più spessa e protettiva, gomma più sottile e sensibile.",
+      "part": 1
+    },
+    {
+      "question": "Cosa fai se un'ape punge il guanto?",
+      "options": [
+        "Continui come se niente fosse successo",
+        "Scuoti forte la mano per far cadere l'ape",
+        "Togli il guanto e lo lasci vicino all'arnia",
+        "Gratti via il pungiglione e dai un po' di fumo"
+      ],
+      "answer": 3,
+      "explanation": "Togli la fonte dell'odore d'allarme e coprilo con un filo di fumo.",
+      "part": 1
+    },
+    {
+      "question": "Cosa fa il fumo alle antenne delle api?",
+      "options": [
+        "Le rende più sensibili all'allarme",
+        "Le rende meno sensibili all'odore d'allarme",
+        "Le blocca del tutto per qualche ora",
+        "Le sporca e le api non volano più"
+      ],
+      "answer": 1,
+      "explanation": "Le antenne affumicate sentono meno l'odore d'allarme, e la difesa si calma.",
+      "part": 2
+    },
+    {
+      "question": "Cosa fanno molte api quando sentono il fumo?",
+      "options": [
+        "Escono tutte dall'arnia in volo",
+        "Attaccano subito chi è vicino",
+        "Si riempiono la pancia di miele",
+        "Portano fuori le larve dal nido"
+      ],
+      "answer": 2,
+      "explanation": "Un'ape piena di miele punge meno volentieri.",
+      "part": 2
+    },
+    {
+      "question": "Che materiale si brucia nell'affumicatore?",
+      "options": [
+        "Plastica e gomma di vecchie scarpe",
+        "Carbonella bagnata con un po' di alcol",
+        "Cartone colorato e giornali patinati",
+        "Materiali naturali, come juta o aghi di pino"
+      ],
+      "answer": 3,
+      "explanation": "Materiali naturali danno fumo bianco e freddo, senza sostanze dannose.",
+      "part": 2
+    },
+    {
+      "question": "Che cos'è la leva, o palettino staccafavi?",
+      "options": [
+        "Un ferro piatto per staccare e sollevare i telaini",
+        "Un pennello per spalmare la cera sui telaini",
+        "Un coltello per tagliare i favi pieni di miele",
+        "Un gancio per appendere i telaini fuori"
+      ],
+      "answer": 0,
+      "explanation": "La leva stacca i telaini incollati e raschia cera e propoli.",
+      "part": 3
+    },
+    {
+      "question": "Cosa dice la ricerca sulla propoli?",
+      "options": [
+        "Che è solo una colla senza altre funzioni",
+        "Che ha proprietà contro microbi e funghi",
+        "Che fa ammalare le api se è troppa",
+        "Che le api la producono con la cera"
+      ],
+      "answer": 1,
+      "explanation": "Viene dalle resine delle piante e aiuta la salute della famiglia.",
+      "part": 3
+    },
+    {
+      "question": "Come si usa bene la spazzola per api?",
+      "options": [
+        "Con tante passate forti e veloci",
+        "Bagnata d'acqua per non far male",
+        "Con un colpo leggero e deciso",
+        "Solo con le setole dure e corte"
+      ],
+      "answer": 2,
+      "explanation": "Un gesto solo, leggero: tante passate innervosiscono le api.",
+      "part": 3
+    },
+    {
+      "question": "Perché gli attrezzi vanno tenuti puliti?",
+      "options": [
+        "Perché lo sporco rovina il legno dell'arnia",
+        "Perché le api preferiscono gli attrezzi lucidi",
+        "Perché la cera rende la leva troppo pesante",
+        "Perché le spore di malattie viaggiano con lo sporco"
+      ],
+      "answer": 3,
+      "explanation": "Le spore della peste americana sono molto resistenti e possono passare col materiale sporco.",
+      "part": 4
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Un'ape nella maschera",
+      "prompt": "«Durante la visita senti un ronzio vicinissimo: un'ape è entrata dentro la maschera.» Cosa fai?",
+      "modelAnswer": "Prima di tutto mantengo la calma e non mi do schiaffi sulla faccia. Rimetto piano il coprifavo sull'arnia, così non resta aperta, e mi allontano con passo tranquillo di qualche metro, lontano dalle entrate e dalle altre api. Lì apro la maschera con calma e lascio uscire l'ape. Se mi ha punto, tolgo il pungiglione grattando e passo un filo di fumo sul punto. Prima di tornare all'arnia controllo dove è entrata: cerniera aperta, buco nella rete, collo scoperto. La prossima volta faccio il controllo della maschera prima di cominciare."
+    },
+    {
+      "title": "L'affumicatore spento",
+      "prompt": "«Hai aperto l'arnia, le api salgono nervose sui telaini e l'affumicatore si è spento.» Cosa fai?",
+      "modelAnswer": "Non continuo la visita senza fumo con le api agitate. Rimetto delicatamente il coprifavo e mi allontano di qualche passo. Riaccendo l'affumicatore con materiale naturale, lo riempio bene e controllo che faccia fumo bianco e freddo. Torno, do qualche sbuffo leggero sopra i telaini, aspetto un attimo e riprendo con movimenti lenti. Se le api restano molto nervose, chiudo e rimando la visita a un'ora o a un giorno migliore. La prossima volta preparo l'affumicatore con più combustibile prima di aprire e lo tengo in piedi vicino a me."
+    },
+    {
+      "title": "Da un apiario all'altro",
+      "prompt": "«Hai aiutato un'amica con le sue arnie e vuoi passare subito alle tue, con la stessa leva sporca di cera e propoli.» Cosa fai?",
+      "modelAnswer": "Prima di toccare le mie arnie pulisco la leva. Raschio via cera e propoli, la lavo bene e la asciugo; molti apicoltori la passano anche sulla fiamma. Lo faccio perché alcune malattie della covata, come la peste americana, hanno spore molto resistenti che possono viaggiare con il materiale sporco, e non voglio portarle da un apiario all'altro. Faccio lo stesso con guanti e spazzola, o uso quelli di ricambio della cassetta. Se nelle arnie dell'amica ho visto covata strana o cattivi odori, lo dico a lei e le consiglio di sentire l'ASL o l'associazione."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Usare l'affumicatore",
+        "steps": [
+          "Riempi l'affumicatore di materiale naturale",
+          "Accendilo prima di avvicinarti all'arnia",
+          "Controlla che il fumo sia bianco e freddo",
+          "Dai due o tre sbuffi all'entrata",
+          "Aspetta un minuto, poi apri piano"
+        ],
+        "part": 2
+      },
+      {
+        "title": "Dopo una puntura sul guanto",
+        "steps": [
+          "Allontana la mano con calma",
+          "Gratta via il pungiglione",
+          "Passa un filo di fumo sul punto",
+          "A fine visita lava i guanti"
+        ],
+        "part": 1
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Ho un soffietto e un barattolo di metallo",
+          "Dentro di me bruciano juta e aghi di pino",
+          "Copro l'odore d'allarme delle api"
+        ],
+        "answer": "L'affumicatore",
+        "distractors": ["Il coprifavo", "L'apiscampo", "Il diaframma"],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Mi chiamano anche palettino staccafavi",
+          "Separo i telaini incollati di propoli",
+          "Mi tieni sempre in mano durante la visita"
+        ],
+        "answer": "La leva",
+        "distractors": ["La spazzola", "La maschera", "La cassetta"],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Ho setole lunghe e morbide",
+          "Sposto le api da un favo con un gesto solo",
+          "Se mi sporco di miele, le api restano attaccate"
+        ],
+        "answer": "La spazzola",
+        "distractors": ["La leva", "La maschera", "La forchetta"],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Ho una rete nera davanti",
+          "Proteggo occhi e viso",
+          "Prima di ogni visita controlli che non abbia buchi"
+        ],
+        "answer": "La maschera",
+        "distractors": ["La tuta", "La cuffia", "La sciarpa"],
+        "part": 0
+      },
+      {
+        "clues": [
+          "Viaggio nella cassetta degli attrezzi",
+          "Ricordo cosa hai visto in ogni arnia",
+          "Con una matita mi riempi dopo la visita"
+        ],
+        "answer": "Il quaderno",
+        "distractors": ["L'accendino", "Il guanto", "Il coltello"],
+        "part": 4
+      }
+    ],
+    "truefalse": [
+      { "text": "La rete nera della maschera aiuta a vedere meglio.", "true": true, "why": "Riflette meno luce di una rete chiara.", "part": 0 },
+      { "text": "Con le api è meglio un maglione nero di lana.", "true": false, "why": "Lo scuro e i tessuti pelosi attirano le api in difesa: meglio chiaro e liscio.", "part": 0 },
+      { "text": "Il pungiglione rimasto nel guanto può attirare altre api.", "true": true, "why": "Libera un odore d'allarme che chiama altre api a difendere.", "part": 1 },
+      { "text": "I guanti di pelle fanno sentire i telaini meglio di quelli di gomma.", "true": false, "why": "La pelle protegge di più; la gomma, più sottile, fa sentire meglio.", "part": 1 },
+      { "text": "Chi inizia dovrebbe lavorare subito a mani nude.", "true": false, "why": "All'inizio i guanti danno sicurezza; le mani nude, se mai, vengono con l'esperienza.", "part": 1 },
+      { "text": "Il fumo rende le antenne meno sensibili all'odore d'allarme.", "true": true, "why": "È uno dei modi in cui il fumo calma la difesa dell'alveare.", "part": 2 },
+      { "text": "Più fumo dai, più le api stanno tranquille.", "true": false, "why": "Troppo fumo le disturba: bastano poche sbuffate di fumo bianco e freddo.", "part": 2 },
+      { "text": "Col fumo molte api si riempiono di miele.", "true": true, "why": "E un'ape piena di miele punge meno volentieri.", "part": 2 },
+      { "text": "La propoli ha proprietà contro microbi e funghi.", "true": true, "why": "Viene dalle resine delle piante e aiuta la salute della famiglia.", "part": 3 },
+      { "text": "Con la spazzola si fanno tante passate forti sulle api.", "true": false, "why": "Basta un colpo leggero e deciso: tante passate le innervosiscono.", "part": 3 },
+      { "text": "La cassetta degli attrezzi va messa davanti all'entrata dell'arnia.", "true": false, "why": "Va vicino a te ma lontano dall'entrata, dove passano le api.", "part": 4 },
+      { "text": "Le spore della peste americana sono molto resistenti.", "true": true, "why": "Possono restare attive per anni nel materiale contaminato.", "part": 4 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 8,
+      "question": "Perché gli apicoltori vestono di bianco o di colori chiari?",
+      "options": [
+        "Perché il bianco profuma di fiori",
+        "Perché le api pungono di più lo scuro",
+        "Perché il bianco allontana la varroa",
+        "Perché le api non vedono il bianco"
+      ],
+      "answer": 1,
+      "why": "I colori scuri ricordano i predatori: le api in difesa li puntano di più."
+    },
+    {
+      "part": 1,
+      "line": 6,
+      "question": "A cosa serve l'odore che libera il pungiglione?",
+      "options": [
+        "A curare la ferita dell'ape",
+        "A segnare la strada verso i fiori",
+        "A chiamare altre api a difendere",
+        "A tenere lontane le formiche"
+      ],
+      "answer": 2,
+      "why": "È un odore d'allarme: le altre api lo sentono e arrivano a difendere la casa."
+    },
+    {
+      "part": 2,
+      "line": 6,
+      "question": "Cosa farebbe una famiglia d'api in un albero, sentendo odore di incendio?",
+      "options": [
+        "Uscirebbe tutta a pungere il fuoco",
+        "Chiuderebbe l'entrata con la cera",
+        "Smetterebbe di fare miele per sempre",
+        "Si preparerebbe a fuggire con le scorte"
+      ],
+      "answer": 3,
+      "why": "Molti studiosi spiegano così perché col fumo le api si riempiono di miele e pungono meno."
+    },
+    {
+      "part": 3,
+      "line": 6,
+      "question": "Perché le api ricoprono il nido di propoli?",
+      "options": [
+        "Per chiudere spifferi e difendersi dai germi",
+        "Per rendere il nido più pesante e stabile",
+        "Per nutrire le larve nei primi giorni",
+        "Per segnare la strada alle bottinatrici"
+      ],
+      "answer": 0,
+      "why": "La propoli sigilla le fessure e ha proprietà contro microbi e funghi."
+    },
+    {
+      "part": 4,
+      "line": 6,
+      "question": "Perché conviene preparare la cassetta prima di arrivare all'apiario?",
+      "options": [
+        "Per far vedere alle api gli attrezzi",
+        "Per non correre via con l'arnia aperta",
+        "Per non sporcare l'erba dell'apiario",
+        "Per avere meno peso da portare"
+      ],
+      "answer": 1,
+      "why": "Con l'arnia aperta non puoi correre a casa: tutto deve essere già a portata di mano."
+    }
+  ]
+}

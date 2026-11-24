@@ -1,0 +1,887 @@
+{
+  "code": "1.1",
+  "unit": 1,
+  "title": "La società delle api",
+  "pages": "15–26",
+  "summary": "Scopri che una colonia di api vive come una grande famiglia, con una regina, tante operaie e i fuchi. Impari com'è fatto il corpo di un'ape e quali lavori fa un'operaia nelle diverse età della sua vita.",
+  "parts": [
+    {
+      "title": "La società delle api",
+      "keyPoints": [
+        "La colonia vive come un unico grande organismo",
+        "Tre tipi di api: regina, operaie e fuchi",
+        "Un'ape da sola non sopravvive a lungo",
+        "In estate una colonia conta decine di migliaia di api"
+      ],
+      "analogy": "La colonia è come una grande famiglia sotto lo stesso tetto: ognuno ha il suo compito, e la casa va avanti solo se tutti fanno la loro parte.",
+      "tip": "Quando apri l'arnia, pensa che entri in casa di una famiglia intera: gesti lenti, niente colpi sul legno, e richiudi appena hai finito.",
+      "science": {
+        "text": "La regina si accoppia con molti fuchi, quindi nella colonia vivono tanti gruppi di sorelle diverse. In un esperimento, le colonie con api geneticamente varie hanno raccolto più cibo, sono cresciute di più e hanno superato meglio l'inverno di quelle con api tutte uguali.",
+        "source": "Mattila e Seeley 2007, Science",
+        "url": "https://doi.org/10.1126/science.1143046"
+      },
+      "check": {
+        "question": "Perché si dice che la colonia è un «superorganismo»?",
+        "options": [
+          "Perché le api funzionano insieme come un solo corpo",
+          "Perché le api sono più grandi degli altri insetti",
+          "Perché ogni ape vive bene anche lontana dalle altre",
+          "Perché la regina dà a ogni ape un ordine preciso"
+        ],
+        "answer": 0,
+        "explanation": "Nessuna ape vive a lungo da sola: la colonia lavora come un unico organismo, con compiti divisi."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ciao Enrica, benvenuta! Oggi cominciamo dal principio: la società delle api. Chi abita in un'arnia e come si organizza."
+        },
+        {
+          "who": "E",
+          "text": "Ciao Tonino! Io finora ho visto solo api sui fiori. Non so nemmeno quante ce ne siano in una cassetta."
+        },
+        {
+          "who": "M",
+          "text": "In estate una colonia forte conta decine di migliaia di api. Ma la cosa bella è che non sono tante api sparse: sono una famiglia sola."
+        },
+        {
+          "who": "E",
+          "text": "Una famiglia? Tipo mamma, figlie e fratelli?"
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. C'è una regina, che è la mamma di quasi tutte. Ci sono le operaie, che sono le figlie femmine. E ci sono i fuchi, i maschi."
+        },
+        {
+          "who": "E",
+          "text": "E ognuno fa quello che vuole, o c'è un capo che comanda?"
+        },
+        {
+          "who": "M",
+          "text": "Nessun capo con il fischietto. Ognuno fa la sua parte, e insieme si comportano come un unico corpo. Per questo si parla di superorganismo."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, un'ape operaia presa da sola e chiusa in un barattolo con un po' di miele, quanto resiste?"
+        },
+        {
+          "who": "E",
+          "text": "Poco, credo. Da sola non può scaldarsi, non può allevare piccoli, non ha le compagne che la puliscono e la nutrono."
+        },
+        {
+          "who": "M",
+          "text": "Brava. Un'ape sola è come una mano staccata dal corpo: non va lontano. La vera unità è la colonia intera."
+        },
+        {
+          "who": "E",
+          "text": "Quindi quando guardo un'arnia devo pensare alla famiglia, non alla singola ape."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. E ti dico una curiosità: la regina si accoppia con molti fuchi, così le figlie sono sorelle un po' diverse tra loro."
+        },
+        {
+          "who": "E",
+          "text": "E questo serve a qualcosa, o è solo un caso?"
+        },
+        {
+          "who": "M",
+          "text": "Serve eccome. Gli studiosi hanno visto che le colonie con api più varie crescono meglio e superano meglio l'inverno. La varietà rende forte la famiglia."
+        }
+      ]
+    },
+    {
+      "title": "La regina",
+      "keyPoints": [
+        "Di solito c'è una sola regina per colonia",
+        "È l'unica femmina che depone uova fecondate",
+        "Si accoppia in volo con molti fuchi, da giovane",
+        "Il suo odore tiene unita e calma la colonia"
+      ],
+      "analogy": "La regina è come la nonna che tiene unita la famiglia: non dà ordini, ma la sua presenza in casa si sente in ogni stanza.",
+      "tip": "Non serve vedere la regina a ogni visita. Se trovi uova piccole e dritte in fondo alle celle, lei c'era pochi giorni fa.",
+      "science": {
+        "text": "L'odore della regina che richiama le operaie intorno a lei, la sua «corte», non è una sola sostanza. Gli studiosi hanno trovato una miscela di almeno nove sostanze prodotte da più ghiandole: la miscela di odori più complessa conosciuta per un solo comportamento.",
+        "source": "Keeling et al. 2003, PNAS",
+        "url": "https://doi.org/10.1073/pnas.0836984100"
+      },
+      "check": {
+        "question": "Da un uovo che la regina non feconda, che cosa nasce?",
+        "options": [
+          "Una nuova regina pronta a partire",
+          "Un'operaia più piccola delle altre",
+          "Un fuco, cioè un maschio",
+          "Un'ape nutrice già adulta"
+        ],
+        "answer": 2,
+        "explanation": "Le uova fecondate danno femmine (operaie o regine), quelle non fecondate danno i fuchi."
+      },
+      "dialogue": [
+        {
+          "who": "E",
+          "text": "Tonino, parliamo della regina. Nei film sembra la padrona dell'alveare. È così?"
+        },
+        {
+          "who": "M",
+          "text": "Più che padrona, è la mamma. Di solito ce n'è una sola per colonia, ed è l'unica femmina che depone uova fecondate."
+        },
+        {
+          "who": "E",
+          "text": "E come la riconosco in mezzo a tutte le altre?"
+        },
+        {
+          "who": "M",
+          "text": "Ha l'addome più lungo, che va oltre le ali. Cammina con calma, e spesso intorno a lei c'è un cerchio di operaie girate verso di lei: la sua corte."
+        },
+        {
+          "who": "E",
+          "text": "E i fuchi a cosa le servono?"
+        },
+        {
+          "who": "M",
+          "text": "Da giovane la regina esce per il volo nuziale e si accoppia in aria con molti fuchi. Conserva il loro seme in una piccola sacca, la spermateca, e lo usa per tutta la vita."
+        },
+        {
+          "who": "E",
+          "text": "Quindi non esce più a cercare fuchi?"
+        },
+        {
+          "who": "M",
+          "text": "Di norma no. Poi decide lei, uovo per uovo: se lo feconda nasce una femmina, se non lo feconda nasce un maschio."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, come fanno migliaia di operaie a sapere che la loro regina c'è ed è in salute, anche se non la vedono?"
+        },
+        {
+          "who": "E",
+          "text": "Forse dall'odore? Lei lascia un profumo che passa da un'ape all'altra."
+        },
+        {
+          "who": "M",
+          "text": "Esatto! Le operaie della corte la leccano e la toccano, poi portano il suo odore in giro per l'arnia. È come un messaggio che dice: tutto bene, la mamma è qui."
+        },
+        {
+          "who": "E",
+          "text": "E se la regina muore, se ne accorgono subito?"
+        },
+        {
+          "who": "M",
+          "text": "Abbastanza in fretta, perché quel messaggio sparisce. La colonia diventa agitata e prova ad allevare una regina nuova da una larva giovane."
+        },
+        {
+          "who": "E",
+          "text": "Allora la regina tiene unita la famiglia più con il profumo che con gli ordini."
+        }
+      ]
+    },
+    {
+      "title": "Il corpo dell'operaia",
+      "keyPoints": [
+        "Tre parti: capo, torace e addome",
+        "La ligula è la lingua che succhia il nettare",
+        "La corbicula sulle zampe porta il polline",
+        "Sotto l'addome ci sono le ghiandole della cera",
+        "Il pungiglione dell'operaia ha piccoli uncini"
+      ],
+      "analogy": "Il corpo dell'operaia è come una cucina ben attrezzata: la cannuccia per i liquidi, i cestini per la spesa, il forno per la cera e perfino l'allarme di casa.",
+      "tip": "Guarda le api che rientrano all'arnia: le palline colorate sulle zampe posteriori sono polline nelle corbicule. Tante palline vuol dire che stanno allevando covata.",
+      "science": {
+        "text": "Nel capo delle operaie ci sono le ghiandole ipofaringee, che producono il cibo per le larve. Uno studio ha misurato che queste ghiandole sono più grandi nelle api giovani e diventano più piccole man mano che l'ape invecchia e cambia lavoro.",
+        "source": "Huang et al. 1994, Journal of Comparative Physiology A",
+        "url": "https://doi.org/10.1007/BF00192722"
+      },
+      "check": {
+        "question": "A che cosa serve la corbicula sulle zampe posteriori?",
+        "options": [
+          "A succhiare il nettare dai fiori",
+          "A produrre le scaglie di cera",
+          "A difendere l'arnia dai nemici",
+          "A portare il polline fino all'arnia"
+        ],
+        "answer": 3,
+        "explanation": "La corbicula è una piccola conca con peli sulle zampe posteriori: lì l'ape pressa il polline e lo porta a casa."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Adesso guardiamo da vicino il corpo di un'operaia. Come tutti gli insetti ha tre parti: capo, torace e addome."
+        },
+        {
+          "who": "E",
+          "text": "Partiamo dalla testa, allora. Cosa c'è di speciale?"
+        },
+        {
+          "who": "M",
+          "text": "Due antenne per sentire odori e tocchi, due grandi occhi composti e tre occhietti in alto. Poi le mandibole, per masticare la cera, e la ligula."
+        },
+        {
+          "who": "E",
+          "text": "La ligula cos'è?"
+        },
+        {
+          "who": "M",
+          "text": "È la lingua lunga, come una cannuccia pelosa. Con quella succhia il nettare in fondo ai fiori e lo mette in una specie di borsa nell'addome."
+        },
+        {
+          "who": "E",
+          "text": "E nel torace?"
+        },
+        {
+          "who": "M",
+          "text": "Lì ci sono i muscoli del volo, due paia di ali e tre paia di zampe. Sulle zampe di dietro c'è la corbicula, il cestino del polline."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, da dove viene la cera con cui le api costruiscono i favi?"
+        },
+        {
+          "who": "E",
+          "text": "La fanno loro con il corpo? Forse da qualche ghiandola sotto la pancia."
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. Sotto l'addome le operaie giovani hanno quattro paia di ghiandole della cera. Escono piccole scaglie che poi masticano e modellano."
+        },
+        {
+          "who": "E",
+          "text": "E il pungiglione? Ho sentito che se punge muore."
+        },
+        {
+          "who": "M",
+          "text": "L'operaia ha un pungiglione con piccoli uncini. Nella pelle di una persona resta agganciato e l'ape, staccandosi, muore. La regina invece ha il pungiglione liscio, i fuchi non ce l'hanno."
+        },
+        {
+          "who": "E",
+          "text": "Quindi pungere è l'ultima cosa che un'operaia vuole fare."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, lo fa solo per difendere la famiglia. E nel capo ha anche le ghiandole che fanno la pappa per le larve: le vediamo nella prossima parte."
+        }
+      ]
+    },
+    {
+      "title": "I lavori dell'operaia secondo l'età",
+      "keyPoints": [
+        "L'operaia cambia lavoro man mano che invecchia",
+        "Da giovane pulisce le celle e nutre le larve",
+        "Poi costruisce favi, sistema il cibo e fa la guardia",
+        "Le più anziane escono a bottinare fuori",
+        "I compiti cambiano se la colonia ne ha bisogno"
+      ],
+      "analogy": "È come una vita in una bottega di famiglia: da piccola aiuti a pulire, poi impari a cucinare, e da grande vai al mercato a fare la spesa.",
+      "tip": "Sul predellino osserva le guardiane: stanno ferme all'ingresso, con le antenne avanti, e controllano chi entra. Se sono tante e nervose, lavora con più calma.",
+      "science": {
+        "text": "Una grande revisione spiega che le api hanno due modi di organizzarsi. In primavera ed estate si dividono i compiti per età, per crescere e fare scorte. D'inverno conta soprattutto sopravvivere. Il passaggio da un lavoro all'altro dipende anche dai bisogni della colonia.",
+        "source": "Johnson 2010, Behavioral Ecology and Sociobiology",
+        "url": "https://doi.org/10.1007/s00265-009-0874-7"
+      },
+      "check": {
+        "question": "Quale lavoro fa di solito un'operaia nelle prime settimane di vita?",
+        "options": [
+          "Esce a raccogliere nettare lontano",
+          "Pulisce le celle e nutre le larve",
+          "Va in cerca di una nuova casa",
+          "Difende l'arnia dalle vespe grandi"
+        ],
+        "answer": 1,
+        "explanation": "Le operaie giovani lavorano dentro l'arnia: pulizia, cura della covata, cera. Il volo fuori arriva più tardi."
+      },
+      "dialogue": [
+        {
+          "who": "E",
+          "text": "Tonino, le operaie fanno tutte lo stesso lavoro?"
+        },
+        {
+          "who": "M",
+          "text": "No, e qui c'è una delle cose più belle delle api. Un'operaia cambia lavoro con l'età, un po' come si cambiano mansioni in una bottega di famiglia."
+        },
+        {
+          "who": "E",
+          "text": "Racconta, da dove comincia?"
+        },
+        {
+          "who": "M",
+          "text": "Appena nata pulisce le celle, così la regina può deporre di nuovo. Poi diventa nutrice: dà la pappa alle larve con le ghiandole che ha nel capo."
+        },
+        {
+          "who": "E",
+          "text": "E dopo le nutrici?"
+        },
+        {
+          "who": "M",
+          "text": "Viene il periodo di mezzo. Costruisce favi con la cera, riceve il nettare dalle compagne e lo sistema, porta fuori i rifiuti, fa la guardia all'ingresso."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, perché il lavoro fuori, a cercare cibo, lo fanno le api più anziane e non le giovani?"
+        },
+        {
+          "who": "E",
+          "text": "Perché fuori è pericoloso! Se muore un'ape che ha già lavorato tanto in casa, la famiglia perde meno."
+        },
+        {
+          "who": "M",
+          "text": "Brava, è proprio questa l'idea. Le bottinatrici volano tra fiori, vento, uccelli e pioggia. Dopo circa tre settimane in casa, l'operaia comincia a uscire."
+        },
+        {
+          "who": "E",
+          "text": "Ma è una regola rigida? Se mancano bottinatrici, la colonia resta senza cibo?"
+        },
+        {
+          "who": "M",
+          "text": "No, è flessibile. Se mancano bottinatrici, alcune api più giovani escono prima. Se mancano nutrici, qualcuna può tornare a curare le larve."
+        },
+        {
+          "who": "E",
+          "text": "Allora l'età conta, ma conta di più quello che serve alla famiglia."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. E d'inverno, quando non ci sono fiori, le api lavorano in un modo diverso ancora. Ne parliamo nella lezione sul ciclo dell'anno."
+        }
+      ]
+    },
+    {
+      "title": "I fuchi",
+      "keyPoints": [
+        "Sono i maschi, nati da uova non fecondate",
+        "Più grossi, occhi enormi, nessun pungiglione",
+        "Non raccolgono cibo: li nutrono le operaie",
+        "Servono ad accoppiarsi con le regine giovani",
+        "In autunno le operaie li cacciano fuori"
+      ],
+      "analogy": "I fuchi sono come gli ospiti di una festa di nozze: arrivano in primavera, mangiano e fanno festa, ma a fine stagione la casa si chiude e tornano a casa loro.",
+      "tip": "Un fuco in mano non punge: non ha il pungiglione. Riconoscilo dal corpo tozzo e dagli occhi grandi che si toccano in cima alla testa.",
+      "science": {
+        "text": "I fuchi si radunano in volo in zone precise, le «aree di raduno», dove arrivano le regine per accoppiarsi. In Porto Rico i ricercatori le hanno cercate alzando un palloncino con l'odore della regina: su 36 luoghi provati, in 8 hanno trovato un'area di raduno.",
+        "source": "Galindo-Cardona et al. 2012, Journal of Insect Science",
+        "url": "https://doi.org/10.1673/031.012.12201"
+      },
+      "check": {
+        "question": "Che cosa succede di solito ai fuchi in autunno?",
+        "options": [
+          "Le operaie li cacciano dall'arnia",
+          "Diventano operaie più grandi",
+          "Vanno a svernare in un'altra arnia",
+          "Restano a scaldare la regina"
+        ],
+        "answer": 0,
+        "explanation": "Quando i fiori finiscono, i fuchi non servono più e consumano scorte: le operaie li spingono fuori."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ultimi abitanti dell'arnia: i fuchi, cioè i maschi. Nascono da uova non fecondate, quindi hanno solo la mamma."
+        },
+        {
+          "who": "E",
+          "text": "Come li riconosco?"
+        },
+        {
+          "who": "M",
+          "text": "Sono più grossi e tozzi delle operaie, con occhi enormi che si toccano sopra la testa. E quando volano fanno un ronzio più forte."
+        },
+        {
+          "who": "E",
+          "text": "Lavorano anche loro? Raccolgono nettare?"
+        },
+        {
+          "who": "M",
+          "text": "No. Non hanno la corbicula, hanno la lingua corta e non producono cera. Spesso sono le operaie che li nutrono."
+        },
+        {
+          "who": "E",
+          "text": "E allora a cosa servono? Sembra un po' ingiusto."
+        },
+        {
+          "who": "M",
+          "text": "Hanno un compito solo, ma importante: accoppiarsi con le regine giovani di altre colonie. Si radunano in volo in zone precise, dette aree di raduno."
+        },
+        {
+          "who": "M",
+          "text": "Secondo te, perché per una colonia conviene mandare fuori tanti fuchi, se pochi riusciranno ad accoppiarsi?"
+        },
+        {
+          "who": "E",
+          "text": "Perché così i suoi geni arrivano in altre famiglie. E più fuchi ci sono in aria, più è facile che una regina li trovi."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Il fuco che si accoppia muore subito dopo. Gli altri tornano a casa a mangiare."
+        },
+        {
+          "who": "E",
+          "text": "E d'inverno? Restano al caldo con le operaie?"
+        },
+        {
+          "who": "M",
+          "text": "No. In autunno, quando i fiori finiscono, le operaie smettono di nutrirli e li spingono fuori. D'inverno una famiglia sana di solito non ha fuchi."
+        },
+        {
+          "who": "E",
+          "text": "Quindi se a fine estate vedo i fuchi cacciati fuori, è normale."
+        },
+        {
+          "who": "M",
+          "text": "Normale e anche un buon segno: la famiglia si sta preparando all'inverno e risparmia le scorte."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Cos'è un superorganismo?",
+      "back": "Una colonia di api che vive come un unico corpo, con compiti divisi.",
+      "part": 0
+    },
+    {
+      "front": "Quali sono i tre tipi di api in una colonia?",
+      "back": "Regina, operaie e fuchi.",
+      "part": 0
+    },
+    {
+      "front": "Che cos'è la spermateca?",
+      "back": "La piccola sacca dove la regina conserva il seme dei fuchi per tutta la vita.",
+      "part": 1
+    },
+    {
+      "front": "Come capisce la colonia che la regina c'è?",
+      "back": "Dal suo odore, che le operaie della corte portano in tutta l'arnia.",
+      "part": 1
+    },
+    {
+      "front": "Che cos'è la ligula?",
+      "back": "La lingua lunga dell'ape, che succhia il nettare come una cannuccia.",
+      "part": 2
+    },
+    {
+      "front": "Dove si trovano le ghiandole della cera?",
+      "back": "Sotto l'addome delle operaie giovani: quattro paia.",
+      "part": 2
+    },
+    {
+      "front": "Perché l'operaia muore dopo aver punto una persona?",
+      "back": "Il pungiglione ha piccoli uncini, resta nella pelle e l'ape si strappa.",
+      "part": 2
+    },
+    {
+      "front": "Che lavoro fa un'operaia appena nata?",
+      "back": "Pulisce le celle; poi diventa nutrice delle larve.",
+      "part": 3
+    },
+    {
+      "front": "Quando un'operaia comincia di solito a bottinare?",
+      "back": "Dopo circa tre settimane di lavoro dentro l'arnia.",
+      "part": 3
+    },
+    {
+      "front": "Da che uovo nasce un fuco?",
+      "back": "Da un uovo non fecondato.",
+      "part": 4
+    },
+    {
+      "front": "Che cosa sono le aree di raduno dei fuchi?",
+      "back": "Zone in aria dove i fuchi si radunano e le regine vanno ad accoppiarsi.",
+      "part": 4
+    }
+  ],
+  "questions": [
+    {
+      "question": "Chi è la mamma di quasi tutte le api di una colonia?",
+      "options": [
+        "La nutrice più anziana",
+        "La bottinatrice più forte",
+        "La guardiana dell'ingresso",
+        "La regina della colonia"
+      ],
+      "answer": 3,
+      "explanation": "La regina è l'unica femmina che depone uova fecondate: quasi tutte le api della colonia sono sue figlie.",
+      "part": 0
+    },
+    {
+      "question": "Che vantaggio dà alla colonia una regina accoppiata con molti fuchi?",
+      "options": [
+        "Api più varie e una colonia più forte",
+        "Api più grandi e con ali più lunghe",
+        "Meno lavoro per le api nutrici",
+        "Un miele più chiaro e più dolce"
+      ],
+      "answer": 0,
+      "explanation": "Con tanti padri le operaie sono più varie: gli studi mostrano colonie che crescono e svernano meglio.",
+      "part": 0
+    },
+    {
+      "question": "Come si riconosce di solito la regina tra le altre api?",
+      "options": [
+        "Ha le ali più lunghe dell'addome",
+        "Ha l'addome lungo oltre le ali",
+        "Ha due palline di polline addosso",
+        "Ha gli occhi che si toccano in alto"
+      ],
+      "answer": 1,
+      "explanation": "La regina ha l'addome più lungo, che sporge oltre le ali. Gli occhi che si toccano sono dei fuchi.",
+      "part": 1
+    },
+    {
+      "question": "Quando si accoppia la regina?",
+      "options": [
+        "Ogni primavera, dentro l'arnia",
+        "Ogni mese, sul predellino",
+        "Da giovane, in volo, con molti fuchi",
+        "Da vecchia, prima di sciamare"
+      ],
+      "answer": 2,
+      "explanation": "La regina giovane fa il volo nuziale, si accoppia in aria con molti fuchi e poi conserva il seme.",
+      "part": 1
+    },
+    {
+      "question": "Che cosa fa la colonia se resta senza regina?",
+      "options": [
+        "Prova ad allevarne una da una larva giovane",
+        "Aspetta che torni una regina da fuori",
+        "Sceglie un fuco che prenda il suo posto",
+        "Smette subito di lavorare e se ne va"
+      ],
+      "answer": 0,
+      "explanation": "Le operaie scelgono larve giovani di femmina e le nutrono in modo speciale per farne una regina.",
+      "part": 1
+    },
+    {
+      "question": "Con quale parte del corpo l'ape succhia il nettare?",
+      "options": [
+        "Con le mandibole",
+        "Con le antenne",
+        "Con la corbicula",
+        "Con la ligula"
+      ],
+      "answer": 3,
+      "explanation": "La ligula è la lingua lunga dell'ape. Le mandibole servono a masticare, per esempio la cera.",
+      "part": 2
+    },
+    {
+      "question": "Quale ape ha il pungiglione liscio e senza uncini?",
+      "options": [
+        "La nutrice",
+        "La regina",
+        "La guardia",
+        "L'operaia"
+      ],
+      "answer": 1,
+      "explanation": "La regina ha il pungiglione liscio. Le operaie lo hanno con uncini, i fuchi non lo hanno affatto.",
+      "part": 2
+    },
+    {
+      "question": "Dove produce la cera un'operaia?",
+      "options": [
+        "In ghiandole sulla testa",
+        "In ghiandole sulle zampe",
+        "In ghiandole sotto l'addome",
+        "In ghiandole dentro le ali"
+      ],
+      "answer": 2,
+      "explanation": "Le ghiandole della cera sono sotto l'addome: ne escono scaglie che l'ape mastica e modella.",
+      "part": 2
+    },
+    {
+      "question": "Perché il lavoro fuori dall'arnia tocca alle api più anziane?",
+      "options": [
+        "Perché fuori è pericoloso e la colonia perde meno",
+        "Perché le giovani non sanno ancora volare per niente",
+        "Perché solo le anziane riconoscono il miele buono",
+        "Perché la regina vuole le giovani sempre vicino"
+      ],
+      "answer": 0,
+      "explanation": "Bottinare è rischioso: se muore un'ape che ha già lavorato tanto in casa, la famiglia perde meno.",
+      "part": 3
+    },
+    {
+      "question": "Se in una colonia mancano le bottinatrici, che cosa succede?",
+      "options": [
+        "La colonia muore di fame in pochi giorni",
+        "La regina esce a cercare cibo da sola",
+        "Alcune api giovani iniziano a uscire prima",
+        "I fuchi cominciano a raccogliere nettare"
+      ],
+      "answer": 2,
+      "explanation": "La divisione dei compiti è flessibile: le api cambiano lavoro secondo i bisogni della colonia.",
+      "part": 3
+    },
+    {
+      "question": "Perché un fuco non può raccogliere il polline?",
+      "options": [
+        "Perché vola solo di notte",
+        "Perché non ha la corbicula",
+        "Perché ha le ali troppo corte",
+        "Perché la regina glielo vieta"
+      ],
+      "answer": 1,
+      "explanation": "Il fuco non ha la corbicula e ha la lingua corta: non è fatto per raccogliere cibo.",
+      "part": 4
+    },
+    {
+      "question": "Che cosa succede al fuco che riesce ad accoppiarsi?",
+      "options": [
+        "Torna all'arnia e diventa guardia",
+        "Resta con la regina tutta la vita",
+        "Si accoppia con altre regine dopo",
+        "Muore subito dopo l'accoppiamento"
+      ],
+      "answer": 3,
+      "explanation": "Il fuco che si accoppia muore poco dopo; gli altri tornano all'arnia.",
+      "part": 4
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Arnia senza regina?",
+      "prompt": "«Apri l'arnia a maggio. Non vedi la regina e le api ti sembrano più rumorose del solito. Non trovi uova piccole in fondo alle celle.» Cosa pensi e cosa fai?",
+      "modelAnswer": "Non vedere la regina da sola non vuol dire niente: è facile non trovarla. Ma senza uova e con le api agitate e rumorose, è possibile che la colonia sia rimasta senza regina, perché il suo odore non passa più tra le api. Guarda bene tutti i favi di covata: cerca uova, larve piccole e celle reali, cioè celle grandi a forma di ghianda. Se ci sono celle reali, la colonia sta già allevando una regina nuova: lasciala lavorare e richiudi con calma. Se non trovi niente, non decidere da sola: chiedi consiglio a un apicoltore esperto o alla tua associazione, perché a volte bisogna dare alla colonia un favo con uova giovani o una regina."
+    },
+    {
+      "title": "Api sulla soglia a fine estate",
+      "prompt": "«A fine settembre vedi davanti all'arnia dei fuchi spinti fuori dalle operaie. Alcuni sono a terra e non riescono a rientrare.» Devi preoccuparti?",
+      "modelAnswer": "No, è un comportamento normale. In autunno i fiori finiscono e i fuchi non servono più: non raccolgono cibo e consumerebbero le scorte dell'inverno. Le operaie allora smettono di nutrirli e li spingono fuori. È un segno che la famiglia si sta preparando all'inverno e risparmia il miele. Non serve fare nulla. Puoi però approfittarne per guardare se all'ingresso c'è un buon via vai di operaie e se entrano con il polline: vuol dire che la colonia sta ancora allevando le api che dovranno passare l'inverno."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "I lavori di un'operaia, dal primo all'ultimo",
+        "steps": [
+          "Pulisce le celle vuote",
+          "Nutre le larve come nutrice",
+          "Costruisce favi con la cera",
+          "Sistema il nettare e fa la guardia",
+          "Esce a bottinare sui fiori"
+        ],
+        "part": 3
+      },
+      {
+        "title": "Dal volo nuziale alla deposizione",
+        "steps": [
+          "La regina giovane esce dall'arnia",
+          "Raggiunge i fuchi in volo",
+          "Si accoppia con molti fuchi",
+          "Conserva il seme nella spermateca",
+          "Torna e comincia a deporre"
+        ],
+        "part": 1
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Vivo al centro di una piccola folla che mi lecca e mi tocca.",
+          "Il mio odore dice a tutti che la famiglia è a posto.",
+          "Depongo le uova di tutta la colonia."
+        ],
+        "answer": "La regina",
+        "distractors": [
+          "Il fuco",
+          "La nutrice",
+          "La guardiana"
+        ],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Mi trovi sulle zampe di dietro, con tanti peli intorno.",
+          "Mi riempio di palline colorate durante il lavoro.",
+          "Servo a portare il polline a casa."
+        ],
+        "answer": "La corbicula",
+        "distractors": [
+          "La ligula",
+          "La mandibola",
+          "L'antenna"
+        ],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Sono lunga e pelosa, e di solito resto ripiegata.",
+          "Arrivo in fondo ai fiori più stretti.",
+          "Servo a succhiare il nettare come una cannuccia."
+        ],
+        "answer": "La ligula",
+        "distractors": [
+          "La corbicula",
+          "L'antenna",
+          "La mandibola"
+        ],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Ho occhi enormi che si toccano in cima alla testa.",
+          "Non pungo e non raccolgo cibo.",
+          "In autunno mi cacciano fuori dall'arnia."
+        ],
+        "answer": "Il fuco",
+        "distractors": [
+          "La regina",
+          "La nutrice",
+          "L'operaia"
+        ],
+        "part": 4
+      },
+      {
+        "clues": [
+          "Lavoro dentro l'arnia nelle prime settimane di vita.",
+          "Nel capo ho ghiandole molto sviluppate.",
+          "Do la pappa alle larve."
+        ],
+        "answer": "La nutrice",
+        "distractors": [
+          "La guardiana",
+          "La regina",
+          "La bottinatrice"
+        ],
+        "part": 3
+      }
+    ],
+    "truefalse": [
+      {
+        "text": "Un'ape operaia può vivere a lungo da sola, lontana dalla colonia.",
+        "true": false,
+        "why": "Da sola non si scalda, non si nutre bene e non alleva: la vera unità è la colonia.",
+        "part": 0
+      },
+      {
+        "text": "In una colonia ci sono regina, operaie e fuchi.",
+        "true": true,
+        "why": "Sono i tre tipi di individui della famiglia delle api.",
+        "part": 0
+      },
+      {
+        "text": "La regina esce ogni settimana per accoppiarsi di nuovo.",
+        "true": false,
+        "why": "Si accoppia da giovane in pochi voli e conserva il seme per tutta la vita.",
+        "part": 1
+      },
+      {
+        "text": "Le operaie sentono la presenza della regina grazie al suo odore.",
+        "true": true,
+        "why": "Le api della corte portano il suo odore in giro per tutta l'arnia.",
+        "part": 1
+      },
+      {
+        "text": "Le operaie sono femmine nate da uova fecondate.",
+        "true": true,
+        "why": "Dalle uova fecondate nascono femmine: operaie o, con cure speciali, regine.",
+        "part": 1
+      },
+      {
+        "text": "I fuchi hanno un pungiglione con uncini, come le operaie.",
+        "true": false,
+        "why": "I fuchi non hanno il pungiglione: in mano non pungono.",
+        "part": 4
+      },
+      {
+        "text": "La cera esce da ghiandole sotto l'addome delle operaie.",
+        "true": true,
+        "why": "Le operaie giovani hanno quattro paia di ghiandole della cera sotto l'addome.",
+        "part": 2
+      },
+      {
+        "text": "Le palline colorate sulle zampe delle api sono cera.",
+        "true": false,
+        "why": "Sono polline, pressato nelle corbicule delle zampe posteriori.",
+        "part": 2
+      },
+      {
+        "text": "Le api giovani escono subito a raccogliere nettare.",
+        "true": false,
+        "why": "Le giovani lavorano in casa; di solito bottinano dopo circa tre settimane.",
+        "part": 3
+      },
+      {
+        "text": "Se servono, alcune api cambiano lavoro prima del solito.",
+        "true": true,
+        "why": "La divisione dei compiti è flessibile e segue i bisogni della colonia.",
+        "part": 3
+      },
+      {
+        "text": "I fuchi si accoppiano con le regine in volo, fuori dall'arnia.",
+        "true": true,
+        "why": "Si radunano in zone precise in aria, dove arrivano le regine giovani.",
+        "part": 4
+      },
+      {
+        "text": "D'inverno una colonia sana è piena di fuchi.",
+        "true": false,
+        "why": "In autunno le operaie cacciano i fuchi: d'inverno di solito non ce ne sono.",
+        "part": 4
+      }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 7,
+      "question": "Quanto resiste un'operaia chiusa da sola in un barattolo con miele?",
+      "options": [
+        "Molto, perché il miele le basta per mesi",
+        "Poco, perché da sola non vive bene",
+        "Molto, perché si scalda da sola",
+        "Poco, perché il miele è velenoso"
+      ],
+      "answer": 1,
+      "why": "Un'ape sola non si scalda, non alleva e non viene curata dalle compagne: la vera unità è la colonia."
+    },
+    {
+      "part": 1,
+      "line": 8,
+      "question": "Come sanno le operaie che la regina c'è, anche senza vederla?",
+      "options": [
+        "Dal ronzio forte delle sue ali",
+        "Dai colori vivaci del suo corpo",
+        "Dal suo odore che passa tra le api",
+        "Dal numero di fuchi nell'arnia"
+      ],
+      "answer": 2,
+      "why": "Le operaie della corte toccano la regina e portano il suo odore in tutta l'arnia: è un messaggio che dice «la mamma c'è»."
+    },
+    {
+      "part": 2,
+      "line": 7,
+      "question": "Da dove viene la cera con cui le api costruiscono i favi?",
+      "options": [
+        "Dai fiori, come il polline",
+        "Dal nettare lasciato asciugare",
+        "Dalla resina degli alberi",
+        "Da ghiandole sotto l'addome"
+      ],
+      "answer": 3,
+      "why": "Le operaie giovani hanno quattro paia di ghiandole della cera sotto l'addome: escono scaglie che poi masticano."
+    },
+    {
+      "part": 3,
+      "line": 6,
+      "question": "Perché a cercare cibo fuori vanno le api più anziane?",
+      "options": [
+        "Perché fuori è pericoloso e si perde meno",
+        "Perché le giovani non hanno ancora le ali",
+        "Perché solo le anziane conoscono i fiori",
+        "Perché le giovani devono stare con i fuchi"
+      ],
+      "answer": 0,
+      "why": "Fuori ci sono uccelli, vento e pioggia: se muore un'ape che ha già lavorato tanto in casa, la famiglia perde meno."
+    },
+    {
+      "part": 4,
+      "line": 7,
+      "question": "Perché alla colonia conviene mandare fuori tanti fuchi?",
+      "options": [
+        "Per avere più guardie all'ingresso",
+        "Per portare più polline a casa",
+        "Per scaldare meglio la covata",
+        "Per portare i suoi geni lontano"
+      ],
+      "answer": 3,
+      "why": "Più fuchi in aria vuol dire più possibilità di incontrare regine di altre colonie e di passare i geni della famiglia."
+    }
+  ]
+}

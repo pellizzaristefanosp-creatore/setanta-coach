@@ -1,0 +1,138 @@
+{
+ "code": "4.3",
+ "order": [
+  {
+   "title": "Il viaggio delle arnie",
+   "steps": [
+    "Prepara reti, cinghie e attrezzi",
+    "Aspetta il tramonto, api tutte in casa",
+    "Chiudi le entrate con le reti",
+    "Carica e lega bene le arnie",
+    "Viaggia di notte, senza soste al sole",
+    "Scarica, metti in piano e apri le entrate",
+    "Il giorno dopo controlla il volo"
+   ],
+   "slide": 3
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Succedo di più quando le arnie sono vicine",
+    "Porto api nella casa sbagliata",
+    "Sono l'errore di un'ape che sbaglia arnia"
+   ],
+   "answer": "La deriva",
+   "distractors": [
+    "La sciamatura",
+    "La covata",
+    "La varroa"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Senza di me tanti frutti non nascono",
+    "Gli agricoltori a volte pagano per avermi",
+    "Porto il polline da un fiore all'altro"
+   ],
+   "answer": "L'impollinazione",
+   "distractors": [
+    "La sciamatura",
+    "La bottinatura",
+    "La smielatura"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Porto il codice dell'apicoltore",
+    "Mi trovi vicino a ogni apiario",
+    "Sono come la targa delle tue arnie"
+   ],
+   "answer": "Il cartello",
+   "distractors": [
+    "Il registro",
+    "Il coprifavo",
+    "Il pallet"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Lascio passare l'aria ma non le api",
+    "Servo soprattutto quando fa caldo",
+    "Mi metti sull'arnia prima del viaggio"
+   ],
+   "answer": "La rete di ventilazione",
+   "distractors": [
+    "La cinghia di trasporto",
+    "La porticina di legno",
+    "La griglia anti-saccheggio"
+   ],
+   "slide": 3
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Il nomadismo segue le fioriture spostando le arnie.",
+   "true": true,
+   "why": "Come la transumanza: le arnie vanno dove ci sono fiori.",
+   "slide": 1
+  },
+  {
+   "text": "Grano e mais hanno bisogno delle api per fare i semi.",
+   "true": false,
+   "why": "Si impollinano soprattutto con il vento o da soli.",
+   "slide": 1
+  },
+  {
+   "text": "Le api nomadi, in media, vivono un po' meno di quelle ferme.",
+   "true": true,
+   "why": "Il viaggio è uno stress; tanto cibo aiuta a recuperare.",
+   "slide": 2
+  },
+  {
+   "text": "Conviene fare nomadismo anche verso posti poveri di fiori.",
+   "true": false,
+   "why": "Il viaggio stanca le api: vale la pena solo per fioriture ricche.",
+   "slide": 2
+  },
+  {
+   "text": "Le arnie si chiudono di giorno, mentre le api bottinano.",
+   "true": false,
+   "why": "Si chiudono al tramonto, con le bottinatrici in casa.",
+   "slide": 3
+  },
+  {
+   "text": "Il caldo è il pericolo più grande durante il trasporto.",
+   "true": true,
+   "why": "Le api chiuse e agitate scaldano l'arnia e rischiano di soffocare.",
+   "slide": 3
+  },
+  {
+   "text": "Le arnie vicine si passano più facilmente la varroa.",
+   "true": true,
+   "why": "Deriva e saccheggi sono più frequenti quando le arnie sono vicine.",
+   "slide": 4
+  },
+  {
+   "text": "Il codice civile chiede 10 metri dalle strade pubbliche.",
+   "true": true,
+   "why": "E cinque metri dai confini delle proprietà.",
+   "slide": 4
+  },
+  {
+   "text": "Chi ha poche arnie non deve registrarsi all'anagrafe.",
+   "true": false,
+   "why": "Anche con una sola arnia bisogna registrarsi.",
+   "slide": 5
+  },
+  {
+   "text": "Gli spostamenti temporanei non vanno mai comunicati.",
+   "true": false,
+   "why": "Anche gli spostamenti temporanei vanno registrati nella banca dati.",
+   "slide": 5
+  }
+ ]
+}

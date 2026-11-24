@@ -1,0 +1,403 @@
+{
+ "code": "2.2",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica! Oggi entriamo in casa delle api: parliamo dell'arnia. Come sceglierla, di che materiale, quanti telaini, e le arnie con il favo naturale."
+    },
+    {
+     "who": "E",
+     "text": "Bene! Ma di arnie ce ne sono tante. Quale prendo?"
+    },
+    {
+     "who": "M",
+     "text": "In Italia la più diffusa è la Dadant-Blatt, che chiamiamo DB. Nel mondo è molto usata anche la Langstroth. Sono casse di legno con dentro i telaini mobili."
+    },
+    {
+     "who": "E",
+     "text": "Mobili vuol dire che si tolgono?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, li sfili uno a uno, guardi i favi e li rimetti. Con le vecchie arnie a favo fisso, invece, per prendere il miele spesso si rovinava il nido."
+    },
+    {
+     "who": "E",
+     "text": "E come mai le api non incollano i telaini alle pareti?"
+    },
+    {
+     "who": "M",
+     "text": "Grazie allo spazio d'ape. Il reverendo Langstroth, a metà Ottocento, usò un'osservazione semplice: le api lasciano libero un corridoio di pochi millimetri."
+    },
+    {
+     "who": "E",
+     "text": "Quanto, più o meno?"
+    },
+    {
+     "who": "M",
+     "text": "Tra sei e nove millimetri. Secondo te, cosa fanno le api se lo spazio è più largo?"
+    },
+    {
+     "who": "E",
+     "text": "Ci costruiscono dentro un pezzo di favo?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto, favi di troppo. E se è più stretto, lo chiudono con la propoli, una specie di colla fatta con le resine delle piante."
+    },
+    {
+     "who": "E",
+     "text": "Quindi l'arnia buona rispetta quella misura, così tutto si sfila senza strappi."
+    },
+    {
+     "who": "M",
+     "text": "Brava. E un consiglio pratico: scegli lo stesso modello degli apicoltori della tua zona. Così puoi scambiare telaini e attrezzi."
+    },
+    {
+     "who": "E",
+     "text": "Come avere la stessa moka della vicina: se ti manca la guarnizione, te la presta!"
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora parliamo del materiale. Di cosa è fatta l'arnia classica?"
+    },
+    {
+     "who": "E",
+     "text": "Di legno, immagino."
+    },
+    {
+     "who": "M",
+     "text": "Giusto. Di solito abete o pino, legni leggeri e facili da lavorare. Oggi ci sono anche arnie in polistirolo o in plastica."
+    },
+    {
+     "who": "E",
+     "text": "Il polistirolo? Come le cassette del pesce?"
+    },
+    {
+     "who": "M",
+     "text": "Più o meno, ma più spesso e robusto. È leggero e isola bene, però si rovina se lo graffi, e non piace a tutti."
+    },
+    {
+     "who": "E",
+     "text": "E le api in natura dove vivono?"
+    },
+    {
+     "who": "M",
+     "text": "Spesso nei tronchi cavi degli alberi, con pareti di legno spesse. Lì dentro la temperatura cambia poco tra il giorno e la notte."
+    },
+    {
+     "who": "E",
+     "text": "Allora le pareti spesse sono importanti?"
+    },
+    {
+     "who": "M",
+     "text": "Molto. Secondo te, perché alle api serve una casa che non disperde il calore?"
+    },
+    {
+     "who": "E",
+     "text": "Perché la covata deve stare al caldo, e se il calore scappa devono lavorare di più per scaldarla."
+    },
+    {
+     "who": "M",
+     "text": "Perfetto. Le api scaldano il nido facendo vibrare i muscoli del volo, e questo costa energia, cioè miele."
+    },
+    {
+     "who": "E",
+     "text": "Come scaldare la casa con le finestre aperte: la bolletta sale!"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Un'ultima cosa: l'arnia di legno si protegge solo fuori, con prodotti adatti. Dentro si lascia naturale, perché le api la rivestono da sole con la propoli."
+    },
+    {
+     "who": "E",
+     "text": "Quindi legno buono, pareti senza fessure, e vernice solo all'esterno."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Parliamo di numeri. La Dadant-Blatt esiste in due misure: da dieci telaini e da dodici."
+    },
+    {
+     "who": "E",
+     "text": "Cambia solo la larghezza?"
+    },
+    {
+     "who": "M",
+     "text": "Sì, nella dodici il nido è più largo. Il nido è la parte in basso, dove la regina depone e cresce la covata."
+    },
+    {
+     "who": "E",
+     "text": "E il miele dove va?"
+    },
+    {
+     "who": "M",
+     "text": "Quello da raccogliere va nel melario, una cassetta più bassa che si mette sopra il nido quando arrivano le fioriture."
+    },
+    {
+     "who": "E",
+     "text": "Allora quale scelgo, dieci o dodici?"
+    },
+    {
+     "who": "M",
+     "text": "Pensa anche a te: la dodici, piena, pesa di più. La dieci è più maneggevole e va bene per una famiglia normale."
+    },
+    {
+     "who": "E",
+     "text": "E le api cosa preferiscono?"
+    },
+    {
+     "who": "M",
+     "text": "In natura scelgono di solito cavità tra trenta e sessanta litri. Non cercano un salone."
+    },
+    {
+     "who": "E",
+     "text": "E se metto una famiglia piccola in un nido grande?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, cosa succede?"
+    },
+    {
+     "who": "E",
+     "text": "Fanno fatica a scaldare tutto quello spazio vuoto?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Per questo si usa il diaframma, una tavoletta mobile che stringe il nido ai soli telaini occupati dalle api."
+    },
+    {
+     "who": "E",
+     "text": "Come chiudere le stanze vuote d'inverno per scaldare solo quelle che usi!"
+    },
+    {
+     "who": "M",
+     "text": "Brava. Man mano che la famiglia cresce, sposti il diaframma e aggiungi telaini, finché il nido è pieno. Poi arriva il momento del melario."
+    },
+    {
+     "who": "E",
+     "text": "Quindi prima il nido su misura, e il melario solo quando la famiglia è forte."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Guardiamo ora un'arnia moderna: fondo mobile antivarroa e, sopra, due melari."
+    },
+    {
+     "who": "E",
+     "text": "Cominciamo dal fondo. Cos'ha di speciale?"
+    },
+    {
+     "who": "M",
+     "text": "Al posto del legno pieno c'è una rete metallica. Sotto la rete scorre un cassetto che puoi sfilare da dietro."
+    },
+    {
+     "who": "E",
+     "text": "E a cosa serve la rete?"
+    },
+    {
+     "who": "M",
+     "text": "La varroa è un acaro, un parassita piccolissimo che vive sulle api. Quando cade, passa dalla rete e non riesce più a risalire."
+    },
+    {
+     "who": "E",
+     "text": "E il cassetto?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, perché è comodo poterlo sfilare?"
+    },
+    {
+     "who": "E",
+     "text": "Per vedere cosa è caduto senza aprire l'arnia? Magari per contare le varroe."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Il cassetto racconta molto: varroe, briciole di cera, polline. È una finestra sulla famiglia."
+    },
+    {
+     "who": "E",
+     "text": "Come il cassettino delle briciole del tostapane!"
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Ma attenzione: il fondo a rete aiuta, non cura. Contro la varroa servono comunque i trattamenti, seguendo l'etichetta e il veterinario."
+    },
+    {
+     "who": "E",
+     "text": "Chiaro. E i due melari, uno sopra l'altro, a cosa servono?"
+    },
+    {
+     "who": "M",
+     "text": "Nelle fioriture forti, come l'acacia, un melario può riempirsi in fretta. Allora ne aggiungi un secondo, così le api hanno spazio per il nettare."
+    },
+    {
+     "who": "E",
+     "text": "E se non lo aggiungo?"
+    },
+    {
+     "who": "M",
+     "text": "Le api si sentono strette e possono prepararsi a sciamare. Lo spazio dato al momento giusto le tiene più tranquille."
+    },
+    {
+     "who": "E",
+     "text": "Quindi rete e cassetto per controllare, secondo melario per dare spazio."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ora una questione che divide gli apicoltori: il favo allargato e il favo naturale."
+    },
+    {
+     "who": "E",
+     "text": "Ho sentito parlare di foglio cereo. Cos'è?"
+    },
+    {
+     "who": "M",
+     "text": "È un foglio di cera con il disegno delle celle già stampato. Lo metti nel telaino e le api ci costruiscono sopra il favo, dritto e ordinato."
+    },
+    {
+     "who": "E",
+     "text": "Comodo! E dove sta il problema?"
+    },
+    {
+     "who": "M",
+     "text": "Alcuni apicoltori sostengono che le celle stampate siano allargate, cioè più grandi di quelle che le api farebbero da sole."
+    },
+    {
+     "who": "E",
+     "text": "E che differenza fa?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo loro, con celle più piccole la varroa si riprodurrebbe peggio. Ma secondo te, cosa conviene fare prima di crederci?"
+    },
+    {
+     "who": "E",
+     "text": "Controllare se qualcuno l'ha misurato davvero, con delle prove sulle api."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Le prove ci sono, e le celle piccole non hanno frenato la varroa. Quindi controlli e trattamenti restano necessari."
+    },
+    {
+     "who": "E",
+     "text": "E il favo naturale nel telaino equatore? Che nome strano!"
+    },
+    {
+     "who": "M",
+     "text": "È un telaino senza foglio cereo, con un listello di legno a metà altezza, come l'equatore sulla Terra. Le api costruiscono il favo da sole, appoggiandosi al listello."
+    },
+    {
+     "who": "E",
+     "text": "E perché il listello?"
+    },
+    {
+     "who": "M",
+     "text": "Dà un appoggio in più al favo. Senza foglio, però, spesso le api costruiscono anche più celle da fuco."
+    },
+    {
+     "who": "E",
+     "text": "I fuchi sono i maschi, giusto?"
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ed è bello osservare come lavorano le api quando sono libere di scegliere."
+    },
+    {
+     "who": "E",
+     "text": "Quindi il favo naturale è interessante, ma la varroa va controllata comunque."
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ultima parte: le arnie con il favo naturale. Le più conosciute sono la top bar e la Warré."
+    },
+    {
+     "who": "E",
+     "text": "Top bar vuol dire…?"
+    },
+    {
+     "who": "M",
+     "text": "Barra in alto, in inglese. È una cassa lunga e orizzontale, coperta da listelli di legno. Da ogni listello le api fanno pendere un favo."
+    },
+    {
+     "who": "E",
+     "text": "Senza telaino intorno?"
+    },
+    {
+     "who": "M",
+     "text": "Senza. Il favo è attaccato solo in alto, per questo è fragile: quando lo sollevi, devi tenerlo sempre in verticale."
+    },
+    {
+     "who": "E",
+     "text": "E la Warré?"
+    },
+    {
+     "who": "M",
+     "text": "Porta il nome di un sacerdote francese, l'abate Warré. Sono cassette piccole, una sopra l'altra, con listelli in alto. Le cassette nuove si aggiungono sotto, non sopra."
+    },
+    {
+     "who": "E",
+     "text": "Sotto? Perché?"
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, in un tronco d'albero, in che direzione costruiscono i favi le api?"
+    },
+    {
+     "who": "E",
+     "text": "Dall'alto verso il basso: partono dal soffitto e scendono."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. La Warré imita questo, e ha un nido piccolo e alto, un po' come un tronco cavo."
+    },
+    {
+     "who": "E",
+     "text": "E le api stanno meglio lì dentro?"
+    },
+    {
+     "who": "M",
+     "text": "Uno studio dice che le famiglie in arnie piccole sciamano di più e hanno meno varroa. Ma il favo naturale non toglie il lavoro: anche qui la varroa va controllata."
+    },
+    {
+     "who": "E",
+     "text": "E per una principiante come me?"
+    },
+    {
+     "who": "M",
+     "text": "Le visite sono più delicate e i favi non si scambiano con le arnie normali. Ti consiglio di partire con la DB e provare il resto più avanti."
+    },
+    {
+     "who": "E",
+     "text": "Come imparare a cucinare con la ricetta prima di improvvisare!"
+    }
+   ]
+  }
+ ]
+}

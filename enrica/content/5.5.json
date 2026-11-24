@@ -1,0 +1,996 @@
+{
+  "code": "5.5",
+  "unit": 5,
+  "title": "La propoli",
+  "pages": "215–224",
+  "summary": "Scopri da dove viene la propoli, come le api la usano per proteggere la casa e che cosa contiene. Impari a raccoglierla con la rete, a conservarla e a usarla con prudenza, perché non è un farmaco e può dare allergie.",
+  "parts": [
+    {
+      "title": "Dove si trova in natura",
+      "keyPoints": [
+        "Nasce da resine di gemme e cortecce",
+        "Le piante usano le resine per difendersi",
+        "In Europa la fonte tipica è il pioppo",
+        "Le api la portano a casa sulle zampe"
+      ],
+      "analogy": "La resina è il cerotto delle piante: copre gemme e ferite. Le api prendono in prestito quel cerotto per curare la loro casa.",
+      "tip": "Nelle giornate calde guarda le api che rientrano: alcune hanno sulle zampe palline lucide e scure, non polverose. Quella è resina, non polline.",
+      "science": {
+        "text": "Le api raccolgono resine appiccicose da gemme e ferite delle piante e le portano a casa sulle zampe posteriori, come il polline. Nelle cavità naturali, come i tronchi cavi, le usano per rivestire le pareti del nido. È un'abitudine antica, utile alla salute della famiglia.",
+        "source": "Simone-Finstrom e Spivak 2010, Apidologie",
+        "url": "https://doi.org/10.1051/apido/2010016"
+      },
+      "check": {
+        "question": "Da dove prendono le api la materia prima della propoli?",
+        "options": [
+          "Dalle resine di gemme e cortecce",
+          "Dal nettare dei fiori di campo",
+          "Dalla cera delle celle vecchie",
+          "Dall'acqua delle pozzanghere"
+        ],
+        "answer": 0,
+        "explanation": "La propoli nasce dalle resine che le piante producono su gemme e ferite della corteccia."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ciao Enrica! Oggi parliamo della propoli, la colla delle api. Partiamo da fuori: secondo te, dove la trovano?"
+        },
+        {
+          "who": "E",
+          "text": "Sulle piante, credo. Forse da quella sostanza appiccicosa che esce dai tronchi."
+        },
+        {
+          "who": "M",
+          "text": "Brava, ci sei vicina. Le api raccolgono resine: le trovano soprattutto sulle gemme e sulle ferite della corteccia."
+        },
+        {
+          "who": "E",
+          "text": "E perché le piante fanno la resina?"
+        },
+        {
+          "who": "M",
+          "text": "Per difendersi. La resina copre le gemme giovani e chiude le ferite, così funghi e insetti fanno più fatica a entrare."
+        },
+        {
+          "who": "E",
+          "text": "Un cerotto naturale, insomma."
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. Da noi, in Europa, una fonte tipica sono le gemme del pioppo. Ma anche betulle, ippocastani e conifere danno resine."
+        },
+        {
+          "who": "E",
+          "text": "Quindi la propoli cambia da posto a posto?"
+        },
+        {
+          "who": "M",
+          "text": "Sì, cambiano colore, profumo e sostanze. Quella dei paesi tropicali è diversa dalla nostra. Per questo ogni propoli ha la sua storia."
+        },
+        {
+          "who": "E",
+          "text": "E come la portano a casa? La mettono in bocca?"
+        },
+        {
+          "who": "M",
+          "text": "La staccano con le mandibole e la impastano. Poi la caricano sulle zampe posteriori, nelle cestelle, come il polline."
+        },
+        {
+          "who": "E",
+          "text": "Allora le palline lucide e scure che vedo a volte sulle zampe sono resina!"
+        },
+        {
+          "who": "M",
+          "text": "Spesso sì. E a casa le altre api le aiutano a scaricarla, perché è molto appiccicosa."
+        },
+        {
+          "who": "E",
+          "text": "Che lavoro paziente: prendere il cerotto degli alberi per curare la propria casa."
+        }
+      ]
+    },
+    {
+      "title": "Dove si trova nell'alveare",
+      "keyPoints": [
+        "Chiude fessure e piccoli buchi",
+        "Restringe la porta d'ingresso in autunno",
+        "Riveste le pareti come una vernice",
+        "Ricopre intrusi troppo grandi da portare fuori",
+        "Fa parte della difesa comune, l'immunità sociale"
+      ],
+      "analogy": "La propoli è come lo stucco e la vernice di casa: chiude gli spifferi, liscia le pareti e tiene lontana la muffa.",
+      "tip": "Quando apri l'arnia e il coprifavo resiste, non strappare: fai leva piano con la leva, in più punti. Quella colla tiene insieme la casa delle api.",
+      "science": {
+        "text": "In uno studio di due anni, le famiglie con uno strato naturale di propoli sulle pareti avevano api con difese interne più tranquille in estate e in autunno. In un anno erano anche più forti dopo l'inverno. La propoli fa da scudo comune per tutta la famiglia.",
+        "source": "Borba et al. 2015, Journal of Experimental Biology",
+        "url": "https://doi.org/10.1242/jeb.127324"
+      },
+      "check": {
+        "question": "Che cosa fanno le api con un topo morto dentro l'arnia?",
+        "options": [
+          "Lo mangiano in pochi giorni",
+          "Lo ricoprono di propoli",
+          "Lo lasciano marcire lì",
+          "Lo spingono nel melario"
+        ],
+        "answer": 1,
+        "explanation": "È troppo grande da portare fuori: lo ricoprono di propoli, così non marcisce e non infetta la casa."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Adesso entriamo nell'arnia. Dove pensi di trovare la propoli?"
+        },
+        {
+          "who": "E",
+          "text": "Sui telaini, perché a volte si attaccano e devo fare forza con la leva."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Le api la mettono in tutte le fessure: tra i telaini, sotto il coprifavo, negli spigoli."
+        },
+        {
+          "who": "E",
+          "text": "Per tenere tutto fermo?"
+        },
+        {
+          "who": "M",
+          "text": "Anche. Ma soprattutto per chiudere gli spifferi. In autunno spesso restringono pure la porta d'ingresso con un muretto di propoli."
+        },
+        {
+          "who": "E",
+          "text": "Come quando io metto il paraspifferi sotto la porta d'inverno."
+        },
+        {
+          "who": "M",
+          "text": "Uguale! Poi c'è una cosa curiosa. Se entra un topolino e le api lo uccidono, non riescono a portarlo fuori. Secondo te, che cosa fanno?"
+        },
+        {
+          "who": "E",
+          "text": "Lo coprono di propoli, così resta chiuso e non marcisce dentro casa."
+        },
+        {
+          "who": "M",
+          "text": "Brava, lo imbalsamano. In natura, nei tronchi cavi, le api stendono la propoli su tutte le pareti, come una vernice."
+        },
+        {
+          "who": "E",
+          "text": "E nelle nostre arnie lisce lo fanno?"
+        },
+        {
+          "who": "M",
+          "text": "Meno, perché il legno piallato è liscio. Gli studiosi chiamano questo strato involucro di propoli. Fa parte dell'immunità sociale, cioè delle difese che la famiglia costruisce insieme."
+        },
+        {
+          "who": "E",
+          "text": "Quindi non è solo colla, è anche una specie di disinfettante delle pareti."
+        },
+        {
+          "who": "M",
+          "text": "Sì. Le famiglie con questo strato sembrano faticare meno a difendersi dai microbi."
+        },
+        {
+          "who": "E",
+          "text": "Allora la prossima volta che faccio fatica ad aprire il coprifavo, non mi arrabbio."
+        }
+      ]
+    },
+    {
+      "title": "Composizione e proprietà",
+      "keyPoints": [
+        "Circa metà resine, il resto soprattutto cera",
+        "Contiene oli profumati e un po' di polline",
+        "Ricca di polifenoli e flavonoidi",
+        "Blocca microbi in laboratorio, ma non è un farmaco",
+        "La composizione cambia molto da zona a zona"
+      ],
+      "analogy": "La propoli è come un sugo fatto in casa: la base è simile, ma ogni famiglia usa ingredienti un po' diversi e il sapore cambia.",
+      "tip": "Annusa un pezzetto di propoli e guardane il colore: dal giallo al marrone scuro. Ogni apiario ha la sua, perché dipende dagli alberi vicini.",
+      "science": {
+        "text": "La propoli cambia molto secondo le piante da cui viene, e non esiste ancora una misura comune per tutti i tipi. Per la propoli delle zone temperate, detta del pioppo, i ricercatori propongono di misurare insieme flavonoidi e altri fenoli, invece di una sola sostanza.",
+        "source": "Bankova 2005, Journal of Ethnopharmacology",
+        "url": "https://doi.org/10.1016/j.jep.2005.05.004"
+      },
+      "check": {
+        "question": "Perché la propoli di due apiari può essere diversa?",
+        "options": [
+          "Perché le api usano cere diverse",
+          "Perché cambiano le piante vicine",
+          "Perché cambia la forma dell'arnia",
+          "Perché cambia l'età della regina"
+        ],
+        "answer": 1,
+        "explanation": "Le resine vengono dalle piante intorno: se cambiano gli alberi, cambia la propoli."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Vediamo di che cosa è fatta la propoli. Prova a indovinare: è solo resina?"
+        },
+        {
+          "who": "E",
+          "text": "Credo di no, perché le api ci mescolano qualcosa per impastarla."
+        },
+        {
+          "who": "M",
+          "text": "Giusto. Di solito più o meno metà sono resine, e una buona parte è cera. Poi ci sono oli profumati, un po' di polline e qualche impurità."
+        },
+        {
+          "who": "E",
+          "text": "E che cosa la rende speciale?"
+        },
+        {
+          "who": "M",
+          "text": "Nelle resine ci sono tante sostanze chiamate polifenoli, tra cui i flavonoidi. Sono le stesse famiglie di sostanze che trovi in certi frutti e verdure."
+        },
+        {
+          "who": "E",
+          "text": "Quindi la propoli è uguale dappertutto?"
+        },
+        {
+          "who": "M",
+          "text": "Per niente. Secondo te, da che cosa dipende la sua ricetta?"
+        },
+        {
+          "who": "E",
+          "text": "Dalle piante che crescono vicino all'apiario, perché le resine vengono da lì."
+        },
+        {
+          "who": "M",
+          "text": "Esatto. Per questo è difficile darle un'unica misura di qualità. I chimici stanno ancora cercando un metodo comune."
+        },
+        {
+          "who": "E",
+          "text": "Ho sentito che uccide i microbi. È vero?"
+        },
+        {
+          "who": "M",
+          "text": "In laboratorio molti estratti fermano batteri e funghi. Ma un risultato in provetta non è una cura provata sulle persone. Servono studi seri sulle persone, e per ora sono pochi."
+        },
+        {
+          "who": "E",
+          "text": "Quindi non è un farmaco."
+        },
+        {
+          "who": "M",
+          "text": "No, non lo è. E può dare allergia sulla pelle. Ne parliamo meglio quando vediamo come si usa."
+        },
+        {
+          "who": "E",
+          "text": "Allora: resine, cera, oli profumati, tanti polifenoli, e una ricetta che cambia con gli alberi."
+        }
+      ]
+    },
+    {
+      "title": "Usi particolari",
+      "keyPoints": [
+        "Le api raccolgono più resina se c'è un fungo",
+        "È come una piccola farmacia di famiglia",
+        "Pareti ruvide spingono a mettere più propoli",
+        "Un'arnia più propolizzata non è un difetto"
+      ],
+      "analogy": "È come quando in casa gira il raffreddore e tutti aprono le finestre e puliscono di più: la famiglia reagisce insieme.",
+      "tip": "Non grattare via tutta la propoli dalle pareti dell'arnia durante le visite. Togli solo quella che ti impedisce di lavorare, il resto lascialo alle api.",
+      "science": {
+        "text": "Quando i ricercatori hanno messo nelle famiglie le spore della covata calcificata, una malattia da fungo, le api hanno raccolto più resina. Le famiglie arricchite di resina avevano meno infezione. Sembra una cura che la famiglia si dà da sola, insieme.",
+        "source": "Simone-Finstrom e Spivak 2012, PLoS ONE",
+        "url": "https://doi.org/10.1371/journal.pone.0034601"
+      },
+      "check": {
+        "question": "Che cosa fanno le api quando c'è il fungo della covata calcificata?",
+        "options": [
+          "Smettono di uscire",
+          "Chiudono la regina",
+          "Mangiano il polline",
+          "Raccolgono più resina"
+        ],
+        "answer": 3,
+        "explanation": "Uno studio ha visto che le famiglie raccolgono più resina dopo il contatto con quel fungo."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ora un uso particolare della propoli, scoperto dagli studiosi. Sai cos'è la covata calcificata?"
+        },
+        {
+          "who": "E",
+          "text": "Una malattia della covata, mi pare. Le larve diventano dure e bianche come gessetti."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, la causa un fungo. Dei ricercatori hanno messo le spore di quel fungo in alcune famiglie. Secondo te, che cosa hanno fatto le api?"
+        },
+        {
+          "who": "E",
+          "text": "Hanno raccolto più resina, per difendersi meglio dal fungo."
+        },
+        {
+          "who": "M",
+          "text": "Proprio così. E le famiglie con più resina in casa avevano meno larve malate."
+        },
+        {
+          "who": "E",
+          "text": "Quindi si curano da sole, come quando io faccio i suffumigi?"
+        },
+        {
+          "who": "M",
+          "text": "Più o meno. Ma attenzione: non la mangiano. La stendono in casa. È la famiglia intera che reagisce."
+        },
+        {
+          "who": "E",
+          "text": "E noi apicoltori possiamo aiutarle?"
+        },
+        {
+          "who": "M",
+          "text": "Un altro studio ha visto che le api mettono più propoli se le pareti interne sono ruvide, per esempio graffiate o coperte da una rete di plastica."
+        },
+        {
+          "who": "E",
+          "text": "Allora le pareti lisce delle arnie non le aiutano molto."
+        },
+        {
+          "who": "M",
+          "text": "Diciamo che danno meno spunto. Non sappiamo ancora quanto questo migliori la salute, ma è un'idea semplice."
+        },
+        {
+          "who": "E",
+          "text": "E io che pensavo che la propoli fosse solo una seccatura da raschiare."
+        },
+        {
+          "who": "M",
+          "text": "Tanti lo pensano. Invece per le api è una medicina di casa, da lasciare dove serve a loro."
+        },
+        {
+          "who": "E",
+          "text": "Allora la gratto solo dove mi impedisce di aprire, e il resto lo lascio."
+        }
+      ]
+    },
+    {
+      "title": "Raccolta e conservazione",
+      "keyPoints": [
+        "Raschiarla con la leva dà propoli poco pulita",
+        "La rete raccogli-propoli dà un prodotto più pulito",
+        "Nel congelatore diventa fragile e si stacca",
+        "Va conservata al buio, al fresco e chiusa",
+        "Non va scaldata: perde sostanze preziose"
+      ],
+      "analogy": "È come staccare un chewing-gum dai jeans: col caldo si allunga e sporca, se lo metti in freezer si rompe e viene via pulito.",
+      "tip": "Metti la rete raccogli-propoli sopra i telaini in estate e fine estate. Quando è piena, chiudila in un sacchetto e mettila una notte in congelatore.",
+      "science": {
+        "text": "Uno studio ha confrontato arnie con pareti lisce e arnie con pareti rese ruvide: con una rete di plastica, con tagli di sega o con una spazzola di ferro. In tutte le arnie ruvide le api hanno messo più propoli. Una superficie irregolare le spinge a lavorare.",
+        "source": "Hodges et al. 2019, Journal of Economic Entomology",
+        "url": "https://doi.org/10.1093/jee/toy363"
+      },
+      "check": {
+        "question": "Perché la rete piena si mette in congelatore?",
+        "options": [
+          "Perché la propoli diventa fragile",
+          "Per uccidere le api rimaste sopra",
+          "Per renderla più profumata",
+          "Per farla diventare più gialla"
+        ],
+        "answer": 0,
+        "explanation": "Col freddo la propoli diventa dura e fragile: piegando la rete si stacca in pezzetti puliti."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Vediamo come si raccoglie. Il modo più semplice è raschiarla con la leva durante le visite."
+        },
+        {
+          "who": "E",
+          "text": "Facile, ma immagino che venga fuori sporca."
+        },
+        {
+          "who": "M",
+          "text": "Sì, mescolata a cera, legno e pezzetti di api. Per un prodotto più pulito si usa la rete raccogli-propoli. Va bene solo per piccole quantità."
+        },
+        {
+          "who": "E",
+          "text": "Com'è fatta?"
+        },
+        {
+          "who": "M",
+          "text": "È una griglia con tanti buchini o fessure. Si mette sopra i telaini, sotto il coprifavo. Le api vedono quei buchi come spifferi e li chiudono con la propoli."
+        },
+        {
+          "who": "E",
+          "text": "Furbo! E poi come la stacco? Sarà appiccicosissima."
+        },
+        {
+          "who": "M",
+          "text": "Qui viene il trucco. Secondo te, come si rende fragile una cosa appiccicosa?"
+        },
+        {
+          "who": "E",
+          "text": "Col freddo! La metto in congelatore e poi si spezza."
+        },
+        {
+          "who": "M",
+          "text": "Brava. Chiudi la rete in un sacchetto, una notte in congelatore, poi la pieghi o la batti e la propoli cade in pezzetti."
+        },
+        {
+          "who": "E",
+          "text": "E poi dove la tengo?"
+        },
+        {
+          "who": "M",
+          "text": "In barattoli puliti e ben chiusi, al buio e al fresco. Non scaldarla mai per pulirla: il calore le fa perdere le sostanze profumate. Così si conserva a lungo."
+        },
+        {
+          "who": "E",
+          "text": "E se raschio quella sulle pareti di un'arnia verniciata?"
+        },
+        {
+          "who": "M",
+          "text": "Meglio di no: potresti raccogliere anche pezzi di vernice. Raccogli solo da arnie pulite, senza trattamenti sulle superfici dove la prendi."
+        },
+        {
+          "who": "E",
+          "text": "Ricapitolo: rete, congelatore, barattolo chiuso al buio, niente caldo."
+        }
+      ]
+    },
+    {
+      "title": "Le modalità di impiego",
+      "keyPoints": [
+        "Si usa come estratto in alcol, detto tintura",
+        "Esistono spray, caramelle e creme con propoli",
+        "Non è un farmaco: non sostituisce le cure",
+        "Può dare dermatite da contatto",
+        "Prima prova su un piccolo pezzo di pelle"
+      ],
+      "analogy": "La propoli è come una spezia forte: in cucina dà carattere, ma non si usa a manciate e qualcuno non la sopporta proprio.",
+      "tip": "Quando maneggi molta propoli, usa i guanti. Se dopo le visite hai mani rosse, che prudono o con vesciche, parlane con il medico o il dermatologo.",
+      "science": {
+        "text": "La propoli è una causa nota di dermatite allergica da contatto: pelle rossa, prurito e piccole vesciche dove la si tocca. Succede con creme, cosmetici e prodotti naturali, e anche agli apicoltori che la maneggiano spesso. Chi ha avuto reazioni deve evitarla.",
+        "source": "de Groot 2013, Dermatitis",
+        "url": "https://doi.org/10.1097/DER.0000000000000011"
+      },
+      "check": {
+        "question": "Che cosa può succedere sulla pelle di chi è allergico alla propoli?",
+        "options": [
+          "Diventa più morbida e liscia",
+          "Diventa più abbronzata",
+          "Diventa rossa e prude",
+          "Smette di sudare"
+        ],
+        "answer": 2,
+        "explanation": "La propoli può dare dermatite da contatto: rossore, prurito e piccole vesciche."
+      },
+      "dialogue": [
+        {
+          "who": "M",
+          "text": "Ultima parte: come la usano le persone. Hai mai visto la propoli in farmacia?"
+        },
+        {
+          "who": "E",
+          "text": "Sì, in boccette con il contagocce e in spray per la gola."
+        },
+        {
+          "who": "M",
+          "text": "La forma più classica è la tintura: la propoli si scioglie in alcol, che porta via le resine e lascia indietro la cera. Poi ci sono caramelle, spray e creme."
+        },
+        {
+          "who": "E",
+          "text": "Dentro c'è alcol, quindi non va bene per tutti."
+        },
+        {
+          "who": "M",
+          "text": "Giusto, per i bambini o in gravidanza si chiede sempre al medico. E ricorda la regola più importante: non è un farmaco."
+        },
+        {
+          "who": "E",
+          "text": "Però in laboratorio ferma i microbi, l'hai detto tu."
+        },
+        {
+          "who": "M",
+          "text": "In laboratorio sì. Sulle persone le prove sono molto meno chiare. Non sostituisce mai una cura del medico."
+        },
+        {
+          "who": "E",
+          "text": "E ci sono rischi?"
+        },
+        {
+          "who": "M",
+          "text": "Uno ben conosciuto. Secondo te, che cosa può succedere a chi tocca la propoli tutti i giorni?"
+        },
+        {
+          "who": "E",
+          "text": "Può diventare allergico e avere la pelle rossa che prude."
+        },
+        {
+          "who": "M",
+          "text": "Esatto, si chiama dermatite da contatto. Capita anche agli apicoltori. Per questo, prima di usare una crema nuova, si prova su un pezzetto di pelle."
+        },
+        {
+          "who": "E",
+          "text": "E se una persona allergica la prende in bocca e si gonfia?"
+        },
+        {
+          "who": "M",
+          "text": "Se ha fiato corto, gonfiore di labbra o gola, o si sente svenire, si chiama subito il 112."
+        },
+        {
+          "who": "E",
+          "text": "Allora: tintura o creme, niente promesse di cura, e attenzione alla pelle."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Da che cosa nasce la propoli?",
+      "back": "Da resine di gemme e cortecce, impastate dalle api.",
+      "part": 0
+    },
+    {
+      "front": "Come trasportano la resina le api?",
+      "back": "Sulle zampe posteriori, nelle cestelle, come il polline.",
+      "part": 0
+    },
+    {
+      "front": "A che cosa serve la propoli nell'arnia?",
+      "back": "Chiude fessure, restringe la porta, riveste le pareti.",
+      "part": 1
+    },
+    {
+      "front": "Che cos'è l'immunità sociale?",
+      "back": "Le difese che la famiglia costruisce insieme, come la propoli sulle pareti.",
+      "part": 1
+    },
+    {
+      "front": "Di che cosa è fatta la propoli?",
+      "back": "Circa metà resine, poi cera, oli profumati e un po' di polline.",
+      "part": 2
+    },
+    {
+      "front": "Perché la propoli cambia da zona a zona?",
+      "back": "Perché dipende dalle piante da cui vengono le resine.",
+      "part": 2
+    },
+    {
+      "front": "Che cosa fanno le api contro il fungo della covata calcificata?",
+      "back": "Raccolgono più resina.",
+      "part": 3
+    },
+    {
+      "front": "Come si stacca la propoli dalla rete?",
+      "back": "Si congela la rete e poi la si piega o batte.",
+      "part": 4
+    },
+    {
+      "front": "Come si conserva la propoli?",
+      "back": "In barattoli chiusi, al buio e al fresco, senza scaldarla.",
+      "part": 4
+    },
+    {
+      "front": "Che cos'è la tintura di propoli?",
+      "back": "Propoli sciolta in alcol, che lascia indietro la cera.",
+      "part": 5
+    },
+    {
+      "front": "Quale rischio dà la propoli sulla pelle?",
+      "back": "Dermatite allergica da contatto: rossore, prurito, vesciche.",
+      "part": 5
+    }
+  ],
+  "questions": [
+    {
+      "question": "Perché le piante producono resina?",
+      "options": [
+        "Per attirare le api ai fiori",
+        "Per proteggere gemme e ferite",
+        "Per nutrire le loro radici",
+        "Per colorare le foglie in autunno"
+      ],
+      "answer": 1,
+      "explanation": "La resina copre gemme e ferite e rende più difficile l'entrata a funghi e insetti.",
+      "part": 0
+    },
+    {
+      "question": "In Europa, quale albero è una fonte tipica di propoli?",
+      "options": [
+        "Il pioppo",
+        "L'ulivo",
+        "Il limone",
+        "Il fico"
+      ],
+      "answer": 0,
+      "explanation": "La propoli delle zone temperate è spesso detta «tipo pioppo» per le resine delle sue gemme.",
+      "part": 0
+    },
+    {
+      "question": "Che cosa fanno spesso le api in autunno con la propoli?",
+      "options": [
+        "Allargano la porta d'ingresso",
+        "Coprono tutte le celle del miele",
+        "Restringono la porta d'ingresso",
+        "Colorano di scuro i telaini"
+      ],
+      "answer": 2,
+      "explanation": "Con un muretto di propoli rendono l'ingresso più piccolo e più facile da difendere.",
+      "part": 1
+    },
+    {
+      "question": "Che cosa vuol dire involucro di propoli?",
+      "options": [
+        "Un sacchetto per conservarla",
+        "Uno strato sulle pareti del nido",
+        "Una cella piena di resina",
+        "Un tappo sopra la cella reale"
+      ],
+      "answer": 1,
+      "explanation": "È lo strato di propoli che le api stendono sulle pareti, come una vernice protettiva.",
+      "part": 1
+    },
+    {
+      "question": "Quale gruppo di sostanze è tipico della propoli?",
+      "options": [
+        "I grassi del latte",
+        "Gli zuccheri del nettare",
+        "Le proteine della carne",
+        "I polifenoli delle piante"
+      ],
+      "answer": 3,
+      "explanation": "Nelle resine ci sono molti polifenoli, tra cui i flavonoidi.",
+      "part": 2
+    },
+    {
+      "question": "Che cosa vuol dire che la propoli ferma i microbi in laboratorio?",
+      "options": [
+        "Che cura sicuramente le persone",
+        "Che si può usare al posto degli antibiotici",
+        "Che in provetta blocca batteri e funghi",
+        "Che serve solo per le api malate"
+      ],
+      "answer": 2,
+      "explanation": "Un risultato in provetta non è una cura provata: la propoli non è un farmaco.",
+      "part": 2
+    },
+    {
+      "question": "Che cosa hanno visto i ricercatori dopo aver dato spore di fungo alle famiglie?",
+      "options": [
+        "Le api raccoglievano più resina",
+        "Le api smettevano di volare",
+        "Le api cambiavano regina",
+        "Le api producevano più miele"
+      ],
+      "answer": 0,
+      "explanation": "Le famiglie hanno aumentato la raccolta di resina, e più resina voleva dire meno infezione.",
+      "part": 3
+    },
+    {
+      "question": "Che cosa spinge le api a mettere più propoli sulle pareti?",
+      "options": [
+        "Una superficie liscia e lucida",
+        "Una parete dipinta di bianco",
+        "Una parete fredda e bagnata",
+        "Una superficie ruvida e irregolare"
+      ],
+      "answer": 3,
+      "explanation": "Pareti ruvide, graffiate o con una rete fanno aumentare la propoli depositata.",
+      "part": 3
+    },
+    {
+      "question": "Dove si mette la rete raccogli-propoli?",
+      "options": [
+        "Sotto il fondo dell'arnia",
+        "Davanti alla porta d'ingresso",
+        "Dentro il melario pieno",
+        "Sopra i telaini, sotto il coprifavo"
+      ],
+      "answer": 3,
+      "explanation": "Sopra i telaini le api vedono i buchi della rete come spifferi da chiudere.",
+      "part": 4
+    },
+    {
+      "question": "Perché non si scalda la propoli per pulirla?",
+      "options": [
+        "Perché diventa troppo dura",
+        "Perché perde sostanze preziose",
+        "Perché cambia subito colore",
+        "Perché attira le formiche"
+      ],
+      "answer": 1,
+      "explanation": "Il calore fa perdere oli profumati e altre sostanze: la propoli si conserva al fresco.",
+      "part": 4
+    },
+    {
+      "question": "Che cos'è la tintura di propoli?",
+      "options": [
+        "Propoli sciolta in alcol",
+        "Propoli sciolta nel miele",
+        "Propoli fusa con la cera",
+        "Propoli mescolata all'olio"
+      ],
+      "answer": 0,
+      "explanation": "L'alcol scioglie le resine e lascia indietro la cera.",
+      "part": 5
+    },
+    {
+      "question": "Che cosa conviene fare prima di usare una crema alla propoli?",
+      "options": [
+        "Scaldarla sul fuoco",
+        "Provarla su poca pelle",
+        "Diluirla con acqua",
+        "Tenerla al sole"
+      ],
+      "answer": 1,
+      "explanation": "Una prova su un pezzetto di pelle aiuta a scoprire un'allergia da contatto.",
+      "part": 5
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Il coprifavo incollato",
+      "prompt": "È ottobre. Apri l'arnia e il coprifavo è incollato forte; la porta d'ingresso è ristretta da un muretto scuro e appiccicoso. Che cosa sta succedendo e che cosa fai?",
+      "modelAnswer": "Le api hanno usato la propoli per prepararsi all'inverno: chiudono gli spifferi e restringono la porta, così è più facile difendersi e tenere il caldo. Non strappo il coprifavo: faccio leva piano con la leva in più punti, finché si stacca. Non tolgo il muretto davanti alla porta, perché alle api serve. Gratto via solo la propoli che mi impedisce di lavorare, senza ripulire tutte le pareti. La propoli fa parte delle difese della famiglia, quindi la lascio dove è utile a loro."
+    },
+    {
+      "title": "Mani rosse dopo le visite",
+      "prompt": "Dopo le visite estive, che fai a mani nude, noti che le dita sono rosse, prudono e hanno piccole vesciche proprio dove hai toccato la propoli. Che cosa fai?",
+      "modelAnswer": "Potrebbe essere una dermatite da contatto alla propoli, che è nota anche tra gli apicoltori. Lavo bene le mani e da ora in poi uso i guanti quando maneggio telaini e propoli. Non metto creme o tinture alla propoli sulla pelle. Ne parlo con il medico o con un dermatologo, che può fare i test giusti. Se un giorno avessi gonfiore di labbra o gola, fiato corto o mi sentissi svenire, chiamerei subito il 112."
+    },
+    {
+      "title": "La mia prima propoli pulita",
+      "prompt": "Vuoi raccogliere propoli pulita da regalare a un'amica che fa creme in casa. Come ti organizzi, dalla raccolta al barattolo?",
+      "modelAnswer": "In estate metto una rete raccogli-propoli sopra i telaini, sotto il coprifavo, su un'arnia pulita e non verniciata all'interno. Le api chiudono i buchi della rete con la propoli. Quando è piena, la tolgo, la chiudo in un sacchetto e la metto una notte in congelatore. Poi la piego o la batto e raccolgo i pezzetti. Li metto in un barattolo pulito, ben chiuso, al buio e al fresco, senza scaldarli. All'amica ricordo che la propoli può dare dermatite: meglio una prova su poca pelle, e non è un farmaco."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Raccogliere propoli con la rete",
+        "steps": [
+          "Metti la rete sopra i telaini",
+          "Aspetta che le api chiudano i buchi",
+          "Togli la rete e chiudila in un sacchetto",
+          "Lasciala una notte in congelatore",
+          "Piega la rete e raccogli i pezzetti",
+          "Conserva in barattolo chiuso, al buio"
+        ],
+        "part": 4
+      },
+      {
+        "title": "Il viaggio della resina",
+        "steps": [
+          "La pianta copre gemme e ferite con resina",
+          "L'ape stacca la resina con le mandibole",
+          "La carica sulle zampe posteriori",
+          "Altre api la scaricano nell'arnia",
+          "La resina mescolata alla cera diventa propoli"
+        ],
+        "part": 0
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Mi metti sopra i telaini",
+          "Per le api i miei buchi sono spifferi",
+          "In congelatore lascio cadere la propoli"
+        ],
+        "answer": "La rete raccogli-propoli",
+        "distractors": [
+          "La griglia escludiregina",
+          "La rete per il trasporto",
+          "La lamiera del coprifavo"
+        ],
+        "part": 4
+      },
+      {
+        "clues": [
+          "Scendo dalle gemme e dalle ferite degli alberi",
+          "Proteggo le piante da funghi e insetti",
+          "Le api mi trasformano in propoli"
+        ],
+        "answer": "La resina",
+        "distractors": [
+          "La linfa",
+          "La melata",
+          "La rugiada"
+        ],
+        "part": 0
+      },
+      {
+        "clues": [
+          "Sono una malattia della covata",
+          "Mi causa un fungo",
+          "Le larve diventano come gessetti"
+        ],
+        "answer": "La covata calcificata",
+        "distractors": [
+          "La peste americana",
+          "La peste europea",
+          "La covata a sacco"
+        ],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Sono propoli sciolta in qualcosa",
+          "L'alcol mi separa dalla cera",
+          "Mi trovi in boccette con il contagocce"
+        ],
+        "answer": "La tintura",
+        "distractors": [
+          "La crema",
+          "La pomata",
+          "La tisana"
+        ],
+        "part": 5
+      },
+      {
+        "clues": [
+          "Mi trovi nelle resine e in tanti vegetali",
+          "Sono una grande famiglia di sostanze",
+          "Tra di noi ci sono i flavonoidi"
+        ],
+        "answer": "I polifenoli",
+        "distractors": [
+          "I grassi",
+          "Gli zuccheri",
+          "I sali minerali"
+        ],
+        "part": 2
+      }
+    ],
+    "truefalse": [
+      {
+        "text": "La propoli nasce dalle resine delle piante.",
+        "true": true,
+        "why": "Le api raccolgono resine da gemme e cortecce e le impastano con cera.",
+        "part": 0
+      },
+      {
+        "text": "Le api trasportano la resina dentro la borsa del nettare.",
+        "true": false,
+        "why": "La portano sulle zampe posteriori, nelle cestelle, come il polline.",
+        "part": 0
+      },
+      {
+        "text": "Le api ricoprono di propoli gli intrusi troppo grandi.",
+        "true": true,
+        "why": "Così un topo morto non marcisce e non infetta la casa.",
+        "part": 1
+      },
+      {
+        "text": "La propoli nell'arnia serve solo a dare fastidio all'apicoltore.",
+        "true": false,
+        "why": "Chiude spifferi e aiuta le difese comuni della famiglia.",
+        "part": 1
+      },
+      {
+        "text": "La propoli è uguale in tutto il mondo.",
+        "true": false,
+        "why": "Cambia con le piante da cui vengono le resine.",
+        "part": 2
+      },
+      {
+        "text": "La propoli contiene molti polifenoli.",
+        "true": true,
+        "why": "Tra questi ci sono i flavonoidi, tipici delle resine.",
+        "part": 2
+      },
+      {
+        "text": "Un effetto in provetta dimostra una cura sulle persone.",
+        "true": false,
+        "why": "Servono studi sulle persone: la propoli non è un farmaco.",
+        "part": 2
+      },
+      {
+        "text": "Contro un fungo le api possono raccogliere più resina.",
+        "true": true,
+        "why": "Lo ha visto uno studio con la covata calcificata.",
+        "part": 3
+      },
+      {
+        "text": "Le pareti ruvide fanno diminuire la propoli nell'arnia.",
+        "true": false,
+        "why": "Le pareti ruvide fanno aumentare la propoli depositata.",
+        "part": 3
+      },
+      {
+        "text": "Nel congelatore la propoli diventa fragile.",
+        "true": true,
+        "why": "Col freddo si stacca in pezzetti piegando la rete.",
+        "part": 4
+      },
+      {
+        "text": "Scaldare la propoli la rende più ricca di sostanze.",
+        "true": false,
+        "why": "Il calore le fa perdere sostanze: si conserva al fresco.",
+        "part": 4
+      },
+      {
+        "text": "La propoli può dare dermatite allergica da contatto.",
+        "true": true,
+        "why": "È una causa nota di pelle rossa, prurito e vesciche.",
+        "part": 5
+      }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 0,
+      "question": "Dove trovano le api la materia prima della propoli?",
+      "options": [
+        "Nei fiori",
+        "Nelle pozze",
+        "Sulle piante",
+        "Nei favi vecchi"
+      ],
+      "answer": 2,
+      "why": "Le api raccolgono resine dalle gemme e dalle ferite delle piante."
+    },
+    {
+      "part": 1,
+      "line": 6,
+      "question": "Che cosa fanno le api con un topolino morto nell'arnia?",
+      "options": [
+        "Lo coprono di propoli",
+        "Lo spingono nel melario",
+        "Lo lasciano dove si trova",
+        "Lo mangiano piano piano"
+      ],
+      "answer": 0,
+      "why": "Non riescono a portarlo fuori, quindi lo imbalsamano con la propoli."
+    },
+    {
+      "part": 2,
+      "line": 6,
+      "question": "Da che cosa dipende la ricetta della propoli?",
+      "options": [
+        "Dall'età della regina",
+        "Dalla forma dell'arnia",
+        "Dal colore dei telaini",
+        "Dalle piante vicine"
+      ],
+      "answer": 3,
+      "why": "Le resine vengono dalle piante intorno all'apiario: cambiano gli alberi, cambia la propoli."
+    },
+    {
+      "part": 3,
+      "line": 2,
+      "question": "Che cosa fanno le api se nella famiglia c'è un fungo?",
+      "options": [
+        "Smettono di bottinare",
+        "Raccolgono più resina",
+        "Cambiano subito la regina",
+        "Mangiano tutto il polline"
+      ],
+      "answer": 1,
+      "why": "Uno studio ha visto più raccolta di resina dopo il contatto con il fungo."
+    },
+    {
+      "part": 4,
+      "line": 6,
+      "question": "Come si rende fragile la propoli appiccicosa?",
+      "options": [
+        "Con il freddo",
+        "Con il caldo",
+        "Con l'acqua",
+        "Con il sale"
+      ],
+      "answer": 0,
+      "why": "In congelatore la propoli diventa dura e si stacca in pezzetti."
+    },
+    {
+      "part": 5,
+      "line": 8,
+      "question": "Che cosa può succedere a chi tocca spesso la propoli?",
+      "options": [
+        "Le unghie crescono più forti",
+        "Può avere pelle rossa che prude",
+        "Le mani restano sempre calde",
+        "Non viene più punto dalle api"
+      ],
+      "answer": 1,
+      "why": "La propoli può dare dermatite allergica da contatto, anche agli apicoltori."
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "code": "7.1",
+  "unit": 7,
+  "title": "Il laboratorio apistico",
+  "pages": "323–332",
+  "summary": "Scopri com'è fatta una mieleria, cioè la stanza dove il miele passa dal melario al vasetto, e come lavorarlo senza rovinarlo. Impari anche la differenza tra miele per la tua famiglia e miele da vendere, e cosa vuol dire HACCP in parole semplici.",
+  "parts": [
+    {
+      "title": "La mieleria",
+      "keyPoints": [
+        "La mieleria è la stanza dove si estrae il miele",
+        "Pareti e pavimento lisci, lavabili, senza polvere",
+        "Il percorso va dal sporco al pulito, senza tornare indietro",
+        "Attrezzi in acciaio inox o plastica per alimenti",
+        "Le api non devono poter entrare"
+      ],
+      "analogy": "La mieleria è come la cucina di casa nel giorno delle conserve: tutto pulito, tutto a portata di mano, e ogni barattolo segue la sua strada dal tavolo alla dispensa.",
+      "tip": "Prima di smielare, chiudi bene porte e finestre o metti le zanzariere: bastano poche api attirate dal profumo per riempire la stanza in pochi minuti.",
+      "science": {
+        "text": "Per la legge europea il miele in vendita, di regola, non deve avere più del 20% di acqua (fa eccezione per esempio il miele di brughiera). Per questo in mieleria serve un ambiente asciutto: il miele assorbe l'umidità dell'aria, e con troppa acqua può fermentare.",
+        "source": "Direttiva 2001/110/CE del Consiglio, allegato II",
+        "url": "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX:32001L0110"
+      },
+      "check": {
+        "question": "Perché la mieleria deve essere un locale asciutto?",
+        "options": [
+          "Perché il miele assorbe l'umidità e può fermentare",
+          "Perché l'aria secca rende il miele più chiaro e dolce",
+          "Perché con l'umido lo smielatore gira più lentamente",
+          "Perché l'umidità fa cristallizzare subito il miele"
+        ],
+        "answer": 0,
+        "explanation": "Il miele attira l'acqua dall'aria. Con troppa acqua i lieviti possono farlo fermentare."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi entriamo in un posto speciale: il laboratorio, che noi chiamiamo mieleria. È la stanza dove il miele passa dal melario al vasetto." },
+        { "who": "E", "text": "Ciao Tonino! Quindi non si smiela in giardino, sotto il portico?" },
+        { "who": "M", "text": "Meglio di no. Fuori arrivano le api, la polvere, gli insetti. Serve una stanza chiusa, con pareti e pavimento lisci, che si lavano bene." },
+        { "who": "E", "text": "Un po' come una cucina, allora." },
+        { "who": "M", "text": "Proprio così. E come in cucina c'è un ordine: da una parte entrano i melari pieni, poi si disopercola, cioè si toglie il tappo di cera alle cellette." },
+        { "who": "E", "text": "E dopo i telaini vanno nello smielatore, che gira e fa uscire il miele." },
+        { "who": "M", "text": "Brava. Poi il miele passa nei filtri e arriva nel maturatore, un grande recipiente dove riposa. Alla fine si mette nei vasetti." },
+        { "who": "E", "text": "Un percorso in fila, senza tornare indietro." },
+        { "who": "M", "text": "Esatto: dallo sporco al pulito. Gli attrezzi devono essere di acciaio inox o di plastica per alimenti. Secondo te, perché la stanza deve essere anche asciutta?" },
+        { "who": "E", "text": "Perché il miele prende l'umidità dall'aria? Se si bagna troppo, magari fermenta." },
+        { "who": "M", "text": "Perfetto. Il miele è goloso d'acqua. Se ne assorbe troppa, i lieviti si svegliano e lo fanno fermentare. Diventa acido e schiumoso." },
+        { "who": "E", "text": "Allora niente pentole che bollono vicino, e finestre chiuse nelle giornate umide." },
+        { "who": "M", "text": "E finestre chiuse anche per le api: sentono il profumo da lontano. Una mieleria piena di api è una gran confusione." },
+        { "who": "E", "text": "Me lo immagino! Zanzariere prima di tutto." }
+      ]
+    },
+    {
+      "title": "Lavorare il miele senza rovinarlo",
+      "keyPoints": [
+        "Smiela solo favi opercolati, cioè chiusi dalle api",
+        "Filtra e lascia riposare nel maturatore",
+        "Togli la schiuma in superficie prima di invasettare",
+        "Il calore forte rovina il miele",
+        "Conserva in luogo fresco, buio e asciutto"
+      ],
+      "analogy": "Il miele è come l'olio buono: se lo scaldi troppo o lo lasci al sole perde profumo e sapore, anche se sembra ancora uguale.",
+      "tip": "Se un favo ha molte cellette ancora aperte, scuotilo sopra l'arnia: se cadono goccioline, il miele è troppo acquoso. Lascialo alle api ancora qualche giorno.",
+      "science": {
+        "text": "Uno studio ha conservato il miele per un anno a 25 °C e a 35 °C. L'HMF, una sostanza che indica se il miele è stato scaldato, cresceva poco a 25 °C ma molto a 35 °C. Il calore e il tempo invecchiano il miele: per questo si conserva al fresco.",
+        "source": "Sanz et al. 2003, Journal of Agricultural and Food Chemistry",
+        "url": "https://doi.org/10.1021/jf021235s"
+      },
+      "check": {
+        "question": "Quali favi si smielano di solito?",
+        "options": [
+          "Quelli con la covata ancora chiusa nelle cellette",
+          "Quelli con le cellette di miele chiuse dalla cera",
+          "Quelli con il miele ancora liquido e aperto",
+          "Quelli appena costruiti, con la cera bianca"
+        ],
+        "answer": 1,
+        "explanation": "Quando le api chiudono la celletta con la cera, il miele è maturo, cioè ha perso abbastanza acqua."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ora vediamo come trattare il miele con delicatezza. La prima regola nasce già nell'apiario: si prendono solo i favi opercolati." },
+        { "who": "E", "text": "Opercolati vuol dire chiusi con il tappino di cera, giusto?" },
+        { "who": "M", "text": "Sì. Secondo te, perché le api chiudono la celletta solo a un certo punto?" },
+        { "who": "E", "text": "Perché il miele è pronto? Hanno tolto l'acqua che c'era nel nettare." },
+        { "who": "M", "text": "Brava. Il nettare è molto acquoso. Le api lo asciugano ventilando con le ali, e quando è maturo lo chiudono. Se smieli prima, rischi miele che fermenta." },
+        { "who": "E", "text": "E dopo lo smielatore cosa succede?" },
+        { "who": "M", "text": "Si filtra, per togliere pezzetti di cera e qualche ala. Poi riposa nel maturatore qualche giorno. Le bollicine d'aria e la cera salgono in superficie." },
+        { "who": "E", "text": "Come la schiuma sulla marmellata. Si toglie con un cucchiaio?" },
+        { "who": "M", "text": "Proprio così, la schiuma si toglie prima di riempire i vasetti. Poi c'è il nemico numero uno: il calore." },
+        { "who": "E", "text": "Ma se il miele si indurisce, non si può scaldare un po'?" },
+        { "who": "M", "text": "Con molta prudenza. Il calore forte fa perdere profumo e fa crescere una sostanza, l'HMF, che i laboratori usano per capire se il miele è stato scaldato o è vecchio." },
+        { "who": "E", "text": "Quindi niente vasetti vicino al termosifone o sulla finestra al sole." },
+        { "who": "M", "text": "Esatto. Fresco, buio, asciutto, e vasetti ben chiusi. Così il miele resta buono a lungo." },
+        { "who": "E", "text": "Come la dispensa della nonna, insomma." }
+      ]
+    },
+    {
+      "title": "Le norme igienico-sanitarie: per te o per vendere",
+      "keyPoints": [
+        "Il miele solo per la famiglia: regole europee non si applicano",
+        "Se vendi, sei un operatore del settore alimentare",
+        "Per vendere di solito serve una SCIA al SUAP",
+        "Le regole cambiano da regione a regione",
+        "Chiedi sempre alla tua ASL o associazione"
+      ],
+      "analogy": "È come la torta: se la fai per i tuoi figli, decidi tu. Se la vendi in negozio, devi seguire regole precise, perché chi la compra si fida di te.",
+      "tip": "Prima di regalare o vendere anche pochi vasetti, telefona alla tua ASL o chiedi alla tua associazione apicoltori quali regole valgono nella tua regione.",
+      "science": {
+        "text": "Il Regolamento europeo sull'igiene degli alimenti dice chiaramente che non si applica alla produzione per uso domestico privato. Vale invece per chi mette in vendita gli alimenti, con regole più leggere per chi fornisce direttamente piccole quantità, decise da ogni Stato.",
+        "source": "Regolamento (CE) n. 852/2004, articolo 1",
+        "url": "https://eur-lex.europa.eu/eli/reg/2004/852/oj"
+      },
+      "check": {
+        "question": "Enrica vuole vendere i suoi vasetti al mercato. Che cosa deve fare per prima cosa?",
+        "options": [
+          "Chiedere a un vicino quali regole segue lui",
+          "Comprare uno smielatore più grande e moderno",
+          "Chiedere alla sua ASL quali regole valgono",
+          "Aspettare di avere almeno cento alveari"
+        ],
+        "answer": 2,
+        "explanation": "Le regole per vendere dipendono dalla regione. La ASL o l'associazione sanno cosa serve, per esempio una SCIA."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Adesso parliamo di regole. Prima domanda: il tuo miele lo mangi tu, o lo vuoi vendere?" },
+        { "who": "E", "text": "Per ora è per la famiglia. Ma un giorno mi piacerebbe venderne un po'." },
+        { "who": "M", "text": "Questa differenza è importante. Il regolamento europeo sull'igiene degli alimenti, il 852 del 2004, non vale per chi produce solo per la propria casa." },
+        { "who": "E", "text": "Quindi per la famiglia posso fare come voglio?" },
+        { "who": "M", "text": "Le regole europee no, ma il buon senso sì! Pulizia e attenzione servono sempre, anche per i tuoi nipoti." },
+        { "who": "E", "text": "E se vendo?" },
+        { "who": "M", "text": "Allora diventi un operatore del settore alimentare. In molte regioni bisogna presentare una SCIA, cioè una segnalazione di inizio attività, allo sportello del comune per le imprese." },
+        { "who": "E", "text": "Lo sportello si chiama SUAP, vero? E la mieleria deve essere registrata?" },
+        { "who": "M", "text": "Spesso sì, ma i dettagli cambiano da regione a regione. Secondo te, a chi conviene chiedere prima di cominciare?" },
+        { "who": "E", "text": "Alla mia ASL, oppure alla mia associazione di apicoltori. Loro conoscono le regole della mia zona." },
+        { "who": "M", "text": "Esattamente. Le regole possono cambiare negli anni, quindi chiedi sempre a loro, non al vicino di casa." },
+        { "who": "E", "text": "Anche se il vicino fa miele da trent'anni?" },
+        { "who": "M", "text": "Anche! Magari lui segue regole vecchie. Meglio una telefonata in più che una multa." },
+        { "who": "E", "text": "Va bene, telefono prima di vendere il primo vasetto." }
+      ]
+    },
+    {
+      "title": "Linee guida per il manuale di buone pratiche",
+      "keyPoints": [
+        "Le buone pratiche igieniche sono le regole di base",
+        "HACCP: trovare i punti dove può nascere un pericolo",
+        "Per ogni punto: controllo, limite, cosa fare se va male",
+        "Scrivi poco ma scrivi sempre",
+        "Per le piccole imprese le regole sono più semplici"
+      ],
+      "analogy": "L'HACCP è come preparare un pranzo per un parente allergico: pensi prima dove può entrare il pericolo, controlli proprio lì, e se qualcosa va storto sai già cosa fare.",
+      "tip": "Tieni in mieleria un quaderno: data di smielatura, da quali arnie vengono i melari, quanti vasetti, numero di lotto. Ti servirà anche per l'etichetta.",
+      "science": {
+        "text": "La Commissione europea ha pubblicato una guida che spiega le buone pratiche igieniche e l'HACCP. Dice che per le piccole imprese le regole possono essere più semplici e con meno carte, purché il cibo resti sicuro. Le associazioni possono preparare manuali di buona prassi per il loro settore.",
+        "source": "Comunicazione della Commissione 2022/C 355/01",
+        "url": "https://op.europa.eu/it/publication-detail/-/publication/930512e2-355c-11ed-9c68-01aa75ed71a1"
+      },
+      "check": {
+        "question": "Che cosa vuol dire, in parole semplici, il metodo HACCP?",
+        "options": [
+          "Pulire la mieleria solo una volta all'anno",
+          "Analizzare in laboratorio ogni vasetto prodotto",
+          "Usare sempre attrezzi nuovi a ogni smielatura",
+          "Trovare i punti a rischio e controllarli bene"
+        ],
+        "answer": 3,
+        "explanation": "HACCP vuol dire analizzare i pericoli e sorvegliare i punti critici, dove un errore può rendere il cibo non sicuro."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ultima tappa: il manuale di buone pratiche. Hai mai sentito la parola HACCP?" },
+        { "who": "E", "text": "Sì, nei ristoranti. Mi sembra una cosa da grandi aziende, piena di carte." },
+        { "who": "M", "text": "Sembra difficile, ma l'idea è semplice. Prima vengono le buone pratiche igieniche: mani pulite, attrezzi lavati, niente animali, acqua potabile." },
+        { "who": "E", "text": "Queste le capisco. E l'HACCP vero e proprio?" },
+        { "who": "M", "text": "È un modo di ragionare. Guardi tutto il percorso del miele e ti chiedi: dove può entrare un pericolo? Un pezzo di vetro, un residuo di farmaco, lo sporco." },
+        { "who": "E", "text": "E poi controllo proprio quei punti." },
+        { "who": "M", "text": "Esatto. Per ogni punto decidi come controllare, qual è il limite, e cosa fai se le cose vanno male. Secondo te, dove può nascere un pericolo per il miele?" },
+        { "who": "E", "text": "Nei filtri, se sono rotti, o nei vasetti, se sono sporchi o scheggiati." },
+        { "who": "M", "text": "Bravissima. E anche nei trattamenti contro la varroa: mai con i melari sopra, e sempre seguendo l'etichetta e il veterinario." },
+        { "who": "E", "text": "E devo scrivere tutto? Ho paura di perdermi tra i fogli." },
+        { "who": "M", "text": "Per i piccoli le regole europee permettono più semplicità. Molte associazioni hanno manuali già pronti. Tu scrivi poco, ma scrivi sempre." },
+        { "who": "E", "text": "Tipo un quaderno con date, arnie, vasetti e lotto?" },
+        { "who": "M", "text": "Proprio quello. E chiedi alla tua ASL o all'associazione quale manuale usare nella tua regione." },
+        { "who": "E", "text": "Allora l'HACCP è solo pensare prima, controllare e scrivere. Molto meno spaventoso!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Che cos'è la mieleria?", "back": "La stanza dove il miele si estrae dai favi e si mette nei vasetti.", "part": 0 },
+    { "front": "Che cosa vuol dire disopercolare?", "back": "Togliere il tappo di cera che chiude le cellette di miele.", "part": 0 },
+    { "front": "Quanta acqua può avere al massimo il miele in vendita, di regola?", "back": "Il 20%, con poche eccezioni come il miele di brughiera.", "part": 0 },
+    { "front": "Perché si smielano solo favi opercolati?", "back": "Perché il miele è maturo e ha poca acqua: non fermenta.", "part": 1 },
+    { "front": "A cosa serve il maturatore?", "back": "A far riposare il miele: aria e cera salgono in superficie.", "part": 1 },
+    { "front": "Che cosa indica l'HMF nel miele?", "back": "Se il miele è stato scaldato troppo o è vecchio.", "part": 1 },
+    { "front": "Il Reg. 852/2004 vale per il miele solo per la famiglia?", "back": "No, non si applica alla produzione per uso domestico privato.", "part": 2 },
+    { "front": "Che cos'è la SCIA?", "back": "La segnalazione di inizio attività, presentata allo sportello SUAP del comune.", "part": 2 },
+    { "front": "Che cosa vuol dire HACCP in parole semplici?", "back": "Trovare i punti dove può nascere un pericolo e controllarli.", "part": 3 },
+    { "front": "Cosa scrivi nel quaderno della mieleria?", "back": "Data, arnie di provenienza, numero di vasetti e lotto.", "part": 3 }
+  ],
+  "questions": [
+    {
+      "question": "Come devono essere pareti e pavimento della mieleria?",
+      "options": [
+        "Lisci e facili da lavare",
+        "Di legno grezzo e caldo",
+        "Coperti da tappeti spessi",
+        "Ruvidi per non scivolare"
+      ],
+      "answer": 0,
+      "explanation": "Superfici lisce e lavabili non trattengono sporco e residui di miele.",
+      "part": 0
+    },
+    {
+      "question": "In che ordine si muove il miele in mieleria?",
+      "options": [
+        "Dai vasetti al melario, poi allo smielatore",
+        "Dal maturatore allo smielatore, poi ai filtri",
+        "Dal melario allo smielatore, poi ai vasetti",
+        "Dai filtri al melario, poi al maturatore"
+      ],
+      "answer": 2,
+      "explanation": "Il percorso va dallo sporco al pulito: melario, disopercolatura, smielatore, filtri, maturatore, vasetti.",
+      "part": 0
+    },
+    {
+      "question": "Di che materiale devono essere gli attrezzi che toccano il miele?",
+      "options": [
+        "Di ferro verniciato o rame",
+        "Di alluminio o ferro zincato",
+        "Di legno o terracotta grezza",
+        "Di acciaio inox o plastica alimentare"
+      ],
+      "answer": 3,
+      "explanation": "Il miele è acido: servono materiali adatti agli alimenti che non rilasciano sostanze.",
+      "part": 0
+    },
+    {
+      "question": "Che cosa succede a un miele con troppa acqua?",
+      "options": [
+        "Diventa amaro",
+        "Può fermentare",
+        "Si schiarisce",
+        "Non cristallizza"
+      ],
+      "answer": 1,
+      "explanation": "Con troppa acqua i lieviti naturali del miele si moltiplicano e lo fanno fermentare.",
+      "part": 1
+    },
+    {
+      "question": "Dove è meglio conservare i vasetti di miele?",
+      "options": [
+        "In un luogo fresco, buio e asciutto",
+        "Sul davanzale, al sole e all'aria",
+        "Vicino al forno, al caldo e asciutto",
+        "In cantina umida, aperti e coperti"
+      ],
+      "answer": 0,
+      "explanation": "Calore, luce e umidità rovinano il miele col tempo.",
+      "part": 1
+    },
+    {
+      "question": "Perché si toglie la schiuma dal maturatore prima di invasettare?",
+      "options": [
+        "Perché contiene la covata delle api",
+        "Perché contiene il veleno delle api",
+        "Perché contiene aria e pezzetti di cera",
+        "Perché contiene lo zucchero più dolce"
+      ],
+      "answer": 2,
+      "explanation": "In superficie salgono bollicine e residui di cera: si tolgono per un miele pulito.",
+      "part": 1
+    },
+    {
+      "question": "Per chi non vale il Regolamento europeo 852/2004?",
+      "options": [
+        "Per chi vende miele ai negozi",
+        "Per chi vende miele al mercato",
+        "Per chi vende miele su internet",
+        "Per chi fa miele solo per casa"
+      ],
+      "answer": 3,
+      "explanation": "Il regolamento esclude la produzione per uso domestico privato.",
+      "part": 2
+    },
+    {
+      "question": "A quale sportello si presenta di solito la SCIA?",
+      "options": [
+        "Alla posta del paese",
+        "Al SUAP del comune",
+        "Al medico di famiglia",
+        "Alla farmacia comunale"
+      ],
+      "answer": 1,
+      "explanation": "Il SUAP è lo sportello unico del comune per le attività produttive.",
+      "part": 2
+    },
+    {
+      "question": "Perché le regole per vendere vanno chieste alla propria ASL?",
+      "options": [
+        "Perché cambiano da regione a regione",
+        "Perché sono uguali in tutta Europa",
+        "Perché valgono solo per le grandi aziende",
+        "Perché le decide ogni apicoltore da solo"
+      ],
+      "answer": 0,
+      "explanation": "Ogni regione applica le norme a modo suo, e le regole possono cambiare negli anni.",
+      "part": 2
+    },
+    {
+      "question": "Quale di queste è una buona pratica igienica di base?",
+      "options": [
+        "Far entrare il cane durante la smielatura",
+        "Usare acqua del pozzo non controllata",
+        "Lavarsi le mani prima di toccare i favi",
+        "Lasciare le finestre aperte per l'aria"
+      ],
+      "answer": 2,
+      "explanation": "Mani pulite, attrezzi lavati, niente animali e acqua potabile sono la base.",
+      "part": 3
+    },
+    {
+      "question": "Nell'HACCP, che cosa decidi per ogni punto a rischio?",
+      "options": [
+        "Chi è il colpevole se qualcosa va male",
+        "Quanto costa il miele in quel momento",
+        "Quali api hanno raccolto quel nettare",
+        "Come controllare e cosa fare se va male"
+      ],
+      "answer": 3,
+      "explanation": "Per ogni punto critico servono un controllo, un limite e un'azione correttiva.",
+      "part": 3
+    },
+    {
+      "question": "Perché il quaderno della mieleria è utile anche per l'etichetta?",
+      "options": [
+        "Perché contiene il prezzo dei vasetti",
+        "Perché contiene il numero di lotto",
+        "Perché contiene il nome delle api regine",
+        "Perché contiene la ricetta del candito"
+      ],
+      "answer": 1,
+      "explanation": "Il lotto collega ogni vasetto a una smielatura precisa e va scritto in etichetta.",
+      "part": 3
+    }
+  ],
+  "exercises": [
+    {
+      "title": "La smielatura in garage",
+      "prompt": "Un amico ti propone: «Smieliamo nel mio garage, c'è spazio. Teniamo la saracinesca aperta per l'aria». Il pavimento è di cemento grezzo e in un angolo c'è la tanica del gasolio. Cosa fai?",
+      "modelAnswer": "Ringrazio, ma propongo di sistemare meglio il posto. Con la saracinesca aperta entrerebbero api, polvere e insetti: va chiusa, o almeno coperta con una zanzariera. Il cemento grezzo è difficile da pulire: copro il pavimento con teli lavabili e lavo bene le superfici di lavoro. La tanica del gasolio va portata fuori, perché il miele prende facilmente odori. Organizzo il percorso dallo sporco al pulito: melari pieni da una parte, poi disopercolatura, smielatore, filtri e maturatore, e i vasetti puliti in fondo. Uso solo attrezzi in acciaio inox o plastica per alimenti. Se il miele è solo per noi va bene così; se un giorno volessimo venderlo, chiederemmo prima alla ASL quali regole valgono."
+    },
+    {
+      "title": "Il miele che fa le bollicine",
+      "prompt": "Apri un vasetto di miele di qualche mese fa. In superficie c'è schiuma, il profumo è un po' acido, quasi di vino. Avevi smielato anche alcuni favi con le cellette ancora aperte. Cosa è successo e cosa fai la prossima volta?",
+      "modelAnswer": "Probabilmente il miele sta fermentando. I favi con cellette aperte avevano miele non maturo, con troppa acqua, e i lieviti naturali si sono moltiplicati. Quel vasetto non lo regalo e non lo vendo. La prossima volta smielo solo favi opercolati, cioè chiusi dalle api con la cera. Se un favo ha molte cellette aperte, lo scuoto: se cadono gocce, lo lascio alle api ancora qualche giorno. In mieleria tengo l'aria asciutta e le finestre chiuse nei giorni umidi. Conservo i vasetti ben chiusi in un posto fresco e asciutto. Se ho dubbi sull'acqua del miele, posso chiedere all'associazione: alcune misurano l'umidità con un apposito strumento, il rifrattometro."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Il percorso del miele in mieleria",
+        "steps": [
+          "Portare dentro i melari con i favi opercolati",
+          "Togliere gli opercoli di cera",
+          "Mettere i telaini nello smielatore",
+          "Filtrare il miele",
+          "Lasciarlo riposare nel maturatore",
+          "Togliere la schiuma in superficie",
+          "Riempire e chiudere i vasetti"
+        ],
+        "part": 0
+      },
+      {
+        "title": "Ragionare con l'HACCP",
+        "steps": [
+          "Guardare tutto il percorso del miele",
+          "Trovare dove può nascere un pericolo",
+          "Decidere come controllare quel punto",
+          "Fissare un limite da non superare",
+          "Sapere cosa fare se qualcosa va male",
+          "Scrivere quello che si è fatto"
+        ],
+        "part": 3
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Giro forte e la forza spinge fuori il miele dalle cellette.",
+          "Dentro di me metti i telaini già disopercolati.",
+          "Sono la macchina principale della mieleria."
+        ],
+        "answer": "Lo smielatore",
+        "distractors": ["Il maturatore", "Il disopercolatore", "Il rifrattometro"],
+        "part": 0
+      },
+      {
+        "clues": [
+          "Dentro di me il miele riposa qualche giorno.",
+          "In superficie mi si forma una schiuma da togliere.",
+          "Ho un rubinetto in basso per riempire i vasetti."
+        ],
+        "answer": "Il maturatore",
+        "distractors": ["Lo smielatore", "Il melario", "Il filtro"],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Mi presenti quando cominci a vendere alimenti.",
+          "Il mio nome vuol dire segnalazione di inizio attività.",
+          "Mi consegni allo sportello SUAP del comune."
+        ],
+        "answer": "La SCIA",
+        "distractors": ["La BDA", "La ricetta", "La fattura"],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Servo a trovare i punti dove può nascere un pericolo.",
+          "Mi usano anche ristoranti e panifici.",
+          "Il mio nome è una sigla di cinque lettere."
+        ],
+        "answer": "L'HACCP",
+        "distractors": ["L'ASL", "Il SUAP", "La SCIA"],
+        "part": 3
+      }
+    ],
+    "truefalse": [
+      { "text": "La mieleria deve avere superfici lisce e lavabili.", "true": true, "why": "Così si pulisce bene e non resta sporco nascosto.", "part": 0 },
+      { "text": "Lasciare le finestre aperte durante la smielatura è una buona idea.", "true": false, "why": "Entrano api attirate dal profumo, polvere e insetti.", "part": 0 },
+      { "text": "Il miele assorbe l'umidità dell'aria.", "true": true, "why": "Per questo la mieleria deve essere asciutta e i vasetti chiusi.", "part": 0 },
+      { "text": "Conviene smielare anche i favi con il miele ancora aperto.", "true": false, "why": "Quel miele ha troppa acqua e può fermentare.", "part": 1 },
+      { "text": "Scaldare forte il miele ne migliora il profumo.", "true": false, "why": "Il calore forte fa perdere aromi e invecchia il miele.", "part": 1 },
+      { "text": "I vasetti si conservano meglio al fresco e al buio.", "true": true, "why": "Calore e luce rovinano il miele col tempo.", "part": 1 },
+      { "text": "Il Reg. 852/2004 non si applica al miele per uso domestico privato.", "true": true, "why": "Lo dice l'articolo 1 del regolamento.", "part": 2 },
+      { "text": "Le regole per vendere il miele sono identiche in ogni regione.", "true": false, "why": "Cambiano da regione a regione: chiedi alla tua ASL.", "part": 2 },
+      { "text": "Chi vende miele diventa un operatore del settore alimentare.", "true": true, "why": "Mettere in vendita alimenti comporta regole di igiene precise.", "part": 2 },
+      { "text": "L'HACCP serve solo alle grandi industrie.", "true": false, "why": "Vale anche per i piccoli, con regole più semplici.", "part": 3 },
+      { "text": "Un vasetto scheggiato può essere un pericolo per chi mangia il miele.", "true": true, "why": "Un pezzetto di vetro nel miele è un pericolo fisico.", "part": 3 },
+      { "text": "Si può trattare contro la varroa con i melari sopra.", "true": false, "why": "I farmaci finirebbero nel miele: si tratta senza melari.", "part": 3 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 8,
+      "question": "Perché la mieleria deve essere un posto asciutto?",
+      "options": [
+        "Perché lo smielatore si arrugginisce",
+        "Perché il miele prende umidità e fermenta",
+        "Perché le api amano l'aria umida",
+        "Perché la cera si scioglie con l'umido"
+      ],
+      "answer": 1,
+      "why": "Il miele assorbe l'acqua dall'aria. Con troppa acqua, i lieviti lo fanno fermentare."
+    },
+    {
+      "part": 1,
+      "line": 2,
+      "question": "Perché le api chiudono la celletta con la cera solo a un certo punto?",
+      "options": [
+        "Perché la regina ha deposto l'uovo",
+        "Perché è arrivato il freddo dell'inverno",
+        "Perché il miele è maturo, con poca acqua",
+        "Perché la celletta è troppo vecchia"
+      ],
+      "answer": 2,
+      "why": "Le api asciugano il nettare ventilando. Quando è diventato miele maturo, chiudono la celletta."
+    },
+    {
+      "part": 2,
+      "line": 8,
+      "question": "A chi conviene chiedere le regole prima di vendere il miele?",
+      "options": [
+        "Al vicino che fa miele da anni",
+        "Al negozio che vende i vasetti",
+        "Al primo cliente del mercato",
+        "Alla ASL o all'associazione"
+      ],
+      "answer": 3,
+      "why": "Le regole dipendono dalla regione e cambiano negli anni: ASL e associazione sanno cosa vale oggi."
+    },
+    {
+      "part": 3,
+      "line": 6,
+      "question": "Dove può nascere un pericolo per il miele in mieleria?",
+      "options": [
+        "Nei filtri rotti o nei vasetti scheggiati",
+        "Nel colore troppo scuro del miele",
+        "Nel profumo forte di alcuni mieli",
+        "Nel sapore dolce del miele maturo"
+      ],
+      "answer": 0,
+      "why": "Filtri rotti o vetro scheggiato possono lasciare pezzetti nel miele: sono punti da controllare."
+    }
+  ]
+}

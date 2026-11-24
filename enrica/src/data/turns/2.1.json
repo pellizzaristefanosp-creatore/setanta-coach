@@ -1,0 +1,83 @@
+{
+ "code": "2.1",
+ "turns": [
+  {
+   "part": 0,
+   "line": 6,
+   "question": "Perché conta arrivare all'inverno con una famiglia forte?",
+   "options": [
+    "Perché tante api stanno più calde nel glomere",
+    "Perché le api forti non mangiano d'inverno",
+    "Perché le api forti escono anche con la neve",
+    "Perché tante api fanno più miele d'inverno"
+   ],
+   "answer": 0,
+   "why": "D'inverno le api si stringono nel glomere: più sono, meglio tengono caldo il centro."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "A cosa serve sapere dove sono tutti gli alveari?",
+   "options": [
+    "A riscuotere una tassa su ogni arnia",
+    "A scegliere i fiori da piantare in zona",
+    "A intervenire in fretta se c'è una malattia",
+    "A contare quanto miele fa ogni regione"
+   ],
+   "answer": 2,
+   "why": "Se scoppia una malattia, si sa subito chi avvisare e dove controllare."
+  },
+  {
+   "part": 2,
+   "line": 10,
+   "question": "Quale modo di avere le api conviene a chi inizia?",
+   "options": [
+    "Il pacco d'api, che arriva senza favi",
+    "Lo sciame raccolto, che non costa nulla",
+    "Un'arnia vuota da far occupare a uno sciame",
+    "Il nucleo, già avviato con regina e covata"
+   ],
+   "answer": 3,
+   "why": "Il nucleo è una famiglia già avviata: vedi subito regina, covata e scorte."
+  },
+  {
+   "part": 3,
+   "line": 8,
+   "question": "Cosa fai se una famiglia resta senza regina e hai un secondo alveare?",
+   "options": [
+    "Le dai un telaino con uova dall'altro alveare",
+    "Le dai un telaino di miele dall'altro alveare",
+    "Unisci subito le due famiglie in una sola",
+    "Aspetti la primavera senza fare niente"
+   ],
+   "answer": 0,
+   "why": "Da un uovo o da una larva giovanissima le api allevano una regina nuova."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Perché d'estate le api raccolgono tanta acqua?",
+   "options": [
+    "Per lavare il fondo dell'arnia ogni sera",
+    "Per rinfrescare la casa facendola evaporare",
+    "Per fare il miele più liquido da vendere",
+    "Per bere soltanto, come facciamo noi"
+   ],
+   "answer": 1,
+   "why": "Spargono goccioline e sventolano le ali: l'acqua evapora e l'alveare si raffredda."
+  },
+  {
+   "part": 5,
+   "line": 6,
+   "question": "Cosa confonde un'ape davanti a tante arnie in fila?",
+   "options": [
+    "Che hanno le entrate troppo strette",
+    "Che sono troppo lontane tra loro",
+    "Che sono tutte uguali e vicine",
+    "Che sono alzate da terra"
+   ],
+   "answer": 2,
+   "why": "Arnie uguali e vicine si somigliano troppo: l'ape sbaglia casa, come noi tra villette identiche."
+  }
+ ]
+}

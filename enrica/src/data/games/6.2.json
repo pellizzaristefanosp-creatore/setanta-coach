@@ -1,0 +1,188 @@
+{
+ "code": "6.2",
+ "order": [
+  {
+   "title": "La vita di una varroa femmina",
+   "steps": [
+    "Viaggia su un'ape adulta",
+    "Entra in una cella prima della chiusura",
+    "Si nasconde sotto la larva",
+    "Depone le uova sotto il tappo",
+    "I figli si nutrono della pupa",
+    "Esce con l'ape appena nata"
+   ],
+   "slide": 2
+  },
+  {
+   "title": "Il test dello zucchero a velo",
+   "steps": [
+    "Prendi api da un favo di covata",
+    "Le metti nel barattolo con la rete",
+    "Aggiungi lo zucchero a velo",
+    "Scuoti bene il barattolo",
+    "Setacci le varroe su un foglio bianco",
+    "Conti le varroe e le annoti",
+    "Rimetti le api nell'arnia"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Blocco di covata con trattamento",
+   "steps": [
+    "Finisce il raccolto principale",
+    "Chiudi la regina nella gabbietta",
+    "Aspetti che non ci sia più covata",
+    "Liberi la regina",
+    "Tratti con un prodotto autorizzato",
+    "Scrivi il trattamento nel registro"
+   ],
+   "slide": 6
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Prima mi chiamavano con un altro nome.",
+    "Cresco nella cella insieme alla pupa.",
+    "Il mio nome latino vuol dire «distruttore»."
+   ],
+   "answer": "Varroa destructor",
+   "distractors": [
+    "Acarapis woodi",
+    "Tropilaelaps clareae",
+    "Aethina tumida"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Mi metti in un barattolo con il coperchio a rete.",
+    "Faccio staccare gli acari senza uccidere le api.",
+    "In cucina mi metti sui dolci, come neve fine."
+   ],
+   "answer": "zucchero a velo",
+   "distractors": [
+    "alcol etilico",
+    "sale fino",
+    "bicarbonato"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Il mio nome ricorda l'acetosella.",
+    "Mi usano spesso in inverno.",
+    "Lavoro bene solo quando non c'è covata."
+   ],
+   "answer": "acido ossalico",
+   "distractors": [
+    "acido formico",
+    "acido lattico",
+    "acido citrico"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Mi chiamano anche telaino trappola.",
+    "Attiro la varroa con le mie celle grandi.",
+    "Mi tagli via quando le celle sono chiuse."
+   ],
+   "answer": "covata da fuco",
+   "distractors": [
+    "covata da operaia",
+    "cella reale",
+    "favo da melario"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Ho viaggiato per il mondo insieme alla varroa.",
+    "Rendo le api incapaci di volare.",
+    "Faccio nascere api con le ali accartocciate."
+   ],
+   "answer": "virus delle ali deformi",
+   "distractors": [
+    "virus della paralisi cronica",
+    "virus della cella reale nera",
+    "virus della covata a sacco"
+   ],
+   "slide": 5
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La varroa viveva in origine sull'ape asiatica.",
+   "true": true,
+   "why": "Il suo ospite naturale è Apis cerana; poi è passata sulla nostra ape.",
+   "slide": 1
+  },
+  {
+   "text": "In Italia la varroa è arrivata soltanto negli anni Duemila.",
+   "true": false,
+   "why": "È stata segnalata nel 1981 vicino a Gorizia.",
+   "slide": 1
+  },
+  {
+   "text": "La varroa si riproduce dentro le celle di covata opercolata.",
+   "true": true,
+   "why": "La femmina entra poco prima della chiusura e depone sotto il tappo.",
+   "slide": 2
+  },
+  {
+   "text": "Oggi sappiamo che la varroa beve soprattutto l'emolinfa.",
+   "true": false,
+   "why": "Uno studio del 2019 mostra che mangia soprattutto il corpo grasso.",
+   "slide": 2
+  },
+  {
+   "text": "Se non vedi varroe sulle api, la famiglia è sicuramente sana.",
+   "true": false,
+   "why": "Molte varroe sono nascoste nella covata: bisogna contarle con un metodo.",
+   "slide": 3
+  },
+  {
+   "text": "Con lo zucchero a velo le api tornano vive nell'arnia.",
+   "true": true,
+   "why": "Lo zucchero stacca le varroe senza uccidere le api.",
+   "slide": 3
+  },
+  {
+   "text": "La varroa vola da sola da un'arnia all'altra.",
+   "true": false,
+   "why": "Non vola: viaggia sulle api, con la deriva e il saccheggio.",
+   "slide": 4
+  },
+  {
+   "text": "Una famiglia che crolla può riempire di varroe le vicine.",
+   "true": true,
+   "why": "Le api che la saccheggiano tornano a casa con le varroe addosso.",
+   "slide": 4
+  },
+  {
+   "text": "La varroa trasmette il virus delle ali deformi.",
+   "true": true,
+   "why": "Lo trasmette mentre si nutre: ha spinto la sua diffusione nel mondo.",
+   "slide": 5
+  },
+  {
+   "text": "Il telaino trappola da solo basta per tutta la stagione.",
+   "true": false,
+   "why": "Aiuta in primavera, ma più avanti servono altri interventi.",
+   "slide": 6
+  },
+  {
+   "text": "L'acido ossalico funziona bene quando non c'è covata.",
+   "true": true,
+   "why": "Senza covata le varroe sono tutte sulle api adulte, raggiungibili.",
+   "slide": 7
+  },
+  {
+   "text": "Un trattamento fatto in casa non va scritto nel registro.",
+   "true": false,
+   "why": "Si usano solo prodotti autorizzati, e ogni trattamento va annotato.",
+   "slide": 7
+  }
+ ]
+}

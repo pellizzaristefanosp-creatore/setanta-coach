@@ -1,0 +1,174 @@
+{
+ "code": "5.3",
+ "order": [
+  {
+   "title": "Come nasce il pane delle api",
+   "steps": [
+    "L'ape bottinatrice porta il polline",
+    "Lascia le pallottole in una celletta",
+    "Le compagne pressano il polline con la testa",
+    "Aggiungono sopra un velo di miele",
+    "Batteri lattici fanno fermentare il polline"
+   ],
+   "slide": 1
+  },
+  {
+   "title": "Estrarre e conservare il pane d'api",
+   "steps": [
+    "Scelgo favi in più da famiglie forti",
+    "Taglio i pezzi di favo",
+    "Li metto in congelatore",
+    "Sbriciolo il favo indurito",
+    "Separo i granuli con i setacci",
+    "Chiudo il pane d'api in barattoli asciutti"
+   ],
+   "slide": 2
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Vivo nelle cellette di polline",
+    "Trasformo gli zuccheri in un acido",
+    "Rendo il pane delle api acidulo"
+   ],
+   "answer": "Batterio lattico",
+   "distractors": [
+    "Lievito del pane",
+    "Fungo della muffa",
+    "Batterio del suolo"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Mi trovi nelle celle vicino alla covata",
+    "Sono polline pressato e fermentato",
+    "Mi chiamano anche perga"
+   ],
+   "answer": "Pane delle api",
+   "distractors": [
+    "Pappa reale",
+    "Cera d'opercolo",
+    "Miele di melata"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Rendo fragile la cera dei favi",
+    "Lavoro al buio e al freddo",
+    "Aiuto a staccare il pane d'api"
+   ],
+   "answer": "Congelatore",
+   "distractors": [
+    "Smielatore",
+    "Maturatore",
+    "Essiccatore"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Ho tanti buchi tutti uguali",
+    "Divido i pezzi grandi da quelli piccoli",
+    "Separo i granuli dalla cera"
+   ],
+   "answer": "Setaccio",
+   "distractors": [
+    "Coltello",
+    "Mestolo",
+    "Imbuto"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi trovi nei prodotti di apiari inquinati",
+    "Arrivo da strade e fabbriche",
+    "Sono un metallo pesante"
+   ],
+   "answer": "Piombo",
+   "distractors": [
+    "Ferro",
+    "Rame",
+    "Zinco"
+   ],
+   "slide": 2
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Il pane delle api nasce da una fermentazione lattica del polline.",
+   "true": true,
+   "why": "Batteri lattici producono acido lattico nelle cellette di polline.",
+   "slide": 1
+  },
+  {
+   "text": "Le api cuociono il polline con il calore dell'arnia per fare il pane.",
+   "true": false,
+   "why": "Nessuna cottura: il polline pressato fermenta grazie ai batteri.",
+   "slide": 1
+  },
+  {
+   "text": "Uno studio ha visto che le api preferiscono il polline appena messo.",
+   "true": true,
+   "why": "Mangiavano soprattutto polline di pochi giorni; il resto restava come scorta.",
+   "slide": 1
+  },
+  {
+   "text": "Si può prendere tutto il pane d'api del nido a fine inverno.",
+   "true": false,
+   "why": "In primavera serve alla covata: si prende solo da favi in più.",
+   "slide": 2
+  },
+  {
+   "text": "Il freddo rende la cera fragile e aiuta a staccare il pane d'api.",
+   "true": true,
+   "why": "La cera congelata si sbriciola e si separa con i setacci.",
+   "slide": 2
+  },
+  {
+   "text": "Il luogo dell'apiario non cambia nulla nel pane d'api.",
+   "true": false,
+   "why": "Metalli come il piombo dell'ambiente possono finire nei prodotti dell'alveare.",
+   "slide": 2
+  },
+  {
+   "text": "Il pane d'api fuori dal favo va tenuto asciutto e ben chiuso.",
+   "true": true,
+   "why": "Senza miele e cera intorno prende umidità e può ammuffire.",
+   "slide": 3
+  },
+  {
+   "text": "Il pane d'api è sterile e non può mai fare la muffa.",
+   "true": false,
+   "why": "Contiene anche batteri che possono rovinarlo: va conservato con cura.",
+   "slide": 3
+  },
+  {
+   "text": "Il pane d'api si può conservare anche in congelatore.",
+   "true": true,
+   "why": "In contenitori per alimenti ben chiusi, con la data scritta sopra.",
+   "slide": 3
+  },
+  {
+   "text": "Il pane d'api è una medicina che sostituisce i farmaci.",
+   "true": false,
+   "why": "È un alimento: gli effetti vengono soprattutto da studi su laboratorio e animali.",
+   "slide": 4
+  },
+  {
+   "text": "Nel pane d'api sono state trovate più di 300 sostanze diverse.",
+   "true": true,
+   "why": "Una revisione del 2022 elenca amminoacidi, zuccheri, grassi, minerali e vitamine.",
+   "slide": 4
+  },
+  {
+   "text": "Chi è allergico ai pollini può mangiarlo senza chiedere a nessuno.",
+   "true": false,
+   "why": "Con il polline d'api sono descritte reazioni anche gravi: prima il medico.",
+   "slide": 4
+  }
+ ]
+}

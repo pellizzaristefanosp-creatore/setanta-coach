@@ -1,0 +1,375 @@
+{
+ "version": 1,
+ "code": "3.1",
+ "unit": 3,
+ "title": "Come e quando visitare gli alveari",
+ "pages": "67–74",
+ "summary": "Impari a leggere l'umore delle api e a scegliere il momento giusto per aprire l'arnia. Scopri come aprirla con calma, quanto restare e cosa fare con una famiglia nervosa.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Il comportamento delle api",
+   "narration": "Ciao Enrica! Oggi parliamo di come e quando visitare gli alveari. Prima però dobbiamo capire come ragionano le api quando qualcuno apre la loro casa. Ciao Tonino! Io ho sempre un po' paura che mi attacchino tutte insieme. È normale. Ma ricorda: l'ape non è cattiva. Difende tre cose preziose, cioè la casa, le scorte di miele e la covata, cioè uova, larve e pupe. Quindi se io apro l'arnia, per loro sono come un ladro che entra in cucina. Proprio così. All'ingresso ci sono le guardiane, api che controllano chi entra. Se sentono un pericolo, si mettono in allarme. E come fanno a chiamare le altre? Con un odore. Quando un'ape punge, dal pungiglione esce un profumo di allarme, che ricorda un po' la banana. La banana? Non me lo aspettavo proprio! Eh sì. Allora, secondo te, perché dopo la prima puntura spesso ne arrivano altre nello stesso punto? Perché l'odore di allarme resta sulla pelle o sul vestito, e le altre api lo seguono per venire a difendere. Brava. Per questo, se ti pungono, togli subito il pungiglione e fai qualche passo indietro, senza agitarti. E se resto calma anche loro restano più calme? Spesso sì. Gesti lenti, niente colpi sull'arnia, niente mani che sventolano. Le api notano le vibrazioni e i movimenti bruschi. Allora la prima regola è muovermi piano, come quando entro in una stanza dove dorme un neonato.",
+   "keyPoints": [
+    "Le api difendono casa, scorte e covata",
+    "Le guardiane controllano chi entra dall'ingresso",
+    "Il pungiglione libera un odore di allarme",
+    "L'odore di allarme richiama altre api a difendere"
+   ],
+   "analogy": "L'odore di allarme è come il campanello antifurto di casa: suona in un punto solo, ma sveglia tutto il condominio.",
+   "check": {
+    "question": "Che cosa fa l'odore di allarme che esce dal pungiglione?",
+    "options": [
+     "Calma le api che stanno vicino all'ingresso",
+     "Richiama altre api a difendere l'alveare",
+     "Indica alle bottinatrici dove c'è nettare",
+     "Avvisa le nutrici che la regina ha fame"
+    ],
+    "answer": 1,
+    "explanation": "È un segnale di pericolo: le altre api lo sentono e arrivano a difendere."
+   },
+   "science": {
+    "text": "Già nel 1962 alcuni ricercatori hanno trovato nel pungiglione dell'ape l'acetato di isoamile, una sostanza che profuma un po' di banana. È uno dei componenti dell'odore di allarme: dice alle altre api che c'è un pericolo e che serve aiuto per difendere la casa.",
+    "source": "Boch, Shearer e Stone 1962, Nature",
+    "url": "https://doi.org/10.1038/1951018b0"
+   },
+   "tip": "Muoviti piano e senza gesti bruschi. Se un'ape ti punge, togli subito il pungiglione e allontanati di qualche passo: l'odore di allarme resta lì e ne richiama altre."
+  },
+  {
+   "slide": 2,
+   "title": "Le condizioni ideali",
+   "narration": "Adesso parliamo del momento giusto. Non tutti i giorni sono buoni per aprire un'arnia. Io pensavo di andarci quando ho tempo, magari la sera dopo il lavoro. La sera è il momento peggiore. Tutte le api sono a casa, fa più fresco e sono più nervose. Allora quando è meglio? In una giornata tiepida, serena e senza vento, nelle ore centrali. Secondo te, perché proprio a metà giornata? Perché molte api sono fuori a raccogliere nettare e polline, quindi in casa ce ne sono meno e sono più impegnate. Esatto. Le bottinatrici, cioè le api che vanno a raccogliere, sono le più pronte a difendere. Se sono fuori, la visita è più tranquilla. E il vento cosa c'entra? Il vento raffredda la covata quando apri e porta via il fumo. Anche la pioggia non va bene: le api restano tutte in casa. Ho sentito dire che prima di un temporale sono più cattive. Più difensive, diciamo. Lo notano tanti apicoltori, e anche alcuni studi hanno collegato il loro umore al tempo che cambia. Quindi guardo il cielo prima di partire, come quando devo stendere il bucato. Brava. E quando arrivi, guarda l'ingresso: se le api entrano tranquille con le zampe cariche di polline, è il momento giusto. Se invece vedo che girano agitate o il cielo si scurisce, rimando a un altro giorno.",
+   "keyPoints": [
+    "Scegli giornate tiepide, serene e senza vento",
+    "Le ore centrali sono le migliori",
+    "Con molte bottinatrici fuori l'arnia è più tranquilla",
+    "Prima di un temporale le api si innervosiscono"
+   ],
+   "analogy": "Le api sono come una famiglia la domenica a pranzo: col sole sono di buon umore, col tempo brutto sono tutti in casa e un po' nervosi.",
+   "check": {
+    "question": "Qual è il momento migliore per visitare un alveare?",
+    "options": [
+     "Una sera fresca, quando tutte sono rientrate",
+     "Una mattina piovosa, prima che escano",
+     "Un'ora prima di un temporale estivo",
+     "Una giornata tiepida, nelle ore centrali"
+    ],
+    "answer": 3,
+    "explanation": "Con il sole molte bottinatrici sono fuori e la famiglia è più tranquilla."
+   },
+   "science": {
+    "text": "Uno studio sul comportamento difensivo ha collegato l'umore delle api al tempo: temperatura, umidità, sole, vento e pressione dell'aria. Le api tendono a difendersi di più quando arriva il brutto tempo. Ecco perché la saggezza degli apicoltori consiglia giornate calme e serene.",
+    "source": "Southwick e Moritz 1987, International Journal of Biometeorology",
+    "url": "https://doi.org/10.1007/BF02188929"
+   },
+   "tip": "Guarda l'ingresso prima di aprire: se molte api escono e rientrano cariche di polline, è un buon momento. Se il cielo si scurisce, rimanda la visita."
+  },
+  {
+   "slide": 3,
+   "title": "Quanto può durare la visita",
+   "narration": "Enrica, quanto pensi che debba durare una visita all'alveare? Non lo so. Mi piacerebbe restare un'ora a guardare tutto! Ti capisco, è uno spettacolo. Ma pensa alla covata: le api la tengono molto calda, sempre alla stessa temperatura. Come i neonati in incubatrice. Bel paragone. Allora dimmi, secondo te, cosa succede alla covata se lascio l'arnia aperta a lungo in una giornata fresca? Si raffredda, e le api poi devono faticare per riscaldarla. Forse qualche larva può anche soffrire. Proprio così. E gli studi dicono che anche piccole differenze di calore cambiano le api che nasceranno. Allora come faccio a essere veloce senza dimenticare niente? Decidi prima cosa cercare. C'è la regina o ci sono uova? Ci sono scorte? C'è spazio? Ci sono segni di malattia? Come la lista della spesa: entro, prendo quello che serve ed esco. Esatto. Poi copri i favi che non stai guardando, con un coprifavo o un panno. E muoviti con ordine, un telaino alla volta. E d'inverno? D'inverno non si aprono le arnie per fare visite complete. Si guarda l'ingresso e si soppesa l'arnia per capire le scorte. Quindi il tempo giusto è quello che basta per controllare la mia lista, non di più.",
+   "keyPoints": [
+    "La covata deve restare calda",
+    "Decidi prima che cosa vuoi controllare",
+    "Copri i favi che non stai guardando",
+    "Con il fresco fai visite più brevi"
+   ],
+   "analogy": "Aprire l'arnia è come aprire il frigorifero: se lo lasci aperto mentre pensi a cosa prendere, dentro cambia la temperatura.",
+   "check": {
+    "question": "Perché una visita non deve durare più del necessario?",
+    "options": [
+     "Perché la covata scoperta perde il suo calore",
+     "Perché la regina esce e si perde nel prato",
+     "Perché il miele aperto diventa subito acido",
+     "Perché le larve smettono di essere nutrite"
+    ],
+    "answer": 0,
+    "explanation": "La covata ha bisogno di una temperatura alta e costante: aprendo, si raffredda."
+   },
+   "science": {
+    "text": "Nel nido la covata viene tenuta molto calda. In laboratorio, pupe cresciute a 32 °C sono diventate api che danzano peggio e imparano meno bene di quelle cresciute a 36 °C. Anche piccoli sbalzi di calore contano: per questo la visita deve essere ordinata e non troppo lunga.",
+    "source": "Tautz et al. 2003, PNAS",
+    "url": "https://doi.org/10.1073/pnas.1232346100"
+   },
+   "tip": "Prima di aprire scrivi su un foglietto cosa vuoi vedere: regina o uova, scorte, spazio, malattie. Controlla quello, poi richiudi. Un panno umido o un coprifavo tengono coperti i favi."
+  },
+  {
+   "slide": 4,
+   "title": "Come si apre l'alveare",
+   "narration": "Ora apriamo davvero un'arnia. Prima domanda: dove ti metti? Davanti, così vedo bene! Eh no! Davanti c'è la strada delle bottinatrici. Mettiti di lato, così non blocchi il traffico. Giusto, sarebbe come piazzarmi in mezzo alla porta di casa quando tutti rientrano con la spesa. Poi dai due o tre sbuffi di fumo all'ingresso e aspetti un momento. Il fumo deve essere fresco e bianco. Va bene. E il fumo a cosa serve, di preciso? Lo chiedo io a te. Secondo te, perché le api con il fumo diventano più tranquille? Perché il fumo copre l'odore di allarme, e così le api fanno più fatica ad avvisarsi tra loro. Brava, è una delle spiegazioni che danno gli studi. Ma non esagerare: troppo fumo le agita e rovina il miele. E poi come apro il coperchio? Con la leva, piano, senza colpi. Le api incollano tutto con la propoli, una specie di colla fatta di resine. E i telaini come li tiro fuori? Prima uno laterale, così fai spazio. Poi uno alla volta, dritti, tenendoli sopra l'arnia. Così, se cade la regina, cade in casa. E li rimetto nello stesso ordine, piano piano, per non schiacciare nessuna ape.",
+   "keyPoints": [
+    "Mettiti di lato, mai davanti all'ingresso",
+    "Poco fumo all'ingresso, poi aspetta un momento",
+    "Solleva il coperchio piano con la leva",
+    "Tieni i telaini sopra l'arnia, senza schiacciare api"
+   ],
+   "analogy": "Aprire un'arnia è come entrare in casa di un vicino che dorme: bussi piano, aspetti un attimo e poi entri in punta di piedi.",
+   "check": {
+    "question": "Dove ti metti quando apri un'arnia?",
+    "options": [
+     "Davanti all'ingresso, per vedere chi esce",
+     "Dietro l'arnia, con le spalle al sole",
+     "Di lato, fuori dal passaggio delle api",
+     "Sopra l'arnia, in piedi su uno sgabello"
+    ],
+    "answer": 2,
+    "explanation": "Di lato non blocchi la strada alle bottinatrici e le disturbi meno."
+   },
+   "science": {
+    "text": "Il fumo è usato da secoli, ma come funziona? Studi precedenti hanno visto che riduce la capacità delle antenne di sentire l'odore di allarme. Uno studio del 2018 ha visto che con il fumo le api pungono lo stesso, ma rilasciano meno spesso la gocciolina di veleno, che forse serve a diffondere l'allarme.",
+    "source": "Gage et al. 2018, Journal of Insect Science",
+    "url": "https://doi.org/10.1093/jisesa/iey073"
+   },
+   "tip": "Accendi bene l'affumicatore prima di avvicinarti: il fumo deve essere fresco e bianco, non caldo. Togli per primo un telaino laterale, così fai spazio per muovere gli altri."
+  },
+  {
+   "slide": 5,
+   "title": "Come fare con famiglie aggressive",
+   "narration": "Enrica, prima o poi troverai una famiglia che ti accoglie male. Ti inseguono, ti sbattono sul velo. Mi spaventa solo l'idea. Perché alcune famiglie sono così? Le cause possono essere tante. A volte la famiglia è orfana, cioè senza regina. A volte c'è saccheggio, cioè api di altre arnie che rubano il miele. E poi? Il tempo brutto, un animale che disturba l'arnia di notte. Ma spesso è proprio il carattere. Secondo te, da chi dipende il carattere delle api? Dalla regina, perché è la mamma di tutte le api della famiglia. Esatto. Il carattere passa con i geni, e gli studiosi lo hanno confermato. Allora cosa devo fare con una famiglia così? Intanto proteggiti bene: tuta completa, guanti, pantaloni chiusi alle caviglie. Visitala per ultima, così le altre visite restano tranquille. E lavoro più in fretta? Con calma ma senza perdere tempo. Controlla se c'è la regina e se ci sono segni di saccheggio. E se è proprio il carattere? Allora la soluzione vera è cambiare la regina con una figlia di una famiglia docile. Le api vecchie muoiono e nascono figlie nuove. Quindi dopo qualche settimana la famiglia ha un carattere nuovo. Come cambiare l'aria in casa!",
+   "keyPoints": [
+    "Il carattere dipende molto dalla regina",
+    "Anche saccheggio, orfanità e disturbi innervosiscono",
+    "Lavora con protezione completa e molta calma",
+    "Cambiare regina cambia il carattere in qualche settimana"
+   ],
+   "analogy": "Una famiglia di api prende il carattere dalla mamma, la regina: come in certe famiglie dove tutti hanno lo stesso caratteraccio.",
+   "check": {
+    "question": "Qual è il rimedio più duraturo per una famiglia sempre aggressiva?",
+    "options": [
+     "Dare molto più fumo a ogni singola visita",
+     "Sostituire la regina con una più docile",
+     "Spostare l'arnia di pochi metri ogni mese",
+     "Aprire l'arnia soltanto di sera tardi"
+    ],
+    "answer": 1,
+    "explanation": "Il carattere dipende molto dai geni della regina: con una nuova madre cambiano le figlie."
+   },
+   "science": {
+    "text": "La difesa dell'alveare dipende anche dai geni: i ricercatori hanno trovato zone del DNA delle api legate a quanto una famiglia è difensiva. Contano anche le guardiane e l'odore di allarme. Per questo cambiare la regina, che è la madre di tutte, col tempo può cambiare il carattere della famiglia.",
+    "source": "Breed, Guzmán-Novoa e Hunt 2004, Annual Review of Entomology",
+    "url": "https://doi.org/10.1146/annurev.ento.49.061802.123155"
+   },
+   "tip": "Visita le famiglie nervose per ultime, con tuta completa e guanti. Lavora in fretta ma con calma. Se restano aggressive per settimane, parla con la tua associazione per cambiare la regina."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Che cosa difendono le api?",
+   "back": "La casa, le scorte di miele e la covata.",
+   "part": 0
+  },
+  {
+   "front": "Chi sono le guardiane?",
+   "back": "Api che controllano l'ingresso e danno l'allarme.",
+   "part": 0
+  },
+  {
+   "front": "Di che cosa profuma l'odore di allarme?",
+   "back": "Ricorda un po' la banana (acetato di isoamile).",
+   "part": 0
+  },
+  {
+   "front": "Quando è meglio visitare l'alveare?",
+   "back": "In giornate tiepide, serene e senza vento, nelle ore centrali.",
+   "part": 1
+  },
+  {
+   "front": "Perché la sera è un brutto momento?",
+   "back": "Tutte le api sono a casa, fa fresco e sono più nervose.",
+   "part": 1
+  },
+  {
+   "front": "Perché la visita deve essere breve?",
+   "back": "Per non raffreddare la covata.",
+   "part": 2
+  },
+  {
+   "front": "Cosa fare prima di aprire l'arnia?",
+   "back": "Decidere cosa controllare, come una lista della spesa.",
+   "part": 2
+  },
+  {
+   "front": "Dove ti metti per aprire l'arnia?",
+   "back": "Di lato, mai davanti all'ingresso.",
+   "part": 3
+  },
+  {
+   "front": "Quale telaino si toglie per primo?",
+   "back": "Uno laterale, per fare spazio.",
+   "part": 3
+  },
+  {
+   "front": "Che cos'è la propoli?",
+   "back": "Una colla fatta di resine che le api usano per sigillare.",
+   "part": 3
+  },
+  {
+   "front": "Da chi dipende il carattere della famiglia?",
+   "back": "Soprattutto dalla regina, la madre di tutte.",
+   "part": 4
+  },
+  {
+   "front": "Rimedio duraturo a una famiglia aggressiva?",
+   "back": "Sostituire la regina con una più docile.",
+   "part": 4
+  }
+ ],
+ "questions": [
+  {
+   "question": "Che cosa sono le guardiane?",
+   "options": [
+    "Api che puliscono le celle della covata",
+    "Api che portano acqua nelle giornate calde",
+    "Api che controllano chi entra nell'arnia",
+    "Api che nutrono la regina giorno e notte"
+   ],
+   "answer": 2,
+   "explanation": "Stanno all'ingresso, controllano chi entra e danno l'allarme.",
+   "part": 0
+  },
+  {
+   "question": "Dopo una puntura, che cosa conviene fare?",
+   "options": [
+    "Togliere il pungiglione e allontanarsi un poco",
+    "Restare fermi e aspettare che passi da solo",
+    "Agitare le mani per scacciare le altre api",
+    "Chiudere l'arnia di colpo e andare via"
+   ],
+   "answer": 0,
+   "explanation": "Il pungiglione continua a liberare veleno e odore di allarme: va tolto subito.",
+   "part": 0
+  },
+  {
+   "question": "Perché i gesti bruschi vicino all'arnia sono da evitare?",
+   "options": [
+    "Perché spaventano la regina e smette di deporre",
+    "Perché fanno cadere il polline dalle celle",
+    "Perché le api notano i movimenti e si allarmano",
+    "Perché rompono subito i favi di cera nuova"
+   ],
+   "answer": 2,
+   "explanation": "Movimenti e vibrazioni mettono in allarme le guardiane.",
+   "part": 0
+  },
+  {
+   "question": "Perché nelle ore centrali la visita è più tranquilla?",
+   "options": [
+    "Perché la regina in quelle ore dorme",
+    "Perché molte bottinatrici sono fuori",
+    "Perché le api vedono male con il sole",
+    "Perché il miele è più duro e non cola"
+   ],
+   "answer": 1,
+   "explanation": "Le bottinatrici sono le più difensive: se sono al lavoro, in casa c'è più calma.",
+   "part": 1
+  },
+  {
+   "question": "Che cosa ti dice l'ingresso prima di aprire?",
+   "options": [
+    "Api calme cariche di polline: buon momento",
+    "Api ferme sul predellino: miele pronto",
+    "Api che escono di sera: regina nuova",
+    "Api che ronzano forte: arnia vuota"
+   ],
+   "answer": 0,
+   "explanation": "Un via vai tranquillo con polline è il segno di una famiglia al lavoro e serena.",
+   "part": 1
+  },
+  {
+   "question": "Perché il vento rende difficile la visita?",
+   "options": [
+    "Perché porta via le api lontano dall'arnia",
+    "Perché raffredda la covata e disperde il fumo",
+    "Perché fa sciamare subito la famiglia",
+    "Perché secca in pochi minuti il miele"
+   ],
+   "answer": 1,
+   "explanation": "Il vento raffredda i favi aperti e porta via il fumo che calma le api.",
+   "part": 1
+  },
+  {
+   "question": "Che cosa conviene fare d'inverno?",
+   "options": [
+    "Aprire ogni settimana per contare le api",
+    "Guardare l'ingresso e soppesare l'arnia",
+    "Togliere i telaini più pesanti di miele",
+    "Spostare le arnie al sole ogni mattina"
+   ],
+   "answer": 1,
+   "explanation": "D'inverno non si fanno visite complete: si osserva da fuori e si stimano le scorte.",
+   "part": 2
+  },
+  {
+   "question": "Perché si coprono i favi che non si stanno guardando?",
+   "options": [
+    "Per tenerli al caldo e calmi",
+    "Per nascondere la regina",
+    "Per non far colare il miele",
+    "Per evitare che entri la luce"
+   ],
+   "answer": 0,
+   "explanation": "Un coprifavo o un panno limita il raffreddamento e tiene le api più tranquille.",
+   "part": 2
+  },
+  {
+   "question": "Come deve essere il fumo dell'affumicatore?",
+   "options": [
+    "Caldo e scuro, per farle scappare",
+    "Abbondante, per riempire tutta l'arnia",
+    "Profumato, per coprire il miele",
+    "Fresco e bianco, in piccola quantità"
+   ],
+   "answer": 3,
+   "explanation": "Poco fumo fresco basta; troppo fumo agita le api e rovina il miele.",
+   "part": 3
+  },
+  {
+   "question": "Perché si tengono i telaini sopra l'arnia?",
+   "options": [
+    "Perché la regina, se cade, cade in casa",
+    "Perché il miele gocciola dentro e non si spreca",
+    "Perché così le api vedono meglio il cielo",
+    "Perché i telaini fuori pesano molto di più"
+   ],
+   "answer": 0,
+   "explanation": "Se la regina scivola giù, finisce dentro l'arnia e non nell'erba.",
+   "part": 3
+  },
+  {
+   "question": "Quale di queste cause può rendere nervosa una famiglia?",
+   "options": [
+    "Una fioritura abbondante di acacia",
+    "Una giornata tiepida e senza vento",
+    "La mancanza della regina nell'arnia",
+    "Un ingresso pulito e ben esposto"
+   ],
+   "answer": 2,
+   "explanation": "Una famiglia orfana, cioè senza regina, è spesso più agitata.",
+   "part": 4
+  },
+  {
+   "question": "Perché si visitano per ultime le famiglie aggressive?",
+   "options": [
+    "Perché così le altre visite restano tranquille",
+    "Perché di sera diventano molto più docili",
+    "Perché hanno sempre meno miele da controllare",
+    "Perché la loro regina va vista con il buio"
+   ],
+   "answer": 0,
+   "explanation": "Le api agitate ti seguono: se le visiti prima, porti il nervosismo alle altre arnie.",
+   "part": 4
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Il cielo si scurisce",
+   "prompt": "Sei arrivata in apiario alle 11. Mentre accendi l'affumicatore, il cielo si copre e si alza un po' di vento. All'ingresso le api rientrano in fretta. Cosa fai?",
+   "modelAnswer": "Rimando la visita completa. Le api che rientrano in fretta e il cielo che si scurisce mi dicono che sta arrivando il brutto tempo: la famiglia sarà più difensiva e il vento raffredderebbe la covata e porterebbe via il fumo. Posso fare solo un controllo dall'esterno: guardo l'ingresso, vedo se entra polline, sento il ronzio. Se c'è una cosa urgente da controllare, come lo spazio per il nido, scelgo di farlo un altro giorno, in una giornata tiepida e serena, nelle ore centrali. Prima di tornare scrivo la lista di cosa voglio vedere, così la visita sarà breve."
+  },
+  {
+   "title": "La famiglia che insegue",
+   "prompt": "Ogni volta che apri l'arnia numero 3, le api ti sbattono sul velo e ti seguono fino alla macchina. Le altre arnie sono tranquille. Cosa fai?",
+   "modelAnswer": "Prima controllo le cause che si possono togliere: guardo se ci sono uova fresche, per capire se la famiglia ha la regina; guardo l'ingresso per vedere se ci sono segni di saccheggio; penso se qualche animale disturba l'arnia. Da ora la visito per ultima, con tuta completa e guanti, poco fumo, gesti lenti e visita breve. Se è tutto in ordine e le api restano aggressive per settimane, il problema è probabilmente il carattere, che dipende molto dalla regina. Allora parlo con la mia associazione per sostituirla con una regina figlia di una famiglia docile."
+  }
+ ]
+}

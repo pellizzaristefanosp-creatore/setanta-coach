@@ -1,0 +1,57 @@
+{
+ "code": "5.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 6,
+   "question": "A cosa serve alle api l'acidità del pane delle api?",
+   "options": [
+    "A renderlo più dolce per le larve piccole",
+    "A farlo diventare cera per nuovi favi",
+    "A conservarlo, perché i microbi crescono male",
+    "A cambiarne il colore per riconoscerlo"
+   ],
+   "answer": 2,
+   "why": "Nell'ambiente acido molti microbi dannosi crescono male: il polline pressato diventa una scorta più stabile."
+  },
+  {
+   "part": 1,
+   "line": 2,
+   "question": "Cosa succede se togli le scorte di polline a fine inverno?",
+   "options": [
+    "La famiglia fa subito più miele",
+    "Le nutrici restano senza cibo in primavera",
+    "La regina smette di uscire dall'arnia",
+    "Le api costruiscono più cera nel nido"
+   ],
+   "answer": 1,
+   "why": "In primavera la covata cresce e le nutrici hanno bisogno di polline per la pappa: senza scorte la famiglia non cresce."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Cosa succede al pane d'api lasciato in una ciotola aperta?",
+   "options": [
+    "Diventa più buono e più dolce",
+    "Si trasforma in miele cristallizzato",
+    "Resta uguale perché è già fermentato",
+    "Prende umidità e odori e fa la muffa"
+   ],
+   "answer": 3,
+   "why": "Fuori dal favo non ha più il miele e la cera a proteggerlo: va chiuso, asciutto, al fresco e al buio."
+  },
+  {
+   "part": 3,
+   "line": 4,
+   "question": "Gli studi su laboratorio e animali bastano per dire che cura le persone?",
+   "options": [
+    "No, servono studi fatti sulle persone",
+    "Sì, se l'animale è grande come un cane",
+    "Sì, se lo studio dura più di un anno",
+    "No, servono solo studi fatti sulle api"
+   ],
+   "answer": 0,
+   "why": "Quello che succede in provetta o in un topo può non succedere nelle persone: servono studi su di loro."
+  }
+ ]
+}

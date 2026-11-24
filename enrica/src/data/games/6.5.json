@@ -1,0 +1,175 @@
+{
+ "code": "6.5",
+ "order": [
+  {
+   "title": "Come gestisci la varroa nel modo giusto",
+   "steps": [
+    "Conti la varroa caduta sul fondo",
+    "Capisci se serve trattare",
+    "Scegli il prodotto con il veterinario",
+    "Tratti seguendo l'etichetta",
+    "Scrivi il trattamento nel registro",
+    "Conti di nuovo per vedere l'effetto"
+   ],
+   "slide": 4
+  },
+  {
+   "title": "Come la varroa danneggia un'ape",
+   "steps": [
+    "La femmina entra in una cella di covata",
+    "Le api chiudono la cella",
+    "La varroa depone le uova",
+    "Gli acari si nutrono della giovane ape",
+    "I virus passano all'ape",
+    "L'ape nasce debole o con ali deformi"
+   ],
+   "slide": 3
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Vivo nell'intestino delle api adulte",
+    "Mi vedi solo al microscopio",
+    "Vengo dall'ape asiatica Apis cerana"
+   ],
+   "answer": "Nosema ceranae",
+   "distractors": [
+    "Varroa destructor",
+    "Aethina tumida",
+    "Vespa velutina"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Sono parente dei ragni",
+    "Mi riproduco nelle celle di covata",
+    "Porto con me il virus delle ali deformi"
+   ],
+   "answer": "L'acaro varroa",
+   "distractors": [
+    "La tarma della cera",
+    "Il pidocchio delle api",
+    "Il piccolo coleottero"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Viaggio con un acaro",
+    "Faccio nascere api che non volano",
+    "Prendo il nome da una parte dell'ape"
+   ],
+   "answer": "Il virus delle ali deformi",
+   "distractors": [
+    "Il virus della covata a sacco",
+    "Il virus della paralisi",
+    "Il fungo della covata calcificata"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi tieni insieme al quaderno dell'apiario",
+    "Ti chiedo data e prodotto di ogni trattamento",
+    "Mi vuole la legge"
+   ],
+   "answer": "Il registro dei trattamenti",
+   "distractors": [
+    "Il libretto delle regine",
+    "Il diario delle fioriture",
+    "Il calendario delle visite"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi nominano negli Stati Uniti verso il 2006",
+    "Lascio scorte e covata ma porto via le api",
+    "Non ho una sola causa"
+   ],
+   "answer": "Il collasso dell'alveare",
+   "distractors": [
+    "Il saccheggio dell'alveare",
+    "La sciamatura dell'alveare",
+    "La peste dell'alveare"
+   ],
+   "slide": 1
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Nel collasso le api adulte spariscono in poco tempo.",
+   "true": true,
+   "why": "È il segno principale: restano regina, covata e scorte.",
+   "slide": 1
+  },
+  {
+   "text": "Nel collasso trovi tante api morte davanti all'arnia.",
+   "true": false,
+   "why": "Il mistero è proprio che di api morte se ne vedono pochissime.",
+   "slide": 1
+  },
+  {
+   "text": "Gli scienziati hanno trovato un'unica causa del collasso.",
+   "true": false,
+   "why": "Nessun fattore da solo spiegava tutto: agiscono più cause insieme.",
+   "slide": 1
+  },
+  {
+   "text": "Nosema ceranae vive nell'intestino delle api adulte.",
+   "true": true,
+   "why": "Rovina le cellule che servono a digerire, e l'ape vive meno.",
+   "slide": 2
+  },
+  {
+   "text": "Contro nosema in Italia c'è un farmaco autorizzato.",
+   "true": false,
+   "why": "In Italia e in Europa non ci sono farmaci autorizzati: conta la gestione.",
+   "slide": 2
+  },
+  {
+   "text": "Nosema spesso non dà segni evidenti per molto tempo.",
+   "true": true,
+   "why": "La famiglia sembra sana, poi può crollare d'improvviso.",
+   "slide": 2
+  },
+  {
+   "text": "La varroa si riproduce nelle celle di covata chiuse.",
+   "true": true,
+   "why": "La femmina entra poco prima che le api chiudano la cella.",
+   "slide": 3
+  },
+  {
+   "text": "La varroa danneggia le api solo mangiando il miele.",
+   "true": false,
+   "why": "Si nutre delle api e trasmette virus, come quello delle ali deformi.",
+   "slide": 3
+  },
+  {
+   "text": "Pesticidi e pochi fiori possono rendere le api più fragili.",
+   "true": true,
+   "why": "Più stress insieme indeboliscono le difese contro i parassiti.",
+   "slide": 3
+  },
+  {
+   "text": "Le dosi dei prodotti antivarroa si decidono a occhio.",
+   "true": false,
+   "why": "Segui l'etichetta e il veterinario, mai dosi a occhio.",
+   "slide": 4
+  },
+  {
+   "text": "I trattamenti contro la varroa vanno scritti nel registro.",
+   "true": true,
+   "why": "La legge chiede di registrare ogni trattamento.",
+   "slide": 4
+  },
+  {
+   "text": "Una moria improvvisa davanti all'arnia va segnalata all'ASL.",
+   "true": true,
+   "why": "Potrebbe essere un avvelenamento o una malattia: decidono i veterinari.",
+   "slide": 4
+  }
+ ]
+}

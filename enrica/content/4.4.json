@@ -1,0 +1,431 @@
+{
+  "code": "4.4",
+  "unit": 4,
+  "title": "Le materie prime per la produzione del miele",
+  "pages": "155–172",
+  "summary": "Impari da dove viene il miele: il nettare dei fiori e la melata prodotta da piccoli insetti. Conosci le principali piante nettarifere italiane e capisci come si riconosce un miele di melata.",
+  "parts": [
+    {
+      "title": "Il nettare",
+      "keyPoints": [
+        "Liquido dolce prodotto dai fiori",
+        "Soprattutto acqua e zuccheri",
+        "Le api tolgono acqua e aggiungono enzimi",
+        "Contiene piccole sostanze che danno sapore"
+      ],
+      "analogy": "Il nettare è come un succo di frutta allungato con l'acqua: le api lo portano a casa e lo fanno restringere, come si fa con la marmellata.",
+      "tip": "In una sera calda di fioritura, ascolta e annusa davanti all'arnia: senti un ronzio forte e spesso un profumo intenso. Le api stanno ventilando per togliere acqua al nettare.",
+      "science": {
+        "text": "Una revisione del 2022 spiega che il nettare non è solo zucchero. Contiene anche aminoacidi e altre sostanze che contano per la salute degli impollinatori. La sua composizione cambia con l'ambiente, con le visite degli insetti e con i microbi.",
+        "source": "Nicolson 2022, Philosophical Transactions of the Royal Society B",
+        "url": "https://doi.org/10.1098/rstb.2021.0163"
+      },
+      "check": {
+        "question": "Di cosa è fatto soprattutto il nettare?",
+        "options": [
+          "Di cera e polline",
+          "Di propoli e resina",
+          "Di acqua e zuccheri",
+          "Di acqua e proteine"
+        ],
+        "answer": 2,
+        "explanation": "Il nettare è soprattutto acqua e zuccheri, con piccole quantità di altre sostanze."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo delle materie prime del miele. Cioè da dove viene, prima di arrivare nel vasetto." },
+        { "who": "E", "text": "Ciao Tonino! Dai fiori, no?" },
+        { "who": "M", "text": "In gran parte sì, dal nettare dei fiori. Ma c'è anche un'altra fonte, più sorprendente: la vedremo dopo. Cominciamo dal nettare." },
+        { "who": "E", "text": "È il succo dolce che sta dentro i fiori?" },
+        { "who": "M", "text": "Esatto. Lo producono piccole ghiandole, i nettari. Il fiore lo offre come premio agli insetti che portano il suo polline." },
+        { "who": "E", "text": "Un regalo in cambio di un lavoro." },
+        { "who": "M", "text": "Proprio. Il nettare è fatto soprattutto di acqua e zuccheri. Ma ha anche piccole quantità di altre sostanze, che danno profumo e sapore." },
+        { "who": "E", "text": "Per questo ogni miele ha un gusto diverso!" },
+        { "who": "M", "text": "Brava. Ora, il nettare è molto più liquido del miele. Secondo te, cosa devono fare le api per trasformarlo in miele?" },
+        { "who": "E", "text": "Devono togliere tanta acqua, come quando si fa restringere la marmellata sul fuoco." },
+        { "who": "M", "text": "Perfetto. Lo passano da un'ape all'altra, aggiungono enzimi e ventilano con le ali per far evaporare l'acqua." },
+        { "who": "E", "text": "Gli enzimi sono come aiutanti che cambiano gli zuccheri?" },
+        { "who": "M", "text": "Sì, spezzano lo zucchero del nettare in zuccheri più semplici. Quando il miele è maturo, le api chiudono la celletta con un tappo di cera." },
+        { "who": "E", "text": "L'opercolo! Allora un favo opercolato è come un barattolo chiuso in dispensa." }
+      ]
+    },
+    {
+      "title": "Le fonti nettarifere",
+      "keyPoints": [
+        "Piante nettarifere: danno nettare alle api",
+        "Robinia (acacia), agrumi, sulla, tiglio, castagno, girasole",
+        "Ogni pianta dà un miele diverso",
+        "Uniflorale: soprattutto da una sola pianta",
+        "Millefiori: da tante piante insieme"
+      ],
+      "analogy": "Le fonti nettarifere sono come i banchi di un mercato: ognuno vende un prodotto diverso, e il millefiori è la cesta con un po' di tutto.",
+      "tip": "Fai un calendario delle piante intorno al tuo apiario: segna quando fioriscono e se vedi api sopra. In pochi anni saprai prevedere i tuoi raccolti.",
+      "science": {
+        "text": "La Commissione Internazionale del Miele ha descritto 15 tra i più importanti mieli uniflorali d'Europa, usando più di 6.700 campioni di diversi paesi. Per ogni miele indica colore, sapore, polline e analisi: un riferimento per riconoscerlo e per controllare il nome in etichetta.",
+        "source": "Persano Oddo e Piro 2004, Apidologie",
+        "url": "https://doi.org/10.1051/apido:2004049"
+      },
+      "check": {
+        "question": "Che cos'è il miele millefiori?",
+        "options": [
+          "Miele da tante piante diverse insieme",
+          "Miele da mille fiori dello stesso albero",
+          "Miele raccolto in mille arnie diverse",
+          "Miele fatto solo con fiori di campo bianchi"
+        ],
+        "answer": 0,
+        "explanation": "Il millefiori viene da tante piante insieme e racconta il paesaggio intorno all'apiario."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Le piante che danno nettare alle api si chiamano piante nettarifere. In Italia ce ne sono tantissime." },
+        { "who": "E", "text": "Quali sono le più importanti?" },
+        { "who": "M", "text": "In primavera c'è la robinia, che tutti chiamano acacia. Dà un miele chiarissimo e delicato, che resta liquido a lungo." },
+        { "who": "E", "text": "Il miele d'acacia del supermercato! Non sapevo venisse da un'altra pianta." },
+        { "who": "M", "text": "Eh sì, il nome inganna. Al sud in primavera ci sono gli agrumi, cioè arance e limoni, e la sulla, una pianta da foraggio con fiori rossi." },
+        { "who": "E", "text": "E in estate?" },
+        { "who": "M", "text": "Il tiglio, profumato, e il castagno in collina, che dà un miele scuro e un po' amaro. Poi nei campi c'è il girasole." },
+        { "who": "E", "text": "Ognuno con il suo sapore. Ma come fa un miele a essere solo di acacia, se le api girano dappertutto?" },
+        { "who": "M", "text": "Bella domanda. Secondo te, cosa deve fare l'apicoltore per ottenere un miele di una sola pianta?" },
+        { "who": "E", "text": "Mettere il melario proprio quando fiorisce quella pianta, e toglierlo appena finisce." },
+        { "who": "M", "text": "Bravissima. Si chiama miele uniflorale. Se invece le api raccolgono da tante piante insieme, è un millefiori." },
+        { "who": "E", "text": "E il millefiori vale meno?" },
+        { "who": "M", "text": "Niente affatto! Racconta il paesaggio intorno all'apiario. Ogni millefiori è diverso dall'altro. E per capire cosa c'è nel vasetto, i laboratori guardano il polline al microscopio." },
+        { "who": "E", "text": "Come una minestra dell'orto: dipende da cosa è cresciuto quella settimana." }
+      ]
+    },
+    {
+      "title": "La melata",
+      "keyPoints": [
+        "Liquido zuccherino emesso da insetti che succhiano la linfa",
+        "Afidi, cocciniglie e Metcalfa pruinosa",
+        "Le api la raccolgono come il nettare",
+        "Si trova su foglie e rami, non nei fiori"
+      ],
+      "analogy": "Gli insetti succhiano la linfa come noi beviamo un frullato con la cannuccia: tengono quello che serve e lasciano cadere il resto, dolce e appiccicoso.",
+      "tip": "In estate guarda le foglie degli alberi: se sono lucide e appiccicose, o se l'auto parcheggiata sotto si riempie di goccioline, c'è melata. Le tue api ci andranno.",
+      "science": {
+        "text": "Ricercatori dell'Università di Bologna hanno cercato nel miele il DNA degli insetti che producono melata. Nei mieli di melata di abete hanno trovato soprattutto un afide dell'abete. In quasi tutti gli altri mieli il DNA più presente era quello della Metcalfa pruinosa.",
+        "source": "Utzeri et al. 2018, Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-018-27933-w"
+      },
+      "check": {
+        "question": "Chi produce la melata che le api raccolgono?",
+        "options": [
+          "Fiori che piangono quando fa molto caldo",
+          "Insetti che succhiano la linfa delle piante",
+          "Api giovani che rigurgitano il nettare",
+          "Funghi che crescono sulle foglie umide"
+        ],
+        "answer": 1,
+        "explanation": "Afidi, cocciniglie e Metcalfa succhiano la linfa e buttano fuori lo zucchero in più."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ora la fonte sorprendente che ti avevo promesso: la melata." },
+        { "who": "E", "text": "Melata? Ha a che fare con il miele?" },
+        { "who": "M", "text": "Sì, ma non viene dai fiori. Ci sono piccoli insetti, come gli afidi, che succhiano la linfa delle piante. La linfa è il liquido che scorre dentro rami e foglie." },
+        { "who": "E", "text": "Come i pidocchi delle rose nel mio giardino!" },
+        { "who": "M", "text": "Proprio loro. La linfa ha tanto zucchero e poche proteine. Secondo te, cosa fanno gli insetti con tutto lo zucchero in più?" },
+        { "who": "E", "text": "Lo buttano fuori! Ecco perché le foglie diventano appiccicose." },
+        { "who": "M", "text": "Esatto. Quelle goccioline dolci sono la melata. Le api le raccolgono dalle foglie come se fossero nettare." },
+        { "who": "E", "text": "E quali insetti la producono?" },
+        { "who": "M", "text": "Afidi, cocciniglie e un insetto arrivato dal Nord America: la Metcalfa pruinosa. È piccola e coperta da una polverina cerosa." },
+        { "who": "E", "text": "Ed è un problema per le piante?" },
+        { "who": "M", "text": "Per gli agricoltori è un insetto dannoso. Per gli apicoltori, d'estate, dà una melata abbondante quando i fiori scarseggiano." },
+        { "who": "E", "text": "Un nemico per l'orto ma un aiuto per le api. Che strano!" },
+        { "who": "M", "text": "La natura è così. In montagna invece c'è la melata degli abeti, prodotta da altri afidi. Dà un miele scuro molto apprezzato." },
+        { "who": "E", "text": "Allora se vedo foglie lucide e appiccicose, so che le mie api hanno trovato melata." }
+      ]
+    },
+    {
+      "title": "Il miele di melata",
+      "keyPoints": [
+        "Di solito scuro, denso e meno dolce",
+        "Più minerali e più acidità del miele di fiori",
+        "Conduce di più la corrente elettrica",
+        "In Italia: abete, bosco, Metcalfa"
+      ],
+      "analogy": "Il miele di melata sta al miele di fiori come il pane integrale sta al pane bianco: più scuro, più saporito, con più minerali.",
+      "tip": "Se a fine estate trovi nei favi un miele scuro e denso, chiedi un'analisi a un laboratorio. Ti dirà se è melata, utile per scrivere bene l'etichetta.",
+      "science": {
+        "text": "Una revisione del 2019 riassume le ricerche sul miele di melata. Di solito è scuro e ha meno zuccheri semplici del miele di fiori, ma più minerali, proteine, acidità e sostanze fenoliche. Ha anche una conducibilità elettrica più alta.",
+        "source": "Seraglio et al. 2019, Food Research International",
+        "url": "https://doi.org/10.1016/j.foodres.2019.01.028"
+      },
+      "check": {
+        "question": "Come si presenta di solito il miele di melata?",
+        "options": [
+          "Bianco e più dolce del miele di fiori",
+          "Trasparente e senza profumo",
+          "Rosso e sempre molto liquido",
+          "Scuro e meno dolce del miele di fiori"
+        ],
+        "answer": 3,
+        "explanation": "Il miele di melata è di solito scuro, denso e meno dolce, con un sapore forte."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Dalla melata le api fanno un miele speciale: il miele di melata." },
+        { "who": "E", "text": "È diverso da quello di fiori?" },
+        { "who": "M", "text": "Molto. Di solito è scuro, a volte quasi nero, denso e meno dolce. Ha un sapore forte, che a qualcuno ricorda il malto." },
+        { "who": "E", "text": "Mi incuriosisce. E dentro cosa ha di diverso?" },
+        { "who": "M", "text": "Ha più minerali, più acidità e più polifenoli. In compenso ha meno glucosio e fruttosio, gli zuccheri semplici." },
+        { "who": "E", "text": "I polifenoli sono quelli del tè e del vino rosso?" },
+        { "who": "M", "text": "Proprio quella famiglia di sostanze. E grazie ai minerali, il miele di melata conduce meglio la corrente. Secondo te, a cosa serve questa cosa nei laboratori?" },
+        { "who": "E", "text": "Forse a riconoscerlo! Misurando la corrente, capiscono se è melata o fiori." },
+        { "who": "M", "text": "Esatto. La conducibilità elettrica è uno degli esami per distinguerli, insieme al polline al microscopio." },
+        { "who": "E", "text": "E in Italia quali mieli di melata ci sono?" },
+        { "who": "M", "text": "Il più famoso è quello di abete, in montagna. Poi c'è la melata di bosco e quella di Metcalfa, in pianura e collina." },
+        { "who": "E", "text": "Quindi la Metcalfa dà anche un miele vero e proprio." },
+        { "who": "M", "text": "Sì, e spesso si mescola al millefiori estivo, che così diventa più scuro. Colore, sapore e analisi raccontano da dove viene un miele." },
+        { "who": "E", "text": "Allora un millefiori scuro d'agosto può avere dentro un po' di Metcalfa!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Cos'è il nettare?", "back": "Un liquido dolce prodotto dai fiori, fatto soprattutto di acqua e zuccheri.", "part": 0 },
+    { "front": "Come trasformano le api il nettare in miele?", "back": "Tolgono acqua ventilando e aggiungono enzimi.", "part": 0 },
+    { "front": "Da quale pianta viene il miele d'acacia?", "back": "Dalla robinia.", "part": 1 },
+    { "front": "Cos'è un miele uniflorale?", "back": "Un miele che viene soprattutto da una sola pianta.", "part": 1 },
+    { "front": "Cos'è la melata?", "back": "Un liquido zuccherino emesso da insetti che succhiano la linfa.", "part": 2 },
+    { "front": "Cos'è la Metcalfa pruinosa?", "back": "Un insetto arrivato dal Nord America che produce melata.", "part": 2 },
+    { "front": "Com'è il miele di melata?", "back": "Scuro, meno dolce, con più minerali e più acidità.", "part": 3 },
+    { "front": "Come si riconosce il miele di melata in laboratorio?", "back": "Con la conducibilità elettrica e l'esame del polline.", "part": 3 }
+  ],
+  "questions": [
+    {
+      "question": "Perché ogni miele ha un sapore diverso?",
+      "options": [
+        "Ogni nettare ha sostanze e profumi suoi",
+        "Ogni arnia ha una cera di colore diverso",
+        "Ogni apicoltore aggiunge un aroma",
+        "Ogni regina produce un miele suo"
+      ],
+      "answer": 0,
+      "explanation": "Le piccole sostanze del nettare cambiano da pianta a pianta e danno profumo e sapore.",
+      "part": 0
+    },
+    {
+      "question": "Cosa fanno le api con le ali per maturare il miele?",
+      "options": [
+        "Sbattono via il polline dal nettare",
+        "Ventilano per far evaporare l'acqua",
+        "Scaldano la cera per chiudere i favi",
+        "Spaventano le ladre delle altre arnie"
+      ],
+      "answer": 1,
+      "explanation": "Muovendo le ali creano una corrente d'aria che porta via l'acqua del nettare.",
+      "part": 0
+    },
+    {
+      "question": "Quando il miele è maturo, cosa fanno le api?",
+      "options": [
+        "Lo portano fuori dall'arnia",
+        "Lo mescolano con il polline fresco",
+        "Lo danno subito ai fuchi",
+        "Chiudono la celletta con un opercolo"
+      ],
+      "answer": 3,
+      "explanation": "L'opercolo di cera chiude il miele maturo, come un coperchio sul barattolo.",
+      "part": 0
+    },
+    {
+      "question": "Da quale pianta viene il miele chiamato «acacia»?",
+      "options": ["Dal castagno", "Dal tiglio", "Dalla robinia", "Dalla sulla"],
+      "answer": 2,
+      "explanation": "Il miele d'acacia viene dalla robinia: il nome comune inganna.",
+      "part": 1
+    },
+    {
+      "question": "Quale miele è di solito scuro e un po' amaro?",
+      "options": ["Il castagno", "L'acacia", "Gli agrumi", "Il girasole"],
+      "answer": 0,
+      "explanation": "Il miele di castagno è scuro, forte e con una punta amara.",
+      "part": 1
+    },
+    {
+      "question": "Come si ottiene un miele uniflorale?",
+      "options": [
+        "Dando alle api lo sciroppo di un solo fiore",
+        "Mettendo il melario solo durante una fioritura",
+        "Tenendo le api chiuse per una settimana",
+        "Usando arnie dipinte del colore del fiore"
+      ],
+      "answer": 1,
+      "explanation": "Il melario si mette all'inizio di quella fioritura e si toglie appena finisce.",
+      "part": 1
+    },
+    {
+      "question": "Dove raccolgono le api la melata?",
+      "options": [
+        "Dentro i fiori più profumati",
+        "Nelle pozzanghere vicino all'arnia",
+        "Nei frutti caduti a terra",
+        "Su foglie e rami delle piante"
+      ],
+      "answer": 3,
+      "explanation": "Gli insetti lasciano cadere la melata su foglie e rami, e lì le api la leccano.",
+      "part": 2
+    },
+    {
+      "question": "Da dove viene la Metcalfa pruinosa?",
+      "options": ["Dall'Australia", "Dal Giappone", "Dal Nord America", "Dall'Africa"],
+      "answer": 2,
+      "explanation": "È un insetto arrivato dal Nord America, oggi comune in molte zone d'Italia.",
+      "part": 2
+    },
+    {
+      "question": "Cosa ha di più il miele di melata rispetto a quello di fiori?",
+      "options": [
+        "Più minerali e più acidità",
+        "Più glucosio e più fruttosio",
+        "Più acqua e più polline",
+        "Più cera e più propoli"
+      ],
+      "answer": 0,
+      "explanation": "Ha più minerali, acidità e polifenoli, ma meno zuccheri semplici.",
+      "part": 3
+    },
+    {
+      "question": "Qual è il miele di melata più famoso in montagna?",
+      "options": ["Quello di castagno", "Quello di sulla", "Quello di agrumi", "Quello di abete"],
+      "answer": 3,
+      "explanation": "In montagna gli afidi degli abeti danno una melata da cui nasce un miele scuro e pregiato.",
+      "part": 3
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Il miele scuro d'agosto",
+      "prompt": "Ad agosto, in pianura, smieli un melario. Il miele è scuro, denso e poco dolce, anche se in giro non vedi grandi fioriture. Le foglie degli alberi vicini sono lucide e appiccicose. Cosa pensi e cosa fai?",
+      "modelAnswer": "Penso che le api abbiano raccolto melata, probabilmente prodotta dalla Metcalfa pruinosa o da afidi: in estate, quando i fiori scarseggiano, è una fonte abbondante. Le foglie appiccicose sono un indizio forte. Il miele scuro, denso e poco dolce è tipico della melata. Non lo chiamo millefiori a occhio: porto un campione a un laboratorio, che misura la conducibilità elettrica e guarda il polline al microscopio. Così so se è miele di melata o un millefiori con un po' di melata e scrivo l'etichetta in modo corretto. Segno sul quaderno il periodo e il posto, per prevedere il raccolto negli anni seguenti."
+    },
+    {
+      "title": "Voglio un miele d'acacia",
+      "prompt": "Vuoi produrre miele d'acacia per la prima volta. Vicino al tuo apiario c'è un bosco di robinia. Come ti organizzi?",
+      "modelAnswer": "So che il miele d'acacia viene dalla robinia, che fiorisce in primavera. Prima preparo famiglie forti, perché la fioritura è breve e servono tante bottinatrici. Osservo il bosco e, quando i grappoli di fiori bianchi cominciano ad aprirsi, metto i melari puliti. Non do sciroppo con i melari sopra, così il miele resta vero. Appena la fioritura finisce, tolgo i melari con il miele maturo e opercolato, prima che le api portino nettare di altre piante. Così ottengo un miele soprattutto di robinia, cioè uniflorale. Se ho dubbi, faccio analizzare un campione in laboratorio. Segno le date sul mio calendario delle fioriture."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Dal fiore al vasetto",
+        "steps": [
+          "Il fiore produce il nettare",
+          "La bottinatrice lo succhia e lo porta a casa",
+          "Le api lo passano tra loro aggiungendo enzimi",
+          "Ventilano per far evaporare l'acqua",
+          "Chiudono la celletta con l'opercolo",
+          "L'apicoltore raccoglie il melario"
+        ],
+        "part": 0
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Il mio miele resta liquido a lungo",
+          "Tutti mi chiamano con il nome di un'altra pianta",
+          "Fiorisco in primavera e il mio miele è chiarissimo"
+        ],
+        "answer": "La robinia",
+        "distractors": ["La sulla", "La lavanda", "La colza"],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Vengo dal Nord America",
+          "Mi copro di una polverina cerosa",
+          "Succhio la linfa e lascio melata"
+        ],
+        "answer": "La Metcalfa pruinosa",
+        "distractors": ["La cimice asiatica", "La tarma della cera", "La mosca della frutta"],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Sono soprattutto acqua e zuccheri",
+          "I fiori mi offrono come premio",
+          "Le api mi trasformano in miele"
+        ],
+        "answer": "Il nettare",
+        "distractors": ["Il polline", "Il glucosio", "Il candito"],
+        "part": 0
+      },
+      {
+        "clues": [
+          "Il laboratorio mi misura con uno strumento",
+          "Nel miele di melata salgo di più",
+          "Dipendo dai minerali sciolti nel miele"
+        ],
+        "answer": "La conducibilità elettrica",
+        "distractors": ["La densità del miele", "La temperatura dell'arnia", "L'acidità totale"],
+        "part": 3
+      }
+    ],
+    "truefalse": [
+      { "text": "Il nettare è fatto soprattutto di acqua e zuccheri.", "true": true, "why": "Ha anche piccole quantità di altre sostanze che danno profumo e sapore.", "part": 0 },
+      { "text": "Il nettare è già miele appena raccolto dal fiore.", "true": false, "why": "Le api devono togliere acqua e aggiungere enzimi.", "part": 0 },
+      { "text": "Le api aggiungono enzimi al nettare.", "true": true, "why": "Gli enzimi spezzano lo zucchero in zuccheri più semplici.", "part": 0 },
+      { "text": "Il miele d'acacia viene dalla robinia.", "true": true, "why": "La robinia viene chiamata comunemente acacia.", "part": 1 },
+      { "text": "Il millefiori è sempre uguale in ogni zona.", "true": false, "why": "Cambia con le piante intorno all'apiario e con la stagione.", "part": 1 },
+      { "text": "La melata viene prodotta dai fiori.", "true": false, "why": "La producono insetti che succhiano la linfa delle piante.", "part": 2 },
+      { "text": "La Metcalfa pruinosa succhia la linfa delle piante.", "true": true, "why": "E butta fuori lo zucchero in più come melata.", "part": 2 },
+      { "text": "Le api raccolgono la melata soprattutto dalle foglie.", "true": true, "why": "La melata cade su foglie e rami, non nei fiori.", "part": 2 },
+      { "text": "Il miele di melata è di solito più chiaro di quello d'acacia.", "true": false, "why": "È di solito scuro; l'acacia è tra i mieli più chiari.", "part": 3 },
+      { "text": "Il miele di melata ha più minerali del miele di fiori.", "true": true, "why": "Per questo conduce meglio la corrente elettrica.", "part": 3 },
+      { "text": "La conducibilità elettrica aiuta a riconoscere la melata.", "true": true, "why": "Nel miele di melata è più alta, grazie ai minerali.", "part": 3 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 8,
+      "question": "Cosa devono fare le api per trasformare il nettare in miele?",
+      "options": [
+        "Aggiungere polline e farlo fermentare",
+        "Togliere tanta acqua e aggiungere enzimi",
+        "Mescolarlo con la cera e la propoli",
+        "Scaldarlo al sole fuori dall'arnia"
+      ],
+      "answer": 1,
+      "why": "Come la marmellata che si restringe: le api fanno evaporare l'acqua e con gli enzimi cambiano gli zuccheri."
+    },
+    {
+      "part": 1,
+      "line": 8,
+      "question": "Cosa fa l'apicoltore per ottenere un miele di una sola pianta?",
+      "options": [
+        "Mette il melario solo durante quella fioritura",
+        "Chiude le api in casa per tutta l'estate",
+        "Pianta un solo albero vicino all'arnia",
+        "Nutre le api con sciroppo profumato"
+      ],
+      "answer": 0,
+      "why": "Il melario si mette all'inizio della fioritura e si toglie appena finisce: così il miele è uniflorale."
+    },
+    {
+      "part": 2,
+      "line": 4,
+      "question": "Cosa fanno gli insetti con lo zucchero in più della linfa?",
+      "options": [
+        "Lo trasformano in cera per il nido",
+        "Lo conservano nella pancia per l'inverno",
+        "Lo buttano fuori in goccioline dolci",
+        "Lo restituiscono alla pianta di notte"
+      ],
+      "answer": 2,
+      "why": "La linfa ha tanto zucchero e poche proteine: lo zucchero in più esce come melata, che rende le foglie appiccicose."
+    },
+    {
+      "part": 3,
+      "line": 6,
+      "question": "A cosa serve in laboratorio misurare la corrente nel miele?",
+      "options": [
+        "A scaldare il miele più in fretta",
+        "A togliere l'acqua in eccesso",
+        "A uccidere i lieviti nel vasetto",
+        "A capire se è melata o fiori"
+      ],
+      "answer": 3,
+      "why": "Il miele di melata ha più minerali e conduce meglio la corrente: è uno degli esami per riconoscerlo."
+    }
+  ]
+}

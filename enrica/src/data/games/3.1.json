@@ -1,0 +1,161 @@
+{
+ "code": "3.1",
+ "order": [
+  {
+   "title": "Aprire un'arnia nel modo giusto",
+   "steps": [
+    "Decidi che cosa vuoi controllare",
+    "Accendi bene l'affumicatore",
+    "Mettiti di lato rispetto all'ingresso",
+    "Dai poco fumo all'ingresso e aspetta",
+    "Solleva il coperchio piano con la leva",
+    "Togli per primo un telaino laterale",
+    "Richiudi rimettendo i telaini in ordine"
+   ],
+   "slide": 4
+  },
+  {
+   "title": "Dalla puntura all'arrivo delle altre api",
+   "steps": [
+    "Un'ape si sente in pericolo",
+    "L'ape punge",
+    "Il pungiglione libera l'odore di allarme",
+    "Altre api sentono l'odore",
+    "Altre api arrivano a difendere"
+   ],
+   "slide": 1
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi trovi in mano all'apicoltore, mentre sbuffo",
+    "Servo a rendere le api più tranquille",
+    "Mando fumo bianco dentro l'ingresso"
+   ],
+   "answer": "Affumicatore",
+   "distractors": [
+    "Nutritore",
+    "Coprifavo",
+    "Escludiregina"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi usano le api per sigillare le fessure",
+    "Vengo dalle resine delle piante",
+    "Incollo il coperchio e i telaini"
+   ],
+   "answer": "Propoli",
+   "distractors": [
+    "Cera",
+    "Pappa reale",
+    "Polline"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Sto sempre all'ingresso dell'arnia",
+    "Controllo l'odore di chi arriva",
+    "Do l'allarme se c'è un intruso"
+   ],
+   "answer": "Guardiana",
+   "distractors": [
+    "Nutrice",
+    "Ceraiola",
+    "Bottinatrice"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Ho bisogno di calore costante",
+    "Soffro se l'arnia resta aperta troppo",
+    "Sono uova, larve e pupe"
+   ],
+   "answer": "Covata",
+   "distractors": [
+    "Scorta",
+    "Cera",
+    "Propoli"
+   ],
+   "slide": 3
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "L'odore di allarme delle api ricorda un po' la banana.",
+   "true": true,
+   "why": "Contiene acetato di isoamile, una sostanza che profuma di banana.",
+   "slide": 1
+  },
+  {
+   "text": "Le api pungono per cattiveria, anche senza motivo.",
+   "true": false,
+   "why": "Pungono per difendere casa, scorte e covata quando sentono un pericolo.",
+   "slide": 1
+  },
+  {
+   "text": "La sera è il momento migliore per visitare l'alveare.",
+   "true": false,
+   "why": "La sera tutte le api sono a casa e sono più nervose.",
+   "slide": 2
+  },
+  {
+   "text": "Prima di un temporale le api tendono a essere più difensive.",
+   "true": true,
+   "why": "Il loro comportamento difensivo è legato al tempo che cambia.",
+   "slide": 2
+  },
+  {
+   "text": "Con la pioggia le bottinatrici restano in casa.",
+   "true": true,
+   "why": "Per questo l'arnia è più affollata e meno tranquilla.",
+   "slide": 2
+  },
+  {
+   "text": "Più a lungo resta aperta l'arnia, meglio è per la covata.",
+   "true": false,
+   "why": "La covata si raffredda: la visita deve essere breve.",
+   "slide": 3
+  },
+  {
+   "text": "D'inverno si fanno visite complete ogni settimana.",
+   "true": false,
+   "why": "D'inverno si osserva da fuori e si soppesa l'arnia.",
+   "slide": 3
+  },
+  {
+   "text": "Per aprire l'arnia ci si mette davanti all'ingresso.",
+   "true": false,
+   "why": "Ci si mette di lato, per non bloccare le bottinatrici.",
+   "slide": 4
+  },
+  {
+   "text": "Troppo fumo agita le api e può rovinare il miele.",
+   "true": true,
+   "why": "Bastano pochi sbuffi di fumo fresco all'ingresso.",
+   "slide": 4
+  },
+  {
+   "text": "Il primo telaino da togliere è uno laterale.",
+   "true": true,
+   "why": "Così si fa spazio per muovere gli altri senza schiacciare api.",
+   "slide": 4
+  },
+  {
+   "text": "Il carattere di una famiglia dipende molto dalla regina.",
+   "true": true,
+   "why": "Le operaie sono sue figlie e ne ereditano i geni.",
+   "slide": 5
+  },
+  {
+   "text": "Dopo il cambio di regina il carattere cambia in un giorno.",
+   "true": false,
+   "why": "Servono alcune settimane, finché nascono le figlie della nuova regina.",
+   "slide": 5
+  }
+ ]
+}

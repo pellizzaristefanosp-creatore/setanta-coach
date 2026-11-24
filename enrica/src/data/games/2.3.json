@@ -1,0 +1,172 @@
+{
+ "code": "2.3",
+ "order": [
+  {
+   "title": "Usare l'affumicatore",
+   "steps": [
+    "Riempi l'affumicatore di materiale naturale",
+    "Accendilo prima di avvicinarti all'arnia",
+    "Controlla che il fumo sia bianco e freddo",
+    "Dai due o tre sbuffi all'entrata",
+    "Aspetta un minuto, poi apri piano"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Dopo una puntura sul guanto",
+   "steps": [
+    "Allontana la mano con calma",
+    "Gratta via il pungiglione",
+    "Passa un filo di fumo sul punto",
+    "A fine visita lava i guanti"
+   ],
+   "slide": 2
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Ho un soffietto e un barattolo di metallo",
+    "Dentro di me bruciano juta e aghi di pino",
+    "Copro l'odore d'allarme delle api"
+   ],
+   "answer": "L'affumicatore",
+   "distractors": [
+    "Il coprifavo",
+    "L'apiscampo",
+    "Il diaframma"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi chiamano anche palettino staccafavi",
+    "Separo i telaini incollati di propoli",
+    "Mi tieni sempre in mano durante la visita"
+   ],
+   "answer": "La leva",
+   "distractors": [
+    "La spazzola",
+    "La maschera",
+    "La cassetta"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Ho setole lunghe e morbide",
+    "Sposto le api da un favo con un gesto solo",
+    "Se mi sporco di miele, le api restano attaccate"
+   ],
+   "answer": "La spazzola",
+   "distractors": [
+    "La leva",
+    "La maschera",
+    "La forchetta"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Ho una rete nera davanti",
+    "Proteggo occhi e viso",
+    "Prima di ogni visita controlli che non abbia buchi"
+   ],
+   "answer": "La maschera",
+   "distractors": [
+    "La tuta",
+    "La cuffia",
+    "La sciarpa"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Viaggio nella cassetta degli attrezzi",
+    "Ricordo cosa hai visto in ogni arnia",
+    "Con una matita mi riempi dopo la visita"
+   ],
+   "answer": "Il quaderno",
+   "distractors": [
+    "L'accendino",
+    "Il guanto",
+    "Il coltello"
+   ],
+   "slide": 5
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La rete nera della maschera aiuta a vedere meglio.",
+   "true": true,
+   "why": "Riflette meno luce di una rete chiara.",
+   "slide": 1
+  },
+  {
+   "text": "Con le api è meglio un maglione nero di lana.",
+   "true": false,
+   "why": "Lo scuro e i tessuti pelosi attirano le api in difesa: meglio chiaro e liscio.",
+   "slide": 1
+  },
+  {
+   "text": "Il pungiglione rimasto nel guanto può attirare altre api.",
+   "true": true,
+   "why": "Libera un odore d'allarme che chiama altre api a difendere.",
+   "slide": 2
+  },
+  {
+   "text": "I guanti di pelle fanno sentire i telaini meglio di quelli di gomma.",
+   "true": false,
+   "why": "La pelle protegge di più; la gomma, più sottile, fa sentire meglio.",
+   "slide": 2
+  },
+  {
+   "text": "Chi inizia dovrebbe lavorare subito a mani nude.",
+   "true": false,
+   "why": "All'inizio i guanti danno sicurezza; le mani nude, se mai, vengono con l'esperienza.",
+   "slide": 2
+  },
+  {
+   "text": "Il fumo rende le antenne meno sensibili all'odore d'allarme.",
+   "true": true,
+   "why": "È uno dei modi in cui il fumo calma la difesa dell'alveare.",
+   "slide": 3
+  },
+  {
+   "text": "Più fumo dai, più le api stanno tranquille.",
+   "true": false,
+   "why": "Troppo fumo le disturba: bastano poche sbuffate di fumo bianco e freddo.",
+   "slide": 3
+  },
+  {
+   "text": "Col fumo molte api si riempiono di miele.",
+   "true": true,
+   "why": "E un'ape piena di miele punge meno volentieri.",
+   "slide": 3
+  },
+  {
+   "text": "La propoli ha proprietà contro microbi e funghi.",
+   "true": true,
+   "why": "Viene dalle resine delle piante e aiuta la salute della famiglia.",
+   "slide": 4
+  },
+  {
+   "text": "Con la spazzola si fanno tante passate forti sulle api.",
+   "true": false,
+   "why": "Basta un colpo leggero e deciso: tante passate le innervosiscono.",
+   "slide": 4
+  },
+  {
+   "text": "La cassetta degli attrezzi va messa davanti all'entrata dell'arnia.",
+   "true": false,
+   "why": "Va vicino a te ma lontano dall'entrata, dove passano le api.",
+   "slide": 5
+  },
+  {
+   "text": "Le spore della peste americana sono molto resistenti.",
+   "true": true,
+   "why": "Possono restare attive per anni nel materiale contaminato.",
+   "slide": 5
+  }
+ ]
+}

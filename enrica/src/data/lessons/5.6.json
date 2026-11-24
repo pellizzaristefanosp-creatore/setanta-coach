@@ -1,0 +1,446 @@
+{
+ "version": 1,
+ "code": "5.6",
+ "unit": 5,
+ "title": "La cera",
+ "pages": "225–234",
+ "summary": "Scopri come nasce il favo, chi produce la cera e di che cosa è fatta. Impari a raccoglierla e scioglierla con la sceratrice solare, perché la sterilizzazione è importante, come fare e riciclare i fogli cerei e come difenderti dalla cera adulterata.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Che cos'è il favo d'api",
+   "narration": "Ciao Enrica! Oggi parliamo della cera, il materiale con cui le api costruiscono casa. Cominciamo dal favo. Tu come lo descriveresti? Una lastra di cera piena di cellette, da tutte e due le parti. Perfetto. Al centro c'è una parete sottile, e da lì partono le celle verso destra e verso sinistra. E perché le celle sono esagoni e non quadrati o cerchi? Bella domanda. Prova a pensare a una tavola piena di bicchieri rotondi. Che cosa resta tra un bicchiere e l'altro? Restano dei buchi vuoti. Con gli esagoni invece non resta nessuno spazio sprecato. Esatto. Ogni parete è in comune con la cella vicina, così si usa poca cera per tanto spazio. Ma come fanno le api a fare esagoni così precisi? Qui c'è una scoperta curiosa: all'inizio le celle sono quasi rotonde. Poi la cera tiepida si sistema da sola dove tre celle si toccano, e nascono gli esagoni. Come le bolle di sapone che, strette insieme, diventano a facce. Bel paragone. Poi nota che le celle non sono tutte uguali: quelle delle operaie sono più piccole, quelle dei fuchi più grandi. E il miele dove va? Nelle stesse celle, spesso in alto e ai lati. Il favo è insieme culla, dispensa e magazzino del polline. Quindi il favo è tutta la casa: camere, cucina e cantina insieme.",
+   "keyPoints": [
+    "Il favo è una lastra di cera a celle",
+    "Le celle sono esagoni su due facce",
+    "L'esagono non lascia spazi vuoti",
+    "Celle piccole per operaie, più grandi per fuchi"
+   ],
+   "analogy": "Il favo è come un alveare di piastrelle esagonali in bagno: nessun buco tra una e l'altra, e ogni lato è in comune con la vicina.",
+   "check": {
+    "question": "Che forma hanno le celle di un favo finito?",
+    "options": [
+     "Esagonale",
+     "Quadrata",
+     "Triangolare",
+     "Rotonda"
+    ],
+    "answer": 0,
+    "explanation": "Le celle finite sono esagoni con gli angoli un po' arrotondati, su entrambe le facce del favo."
+   },
+   "science": {
+    "text": "Guardando le api al lavoro, alcuni ingegneri hanno visto che le celle appena nate sono rotonde. Poi, mentre il favo cresce, la cera tiepida scorre nei punti dove tre celle si toccano e le celle diventano esagoni dagli angoli arrotondati. Il calore lo danno le operaie.",
+    "source": "Karihaloo et al. 2013, Journal of the Royal Society Interface",
+    "url": "https://doi.org/10.1098/rsif.2013.0299"
+   },
+   "tip": "Tieni un telaino controluce e guarda le celle: vedrai che sono esagoni su entrambe le facce, con il fondo in comune nel mezzo."
+  },
+  {
+   "slide": 2,
+   "title": "La cera nell'alveare",
+   "narration": "Adesso vediamo chi fa la cera. Secondo te, da dove esce? Dalla bocca, come la pappa reale? No, stavolta dalla pancia. Sotto l'addome le operaie hanno quattro paia di ghiandole della cera, chiamate ghiandole ceripare. E come esce? Liquida? Esce liquida e indurisce subito in scagliette sottili e trasparenti, come piccole unghie. L'ape le prende con le zampe e le mastica per ammorbidirle. Poi la lavora con le mandibole e la attacca al favo. Tutte le operaie fanno la cera? Soprattutto quelle giovani, più o meno nella seconda e terza settimana di vita. Poi le ghiandole si riducono e l'ape passa ad altri lavori. Quindi c'è un'età per ogni mestiere. Esatto. Ora una domanda. Secondo te, che cosa serve all'ape per produrre cera? Tanto cibo zuccherino, cioè miele o nettare, perché fare cera costa energia. Brava. Per questo le api costruiscono soprattutto quando entra tanto nettare. E serve caldo: si appendono una all'altra in catene, dette festoni. Le ho viste! Sembrano una tendina di api appese. Proprio così. Lì dentro fa caldo e la cera si lavora meglio. Ogni ape aggiunge un pezzetto, come in un cantiere. Allora: ghiandole sotto la pancia, api giovani, tanto miele e tanto caldo. Mi è chiaro.",
+   "keyPoints": [
+    "La producono le operaie con ghiandole sotto l'addome",
+    "Esce in scagliette sottili e trasparenti",
+    "Lavorano di più nella seconda e terza settimana",
+    "Per fare cera le api consumano tanto miele",
+    "Le api costruiscono appese in catene"
+   ],
+   "analogy": "Le ceraiole sono come i panettieri: per sfornare la cera consumano tanta farina, cioè miele, e lavorano al caldo.",
+   "check": {
+    "question": "Da dove esce la cera nel corpo dell'ape?",
+    "options": [
+     "Da ghiandole sotto l'addome",
+     "Da ghiandole nella testa",
+     "Dalla punta del pungiglione",
+     "Dalle zampe posteriori"
+    ],
+    "answer": 0,
+    "explanation": "Le operaie hanno quattro paia di ghiandole della cera sotto l'addome."
+   },
+   "science": {
+    "text": "Le ghiandole della cera cambiano con l'età dell'ape: crescono, lavorano al massimo e poi si riducono. Questi cambiamenti seguono da vicino la quantità di cera che le operaie producono nei vari giorni di vita. Una parte della cera, gli idrocarburi, viene probabilmente da cellule vicine alle ghiandole.",
+    "source": "Hepburn et al. 1991, Apidologie",
+    "url": "https://doi.org/10.1051/apido:19910104"
+   },
+   "tip": "In primavera, quando c'è tanto nettare, guarda sotto il coprifavo: se vedi scagliette bianche e favi nuovi chiari, la famiglia ha voglia di costruire."
+  },
+  {
+   "slide": 3,
+   "title": "Composizione e caratteristiche",
+   "narration": "Ora guardiamo dentro la cera. Di che cosa pensi che sia fatta? Di grasso? Al tatto sembra un po' una candela. Ci sei vicina. La parte più grande sono gli esteri, sostanze che nascono dall'unione di acidi grassi e alcoli. Poi ci sono idrocarburi e acidi grassi liberi. Parole difficili. Me lo dici in modo semplice? Una miscela di grassi particolari, solida a temperatura di casa. Fonde intorno ai sessantadue, sessantaquattro gradi. Più bassa dell'acqua che bolle, quindi. Sì, molto più bassa. E la cosa interessante è che la ricetta della cera d'api cambia poco da un posto all'altro. E a che cosa serve saperlo? Secondo te, se qualcuno mescola alla cera una sostanza più economica, come si può scoprire? Con un'analisi: se i valori escono diversi dalla ricetta normale, c'è qualcosa che non va. Esatto. Ora il colore. La cera appena fatta è bianca. Diventa gialla per il polline e la propoli, e scura nei favi vecchi. Anche la propoli lascia il suo colore. Perché scura nei vecchi? Perché ogni ape che nasce lascia nella cella il suo bozzolo, una pellicina sottile. Dopo tante nascite il favo diventa marrone, quasi nero. Quindi la cera più chiara viene dai favi nuovi e dagli opercoli.",
+   "keyPoints": [
+    "È fatta soprattutto di esteri",
+    "Contiene anche idrocarburi e acidi grassi",
+    "Fonde intorno ai 62–64 °C",
+    "Nuova è chiara, poi scurisce con l'uso",
+    "Composizione stabile: aiuta a scoprire le truffe"
+   ],
+   "analogy": "La cera è come un impasto di casa con la sua ricetta fissa: se qualcuno aggiunge un ingrediente estraneo, all'analisi si vede.",
+   "check": {
+    "question": "A che temperatura circa fonde la cera d'api?",
+    "options": [
+     "Intorno ai 30 °C",
+     "Intorno ai 100 °C",
+     "Intorno ai 63 °C",
+     "Intorno ai 150 °C"
+    ],
+    "answer": 2,
+    "explanation": "La cera d'api fonde intorno ai 62–64 °C."
+   },
+   "science": {
+    "text": "In Canada sono stati analizzati 80 campioni di cera d'api grezza. Fondeva in media a circa 64 °C e conteneva circa il 15% di idrocarburi. Clima e zona non cambiavano i valori. Conoscere questi numeri aiuta a riconoscere la cera mescolata con altre sostanze.",
+    "source": "Tulloch e Hoffman 1972, Journal of the American Oil Chemists' Society",
+    "url": "https://doi.org/10.1007/BF02609202"
+   },
+   "tip": "Confronta un pezzo di favo nuovo e uno vecchio: il nuovo è bianco o giallino, il vecchio è scuro per i bozzoli e la propoli. Usa i chiari per la cera migliore."
+  },
+  {
+   "slide": 4,
+   "title": "Raccolta ed estrazione",
+   "narration": "Vediamo come si recupera la cera. Che cosa pensi che si possa raccogliere? I favi vecchi che tolgo, e forse i pezzetti che raschio dai telaini. Sì, e poi gli opercoli, cioè i tappini di cera che togli dai favi di miele prima di smielare. Quelli sono belli chiari. Infatti danno la cera migliore. I favi vecchi danno cera più scura e più sporca. E come la sciolgo? In pentola sul fornello? Mai sulla fiamma diretta: la cera calda prende fuoco facilmente. Un sistema semplice e gratis è la sceratrice solare. Che cos'è? Una cassa chiusa con un vetro sopra. Dentro c'è un piano inclinato dove metti la cera, e sotto una vaschetta. Secondo te, che cosa succede al sole? Dentro fa caldissimo, la cera si scioglie, cola lungo il piano e finisce nella vaschetta. Esatto. Le impurità più grosse restano sul piano. Per tanta cera si usano anche sceratrici a vapore. Sono più adatte a chi ha tanti favi da sciogliere. C'è qualcosa a cui stare attenta? Due cose. La cassa deve essere chiusa bene, altrimenti le api entrano attirate dall'odore. E il troppo calore scurisce la cera e le toglie valore. Allora: opercoli a parte, niente fiamma, sole e cassa ben chiusa.",
+   "keyPoints": [
+    "Si raccolgono opercoli, favi vecchi e pezzetti",
+    "Gli opercoli danno la cera più chiara",
+    "La sceratrice solare usa il calore del sole",
+    "Mai cera sulla fiamma diretta: prende fuoco",
+    "Il troppo calore scurisce la cera"
+   ],
+   "analogy": "La sceratrice solare è come un'auto chiusa al sole d'agosto: dentro fa così caldo che un pezzo di cioccolato si scioglie in pochi minuti.",
+   "check": {
+    "question": "Da dove viene la cera più chiara e pregiata?",
+    "options": [
+     "Dai favi neri del nido",
+     "Dagli opercoli tagliati",
+     "Dalla propoli raschiata",
+     "Dal fondo dell'arnia"
+    ],
+    "answer": 1,
+    "explanation": "Gli opercoli sono cera nuova appena fatta: danno la cera più chiara."
+   },
+   "science": {
+    "text": "Una guida dell'Università della Florida spiega come costruire una sceratrice solare: una cassa con un vetro sopra, un piano inclinato e una vaschetta in basso. Il sole scioglie la cera, che cola e si raccoglie. La cassa deve essere ben chiusa, perché le api non entrino.",
+    "source": "Sanford e Bustamante, UF/IFAS Extension (Università della Florida)",
+    "url": "https://edis.ifas.ufl.edu/publication/AA157"
+   },
+   "tip": "Tieni un secchio con coperchio vicino all'arnia e mettici dentro ogni pezzetto di cera che raschi. Chiudi bene: la cera attira api e tarme."
+  },
+  {
+   "slide": 5,
+   "title": "La sterilizzazione",
+   "narration": "Adesso un tema serio: la sterilizzazione della cera. Hai mai sentito parlare della peste americana? Sì, è una malattia grave della covata, giusto? Giustissimo. La causa un batterio che forma spore, cioè piccole forme di resistenza, come semi chiusi in un guscio. E che cosa c'entra con la cera? Le spore restano nei favi, nella cera e nelle arnie per decenni. E resistono molto al calore. Quindi se sciolgo la cera di un'arnia malata nella sceratrice solare, le spore muoiono? Purtroppo no, quel calore non basta. Secondo te, che cosa succede se poi uso quella cera per fare fogli cerei? Porto le spore nelle arnie sane e la malattia si diffonde. Esatto. Per questo la cera destinata ai fogli cerei deve essere sterilizzata con metodi speciali, in laboratori attrezzati. E se io trovo la peste americana in un'arnia? Chiami subito la tua ASL. Saranno i veterinari a dirti che cosa fare di api, favi e materiale. Non si decide da soli. E per stare tranquilla in generale? Non comprare favi vecchi di provenienza sconosciuta, e fai fare i fogli cerei a chi garantisce la sterilizzazione. Allora: spore dure come sassi, calore normale che non basta e, al minimo dubbio, telefono all'ASL.",
+   "keyPoints": [
+    "La peste americana fa spore molto resistenti",
+    "Le spore restano vive decenni nella cera",
+    "Sciogliere la cera non basta a ucciderle",
+    "Servono metodi speciali, decisi con l'ispettore",
+    "Al sospetto di malattia chiama subito l'ASL"
+   ],
+   "analogy": "Le spore sono come semi chiusi in un guscio di ferro: aspettano anni, e appena trovano una larva germogliano.",
+   "check": {
+    "question": "Perché la cera di un'arnia malata è pericolosa?",
+    "options": [
+     "Perché diventa troppo dura",
+     "Perché puzza di bruciato",
+     "Perché è più scura del normale",
+     "Perché porta spore molto resistenti"
+    ],
+    "answer": 3,
+    "explanation": "Le spore della peste americana restano vive per decenni nella cera e resistono al calore."
+   },
+   "science": {
+    "text": "Le spore della peste americana, una grave malattia della covata, possono restare vive 50 anni o più in favi, cera, miele e arnie. Resistono molto al calore e al sole. Per renderle innocue servono metodi speciali, come i raggi gamma, scelti con l'ispettore.",
+    "source": "Agriculture Victoria (governo dello Stato di Victoria, Australia)",
+    "url": "https://agriculture.vic.gov.au/biosecurity/animal-diseases/honey-bee-pests-and-diseases/diagnosis-control-and-eradication-of-american-foulbrood-disease"
+   },
+   "tip": "Non comprare né scambiare favi vecchi di cui non conosci la storia. Se un'arnia ha avuto la peste americana, chiedi alla tua ASL che cosa fare della cera."
+  },
+  {
+   "slide": 6,
+   "title": "I fogli cerei e il riciclo della cera",
+   "narration": "Parliamo dei fogli cerei. Sai che cosa sono? Le lastre di cera con le basi delle celle stampate, che metto nei telaini. Brava. Le api partono da lì e tirano su le celle. Si comprano, ma si possono anche fare in casa. Davvero? E come? Si scioglie la cera pulita e la si stampa con una pressa apposita o un piccolo laminatoio. Esce il foglio con il disegno degli esagoni. Che vantaggio c'è a farli da sé? Sai da dove viene la cera. E questo conta. Secondo te, perché la provenienza è importante? Perché la cera può essere sporca di qualcosa che non si vede, tipo residui dei trattamenti. Esatto. Uno studio negli Stati Uniti ha trovato residui di acaricidi in quasi tutti i favi e i fogli cerei analizzati. La cera li trattiene. Allora è meglio usare la cera degli opercoli, che è nuova. Sì. E poi c'è il riciclo dei favi. I favi vecchi e scuri si tolgono a poco a poco e si sostituiscono con fogli nuovi. E la cera dei favi vecchi la butto? No, la sciogli e la usi per altro: candele, lucidi per il legno, oppure la scambi con chi fa fogli cerei e garantisce la pulizia. Quindi: opercoli per i miei fogli, favi vecchi da cambiare e niente si butta.",
+   "keyPoints": [
+    "Il foglio cereo è la base stampata del favo",
+    "Si possono fare in casa con uno stampo",
+    "La cera trattiene i residui dei trattamenti",
+    "Meglio usare cera chiara, di opercolo",
+    "Cambiare i favi vecchi aiuta la salute"
+   ],
+   "analogy": "La cera è come una spugna in cucina: col tempo assorbe un po' di tutto quello che le passa accanto, anche lo sporco che non vedi.",
+   "check": {
+    "question": "Perché conviene fare i fogli cerei con cera di opercolo?",
+    "options": [
+     "Perché è più pulita e chiara",
+     "Perché costa meno di tutte",
+     "Perché profuma di più",
+     "Perché fonde più in fretta"
+    ],
+    "answer": 0,
+    "explanation": "La cera di opercolo è nuova: ha avuto meno tempo per trattenere sporco e residui."
+   },
+   "science": {
+    "text": "Uno studio americano ha analizzato centinaia di campioni di cera. Quasi tutti i favi e i fogli cerei, il 98%, contenevano residui di due acaricidi usati contro la varroa, spesso insieme ad altri pesticidi. Oggi sappiamo che la cera trattiene i residui e li porta avanti negli anni.",
+    "source": "Mullin et al. 2010, PLoS ONE",
+    "url": "https://doi.org/10.1371/journal.pone.0009754"
+   },
+   "tip": "Tieni separata la cera degli opercoli da quella dei favi vecchi. Usa la prima per i tuoi fogli cerei e la seconda per candele o lucidi."
+  },
+  {
+   "slide": 7,
+   "title": "Il mercato",
+   "narration": "Ultima parte: il mercato della cera. Che cosa fanno gli apicoltori con la cera che raccolgono? La vendono, immagino. O la usano per le candele. Molti la portano a chi produce fogli cerei e la scambiano con fogli nuovi. Ma qui c'è un problema: la cera adulterata. Adulterata vuol dire mescolata con altro? Sì. Le aggiunte più comuni sono la paraffina, che viene dal petrolio, e la stearina, fatta da grassi animali o vegetali. Costano meno della cera d'api. E alle api che cosa fa? Secondo te, che cosa può succedere se la larva cresce in una cella fatta di cera sbagliata? Può crescere male o morire, e la covata diventa piena di buchi. Esatto. L'autorità europea, l'EFSA, ha visto che la stearina oltre certe quantità può danneggiare la covata. E i fogli adulterati possono anche piegarsi e cedere col caldo. È un problema raro? Non tanto. In Belgio, per esempio, un'indagine ha trovato cera adulterata sia tra gli apicoltori sia tra quella in commercio. Come mi difendo? Compra da produttori seri, chiedi se fanno analisi sulla cera e, se puoi, fai i fogli con la tua cera di opercolo. Allora: occhio alla covata sparsa, fornitori di fiducia e analisi quando ho dubbi.",
+   "keyPoints": [
+    "La cera si vende o si scambia con fogli cerei",
+    "Esiste cera adulterata con paraffina o stearina",
+    "La stearina può danneggiare la covata",
+    "I fogli adulterati possono deformarsi e cedere",
+    "Chiedi analisi e compra da chi conosci"
+   ],
+   "analogy": "È come l'olio d'oliva tagliato con olio di semi: sembra uguale, ma dentro c'è altro, e solo un'analisi lo scopre.",
+   "check": {
+    "question": "Che effetto può avere la stearina nei fogli cerei?",
+    "options": [
+     "Rende il miele più dolce",
+     "Danneggia la covata",
+     "Fa nascere più fuchi",
+     "Allontana la varroa"
+    ],
+    "answer": 1,
+    "explanation": "L'EFSA ha visto che la stearina, oltre certe quantità, può danneggiare la covata."
+   },
+   "science": {
+    "text": "Nel 2020 l'EFSA, l'autorità europea per la sicurezza alimentare, ha studiato la cera mescolata con paraffina o stearina. Ha visto che la stearina, oltre certe quantità, può danneggiare la covata, e che servono analisi capaci di scoprire anche piccole aggiunte, sotto il 5%.",
+    "source": "EFSA 2020, EFSA Supporting Publications",
+    "url": "https://www.efsa.europa.eu/en/supporting/pub/en-1859"
+   },
+   "tip": "Se vedi covata molto sparsa su fogli cerei nuovi, o favi che si piegano col caldo, sospetta la cera. Conserva un pezzo del foglio e chiedi un'analisi."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Perché le celle del favo sono esagoni?",
+   "back": "Non lasciano spazi vuoti e usano poca cera.",
+   "part": 0
+  },
+  {
+   "front": "Che forma hanno le celle appena nate?",
+   "back": "Quasi rotonda; poi diventano esagoni con la cera tiepida.",
+   "part": 0
+  },
+  {
+   "front": "Dove sono le ghiandole della cera?",
+   "back": "Sotto l'addome delle operaie: quattro paia.",
+   "part": 1
+  },
+  {
+   "front": "Che cosa sono i festoni?",
+   "back": "Catene di api appese che costruiscono i favi.",
+   "part": 1
+  },
+  {
+   "front": "A che temperatura fonde la cera d'api?",
+   "back": "Intorno ai 62–64 °C.",
+   "part": 2
+  },
+  {
+   "front": "Perché i favi vecchi sono scuri?",
+   "back": "Per i bozzoli lasciati dalle api nate, polline e propoli.",
+   "part": 2
+  },
+  {
+   "front": "Come funziona la sceratrice solare?",
+   "back": "Il sole scalda una cassa col vetro: la cera fonde e cola.",
+   "part": 3
+  },
+  {
+   "front": "Le spore della peste americana muoiono sciogliendo la cera?",
+   "back": "No: resistono al calore e restano vive per decenni.",
+   "part": 4
+  },
+  {
+   "front": "Che cosa trattiene la cera nel tempo?",
+   "back": "I residui dei trattamenti e dei pesticidi.",
+   "part": 5
+  },
+  {
+   "front": "Con che cosa si adultera la cera?",
+   "back": "Con paraffina o stearina.",
+   "part": 6
+  }
+ ],
+ "questions": [
+  {
+   "question": "Che cosa c'è al centro di un favo?",
+   "options": [
+    "Una parete sottile comune",
+    "Un foro per far passare l'aria",
+    "Un filo di ferro nascosto",
+    "Uno strato di propoli spessa"
+   ],
+   "answer": 0,
+   "explanation": "Dalla parete centrale partono le celle verso le due facce del favo.",
+   "part": 0
+  },
+  {
+   "question": "Quali celle sono più grandi nel favo?",
+   "options": [
+    "Quelle delle operaie",
+    "Quelle del polline",
+    "Quelle dei fuchi",
+    "Quelle del miele"
+   ],
+   "answer": 2,
+   "explanation": "I fuchi sono più grossi delle operaie, quindi le loro celle sono più grandi.",
+   "part": 0
+  },
+  {
+   "question": "Come esce la cera dalle ghiandole?",
+   "options": [
+    "In gocce che restano molli",
+    "In scagliette sottili e chiare",
+    "In fili lunghi e appiccicosi",
+    "In palline gialle e dure"
+   ],
+   "answer": 1,
+   "explanation": "Esce liquida e indurisce in scagliette sottili, quasi trasparenti.",
+   "part": 1
+  },
+  {
+   "question": "Quando le api costruiscono più favi?",
+   "options": [
+    "Quando entra tanto nettare",
+    "Quando fa molto freddo",
+    "Quando manca il polline",
+    "Quando la regina è vecchia"
+   ],
+   "answer": 0,
+   "explanation": "Fare cera costa energia: le api costruiscono quando il cibo zuccherino abbonda.",
+   "part": 1
+  },
+  {
+   "question": "Di che cosa è fatta soprattutto la cera d'api?",
+   "options": [
+    "Di zuccheri",
+    "Di proteine",
+    "Di esteri",
+    "Di sali"
+   ],
+   "answer": 2,
+   "explanation": "Gli esteri sono la parte più grande; poi idrocarburi e acidi grassi.",
+   "part": 2
+  },
+  {
+   "question": "Perché conoscere la composizione della cera è utile?",
+   "options": [
+    "Per sapere quando raccoglierla",
+    "Per scoprire le aggiunte estranee",
+    "Per cambiarle colore a piacere",
+    "Per farla fondere più in fretta"
+   ],
+   "answer": 1,
+   "explanation": "Se i valori escono diversi dal normale, la cera può essere mescolata con altro.",
+   "part": 2
+  },
+  {
+   "question": "Perché non si scioglie la cera sulla fiamma diretta?",
+   "options": [
+    "Perché diventa troppo chiara",
+    "Perché perde il profumo",
+    "Perché può prendere fuoco",
+    "Perché diventa troppo dura"
+   ],
+   "answer": 2,
+   "explanation": "La cera calda prende fuoco facilmente: meglio sole, vapore o bagnomaria.",
+   "part": 3
+  },
+  {
+   "question": "Perché la sceratrice solare deve essere chiusa bene?",
+   "options": [
+    "Per non far entrare le api",
+    "Per non far uscire la luce",
+    "Per non far gelare la cera",
+    "Per non far entrare l'aria"
+   ],
+   "answer": 0,
+   "explanation": "L'odore della cera attira le api, che entrerebbero e morirebbero.",
+   "part": 3
+  },
+  {
+   "question": "Chi chiami se sospetti la peste americana?",
+   "options": [
+    "Il vicino di casa",
+    "La tua ASL locale",
+    "Il tuo ferramenta",
+    "Il tuo fornitore"
+   ],
+   "answer": 1,
+   "explanation": "Sono i veterinari dell'ASL a dire che cosa fare di api, favi e materiale.",
+   "part": 4
+  },
+  {
+   "question": "Per quanto possono restare vive le spore della peste americana?",
+   "options": [
+    "Due giorni",
+    "Due settimane",
+    "Due mesi",
+    "Molti decenni"
+   ],
+   "answer": 3,
+   "explanation": "Possono restare vive 50 anni o più in favi, cera e arnie.",
+   "part": 4
+  },
+  {
+   "question": "Che cosa ha trovato lo studio americano nei fogli cerei?",
+   "options": [
+    "Spore di funghi",
+    "Residui di acaricidi",
+    "Tracce di miele",
+    "Polline di pioppo"
+   ],
+   "answer": 1,
+   "explanation": "Quasi tutti i campioni contenevano residui di acaricidi contro la varroa.",
+   "part": 5
+  },
+  {
+   "question": "Da che cosa viene la paraffina?",
+   "options": [
+    "Dal petrolio",
+    "Dal latte",
+    "Dalle olive",
+    "Dalle api"
+   ],
+   "answer": 0,
+   "explanation": "La paraffina viene dal petrolio; la stearina da grassi animali o vegetali.",
+   "part": 6
+  },
+  {
+   "question": "Quale segno può far sospettare cera adulterata?",
+   "options": [
+    "Miele più chiaro del solito",
+    "Api più calme del solito",
+    "Covata sparsa su fogli nuovi",
+    "Più polline nei favi laterali"
+   ],
+   "answer": 2,
+   "explanation": "Covata sparsa e favi che cedono col caldo possono indicare cera adulterata.",
+   "part": 6
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Covata sparsa sui fogli nuovi",
+   "prompt": "Hai messo fogli cerei comprati da un fornitore nuovo. Dopo qualche settimana la covata su quei favi è piena di buchi e un favo si è piegato col caldo. Che cosa fai?",
+   "modelAnswer": "Sospetto che la cera sia adulterata, per esempio con stearina o paraffina: la stearina può danneggiare la covata e i fogli adulterati possono cedere col caldo. Prima escludo altre cause controllando la regina e cercando segni di malattia; se ho dubbi su una malattia chiamo l'ASL. Conservo un pezzo di foglio cereo non usato e chiedo al fornitore se ha fatto analisi, oppure lo faccio analizzare. Tolgo a poco a poco quei favi e uso fogli di fornitori di fiducia, o fatti con la mia cera di opercolo."
+  },
+  {
+   "title": "La cera di un'arnia morta",
+   "prompt": "Un conoscente ti regala i favi di un'arnia morta l'inverno scorso. Le celle con covata hanno opercoli infossati e bucherellati. Vuoi scioglierli nella sceratrice solare per farne fogli cerei. Che cosa fai?",
+   "modelAnswer": "Mi fermo. Opercoli infossati e bucherellati possono essere un segno di peste americana. Le sue spore resistono al calore e restano vive per decenni nella cera: la sceratrice solare non basta a ucciderle. Se usassi quella cera per i fogli, porterei la malattia nelle mie arnie sane. Non uso quei favi e non li lascio dove le api possono raggiungerli. Chiamo la ASL e seguo le sue indicazioni. In futuro non accetto favi vecchi di cui non conosco la storia."
+  },
+  {
+   "title": "Il mio primo panetto",
+   "prompt": "Hai un secchio di opercoli dopo la smielatura e una sceratrice solare. Come ottieni un panetto di cera bella chiara?",
+   "modelAnswer": "Tengo gli opercoli separati dalla cera dei favi vecchi, perché danno la cera più chiara. Li lascio sgocciolare bene dal miele. In una giornata di sole metto gli opercoli sul piano inclinato della sceratrice, controllo che la cassa sia chiusa bene, così le api non entrano, e la oriento verso il sole. La cera fonde e cola nella vaschetta, le impurità restano sul piano. Non scaldo mai la cera sulla fiamma diretta e non la surriscaldo, perché scurisce. Se serve, la rifondo e la filtro."
+  }
+ ]
+}

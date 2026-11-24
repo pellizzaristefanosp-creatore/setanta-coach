@@ -1,0 +1,70 @@
+{
+ "code": "2.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Perché gli apicoltori vestono di bianco o di colori chiari?",
+   "options": [
+    "Perché il bianco profuma di fiori",
+    "Perché le api pungono di più lo scuro",
+    "Perché il bianco allontana la varroa",
+    "Perché le api non vedono il bianco"
+   ],
+   "answer": 1,
+   "why": "I colori scuri ricordano i predatori: le api in difesa li puntano di più."
+  },
+  {
+   "part": 1,
+   "line": 6,
+   "question": "A cosa serve l'odore che libera il pungiglione?",
+   "options": [
+    "A curare la ferita dell'ape",
+    "A segnare la strada verso i fiori",
+    "A chiamare altre api a difendere",
+    "A tenere lontane le formiche"
+   ],
+   "answer": 2,
+   "why": "È un odore d'allarme: le altre api lo sentono e arrivano a difendere la casa."
+  },
+  {
+   "part": 2,
+   "line": 6,
+   "question": "Cosa farebbe una famiglia d'api in un albero, sentendo odore di incendio?",
+   "options": [
+    "Uscirebbe tutta a pungere il fuoco",
+    "Chiuderebbe l'entrata con la cera",
+    "Smetterebbe di fare miele per sempre",
+    "Si preparerebbe a fuggire con le scorte"
+   ],
+   "answer": 3,
+   "why": "Molti studiosi spiegano così perché col fumo le api si riempiono di miele e pungono meno."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "Perché le api ricoprono il nido di propoli?",
+   "options": [
+    "Per chiudere spifferi e difendersi dai germi",
+    "Per rendere il nido più pesante e stabile",
+    "Per nutrire le larve nei primi giorni",
+    "Per segnare la strada alle bottinatrici"
+   ],
+   "answer": 0,
+   "why": "La propoli sigilla le fessure e ha proprietà contro microbi e funghi."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Perché conviene preparare la cassetta prima di arrivare all'apiario?",
+   "options": [
+    "Per far vedere alle api gli attrezzi",
+    "Per non correre via con l'arnia aperta",
+    "Per non sporcare l'erba dell'apiario",
+    "Per avere meno peso da portare"
+   ],
+   "answer": 1,
+   "why": "Con l'arnia aperta non puoi correre a casa: tutto deve essere già a portata di mano."
+  }
+ ]
+}

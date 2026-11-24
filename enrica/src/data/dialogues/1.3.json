@@ -1,0 +1,249 @@
+{
+ "code": "1.3",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Enrica, oggi parliamo di te. Non delle api, ma di che apicoltrice vuoi diventare."
+    },
+    {
+     "who": "E",
+     "text": "Di me? Io pensavo di imparare a fare il miele e basta."
+    },
+    {
+     "who": "M",
+     "text": "Il miele arriva, tranquilla. Ma oggi l'apicoltore è prima di tutto un custode. Chi tiene le api ha in mano la loro salute."
+    },
+    {
+     "who": "E",
+     "text": "Ma le api non se la cavano da sole? In natura ci sono sempre state."
+    },
+    {
+     "who": "M",
+     "text": "Una volta in Europa c'erano tante colonie nei tronchi cavi. Oggi gli studi dicono che le colonie davvero selvatiche sono rare."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, se le colonie selvatiche sono poche, da chi dipendono soprattutto le api da miele qui da noi?"
+    },
+    {
+     "who": "E",
+     "text": "Dagli apicoltori. Siamo noi che teniamo in vita la maggior parte delle colonie."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Per questo i ricercatori dicono che l'apicoltura è anche tutela della natura, non solo un lavoro per fare miele."
+    },
+    {
+     "who": "E",
+     "text": "Mi piace questa idea. Ma in pratica cosa vuol dire essere custode?"
+    },
+    {
+     "who": "M",
+     "text": "Vuol dire guardare le api con attenzione, capire di cosa hanno bisogno, curarle bene e raccogliere solo il giusto."
+    },
+    {
+     "who": "E",
+     "text": "Un po' come con l'orto: prima la terra e le piante, poi il raccolto."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. E un buon custode scrive tutto. Un quaderno con le visite vale più di cento ricordi."
+    },
+    {
+     "who": "E",
+     "text": "Allora comincio subito il mio quaderno dell'apiario."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Nelle prossime parti vediamo quali api custodire, perché contano tanto e come curarle con rispetto."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "E",
+     "text": "Tonino, le api sono tutte uguali o ci sono razze diverse, come per le galline?"
+    },
+    {
+     "who": "M",
+     "text": "Ci sono, eccome. La specie è Apis mellifera, ma in Europa ci sono diverse sottospecie, cioè gruppi adattati a zone diverse."
+    },
+    {
+     "who": "E",
+     "text": "E qui da noi quale c'è?"
+    },
+    {
+     "who": "M",
+     "text": "In gran parte d'Italia c'è l'ape italiana, Apis mellifera ligustica. In Sicilia c'è anche l'ape siciliana, più scura."
+    },
+    {
+     "who": "E",
+     "text": "L'ape italiana è famosa, vero?"
+    },
+    {
+     "who": "M",
+     "text": "È tra le api più diffuse al mondo, la usano in tanti Paesi. E una legge italiana del 2004 sull'apicoltura nomina la sua tutela tra i suoi scopi."
+    },
+    {
+     "who": "E",
+     "text": "Ma se un apicoltore compra regine da lontano, cosa succede?"
+    },
+    {
+     "who": "M",
+     "text": "Le regine si accoppiano in volo con i fuchi della zona. Così le razze si mescolano, e le popolazioni locali piano piano si perdono."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, perché un'ape nata e cresciuta qui dovrebbe cavarsela meglio di una arrivata da un altro Paese?"
+    },
+    {
+     "who": "E",
+     "text": "Perché è abituata al nostro clima, alle nostre fioriture e ai nostri inverni. Conosce la sua terra."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Uno studio europeo con quasi seicento colonie l'ha visto: le colonie con regine locali sono vissute più a lungo."
+    },
+    {
+     "who": "E",
+     "text": "Quindi scegliere api locali è un modo per custodirle."
+    },
+    {
+     "who": "M",
+     "text": "Sì. Non è l'unica cosa che conta: anche la posizione dell'apiario e la cura fanno tanto. Ma è un buon inizio."
+    },
+    {
+     "who": "E",
+     "text": "Allora quando comprerò le api chiederò sempre da dove vengono."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso parliamo del regalo più grande che le api ci fanno. E non è il miele."
+    },
+    {
+     "who": "E",
+     "text": "Non è il miele? E cosa allora?"
+    },
+    {
+     "who": "M",
+     "text": "L'impollinazione. Quando l'ape va sui fiori per il nettare, si sporca di polline e lo porta al fiore dopo."
+    },
+    {
+     "who": "E",
+     "text": "E a cosa serve al fiore?"
+    },
+    {
+     "who": "M",
+     "text": "Il polline è come il seme maschile della pianta. Se arriva al fiore giusto, il fiore può diventare frutto: una mela, una ciliegia, una zucchina."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, cosa succede a un frutteto in fiore se in quei giorni non passano insetti impollinatori?"
+    },
+    {
+     "who": "E",
+     "text": "Che molti fiori non diventano frutti. Il raccolto è molto più povero."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Uno studio su 200 Paesi ha visto che molte delle principali colture alimentari hanno bisogno degli impollinatori, poco o tanto."
+    },
+    {
+     "who": "E",
+     "text": "Tutto il cibo, quindi?"
+    },
+    {
+     "who": "M",
+     "text": "No, attenzione. Grano, riso e mais vanno con il vento. Ma frutta, verdura e semi, che danno varietà e vitamine, spesso dipendono dagli insetti."
+    },
+    {
+     "who": "E",
+     "text": "E vale anche tanti soldi, immagino."
+    },
+    {
+     "who": "M",
+     "text": "Sì, un altro studio ha stimato un valore mondiale di 153 miliardi di euro in un anno. E non lavorano solo le api da miele: ci sono anche tante api selvatiche."
+    },
+    {
+     "who": "E",
+     "text": "Allora con le mie arnie aiuto anche gli orti dei vicini."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. E per questo conviene anche parlare con gli agricoltori della zona: le api e i campi stanno bene insieme."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ultima parte: come si cura una colonia con rispetto. Si parla di benessere delle api."
+    },
+    {
+     "who": "E",
+     "text": "Benessere delle api? Come per gli animali della fattoria?"
+    },
+    {
+     "who": "M",
+     "text": "Proprio. Le api stanno bene se hanno cibo, acqua pulita, un posto riparato e un apicoltore che non le disturba troppo."
+    },
+    {
+     "who": "E",
+     "text": "Quindi non devo aprire l'arnia ogni giorno per curiosità."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Ogni visita costa fatica alla colonia. Apri quando hai un motivo, lavora con calma e richiudi presto."
+    },
+    {
+     "who": "E",
+     "text": "E per le malattie? Ho sentito parlare tanto della varroa."
+    },
+    {
+     "who": "M",
+     "text": "La varroa è un acaro che succhia le api e porta virus. È il problema numero uno. Ma va affrontata con la testa."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, cosa succede se un apicoltore usa sempre lo stesso prodotto, tante volte, anche quando non serve?"
+    },
+    {
+     "who": "E",
+     "text": "Che la varroa si abitua e il prodotto non funziona più. Come gli antibiotici usati male."
+    },
+    {
+     "who": "M",
+     "text": "Brava, è proprio quello che dicono gli studi: sono nati acari resistenti. Per questo si parla di lotta integrata."
+    },
+    {
+     "who": "E",
+     "text": "Cioè?"
+    },
+    {
+     "who": "M",
+     "text": "Prima controlli quanta varroa c'è. Poi unisci più metodi: per esempio fermare per un po' la covata, togliere favi da fuco, e trattare solo se serve."
+    },
+    {
+     "who": "E",
+     "text": "E i farmaci quali sono?"
+    },
+    {
+     "who": "M",
+     "text": "Solo quelli autorizzati, con principi attivi come acido ossalico, acido formico, timolo o amitraz. Sempre seguendo l'etichetta e il veterinario. Così anche il miele resta pulito."
+    }
+   ]
+  }
+ ]
+}

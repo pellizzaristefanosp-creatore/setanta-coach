@@ -1,0 +1,619 @@
+{
+  "code": "2.1",
+  "unit": 2,
+  "title": "L'allestimento dell'apiario familiare",
+  "pages": "31–42",
+  "summary": "Impari quando iniziare, quali obblighi hai prima di prendere le api e dove trovarle. Poi scegli quanti alveari tenere, il posto giusto e come sistemarli per non confondere le api.",
+  "parts": [
+    {
+      "title": "Quando iniziare",
+      "keyPoints": [
+        "Il momento migliore è la primavera",
+        "La famiglia ha tempo di crescere prima dell'inverno",
+        "In autunno la famiglia non cresce più",
+        "L'inverno serve a studiare e prepararsi"
+      ],
+      "analogy": "È come seminare l'orto: se semini in primavera, le piante hanno tutta l'estate per crescere. Se semini a ottobre, arriva il freddo prima del raccolto.",
+      "tip": "Usa l'inverno per fare il corso, comprare l'attrezzatura e scegliere il posto. Prenota il nucleo per tempo, così in primavera arriva quando la natura si sveglia.",
+      "science": {
+        "text": "Le famiglie che muoiono d'inverno sono spesso legate alla varroa, un piccolo acaro parassita, ai virus che porta e al luogo dove vivono. Una revisione di studi spiega che arrivare all'inverno con api sane e una famiglia ben preparata è la base per superare il freddo.",
+        "source": "Döke, Frazier e Grozinger 2015, Current Opinion in Insect Science",
+        "url": "https://doi.org/10.1016/j.cois.2015.05.014"
+      },
+      "check": {
+        "question": "Qual è il periodo migliore per iniziare con le api?",
+        "options": [
+          "La primavera, quando la famiglia cresce",
+          "L'autunno, quando la famiglia riposa",
+          "L'inverno, quando la famiglia è ferma",
+          "Il fine estate, dopo l'ultimo raccolto"
+        ],
+        "answer": 0,
+        "explanation": "In primavera la famiglia ha tutta la bella stagione per diventare forte prima dell'inverno."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo di come si prepara un piccolo apiario di famiglia: quando iniziare, dove trovare le api, quante prenderne e dove metterle. Pronta?" },
+        { "who": "E", "text": "Prontissima! La prima domanda è proprio questa: quando si comincia? Io avrei voglia di partire subito." },
+        { "who": "M", "text": "La voglia è bella, ma le api hanno il loro calendario. Il momento migliore è la primavera, quando fioriscono le piante e la famiglia cresce." },
+        { "who": "E", "text": "E se prendo le api in autunno?" },
+        { "who": "M", "text": "È più difficile. In autunno la famiglia si prepara all'inverno e non cresce più. Una famiglia piccola rischia di non arrivare alla primavera." },
+        { "who": "E", "text": "Quindi in primavera hanno tutta la bella stagione per diventare forti." },
+        { "who": "M", "text": "Esatto. Secondo te, perché conta tanto arrivare all'inverno con una famiglia forte?" },
+        { "who": "E", "text": "Perché d'inverno le api stanno strette insieme per scaldarsi, e se sono poche fanno fatica?" },
+        { "who": "M", "text": "Brava. Quella palla di api si chiama glomere: tiene caldo il centro, dove sta la regina. Più api ci sono, meglio si regge il freddo." },
+        { "who": "E", "text": "Come una famiglia numerosa attorno al camino: in tanti si sta più caldi." },
+        { "who": "M", "text": "Proprio così. E c'è un altro vantaggio: in primavera impari mentre la famiglia cresce, con calma, una visita dopo l'altra." },
+        { "who": "E", "text": "Quindi mi preparo già d'inverno, e le api arrivano in primavera." },
+        { "who": "M", "text": "Perfetto. L'inverno è per studiare, comprare l'attrezzatura e scegliere il posto. In primavera arrivano le inquiline." },
+        { "who": "E", "text": "Mi piace: prima sistemo la casa, poi arrivano gli ospiti." }
+      ]
+    },
+    {
+      "title": "Prima di iniziare",
+      "keyPoints": [
+        "Un corso e un'associazione aiutano molto",
+        "Chi tiene alveari si registra nella BDA",
+        "Censimento ogni anno: 1° novembre–31 dicembre",
+        "Per le regole chiedi all'ASL o all'associazione"
+      ],
+      "analogy": "È come prendere la patente prima di guidare: prima impari con chi sa, poi ti registri, e solo dopo parti da sola.",
+      "tip": "Prima ancora di comprare le api, chiama l'ASL o l'associazione e chiedi come registrarti nella BDA. Segna sul calendario il censimento: dal 1° novembre al 31 dicembre.",
+      "science": {
+        "text": "Uno studio in 17 Paesi europei, su quasi 6.000 apiari, ha visto che gli hobbisti con pochi alveari e poca esperienza perdevano d'inverno circa il doppio delle famiglie rispetto ai professionisti. Gli autori indicano la formazione degli apicoltori come una chiave per salvare le api.",
+        "source": "Jacques et al. 2017, PLoS ONE",
+        "url": "https://doi.org/10.1371/journal.pone.0172591"
+      },
+      "check": {
+        "question": "Quando si fa il censimento annuale degli alveari?",
+        "options": [
+          "Dal 1° marzo al 30 aprile",
+          "Dal 1° giugno al 31 luglio",
+          "Dal 1° novembre al 31 dicembre",
+          "Dal 1° gennaio al 28 febbraio"
+        ],
+        "answer": 2,
+        "explanation": "Ogni anno, dal 1° novembre al 31 dicembre, si dichiarano quanti alveari hai e dove sono."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Prima di comprare anche solo un'arnia, ti consiglio tre cose: un corso, un'associazione di apicoltori e un po' di burocrazia." },
+        { "who": "E", "text": "Burocrazia anche per due alveari in giardino?" },
+        { "who": "M", "text": "Sì. In Italia chi tiene alveari deve registrarsi nell'Anagrafe apistica nazionale, una banca dati che chiamiamo BDA. Vale anche per pochi alveari di famiglia." },
+        { "who": "E", "text": "E come si fa?" },
+        { "who": "M", "text": "Di solito ci si rivolge all'ASL, cioè al servizio veterinario, oppure all'associazione, che spesso aiuta. Le procedure cambiano un po' tra le regioni, quindi chiedi sempre a loro." },
+        { "who": "E", "text": "E una volta registrata ho finito?" },
+        { "who": "M", "text": "No. Ogni anno, dal primo novembre al trentuno dicembre, si fa il censimento: dichiari quanti alveari hai e dove sono. Anche se non è cambiato niente." },
+        { "who": "E", "text": "Come la dichiarazione dei redditi, ma per le api!" },
+        { "who": "M", "text": "Più o meno! Ma secondo te, a cosa serve sapere dove sono tutti gli alveari?" },
+        { "who": "E", "text": "Forse per le malattie: se scoppia un problema in una zona, sanno chi avvisare e dove controllare." },
+        { "who": "M", "text": "Esatto. Serve a proteggere tutte le api, anche le tue. Poi c'è il corso: lì vedi mani esperte al lavoro e fai le prime domande." },
+        { "who": "E", "text": "E l'associazione a cosa mi serve?" },
+        { "who": "M", "text": "Trovi persone vicine e consigli sulla tua zona. A volte c'è un esperto che viene con te alle prime visite. Da soli si sbaglia di più." },
+        { "who": "E", "text": "Allora: corso, associazione, registrazione nella BDA e censimento ogni anno." }
+      ]
+    },
+    {
+      "title": "Come reperire le api",
+      "keyPoints": [
+        "Tre strade: nucleo, sciame, pacco d'api",
+        "Il nucleo è una famiglia piccola ma completa",
+        "Lo sciame è gratis ma di salute incerta",
+        "Meglio api locali, da un apicoltore vicino"
+      ],
+      "analogy": "È come comprare le piantine per l'orto: quelle del vivaio vicino sono già abituate al tuo clima e attecchiscono meglio di quelle arrivate da lontano.",
+      "tip": "Prima di comprare un nucleo, chiedi di vedere i favi: covata compatta, api calme, nessun cattivo odore. Se il venditore non vuole aprirlo, cerca altrove.",
+      "science": {
+        "text": "In uno studio europeo su quasi 600 famiglie, quelle con regine di origine locale sono sopravvissute in media 83 giorni in più delle altre. Le api del posto sembrano più adatte al clima e all'ambiente della loro zona, anche se il luogo dell'apiario conta ancora di più.",
+        "source": "Büchler et al. 2014, Journal of Apicultural Research",
+        "url": "https://doi.org/10.3896/IBRA.1.53.2.03"
+      },
+      "check": {
+        "question": "Che cos'è un nucleo?",
+        "options": [
+          "Una scatola di api senza nessuna regina",
+          "Una piccola famiglia completa con regina",
+          "Un gruppo di regine giovani di riserva",
+          "Un telaino vuoto da far costruire"
+        ],
+        "answer": 1,
+        "explanation": "Il nucleo ha regina, api operaie, covata e scorte su pochi telaini: una famiglia piccola ma già avviata."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Adesso la domanda vera: dove si trovano le api? Ci sono tre strade: il nucleo, lo sciame e il pacco d'api." },
+        { "who": "E", "text": "Il nucleo cos'è?" },
+        { "who": "M", "text": "È una piccola famiglia completa: la regina, le operaie e pochi telaini, cioè le cornici di legno con dentro i favi. Di solito cinque, con covata e scorte." },
+        { "who": "E", "text": "La covata sarebbe…?" },
+        { "who": "M", "text": "Uova, larve e pupe: i figli della famiglia. Se vedi covata, sai che la regina lavora." },
+        { "who": "E", "text": "E lo sciame?" },
+        { "who": "M", "text": "In primavera una famiglia si divide: la vecchia regina parte con tante api e cerca una casa nuova. Se lo raccogli hai api gratis, ma non sai da dove vengono né se sono sane." },
+        { "who": "E", "text": "E il pacco d'api?" },
+        { "who": "M", "text": "Sono api sfuse in una scatola, con la regina chiusa in una gabbietta, senza favi. Devono costruire tutto da zero." },
+        { "who": "E", "text": "Tre modi diversi. Ma io da dove parto?" },
+        { "who": "M", "text": "Secondo te, quale conviene a chi inizia?" },
+        { "who": "E", "text": "Il nucleo, perché è già una famiglia avviata e posso vedere subito regina e covata." },
+        { "who": "M", "text": "Brava. E cercalo vicino a casa, da un apicoltore serio della tua zona. Le api del posto conoscono il tuo clima." },
+        { "who": "E", "text": "Come le piantine dell'orto: quelle del vivaio vicino attecchiscono meglio." },
+        { "who": "M", "text": "Esatto. E prima di pagare chiedi di vedere i favi: covata compatta, api tranquille, nessun cattivo odore." },
+        { "who": "E", "text": "Allora: nucleo, vicino a casa, e prima di comprare guardo bene i favi." }
+      ]
+    },
+    {
+      "title": "Quanti alveari acquistare",
+      "keyPoints": [
+        "Meglio partire con due alveari, massimo tre",
+        "Due alveari si possono confrontare",
+        "Un alveare può aiutare l'altro",
+        "Pochi alveari seguiti bene, non tanti trascurati"
+      ],
+      "analogy": "È come avere due torte nel forno: se una non cresce, te ne accorgi subito guardando l'altra.",
+      "tip": "Visita i due alveari lo stesso giorno, uno dopo l'altro, e confronta covata, scorte e numero di api. Una grande differenza è un segnale da capire.",
+      "science": {
+        "text": "In un grande sondaggio COLOSS in 35 Paesi, circa 4 famiglie su 100 sono state perse d'inverno per problemi della regina che non si potevano risolvere. Le famiglie con una regina giovane avevano meno perdite. Avere un secondo alveare dà una riserva di uova per rimediare.",
+        "source": "Gray et al. 2020, Journal of Apicultural Research",
+        "url": "https://doi.org/10.1080/00218839.2020.1797272"
+      },
+      "check": {
+        "question": "Perché è meglio iniziare con due alveari invece di uno?",
+        "options": [
+          "Per raccogliere il doppio del miele",
+          "Per tenere api di due razze diverse",
+          "Per poter fare meno visite",
+          "Per confrontarli e aiutarli a vicenda"
+        ],
+        "answer": 3,
+        "explanation": "Con due alveari vedi subito se uno è strano e puoi passare un telaino dall'uno all'altro."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Quanti alveari pensi di prendere, Enrica?" },
+        { "who": "E", "text": "Uno, per cominciare. Così non mi confondo." },
+        { "who": "M", "text": "È la scelta di molti, ma io ti consiglio di partire con due. Al massimo tre." },
+        { "who": "E", "text": "Due? Non è il doppio del lavoro?" },
+        { "who": "M", "text": "Un po' di più, sì. Ma pensa: se hai un solo alveare e qualcosa non va, con chi lo confronti?" },
+        { "who": "E", "text": "Con nessuno. Non saprei se è normale o no." },
+        { "who": "M", "text": "Ecco. Con due, guardi l'uno e l'altro: se uno ha molta meno covata, ti accorgi che c'è qualcosa di strano." },
+        { "who": "E", "text": "Come due torte nel forno: se una non cresce, lo vedi subito." },
+        { "who": "M", "text": "Bello. E c'è di più. Secondo te, cosa puoi fare se una famiglia perde la regina e hai un secondo alveare?" },
+        { "who": "E", "text": "Posso prendere dal secondo un telaino con le uova, così le api si allevano una regina nuova." },
+        { "who": "M", "text": "Brava. Le api sanno trasformare un uovo o una larva giovanissima in una regina. Con un solo alveare non hai questa riserva." },
+        { "who": "E", "text": "E perché non dieci, allora?" },
+        { "who": "M", "text": "Perché all'inizio ogni visita chiede tempo e attenzione, e anche l'attrezzatura costa. Meglio pochi alveari seguiti bene che tanti trascurati. Quando avrai esperienza, potrai crescere con calma." },
+        { "who": "E", "text": "Quindi due o tre: abbastanza per confrontare e aiutarsi, pochi per imparare con calma." }
+      ]
+    },
+    {
+      "title": "Dove collocare l'apiario",
+      "keyPoints": [
+        "Sole del mattino, riparo dal vento freddo",
+        "Acqua pulita vicina, con appoggi per le api",
+        "Codice civile: 10 m da strade, 5 m da confini",
+        "Regole locali: chiedi a comune, ASL o associazione"
+      ],
+      "analogy": "È come scegliere dove mettere la cuccia del cane: un posto asciutto, al riparo dal vento, con la ciotola dell'acqua vicina e senza dare fastidio ai vicini.",
+      "tip": "Metti una vaschetta d'acqua con sassi o legnetti appena arrivano le api, prima che scoprano la piscina o la fontana del vicino.",
+      "science": {
+        "text": "Uno studio sulle famiglie d'api ha mostrato che la raccolta d'acqua aumenta quando fa caldo e serve rinfrescare il nido con l'evaporazione, e cala quando il pericolo passa. Le bottinatrici capiscono il bisogno da quanto in fretta le compagne prendono la loro acqua.",
+        "source": "Kühnholz e Seeley 1997, Behavioral Ecology and Sociobiology",
+        "url": "https://doi.org/10.1007/s002650050402"
+      },
+      "check": {
+        "question": "Secondo il codice civile, a che distanza minima dalle strade pubbliche va l'apiario?",
+        "options": ["Venti metri", "Due metri", "Cento metri", "Dieci metri"],
+        "answer": 3,
+        "explanation": "L'articolo 896-bis indica dieci metri dalle strade pubbliche e cinque dai confini. Controlla anche le regole locali."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ora scegliamo il posto. Le api vivono bene dove c'è sole, riparo e acqua." },
+        { "who": "E", "text": "Sole tutto il giorno?" },
+        { "who": "M", "text": "Meglio il sole del mattino, che le sveglia presto. Nelle estati calde un po' d'ombra al pomeriggio aiuta." },
+        { "who": "E", "text": "E il vento?" },
+        { "who": "M", "text": "Il vento freddo non piace a nessuno. Una siepe o un muretto dietro le arnie fa da scudo. E evita i fondi umidi dove ristagna la nebbia." },
+        { "who": "E", "text": "E l'acqua? Le api bevono?" },
+        { "who": "M", "text": "Eccome. Secondo te, perché d'estate le api vanno a prendere tanta acqua?" },
+        { "who": "E", "text": "Per bere? O forse per rinfrescare la casa, come quando bagno il terrazzo d'estate?" },
+        { "who": "M", "text": "La seconda è quella che conta. Spargono goccioline nell'alveare e sventolano le ali: l'acqua evapora e la casa si raffredda." },
+        { "who": "E", "text": "Un condizionatore naturale! Quindi metto una vaschetta?" },
+        { "who": "M", "text": "Sì, con sassi o legnetti dove posarsi senza annegare. Mettila subito, prima che si abituino alla piscina del vicino." },
+        { "who": "E", "text": "A proposito di vicini: ci sono distanze da rispettare?" },
+        { "who": "M", "text": "Sì. Il codice civile parla di dieci metri dalle strade pubbliche e cinque dai confini. Muri, siepi o dislivelli possono cambiare le cose, e regioni e comuni hanno regole proprie." },
+        { "who": "E", "text": "Quindi prima di decidere chiedo al comune, all'ASL o all'associazione." },
+        { "who": "M", "text": "Brava. Meglio una telefonata prima che una lite dopo. E scegli un posto dove arrivi comoda anche con i melari pieni, che pesano parecchio." }
+      ]
+    },
+    {
+      "title": "Come collocare gli alveari",
+      "keyPoints": [
+        "Deriva: api che sbagliano arnia",
+        "Con la deriva viaggiano varroa e malattie",
+        "Colori, segni, entrate girate e spazio tra arnie",
+        "Arnie su supporti, appena inclinate in avanti"
+      ],
+      "analogy": "È come una fila di villette a schiera tutte uguali: la sera, stanca, sbagli cancello. Se ogni casa ha un colore diverso, trovi subito la tua.",
+      "tip": "Dipingi un segno semplice e diverso sul davanti di ogni arnia, come un cerchio, un triangolo o una croce, e non metterle tutte in fila stretta.",
+      "science": {
+        "text": "In un esperimento, nelle arnie vicine, in fila e tutte uguali le api sbagliavano casa più di tre volte tanto. Le arnie distanziate, con colori e segni diversi, hanno avuto meno varroa nella covata, più miele e meno morti d'inverno.",
+        "source": "Dynes et al. 2019, PLoS ONE",
+        "url": "https://doi.org/10.1371/journal.pone.0216286"
+      },
+      "check": {
+        "question": "Che cos'è la deriva?",
+        "options": [
+          "Api che lasciano l'arnia con la vecchia regina",
+          "Api che restano fuori dall'arnia la notte",
+          "Api che sbagliano arnia ed entrano nella vicina",
+          "Api che rubano il miele all'arnia più debole"
+        ],
+        "answer": 2,
+        "explanation": "Le api che tornano a casa e sbagliano arnia portano con sé varroa e malattie."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ultimo passo: come sistemare le arnie una vicina all'altra. Hai mai sentito parlare di deriva?" },
+        { "who": "E", "text": "Deriva? Come una barca?" },
+        { "who": "M", "text": "Quasi. È quando un'ape, tornando a casa, sbaglia arnia ed entra in quella vicina." },
+        { "who": "E", "text": "E la fanno entrare?" },
+        { "who": "M", "text": "Spesso sì, se porta cibo. Ma così le api passano da una famiglia all'altra, e con loro viaggiano varroa e malattie." },
+        { "who": "E", "text": "Allora come aiuto le api a ritrovare la porta giusta?" },
+        { "who": "M", "text": "Secondo te, cosa confonde un'ape quando ci sono tante arnie in fila?" },
+        { "who": "E", "text": "Che sono tutte uguali! Come le villette a schiera dello stesso colore: sbaglierei cancello anch'io." },
+        { "who": "M", "text": "Esatto. Allora colori diversi, un segno sul davanti, entrate girate un po' in direzioni diverse e un po' di spazio tra un'arnia e l'altra." },
+        { "who": "E", "text": "E verso dove giro le entrate?" },
+        { "who": "M", "text": "Da noi di solito verso sud o sud-est, per prendere il sole del mattino. L'importante è non avere il vento freddo in faccia." },
+        { "who": "E", "text": "E le arnie le metto per terra?" },
+        { "who": "M", "text": "No, su un supporto o un cavalletto, alto qualche decina di centimetri: niente umidità dal suolo, e la schiena ringrazia." },
+        { "who": "E", "text": "Anche la mia schiena, quindi, non solo le api!" },
+        { "who": "M", "text": "Certo. E inclina l'arnia appena in avanti, così l'acqua della pioggia scivola fuori dall'entrata." },
+        { "who": "E", "text": "Colori diversi, entrate girate, supporto rialzato e leggera pendenza. Me lo segno!" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Qual è la stagione migliore per iniziare?", "back": "La primavera: la famiglia ha tempo di crescere prima dell'inverno.", "part": 0 },
+    { "front": "Che cos'è il glomere?", "back": "La palla di api che d'inverno tiene caldo il centro del nido.", "part": 0 },
+    { "front": "Che cos'è la BDA?", "back": "La banca dati dell'Anagrafe apistica nazionale, dove si registra chi tiene alveari.", "part": 1 },
+    { "front": "Quando si fa il censimento annuale degli alveari?", "back": "Ogni anno dal 1° novembre al 31 dicembre, anche se non è cambiato nulla.", "part": 1 },
+    { "front": "Che cos'è un nucleo?", "back": "Una piccola famiglia completa: regina, api, covata e scorte su pochi telaini.", "part": 2 },
+    { "front": "Che cos'è uno sciame?", "back": "Una parte della famiglia che parte con la vecchia regina per cercare una casa nuova.", "part": 2 },
+    { "front": "Quanti alveari per iniziare?", "back": "Due, al massimo tre: per confrontarli e aiutarli a vicenda.", "part": 3 },
+    { "front": "Quali distanze indica il codice civile?", "back": "10 metri dalle strade pubbliche e 5 dai confini. Controlla anche le regole locali.", "part": 4 },
+    { "front": "Che cos'è la deriva?", "back": "Api che, tornando a casa, sbagliano arnia ed entrano in quella vicina.", "part": 5 }
+  ],
+  "questions": [
+    {
+      "question": "Cosa fa una famiglia d'api in autunno?",
+      "options": [
+        "Si prepara all'inverno e smette di crescere",
+        "Cresce molto e prepara nuovi sciami",
+        "Costruisce tanti favi nuovi di cera",
+        "Alleva molte regine giovani di riserva"
+      ],
+      "answer": 0,
+      "explanation": "In autunno la famiglia rallenta e si prepara al freddo: per questo è tardi per iniziare.",
+      "part": 0
+    },
+    {
+      "question": "Che cos'è il glomere?",
+      "options": [
+        "Un favo pieno di miele per l'inverno",
+        "La palla di api che tiene caldo il centro",
+        "Il tappo di cera sopra le celle del miele",
+        "La gabbietta dove si trasporta la regina"
+      ],
+      "answer": 1,
+      "explanation": "D'inverno le api si stringono in una palla: più sono, meglio tengono il caldo.",
+      "part": 0
+    },
+    {
+      "question": "Chi deve registrarsi nell'Anagrafe apistica nazionale?",
+      "options": [
+        "Solo chi vende il miele nei negozi",
+        "Solo chi ha più di cinquanta alveari",
+        "Chiunque tenga alveari, anche pochi",
+        "Solo chi sposta le arnie tra regioni"
+      ],
+      "answer": 2,
+      "explanation": "Chiunque tenga alveari deve registrarli, anche per la sola famiglia.",
+      "part": 1
+    },
+    {
+      "question": "Perché esiste l'anagrafe degli alveari?",
+      "options": [
+        "Per calcolare le tasse sul miele venduto",
+        "Per sapere dove sono le api in caso di malattie",
+        "Per decidere quali fiori piantare in zona",
+        "Per contare le regine nate in ogni regione"
+      ],
+      "answer": 1,
+      "explanation": "Sapere dove sono gli alveari permette di intervenire in fretta se arriva una malattia.",
+      "part": 1
+    },
+    {
+      "question": "Cosa ha visto lo studio europeo sugli hobbisti con poca esperienza?",
+      "options": [
+        "Facevano circa il doppio del miele dei professionisti",
+        "Avevano api più calme dei professionisti",
+        "Perdevano meno famiglie dei professionisti",
+        "Perdevano d'inverno circa il doppio delle famiglie"
+      ],
+      "answer": 3,
+      "explanation": "Pochi alveari e poca esperienza: perdite invernali circa doppie. Per questo la formazione conta.",
+      "part": 1
+    },
+    {
+      "question": "Che cos'è la covata?",
+      "options": [
+        "Uova, larve e pupe della famiglia",
+        "Il miele chiuso sotto la cera",
+        "Il polline messo nelle celle",
+        "Le api giovani che puliscono"
+      ],
+      "answer": 0,
+      "explanation": "La covata sono i figli della famiglia: se c'è, la regina sta deponendo.",
+      "part": 2
+    },
+    {
+      "question": "Cosa c'è in un pacco d'api?",
+      "options": [
+        "Cinque telaini con covata e scorte",
+        "Api sfuse e una regina in gabbietta",
+        "Solo api operaie senza nessuna regina",
+        "Favi pieni di miele ma senza le api"
+      ],
+      "answer": 1,
+      "explanation": "Il pacco non ha favi: le api devono costruire tutto da zero.",
+      "part": 2
+    },
+    {
+      "question": "Perché conviene comprare api della propria zona?",
+      "options": [
+        "Perché costano sempre la metà",
+        "Perché non pungono mai nessuno",
+        "Perché sono adatte al clima del posto",
+        "Perché fanno solo miele d'acacia"
+      ],
+      "answer": 2,
+      "explanation": "In uno studio europeo le famiglie con regine locali sono durate di più.",
+      "part": 2
+    },
+    {
+      "question": "Se una famiglia perde la regina, come la aiuta il secondo alveare?",
+      "options": [
+        "Le dai un telaino pieno di miele",
+        "Le sposti metà delle api adulte",
+        "Le dai un telaino di cera vuota",
+        "Le dai un telaino con uova giovani"
+      ],
+      "answer": 3,
+      "explanation": "Da un uovo o da una larva giovanissima le api possono allevare una regina nuova.",
+      "part": 3
+    },
+    {
+      "question": "Perché le api raccolgono tanta acqua d'estate?",
+      "options": [
+        "Per rinfrescare l'alveare con l'evaporazione",
+        "Per lavare le celle prima della covata",
+        "Per produrre la cera nelle loro ghiandole",
+        "Per sciogliere lo zucchero dei fiori"
+      ],
+      "answer": 0,
+      "explanation": "Spargono goccioline e sventolano le ali: l'acqua evapora e il nido si raffredda.",
+      "part": 4
+    },
+    {
+      "question": "A che distanza minima dai confini va l'apiario, per il codice civile?",
+      "options": ["Due metri", "Dieci metri", "Cinque metri", "Cento metri"],
+      "answer": 2,
+      "explanation": "Cinque metri dai confini e dieci dalle strade pubbliche, salvo ripari o regole locali.",
+      "part": 4
+    },
+    {
+      "question": "Quale accorgimento riduce la deriva tra le arnie?",
+      "options": [
+        "Metterle in fila vicine e tutte uguali",
+        "Dipingerle di colori e segni diversi",
+        "Chiudere le entrate durante il giorno",
+        "Toglierle dal supporto e metterle a terra"
+      ],
+      "answer": 1,
+      "explanation": "Colori e segni diversi aiutano le api a riconoscere la propria casa.",
+      "part": 5
+    },
+    {
+      "question": "Perché l'arnia va inclinata appena in avanti?",
+      "options": [
+        "Perché le api escano più in fretta",
+        "Perché il sole entri dentro l'arnia",
+        "Perché la regina resti in fondo all'arnia",
+        "Perché la pioggia scivoli fuori dall'entrata"
+      ],
+      "answer": 3,
+      "explanation": "Una leggera pendenza fa uscire l'acqua invece di farla ristagnare sul fondo.",
+      "part": 5
+    }
+  ],
+  "exercises": [
+    {
+      "title": "La piscina del vicino",
+      "prompt": "«Il tuo vicino si lamenta: d'estate le tue api vanno a bere nella sua piscina.» Cosa fai?",
+      "modelAnswer": "Prima di tutto ascolto il vicino con gentilezza: ha ragione a essere infastidito. Le api hanno bisogno di tanta acqua d'estate, anche per rinfrescare l'alveare. Metto subito una vaschetta d'acqua vicino alle arnie, con sassi o legnetti dove possano posarsi senza annegare, e la tengo sempre piena. Le api si sono già abituate alla piscina, quindi ci vorrà qualche giorno perché cambino abitudine. Il prossimo anno la metterò appena arrivano le api, prima che scoprano altre fonti. Se il problema resta, chiedo consiglio all'associazione."
+    },
+    {
+      "title": "Tre arnie in fila",
+      "prompt": "«Hai tre arnie bianche, in fila, a mezzo metro l'una dall'altra, con le entrate verso nord. Una famiglia è fortissima e le altre due sono deboli.» Cosa fai?",
+      "modelAnswer": "Penso subito alla deriva: arnie uguali, vicine e in fila confondono le api, che possono finire tutte nella stessa casa. Così una famiglia cresce troppo e le altre si svuotano, e varroa e malattie passano dall'una all'altra. Quando è il momento giusto, distanzio un po' le arnie, dipingo un segno diverso sul davanti di ognuna e giro le entrate in direzioni un po' diverse, verso sud o sud-est, lontano dal vento freddo. Le metto su supporti rialzati e leggermente inclinate in avanti. Spostare le arnie va fatto con criterio, quindi chiedo prima all'associazione come procedere."
+    },
+    {
+      "title": "Un nucleo da lontano",
+      "prompt": "«Trovi un annuncio: un nucleo a buon prezzo, a 300 km da casa, da ritirare senza poter vedere i favi.» Cosa fai?",
+      "modelAnswer": "Non mi lascio tentare dal prezzo. Preferisco un nucleo da un apicoltore serio della mia zona: le api locali sono più adatte al clima, e in uno studio europeo le famiglie con regine locali sono durate di più. Soprattutto voglio vedere i favi prima di comprare: covata compatta, api calme, regina o uova presenti, nessun cattivo odore. Un venditore che non apre il nucleo mi fa venire dubbi. Chiedo consiglio all'associazione, e prima dell'arrivo delle api mi registro nella BDA tramite l'ASL."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Il primo anno da apicoltrice",
+        "steps": [
+          "In inverno segui un corso e studia",
+          "Prima delle api, chiedi all'ASL di registrarti",
+          "Prepara il posto con supporti e acqua",
+          "In primavera porta a casa il nucleo",
+          "Tra novembre e dicembre fai il censimento"
+        ],
+        "part": 1
+      },
+      {
+        "title": "Sistemare un'arnia nell'apiario",
+        "steps": [
+          "Scegli un punto soleggiato e riparato",
+          "Fissa bene il supporto sul terreno",
+          "Appoggia l'arnia sopra il supporto",
+          "Metti uno spessore dietro per inclinarla avanti"
+        ],
+        "part": 5
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Arrivo in primavera e a volte mi trovi su un ramo",
+          "Con me viaggia la vecchia regina",
+          "Mi raccogli con una scatola e mi dai una casa"
+        ],
+        "answer": "Lo sciame",
+        "distractors": ["Il nucleo", "Il glomere", "Il pacco"],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Conservo i dati di chi tiene alveari",
+          "Mi aggiorni ogni anno tra novembre e dicembre",
+          "Il mio nome intero parla di anagrafe apistica"
+        ],
+        "answer": "La BDA",
+        "distractors": ["L'ASL", "La Regione", "La Provincia"],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Ti permetto di fare confronti",
+          "Se l'altra famiglia resta senza regina, le posso dare uova",
+          "Sono il motivo per non partire con uno solo"
+        ],
+        "answer": "Il secondo alveare",
+        "distractors": ["Il primo sciame", "Il vecchio nucleo", "Il favo di riserva"],
+        "part": 3
+      },
+      {
+        "clues": [
+          "D'estate le api mi visitano di continuo",
+          "Con sassi e legnetti dentro, nessuna annega",
+          "Grazie a me il vicino salva la sua piscina"
+        ],
+        "answer": "La vaschetta d'acqua",
+        "distractors": ["La siepe frangivento", "La cassetta dei telaini", "La tettoia di legno"],
+        "part": 4
+      },
+      {
+        "clues": [
+          "Tengo lontana l'umidità del terreno",
+          "Ti risparmio un po' di mal di schiena",
+          "Sopra di me appoggi l'arnia"
+        ],
+        "answer": "Il cavalletto",
+        "distractors": ["Il coprifavo", "Il melario", "Il fondo"],
+        "part": 5
+      }
+    ],
+    "truefalse": [
+      { "text": "In autunno una famiglia piccola cresce in fretta prima del freddo.", "true": false, "why": "In autunno la famiglia si prepara all'inverno e non cresce più.", "part": 0 },
+      { "text": "Nel glomere le api si stringono per tenere caldo il centro.", "true": true, "why": "Più api ci sono nel glomere, meglio la famiglia regge il freddo.", "part": 0 },
+      { "text": "Chi ha solo due alveari per la famiglia non deve registrarli.", "true": false, "why": "Chiunque tenga alveari deve registrarli nell'Anagrafe apistica nazionale.", "part": 1 },
+      { "text": "Il censimento annuale va fatto anche se non è cambiato nulla.", "true": true, "why": "Ogni anno, dal 1° novembre al 31 dicembre, si confermano o aggiornano i dati.", "part": 1 },
+      { "text": "Un nucleo contiene già una regina e un po' di covata.", "true": true, "why": "È una famiglia piccola ma completa, su pochi telaini.", "part": 2 },
+      { "text": "Il pacco d'api arriva con cinque favi già costruiti.", "true": false, "why": "Arriva con api sfuse e regina in gabbietta, senza favi.", "part": 2 },
+      { "text": "In uno studio europeo le famiglie con regine locali sono durate di più.", "true": true, "why": "In media 83 giorni in più rispetto alle regine di altre origini.", "part": 2 },
+      { "text": "Con un solo alveare è più facile capire se qualcosa non va.", "true": false, "why": "Senza un secondo alveare non hai nulla con cui confrontarlo.", "part": 3 },
+      { "text": "Il codice civile indica dieci metri tra apiario e strade pubbliche.", "true": true, "why": "E cinque dai confini; ripari e regole locali possono cambiare le cose.", "part": 4 },
+      { "text": "Le api usano l'acqua anche per rinfrescare l'alveare.", "true": true, "why": "L'acqua sparsa nel nido evapora e abbassa la temperatura.", "part": 4 },
+      { "text": "La deriva aiuta a tenere separate varroa e malattie.", "true": false, "why": "Le api che sbagliano casa portano varroa e malattie da un'arnia all'altra.", "part": 5 },
+      { "text": "Arnie tutte uguali e in fila stretta aumentano la deriva.", "true": true, "why": "Le api faticano a riconoscere la propria casa e sbagliano entrata.", "part": 5 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 6,
+      "question": "Perché conta arrivare all'inverno con una famiglia forte?",
+      "options": [
+        "Perché tante api stanno più calde nel glomere",
+        "Perché le api forti non mangiano d'inverno",
+        "Perché le api forti escono anche con la neve",
+        "Perché tante api fanno più miele d'inverno"
+      ],
+      "answer": 0,
+      "why": "D'inverno le api si stringono nel glomere: più sono, meglio tengono caldo il centro."
+    },
+    {
+      "part": 1,
+      "line": 8,
+      "question": "A cosa serve sapere dove sono tutti gli alveari?",
+      "options": [
+        "A riscuotere una tassa su ogni arnia",
+        "A scegliere i fiori da piantare in zona",
+        "A intervenire in fretta se c'è una malattia",
+        "A contare quanto miele fa ogni regione"
+      ],
+      "answer": 2,
+      "why": "Se scoppia una malattia, si sa subito chi avvisare e dove controllare."
+    },
+    {
+      "part": 2,
+      "line": 10,
+      "question": "Quale modo di avere le api conviene a chi inizia?",
+      "options": [
+        "Il pacco d'api, che arriva senza favi",
+        "Lo sciame raccolto, che non costa nulla",
+        "Un'arnia vuota da far occupare a uno sciame",
+        "Il nucleo, già avviato con regina e covata"
+      ],
+      "answer": 3,
+      "why": "Il nucleo è una famiglia già avviata: vedi subito regina, covata e scorte."
+    },
+    {
+      "part": 3,
+      "line": 8,
+      "question": "Cosa fai se una famiglia resta senza regina e hai un secondo alveare?",
+      "options": [
+        "Le dai un telaino con uova dall'altro alveare",
+        "Le dai un telaino di miele dall'altro alveare",
+        "Unisci subito le due famiglie in una sola",
+        "Aspetti la primavera senza fare niente"
+      ],
+      "answer": 0,
+      "why": "Da un uovo o da una larva giovanissima le api allevano una regina nuova."
+    },
+    {
+      "part": 4,
+      "line": 6,
+      "question": "Perché d'estate le api raccolgono tanta acqua?",
+      "options": [
+        "Per lavare il fondo dell'arnia ogni sera",
+        "Per rinfrescare la casa facendola evaporare",
+        "Per fare il miele più liquido da vendere",
+        "Per bere soltanto, come facciamo noi"
+      ],
+      "answer": 1,
+      "why": "Spargono goccioline e sventolano le ali: l'acqua evapora e l'alveare si raffredda."
+    },
+    {
+      "part": 5,
+      "line": 6,
+      "question": "Cosa confonde un'ape davanti a tante arnie in fila?",
+      "options": [
+        "Che hanno le entrate troppo strette",
+        "Che sono troppo lontane tra loro",
+        "Che sono tutte uguali e vicine",
+        "Che sono alzate da terra"
+      ],
+      "answer": 2,
+      "why": "Arnie uguali e vicine si somigliano troppo: l'ape sbaglia casa, come noi tra villette identiche."
+    }
+  ]
+}

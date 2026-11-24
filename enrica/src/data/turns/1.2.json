@@ -1,0 +1,70 @@
+{
+ "code": "1.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 9,
+   "question": "Perché le nutrici stanno sopra la covata anche quando non la nutrono?",
+   "options": [
+    "Per nasconderla dalla regina",
+    "Per tenerla al caldo",
+    "Per proteggerla dai fuchi",
+    "Per chiudere le celle"
+   ],
+   "answer": 1,
+   "why": "Le api scaldano la covata come una chioccia sulle uova: deve restare intorno ai 35 gradi."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Senza regina, quali larve usano le api per farne una nuova?",
+   "options": [
+    "Le larve di fuco più grandi",
+    "Le larve femmine già vecchie",
+    "Le larve femmine giovanissime",
+    "Le pupe già opercolate"
+   ],
+   "answer": 2,
+   "why": "Solo le larve femmine di pochi giorni hanno mangiato soltanto pappa reale e possono ancora diventare regine."
+  },
+  {
+   "part": 2,
+   "line": 5,
+   "question": "Come fanno le api a scaldarsi d'inverno senza una stufa?",
+   "options": [
+    "Facendo vibrare i muscoli del volo",
+    "Volando in cerchio dentro l'arnia",
+    "Chiudendo tutte le celle di cera",
+    "Mangiando polline appena raccolto"
+   ],
+   "answer": 0,
+   "why": "Tengono le ali ferme e fanno tremare i muscoli del torace, come noi quando tremiamo dal freddo."
+  },
+  {
+   "part": 3,
+   "line": 7,
+   "question": "Come sceglie lo sciame appeso a un ramo la sua nuova casa?",
+   "options": [
+    "Segue la prima ape che vola via",
+    "Aspetta che l'apicoltore lo prenda",
+    "Torna nella vecchia arnia vuota",
+    "Manda esploratrici e poi sceglie"
+   ],
+   "answer": 3,
+   "why": "Le esploratrici visitano le cavità, tornano e danzano per il posto trovato: alla fine il gruppo sceglie il migliore."
+  },
+  {
+   "part": 4,
+   "line": 7,
+   "question": "Che cosa serve alle api d'autunno per fare tante riserve?",
+   "options": [
+    "Molto spazio vuoto nell'arnia",
+    "Cibo buono, polline, e tempo",
+    "Tanti fuchi che le scaldino",
+    "Una regina nuova ogni anno"
+   ],
+   "answer": 1,
+   "why": "Il polline dà le proteine; con cibo abbondante e tempo prima del freddo, le api diventano api d'inverno longeve."
+  }
+ ]
+}

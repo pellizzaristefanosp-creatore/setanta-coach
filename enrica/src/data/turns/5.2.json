@@ -1,0 +1,70 @@
+{
+ "code": "5.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 4,
+   "question": "A cosa serve il polline alle api nutrici?",
+   "options": [
+    "A costruire la cera dei favi nuovi",
+    "A fare la pappa per nutrire le larve",
+    "A chiudere le cellette del miele",
+    "A tenere lontane le api ladre"
+   ],
+   "answer": 1,
+   "why": "Le nutrici hanno nella testa ghiandole che producono la pappa: per farle lavorare devono mangiare tanto polline."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Perché è meglio avere intorno tante piante diverse?",
+   "options": [
+    "Perché le api fanno meno fatica a volare",
+    "Perché così il miele diventa sempre chiaro",
+    "Perché le api trovano polline in ogni stagione",
+    "Perché tante piante tengono lontane le vespe"
+   ],
+   "answer": 2,
+   "why": "Fioriture diverse si danno il cambio nell'anno e danno pollini diversi: più continuità e una dieta più varia."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Cosa succede alla polvere di polline se l'ape la bagna un poco?",
+   "options": [
+    "Diventa subito miele dolce e liquido",
+    "Si scioglie e scivola via dalle zampe",
+    "Cambia colore e diventa tutta bianca",
+    "Si attacca insieme e forma una pallina"
+   ],
+   "answer": 3,
+   "why": "Con nettare e saliva la polvere si compatta in una pallottola, facile da portare nelle cestelle."
+  },
+  {
+   "part": 3,
+   "line": 4,
+   "question": "Cosa succede alla famiglia se le togli troppo polline?",
+   "options": [
+    "Le nutrici restano senza cibo e la covata cala",
+    "Le api fanno più miele per compensare",
+    "La regina vola via con metà delle api",
+    "Le api costruiscono subito celle reali"
+   ],
+   "answer": 0,
+   "why": "Il polline serve alle nutrici per la pappa: se ne manca, la famiglia alleva meno covata."
+  },
+  {
+   "part": 4,
+   "line": 0,
+   "question": "Perché il polline appena raccolto è delicato?",
+   "options": [
+    "Perché perde il colore alla luce del sole",
+    "Perché è ancora umido e fa presto la muffa",
+    "Perché diventa duro come un sasso in un'ora",
+    "Perché attira subito le api di tutta la zona"
+   ],
+   "answer": 1,
+   "why": "Il polline fresco contiene ancora acqua: lasciato all'aria ammuffisce o si riempie di parassiti in pochi giorni."
+  }
+ ]
+}

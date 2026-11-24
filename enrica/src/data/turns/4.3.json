@@ -1,0 +1,70 @@
+{
+ "code": "4.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Cosa fanno le api mentre raccolgono il nettare in un frutteto?",
+   "options": [
+    "Mangiano le foglie malate degli alberi",
+    "Tengono lontani gli insetti dannosi",
+    "Bevono la rugiada sulle foglie",
+    "Portano il polline da un fiore all'altro"
+   ],
+   "answer": 3,
+   "why": "È l'impollinazione: il polline passa da fiore a fiore e i fiori diventano frutti."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Il viaggio fa bene o male alle api?",
+   "options": [
+    "Le rende più forti contro la varroa",
+    "Non cambia niente, dormono tutto il tempo",
+    "Le stanca: sono chiuse, scosse e al caldo",
+    "Le fa diventare più buone e tranquille"
+   ],
+   "answer": 2,
+   "why": "Le api nomadi vivono un po' meno; un posto ricco di fiori le aiuta a recuperare."
+  },
+  {
+   "part": 2,
+   "line": 6,
+   "question": "Cosa succede in un'arnia chiusa e piena di api agitate d'estate?",
+   "options": [
+    "Si scalda tanto e le api rischiano di soffocare",
+    "Le api si addormentano subito per il buio",
+    "La cera diventa dura e si rompe",
+    "La regina smette di deporre per sempre"
+   ],
+   "answer": 0,
+   "why": "Il caldo è il nemico numero uno del trasporto: servono reti di ventilazione e niente soste al sole."
+  },
+  {
+   "part": 3,
+   "line": 2,
+   "question": "Cosa succede se in un posto con cento arnie ne porti altre cento?",
+   "options": [
+    "Le api fanno più miele tutte insieme",
+    "Le api si dividono gli stessi fiori",
+    "Le api cambiano colore per riconoscersi",
+    "Le api smettono di pungere per giorni"
+   ],
+   "answer": 1,
+   "why": "I fiori di una zona sono limitati: con il doppio delle arnie tutti raccolgono meno."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Perché lo Stato vuole sapere dove sono le api?",
+   "options": [
+    "Per contare il miele e mettere più tasse",
+    "Per decidere dove piantare nuovi alberi",
+    "Per vietare le api vicino alle città",
+    "Per sapere dove intervenire con le malattie"
+   ],
+   "answer": 3,
+   "why": "Se scoppia una malattia o arriva un parassita, i veterinari devono sapere subito quali apiari controllare."
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "code": "5.6",
+ "order": [
+  {
+   "title": "Dalla scaglietta al favo",
+   "steps": [
+    "L'ape giovane mangia miele o nettare",
+    "Le ghiandole sotto l'addome producono cera",
+    "La cera indurisce in scagliette",
+    "L'ape mastica la scaglietta per ammorbidirla",
+    "Le api in festone costruiscono le celle",
+    "Le celle rotonde diventano esagoni"
+   ],
+   "slide": 2
+  },
+  {
+   "title": "Usare la sceratrice solare",
+   "steps": [
+    "Separa gli opercoli dai favi vecchi",
+    "Metti la cera sul piano inclinato",
+    "Chiudi bene la cassa col vetro",
+    "Orienta la sceratrice verso il sole",
+    "Raccogli il panetto dalla vaschetta"
+   ],
+   "slide": 4
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Ho sei lati uguali",
+    "Non lascio spazi vuoti con le vicine",
+    "Sono la forma delle celle del favo"
+   ],
+   "answer": "L'esagono",
+   "distractors": [
+    "Il quadrato",
+    "Il triangolo",
+    "Il pentagono"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Lavoro con il calore del sole",
+    "Ho un vetro sopra e una vaschetta sotto",
+    "Con me sciogli la cera senza fiamma"
+   ],
+   "answer": "La sceratrice solare",
+   "distractors": [
+    "La smielatrice",
+    "La sceratrice a vapore",
+    "La disopercolatrice"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Vengo dal petrolio",
+    "Costo meno della cera d'api",
+    "Qualcuno mi mescola alla cera per truffa"
+   ],
+   "answer": "La paraffina",
+   "distractors": [
+    "La propoli",
+    "La resina",
+    "La lanolina"
+   ],
+   "slide": 7
+  },
+  {
+   "clues": [
+    "Sono tappini di cera nuova",
+    "Chiudo le celle piene di miele",
+    "Do la cera più chiara"
+   ],
+   "answer": "Gli opercoli",
+   "distractors": [
+    "I bozzoli",
+    "I festoni",
+    "I telaini"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Sono una malattia grave della covata",
+    "Le mie spore restano nella cera per decenni",
+    "Se mi sospetti, chiami l'ASL"
+   ],
+   "answer": "La peste americana",
+   "distractors": [
+    "La peste europea",
+    "La covata calcificata",
+    "La nosemiasi"
+   ],
+   "slide": 5
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Le celle del favo sono esagoni su tutte e due le facce.",
+   "true": true,
+   "why": "Dalla parete centrale partono celle esagonali da entrambe le parti.",
+   "slide": 1
+  },
+  {
+   "text": "Le celle dei fuchi sono più piccole di quelle delle operaie.",
+   "true": false,
+   "why": "I fuchi sono più grossi: le loro celle sono più grandi.",
+   "slide": 1
+  },
+  {
+   "text": "La cera esce da ghiandole nella testa dell'ape.",
+   "true": false,
+   "why": "Esce da quattro paia di ghiandole sotto l'addome.",
+   "slide": 2
+  },
+  {
+   "text": "Per produrre cera le api consumano tanto miele o nettare.",
+   "true": true,
+   "why": "Fare cera costa molta energia.",
+   "slide": 2
+  },
+  {
+   "text": "La cera d'api fonde intorno ai 62–64 °C.",
+   "true": true,
+   "why": "È molto meno della temperatura dell'acqua che bolle.",
+   "slide": 3
+  },
+  {
+   "text": "I favi vecchi sono scuri per i bozzoli delle api nate.",
+   "true": true,
+   "why": "Ogni nascita lascia nella cella una pellicina sottile.",
+   "slide": 3
+  },
+  {
+   "text": "Sciogliere la cera sulla fiamma diretta è sicuro.",
+   "true": false,
+   "why": "La cera calda prende fuoco facilmente.",
+   "slide": 4
+  },
+  {
+   "text": "La sceratrice solare scioglie la cera con il calore del sole.",
+   "true": true,
+   "why": "Il vetro trattiene il calore e la cera cola nella vaschetta.",
+   "slide": 4
+  },
+  {
+   "text": "La sceratrice solare uccide le spore della peste americana.",
+   "true": false,
+   "why": "Le spore resistono al calore: servono metodi speciali.",
+   "slide": 5
+  },
+  {
+   "text": "La cera può trattenere residui dei trattamenti contro la varroa.",
+   "true": true,
+   "why": "Uno studio li ha trovati in quasi tutti i favi analizzati.",
+   "slide": 6
+  },
+  {
+   "text": "La stearina nei fogli cerei è sempre innocua per la covata.",
+   "true": false,
+   "why": "Oltre certe quantità può danneggiare la covata, secondo l'EFSA.",
+   "slide": 7
+  },
+  {
+   "text": "Paraffina e stearina costano meno della cera d'api.",
+   "true": true,
+   "why": "Per questo qualcuno le aggiunge alla cera.",
+   "slide": 7
+  }
+ ]
+}

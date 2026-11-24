@@ -1,0 +1,143 @@
+{
+ "code": "4.2",
+ "order": [
+  {
+   "title": "Preparare e dare lo sciroppo",
+   "steps": [
+    "Pesa lo zucchero bianco e l'acqua",
+    "Scalda l'acqua senza farla bollire",
+    "Sciogli lo zucchero mescolando",
+    "Lascia raffreddare lo sciroppo",
+    "Riempi il nutritore e capovolgilo sul secchio",
+    "Di sera, mettilo sul foro del coprifavo"
+   ],
+   "slide": 1
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Lavoro grazie al vuoto, senza motore",
+    "Ho il coperchio pieno di forellini",
+    "Mi capovolgi sopra il coprifavo"
+   ],
+   "answer": "Il nutritore a goccia",
+   "distractors": [
+    "Il riduttore di porticina",
+    "L'escludiregina",
+    "Il coprifavo"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Non porto umidità nell'arnia",
+    "Mi usi soprattutto d'inverno",
+    "Sono una pasta solida di zucchero"
+   ],
+   "answer": "Il candito",
+   "distractors": [
+    "Lo sciroppo",
+    "Il polline",
+    "Il nettare"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Porto proteine, grassi e vitamine",
+    "Senza di me non c'è covata",
+    "Arrivo all'arnia in palline colorate sulle zampe"
+   ],
+   "answer": "Il polline",
+   "distractors": [
+    "Il nettare",
+    "Lo zucchero",
+    "Il candito"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Quando ci sono io, niente sciroppo",
+    "Raccolgo il miele che porterai a casa",
+    "Sono la cassetta sopra il nido"
+   ],
+   "answer": "Il melario",
+   "distractors": [
+    "Il nido",
+    "Il coprifavo",
+    "Il fondo"
+   ],
+   "slide": 4
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Lo sciroppo 1:1 stimola la regina a deporre.",
+   "true": true,
+   "why": "È leggero come il nettare e imita una fioritura.",
+   "slide": 1
+  },
+  {
+   "text": "Lo sciroppo va fatto bollire a lungo per renderlo sicuro.",
+   "true": false,
+   "why": "Il calore forma l'HMF, che fa male alle api.",
+   "slide": 1
+  },
+  {
+   "text": "Lo zucchero di canna scuro è il migliore per le api.",
+   "true": false,
+   "why": "Contiene sostanze che le api digeriscono male: meglio lo zucchero bianco.",
+   "slide": 1
+  },
+  {
+   "text": "Il nutritore a goccia funziona grazie al vuoto.",
+   "true": true,
+   "why": "Senza aria dentro, lo sciroppo esce solo a gocce.",
+   "slide": 2
+  },
+  {
+   "text": "Il nutritore a goccia si mette davanti all'entrata.",
+   "true": false,
+   "why": "Va sopra il foro del coprifavo, dentro l'arnia chiusa.",
+   "slide": 2
+  },
+  {
+   "text": "D'inverno si preferisce il candito allo sciroppo.",
+   "true": true,
+   "why": "È asciutto e non porta umidità al glomere.",
+   "slide": 3
+  },
+  {
+   "text": "Il miele comprato è sempre sicuro per nutrire le api.",
+   "true": false,
+   "why": "Può contenere spore di peste americana.",
+   "slide": 3
+  },
+  {
+   "text": "Si può dare sciroppo mentre c'è il melario sopra.",
+   "true": false,
+   "why": "Lo sciroppo finirebbe nel miele da raccogliere.",
+   "slide": 4
+  },
+  {
+   "text": "Sollevare l'arnia da dietro aiuta a capire le scorte.",
+   "true": true,
+   "why": "Un'arnia leggera ha poco miele.",
+   "slide": 4
+  },
+  {
+   "text": "Senza polline le api non possono allevare la covata.",
+   "true": true,
+   "why": "Il polline dà le proteine per la pappa delle larve.",
+   "slide": 5
+  },
+  {
+   "text": "I sostituti valgono sempre quanto il polline vero.",
+   "true": false,
+   "why": "Gli studi danno risultati misti: il polline naturale ha più nutrienti.",
+   "slide": 5
+  }
+ ]
+}

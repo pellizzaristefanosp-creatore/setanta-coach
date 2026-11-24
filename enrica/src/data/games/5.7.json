@@ -1,0 +1,175 @@
+{
+ "code": "5.7",
+ "order": [
+  {
+   "title": "Dopo una puntura in apiario",
+   "steps": [
+    "Togli subito il pungiglione",
+    "Allontanati con calma dall'arnia",
+    "Affumica il punto della puntura",
+    "Lava la zona e metti del freddo",
+    "Controlla i segni nei minuti dopo",
+    "Se il respiro è difficile chiama il 112"
+   ],
+   "slide": 4
+  },
+  {
+   "title": "Raccogliere veleno con il raccoglitore elettrico",
+   "steps": [
+    "Metti il raccoglitore all'ingresso dell'arnia",
+    "Accendi impulsi elettrici leggeri",
+    "Le api pungono la pellicola sul vetro",
+    "Il veleno si secca sulla lastra",
+    "Raschia la polvere con mascherina e guanti",
+    "Conservala al buio, al fresco e all'asciutto"
+   ],
+   "slide": 5
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Sono il componente più abbondante del veleno",
+    "Rompo le membrane delle cellule",
+    "Sono la causa principale del dolore"
+   ],
+   "answer": "La melittina",
+   "distractors": [
+    "L'apamina",
+    "La fosfolipasi",
+    "La ialuronidasi"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Nasco da un organo per deporre uova",
+    "Ho piccoli uncini rivolti all'indietro",
+    "Resto nella pelle dopo la puntura"
+   ],
+   "answer": "Il pungiglione",
+   "distractors": [
+    "L'addome",
+    "Il torace",
+    "Il femore"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Mi trovi all'ingresso o sopra i telaini",
+    "Do impulsi elettrici leggeri",
+    "Raccolgo veleno su una lastra di vetro"
+   ],
+   "answer": "Il raccoglitore elettrico",
+   "distractors": [
+    "L'escludiregina",
+    "Il nutritore a tasca",
+    "Il fumigatore manuale"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Sono un numero da ricordare",
+    "Mi chiami se il respiro si fa difficile",
+    "Rispondo sempre, giorno e notte"
+   ],
+   "answer": "Il 112",
+   "distractors": [
+    "Il 118",
+    "Il 113",
+    "Il 115"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mi fa lo specialista",
+    "Uso veleno purificato a piccole dosi",
+    "Prevengo nuove reazioni allergiche"
+   ],
+   "answer": "L'immunoterapia",
+   "distractors": [
+    "L'apiterapia",
+    "L'agopuntura",
+    "L'aromaterapia"
+   ],
+   "slide": 6
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Anche i fuchi possono pungere.",
+   "true": false,
+   "why": "I fuchi non hanno il pungiglione: pungono solo le femmine.",
+   "slide": 1
+  },
+  {
+   "text": "Dopo una puntura l'odore d'allarme richiama altre api.",
+   "true": true,
+   "why": "Il pungiglione libera sostanze volatili che rendono aggressive le compagne.",
+   "slide": 1
+  },
+  {
+   "text": "La melittina è circa metà del veleno secco.",
+   "true": true,
+   "why": "Forma circa dal 40 al 60% del veleno secco.",
+   "slide": 2
+  },
+  {
+   "text": "Il veleno d'ape non contiene proteine.",
+   "true": false,
+   "why": "Contiene enzimi e peptidi; alcune proteine causano le allergie.",
+   "slide": 2
+  },
+  {
+   "text": "Un risultato in provetta dimostra una cura per le persone.",
+   "true": false,
+   "why": "In provetta non è come nel corpo: il veleno non è una cura provata.",
+   "slide": 3
+  },
+  {
+   "text": "Chi ha fatto punture volontarie senza problemi è al sicuro.",
+   "true": false,
+   "why": "L'allergia può arrivare all'improvviso, anche dopo tante sedute.",
+   "slide": 3
+  },
+  {
+   "text": "Il pungiglione va tolto il più in fretta possibile.",
+   "true": true,
+   "why": "La sacca continua a pompare veleno finché resta nella pelle.",
+   "slide": 4
+  },
+  {
+   "text": "Bisogna sempre grattare il pungiglione e mai pizzicarlo.",
+   "true": false,
+   "why": "Uno studio ha visto che i due metodi si equivalgono: conta la velocità.",
+   "slide": 4
+  },
+  {
+   "text": "Gonfiore della gola dopo una puntura richiede il 112.",
+   "true": true,
+   "why": "È un segno di reazione allergica grave.",
+   "slide": 4
+  },
+  {
+   "text": "Nel raccoglitore elettrico le api di solito non muoiono.",
+   "true": true,
+   "why": "Il vetro non trattiene gli uncini come la pelle.",
+   "slide": 5
+  },
+  {
+   "text": "Raccogliere veleno non ha nessun effetto sulla famiglia.",
+   "true": false,
+   "why": "Le api si innervosiscono e le ghiandole della pappa possono ridursi.",
+   "slide": 5
+  },
+  {
+   "text": "Esiste una cura con veleno purificato contro l'allergia alle punture.",
+   "true": true,
+   "why": "È l'immunoterapia, fatta dallo specialista.",
+   "slide": 6
+  }
+ ]
+}

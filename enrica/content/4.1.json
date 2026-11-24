@@ -1,0 +1,512 @@
+{
+  "code": "4.1",
+  "unit": 4,
+  "title": "Il saccheggio",
+  "pages": "125–132",
+  "summary": "Impari cos'è il saccheggio, cioè quando le api di una famiglia rubano il miele a un'altra. Vedi come riconoscerlo, perché succede, come prevenirlo e cosa fare se è già in corso.",
+  "parts": [
+    {
+      "title": "Una questione genetica",
+      "keyPoints": [
+        "Raccogliere cose dolci è un istinto di tutte le api",
+        "Rubare costa meno fatica che visitare mille fiori",
+        "Il carattere della famiglia dipende molto dalla regina",
+        "Anche fame e ambiente cambiano il comportamento"
+      ],
+      "analogy": "È come lasciare una torta sul davanzale: il profumo attira anche i vicini più educati, perché la golosità è nella loro natura.",
+      "tip": "Segna sul quaderno quali famiglie vanno spesso a curiosare nelle arnie vicine. Se sono sempre le stesse, chiedi alla tua associazione una regina di linea più tranquilla.",
+      "science": {
+        "text": "In uno studio del 2026 i ricercatori hanno tolto il polline alle bottinatrici di alcune famiglie. Quelle famiglie sono diventate più difensive. Il carattere delle api dipende molto dai geni, ma oggi sappiamo anche che la fame e l'ambiente lo cambiano.",
+        "source": "Walsh et al. 2026, PLoS One",
+        "url": "https://doi.org/10.1371/journal.pone.0338712"
+      },
+      "check": {
+        "question": "Perché un'ape a volte preferisce rubare il miele invece di cercare i fiori?",
+        "options": [
+          "Perché il miele rubato è più dolce",
+          "Perché la regina glielo ordina",
+          "Perché rubare costa meno fatica",
+          "Perché i fiori sono tutti velenosi"
+        ],
+        "answer": 2,
+        "explanation": "Un favo pieno vale migliaia di visite ai fiori: per l'istinto dell'ape è un bottino comodo."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo di un problema che ogni apicoltore incontra prima o poi: il saccheggio. Sai cosa vuol dire?" },
+        { "who": "E", "text": "Ciao Tonino! Saccheggio vuol dire rubare, no? Le api rubano?" },
+        { "who": "M", "text": "Proprio così. Le api di una famiglia entrano in un'altra arnia e portano via il miele. A volte fino a svuotarla." },
+        { "who": "E", "text": "Ma non sono api buone e lavoratrici? Mi sembra strano." },
+        { "who": "M", "text": "Sono lavoratrici, appunto. Il loro mestiere è portare a casa zucchero. A loro non importa se viene da un fiore o dalla dispensa di un'altra famiglia." },
+        { "who": "E", "text": "Quindi per loro rubare non è cattiveria. È istinto." },
+        { "who": "M", "text": "Brava. È scritto nella loro natura. Secondo te, perché a volte preferiscono rubare invece di girare tra i fiori?" },
+        { "who": "E", "text": "Forse perché in un'arnia trovano tanto miele già pronto, con molta meno fatica." },
+        { "who": "M", "text": "Esatto. Un favo pieno vale migliaia di visite ai fiori. E poi c'è il carattere: ogni famiglia ha il suo, e dipende molto dalla regina, la madre di tutte." },
+        { "who": "E", "text": "Allora alcune famiglie sono più ladre di altre?" },
+        { "who": "M", "text": "Spesso sì. Ci sono famiglie tranquille e famiglie avide e nervose. Se cambi la regina, in un mese o due cambia anche il carattere." },
+        { "who": "E", "text": "Perché le nuove api nascono da lei e hanno i suoi geni." },
+        { "who": "M", "text": "Proprio. Ma attenzione: conta anche l'ambiente. Se manca il cibo, anche le famiglie più calme diventano nervose e cercano altrove." },
+        { "who": "E", "text": "Quindi geni e fame insieme. Me lo segno sul quaderno." }
+      ]
+    },
+    {
+      "title": "Il saccheggio violento e il saccheggio latente",
+      "keyPoints": [
+        "Violento: lotte, api morte, ronzio acuto all'entrata",
+        "Latente: furto silenzioso, senza lotte",
+        "Nel latente le api derubate non si difendono",
+        "Colpisce spesso famiglie deboli o malate",
+        "Le ladre portano a casa anche malattie"
+      ],
+      "analogy": "Il violento è come una rapina con la porta sfondata. Il latente è come un parente che ogni giorno prende un po' di zucchero dalla tua dispensa, e nessuno se ne accorge.",
+      "tip": "Guarda le api che escono dall'arnia: le ladre partono pesanti, con l'addome gonfio. Le bottinatrici normali invece entrano cariche ed escono leggere.",
+      "science": {
+        "text": "Uno studio ha messo famiglie quasi senza varroa intorno a famiglie piene di acari. Quando le famiglie malate sono crollate, le vicine le hanno saccheggiate e hanno portato a casa tanti acari. Il saccheggio è una strada importante per la varroa.",
+        "source": "Peck e Seeley 2019, PLoS One",
+        "url": "https://doi.org/10.1371/journal.pone.0218392"
+      },
+      "check": {
+        "question": "Cosa distingue il saccheggio latente da quello violento?",
+        "options": [
+          "Avviene solo di notte, al buio",
+          "Avviene in silenzio, senza lotte",
+          "Lo fanno solo i fuchi della famiglia",
+          "Si vede solo d'inverno, col freddo"
+        ],
+        "answer": 1,
+        "explanation": "Nel latente le ladre entrano ed escono come se fossero di casa: niente lotte e niente api morte."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Il saccheggio non è sempre uguale. Ce n'è uno rumoroso, che chiamiamo violento, e uno silenzioso, che chiamiamo latente." },
+        { "who": "E", "text": "Cominciamo da quello rumoroso. Come lo riconosco?" },
+        { "who": "M", "text": "Davanti all'arnia vedi una nuvola di api agitate. Volano a zig zag e cercano ogni fessura. Sul predellino ci sono api che lottano e api morte." },
+        { "who": "E", "text": "Il predellino è la tavoletta davanti all'entrata, vero?" },
+        { "who": "M", "text": "Sì. Senti anche un ronzio più acuto, nervoso. E a terra trovi briciole di cera, perché le ladre strappano gli opercoli, i tappi delle cellette." },
+        { "who": "E", "text": "E quello silenzioso? Se è silenzioso, come faccio a vederlo?" },
+        { "who": "M", "text": "È più difficile. Le ladre entrano ed escono come se fossero di casa. Nessuno le ferma. Secondo te, perché le guardiane non le fermano?" },
+        { "who": "E", "text": "Forse perché la famiglia derubata è troppo debole, o malata, e non ha più la forza di difendersi." },
+        { "who": "M", "text": "Proprio così. A volte le derubate si abituano e lasciano fare. Un indizio: api che entrano leggere ed escono pesanti." },
+        { "who": "E", "text": "Al contrario delle bottinatrici, che tornano a casa cariche." },
+        { "who": "M", "text": "Brava. Poi apri l'arnia e trovi i favi di miele vuoti, con la cera rosicchiata." },
+        { "who": "E", "text": "E perché è così grave, oltre al miele perso?" },
+        { "who": "M", "text": "Perché le ladre portano a casa anche le malattie: acari di varroa e spore di peste americana. Il furto diventa un contagio." },
+        { "who": "E", "text": "Allora un saccheggio in un'arnia riguarda tutto l'apiario." }
+      ]
+    },
+    {
+      "title": "Le cause",
+      "keyPoints": [
+        "Mancano le fioriture: le api cercano zucchero altrove",
+        "Miele o sciroppo lasciati all'aperto",
+        "Famiglie deboli, orfane o malate",
+        "Arnie aperte troppo a lungo durante le visite",
+        "Entrate troppo larghe o fessure nel legno"
+      ],
+      "analogy": "Quando il frigo è vuoto, anche la persona più tranquilla va a sbirciare nella dispensa della vicina. Con l'orto pieno, nessuno ci pensa.",
+      "tip": "In estate, dopo le grandi fioriture, fai visite brevi, nelle ore fresche. Non lasciare mai telaini con miele appoggiati vicino alle arnie.",
+      "science": {
+        "text": "Uno studio sulle guardiane ha visto che, quando il nettare manca, i tentativi di furto aumentano e le guardiane diventano più severe all'entrata. Quando il nettare torna abbondante, i ladri calano e il controllo si allenta.",
+        "source": "Downs e Ratnieks 2000, Behavioral Ecology",
+        "url": "https://doi.org/10.1093/beheco/11.3.326"
+      },
+      "check": {
+        "question": "Quando è più facile che scoppi un saccheggio?",
+        "options": [
+          "Quando la famiglia è forte e numerosa",
+          "Quando piove per molti giorni di fila",
+          "Quando le arnie sono dipinte di bianco",
+          "Quando in campagna mancano le fioriture"
+        ],
+        "answer": 3,
+        "explanation": "Senza nettare le bottinatrici restano senza lavoro e cercano zucchero dove capita, anche nelle arnie vicine."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ora vediamo perché scoppia un saccheggio. La causa numero uno è la mancanza di nettare in campagna." },
+        { "who": "E", "text": "Il nettare è il liquido dolce dei fiori, giusto?" },
+        { "who": "M", "text": "Sì. Quando le grandi fioriture finiscono, per esempio in piena estate, le bottinatrici restano senza lavoro. E vanno a cercare zucchero dove capita." },
+        { "who": "E", "text": "Come dei ragazzi annoiati senza niente da fare." },
+        { "who": "M", "text": "Bella immagine! Poi ci sono gli errori dell'apicoltore. Secondo te, cosa succede se lascio un telaino di miele appoggiato vicino all'arnia?" },
+        { "who": "E", "text": "Le api lo sentono subito, lo svuotano e poi cercano altro miele nelle arnie vicine." },
+        { "who": "M", "text": "Esatto. Un telaino dimenticato, sciroppo versato, un'arnia aperta per mezz'ora: sono inviti a nozze." },
+        { "who": "E", "text": "E dalla parte delle famiglie derubate? Ci sono famiglie più a rischio?" },
+        { "who": "M", "text": "Sì. Quelle deboli, con poche api per difendere tanto miele. Quelle orfane, cioè senza regina, che sono un po' sbandate. E quelle malate." },
+        { "who": "E", "text": "E l'arnia stessa conta? Voglio dire il legno, la porticina, come è fatta?" },
+        { "who": "M", "text": "Conta. Un'entrata troppo larga è difficile da sorvegliare. E una fessura nel legno è una porta di servizio per le ladre." },
+        { "who": "E", "text": "Quindi le cause sono tre: fame in campagna, errori nostri e famiglie fragili." },
+        { "who": "M", "text": "Riassunto perfetto. E ricordalo: il saccheggio quasi sempre si può evitare." },
+        { "who": "E", "text": "Allora la prossima volta parliamo di come evitarlo!" }
+      ]
+    },
+    {
+      "title": "Come si previene",
+      "keyPoints": [
+        "Stringi le entrate quando mancano i fiori",
+        "Sciroppo solo la sera, dentro l'arnia",
+        "Visite brevi, telaini tolti sempre coperti",
+        "Famiglie forti; unisci quelle deboli",
+        "Ripara fessure e buchi delle arnie"
+      ],
+      "analogy": "È come in casa d'estate: tieni la frutta coperta, chiudi bene la credenza e lasci la porta socchiusa, così vespe e formiche non entrano.",
+      "tip": "Quando finiscono le fioriture, stringi la porticina: per una famiglia debole bastano pochi centimetri. Le guardiane difendono meglio un passaggio stretto.",
+      "science": {
+        "text": "Uno studio negli Stati Uniti ha seguito api che visitavano famiglie non loro. Le famiglie visitate da api estranee avevano una varroa che cresceva più in fretta. Le arnie con una griglia anti-saccheggio sull'entrata hanno visto la varroa crescere più lentamente.",
+        "source": "Kulhanek et al. 2021, Scientific Reports",
+        "url": "https://doi.org/10.1038/s41598-021-86558-8"
+      },
+      "check": {
+        "question": "Quando conviene dare lo sciroppo per non scatenare un saccheggio?",
+        "options": [
+          "Alla sera, dentro l'arnia",
+          "Al mattino, davanti all'arnia",
+          "A mezzogiorno, sopra il tetto",
+          "Di pomeriggio, sul predellino"
+        ],
+        "answer": 0,
+        "explanation": "Di notte le api sistemano lo sciroppo nei favi; al mattino l'agitazione è passata."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Prevenire è molto più facile che curare. Prima regola: le entrate. Quando mancano i fiori, si stringono." },
+        { "who": "E", "text": "Con il riduttore di porticina? Quel listello con l'apertura piccola?" },
+        { "who": "M", "text": "Proprio quello. Secondo te, perché un'entrata stretta aiuta la famiglia?" },
+        { "who": "E", "text": "Perché le guardiane devono sorvegliare uno spazio piccolo, come un portiere davanti a una porta stretta." },
+        { "who": "M", "text": "Brava. Seconda regola: lo sciroppo si dà la sera, dentro l'arnia, mai fuori. E senza versarne una goccia." },
+        { "who": "E", "text": "Perché proprio la sera? Non è meglio al mattino, con la luce?" },
+        { "who": "M", "text": "Perché di notte le api lo sistemano nei favi. Al mattino l'agitazione è passata e l'odore è meno forte." },
+        { "who": "E", "text": "E durante le visite cosa devo stare attenta a fare?" },
+        { "who": "M", "text": "Visite brevi. I telaini tolti li copri con un telo o li metti in un'arnia vuota chiusa. Niente miele in giro, nemmeno un pezzetto di cera." },
+        { "who": "E", "text": "E con le famiglie deboli cosa faccio?" },
+        { "who": "M", "text": "Una famiglia debole va aiutata o unita a un'altra. Due famiglie piccole insieme fanno una famiglia forte che sa difendersi." },
+        { "who": "E", "text": "Ho visto anche le griglie anti-saccheggio. Funzionano?" },
+        { "who": "M", "text": "Sì, sono entrate con un percorso deviato. Le api di casa imparano la strada. Le ladre seguono l'odore e sbattono contro la rete." },
+        { "who": "E", "text": "Furbo! Quindi: entrate strette, sciroppo di sera, visite veloci e famiglie forti." }
+      ]
+    },
+    {
+      "title": "Come intervenire con un saccheggio in corso",
+      "keyPoints": [
+        "Chiudi subito le arnie e copri tutto",
+        "Stringi l'entrata della famiglia attaccata",
+        "Telo bagnato o erba sull'entrata confondono le ladre",
+        "Nei casi gravi sposta l'arnia attaccata",
+        "Arnie morte: chiuderle e portarle via"
+      ],
+      "analogy": "È come quando scoppia un litigio a tavola: prima togli il piatto conteso, poi separi i litiganti, e solo dopo, a mente fredda, capisci cosa è successo.",
+      "tip": "Se vedi una rapina in corso, non aprire l'arnia per controllare: peggiori tutto. Stringi l'entrata, copri con un telo bagnato e torna a guardare la sera.",
+      "science": {
+        "text": "Ricercatori svedesi hanno studiato la peste americana, una malattia grave della covata. Quando le famiglie morte di peste venivano saccheggiate, le spore arrivavano soprattutto agli apiari entro circa un chilometro. Per questo un'arnia morta va chiusa subito.",
+        "source": "Lindström et al. 2008, Apidologie",
+        "url": "https://doi.org/10.1051/apido:2008032"
+      },
+      "check": {
+        "question": "Cosa fai subito se vedi un saccheggio violento in corso?",
+        "options": [
+          "Apro l'arnia per vedere quanto miele è rimasto",
+          "Metto dello sciroppo vicino per calmare le api",
+          "Stringo l'entrata e la copro con un telo bagnato",
+          "Sposto tutte le arnie dell'apiario altrove"
+        ],
+        "answer": 2,
+        "explanation": "Entrata stretta e telo bagnato aiutano le guardiane e confondono le ladre. Aprire peggiora tutto."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ultima cosa: cosa fare se il saccheggio è già cominciato. Prima di tutto, niente panico." },
+        { "who": "E", "text": "Facile a dirsi, con tutte quelle api che lottano!" },
+        { "who": "M", "text": "Lo so. Se stavi visitando, chiudi subito le arnie e copri ogni telaino. Poi stringi l'entrata della famiglia attaccata, fino a far passare un'ape alla volta." },
+        { "who": "E", "text": "E le ladre che sono già dentro?" },
+        { "who": "M", "text": "Metti un telo bagnato sopra l'arnia, che scenda davanti all'entrata. Oppure un mazzo d'erba sulla porticina. Le ladre si confondono, le api di casa trovano la strada." },
+        { "who": "E", "text": "E se non basta?" },
+        { "who": "M", "text": "Nei casi gravi sposti l'arnia attaccata in un altro posto e al suo posto metti un'arnia vuota. Le ladre trovano il nulla e si scoraggiano." },
+        { "who": "E", "text": "In quei giorni devo controllare dentro le arnie?" },
+        { "who": "M", "text": "Meglio di no. Aspetti la sera, quando tutto è calmo." },
+        { "who": "E", "text": "D'accordo. E se trovo un'arnia morta?" },
+        { "who": "M", "text": "Va chiusa e portata via subito. Secondo te, perché tanta fretta?" },
+        { "who": "E", "text": "Perché le altre api la svuoterebbero e porterebbero a casa le malattie, come la varroa o la peste." },
+        { "who": "M", "text": "Esatto. La peste americana si sparge proprio così, con le spore nel miele rubato. E dopo un saccheggio la famiglia derubata spesso va nutrita o unita a un'altra." },
+        { "who": "E", "text": "Ricevuto. Calma, stringere, coprire e chiudere le arnie morte." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Perché le api saccheggiano?", "back": "Per istinto: portano a casa zucchero con poca fatica.", "part": 0 },
+    { "front": "Da chi dipende molto il carattere di una famiglia?", "back": "Dalla regina, la madre di tutte le api.", "part": 0 },
+    { "front": "Segni del saccheggio violento?", "back": "Lotte, api morte, ronzio acuto, briciole di cera a terra.", "part": 1 },
+    { "front": "Cos'è il saccheggio latente?", "back": "Un furto silenzioso, senza lotte, spesso ai danni di famiglie deboli.", "part": 1 },
+    { "front": "Causa principale del saccheggio?", "back": "La mancanza di nettare in campagna.", "part": 2 },
+    { "front": "Quali famiglie sono più a rischio?", "back": "Quelle deboli, orfane o malate.", "part": 2 },
+    { "front": "Perché si stringe l'entrata?", "back": "Le guardiane difendono meglio un passaggio stretto.", "part": 3 },
+    { "front": "Quando si dà lo sciroppo?", "back": "La sera, dentro l'arnia, senza versarne.", "part": 3 },
+    { "front": "Primo gesto con un saccheggio in corso?", "back": "Stringere l'entrata e coprire con un telo bagnato.", "part": 4 },
+    { "front": "Cosa fare con un'arnia morta?", "back": "Chiuderla e portarla via subito.", "part": 4 }
+  ],
+  "questions": [
+    {
+      "question": "Cosa succede al carattere di una famiglia se cambi la regina?",
+      "options": [
+        "Resta identico per tutta la vita",
+        "Cambia piano piano, con le nuove api",
+        "Cambia solo il colore delle api",
+        "Diventa sempre più aggressivo"
+      ],
+      "answer": 1,
+      "explanation": "Le nuove api nascono dalla nuova regina e ne ereditano i geni.",
+      "part": 0
+    },
+    {
+      "question": "Quale segno fa pensare a un saccheggio violento?",
+      "options": [
+        "Api tranquille che portano polline",
+        "Fuchi che volano a mezzogiorno",
+        "Api morte e lotte sul predellino",
+        "Api che ventilano all'entrata"
+      ],
+      "answer": 2,
+      "explanation": "Lotte, api morte e ronzio acuto all'entrata sono il segno tipico della rapina.",
+      "part": 1
+    },
+    {
+      "question": "Nel saccheggio latente, come si comportano le api derubate?",
+      "options": [
+        "Lottano fino all'ultima ape",
+        "Scappano tutte con la regina",
+        "Chiudono l'entrata con la propoli",
+        "Lasciano entrare le ladre"
+      ],
+      "answer": 3,
+      "explanation": "La famiglia derubata è spesso debole o si abitua: lascia fare senza difendersi.",
+      "part": 1
+    },
+    {
+      "question": "Perché il saccheggio preoccupa anche per la salute?",
+      "options": [
+        "Le ladre portano a casa acari e spore",
+        "Le ladre perdono tutte il pungiglione",
+        "Il miele rubato diventa subito amaro",
+        "Le api derubate cambiano regina"
+      ],
+      "answer": 0,
+      "explanation": "Con il miele rubato viaggiano anche la varroa e le spore della peste americana.",
+      "part": 1
+    },
+    {
+      "question": "Cosa fanno le guardiane quando in campagna manca il nettare?",
+      "options": [
+        "Vanno tutte a cercare nettare",
+        "Diventano più severe all'entrata",
+        "Lasciano entrare chiunque arrivi",
+        "Smettono di lavorare per giorni"
+      ],
+      "answer": 1,
+      "explanation": "Con più tentativi di furto, le guardiane controllano di più chi entra.",
+      "part": 2
+    },
+    {
+      "question": "Quale errore dell'apicoltore può scatenare un saccheggio?",
+      "options": [
+        "Visitare le arnie con la maschera",
+        "Pesare le arnie in autunno",
+        "Segnare le visite sul quaderno",
+        "Lasciare un telaino di miele fuori"
+      ],
+      "answer": 3,
+      "explanation": "Un telaino di miele all'aperto attira subito le api e accende la caccia allo zucchero.",
+      "part": 2
+    },
+    {
+      "question": "A cosa serve il riduttore di porticina?",
+      "options": [
+        "A far entrare più aria fresca",
+        "A rendere l'entrata più facile da difendere",
+        "A tenere lontani i fuchi pigri",
+        "A raccogliere il polline delle api"
+      ],
+      "answer": 1,
+      "explanation": "Un passaggio stretto si sorveglia meglio: le guardiane fermano più ladre.",
+      "part": 3
+    },
+    {
+      "question": "Cosa fai con due famiglie deboli in estate?",
+      "options": [
+        "Le lascio sole a cavarsela",
+        "Le sposto vicino alle più forti",
+        "Le unisco in una famiglia forte",
+        "Tolgo loro tutto il miele"
+      ],
+      "answer": 2,
+      "explanation": "Due famiglie piccole unite fanno una famiglia capace di difendersi.",
+      "part": 3
+    },
+    {
+      "question": "Perché si mette un telo bagnato sull'arnia saccheggiata?",
+      "options": [
+        "Per rinfrescare la regina",
+        "Per lavare via le api morte",
+        "Per dare acqua alle api di casa",
+        "Per confondere le ladre all'entrata"
+      ],
+      "answer": 3,
+      "explanation": "Il telo nasconde l'entrata: le ladre si confondono, le api di casa ritrovano la strada.",
+      "part": 4
+    },
+    {
+      "question": "Come si sparge spesso la peste americana tra gli apiari?",
+      "options": [
+        "Con il vento che porta le spore",
+        "Con il miele rubato da arnie morte",
+        "Con il polline dei fiori di campo",
+        "Con l'acqua delle fontane vicine"
+      ],
+      "answer": 1,
+      "explanation": "Le arnie morte di peste vengono saccheggiate e le spore viaggiano nel miele rubato.",
+      "part": 4
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Rapina sul predellino",
+      "prompt": "È fine luglio. Arrivi in apiario e davanti a un'arnia piccola vedi una nuvola di api agitate, api che lottano sul predellino e alcune api morte a terra. Cosa fai?",
+      "modelAnswer": "È un saccheggio violento. Non apro l'arnia: peggiorerei tutto. Prima stringo subito l'entrata della famiglia attaccata, fino a lasciar passare un'ape alla volta. Poi metto sopra l'arnia un telo bagnato che scenda davanti all'entrata, oppure un mazzo d'erba sulla porticina, per confondere le ladre. Controllo che non ci siano telaini, cera o sciroppo in giro e chiudo bene le altre arnie. Se la rapina continua, sposto l'arnia attaccata in un altro posto e al suo posto metto un'arnia vuota. Torno la sera, quando è tutto calmo. Nei giorni dopo guardo la famiglia derubata: se ha perso le scorte la nutro di sera, dentro l'arnia, o la unisco a un'altra famiglia. Infine stringo le entrate di tutte le arnie finché non tornano le fioriture."
+    },
+    {
+      "title": "La famiglia che si svuota",
+      "prompt": "A settembre apri una famiglia debole. All'entrata non ci sono lotte, ma i favi di miele sono vuoti e gli opercoli sono rosicchiati. Le api estranee entrano ed escono tranquille. Cosa pensi e cosa fai?",
+      "modelAnswer": "Penso a un saccheggio latente: un furto silenzioso, senza lotte, tipico delle famiglie deboli. Le api che escono pesanti sono probabilmente ladre. Chiudo l'arnia in fretta e stringo molto l'entrata. Guardo se la famiglia ha ancora la regina e covata sana: se è orfana o malata, chiedo consiglio alla mia associazione o al veterinario. Se è solo debole, la unisco a una famiglia sana o le do un aiuto, nutrendo la sera e dentro l'arnia. Controllo anche le arnie vicine, perché le ladre portano a casa varroa e altre malattie. D'ora in poi tengo famiglie forti, entrate strette a fine estate e visite brevi."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Cosa fare con un saccheggio in corso",
+        "steps": [
+          "Chiudi l'arnia che stavi visitando",
+          "Copri tutti i telaini tolti",
+          "Stringi l'entrata della famiglia attaccata",
+          "Metti un telo bagnato sull'arnia",
+          "Aspetta la sera prima di controllare",
+          "Decidi se nutrire o unire la famiglia"
+        ],
+        "part": 4
+      }
+    ],
+    "who": [
+      {
+        "clues": [
+          "Mi usi soprattutto quando i fiori finiscono",
+          "Rendo più piccolo un passaggio",
+          "Mi metti davanti all'entrata dell'arnia"
+        ],
+        "answer": "Il riduttore di porticina",
+        "distractors": ["Il nutritore a goccia", "L'escludiregina", "Il coprifavo di legno"],
+        "part": 3
+      },
+      {
+        "clues": [
+          "Quando mancano i fiori, faccio più attenzione",
+          "Annuso ogni ape che arriva",
+          "Difendo l'entrata dell'arnia dalle ladre"
+        ],
+        "answer": "La guardiana",
+        "distractors": ["La nutrice", "La bottinatrice", "La ceraiola"],
+        "part": 2
+      },
+      {
+        "clues": [
+          "Non faccio rumore e non lascio api morte",
+          "Colpisco spesso famiglie deboli o malate",
+          "Sono un furto silenzioso di miele"
+        ],
+        "answer": "Il saccheggio latente",
+        "distractors": ["Il saccheggio violento", "Lo sciame naturale", "Il volo di orientamento"],
+        "part": 1
+      },
+      {
+        "clues": [
+          "Viaggio sulle api ladre",
+          "Sono un acaro dal colore rosso scuro",
+          "Mi combatti con trattamenti autorizzati"
+        ],
+        "answer": "La varroa",
+        "distractors": ["La nosema", "La vespa", "La formica"],
+        "part": 1
+      }
+    ],
+    "truefalse": [
+      { "text": "Rubare miele è un istinto naturale delle api.", "true": true, "why": "Le api portano a casa zucchero da qualsiasi fonte, anche da un'altra arnia.", "part": 0 },
+      { "text": "Il carattere di una famiglia non cambia mai, nemmeno cambiando regina.", "true": false, "why": "Le nuove api nascono dalla nuova regina e ne ereditano i geni.", "part": 0 },
+      { "text": "Nel saccheggio violento si vedono api che lottano sul predellino.", "true": true, "why": "Lotte, api morte e ronzio acuto sono i segni tipici.", "part": 1 },
+      { "text": "Il saccheggio latente è rumoroso e pieno di api morte.", "true": false, "why": "È silenzioso: le ladre entrano ed escono senza lotte.", "part": 1 },
+      { "text": "Il saccheggio può diffondere la varroa tra le famiglie.", "true": true, "why": "Le ladre portano a casa acari dalle famiglie che crollano.", "part": 1 },
+      { "text": "Il saccheggio è più frequente quando mancano le fioriture.", "true": true, "why": "Senza nettare le bottinatrici cercano zucchero nelle arnie vicine.", "part": 2 },
+      { "text": "Una famiglia forte è più a rischio di una famiglia debole.", "true": false, "why": "Le famiglie deboli hanno poche api per difendere il miele.", "part": 2 },
+      { "text": "Lo sciroppo va dato al mattino, davanti all'arnia.", "true": false, "why": "Va dato la sera, dentro l'arnia, senza versarne.", "part": 3 },
+      { "text": "Un'entrata stretta aiuta le guardiane a difendere la famiglia.", "true": true, "why": "Un passaggio piccolo si sorveglia meglio.", "part": 3 },
+      { "text": "Con un saccheggio in corso conviene aprire l'arnia per controllare.", "true": false, "why": "Aprire libera odore di miele e peggiora la rapina.", "part": 4 },
+      { "text": "Un'arnia morta va chiusa e portata via subito.", "true": true, "why": "Se viene saccheggiata, le malattie passano alle altre famiglie.", "part": 4 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 6,
+      "question": "Perché a volte le api preferiscono rubare invece di girare tra i fiori?",
+      "options": [
+        "Il miele dei vicini è più dolce",
+        "Trovano tanto miele pronto con poca fatica",
+        "La regina le manda a punire i vicini",
+        "I fiori si chiudono quando arrivano"
+      ],
+      "answer": 1,
+      "why": "Un favo pieno vale migliaia di visite ai fiori: per l'istinto dell'ape è un bottino comodo."
+    },
+    {
+      "part": 1,
+      "line": 6,
+      "question": "Nel saccheggio latente, perché le guardiane non fermano le ladre?",
+      "options": [
+        "Si sono addormentate per il caldo",
+        "Sono tutte uscite a bottinare",
+        "Hanno paura del ronzio delle ladre",
+        "La famiglia è troppo debole per difendersi"
+      ],
+      "answer": 3,
+      "why": "Una famiglia debole, orfana o malata non ha più forza e a volte si abitua alle ladre."
+    },
+    {
+      "part": 2,
+      "line": 4,
+      "question": "Cosa succede se lasci un telaino di miele vicino all'arnia?",
+      "options": [
+        "Le api lo svuotano e cercano altro miele",
+        "Le api lo ignorano perché è freddo",
+        "Le api lo coprono subito di propoli",
+        "Le api lo portano dentro l'arnia"
+      ],
+      "answer": 0,
+      "why": "Il miele all'aperto accende la caccia allo zucchero, che poi passa alle arnie vicine."
+    },
+    {
+      "part": 3,
+      "line": 2,
+      "question": "Perché un'entrata stretta aiuta la famiglia?",
+      "options": [
+        "Le api di casa escono più veloci",
+        "Entra più aria fresca per ventilare",
+        "Le guardiane sorvegliano uno spazio piccolo",
+        "La regina non può uscire e sciamare"
+      ],
+      "answer": 2,
+      "why": "Come un portiere davanti a una porta stretta: poche guardiane bastano a fermare le ladre."
+    },
+    {
+      "part": 4,
+      "line": 10,
+      "question": "Perché un'arnia morta va chiusa e portata via subito?",
+      "options": [
+        "Il legno marcisce e attira le formiche",
+        "La cera si scioglie al sole e sporca",
+        "I vicini si lamentano dell'odore",
+        "Le altre api la svuotano e portano a casa malattie"
+      ],
+      "answer": 3,
+      "why": "Il miele di un'arnia morta può contenere spore di peste americana o acari: rubandolo, le api si contagiano."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+ "code": "5.5",
+ "order": [
+  {
+   "title": "Raccogliere propoli con la rete",
+   "steps": [
+    "Metti la rete sopra i telaini",
+    "Aspetta che le api chiudano i buchi",
+    "Togli la rete e chiudila in un sacchetto",
+    "Lasciala una notte in congelatore",
+    "Piega la rete e raccogli i pezzetti",
+    "Conserva in barattolo chiuso, al buio"
+   ],
+   "slide": 5
+  },
+  {
+   "title": "Il viaggio della resina",
+   "steps": [
+    "La pianta copre gemme e ferite con resina",
+    "L'ape stacca la resina con le mandibole",
+    "La carica sulle zampe posteriori",
+    "Altre api la scaricano nell'arnia",
+    "La resina mescolata alla cera diventa propoli"
+   ],
+   "slide": 1
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi metti sopra i telaini",
+    "Per le api i miei buchi sono spifferi",
+    "In congelatore lascio cadere la propoli"
+   ],
+   "answer": "La rete raccogli-propoli",
+   "distractors": [
+    "La griglia escludiregina",
+    "La rete per il trasporto",
+    "La lamiera del coprifavo"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Scendo dalle gemme e dalle ferite degli alberi",
+    "Proteggo le piante da funghi e insetti",
+    "Le api mi trasformano in propoli"
+   ],
+   "answer": "La resina",
+   "distractors": [
+    "La linfa",
+    "La melata",
+    "La rugiada"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Sono una malattia della covata",
+    "Mi causa un fungo",
+    "Le larve diventano come gessetti"
+   ],
+   "answer": "La covata calcificata",
+   "distractors": [
+    "La peste americana",
+    "La peste europea",
+    "La covata a sacco"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Sono propoli sciolta in qualcosa",
+    "L'alcol mi separa dalla cera",
+    "Mi trovi in boccette con il contagocce"
+   ],
+   "answer": "La tintura",
+   "distractors": [
+    "La crema",
+    "La pomata",
+    "La tisana"
+   ],
+   "slide": 6
+  },
+  {
+   "clues": [
+    "Mi trovi nelle resine e in tanti vegetali",
+    "Sono una grande famiglia di sostanze",
+    "Tra di noi ci sono i flavonoidi"
+   ],
+   "answer": "I polifenoli",
+   "distractors": [
+    "I grassi",
+    "Gli zuccheri",
+    "I sali minerali"
+   ],
+   "slide": 3
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La propoli nasce dalle resine delle piante.",
+   "true": true,
+   "why": "Le api raccolgono resine da gemme e cortecce e le impastano con cera.",
+   "slide": 1
+  },
+  {
+   "text": "Le api trasportano la resina dentro la borsa del nettare.",
+   "true": false,
+   "why": "La portano sulle zampe posteriori, nelle cestelle, come il polline.",
+   "slide": 1
+  },
+  {
+   "text": "Le api ricoprono di propoli gli intrusi troppo grandi.",
+   "true": true,
+   "why": "Così un topo morto non marcisce e non infetta la casa.",
+   "slide": 2
+  },
+  {
+   "text": "La propoli nell'arnia serve solo a dare fastidio all'apicoltore.",
+   "true": false,
+   "why": "Chiude spifferi e aiuta le difese comuni della famiglia.",
+   "slide": 2
+  },
+  {
+   "text": "La propoli è uguale in tutto il mondo.",
+   "true": false,
+   "why": "Cambia con le piante da cui vengono le resine.",
+   "slide": 3
+  },
+  {
+   "text": "La propoli contiene molti polifenoli.",
+   "true": true,
+   "why": "Tra questi ci sono i flavonoidi, tipici delle resine.",
+   "slide": 3
+  },
+  {
+   "text": "Un effetto in provetta dimostra una cura sulle persone.",
+   "true": false,
+   "why": "Servono studi sulle persone: la propoli non è un farmaco.",
+   "slide": 3
+  },
+  {
+   "text": "Contro un fungo le api possono raccogliere più resina.",
+   "true": true,
+   "why": "Lo ha visto uno studio con la covata calcificata.",
+   "slide": 4
+  },
+  {
+   "text": "Le pareti ruvide fanno diminuire la propoli nell'arnia.",
+   "true": false,
+   "why": "Le pareti ruvide fanno aumentare la propoli depositata.",
+   "slide": 4
+  },
+  {
+   "text": "Nel congelatore la propoli diventa fragile.",
+   "true": true,
+   "why": "Col freddo si stacca in pezzetti piegando la rete.",
+   "slide": 5
+  },
+  {
+   "text": "Scaldare la propoli la rende più ricca di sostanze.",
+   "true": false,
+   "why": "Il calore le fa perdere sostanze: si conserva al fresco.",
+   "slide": 5
+  },
+  {
+   "text": "La propoli può dare dermatite allergica da contatto.",
+   "true": true,
+   "why": "È una causa nota di pelle rossa, prurito e vesciche.",
+   "slide": 6
+  }
+ ]
+}

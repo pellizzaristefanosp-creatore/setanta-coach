@@ -1,0 +1,96 @@
+{
+ "code": "5.6",
+ "turns": [
+  {
+   "part": 0,
+   "line": 4,
+   "question": "Che cosa resta tra tanti bicchieri rotondi vicini?",
+   "options": [
+    "Una parete in comune",
+    "Dei buchi vuoti",
+    "Una cella in più",
+    "Un filo di cera"
+   ],
+   "answer": 1,
+   "why": "I cerchi lasciano spazi vuoti; gli esagoni no, per questo le api li usano."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Che cosa serve all'ape per produrre cera?",
+   "options": [
+    "Tanta acqua fresca",
+    "Tanto polline secco",
+    "Tanto miele o nettare",
+    "Tanta resina di pioppo"
+   ],
+   "answer": 2,
+   "why": "Fare cera costa energia, che viene dal cibo zuccherino."
+  },
+  {
+   "part": 2,
+   "line": 8,
+   "question": "Come si scopre una sostanza estranea mescolata alla cera?",
+   "options": [
+    "Con un'analisi dei valori",
+    "Con un assaggio veloce",
+    "Guardando il colore",
+    "Annusando il panetto"
+   ],
+   "answer": 0,
+   "why": "La cera d'api ha valori stabili: se escono diversi, c'è qualcosa di aggiunto."
+  },
+  {
+   "part": 3,
+   "line": 8,
+   "question": "Che cosa succede alla cera nella sceratrice al sole?",
+   "options": [
+    "Indurisce e si spacca",
+    "Diventa bianca e secca",
+    "Evapora piano piano",
+    "Si scioglie e cola giù"
+   ],
+   "answer": 3,
+   "why": "Il caldo dentro la cassa fonde la cera, che cola nella vaschetta."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Che cosa succede usando cera di un'arnia malata per i fogli?",
+   "options": [
+    "Le api diventano più forti",
+    "Le spore arrivano nelle arnie sane",
+    "I fogli durano più a lungo",
+    "La cera cambia solo colore"
+   ],
+   "answer": 1,
+   "why": "Le spore resistono al calore: con i fogli cerei la malattia si diffonde."
+  },
+  {
+   "part": 5,
+   "line": 6,
+   "question": "Perché conta sapere da dove viene la cera?",
+   "options": [
+    "Può avere residui invisibili",
+    "Può avere un colore strano",
+    "Può pesare più del dovuto",
+    "Può fondere troppo presto"
+   ],
+   "answer": 0,
+   "why": "La cera trattiene residui di trattamenti e pesticidi che non si vedono."
+  },
+  {
+   "part": 6,
+   "line": 6,
+   "question": "Che cosa succede a una larva in una cella di cera sbagliata?",
+   "options": [
+    "Nasce prima del tempo",
+    "Diventa una regina",
+    "Può crescere male o morire",
+    "Diventa più grande"
+   ],
+   "answer": 2,
+   "why": "La cera adulterata, per esempio con stearina, può danneggiare la covata."
+  }
+ ]
+}

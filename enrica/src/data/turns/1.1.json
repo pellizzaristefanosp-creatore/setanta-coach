@@ -1,0 +1,70 @@
+{
+ "code": "1.1",
+ "turns": [
+  {
+   "part": 0,
+   "line": 7,
+   "question": "Quanto resiste un'operaia chiusa da sola in un barattolo con miele?",
+   "options": [
+    "Molto, perché il miele le basta per mesi",
+    "Poco, perché da sola non vive bene",
+    "Molto, perché si scalda da sola",
+    "Poco, perché il miele è velenoso"
+   ],
+   "answer": 1,
+   "why": "Un'ape sola non si scalda, non alleva e non viene curata dalle compagne: la vera unità è la colonia."
+  },
+  {
+   "part": 1,
+   "line": 8,
+   "question": "Come sanno le operaie che la regina c'è, anche senza vederla?",
+   "options": [
+    "Dal ronzio forte delle sue ali",
+    "Dai colori vivaci del suo corpo",
+    "Dal suo odore che passa tra le api",
+    "Dal numero di fuchi nell'arnia"
+   ],
+   "answer": 2,
+   "why": "Le operaie della corte toccano la regina e portano il suo odore in tutta l'arnia: è un messaggio che dice «la mamma c'è»."
+  },
+  {
+   "part": 2,
+   "line": 7,
+   "question": "Da dove viene la cera con cui le api costruiscono i favi?",
+   "options": [
+    "Dai fiori, come il polline",
+    "Dal nettare lasciato asciugare",
+    "Dalla resina degli alberi",
+    "Da ghiandole sotto l'addome"
+   ],
+   "answer": 3,
+   "why": "Le operaie giovani hanno quattro paia di ghiandole della cera sotto l'addome: escono scaglie che poi masticano."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "Perché a cercare cibo fuori vanno le api più anziane?",
+   "options": [
+    "Perché fuori è pericoloso e si perde meno",
+    "Perché le giovani non hanno ancora le ali",
+    "Perché solo le anziane conoscono i fiori",
+    "Perché le giovani devono stare con i fuchi"
+   ],
+   "answer": 0,
+   "why": "Fuori ci sono uccelli, vento e pioggia: se muore un'ape che ha già lavorato tanto in casa, la famiglia perde meno."
+  },
+  {
+   "part": 4,
+   "line": 7,
+   "question": "Perché alla colonia conviene mandare fuori tanti fuchi?",
+   "options": [
+    "Per avere più guardie all'ingresso",
+    "Per portare più polline a casa",
+    "Per scaldare meglio la covata",
+    "Per portare i suoi geni lontano"
+   ],
+   "answer": 3,
+   "why": "Più fuchi in aria vuol dire più possibilità di incontrare regine di altre colonie e di passare i geni della famiglia."
+  }
+ ]
+}

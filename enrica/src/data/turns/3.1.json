@@ -1,0 +1,70 @@
+{
+ "code": "3.1",
+ "turns": [
+  {
+   "part": 0,
+   "line": 8,
+   "question": "Perché dopo la prima puntura spesso ne arrivano altre?",
+   "options": [
+    "Perché le api sentono l'odore di allarme",
+    "Perché le api vedono il colore della pelle",
+    "Perché le api cercano il sudore salato",
+    "Perché le api seguono il ronzio più forte"
+   ],
+   "answer": 0,
+   "why": "Il pungiglione libera un odore di allarme che resta lì e richiama altre api a difendere."
+  },
+  {
+   "part": 1,
+   "line": 4,
+   "question": "Perché è meglio visitare nelle ore centrali della giornata?",
+   "options": [
+    "Perché la regina è ferma al centro del nido",
+    "Perché il miele è più liquido e si vede meglio",
+    "Perché molte api sono fuori a raccogliere cibo",
+    "Perché le guardiane a quell'ora si riposano"
+   ],
+   "answer": 2,
+   "why": "Con le bottinatrici fuori al lavoro, in casa ci sono meno api pronte a difendere."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Che cosa succede alla covata se l'arnia resta aperta a lungo?",
+   "options": [
+    "Le larve crescono più in fretta del solito",
+    "La regina depone più uova per recuperare",
+    "Le api smettono di fare il miele per giorni",
+    "Si raffredda e le api faticano a scaldarla"
+   ],
+   "answer": 3,
+   "why": "La covata vive al caldo costante: il freddo la danneggia e costa fatica alle api."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "Perché il fumo rende le api più tranquille?",
+   "options": [
+    "Perché le fa addormentare per alcune ore",
+    "Perché copre l'odore di allarme tra loro",
+    "Perché le spinge a uscire tutte dall'arnia",
+    "Perché nasconde l'apicoltore alla loro vista"
+   ],
+   "answer": 1,
+   "why": "Il fumo riduce la capacità di sentire l'odore di allarme, così si avvisano meno tra loro."
+  },
+  {
+   "part": 4,
+   "line": 4,
+   "question": "Da chi dipende soprattutto il carattere delle api?",
+   "options": [
+    "Dalla regina, la madre di tutta la famiglia",
+    "Dall'apicoltore e dal suo modo di vestirsi",
+    "Dai fiori che le api visitano in primavera",
+    "Dal colore dell'arnia e dalla sua forma"
+   ],
+   "answer": 0,
+   "why": "Le operaie sono figlie della regina: il carattere passa con i geni."
+  }
+ ]
+}

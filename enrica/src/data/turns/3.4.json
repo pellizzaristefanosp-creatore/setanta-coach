@@ -1,0 +1,57 @@
+{
+ "code": "3.4",
+ "turns": [
+  {
+   "part": 0,
+   "line": 6,
+   "question": "Come può un apicoltore uccidere la regina senza accorgersene?",
+   "options": [
+    "Dando troppo sciroppo alla famiglia",
+    "Mettendo il melario troppo tardi",
+    "Schiacciandola tra due telaini",
+    "Aprendo l'arnia nelle ore calde"
+   ],
+   "answer": 2,
+   "why": "Muovendo i telaini in fretta si può schiacciare la regina o farla cadere fuori."
+  },
+  {
+   "part": 1,
+   "line": 2,
+   "question": "Qual è il segno più sicuro che la regina c'è?",
+   "options": [
+    "Molto polline fresco nei favi",
+    "Tante api ferme all'ingresso",
+    "Uova fresche, una per cella",
+    "Celle reali sul bordo del favo"
+   ],
+   "answer": 2,
+   "why": "Le uova fresche e dritte, una per cella, vogliono dire che la regina deponeva pochi giorni fa."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Che cosa nasce da un uovo non fecondato?",
+   "options": [
+    "Un'operaia piccola",
+    "Una regina debole",
+    "Un fuco, cioè un maschio",
+    "Una nutrice giovane"
+   ],
+   "answer": 2,
+   "why": "Le uova non fecondate diventano fuchi: per questo le ovificatrici danno solo maschi."
+  },
+  {
+   "part": 3,
+   "line": 4,
+   "question": "Che cosa fanno le api orfane con il telaino di prova?",
+   "options": [
+    "Lo riempiono subito di miele e polline",
+    "Lo portano fuori pezzo per pezzo",
+    "Lo lasciano vuoto e non lo toccano",
+    "Allevano celle reali dalle larve giovani"
+   ],
+   "answer": 3,
+   "why": "Senza regina, usano le larve giovani del telaino per allevarne una nuova."
+  }
+ ]
+}

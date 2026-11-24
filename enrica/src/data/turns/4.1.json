@@ -1,0 +1,70 @@
+{
+ "code": "4.1",
+ "turns": [
+  {
+   "part": 0,
+   "line": 6,
+   "question": "Perché a volte le api preferiscono rubare invece di girare tra i fiori?",
+   "options": [
+    "Il miele dei vicini è più dolce",
+    "Trovano tanto miele pronto con poca fatica",
+    "La regina le manda a punire i vicini",
+    "I fiori si chiudono quando arrivano"
+   ],
+   "answer": 1,
+   "why": "Un favo pieno vale migliaia di visite ai fiori: per l'istinto dell'ape è un bottino comodo."
+  },
+  {
+   "part": 1,
+   "line": 6,
+   "question": "Nel saccheggio latente, perché le guardiane non fermano le ladre?",
+   "options": [
+    "Si sono addormentate per il caldo",
+    "Sono tutte uscite a bottinare",
+    "Hanno paura del ronzio delle ladre",
+    "La famiglia è troppo debole per difendersi"
+   ],
+   "answer": 3,
+   "why": "Una famiglia debole, orfana o malata non ha più forza e a volte si abitua alle ladre."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Cosa succede se lasci un telaino di miele vicino all'arnia?",
+   "options": [
+    "Le api lo svuotano e cercano altro miele",
+    "Le api lo ignorano perché è freddo",
+    "Le api lo coprono subito di propoli",
+    "Le api lo portano dentro l'arnia"
+   ],
+   "answer": 0,
+   "why": "Il miele all'aperto accende la caccia allo zucchero, che poi passa alle arnie vicine."
+  },
+  {
+   "part": 3,
+   "line": 2,
+   "question": "Perché un'entrata stretta aiuta la famiglia?",
+   "options": [
+    "Le api di casa escono più veloci",
+    "Entra più aria fresca per ventilare",
+    "Le guardiane sorvegliano uno spazio piccolo",
+    "La regina non può uscire e sciamare"
+   ],
+   "answer": 2,
+   "why": "Come un portiere davanti a una porta stretta: poche guardiane bastano a fermare le ladre."
+  },
+  {
+   "part": 4,
+   "line": 10,
+   "question": "Perché un'arnia morta va chiusa e portata via subito?",
+   "options": [
+    "Il legno marcisce e attira le formiche",
+    "La cera si scioglie al sole e sporca",
+    "I vicini si lamentano dell'odore",
+    "Le altre api la svuotano e portano a casa malattie"
+   ],
+   "answer": 3,
+   "why": "Il miele di un'arnia morta può contenere spore di peste americana o acari: rubandolo, le api si contagiano."
+  }
+ ]
+}

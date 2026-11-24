@@ -1,0 +1,96 @@
+{
+ "code": "3.2",
+ "turns": [
+  {
+   "part": 0,
+   "line": 6,
+   "question": "Che cosa spinge spesso una famiglia a sciamare?",
+   "options": [
+    "Il freddo della notte in primavera",
+    "La troppa gente e il poco spazio in casa",
+    "La mancanza di acqua vicino all'arnia",
+    "Il rumore delle macchine sulla strada"
+   ],
+   "answer": 1,
+   "why": "Il nido affollato fa circolare male il profumo della regina e spinge ad allevare nuove regine."
+  },
+  {
+   "part": 1,
+   "line": 4,
+   "question": "Quando una coppetta reale deve davvero preoccuparti?",
+   "options": [
+    "Quando è vuota e lucida di propoli",
+    "Quando è piena soltanto di polline",
+    "Quando è rotta e aperta da un lato",
+    "Quando dentro c'è un uovo o una larva"
+   ],
+   "answer": 3,
+   "why": "Se dentro c'è un uovo o una larva con pappa reale, le api stanno allevando una regina."
+  },
+  {
+   "part": 2,
+   "line": 4,
+   "question": "Perché le api si riempiono di miele prima di sciamare?",
+   "options": [
+    "Per avere provviste per viaggio e favi nuovi",
+    "Per lasciare l'arnia vecchia senza scorte",
+    "Per diventare troppo pesanti per pungere",
+    "Per offrirlo alle esploratrici al ritorno"
+   ],
+   "answer": 0,
+   "why": "Il miele è la loro valigia: serve per il viaggio e per costruire i favi nella casa nuova."
+  },
+  {
+   "part": 3,
+   "line": 6,
+   "question": "Che cosa succede se partono molti sciami uno dopo l'altro?",
+   "options": [
+    "La famiglia diventa più forte e produttiva",
+    "La famiglia resta debole e fa poco miele",
+    "La famiglia cambia subito il suo carattere",
+    "La famiglia alleva soltanto nuovi fuchi"
+   ],
+   "answer": 1,
+   "why": "Ogni sciame porta via api: la famiglia di partenza si indebolisce."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Come capisci se la regina è caduta nella cassetta?",
+   "options": [
+    "Le api tornano tutte sul ramo di prima",
+    "Le api restano e chiamano le altre all'ingresso",
+    "Le api escono e volano verso l'arnia vecchia",
+    "Le api si fermano sul coperchio in silenzio"
+   ],
+   "answer": 1,
+   "why": "Se la regina è dentro, le api restano e sventolano le ali per richiamare le compagne."
+  },
+  {
+   "part": 5,
+   "line": 6,
+   "question": "Cosa fa una famiglia orfana che ha larve giovanissime?",
+   "options": [
+    "Va a cercare la regina in un'altra arnia",
+    "Smette di lavorare finché non muore",
+    "Si alleva una nuova regina da una larva",
+    "Si unisce da sola alla famiglia vicina"
+   ],
+   "answer": 2,
+   "why": "Le api nutrono una larva giovane con la pappa reale e ne fanno una regina."
+  },
+  {
+   "part": 6,
+   "line": 4,
+   "question": "Come si evita la battaglia quando si riuniscono due famiglie?",
+   "options": [
+    "Facendo mescolare gli odori piano piano",
+    "Dando tanto fumo a tutte e due le casse",
+    "Togliendo le guardiane da entrambe le casse",
+    "Riunendole di notte con una luce accesa"
+   ],
+   "answer": 0,
+   "why": "Il foglio di giornale fa mescolare gli odori a poco a poco, prima dell'incontro vero."
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "code": "3.4",
+ "order": [
+  {
+   "title": "Dalla perdita della regina alle ovificatrici",
+   "steps": [
+    "La regina muore o si perde",
+    "Non arrivano più uova nuove",
+    "Le api fanno celle reali d'emergenza",
+    "La regina d'emergenza non riesce",
+    "Alcune operaie sviluppano le ovaie",
+    "Nasce solo covata da fuco"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Usare il telaino di prova",
+   "steps": [
+    "Sospetti che la famiglia sia orfana",
+    "Prendi un telaino con uova e larve giovani",
+    "Mettilo nella famiglia sospetta",
+    "Aspetta qualche giorno",
+    "Controlla se ci sono celle reali",
+    "Decidi il rimedio"
+   ],
+   "slide": 4
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Nasco in una famiglia senza regina",
+    "Depongo più uova nella stessa cella",
+    "Dalle mie uova nascono solo fuchi"
+   ],
+   "answer": "Operaia ovificatrice",
+   "distractors": [
+    "Regina vergine",
+    "Nutrice giovane",
+    "Regina fucaiola"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Mi prendi da un'altra arnia",
+    "Porto uova e larve giovani",
+    "Ti dico se la famiglia è orfana"
+   ],
+   "answer": "Telaino di prova",
+   "distractors": [
+    "Telaino da nido",
+    "Melario vuoto",
+    "Diaframma"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Nasco in mezzo al favo",
+    "Mi costruiscono da una cella di operaia",
+    "Mi fanno quando la regina manca"
+   ],
+   "answer": "Cella d'emergenza",
+   "distractors": [
+    "Cella da fuco",
+    "Cella da polline",
+    "Cella di sciamatura"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi trovi in fondo alla cella",
+    "Sono uno solo, dritto e bianco",
+    "Ti dico che la regina c'era da poco"
+   ],
+   "answer": "Uovo fresco",
+   "distractors": [
+    "Opercolo",
+    "Bozzolo",
+    "Cupolino"
+   ],
+   "slide": 2
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Una famiglia orfana è una famiglia senza una regina che depone.",
+   "true": true,
+   "why": "Anche una regina che non depone più lascia la famiglia come orfana.",
+   "slide": 1
+  },
+  {
+   "text": "La regina non può mai morire durante una visita.",
+   "true": false,
+   "why": "Può essere schiacciata tra i telaini o cadere fuori dall'arnia.",
+   "slide": 1
+  },
+  {
+   "text": "Una regina giovane può perdersi durante i voli nuziali.",
+   "true": true,
+   "why": "Può essere mangiata da un uccello o sbagliare arnia al ritorno.",
+   "slide": 1
+  },
+  {
+   "text": "Uova fresche nelle celle dicono che la regina c'era da poco.",
+   "true": true,
+   "why": "Le uova schiudono in pochi giorni, quindi sono un segno recente.",
+   "slide": 2
+  },
+  {
+   "text": "Le api orfane allevano regine d'emergenza da larve di fuco.",
+   "true": false,
+   "why": "Usano larve giovani di operaia, preferendo quelle di un giorno.",
+   "slide": 2
+  },
+  {
+   "text": "Le celle d'emergenza sono spesso in mezzo al favo.",
+   "true": true,
+   "why": "Nascono allargando celle normali di operaia.",
+   "slide": 2
+  },
+  {
+   "text": "Dalle uova delle operaie ovificatrici nascono nuove operaie.",
+   "true": false,
+   "why": "Le loro uova non sono fecondate: nascono solo fuchi.",
+   "slide": 3
+  },
+  {
+   "text": "Le ovificatrici depongono spesso più uova per cella.",
+   "true": true,
+   "why": "Hanno l'addome corto e mettono le uova anche sulle pareti.",
+   "slide": 3
+  },
+  {
+   "text": "Il profumo della regina frena le ovaie delle operaie.",
+   "true": true,
+   "why": "Quando la regina manca, quel freno sparisce.",
+   "slide": 3
+  },
+  {
+   "text": "Se sul telaino di prova nascono celle reali, la regina c'è.",
+   "true": false,
+   "why": "Al contrario: le celle reali dicono che la famiglia è orfana.",
+   "slide": 4
+  },
+  {
+   "text": "Una famiglia con ovificatrici accetta sempre subito una regina nuova.",
+   "true": false,
+   "why": "Spesso la rifiuta: per questo è un caso difficile.",
+   "slide": 4
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "code": "6.4",
+ "turns": [
+  {
+   "part": 0,
+   "line": 4,
+   "question": "Come può viaggiare un insetto dalla Cina alla Francia?",
+   "options": [
+    "Nascosto nelle merci, su una nave",
+    "Volando da solo, paese dopo paese",
+    "Portato dagli uccelli che migrano",
+    "Spinto dal vento sopra le montagne"
+   ],
+   "answer": 0,
+   "why": "La velutina è arrivata in Europa con il commercio: una regina nascosta tra le merci."
+  },
+  {
+   "part": 1,
+   "line": 7,
+   "question": "Cosa succede se uccidiamo tutti i calabroni perché li confondiamo?",
+   "options": [
+    "Le api producono più miele in estate",
+    "La vespa velutina sparisce del tutto",
+    "Le arnie diventano più calde d'inverno",
+    "Facciamo un danno al nostro ambiente"
+   ],
+   "answer": 3,
+   "why": "Il calabrone nostrano fa parte dell'ambiente e non è il vero problema: va rispettato."
+  },
+  {
+   "part": 2,
+   "line": 6,
+   "question": "Cosa fa una colonia di velutine che non entra più nel primo nido?",
+   "options": [
+    "Divide le operaie in tanti nidi piccoli",
+    "Costruisce un nido nuovo più grande",
+    "Entra in un'arnia e caccia le api",
+    "Allarga il nido scavando nel terreno"
+   ],
+   "answer": 1,
+   "why": "In estate la colonia si sposta in un nido secondario, grande, spesso in alto sugli alberi."
+  },
+  {
+   "part": 3,
+   "line": 7,
+   "question": "Qual è il danno più grande che la velutina fa alla famiglia?",
+   "options": [
+    "Le api perdono le ali dopo l'attacco",
+    "La regina viene rapita dalla vespa",
+    "Le api hanno paura e non escono più",
+    "Il miele si guasta dentro i favi"
+   ],
+   "answer": 2,
+   "why": "È la paralisi del bottinamento: entra poco cibo e la famiglia arriva debole all'inverno."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Qual è il vantaggio più grande della museruola?",
+   "options": [
+    "Le api tornano a uscire a cercare cibo",
+    "Le vespe muoiono appena la toccano",
+    "La regina depone il doppio delle uova",
+    "Il miele diventa più chiaro e dolce"
+   ],
+   "answer": 0,
+   "why": "Senza la vespa che caccia davanti alla porta, le api non hanno paura e bottinano."
+  }
+ ]
+}

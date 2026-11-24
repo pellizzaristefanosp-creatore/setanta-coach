@@ -1,0 +1,96 @@
+{
+ "code": "3.3",
+ "turns": [
+  {
+   "part": 0,
+   "line": 6,
+   "question": "Cosa succede se il profumo della regina arriva male a tante api?",
+   "options": [
+    "Le api smettono di uscire dall'arnia",
+    "Le api iniziano ad allevare nuove regine",
+    "Le api fanno più miele per la regina",
+    "Le api cacciano subito tutti i fuchi"
+   ],
+   "answer": 1,
+   "why": "Senza il segnale della regina, le api allevano nuove regine, spesso per sciamare."
+  },
+  {
+   "part": 1,
+   "line": 0,
+   "question": "Perché un apicoltore alleva le sue regine?",
+   "options": [
+    "Per vendere tutte le api in autunno",
+    "Per non dover più visitare le arnie",
+    "Per avere più fuchi in primavera",
+    "Per scegliere lui le regine migliori"
+   ],
+   "answer": 3,
+   "why": "Allevando da famiglie scelte, l'apicoltore moltiplica le qualità che vuole."
+  },
+  {
+   "part": 2,
+   "line": 6,
+   "question": "Perché nel traslarvo si sceglie una larva così giovane?",
+   "options": [
+    "Perché è nutrita da regina fin dall'inizio",
+    "Perché è più leggera da trasportare",
+    "Perché non ha ancora bisogno di mangiare",
+    "Perché le api non la riconoscono"
+   ],
+   "answer": 0,
+   "why": "Nutrita subito con pappa reale, la larva giovane diventa una regina più completa."
+  },
+  {
+   "part": 3,
+   "line": 4,
+   "question": "Perché una famiglia orfana accetta volentieri le larve nei cupolini?",
+   "options": [
+    "Perché ha troppo miele e poco spazio",
+    "Perché le sue api sono tutte vecchie",
+    "Perché vuole subito una nuova regina",
+    "Perché i fuchi le chiedono una regina"
+   ],
+   "answer": 2,
+   "why": "Senza regina, le api nutrono le larve con tanta pappa reale per farne una regina."
+  },
+  {
+   "part": 4,
+   "line": 6,
+   "question": "Perché alla famiglia conviene avere tanti padri?",
+   "options": [
+    "Perché le figlie sono tutte uguali tra loro",
+    "Perché nascono più fuchi per l'estate",
+    "Perché le figlie sono più varie e se la cavano meglio",
+    "Perché la regina vive il doppio degli anni"
+   ],
+   "answer": 2,
+   "why": "Una famiglia varia lavora meglio, cresce di più e sverna meglio."
+  },
+  {
+   "part": 5,
+   "line": 4,
+   "question": "A cosa serve il puntino colorato sulla regina?",
+   "options": [
+    "A trovarla in fretta e sapere l'anno",
+    "A proteggerla dalle punture delle api",
+    "A farla riconoscere dai suoi fuchi",
+    "A tenere lontana la varroa da lei"
+   ],
+   "answer": 0,
+   "why": "Il puntino aiuta a trovarla tra migliaia di api e il colore dice l'anno."
+  },
+  {
+   "part": 6,
+   "line": 6,
+   "question": "Perché conviene una regina di un allevatore serio della tua zona?",
+   "options": [
+    "Perché costa sempre meno di tutte le altre",
+    "Perché la qualità cambia e le api locali sono adatte",
+    "Perché arriva già dentro la sua arnia nuova",
+    "Perché non ha bisogno di essere accettata"
+   ],
+   "answer": 1,
+   "why": "La qualità varia tra allevatori, e le api adatte al territorio vivono meglio."
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "code": "1.1",
+ "parts": [
+  {
+   "part": 0,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ciao Enrica, benvenuta! Oggi cominciamo dal principio: la società delle api. Chi abita in un'arnia e come si organizza."
+    },
+    {
+     "who": "E",
+     "text": "Ciao Tonino! Io finora ho visto solo api sui fiori. Non so nemmeno quante ce ne siano in una cassetta."
+    },
+    {
+     "who": "M",
+     "text": "In estate una colonia forte conta decine di migliaia di api. Ma la cosa bella è che non sono tante api sparse: sono una famiglia sola."
+    },
+    {
+     "who": "E",
+     "text": "Una famiglia? Tipo mamma, figlie e fratelli?"
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. C'è una regina, che è la mamma di quasi tutte. Ci sono le operaie, che sono le figlie femmine. E ci sono i fuchi, i maschi."
+    },
+    {
+     "who": "E",
+     "text": "E ognuno fa quello che vuole, o c'è un capo che comanda?"
+    },
+    {
+     "who": "M",
+     "text": "Nessun capo con il fischietto. Ognuno fa la sua parte, e insieme si comportano come un unico corpo. Per questo si parla di superorganismo."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, un'ape operaia presa da sola e chiusa in un barattolo con un po' di miele, quanto resiste?"
+    },
+    {
+     "who": "E",
+     "text": "Poco, credo. Da sola non può scaldarsi, non può allevare piccoli, non ha le compagne che la puliscono e la nutrono."
+    },
+    {
+     "who": "M",
+     "text": "Brava. Un'ape sola è come una mano staccata dal corpo: non va lontano. La vera unità è la colonia intera."
+    },
+    {
+     "who": "E",
+     "text": "Quindi quando guardo un'arnia devo pensare alla famiglia, non alla singola ape."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. E ti dico una curiosità: la regina si accoppia con molti fuchi, così le figlie sono sorelle un po' diverse tra loro."
+    },
+    {
+     "who": "E",
+     "text": "E questo serve a qualcosa, o è solo un caso?"
+    },
+    {
+     "who": "M",
+     "text": "Serve eccome. Gli studiosi hanno visto che le colonie con api più varie crescono meglio e superano meglio l'inverno. La varietà rende forte la famiglia."
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "lines": [
+    {
+     "who": "E",
+     "text": "Tonino, parliamo della regina. Nei film sembra la padrona dell'alveare. È così?"
+    },
+    {
+     "who": "M",
+     "text": "Più che padrona, è la mamma. Di solito ce n'è una sola per colonia, ed è l'unica femmina che depone uova fecondate."
+    },
+    {
+     "who": "E",
+     "text": "E come la riconosco in mezzo a tutte le altre?"
+    },
+    {
+     "who": "M",
+     "text": "Ha l'addome più lungo, che va oltre le ali. Cammina con calma, e spesso intorno a lei c'è un cerchio di operaie girate verso di lei: la sua corte."
+    },
+    {
+     "who": "E",
+     "text": "E i fuchi a cosa le servono?"
+    },
+    {
+     "who": "M",
+     "text": "Da giovane la regina esce per il volo nuziale e si accoppia in aria con molti fuchi. Conserva il loro seme in una piccola sacca, la spermateca, e lo usa per tutta la vita."
+    },
+    {
+     "who": "E",
+     "text": "Quindi non esce più a cercare fuchi?"
+    },
+    {
+     "who": "M",
+     "text": "Di norma no. Poi decide lei, uovo per uovo: se lo feconda nasce una femmina, se non lo feconda nasce un maschio."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, come fanno migliaia di operaie a sapere che la loro regina c'è ed è in salute, anche se non la vedono?"
+    },
+    {
+     "who": "E",
+     "text": "Forse dall'odore? Lei lascia un profumo che passa da un'ape all'altra."
+    },
+    {
+     "who": "M",
+     "text": "Esatto! Le operaie della corte la leccano e la toccano, poi portano il suo odore in giro per l'arnia. È come un messaggio che dice: tutto bene, la mamma è qui."
+    },
+    {
+     "who": "E",
+     "text": "E se la regina muore, se ne accorgono subito?"
+    },
+    {
+     "who": "M",
+     "text": "Abbastanza in fretta, perché quel messaggio sparisce. La colonia diventa agitata e prova ad allevare una regina nuova da una larva giovane."
+    },
+    {
+     "who": "E",
+     "text": "Allora la regina tiene unita la famiglia più con il profumo che con gli ordini."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Adesso guardiamo da vicino il corpo di un'operaia. Come tutti gli insetti ha tre parti: capo, torace e addome."
+    },
+    {
+     "who": "E",
+     "text": "Partiamo dalla testa, allora. Cosa c'è di speciale?"
+    },
+    {
+     "who": "M",
+     "text": "Due antenne per sentire odori e tocchi, due grandi occhi composti e tre occhietti in alto. Poi le mandibole, per masticare la cera, e la ligula."
+    },
+    {
+     "who": "E",
+     "text": "La ligula cos'è?"
+    },
+    {
+     "who": "M",
+     "text": "È la lingua lunga, come una cannuccia pelosa. Con quella succhia il nettare in fondo ai fiori e lo mette in una specie di borsa nell'addome."
+    },
+    {
+     "who": "E",
+     "text": "E nel torace?"
+    },
+    {
+     "who": "M",
+     "text": "Lì ci sono i muscoli del volo, due paia di ali e tre paia di zampe. Sulle zampe di dietro c'è la corbicula, il cestino del polline."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, da dove viene la cera con cui le api costruiscono i favi?"
+    },
+    {
+     "who": "E",
+     "text": "La fanno loro con il corpo? Forse da qualche ghiandola sotto la pancia."
+    },
+    {
+     "who": "M",
+     "text": "Proprio così. Sotto l'addome le operaie giovani hanno quattro paia di ghiandole della cera. Escono piccole scaglie che poi masticano e modellano."
+    },
+    {
+     "who": "E",
+     "text": "E il pungiglione? Ho sentito che se punge muore."
+    },
+    {
+     "who": "M",
+     "text": "L'operaia ha un pungiglione con piccoli uncini. Nella pelle di una persona resta agganciato e l'ape, staccandosi, muore. La regina invece ha il pungiglione liscio, i fuchi non ce l'hanno."
+    },
+    {
+     "who": "E",
+     "text": "Quindi pungere è l'ultima cosa che un'operaia vuole fare."
+    },
+    {
+     "who": "M",
+     "text": "Esatto, lo fa solo per difendere la famiglia. E nel capo ha anche le ghiandole che fanno la pappa per le larve: le vediamo nella prossima parte."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "lines": [
+    {
+     "who": "E",
+     "text": "Tonino, le operaie fanno tutte lo stesso lavoro?"
+    },
+    {
+     "who": "M",
+     "text": "No, e qui c'è una delle cose più belle delle api. Un'operaia cambia lavoro con l'età, un po' come si cambiano mansioni in una bottega di famiglia."
+    },
+    {
+     "who": "E",
+     "text": "Racconta, da dove comincia?"
+    },
+    {
+     "who": "M",
+     "text": "Appena nata pulisce le celle, così la regina può deporre di nuovo. Poi diventa nutrice: dà la pappa alle larve con le ghiandole che ha nel capo."
+    },
+    {
+     "who": "E",
+     "text": "E dopo le nutrici?"
+    },
+    {
+     "who": "M",
+     "text": "Viene il periodo di mezzo. Costruisce favi con la cera, riceve il nettare dalle compagne e lo sistema, porta fuori i rifiuti, fa la guardia all'ingresso."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, perché il lavoro fuori, a cercare cibo, lo fanno le api più anziane e non le giovani?"
+    },
+    {
+     "who": "E",
+     "text": "Perché fuori è pericoloso! Se muore un'ape che ha già lavorato tanto in casa, la famiglia perde meno."
+    },
+    {
+     "who": "M",
+     "text": "Brava, è proprio questa l'idea. Le bottinatrici volano tra fiori, vento, uccelli e pioggia. Dopo circa tre settimane in casa, l'operaia comincia a uscire."
+    },
+    {
+     "who": "E",
+     "text": "Ma è una regola rigida? Se mancano bottinatrici, la colonia resta senza cibo?"
+    },
+    {
+     "who": "M",
+     "text": "No, è flessibile. Se mancano bottinatrici, alcune api più giovani escono prima. Se mancano nutrici, qualcuna può tornare a curare le larve."
+    },
+    {
+     "who": "E",
+     "text": "Allora l'età conta, ma conta di più quello che serve alla famiglia."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. E d'inverno, quando non ci sono fiori, le api lavorano in un modo diverso ancora. Ne parliamo nella lezione sul ciclo dell'anno."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "lines": [
+    {
+     "who": "M",
+     "text": "Ultimi abitanti dell'arnia: i fuchi, cioè i maschi. Nascono da uova non fecondate, quindi hanno solo la mamma."
+    },
+    {
+     "who": "E",
+     "text": "Come li riconosco?"
+    },
+    {
+     "who": "M",
+     "text": "Sono più grossi e tozzi delle operaie, con occhi enormi che si toccano sopra la testa. E quando volano fanno un ronzio più forte."
+    },
+    {
+     "who": "E",
+     "text": "Lavorano anche loro? Raccolgono nettare?"
+    },
+    {
+     "who": "M",
+     "text": "No. Non hanno la corbicula, hanno la lingua corta e non producono cera. Spesso sono le operaie che li nutrono."
+    },
+    {
+     "who": "E",
+     "text": "E allora a cosa servono? Sembra un po' ingiusto."
+    },
+    {
+     "who": "M",
+     "text": "Hanno un compito solo, ma importante: accoppiarsi con le regine giovani di altre colonie. Si radunano in volo in zone precise, dette aree di raduno."
+    },
+    {
+     "who": "M",
+     "text": "Secondo te, perché per una colonia conviene mandare fuori tanti fuchi, se pochi riusciranno ad accoppiarsi?"
+    },
+    {
+     "who": "E",
+     "text": "Perché così i suoi geni arrivano in altre famiglie. E più fuchi ci sono in aria, più è facile che una regina li trovi."
+    },
+    {
+     "who": "M",
+     "text": "Esatto. Il fuco che si accoppia muore subito dopo. Gli altri tornano a casa a mangiare."
+    },
+    {
+     "who": "E",
+     "text": "E d'inverno? Restano al caldo con le operaie?"
+    },
+    {
+     "who": "M",
+     "text": "No. In autunno, quando i fiori finiscono, le operaie smettono di nutrirli e li spingono fuori. D'inverno una famiglia sana di solito non ha fuchi."
+    },
+    {
+     "who": "E",
+     "text": "Quindi se a fine estate vedo i fuchi cacciati fuori, è normale."
+    },
+    {
+     "who": "M",
+     "text": "Normale e anche un buon segno: la famiglia si sta preparando all'inverno e risparmia le scorte."
+    }
+   ]
+  }
+ ]
+}

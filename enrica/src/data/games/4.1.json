@@ -1,0 +1,143 @@
+{
+ "code": "4.1",
+ "order": [
+  {
+   "title": "Cosa fare con un saccheggio in corso",
+   "steps": [
+    "Chiudi l'arnia che stavi visitando",
+    "Copri tutti i telaini tolti",
+    "Stringi l'entrata della famiglia attaccata",
+    "Metti un telo bagnato sull'arnia",
+    "Aspetta la sera prima di controllare",
+    "Decidi se nutrire o unire la famiglia"
+   ],
+   "slide": 5
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Mi usi soprattutto quando i fiori finiscono",
+    "Rendo più piccolo un passaggio",
+    "Mi metti davanti all'entrata dell'arnia"
+   ],
+   "answer": "Il riduttore di porticina",
+   "distractors": [
+    "Il nutritore a goccia",
+    "L'escludiregina",
+    "Il coprifavo di legno"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Quando mancano i fiori, faccio più attenzione",
+    "Annuso ogni ape che arriva",
+    "Difendo l'entrata dell'arnia dalle ladre"
+   ],
+   "answer": "La guardiana",
+   "distractors": [
+    "La nutrice",
+    "La bottinatrice",
+    "La ceraiola"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Non faccio rumore e non lascio api morte",
+    "Colpisco spesso famiglie deboli o malate",
+    "Sono un furto silenzioso di miele"
+   ],
+   "answer": "Il saccheggio latente",
+   "distractors": [
+    "Il saccheggio violento",
+    "Lo sciame naturale",
+    "Il volo di orientamento"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Viaggio sulle api ladre",
+    "Sono un acaro dal colore rosso scuro",
+    "Mi combatti con trattamenti autorizzati"
+   ],
+   "answer": "La varroa",
+   "distractors": [
+    "La nosema",
+    "La vespa",
+    "La formica"
+   ],
+   "slide": 2
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Rubare miele è un istinto naturale delle api.",
+   "true": true,
+   "why": "Le api portano a casa zucchero da qualsiasi fonte, anche da un'altra arnia.",
+   "slide": 1
+  },
+  {
+   "text": "Il carattere di una famiglia non cambia mai, nemmeno cambiando regina.",
+   "true": false,
+   "why": "Le nuove api nascono dalla nuova regina e ne ereditano i geni.",
+   "slide": 1
+  },
+  {
+   "text": "Nel saccheggio violento si vedono api che lottano sul predellino.",
+   "true": true,
+   "why": "Lotte, api morte e ronzio acuto sono i segni tipici.",
+   "slide": 2
+  },
+  {
+   "text": "Il saccheggio latente è rumoroso e pieno di api morte.",
+   "true": false,
+   "why": "È silenzioso: le ladre entrano ed escono senza lotte.",
+   "slide": 2
+  },
+  {
+   "text": "Il saccheggio può diffondere la varroa tra le famiglie.",
+   "true": true,
+   "why": "Le ladre portano a casa acari dalle famiglie che crollano.",
+   "slide": 2
+  },
+  {
+   "text": "Il saccheggio è più frequente quando mancano le fioriture.",
+   "true": true,
+   "why": "Senza nettare le bottinatrici cercano zucchero nelle arnie vicine.",
+   "slide": 3
+  },
+  {
+   "text": "Una famiglia forte è più a rischio di una famiglia debole.",
+   "true": false,
+   "why": "Le famiglie deboli hanno poche api per difendere il miele.",
+   "slide": 3
+  },
+  {
+   "text": "Lo sciroppo va dato al mattino, davanti all'arnia.",
+   "true": false,
+   "why": "Va dato la sera, dentro l'arnia, senza versarne.",
+   "slide": 4
+  },
+  {
+   "text": "Un'entrata stretta aiuta le guardiane a difendere la famiglia.",
+   "true": true,
+   "why": "Un passaggio piccolo si sorveglia meglio.",
+   "slide": 4
+  },
+  {
+   "text": "Con un saccheggio in corso conviene aprire l'arnia per controllare.",
+   "true": false,
+   "why": "Aprire libera odore di miele e peggiora la rapina.",
+   "slide": 5
+  },
+  {
+   "text": "Un'arnia morta va chiusa e portata via subito.",
+   "true": true,
+   "why": "Se viene saccheggiata, le malattie passano alle altre famiglie.",
+   "slide": 5
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+  "code": "6.3",
+  "unit": 6,
+  "title": "Il coleottero Aethina tumida",
+  "pages": "299–308",
+  "summary": "Impari a conoscere il piccolo coleottero dell'alveare, arrivato dall'Africa in Calabria nel 2014: come riconoscerlo, perché fa fermentare il miele e cosa devi fare se lo trovi. Scopri anche come proteggere arnie e laboratorio di smielatura.",
+  "parts": [
+    {
+      "title": "La diffusione in Italia",
+      "keyPoints": [
+        "Arriva dall'Africa a sud del Sahara",
+        "In Italia trovato in Calabria a settembre 2014",
+        "Oggi soprattutto in Calabria e nel nord-est della Sicilia",
+        "Si sposta con api e materiale spostati dall'uomo",
+        "Va segnalato subito al Servizio veterinario dell'ASL"
+      ],
+      "analogy": "È come un ospite sgradito che viaggia nascosto in valigia: non vola lontano da solo, ma arriva dove lo portiamo noi.",
+      "tip": "Se compri api, sciami o materiale usato, chiedi sempre da dove vengono e i documenti sanitari. Nelle zone con restrizioni non si sposta nulla.",
+      "science": {
+        "text": "Nel settembre 2014 i ricercatori dell'Università di Reggio Calabria controllavano alcune colonie vicino al porto di Gioia Tauro. Dentro tre famiglie trovarono, inaspettatamente, adulti e larve di Aethina tumida: era la prima volta in Italia.",
+        "source": "Palmeri et al. 2015, Apidologie",
+        "url": "https://doi.org/10.1007/s13592-014-0343-9"
+      },
+      "check": {
+        "question": "Dove è stato trovato per la prima volta in Italia questo coleottero?",
+        "options": [
+          "In Liguria, vicino al confine francese",
+          "In Calabria, vicino al porto di Gioia Tauro",
+          "In Veneto, vicino alla laguna di Venezia",
+          "In Puglia, vicino al porto di Brindisi"
+        ],
+        "answer": 1,
+        "explanation": "Nel settembre 2014, in colonie vicino al porto di Gioia Tauro, in Calabria."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Buongiorno Enrica! Oggi parliamo di un piccolo coleottero che fa paura agli apicoltori: Aethina tumida, detto anche piccolo coleottero dell'alveare." },
+        { "who": "E", "text": "Un coleottero? Pensavo che i nemici fossero soprattutto la varroa e le vespe." },
+        { "who": "M", "text": "Anche loro. Ma questo è un ospite arrivato da lontano: vive nell'Africa a sud del Sahara, dove le api locali sanno difendersi bene." },
+        { "who": "E", "text": "E come è arrivato fino a noi?" },
+        { "who": "M", "text": "Nessuno lo sa con certezza. Nel settembre 2014 lo hanno trovato in Calabria, in alcune arnie vicino al porto di Gioia Tauro." },
+        { "who": "M", "text": "Secondo te, perché proprio vicino a un grande porto?" },
+        { "who": "E", "text": "Forse perché lì arrivano navi e merci da tutto il mondo, e il coleottero ha viaggiato nascosto." },
+        { "who": "M", "text": "Brava, è proprio il motivo per cui si controllano le zone dei porti. Da allora è rimasto soprattutto in Calabria e nel nord-est della Sicilia." },
+        { "who": "E", "text": "Quindi qui da noi non c'è?" },
+        { "who": "M", "text": "Per ora la zona è limitata, ma a giugno 2026 c'è stato un caso a Gaeta, nel Lazio, per api portate dalla Calabria." },
+        { "who": "E", "text": "Allora il pericolo vero siamo noi, quando spostiamo le api." },
+        { "who": "M", "text": "Esatto. Per questo è una malattia da denunciare per legge, anche in tutta l'Unione Europea. Se hai un dubbio, chiami subito il Servizio veterinario della tua ASL." },
+        { "who": "E", "text": "E se lo trovano, cosa succede intorno?" },
+        { "who": "M", "text": "Si crea una zona di protezione, di solito di venti chilometri, dove non si possono far uscire api, attrezzi e prodotti dell'alveare non lavorati." }
+      ]
+    },
+    {
+      "title": "Caratteristiche e comportamento",
+      "keyPoints": [
+        "Adulto scuro, lungo circa mezzo centimetro",
+        "Antenne con la punta a clava",
+        "Le larve mangiano covata, polline e miele",
+        "Il miele fermenta, cola e puzza",
+        "Le larve si trasformano nel terreno vicino"
+      ],
+      "analogy": "Pensa a una frutta dimenticata nel cesto: arriva un moscerino, poi la muffa, e in pochi giorni tutto fermenta e cola. Le larve fanno lo stesso con i favi.",
+      "tip": "Distingui le larve: quelle del coleottero hanno tre paia di zampette vicino alla testa e spine sul dorso, e non fanno ragnatele come la tarma della cera.",
+      "science": {
+        "text": "Il coleottero porta con sé un lievito, Kodamaea ohmeri. Cresciuto sul polline dell'alveare, questo lievito produce gli stessi odori che le api usano come allarme. Quegli odori attirano altri coleotteri: così l'infestazione si allarga.",
+        "source": "Torto et al. 2007, PNAS",
+        "url": "https://doi.org/10.1073/pnas.0702813104"
+      },
+      "check": {
+        "question": "Che cosa succede al miele quando le larve del coleottero si moltiplicano?",
+        "options": [
+          "Si cristallizza in fretta e diventa duro",
+          "Diventa più chiaro e perde il profumo",
+          "Fermenta, diventa viscido e cola dai favi",
+          "Si asciuga e resta sigillato negli opercoli"
+        ],
+        "answer": 2,
+        "explanation": "Le larve, con il lievito che portano, fanno fermentare il miele: cola e puzza."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Adesso impariamo a riconoscerlo. L'adulto è un coleottero scuro, lungo circa mezzo centimetro, con le antenne che finiscono a pallina, come una clava." },
+        { "who": "E", "text": "Così piccolo? E come fa a fare danni a una famiglia intera?" },
+        { "who": "M", "text": "Il danno lo fanno soprattutto le larve. La femmina depone le uova nelle fessure dell'arnia e le larve mangiano covata, polline e miele." },
+        { "who": "E", "text": "La covata sono uova, larve e pupe delle api, giusto?" },
+        { "who": "M", "text": "Giusto. E c'è di peggio: il coleottero porta con sé un lievito. Insieme, larve e lievito fanno fermentare il miele." },
+        { "who": "E", "text": "Fermentare come il mosto in cantina?" },
+        { "who": "M", "text": "Più o meno. Il miele diventa viscido, cola fuori dai favi e ha un odore cattivo, di frutta marcia." },
+        { "who": "M", "text": "Secondo te, cosa fanno le api davanti a un'arnia così rovinata?" },
+        { "who": "E", "text": "Credo che possano anche abbandonarla, perché non si può più vivere lì dentro." },
+        { "who": "M", "text": "Sì, a volte la famiglia scappa. Poi le larve, quando sono cresciute, escono dall'arnia e si infilano nel terreno vicino per trasformarsi." },
+        { "who": "E", "text": "Quindi una parte della vita la passano sotto terra, non nell'arnia." },
+        { "who": "M", "text": "Proprio così, di solito a pochi centimetri di profondità. Per questo, nei focolai, si controlla e si tratta anche il terreno." },
+        { "who": "E", "text": "E come le distinguo dalle larve della tarma della cera?" },
+        { "who": "M", "text": "Le larve del coleottero hanno tre paia di zampette vicino alla testa e piccole spine sul dorso. Non fanno ragnatele." }
+      ]
+    },
+    {
+      "title": "La prevenzione",
+      "keyPoints": [
+        "Tieni famiglie forti e ben popolate",
+        "Non lasciare spazio vuoto nell'arnia",
+        "Non lasciare favi e miele all'aperto",
+        "Compra api solo con documenti sanitari",
+        "Rispetta i divieti di spostamento"
+      ],
+      "analogy": "È come tenere la dispensa in ordine: con i barattoli chiusi e la cucina pulita, gli insetti non trovano niente da mangiare.",
+      "tip": "Restringi l'arnia alle api che hai: troppi favi vuoti sono stanze senza guardiani. Togli subito favi rotti, pezzi di cera e avanzi di miele dall'apiario.",
+      "science": {
+        "text": "Uno studio ha contato i coleotteri nelle arnie in Africa, America, Australia e Italia. In Italia le infestazioni erano più basse che altrove. Gli autori pensano che dipenda dalle regole di controllo applicate con decisione.",
+        "source": "Palonen et al. 2025, Apidologie",
+        "url": "https://doi.org/10.1007/s13592-025-01206-8"
+      },
+      "check": {
+        "question": "Perché una famiglia forte si difende meglio dal coleottero?",
+        "options": [
+          "Perché ci sono abbastanza api per sorvegliare tutti i favi",
+          "Perché le api forti producono un veleno contro i coleotteri",
+          "Perché la regina depone uova che il coleottero non mangia",
+          "Perché nelle famiglie forti il miele non può mai fermentare"
+        ],
+        "answer": 0,
+        "explanation": "Molte api coprono tutti i favi e inseguono i coleotteri: restano pochi angoli liberi."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Parliamo di prevenzione, che è la difesa più importante. La prima regola è avere famiglie forti, con tante api." },
+        { "who": "E", "text": "Perché conta tanto il numero delle api?" },
+        { "who": "M", "text": "Perché le api inseguono i coleotteri e li chiudono negli angoli. Ma servono abbastanza api per sorvegliare ogni favo." },
+        { "who": "M", "text": "Secondo te, cosa succede se in un'arnia ci sono tanti favi e poche api?" },
+        { "who": "E", "text": "I favi senza api restano senza guardiani, e il coleottero può deporre le uova lì." },
+        { "who": "M", "text": "Esatto. Per questo l'arnia va ristretta alla forza della famiglia, con il diaframma, cioè la tavoletta che separa i favi usati da quelli vuoti." },
+        { "who": "E", "text": "E poi cosa devo fare in apiario?" },
+        { "who": "M", "text": "Tieni pulito. Niente favi, pezzi di cera o miele lasciati in giro: attirano coleotteri, vespe e saccheggi." },
+        { "who": "E", "text": "Come in cucina: se lasci le briciole, arrivano le formiche." },
+        { "who": "M", "text": "Proprio così. Poi stai attenta a cosa compri. Api, sciami e regine solo da allevatori seri, con i documenti sanitari." },
+        { "who": "E", "text": "E se vivessi vicino a una zona con il coleottero?" },
+        { "who": "M", "text": "Allora rispetti con cura i divieti di spostamento. E durante le visite guardi bene sotto il coprifavo e sul fondo, dove si nascondono gli adulti." },
+        { "who": "E", "text": "E se vedo qualcosa di strano, non tocco niente e chiamo l'ASL." },
+        { "who": "M", "text": "Brava. Meglio una telefonata in più che un focolaio nascosto. Ricorda che le regole possono cambiare: chiedi sempre alla tua ASL o all'associazione." }
+      ]
+    },
+    {
+      "title": "I sistemi di controllo",
+      "keyPoints": [
+        "In Italia l'obiettivo è fermarlo e sradicarlo",
+        "Decide sempre il Servizio veterinario",
+        "Colonie infestate distrutte, terreno trattato",
+        "Arnie sentinella e trappole per scoprirlo presto",
+        "Mai trattamenti fai da te"
+      ],
+      "analogy": "È come un incendio nel bosco: non si spegne da soli con un secchio, si chiamano i pompieri e si crea una fascia di sicurezza tutt'intorno.",
+      "tip": "Non provare insetticidi nell'arnia o sul terreno: possono uccidere le api e lasciare residui nel miele. Se sospetti il coleottero, fotografa, chiudi l'arnia e chiama l'ASL.",
+      "science": {
+        "text": "Una revisione di molti studi ha confrontato i metodi contro il coleottero. Funzionano bene alcuni vermi microscopici messi nel terreno, che uccidono le larve, e anche l'acido formico o la farina fossile. Alcuni insetticidi usati altrove in Europa sono vietati.",
+        "source": "Sabella et al. 2022, Journal of Economic Entomology",
+        "url": "https://doi.org/10.1093/jee/toac001"
+      },
+      "check": {
+        "question": "Chi decide come intervenire in un apiario con il coleottero?",
+        "options": [
+          "L'apicoltore, con un insetticida da giardino",
+          "Il comune, con una disinfestazione delle strade",
+          "L'associazione, con un trattamento di gruppo",
+          "Il Servizio veterinario dell'ASL competente"
+        ],
+        "answer": 3,
+        "explanation": "È una malattia da denunciare: le misure le decide e le applica il Servizio veterinario."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Vediamo come si combatte il coleottero quando arriva. In Italia la scelta è stata chiara: provare a fermarlo e a cancellarlo." },
+        { "who": "E", "text": "E chi lo fa? L'apicoltore da solo?" },
+        { "who": "M", "text": "No. È una malattia da denunciare, quindi decide il Servizio veterinario dell'ASL. Tu segnali e collabori." },
+        { "who": "E", "text": "E cosa fanno, di solito, in un apiario infestato?" },
+        { "who": "M", "text": "È una cosa dura: le colonie infestate vengono distrutte e il terreno intorno viene trattato, per colpire le larve nascoste." },
+        { "who": "E", "text": "Che peccato per l'apicoltore! Ma almeno c'è un aiuto?" },
+        { "who": "M", "text": "Sì, sono previsti indennizzi, cioè un rimborso per gli animali persi. Così chi segnala non ci rimette tutto." },
+        { "who": "M", "text": "Secondo te, perché è giusto distruggere poche arnie subito?" },
+        { "who": "E", "text": "Perché se il coleottero si diffonde, poi si perdono le arnie di tutta la zona." },
+        { "who": "M", "text": "Proprio così. E per scoprirlo presto si usano arnie sentinella, cioè famiglie controllate spesso, con trappole tra i favi." },
+        { "who": "E", "text": "Che tipo di trappole?" },
+        { "who": "M", "text": "Per esempio piccole strisce di cartone ondulato: il coleottero cerca fessure buie e si nasconde lì dentro. Così i veterinari lo vedono subito." },
+        { "who": "E", "text": "E io posso usare un insetticida, per stare tranquilla?" },
+        { "who": "M", "text": "No, mai di tua iniziativa. Rischi di avvelenare le api e il miele. Per i farmaci segui solo il veterinario e l'etichetta." }
+      ]
+    },
+    {
+      "title": "Prevenzione e cautela in laboratorio",
+      "keyPoints": [
+        "Smiela i melari il prima possibile",
+        "Tieni il laboratorio asciutto e arieggiato",
+        "Se devi aspettare, congela i melari",
+        "Pulisci subito opercoli, cera e gocce di miele",
+        "Controlla i melari quando arrivano"
+      ],
+      "analogy": "È come il pesce appena pescato: se lo pulisci e lo metti in frigo subito resta buono, se lo lasci sul tavolo al caldo si rovina.",
+      "tip": "Organizza la smielatura prima di togliere i melari, così non restano in magazzino. Dopo ogni giornata lava pavimento e attrezzi e chiudi gli opercoli in contenitori.",
+      "science": {
+        "text": "Una grande revisione sul coleottero ricorda che i melari tolti dalle api e lasciati fermi sono un posto ideale per le larve: nessuna ape li difende. Per questo consiglia di smielare presto e di tenere pulito il locale di lavoro.",
+        "source": "Neumann et al. 2016, Apidologie",
+        "url": "https://doi.org/10.1007/s13592-016-0426-x"
+      },
+      "check": {
+        "question": "Che cosa fai se non puoi smielare subito i melari raccolti?",
+        "options": [
+          "Li lasci al sole per seccare bene il miele",
+          "Li metti nel congelatore per qualche giorno",
+          "Li copri con un telo e li tieni in cantina",
+          "Li rimetti sull'arnia di un'altra famiglia"
+        ],
+        "answer": 1,
+        "explanation": "Il freddo intenso uccide uova e larve: è il rimedio quando si deve aspettare."
+      },
+      "dialogue": [
+        { "who": "M", "text": "Ultimo argomento: il laboratorio, cioè la stanza dove si smiela. Anche lì il coleottero può fare danni." },
+        { "who": "E", "text": "Ma lì non ci sono api. Perché dovrebbe andarci?" },
+        { "who": "M", "text": "Proprio per questo! I melari tolti dall'arnia non hanno più guardiani. Se dentro ci sono uova, le larve crescono indisturbate." },
+        { "who": "M", "text": "Secondo te, qual è la prima regola allora?" },
+        { "who": "E", "text": "Smielare presto, senza lasciare i melari fermi per tanti giorni." },
+        { "who": "M", "text": "Brava. Nei Paesi dove il coleottero è comune si consiglia di smielare entro uno o due giorni." },
+        { "who": "E", "text": "E se non ce la faccio, per esempio perché lavoro?" },
+        { "who": "M", "text": "Puoi chiudere i melari in sacchi robusti e metterli nel congelatore per almeno due giorni. Il freddo uccide uova e larve." },
+        { "who": "E", "text": "Come quando congelo la farina per le farfalline della dispensa!" },
+        { "who": "M", "text": "Proprio così. Poi conta l'aria: il locale deve essere asciutto e arieggiato. Le uova del coleottero amano l'umido." },
+        { "who": "E", "text": "E gli opercoli, quella cera che taglio per aprire le celle?" },
+        { "who": "M", "text": "Non lasciarli in un angolo: chiudili in contenitori e lavorali presto. Lava pavimento e attrezzi alla fine di ogni giornata." },
+        { "who": "E", "text": "E se all'arrivo trovo una larva strana sui melari?" },
+        { "who": "M", "text": "Fermi tutto, chiudi i melari in un sacco e chiami l'ASL. Una larva vista presto vale più di cento pulizie dopo." }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "front": "Da dove viene Aethina tumida?", "back": "Dall'Africa a sud del Sahara.", "part": 0 },
+    { "front": "Quando e dove è arrivata in Italia?", "back": "Settembre 2014, Calabria, vicino al porto di Gioia Tauro.", "part": 0 },
+    { "front": "Chi devi chiamare se sospetti il coleottero?", "back": "Il Servizio veterinario della tua ASL, subito.", "part": 0 },
+    { "front": "Come riconosci l'adulto?", "back": "Scuro, circa mezzo centimetro, antenne a clava.", "part": 1 },
+    { "front": "Che cosa fa il lievito del coleottero?", "back": "Fa fermentare il miele e produce odori che attirano altri coleotteri.", "part": 1 },
+    { "front": "Dove si trasformano le larve?", "back": "Nel terreno vicino all'arnia, a pochi centimetri.", "part": 1 },
+    { "front": "Perché restringere l'arnia?", "back": "Perché i favi senza api restano senza guardiani.", "part": 2 },
+    { "front": "Cosa fanno le autorità in un focolaio?", "back": "Distruggono le colonie infestate e trattano il terreno.", "part": 3 },
+    { "front": "Che cos'è un'arnia sentinella?", "back": "Una famiglia controllata spesso, con trappole, per scoprire presto il coleottero.", "part": 3 },
+    { "front": "Entro quando smielare?", "back": "Il prima possibile: si consiglia entro uno o due giorni.", "part": 4 },
+    { "front": "Come deve essere il laboratorio?", "back": "Pulito, asciutto e arieggiato.", "part": 4 }
+  ],
+  "questions": [
+    {
+      "question": "In quale anno il coleottero è stato trovato per la prima volta in Italia?",
+      "options": ["Nel 2014", "Nel 2004", "Nel 2020", "Nel 1996"],
+      "answer": 0,
+      "explanation": "Nel settembre 2014, in Calabria.",
+      "part": 0
+    },
+    {
+      "question": "Come si è spostato il coleottero fino a Gaeta, nel Lazio, nel 2026?",
+      "options": [
+        "Volando da solo lungo tutta la costa",
+        "Portato dal vento durante una tempesta",
+        "Con api spostate da un apiario calabrese",
+        "Dentro frutta importata dal Nord Africa"
+      ],
+      "answer": 2,
+      "explanation": "Il focolaio di Gaeta è nato da api portate da un apiario della provincia di Vibo Valentia.",
+      "part": 0
+    },
+    {
+      "question": "Che cosa vuol dire che Aethina tumida è una malattia da denunciare?",
+      "options": [
+        "Che basta scriverlo sul quaderno dell'apiario",
+        "Che si può curare solo con farmaci speciali",
+        "Che serve avvisarne i vicini entro un mese",
+        "Che va segnalata subito al Servizio veterinario"
+      ],
+      "answer": 3,
+      "explanation": "Per legge va segnalata subito all'ASL, che decide le misure.",
+      "part": 0
+    },
+    {
+      "question": "Quale parte del coleottero ti aiuta a riconoscere l'adulto?",
+      "options": [
+        "Le ali colorate di arancione",
+        "Le antenne con la punta a clava",
+        "Le zampe lunghe e pelose",
+        "Il pungiglione sulla coda"
+      ],
+      "answer": 1,
+      "explanation": "Le antenne finiscono con una piccola pallina, come una clava.",
+      "part": 1
+    },
+    {
+      "question": "Dove vanno le larve del coleottero quando hanno finito di mangiare?",
+      "options": [
+        "Restano nei favi e chiudono la cella",
+        "Volano verso un'altra arnia vicina",
+        "Escono e si infilano nel terreno vicino",
+        "Si nascondono nel tetto dell'arnia"
+      ],
+      "answer": 2,
+      "explanation": "Escono dall'arnia e si trasformano nel terreno, a pochi centimetri di profondità.",
+      "part": 1
+    },
+    {
+      "question": "Come distingui una larva del coleottero da una della tarma della cera?",
+      "options": [
+        "Ha zampette vicino alla testa e spine sul dorso",
+        "È molto più grande e fila una ragnatela bianca",
+        "È di colore rosso e vive solo dentro il polline",
+        "Non ha zampe e si muove solo dentro la cera"
+      ],
+      "answer": 0,
+      "explanation": "Tre paia di zampette e spine sul dorso; la tarma invece fa ragnatele.",
+      "part": 1
+    },
+    {
+      "question": "Perché non devi lasciare favi e cera sparsi nell'apiario?",
+      "options": [
+        "Perché si rovinano con la pioggia e il sole",
+        "Perché le api smettono di fare il miele",
+        "Perché disturbano il volo delle bottinatrici",
+        "Perché attirano coleotteri, vespe e saccheggi"
+      ],
+      "answer": 3,
+      "explanation": "Avanzi di cera e miele sono cibo facile per coleotteri e altri nemici.",
+      "part": 2
+    },
+    {
+      "question": "Che cosa controlli bene durante la visita, se vivi vicino a una zona a rischio?",
+      "options": [
+        "Il colore delle api sul predellino",
+        "Il coprifavo e il fondo dell'arnia",
+        "Il profumo dei fiori del prato",
+        "La forma delle celle da fuco"
+      ],
+      "answer": 1,
+      "explanation": "Gli adulti fuggono dalla luce e si nascondono sotto il coprifavo e sul fondo.",
+      "part": 2
+    },
+    {
+      "question": "Perché si distruggono subito le colonie infestate?",
+      "options": [
+        "Per salvare le arnie di tutta la zona",
+        "Per vendere prima il miele dell'anno",
+        "Per cambiare la razza delle api locali",
+        "Per avere arnie nuove dallo Stato"
+      ],
+      "answer": 0,
+      "explanation": "Fermare un focolaio piccolo evita che il coleottero si diffonda ovunque.",
+      "part": 3
+    },
+    {
+      "question": "A cosa servono le strisce di cartone ondulato tra i favi?",
+      "options": [
+        "A dare calore alle api durante l'inverno",
+        "A far scendere la varroa sul fondo dell'arnia",
+        "A offrire al coleottero un nascondiglio da controllare",
+        "A tenere separati i favi di covata e di miele"
+      ],
+      "answer": 2,
+      "explanation": "Il coleottero cerca fessure buie: nel cartone si nasconde e si vede subito.",
+      "part": 3
+    },
+    {
+      "question": "Perché i melari tolti dalle api sono a rischio in laboratorio?",
+      "options": [
+        "Perché il miele si raffredda troppo in fretta",
+        "Perché la cera diventa morbida e si rompe",
+        "Perché attirano le formiche dal giardino",
+        "Perché non ci sono più api a difenderli"
+      ],
+      "answer": 3,
+      "explanation": "Senza api, eventuali uova crescono indisturbate.",
+      "part": 4
+    },
+    {
+      "question": "Come deve essere l'aria del locale di smielatura?",
+      "options": [
+        "Calda e umida, come una serra",
+        "Asciutta e ben arieggiata",
+        "Chiusa e senza finestre",
+        "Fresca e piena di vapore"
+      ],
+      "answer": 1,
+      "explanation": "L'umido favorisce le uova del coleottero: meglio un locale asciutto.",
+      "part": 4
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Larve strane nel melario",
+      "prompt": "Apri un melario in laboratorio e vedi piccole larve chiare che si muovono veloci, e il miele cola con un odore acido. Cosa fai?",
+      "modelAnswer": "Ti fermi e non smieli. Guardi le larve senza schiacciarle: se hanno tre paia di zampette vicino alla testa e spine sul dorso, e non c'è ragnatela, potrebbero essere di Aethina tumida. Chiudi il melario in un sacco robusto, ben legato, così nessuna larva scappa nel terreno. Fai qualche foto e chiami subito il Servizio veterinario della tua ASL, dicendo da quale apiario viene il melario. Non sposti arnie né materiale finché i veterinari non ti dicono cosa fare. Non usi insetticidi. È una malattia da denunciare per legge: segnalare presto aiuta te e tutti gli apicoltori della zona."
+    },
+    {
+      "title": "Un'offerta di sciami dal Sud",
+      "prompt": "Un conoscente ti offre a buon prezzo alcuni sciami che arrivano da una zona della Calabria, senza documenti. Cosa fai?",
+      "modelAnswer": "Non li compri. In alcune zone della Calabria e della Sicilia c'è il coleottero Aethina tumida, e in quelle zone valgono divieti di spostamento per api e attrezzature. Il caso di Gaeta del 2026 è nato proprio da api spostate dalla Calabria. Spieghi al conoscente che compri api solo da allevatori seri, con i documenti sanitari e con l'arnia registrata. Se hai dubbi sulle regole, chiedi alla tua ASL o alla tua associazione, perché le zone e i divieti possono cambiare."
+    }
+  ],
+  "games": {
+    "order": [
+      {
+        "title": "Cosa fai se sospetti Aethina tumida",
+        "steps": [
+          "Non schiacci e non tocchi le larve",
+          "Chiudi l'arnia o il melario",
+          "Fai qualche foto chiara",
+          "Chiami il Servizio veterinario dell'ASL",
+          "Non sposti api né materiale",
+          "Segui le indicazioni dei veterinari"
+        ],
+        "part": 0
+      },
+      {
+        "title": "Dalla raccolta alla smielatura sicura",
+        "steps": [
+          "Prepari il laboratorio pulito e asciutto",
+          "Togli i melari dalle arnie",
+          "Controlli i melari quando arrivano",
+          "Smieli entro uno o due giorni",
+          "Chiudi gli opercoli in contenitori",
+          "Lavi pavimento e attrezzi"
+        ],
+        "part": 4
+      }
+    ],
+    "who": [
+      {
+        "clues": ["Mi trovi nel terreno sotto le arnie", "Esco dai favi quando ho mangiato abbastanza", "Ho tre paia di zampette e spine sul dorso"],
+        "answer": "La larva del coleottero",
+        "distractors": ["La larva della tarma", "La larva della vespa", "La larva della mosca"],
+        "part": 1
+      },
+      {
+        "clues": ["Viaggio insieme a un piccolo coleottero", "Cresco sul polline dell'alveare", "Produco odori simili all'allarme delle api"],
+        "answer": "Il lievito Kodamaea",
+        "distractors": ["Il fungo della muffa", "Il batterio peste", "Il virus delle ali"],
+        "part": 1
+      },
+      {
+        "clues": ["Decido le misure in caso di focolaio", "Ricevo le denunce delle malattie delle api", "Mi chiami subito se sospetti il coleottero"],
+        "answer": "Il Servizio veterinario",
+        "distractors": ["Il sindaco del paese", "Il negozio di apicoltura", "Il consorzio agrario"],
+        "part": 0
+      },
+      {
+        "clues": ["Mi controllano spesso i veterinari", "Ho trappole nascoste tra i favi", "Servo a scoprire presto il coleottero"],
+        "answer": "L'arnia sentinella",
+        "distractors": ["L'arnia da nucleo", "L'arnia da sciame", "L'arnia da miele"],
+        "part": 3
+      },
+      {
+        "clues": ["Mi tagli con il coltello in laboratorio", "Contengo ancora un po' di miele", "Non devo restare in un angolo"],
+        "answer": "Gli opercoli",
+        "distractors": ["Gli scarti", "I telaini", "I diaframmi"],
+        "part": 4
+      }
+    ],
+    "truefalse": [
+      { "text": "Aethina tumida è arrivata in Italia nel 2014, in Calabria.", "true": true, "why": "Trovata a settembre 2014 vicino al porto di Gioia Tauro.", "part": 0 },
+      { "text": "Il coleottero è diffuso in tutta Italia da molti anni.", "true": false, "why": "È rimasto soprattutto in Calabria e nel nord-est della Sicilia, con pochi casi fuori.", "part": 0 },
+      { "text": "Se sospetti il coleottero, devi avvisare l'ASL.", "true": true, "why": "È una malattia da denunciare per legge al Servizio veterinario.", "part": 0 },
+      { "text": "Nella zona di protezione puoi spostare liberamente le tue api.", "true": false, "why": "Nella zona di protezione è vietato far uscire api, attrezzi e prodotti non lavorati.", "part": 0 },
+      { "text": "Il danno maggiore lo fanno le larve del coleottero.", "true": true, "why": "Mangiano covata, polline e miele e lo fanno fermentare.", "part": 1 },
+      { "text": "Le larve del coleottero filano ragnatele come la tarma.", "true": false, "why": "Le ragnatele sono tipiche della tarma della cera, non del coleottero.", "part": 1 },
+      { "text": "Le larve si trasformano nel terreno vicino all'arnia.", "true": true, "why": "Escono dall'arnia e scendono a pochi centimetri sotto terra.", "part": 1 },
+      { "text": "Tanti favi vuoti nell'arnia aiutano le api a difendersi.", "true": false, "why": "Favi senza api sono senza guardiani: il coleottero ci depone le uova.", "part": 2 },
+      { "text": "Comprare api senza documenti sanitari è un rischio.", "true": true, "why": "Il coleottero viaggia con api e materiale spostati dall'uomo.", "part": 2 },
+      { "text": "Contro il coleottero puoi usare un insetticida da giardino.", "true": false, "why": "Mai trattamenti fai da te: decide il veterinario, e l'insetticida avvelena api e miele.", "part": 3 },
+      { "text": "Congelare i melari uccide uova e larve del coleottero.", "true": true, "why": "Il freddo intenso per almeno due giorni le uccide.", "part": 4 },
+      { "text": "Un laboratorio caldo e umido protegge dal coleottero.", "true": false, "why": "L'umido favorisce le uova: il locale deve essere asciutto e arieggiato.", "part": 4 }
+    ]
+  },
+  "turns": [
+    {
+      "part": 0,
+      "line": 5,
+      "question": "Perché il coleottero è comparso proprio vicino a un grande porto?",
+      "options": [
+        "Perché lì il clima è più caldo che altrove",
+        "Perché lì ci sono più fiori per le api",
+        "Perché lì arrivano navi e merci dal mondo",
+        "Perché lì gli apicoltori fanno meno visite"
+      ],
+      "answer": 2,
+      "why": "Nei porti arrivano merci da tutto il mondo: un insetto può viaggiare nascosto. Per questo si sorvegliano."
+    },
+    {
+      "part": 1,
+      "line": 7,
+      "question": "Cosa possono fare le api in un'arnia rovinata dal coleottero?",
+      "options": [
+        "Possono abbandonarla e scappare",
+        "Possono chiuderla con la cera",
+        "Possono mangiarsi tutte le larve",
+        "Possono costruire favi nuovi sopra"
+      ],
+      "answer": 0,
+      "why": "Con il miele fermentato e i favi rovinati, a volte la famiglia lascia l'arnia."
+    },
+    {
+      "part": 2,
+      "line": 3,
+      "question": "Cosa succede se nell'arnia ci sono tanti favi e poche api?",
+      "options": [
+        "Le api fanno più miele del solito",
+        "La regina depone più uova di prima",
+        "Le api si scaldano meglio d'inverno",
+        "I favi restano senza guardiani"
+      ],
+      "answer": 3,
+      "why": "Senza api a sorvegliare, il coleottero trova angoli liberi per deporre le uova."
+    },
+    {
+      "part": 3,
+      "line": 7,
+      "question": "Perché è giusto distruggere poche arnie infestate subito?",
+      "options": [
+        "Per avere un rimborso più alto dallo Stato",
+        "Per non perdere le arnie di tutta la zona",
+        "Per provare nuove regine più resistenti",
+        "Per liberare il terreno per altre arnie"
+      ],
+      "answer": 1,
+      "why": "Un piccolo sacrificio presto evita che il coleottero si diffonda e colpisca molti apiari."
+    },
+    {
+      "part": 4,
+      "line": 3,
+      "question": "Qual è la prima regola contro il coleottero in laboratorio?",
+      "options": [
+        "Lasciare i melari al caldo qualche giorno",
+        "Tenere le finestre chiuse tutta l'estate",
+        "Smielare presto, senza tenere fermi i melari",
+        "Lavare i melari con acqua prima di smielare"
+      ],
+      "answer": 2,
+      "why": "I melari fermi non hanno guardiani: smielare presto non lascia tempo alle larve di crescere."
+    }
+  ]
+}

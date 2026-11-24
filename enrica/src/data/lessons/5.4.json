@@ -1,0 +1,401 @@
+{
+ "version": 1,
+ "code": "5.4",
+ "unit": 5,
+ "title": "La pappa reale",
+ "pages": "203–214",
+ "summary": "Scopri chi produce la pappa reale, dove si trova nell'alveare e che cosa contiene davvero. Impari come si avvia la produzione con le celle artificiali, come si sposta una larva e come si conserva la pappa.",
+ "parts": [
+  {
+   "slide": 1,
+   "title": "Come e perché le api la producono",
+   "narration": "Ciao Enrica! Oggi parliamo della pappa reale, quella crema bianca che fa diventare regina una larva. È uno dei prodotti più preziosi dell'alveare. Ciao Tonino! L'ho vista nei vasetti in erboristeria. Ma chi la fa? La regina? No, la regina la mangia e basta. La fanno le nutrici, cioè le operaie di pochi giorni che si occupano della covata. E da dove esce? Dalla pancia, come il miele? Dalla testa! Le nutrici hanno delle ghiandole vicino alla bocca. Le più importanti si chiamano ipofaringee e mandibolari. Insieme preparano questa crema. Quindi è una specie di latte delle api. Brava, è il paragone giusto. Tutte le larve la ricevono nei primi giorni di vita. Poi le future operaie passano a una pappa più semplice, con miele e polline. E la futura regina? Lei riceve pappa reale in abbondanza fino alla fine della crescita. Secondo te, perché le api fanno tanta fatica per una sola larva? Perché senza una regina la famiglia non ha più uova e finisce. Una regina nuova salva tutta la colonia. Esatto. Le api allevano regine quando la vecchia va sostituita, quando preparano la sciamatura o quando la regina muore all'improvviso. Allora è il cibo a fare la regina, non la nascita. Sì: uova uguali, cibo diverso. Una larva femmina può diventare operaia o regina. Decide la cucina delle nutrici. Che bella idea: la famiglia si sceglie la mamma dandole da mangiare.",
+   "keyPoints": [
+    "La producono le nutrici, operaie di pochi giorni",
+    "Esce da ghiandole nella testa delle nutrici",
+    "Tutte le larve la ricevono nei primi giorni",
+    "La futura regina la riceve sempre, in abbondanza"
+   ],
+   "analogy": "È come il latte della mamma: tutte le larve lo assaggiano da piccole, ma solo la futura regina viene nutrita così per tutta la crescita.",
+   "check": {
+    "question": "Chi produce la pappa reale nell'alveare?",
+    "options": [
+     "Le api nutrici",
+     "Le bottinatrici",
+     "I fuchi adulti",
+     "Le api guardiane"
+    ],
+    "answer": 0,
+    "explanation": "La pappa reale la producono le nutrici, operaie di pochi giorni, con ghiandole della testa."
+   },
+   "science": {
+    "text": "Nel 2011 si pensava che una sola proteina della pappa, la royalactina, decidesse chi diventa regina. Uno studio del 2016 ha visto che non basta: larve nutrite con pappa senza royalactina diventavano comunque regine. Oggi sappiamo che conta l'insieme del cibo, e anche la sua quantità.",
+    "source": "Buttstedt et al. 2016, Nature",
+    "url": "https://doi.org/10.1038/nature19349"
+   },
+   "tip": "Quando vedi una cella reale aperta, guarda dentro senza toccare: il letto bianco e lucido sotto la larva è pappa reale fresca."
+  },
+  {
+   "slide": 2,
+   "title": "Dove si trova nell'alveare",
+   "narration": "Ora andiamo a cercarla nell'alveare. Dove pensi di trovare più pappa reale? Nelle cellette delle larve piccole, immagino. Un po' sì, ma lì è poca e la larva la consuma subito. La trovi davvero abbondante nelle celle reali. Come sono fatte le celle reali? Non le ho mai viste bene. Sono più grandi delle altre e sembrano una ghianda o una nocciolina. Pendono verso il basso, spesso sul bordo del favo. Aspetta, se la cella è rivolta in giù, la larva non cade? Bella domanda. Secondo te, che cosa la tiene su? La pappa! Se è densa e appiccicosa, la larva ci resta attaccata come su un cuscino di colla. Proprio così. La larva galleggia su un letto di pappa, e quella crema la tiene ferma in alto. Quindi, se apro una cella reale, vedo tanta crema bianca. Nei primi giorni sì, un bel letto lucido. Ma una cella reale non si apre per curiosità: si apre solo se vuoi raccogliere la pappa. E perché la cella è in verticale e non come le altre? Perché la regina diventa più grande e le serve più spazio. Le api costruiscono la cella reale apposta, fuori dalla fila normale delle celle. Allora: cella grande, appesa in giù, con un materasso di pappa. Me lo ricordo!",
+   "keyPoints": [
+    "Abbonda soprattutto nelle celle reali",
+    "Le celle reali pendono verso il basso",
+    "La larva galleggia su un letto di pappa",
+    "Nelle celle normali ce n'è pochissima"
+   ],
+   "analogy": "La cella reale è come una culla appesa: la pappa fa da materasso morbido e appiccicoso che tiene ferma la larva.",
+   "check": {
+    "question": "Come è messa la cella reale nel favo?",
+    "options": [
+     "Distesa, come le celle delle operaie",
+     "Appesa, con l'apertura verso il basso",
+     "Coricata sul fondo dell'arnia",
+     "Nascosta dentro una cella da fuco"
+    ],
+    "answer": 1,
+    "explanation": "La cella reale pende verso il basso, spesso sul bordo del favo, come una ghianda."
+   },
+   "science": {
+    "text": "La pappa reale è densa grazie alla sua proteina principale, che forma lunghe fibre insieme a un'altra proteina. Questa colla naturale tiene la larva attaccata in alto, nella cella reale che pende verso il basso, senza farla cadere.",
+    "source": "Buttstedt et al. 2018, Current Biology",
+    "url": "https://doi.org/10.1016/j.cub.2018.02.022"
+   },
+   "tip": "Le celle reali somigliano a ghiande appese al bordo del favo. Muovi i telaini piano, senza scuoterli, per non rovinarle."
+  },
+  {
+   "slide": 3,
+   "title": "Composizione e proprietà",
+   "narration": "Adesso guardiamo dentro la pappa. Che cosa credi che contenga? Vitamine, forse. La vendono come una bomba di energia. Ti sorprenderò: più della metà è acqua. Il resto sono proteine, zuccheri, grassi e un po' di sali e vitamine. Solo acqua e roba normale? Allora perché è così speciale? Perché alcune proteine e alcuni grassi ci sono quasi solo lì. Uno si chiama 10-HDA: è un grasso tipico della pappa reale, quasi una firma. E fa bene alle persone? In negozio dicono di sì. Qui bisogna essere onesti. Ci sono tanti studi in laboratorio e sugli animali, ma sull'uomo le prove sono poche. La pappa reale non è un farmaco. Quindi è un alimento, non una medicina. Esatto. E c'è un'altra cosa importante. Secondo te, che rischio può avere un cibo pieno di proteine delle api? Può dare allergia, come succede con altri cibi ricchi di proteine. Brava. Ci sono stati casi di asma e perfino di reazioni gravi, chiamate anafilassi. Capita soprattutto in chi ha già asma o altre allergie. Quindi se un'amica allergica me la chiede, le dico di parlare prima col medico. Giusto. E se dopo averla presa qualcuno ha fiato corto, gonfiore al viso o si sente svenire, si chiama subito il 112. Ricordo: tanta acqua, sostanze tipiche, nessuna promessa di cura e attenzione alle allergie.",
+   "keyPoints": [
+    "Più della metà è acqua",
+    "Contiene proteine, zuccheri e grassi particolari",
+    "Ha un grasso tipico, chiamato 10-HDA",
+    "Non è un farmaco: prove sull'uomo scarse",
+    "Può dare allergie, anche gravi"
+   ],
+   "analogy": "È come un brodo molto ricco: tanta acqua, ma dentro proteine, zuccheri e grassi scelti con cura per far crescere in fretta.",
+   "check": {
+    "question": "Chi deve fare più attenzione prima di assaggiare la pappa reale?",
+    "options": [
+     "Chi beve molto caffè",
+     "Chi mangia poca frutta",
+     "Chi soffre di asma o allergie",
+     "Chi dorme poche ore"
+    ],
+    "answer": 2,
+    "explanation": "La pappa reale può dare allergie anche gravi, soprattutto in chi ha già asma o allergie."
+   },
+   "science": {
+    "text": "In Australia sette persone hanno avuto asma e, in alcuni casi, una reazione allergica grave, l'anafilassi, dopo aver mangiato pappa reale. Gli esami hanno confermato una vera allergia. Uno studio a Hong Kong ha visto che il rischio è più alto in chi ha già altre allergie.",
+    "source": "Thien et al. 1996, Clinical and Experimental Allergy",
+    "url": "https://doi.org/10.1111/j.1365-2222.1996.tb00082.x"
+   },
+   "tip": "Se qualcuno ti chiede la pappa reale per curarsi, ricorda: non è un farmaco. Chi ha asma o allergie deve chiedere prima al medico."
+  },
+  {
+   "slide": 4,
+   "title": "Come avviare la produzione",
+   "narration": "Ora la parte pratica: come si comincia a produrre pappa reale? Non basta aprire l'arnia e raccoglierla. Immagino. Le api la fanno in grande quantità solo quando serve, giusto? Giusto. Quindi dobbiamo convincerle che serve. Il trucco è far sentire alla famiglia che manca la regina. E come si fa? Si toglie la regina? Si può togliere, oppure chiuderla in una parte dell'arnia con l'escludiregina, una griglia che lei non attraversa. Così una zona resta senza la sua presenza. E lì le api si mettono ad allevare regine. Sì. Ma serve un'altra cosa. Secondo te, chi deve abbondare nella famiglia per fare tanta pappa? Le nutrici, perché sono loro che la producono con le ghiandole della testa. Perfetto. Una famiglia forte, piena di api giovani e di covata. Una famiglia debole fa poca pappa. E da mangiare? Le nutrici avranno bisogno di energia. Tanta. Il polline dà le proteine per le ghiandole, il nettare o lo sciroppo dà l'energia. Si lavora nei mesi con belle fioriture. Quindi niente produzione con famiglie stanche o nei periodi di fame. Esatto. E ricorda che è un lavoro di precisione. Meglio impararlo accanto a un apicoltore che lo fa già. Allora: famiglia forte, tante nutrici, cibo abbondante e sensazione di essere senza regina.",
+   "keyPoints": [
+    "Serve una famiglia forte e ben nutrita",
+    "Servono tante api nutrici",
+    "La famiglia deve sentirsi senza regina",
+    "Polline e nettare abbondanti aiutano molto"
+   ],
+   "analogy": "È come la cucina di un ristorante: servono tanti cuochi e la dispensa piena, altrimenti di piatti speciali ne escono pochi.",
+   "check": {
+    "question": "Che cosa serve soprattutto per produrre pappa reale?",
+    "options": [
+     "Tante bottinatrici e poco cibo",
+     "Un'arnia vuota e silenziosa al sole",
+     "Un favo pieno di miele opercolato",
+     "Tante nutrici e cibo abbondante"
+    ],
+    "answer": 3,
+    "explanation": "La pappa la fanno le nutrici: servono tante api giovani, ben nutrite con polline e nettare."
+   },
+   "science": {
+    "text": "In Cina è stata selezionata una linea di api molto brava a produrre pappa reale. Le loro ghiandole sono più grandi e producono circa cinque volte più pappa delle api italiane non selezionate. Quindi conta anche la genetica, non solo il cibo.",
+    "source": "Li et al. 2010, Journal of Proteome Research",
+    "url": "https://doi.org/10.1021/pr100768t"
+   },
+   "tip": "Prima di provare, impara l'allevamento delle regine accanto a un apicoltore esperto. Scegli il periodo con fioriture abbondanti e famiglie piene di api."
+  },
+  {
+   "slide": 5,
+   "title": "Celle artificiali e coglilarva",
+   "narration": "Adesso vediamo il metodo più usato: le celle artificiali. Sono piccoli bicchierini, chiamati cupolini, di plastica o di cera. Come le celle reali, ma fatte da noi? Esatto, ne sono l'inizio. Si mettono in fila su una stecca, dentro un telaino porta-cupolini. E le larve come ci arrivano dentro? Le spostiamo noi. Si prende una larva giovanissima, di circa un giorno, e la si posa sul fondo del cupolino. Questo lavoro si chiama traslarvo, o picking. Con le dita? Sono minuscole! Con il coglilarva, un attrezzino sottile con la punta flessibile. Si fa scivolare sotto la larva e la si solleva con la sua goccia di pappa. Sembra un lavoro da ricamatrice. Lo è. E secondo te, perché si sceglie una larva così piccola? Perché è ancora nell'età in cui può diventare regina, e quindi le api la riempiono di pappa. Brava. Poi il telaino va nella famiglia senza regina. Le nutrici accettano i cupolini e li riempiono di pappa. E quando si raccoglie? Di solito dopo circa tre giorni. Si toglie la larva con una pinzetta e si raccoglie la pappa con una spatolina o un piccolo aspiratore. Quindi quella larva non diventa regina. No, in questa produzione si sacrifica. È giusto saperlo prima di decidere se farla.",
+   "keyPoints": [
+    "Si usano cupolini di plastica o di cera",
+    "Ogni larva giovanissima va spostata nel cupolino",
+    "Lo spostamento si chiama traslarvo, o picking",
+    "Il coglilarva solleva la larva senza ferirla",
+    "Dopo circa tre giorni si raccoglie la pappa"
+   ],
+   "analogy": "Spostare una larva è come prendere una goccia di panna con la punta di un cucchiaino: serve mano leggera e niente fretta.",
+   "check": {
+    "question": "Dopo quanto tempo si raccoglie di solito la pappa dai cupolini?",
+    "options": [
+     "Dopo circa tre settimane",
+     "Dopo circa tre giorni",
+     "Dopo circa tre ore",
+     "Dopo circa tre mesi"
+    ],
+    "answer": 1,
+    "explanation": "Di solito si raccoglie dopo circa tre giorni, quando nei cupolini c'è più pappa."
+   },
+   "science": {
+    "text": "Alcuni ricercatori cinesi hanno provato un favo di plastica speciale in cui la regina depone direttamente nei cupolini. Così si evita di spostare le larve a mano, il passaggio più faticoso. Con questo metodo la pappa si poteva raccogliere ogni tre giorni.",
+    "source": "Wu et al. 2015, Entomological News",
+    "url": "https://doi.org/10.3157/021.124.0405"
+   },
+   "tip": "Lavora al riparo dal sole, con buona luce e una lente se serve. Le larve piccole si seccano in fretta: copri il telaino con un panno umido."
+  },
+  {
+   "slide": 6,
+   "title": "La conservazione",
+   "narration": "Ultima parte: la conservazione. La pappa reale è delicata, molto più del miele. Il miele dura anni nella dispensa. La pappa no? No. Secondo te, che cosa la rovina di più? Il caldo, credo. E forse la luce e l'aria, come per tante cose fresche. Proprio così. Per questo, appena raccolta, va subito al fresco, in una borsa frigo, e poi in frigorifero. Non lasciarla mai in macchina al sole, nemmeno per pochi minuti. In che contenitore? Vasetti puliti, di vetro scuro o comunque riparati dalla luce, chiusi bene. Meno aria resta dentro, meglio è. E in frigorifero dura per sempre? No, perde qualità piano piano. Uno studio fatto a Pisa ha visto che nel congelatore alcune sue proteine attive restano intatte per almeno un anno. Quindi, per tenerla a lungo, la congelo. Sì, meglio in piccoli vasetti. Così scongeli solo quello che ti serve, senza toccare il resto. C'è un modo per capire se è fresca? In laboratorio sì: certe proteine si rompono col tempo e col caldo, e si possono misurare. A casa conta sapere come è stata tenuta. Per questo è meglio comprarla da chi conosci. Allora scrivo sempre la data sull'etichetta. Ottima abitudine. E ricorda la regola: freddo, buio, vasetto chiuso.",
+   "keyPoints": [
+    "Va al fresco subito dopo la raccolta",
+    "Teme caldo, luce e aria",
+    "Vasetti puliti, ben chiusi, riparati dalla luce",
+    "Per tempi lunghi si può congelare"
+   ],
+   "analogy": "Trattala come il latte fresco: appena munto va in frigo, al buio e ben chiuso, altrimenti perde il meglio.",
+   "check": {
+    "question": "Dove si conserva la pappa reale appena raccolta?",
+    "options": [
+     "In dispensa, vicino al miele",
+     "Sul davanzale, al sole",
+     "In un sacchetto di carta aperto",
+     "In frigo, al buio, ben chiusa"
+    ],
+    "answer": 3,
+    "explanation": "La pappa teme caldo, luce e aria: va subito in frigo, in un vasetto chiuso e al buio."
+   },
+   "science": {
+    "text": "Ricercatori di Pisa hanno tenuto pappa reale in frigorifero e in congelatore per un anno. In frigorifero alcuni enzimi, cioè proteine attive, perdevano forza; nel congelatore restavano come all'inizio. Per tempi lunghi il freddo forte conserva meglio.",
+    "source": "Sagona et al. 2022, Foods",
+    "url": "https://doi.org/10.3390/foods11203165"
+   },
+   "tip": "Prepara la borsa frigo prima di raccogliere. Scrivi su ogni vasetto la data di raccolta, così sai sempre quanto è fresca."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Chi produce la pappa reale?",
+   "back": "Le nutrici, operaie di pochi giorni, con ghiandole della testa.",
+   "part": 0
+  },
+  {
+   "front": "Quali ghiandole fanno la pappa reale?",
+   "back": "Le ghiandole ipofaringee e mandibolari delle nutrici.",
+   "part": 0
+  },
+  {
+   "front": "Dove trovo più pappa reale?",
+   "back": "Nelle celle reali, sotto la larva.",
+   "part": 1
+  },
+  {
+   "front": "Perché la larva reale non cade dalla cella?",
+   "back": "La pappa densa la tiene attaccata in alto.",
+   "part": 1
+  },
+  {
+   "front": "La pappa reale è un farmaco?",
+   "back": "No: è un alimento, con poche prove sull'uomo.",
+   "part": 2
+  },
+  {
+   "front": "Che rischio corre chi ha asma o allergie?",
+   "back": "Una reazione allergica, anche grave (anafilassi).",
+   "part": 2
+  },
+  {
+   "front": "Come si spinge la famiglia a fare tanta pappa?",
+   "back": "Le si fa sentire la mancanza della regina.",
+   "part": 3
+  },
+  {
+   "front": "Che cos'è il traslarvo, o picking?",
+   "back": "Spostare una larva giovanissima dentro un cupolino.",
+   "part": 4
+  },
+  {
+   "front": "A che serve il coglilarva?",
+   "back": "A sollevare la larva con la sua goccia di pappa.",
+   "part": 4
+  },
+  {
+   "front": "Come si conserva la pappa reale?",
+   "back": "In frigo o in congelatore, al buio, in vasetti chiusi.",
+   "part": 5
+  }
+ ],
+ "questions": [
+  {
+   "question": "Da quale parte del corpo esce la pappa reale?",
+   "options": [
+    "Da ghiandole sotto l'addome",
+    "Da ghiandole nella testa",
+    "Dal pungiglione delle guardiane",
+    "Dalla borsa del nettare"
+   ],
+   "answer": 1,
+   "explanation": "La producono ghiandole della testa delle nutrici, vicine alla bocca.",
+   "part": 0
+  },
+  {
+   "question": "Che cosa decide se una larva femmina diventa regina?",
+   "options": [
+    "Il colore dell'uovo deposto",
+    "La forma dell'uovo deposto",
+    "Il cibo che riceve dalle nutrici",
+    "La grandezza della regina madre"
+   ],
+   "answer": 2,
+   "explanation": "Uova uguali, cibo diverso: è l'alimentazione a fare la regina.",
+   "part": 0
+  },
+  {
+   "question": "Perché si dice che la larva reale galleggia?",
+   "options": [
+    "Perché sta sopra un letto di pappa",
+    "Perché nuota dentro il miele liquido",
+    "Perché le api la tengono in bocca",
+    "Perché pende da un filo di seta"
+   ],
+   "answer": 0,
+   "explanation": "Nella cella reale la larva sta su uno strato abbondante di pappa.",
+   "part": 1
+  },
+  {
+   "question": "Dove si trovano spesso le celle reali?",
+   "options": [
+    "Al centro del favo, tra le operaie",
+    "Sul fondo dell'arnia, tra i detriti",
+    "Sul coprifavo, sopra i telaini",
+    "Sul bordo del favo, appese in giù"
+   ],
+   "answer": 3,
+   "explanation": "Le celle reali pendono verso il basso, spesso lungo il bordo del favo.",
+   "part": 1
+  },
+  {
+   "question": "Che cosa vuol dire anafilassi?",
+   "options": [
+    "Una cella reale molto grande",
+    "Una reazione allergica grave",
+    "Un grasso tipico della pappa",
+    "Una proteina che fa la regina"
+   ],
+   "answer": 1,
+   "explanation": "L'anafilassi è una reazione allergica grave: si chiama subito il 112.",
+   "part": 2
+  },
+  {
+   "question": "Qual è la frase più corretta sulla pappa reale?",
+   "options": [
+    "Cura molte malattie in poco tempo",
+    "Si può dare a tutti senza rischi",
+    "È un alimento, non un farmaco",
+    "Sostituisce le medicine del medico"
+   ],
+   "answer": 2,
+   "explanation": "Sull'uomo le prove sono poche: è un alimento, non una medicina.",
+   "part": 2
+  },
+  {
+   "question": "A che cosa serve l'escludiregina nella produzione?",
+   "options": [
+    "A far entrare più bottinatrici in arnia",
+    "A filtrare la pappa dopo la raccolta",
+    "A scaldare le larve nei giorni freddi",
+    "A tenere la regina lontana dai cupolini"
+   ],
+   "answer": 3,
+   "explanation": "La griglia tiene la regina in una parte dell'arnia: l'altra zona si sente senza regina.",
+   "part": 3
+  },
+  {
+   "question": "Perché il polline è importante per produrre pappa?",
+   "options": [
+    "Dà proteine alle ghiandole delle nutrici",
+    "Rende la pappa più dolce e più gialla",
+    "Tiene lontane le formiche dai telaini",
+    "Fa crescere più in fretta i fuchi"
+   ],
+   "answer": 0,
+   "explanation": "Le ghiandole delle nutrici hanno bisogno delle proteine del polline per lavorare.",
+   "part": 3
+  },
+  {
+   "question": "Come si chiama l'attrezzo per spostare le larve?",
+   "options": [
+    "Spazzola",
+    "Raschietto",
+    "Smielatore",
+    "Coglilarva"
+   ],
+   "answer": 3,
+   "explanation": "Il coglilarva ha una punta sottile e flessibile che scivola sotto la larva.",
+   "part": 4
+  },
+  {
+   "question": "Che età deve avere la larva da spostare nel cupolino?",
+   "options": [
+    "Circa una settimana",
+    "Circa un giorno",
+    "Circa due settimane",
+    "Circa un mese"
+   ],
+   "answer": 1,
+   "explanation": "Si sceglie una larva giovanissima, di circa un giorno.",
+   "part": 4
+  },
+  {
+   "question": "Che cosa rovina più in fretta la pappa reale?",
+   "options": [
+    "Freddo, buio e vetro",
+    "Vetro, etichetta e data",
+    "Caldo, luce e aria",
+    "Frigo, tappo e cucchiaino"
+   ],
+   "answer": 2,
+   "explanation": "Caldo, luce e aria fanno perdere qualità: serve freddo, buio e vasetto chiuso.",
+   "part": 5
+  },
+  {
+   "question": "Per conservarla a lungo, la pappa reale va...",
+   "options": [
+    "congelata",
+    "scaldata",
+    "diluita",
+    "asciugata"
+   ],
+   "answer": 0,
+   "explanation": "Nel congelatore alcuni enzimi restano intatti per almeno un anno.",
+   "part": 5
+  }
+ ],
+ "exercises": [
+  {
+   "title": "Una cella reale aperta",
+   "prompt": "Apri l'arnia e, sul bordo di un favo, vedi una cella reale appena iniziata con dentro una crema bianca e lucida. Che cosa stai guardando e che cosa fai?",
+   "modelAnswer": "Quella crema è pappa reale: le nutrici l'hanno messa sotto una larva che stanno allevando come regina. La cella reale pende verso il basso e la pappa tiene la larva attaccata in alto. Non la apro e non la tocco per curiosità: la rovinerei. Muovo il telaino piano, senza scuoterlo. Poi mi chiedo perché la famiglia alleva una regina: forse prepara la sciamatura, forse la regina vecchia va sostituita o manca. Controllo se ci sono uova fresche e se vedo la regina. Se ho dubbi, chiedo consiglio a un apicoltore esperto prima di decidere."
+  },
+  {
+   "title": "L'amica che vuole la pappa",
+   "prompt": "Un'amica con l'asma ti chiede un vasetto della tua pappa reale «per rinforzare le difese». Che cosa le rispondi?",
+   "modelAnswer": "Le spiego con gentilezza che la pappa reale è un alimento e non un farmaco: sull'uomo le prove di benefici sono poche. Le dico anche che può dare allergie, perfino gravi come l'anafilassi, e che il rischio è più alto in chi ha asma o altre allergie. Le consiglio di parlarne prima con il suo medico. Se un giorno la prova e ha fiato corto, gonfiore al viso o si sente svenire, bisogna chiamare subito il 112. Meglio un vasetto in meno che uno spavento."
+  },
+  {
+   "title": "Il primo raccolto",
+   "prompt": "Hai appena raccolto la pappa dai cupolini in una calda giornata di giugno. Sei in campagna e casa è a un'ora di strada. Che cosa fai?",
+   "modelAnswer": "La pappa teme caldo, luce e aria, quindi la proteggo subito. Ho già pronta una borsa frigo con le piastre fredde. Metto la pappa in vasetti puliti, scuri o riparati dalla luce, chiusi bene e il più pieni possibile. Scrivo la data su ogni vasetto. Appena arrivo a casa li metto in frigorifero. Se voglio conservarla a lungo, la divido in piccoli vasetti e la congelo: così ne scongelo solo un po' alla volta."
+  }
+ ]
+}

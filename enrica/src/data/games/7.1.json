@@ -1,0 +1,162 @@
+{
+ "code": "7.1",
+ "order": [
+  {
+   "title": "Il percorso del miele in mieleria",
+   "steps": [
+    "Portare dentro i melari con i favi opercolati",
+    "Togliere gli opercoli di cera",
+    "Mettere i telaini nello smielatore",
+    "Filtrare il miele",
+    "Lasciarlo riposare nel maturatore",
+    "Togliere la schiuma in superficie",
+    "Riempire e chiudere i vasetti"
+   ],
+   "slide": 1
+  },
+  {
+   "title": "Ragionare con l'HACCP",
+   "steps": [
+    "Guardare tutto il percorso del miele",
+    "Trovare dove può nascere un pericolo",
+    "Decidere come controllare quel punto",
+    "Fissare un limite da non superare",
+    "Sapere cosa fare se qualcosa va male",
+    "Scrivere quello che si è fatto"
+   ],
+   "slide": 4
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Giro forte e la forza spinge fuori il miele dalle cellette.",
+    "Dentro di me metti i telaini già disopercolati.",
+    "Sono la macchina principale della mieleria."
+   ],
+   "answer": "Lo smielatore",
+   "distractors": [
+    "Il maturatore",
+    "Il disopercolatore",
+    "Il rifrattometro"
+   ],
+   "slide": 1
+  },
+  {
+   "clues": [
+    "Dentro di me il miele riposa qualche giorno.",
+    "In superficie mi si forma una schiuma da togliere.",
+    "Ho un rubinetto in basso per riempire i vasetti."
+   ],
+   "answer": "Il maturatore",
+   "distractors": [
+    "Lo smielatore",
+    "Il melario",
+    "Il filtro"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi presenti quando cominci a vendere alimenti.",
+    "Il mio nome vuol dire segnalazione di inizio attività.",
+    "Mi consegni allo sportello SUAP del comune."
+   ],
+   "answer": "La SCIA",
+   "distractors": [
+    "La BDA",
+    "La ricetta",
+    "La fattura"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Servo a trovare i punti dove può nascere un pericolo.",
+    "Mi usano anche ristoranti e panifici.",
+    "Il mio nome è una sigla di cinque lettere."
+   ],
+   "answer": "L'HACCP",
+   "distractors": [
+    "L'ASL",
+    "Il SUAP",
+    "La SCIA"
+   ],
+   "slide": 4
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "La mieleria deve avere superfici lisce e lavabili.",
+   "true": true,
+   "why": "Così si pulisce bene e non resta sporco nascosto.",
+   "slide": 1
+  },
+  {
+   "text": "Lasciare le finestre aperte durante la smielatura è una buona idea.",
+   "true": false,
+   "why": "Entrano api attirate dal profumo, polvere e insetti.",
+   "slide": 1
+  },
+  {
+   "text": "Il miele assorbe l'umidità dell'aria.",
+   "true": true,
+   "why": "Per questo la mieleria deve essere asciutta e i vasetti chiusi.",
+   "slide": 1
+  },
+  {
+   "text": "Conviene smielare anche i favi con il miele ancora aperto.",
+   "true": false,
+   "why": "Quel miele ha troppa acqua e può fermentare.",
+   "slide": 2
+  },
+  {
+   "text": "Scaldare forte il miele ne migliora il profumo.",
+   "true": false,
+   "why": "Il calore forte fa perdere aromi e invecchia il miele.",
+   "slide": 2
+  },
+  {
+   "text": "I vasetti si conservano meglio al fresco e al buio.",
+   "true": true,
+   "why": "Calore e luce rovinano il miele col tempo.",
+   "slide": 2
+  },
+  {
+   "text": "Il Reg. 852/2004 non si applica al miele per uso domestico privato.",
+   "true": true,
+   "why": "Lo dice l'articolo 1 del regolamento.",
+   "slide": 3
+  },
+  {
+   "text": "Le regole per vendere il miele sono identiche in ogni regione.",
+   "true": false,
+   "why": "Cambiano da regione a regione: chiedi alla tua ASL.",
+   "slide": 3
+  },
+  {
+   "text": "Chi vende miele diventa un operatore del settore alimentare.",
+   "true": true,
+   "why": "Mettere in vendita alimenti comporta regole di igiene precise.",
+   "slide": 3
+  },
+  {
+   "text": "L'HACCP serve solo alle grandi industrie.",
+   "true": false,
+   "why": "Vale anche per i piccoli, con regole più semplici.",
+   "slide": 4
+  },
+  {
+   "text": "Un vasetto scheggiato può essere un pericolo per chi mangia il miele.",
+   "true": true,
+   "why": "Un pezzetto di vetro nel miele è un pericolo fisico.",
+   "slide": 4
+  },
+  {
+   "text": "Si può trattare contro la varroa con i melari sopra.",
+   "true": false,
+   "why": "I farmaci finirebbero nel miele: si tratta senza melari.",
+   "slide": 4
+  }
+ ]
+}

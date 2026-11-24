@@ -1,0 +1,83 @@
+{
+ "code": "5.7",
+ "turns": [
+  {
+   "part": 0,
+   "line": 4,
+   "question": "Che cosa succede agli uncini del pungiglione nella pelle?",
+   "options": [
+    "Si sciolgono nel sangue",
+    "Restano agganciati",
+    "Si spezzano subito",
+    "Escono da soli"
+   ],
+   "answer": 1,
+   "why": "Gli uncini rivolti all'indietro trattengono il pungiglione, come un amo."
+  },
+  {
+   "part": 1,
+   "line": 12,
+   "question": "Contro che cosa reagisce il corpo di una persona allergica?",
+   "options": [
+    "Contro l'acqua del veleno",
+    "Contro il calore della puntura",
+    "Contro alcune proteine del veleno",
+    "Contro il pelo dell'ape"
+   ],
+   "answer": 2,
+   "why": "Il corpo scambia alcune proteine del veleno per nemici e reagisce troppo."
+  },
+  {
+   "part": 2,
+   "line": 6,
+   "question": "Che cosa rischia chi si fa pungere apposta tante volte?",
+   "options": [
+    "Una reazione allergica grave",
+    "Di non sentire più dolore",
+    "Di diventare immune per sempre",
+    "Di guarire dai suoi dolori"
+   ],
+   "answer": 0,
+   "why": "L'allergia può comparire all'improvviso, anche dopo sedute andate bene."
+  },
+  {
+   "part": 3,
+   "line": 2,
+   "question": "Togliendo il pungiglione, conta di più il modo o la velocità?",
+   "options": [
+    "Il modo",
+    "Il dito usato",
+    "La crema",
+    "La velocità"
+   ],
+   "answer": 3,
+   "why": "La sacca pompa veleno finché resta: grattare o pizzicare va bene, purché subito."
+  },
+  {
+   "part": 4,
+   "line": 0,
+   "question": "Il veleno si raccoglie dalle api morte?",
+   "options": [
+    "Sì, schiacciando le api",
+    "No, dalle api vive",
+    "Sì, dai favi vecchi",
+    "No, dalle sole regine"
+   ],
+   "answer": 1,
+   "why": "Si raccoglie da api vive, che pungono una pellicola sopra un vetro."
+  },
+  {
+   "part": 5,
+   "line": 6,
+   "question": "Qual è l'uso medico più serio del veleno d'ape?",
+   "options": [
+    "Curare l'allergia alle punture",
+    "Curare i dolori alle ginocchia",
+    "Togliere le rughe dal viso",
+    "Far passare il raffreddore"
+   ],
+   "answer": 0,
+   "why": "L'immunoterapia con veleno purificato previene nuove reazioni gravi."
+  }
+ ]
+}

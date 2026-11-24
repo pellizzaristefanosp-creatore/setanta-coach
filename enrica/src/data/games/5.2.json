@@ -1,0 +1,175 @@
+{
+ "code": "5.2",
+ "order": [
+  {
+   "title": "Il viaggio del polline",
+   "steps": [
+    "L'ape entra nel fiore e si sporca",
+    "Si pettina con le zampe in volo",
+    "Bagna la polvere con nettare e saliva",
+    "Preme le pallottole nelle cestelle",
+    "Torna all'arnia e le lascia in una celletta",
+    "Le compagne le pressano e aggiungono miele"
+   ],
+   "slide": 3
+  },
+  {
+   "title": "Dalla trappola al congelatore",
+   "steps": [
+    "Metto la trappola su una famiglia forte",
+    "Svuoto il cassetto la sera",
+    "Tolgo insetti, terra e impurità",
+    "Metto il polline in sacchetti chiusi",
+    "Scrivo la data sui sacchetti",
+    "Metto tutto in congelatore"
+   ],
+   "slide": 5
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Sto sulle zampe posteriori dell'ape",
+    "Ho intorno una corona di peli",
+    "Tengo le pallottole di polline nel volo"
+   ],
+   "answer": "Cestella",
+   "distractors": [
+    "Ligula",
+    "Antenna",
+    "Mandibola"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Fiorisco quando fa ancora freddo",
+    "Ho pendagli gialli chiamati amenti",
+    "Do alle api uno dei primi pollini"
+   ],
+   "answer": "Nocciolo",
+   "distractors": [
+    "Castagno",
+    "Girasole",
+    "Tiglio"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Cresco sui muri e sugli alberi",
+    "Fiorisco quando quasi tutto è finito",
+    "Aiuto le api a fare le ultime scorte"
+   ],
+   "answer": "Edera",
+   "distractors": [
+    "Acacia",
+    "Lavanda",
+    "Colza"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Mi metti davanti alla porta dell'arnia",
+    "Ho una griglia con buchi piccoli",
+    "Faccio cadere il polline in un cassetto"
+   ],
+   "answer": "Trappola",
+   "distractors": [
+    "Porticina",
+    "Mangiatoia",
+    "Escludiregina"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "Mangio più polline di tutte",
+    "Ho ghiandole speciali nella testa",
+    "Preparo la pappa per le larve"
+   ],
+   "answer": "Ape nutrice",
+   "distractors": [
+    "Ape bottinatrice",
+    "Ape guardiana",
+    "Ape ceraiola"
+   ],
+   "slide": 1
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "Il polline è la principale fonte di proteine delle api.",
+   "true": true,
+   "why": "Il miele dà energia; proteine, grassi e vitamine arrivano dal polline.",
+   "slide": 1
+  },
+  {
+   "text": "Una famiglia senza polline continua ad allevare tanta covata.",
+   "true": false,
+   "why": "Senza polline le nutrici non fanno pappa e la covata cala.",
+   "slide": 1
+  },
+  {
+   "text": "Tutti i pollini hanno lo stesso valore per le api.",
+   "true": false,
+   "why": "Ogni pianta dà un polline diverso: la qualità cambia la salute delle api.",
+   "slide": 1
+  },
+  {
+   "text": "L'edera è una fonte di polline importante in autunno.",
+   "true": true,
+   "why": "Fiorisce tardi e aiuta le api a fare le ultime scorte.",
+   "slide": 2
+  },
+  {
+   "text": "Dal colore delle pallottole si riconosce sempre con certezza la pianta.",
+   "true": false,
+   "why": "Piante diverse possono dare lo stesso colore: serve confrontare con le fioriture.",
+   "slide": 2
+  },
+  {
+   "text": "L'ape impasta il polline con un po' di nettare e saliva.",
+   "true": true,
+   "why": "Così la polvere si attacca e diventa una pallottola facile da portare.",
+   "slide": 3
+  },
+  {
+   "text": "Le api mettono il polline soprattutto nel melario, lontano dalla covata.",
+   "true": false,
+   "why": "Lo mettono di solito intorno alla covata, vicino alle nutrici.",
+   "slide": 3
+  },
+  {
+   "text": "La trappola per polline ferisce le api che passano.",
+   "true": false,
+   "why": "Le api passano dai buchi; cadono solo le pallottole dalle zampe.",
+   "slide": 4
+  },
+  {
+   "text": "La trappola va usata su famiglie forti e non tutto l'anno.",
+   "true": true,
+   "why": "Le famiglie piccole soffrono di più; si alternano periodi con e senza.",
+   "slide": 4
+  },
+  {
+   "text": "Il cassetto della trappola si può svuotare una volta a settimana.",
+   "true": false,
+   "why": "Va svuotato ogni giorno: il polline fresco prende umidità e muffa.",
+   "slide": 4
+  },
+  {
+   "text": "Il polline fresco si può congelare in sacchetti chiusi.",
+   "true": true,
+   "why": "Il congelatore è il modo più semplice per conservarlo per chi comincia.",
+   "slide": 5
+  },
+  {
+   "text": "Chi è allergico ai pollini può mangiare polline d'api senza pensarci.",
+   "true": false,
+   "why": "Sono descritte reazioni allergiche anche gravi: meglio chiedere al medico.",
+   "slide": 5
+  }
+ ]
+}

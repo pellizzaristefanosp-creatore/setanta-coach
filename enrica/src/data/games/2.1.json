@@ -1,0 +1,172 @@
+{
+ "code": "2.1",
+ "order": [
+  {
+   "title": "Il primo anno da apicoltrice",
+   "steps": [
+    "In inverno segui un corso e studia",
+    "Prima delle api, chiedi all'ASL di registrarti",
+    "Prepara il posto con supporti e acqua",
+    "In primavera porta a casa il nucleo",
+    "Tra novembre e dicembre fai il censimento"
+   ],
+   "slide": 2
+  },
+  {
+   "title": "Sistemare un'arnia nell'apiario",
+   "steps": [
+    "Scegli un punto soleggiato e riparato",
+    "Fissa bene il supporto sul terreno",
+    "Appoggia l'arnia sopra il supporto",
+    "Metti uno spessore dietro per inclinarla avanti"
+   ],
+   "slide": 6
+  }
+ ],
+ "who": [
+  {
+   "clues": [
+    "Arrivo in primavera e a volte mi trovi su un ramo",
+    "Con me viaggia la vecchia regina",
+    "Mi raccogli con una scatola e mi dai una casa"
+   ],
+   "answer": "Lo sciame",
+   "distractors": [
+    "Il nucleo",
+    "Il glomere",
+    "Il pacco"
+   ],
+   "slide": 3
+  },
+  {
+   "clues": [
+    "Conservo i dati di chi tiene alveari",
+    "Mi aggiorni ogni anno tra novembre e dicembre",
+    "Il mio nome intero parla di anagrafe apistica"
+   ],
+   "answer": "La BDA",
+   "distractors": [
+    "L'ASL",
+    "La Regione",
+    "La Provincia"
+   ],
+   "slide": 2
+  },
+  {
+   "clues": [
+    "Ti permetto di fare confronti",
+    "Se l'altra famiglia resta senza regina, le posso dare uova",
+    "Sono il motivo per non partire con uno solo"
+   ],
+   "answer": "Il secondo alveare",
+   "distractors": [
+    "Il primo sciame",
+    "Il vecchio nucleo",
+    "Il favo di riserva"
+   ],
+   "slide": 4
+  },
+  {
+   "clues": [
+    "D'estate le api mi visitano di continuo",
+    "Con sassi e legnetti dentro, nessuna annega",
+    "Grazie a me il vicino salva la sua piscina"
+   ],
+   "answer": "La vaschetta d'acqua",
+   "distractors": [
+    "La siepe frangivento",
+    "La cassetta dei telaini",
+    "La tettoia di legno"
+   ],
+   "slide": 5
+  },
+  {
+   "clues": [
+    "Tengo lontana l'umidità del terreno",
+    "Ti risparmio un po' di mal di schiena",
+    "Sopra di me appoggi l'arnia"
+   ],
+   "answer": "Il cavalletto",
+   "distractors": [
+    "Il coprifavo",
+    "Il melario",
+    "Il fondo"
+   ],
+   "slide": 6
+  }
+ ],
+ "truefalse": [
+  {
+   "text": "In autunno una famiglia piccola cresce in fretta prima del freddo.",
+   "true": false,
+   "why": "In autunno la famiglia si prepara all'inverno e non cresce più.",
+   "slide": 1
+  },
+  {
+   "text": "Nel glomere le api si stringono per tenere caldo il centro.",
+   "true": true,
+   "why": "Più api ci sono nel glomere, meglio la famiglia regge il freddo.",
+   "slide": 1
+  },
+  {
+   "text": "Chi ha solo due alveari per la famiglia non deve registrarli.",
+   "true": false,
+   "why": "Chiunque tenga alveari deve registrarli nell'Anagrafe apistica nazionale.",
+   "slide": 2
+  },
+  {
+   "text": "Il censimento annuale va fatto anche se non è cambiato nulla.",
+   "true": true,
+   "why": "Ogni anno, dal 1° novembre al 31 dicembre, si confermano o aggiornano i dati.",
+   "slide": 2
+  },
+  {
+   "text": "Un nucleo contiene già una regina e un po' di covata.",
+   "true": true,
+   "why": "È una famiglia piccola ma completa, su pochi telaini.",
+   "slide": 3
+  },
+  {
+   "text": "Il pacco d'api arriva con cinque favi già costruiti.",
+   "true": false,
+   "why": "Arriva con api sfuse e regina in gabbietta, senza favi.",
+   "slide": 3
+  },
+  {
+   "text": "In uno studio europeo le famiglie con regine locali sono durate di più.",
+   "true": true,
+   "why": "In media 83 giorni in più rispetto alle regine di altre origini.",
+   "slide": 3
+  },
+  {
+   "text": "Con un solo alveare è più facile capire se qualcosa non va.",
+   "true": false,
+   "why": "Senza un secondo alveare non hai nulla con cui confrontarlo.",
+   "slide": 4
+  },
+  {
+   "text": "Il codice civile indica dieci metri tra apiario e strade pubbliche.",
+   "true": true,
+   "why": "E cinque dai confini; ripari e regole locali possono cambiare le cose.",
+   "slide": 5
+  },
+  {
+   "text": "Le api usano l'acqua anche per rinfrescare l'alveare.",
+   "true": true,
+   "why": "L'acqua sparsa nel nido evapora e abbassa la temperatura.",
+   "slide": 5
+  },
+  {
+   "text": "La deriva aiuta a tenere separate varroa e malattie.",
+   "true": false,
+   "why": "Le api che sbagliano casa portano varroa e malattie da un'arnia all'altra.",
+   "slide": 6
+  },
+  {
+   "text": "Arnie tutte uguali e in fila stretta aumentano la deriva.",
+   "true": true,
+   "why": "Le api faticano a riconoscere la propria casa e sbagliano entrata.",
+   "slide": 6
+  }
+ ]
+}
