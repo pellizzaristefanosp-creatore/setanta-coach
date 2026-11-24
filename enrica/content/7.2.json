@@ -33,21 +33,21 @@
         "explanation": "Si scrive la quantità netta: solo il prodotto, senza contenitore."
       },
       "dialogue": [
-        { "who": "M", "text": "Ciao Enrica! Oggi parliamo del vestito del vasetto: l'etichetta. Se un giorno venderai il miele, deve essere fatta bene." },
-        { "who": "E", "text": "Ciao Giuliano! Io pensavo bastasse scrivere «Miele di Enrica» con un bel disegno." },
+        { "who": "M", "text": "Ciao, Enrica! Oggi parliamo del vestito del vasetto: l'etichetta. Se un giorno venderai il miele, deve essere fatta bene." },
+        { "who": "E", "text": "Ciao, Giuliano! Io pensavo bastasse scrivere «Miele di Enrica» con un bel disegno." },
         { "who": "M", "text": "Il disegno va benissimo, ma prima ci sono le voci obbligatorie. La prima è la denominazione, cioè il nome del prodotto: semplicemente «miele»." },
-        { "who": "E", "text": "Poi immagino il peso." },
+        { "who": "E", "text": "Poi, immagino, il peso." },
         { "who": "M", "text": "Sì, la quantità netta. Secondo te, il peso comprende anche il vasetto?" },
-        { "who": "E", "text": "No, netto vuol dire solo il miele, senza il vetro." },
+        { "who": "E", "text": "No: netto vuol dire solo il miele, senza il vetro." },
         { "who": "M", "text": "Esatto. Poi c'è il termine minimo di conservazione, il TMC: la frase è «da consumarsi preferibilmente entro» con la data." },
         { "who": "E", "text": "Preferibilmente? Quindi dopo non è scaduto?" },
-        { "who": "M", "text": "Vuol dire che fino a quella data il miele dà il meglio di sé, se conservato bene. La data la sceglie chi lo confeziona." },
+        { "who": "M", "text": "Vuol dire che, fino a quella data, il miele dà il meglio di sé, se conservato bene. La data la sceglie chi lo confeziona." },
         { "who": "E", "text": "E poi?" },
-        { "who": "M", "text": "Il lotto, un codice che collega il vasetto a una smielatura. Poi nome e indirizzo di chi produce o confeziona. E il paese dove il miele è stato raccolto." },
+        { "who": "M", "text": "Il lotto: un codice che collega il vasetto a una smielatura. Poi nome e indirizzo di chi produce o confeziona. E il paese dove il miele è stato raccolto." },
         { "who": "E", "text": "Per me sarebbe Italia. Ma devo scrivere tutto grande?" },
-        { "who": "M", "text": "Leggibile. Di regola le lettere minuscole devono essere alte almeno 1,2 millimetri. E nome e peso devono stare nello stesso campo visivo." },
+        { "who": "M", "text": "Leggibile. Di regola, le lettere minuscole devono essere alte almeno 1,2 millimetri. E nome e peso devono stare nello stesso campo visivo." },
         { "who": "E", "text": "Cioè si devono vedere insieme, senza girare il vasetto." },
-        { "who": "M", "text": "Brava. Le regole a volte cambiano: chiedi sempre conferma alla tua ASL o alla tua associazione." }
+        { "who": "M", "text": "Brava. Le regole, a volte, cambiano: chiedi sempre conferma alla tua ASL o alla tua associazione." }
       ]
     },
     {
@@ -79,20 +79,20 @@
       },
       "dialogue": [
         { "who": "M", "text": "Parliamo di una voce che i clienti guardano sempre: il paese d'origine." },
-        { "who": "E", "text": "Per il mio miele è facile: le api volano qui, quindi Italia." },
+        { "who": "E", "text": "Per il mio miele è facile: le api volano qui, quindi… Italia." },
         { "who": "M", "text": "Giusto. Ma al supermercato trovi anche miscele, cioè mieli di paesi diversi mescolati insieme." },
         { "who": "E", "text": "E come si scrive in quel caso?" },
         { "who": "M", "text": "In passato le regole europee permettevano diciture generiche. In Italia, però, già da anni bisogna nominare i paesi." },
         { "who": "E", "text": "E adesso è cambiato ancora qualcosa?" },
-        { "who": "M", "text": "Sì. Con un decreto del dicembre 2025, dal 14 giugno 2026 per le miscele vanno scritti tutti i paesi, dal più presente al meno presente, con la percentuale." },
+        { "who": "M", "text": "Sì. Con un decreto del dicembre 2025, dal 14 giugno 2026, per le miscele vanno scritti tutti i paesi, dal più presente al meno presente, con la percentuale." },
         { "who": "E", "text": "Tipo: sessanta per cento da un paese, quaranta da un altro?" },
         { "who": "M", "text": "Proprio così, e nel campo visivo principale del vasetto. Secondo te, perché si è arrivati a questa regola?" },
-        { "who": "E", "text": "Perché chi compra vuole sapere davvero da dove viene il miele, e quanto da ciascun paese." },
+        { "who": "E", "text": "Perché chi compra vuole sapere davvero da dove viene il miele. E quanto da ciascun paese." },
         { "who": "M", "text": "Esatto. È una questione di trasparenza. Una frase come «miscela di mieli UE e non UE» diceva poco." },
         { "who": "E", "text": "A me però tocca poco, se faccio solo miele mio." },
-        { "who": "M", "text": "Vero, ma è bene sapere leggere le etichette degli altri. E se mai comprassi miele da mescolare, tieni le carte: servono a dimostrare l'origine." },
+        { "who": "M", "text": "Vero. Ma è bene sapere leggere le etichette degli altri. E, se mai comprassi miele da mescolare, tieni le carte: servono a dimostrare l'origine." },
         { "who": "E", "text": "E per i dettagli, come la tolleranza sulle percentuali?" },
-        { "who": "M", "text": "Quelli li trovi nel decreto, ma chiedi sempre alla tua ASL o all'associazione: sono regole nuove." }
+        { "who": "M", "text": "Quelli li trovi nel decreto. Ma chiedi sempre alla tua ASL o all'associazione: sono regole nuove." }
       ]
     },
     {
@@ -129,13 +129,13 @@
         { "who": "E", "text": "E come faccio a saperlo?" },
         { "who": "M", "text": "Il miele di quel fiore ha caratteristiche tipiche: colore, profumo, sapore. L'acacia è chiara e delicata, il castagno è scuro e un po' amaro." },
         { "who": "E", "text": "Quindi lo riconosco assaggiando." },
-        { "who": "M", "text": "Con l'esperienza, in parte sì. Ma c'è anche il microscopio. Secondo te, che cosa si cerca al microscopio nel miele?" },
+        { "who": "M", "text": "Con l'esperienza, in parte, sì. Ma c'è anche il microscopio. Secondo te, che cosa si cerca al microscopio nel miele?" },
         { "who": "E", "text": "I granuli di polline! Ogni fiore ha il suo polline, quindi si vede da dove viene il miele." },
-        { "who": "M", "text": "Bravissima. Questa si chiama analisi del polline. Alcuni laboratori e associazioni la fanno." },
+        { "who": "M", "text": "Bravissima! Questa si chiama analisi del polline. Alcuni laboratori e associazioni la fanno." },
         { "who": "E", "text": "E se nel mio miele ci sono tanti fiori insieme?" },
         { "who": "M", "text": "Allora è un millefiori: nessun fiore domina. Ed è un miele bellissimo, che racconta il paesaggio intorno alle arnie." },
-        { "who": "E", "text": "Meglio un millefiori onesto che un'acacia finta, insomma." },
-        { "who": "M", "text": "Proprio così. Chi compra si fida del nome. E un nome sbagliato può costare caro, anche in multe." },
+        { "who": "E", "text": "Meglio un millefiori onesto che un'acacia finta, insomma!" },
+        { "who": "M", "text": "Proprio così. Chi compra si fida del nome. E un nome sbagliato può costare caro… anche in multe." },
         { "who": "E", "text": "Allora tengo separate le smielature e assaggio sempre." }
       ]
     },
@@ -178,9 +178,9 @@
         { "who": "M", "text": "Puoi metterci il tuo nome o il tuo marchio. Alcune associazioni hanno sigilli propri. Attenta però a non scriverci promesse che non puoi mantenere." },
         { "who": "E", "text": "Tipo «miele miracoloso»?" },
         { "who": "M", "text": "Ecco, quello mai! Ne parleremo tra poco. Un consiglio pratico: il sigillo attacca solo su vetro pulito e asciutto." },
-        { "who": "E", "text": "Allora prima pulisco bene i vasetti, poi chiudo e sigillo." },
-        { "who": "M", "text": "E fallo passare sopra il coperchio, così non si può svitare senza strapparlo." },
-        { "who": "E", "text": "Chiaro. Un piccolo gesto che dà fiducia." }
+        { "who": "E", "text": "Allora prima pulisco bene i vasetti, poi chiudo, e sigillo." },
+        { "who": "M", "text": "E fallo passare sopra il coperchio: così non si può svitare senza strapparlo." },
+        { "who": "E", "text": "Chiaro! Un piccolo gesto che dà fiducia." }
       ]
     },
     {
@@ -215,7 +215,7 @@
         { "who": "E", "text": "Ho visto vasetti con scritto «ottimo contro la tosse» o «rinforza le difese». Non va bene?" },
         { "who": "M", "text": "No. In Europa le frasi sulla salute si possono usare solo se sono state autorizzate dopo un esame scientifico. Per il miele non ce n'è nessuna autorizzata." },
         { "who": "E", "text": "Ma la nonna mi dava sempre miele e latte quando avevo mal di gola!" },
-        { "who": "M", "text": "E fai bene a ricordarlo con affetto. Ma un ricordo di famiglia non è una prova. E c'è una regola ancora più netta. Secondo te, quale?" },
+        { "who": "M", "text": "E fai bene a ricordarlo con affetto. Ma un ricordo di famiglia non è una prova. E c'è una regola ancora più netta… Secondo te, quale?" },
         { "who": "E", "text": "Che non si può dire che un cibo cura o previene una malattia?" },
         { "who": "M", "text": "Esatto. Il regolamento europeo lo vieta per tutti gli alimenti, non solo per il miele." },
         { "who": "E", "text": "Allora cosa posso scrivere per rendere bello il vasetto?" },
@@ -224,7 +224,7 @@
         { "who": "M", "text": "Attenzione a non ingannare. Ogni miele è naturale per legge: farlo sembrare un pregio speciale può confondere. Se hai dubbi, chiedi all'associazione o alla ASL." },
         { "who": "E", "text": "Ultima cosa: posso dire che il miele va bene per tutti?" },
         { "who": "M", "text": "No! Anzi, ricorda che il miele non si dà ai bambini sotto l'anno di età. Molti apicoltori lo scrivono come avvertenza." },
-        { "who": "E", "text": "Allora: onestà, cose vere, e nessuna promessa miracolosa." }
+        { "who": "E", "text": "Allora: onestà, cose vere… e nessuna promessa miracolosa." }
       ]
     }
   ],

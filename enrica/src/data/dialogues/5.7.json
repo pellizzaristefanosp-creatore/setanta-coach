@@ -6,7 +6,7 @@
    "lines": [
     {
      "who": "M",
-     "text": "Ciao Enrica! Oggi parliamo del veleno delle api. Prima però vediamo l'arma: l'apparato vulnerante, cioè il pungiglione con tutto quello che gli sta attorno."
+     "text": "Ciao Enrica! Oggi parliamo del veleno delle api. Prima, però, vediamo l'arma: l'apparato vulnerante, cioè il pungiglione con tutto quello che gli sta attorno."
     },
     {
      "who": "E",
@@ -18,7 +18,7 @@
     },
     {
      "who": "E",
-     "text": "Ecco perché i fuchi si possono prendere in mano. E com'è fatto?"
+     "text": "Ecco perché i fuchi si possono prendere in mano! E com'è fatto?"
     },
     {
      "who": "M",
@@ -26,15 +26,15 @@
     },
     {
      "who": "E",
-     "text": "Restano agganciati e il pungiglione non esce più, come un amo."
+     "text": "Restano agganciati, e il pungiglione non esce più, come un amo."
     },
     {
      "who": "M",
-     "text": "Esatto. L'ape vola via, ma il pungiglione resta nella pelle con la sacca del veleno. Lei si strappa l'addome e muore."
+     "text": "Esatto. L'ape vola via, ma il pungiglione resta nella pelle, con la sacca del veleno. Lei si strappa l'addome… e muore."
     },
     {
      "who": "E",
-     "text": "Povera. E la sacca rimasta lì?"
+     "text": "Povera! E la sacca rimasta lì?"
     },
     {
      "who": "M",
@@ -46,19 +46,19 @@
     },
     {
      "who": "M",
-     "text": "Il suo pungiglione è quasi liscio e lo usa soprattutto contro le regine rivali. Con l'apicoltore è molto rara."
+     "text": "Il suo pungiglione è quasi liscio, e lo usa soprattutto contro le regine rivali. Con l'apicoltore è molto rara."
     },
     {
      "who": "E",
-     "text": "Poi ho notato che dopo una puntura ne arrivano altre. È un caso?"
+     "text": "Poi ho notato che, dopo una puntura, ne arrivano altre. È un caso?"
     },
     {
      "who": "M",
-     "text": "No. Il pungiglione libera un odore d'allarme, che ricorda la banana, e chiama le compagne. Allontanati e affumica il punto."
+     "text": "No. Il pungiglione libera un odore d'allarme, che ricorda la banana, e chiama le compagne. Allontanati, e affumica il punto."
     },
     {
      "who": "E",
-     "text": "Quindi: uncini, sacca che pompa e odore che chiama rinforzi. Ho capito l'arma."
+     "text": "Quindi: uncini, sacca che pompa, e odore che chiama rinforzi. Ho capito l'arma."
     }
    ]
   },
@@ -67,7 +67,7 @@
    "lines": [
     {
      "who": "M",
-     "text": "Adesso vediamo che cosa c'è nel veleno. Appena uscito, com'è secondo te?"
+     "text": "Adesso vediamo che cosa c'è nel veleno. Appena uscito, com'è, secondo te?"
     },
     {
      "who": "E",
@@ -75,7 +75,7 @@
     },
     {
      "who": "M",
-     "text": "Sì, un liquido chiaro, ricco d'acqua. Quando si secca resta una polverina. Dentro ci sono tante sostanze diverse. Una puntura ne porta pochissimo."
+     "text": "Sì, un liquido chiaro, ricco d'acqua. Quando si secca, resta una polverina. Dentro ci sono tante sostanze diverse. Una puntura ne porta pochissimo."
     },
     {
      "who": "E",
@@ -83,7 +83,7 @@
     },
     {
      "who": "M",
-     "text": "La prima è la melittina, un piccolo peptide, cioè una catenella di mattoncini di proteina. Nel veleno secco è la parte più grande, circa metà."
+     "text": "La prima è la melittina: un piccolo peptide, cioè una catenella di mattoncini di proteina. Nel veleno secco è la parte più grande, circa metà."
     },
     {
      "who": "E",
@@ -91,7 +91,7 @@
     },
     {
      "who": "M",
-     "text": "Soprattutto lei. Rompe le membrane delle cellule, come un ago che buca un palloncino. Da lì il bruciore. Poi arriva il gonfiore."
+     "text": "Soprattutto lei. Rompe le membrane delle cellule, come un ago che buca un palloncino. Da lì, il bruciore. Poi arriva il gonfiore."
     },
     {
      "who": "E",
@@ -99,7 +99,7 @@
     },
     {
      "who": "M",
-     "text": "C'è la fosfolipasi A2, un enzima, cioè una proteina che lavora come una forbice sui grassi delle cellule. E c'è l'apamina, un altro piccolo peptide che agisce sui nervi."
+     "text": "C'è la fosfolipasi A2: un enzima, cioè una proteina che lavora come una forbice sui grassi delle cellule. E c'è l'apamina, un altro piccolo peptide, che agisce sui nervi."
     },
     {
      "who": "E",
@@ -136,11 +136,11 @@
     },
     {
      "who": "E",
-     "text": "Sì, una signora al mercato diceva che si fa pungere per i dolori alle ginocchia."
+     "text": "Sì! Una signora al mercato diceva che si fa pungere per i dolori alle ginocchia."
     },
     {
      "who": "M",
-     "text": "Allora parliamo chiaro. In laboratorio i ricercatori studiano molto la melittina, anche contro le cellule tumorali in provetta."
+     "text": "Allora parliamo chiaro. In laboratorio, i ricercatori studiano molto la melittina, anche contro le cellule tumorali in provetta."
     },
     {
      "who": "E",
@@ -148,7 +148,7 @@
     },
     {
      "who": "M",
-     "text": "In provetta è una cosa, nel corpo umano un'altra. La melittina rompe anche le cellule sane, come i globuli rossi. Per ora non è una cura provata."
+     "text": "In provetta è una cosa, nel corpo umano un'altra. La melittina rompe anche le cellule sane, come i globuli rossi. Per ora, non è una cura provata."
     },
     {
      "who": "E",
@@ -156,19 +156,19 @@
     },
     {
      "who": "M",
-     "text": "Secondo te, che cosa può succedere a chi si fa pungere tante volte di proposito?"
+     "text": "Secondo te, che cosa può succedere a chi si fa pungere tante volte, di proposito?"
     },
     {
      "who": "E",
-     "text": "Può diventare allergico e avere una reazione grave, anche se prima stava bene."
+     "text": "Può diventare allergico, e avere una reazione grave, anche se prima stava bene."
     },
     {
      "who": "M",
-     "text": "Esatto. In Spagna una donna è morta per anafilassi durante una seduta di punture volontarie. Le sedute precedenti erano andate bene."
+     "text": "Esatto. In Spagna, una donna è morta per anafilassi durante una seduta di punture volontarie. Le sedute precedenti… erano andate bene."
     },
     {
      "who": "E",
-     "text": "Che paura. Quindi non è vero che se l'hai già provato sei al sicuro."
+     "text": "Che paura! Quindi non è vero che, se l'hai già provato, sei al sicuro."
     },
     {
      "who": "M",
@@ -184,7 +184,7 @@
     },
     {
      "who": "E",
-     "text": "Allora alla signora del mercato dirò di parlarne col suo medico, e niente api fai-da-te."
+     "text": "Allora, alla signora del mercato dirò di parlarne col suo medico. E niente api fai-da-te!"
     }
    ]
   },
@@ -201,7 +201,7 @@
     },
     {
      "who": "M",
-     "text": "Lo dicevano tutti. Ma uno studio ha mostrato una cosa diversa. Secondo te, conta di più il modo o la velocità?"
+     "text": "Lo dicevano tutti. Ma uno studio ha mostrato una cosa diversa. Secondo te, conta di più il modo, o la velocità?"
     },
     {
      "who": "E",
@@ -209,7 +209,7 @@
     },
     {
      "who": "M",
-     "text": "Brava. Grattare o pizzicare va bene uguale, purché lo fai subito. Ogni secondo in più, più veleno."
+     "text": "Brava! Grattare o pizzicare va bene uguale, purché lo fai subito. Ogni secondo in più, più veleno."
     },
     {
      "who": "E",
@@ -217,7 +217,7 @@
     },
     {
      "who": "M",
-     "text": "Ti allontani dall'arnia, lavi la zona e metti qualcosa di freddo. È normale che faccia male e si gonfi intorno."
+     "text": "Ti allontani dall'arnia, lavi la zona, e metti qualcosa di freddo. È normale che faccia male, e si gonfi intorno."
     },
     {
      "who": "E",
@@ -225,7 +225,7 @@
     },
     {
      "who": "M",
-     "text": "Un gonfiore grande ma vicino alla puntura di solito è una reazione locale. Parlane comunque col medico, se succede spesso."
+     "text": "Un gonfiore grande, ma vicino alla puntura, di solito è una reazione locale. Parlane comunque col medico, se succede spesso."
     },
     {
      "who": "E",
@@ -241,11 +241,11 @@
     },
     {
      "who": "M",
-     "text": "Chiami subito il 112. Se il medico ti ha dato l'adrenalina da fare da sola, la usi come ti ha insegnato. E non restare mai da sola."
+     "text": "Chiami subito il 112! Se il medico ti ha dato l'adrenalina da fare da sola, la usi come ti ha insegnato. E non restare mai da sola."
     },
     {
      "who": "E",
-     "text": "Ricordo: via il pungiglione subito, freddo, e se il corpo reagisce lontano dalla puntura, 112."
+     "text": "Ricordo: via il pungiglione subito, freddo, e, se il corpo reagisce lontano dalla puntura, 112."
     }
    ]
   },
@@ -258,11 +258,11 @@
     },
     {
      "who": "E",
-     "text": "No, sarebbe pochissimo. Forse si fa pungere qualcosa alle api vive."
+     "text": "No, sarebbe pochissimo. Forse… si fa pungere qualcosa alle api vive."
     },
     {
      "who": "M",
-     "text": "Esatto. Si usa un raccoglitore elettrico: un telaio con fili sottili, messo all'ingresso o sopra i telaini."
+     "text": "Esatto! Si usa un raccoglitore elettrico: un telaio con fili sottili, messo all'ingresso, o sopra i telaini."
     },
     {
      "who": "E",
@@ -270,7 +270,7 @@
     },
     {
      "who": "M",
-     "text": "No, passano impulsi molto leggeri. L'ape che tocca due fili sente una piccola scossa e reagisce pungendo. È una spinta, non una ferita."
+     "text": "No, passano impulsi molto leggeri. L'ape che tocca due fili sente una piccola scossa, e reagisce pungendo. È una spinta, non una ferita."
     },
     {
      "who": "E",
@@ -278,15 +278,15 @@
     },
     {
      "who": "M",
-     "text": "Sotto i fili c'è una lastra di vetro coperta da una pellicola sottile. Il pungiglione la attraversa, lascia la goccia di veleno sul vetro e di solito non resta incastrato."
+     "text": "Sotto i fili c'è una lastra di vetro, coperta da una pellicola sottile. Il pungiglione la attraversa, lascia la goccia di veleno sul vetro, e di solito non resta incastrato."
     },
     {
      "who": "E",
-     "text": "Quindi l'ape non muore."
+     "text": "Quindi l'ape non muore!"
     },
     {
      "who": "M",
-     "text": "Di solito no, perché il vetro non trattiene gli uncini come la pelle. La goccia si secca e diventa una polverina chiara. Il veleno secco è molto concentrato."
+     "text": "Di solito no, perché il vetro non trattiene gli uncini come la pelle. La goccia si secca, e diventa una polverina chiara. Il veleno secco è molto concentrato."
     },
     {
      "who": "E",
@@ -302,7 +302,7 @@
     },
     {
      "who": "M",
-     "text": "Un po' sì. Le api diventano più nervose per qualche giorno, e uno studio ha visto ghiandole della pappa reale più piccole nelle famiglie usate."
+     "text": "Un po' sì. Le api diventano più nervose per qualche giorno, e uno studio ha visto ghiandole della pappa reale più piccole, nelle famiglie usate."
     },
     {
      "who": "E",
@@ -315,7 +315,7 @@
    "lines": [
     {
      "who": "M",
-     "text": "Ultima parte: quanto veleno si può produrre e a chi si vende. Prova a indovinare: quanto veleno ha un'ape?"
+     "text": "Ultima parte: quanto veleno si può produrre, e a chi si vende. Prova a indovinare: quanto veleno ha un'ape?"
     },
     {
      "who": "E",
@@ -323,7 +323,7 @@
     },
     {
      "who": "M",
-     "text": "Pochissimo davvero. Uno studio ha misurato circa centocinquanta microgrammi per ape europea, cioè poco più di un decimo di milligrammo."
+     "text": "Pochissimo davvero. Uno studio ha misurato circa centocinquanta microgrammi per ape europea: cioè poco più di un decimo di milligrammo."
     },
     {
      "who": "E",
@@ -331,7 +331,7 @@
     },
     {
      "who": "M",
-     "text": "Esatto, migliaia di punture. Per questo il veleno è un prodotto costoso, raccolto in piccole quantità."
+     "text": "Esatto: migliaia di punture. Per questo il veleno è un prodotto costoso, raccolto in piccole quantità."
     },
     {
      "who": "E",
@@ -339,7 +339,7 @@
     },
     {
      "who": "M",
-     "text": "Soprattutto laboratori. Il prezzo dipende anche dalla purezza e da quanta melittina contiene. Secondo te, qual è l'uso medico più serio?"
+     "text": "Soprattutto laboratori. Il prezzo dipende anche dalla purezza, e da quanta melittina contiene. Secondo te, qual è l'uso medico più serio?"
     },
     {
      "who": "E",
@@ -347,7 +347,7 @@
     },
     {
      "who": "M",
-     "text": "Brava. Si chiama immunoterapia: lo specialista dà piccole dosi crescenti, e il corpo si abitua. È l'unica cura che previene nuove reazioni gravi."
+     "text": "Brava! Si chiama immunoterapia: lo specialista dà piccole dosi crescenti, e il corpo si abitua. È l'unica cura che previene nuove reazioni gravi."
     },
     {
      "who": "E",
@@ -363,11 +363,11 @@
     },
     {
      "who": "M",
-     "text": "Per pochi esperti e con le attrezzature giuste. Per te, oggi, conta di più conoscere il veleno per proteggerti. Il primo passo è imparare a proteggerti bene."
+     "text": "Per pochi esperti, e con le attrezzature giuste. Per te, oggi, conta di più conoscere il veleno per proteggerti. Il primo passo è imparare a proteggerti bene."
     },
     {
      "who": "E",
-     "text": "Allora: pochissimo per ape, prezzo alto, uso medico vero contro l'allergia, e prudenza con tutto il resto."
+     "text": "Allora: pochissimo per ape, prezzo alto, uso medico vero contro l'allergia… e prudenza con tutto il resto."
     }
    ]
   }

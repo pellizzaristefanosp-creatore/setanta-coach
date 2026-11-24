@@ -34,15 +34,15 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ciao Enrica! Oggi parliamo della pappa reale, quella crema bianca che fa diventare regina una larva. È uno dei prodotti più preziosi dell'alveare."
+          "text": "Ciao Enrica! Oggi parliamo della pappa reale: quella crema bianca che fa diventare regina una larva. È uno dei prodotti più preziosi dell'alveare."
         },
         {
           "who": "E",
-          "text": "Ciao Giuliano! L'ho vista nei vasetti in erboristeria. Ma chi la fa? La regina?"
+          "text": "Ciao Giuliano! L'ho vista nei vasetti, in erboristeria. Ma chi la fa? La regina?"
         },
         {
           "who": "M",
-          "text": "No, la regina la mangia e basta. La fanno le nutrici, cioè le operaie di pochi giorni che si occupano della covata."
+          "text": "No, la regina la mangia e basta. La fanno le nutrici, cioè le operaie di pochi giorni, che si occupano della covata."
         },
         {
           "who": "E",
@@ -50,11 +50,11 @@
         },
         {
           "who": "M",
-          "text": "Dalla testa! Le nutrici hanno delle ghiandole vicino alla bocca. Le più importanti si chiamano ipofaringee e mandibolari. Insieme preparano questa crema."
+          "text": "Dalla testa! Le nutrici hanno delle ghiandole vicino alla bocca. Le più importanti si chiamano ipofaringee e mandibolari. Insieme, preparano questa crema."
         },
         {
           "who": "E",
-          "text": "Quindi è una specie di latte delle api."
+          "text": "Quindi è una specie di latte delle api!"
         },
         {
           "who": "M",
@@ -66,19 +66,19 @@
         },
         {
           "who": "M",
-          "text": "Lei riceve pappa reale in abbondanza fino alla fine della crescita. Secondo te, perché le api fanno tanta fatica per una sola larva?"
+          "text": "Lei riceve pappa reale in abbondanza, fino alla fine della crescita. Secondo te, perché le api fanno tanta fatica per una sola larva?"
         },
         {
           "who": "E",
-          "text": "Perché senza una regina la famiglia non ha più uova e finisce. Una regina nuova salva tutta la colonia."
+          "text": "Perché, senza una regina, la famiglia non ha più uova, e finisce. Una regina nuova salva tutta la colonia."
         },
         {
           "who": "M",
-          "text": "Esatto. Le api allevano regine quando la vecchia va sostituita, quando preparano la sciamatura o quando la regina muore all'improvviso."
+          "text": "Esatto. Le api allevano regine quando la vecchia va sostituita, quando preparano la sciamatura, o quando la regina muore all'improvviso."
         },
         {
           "who": "E",
-          "text": "Allora è il cibo a fare la regina, non la nascita."
+          "text": "Allora è il cibo a fare la regina… non la nascita."
         },
         {
           "who": "M",
@@ -86,7 +86,7 @@
         },
         {
           "who": "E",
-          "text": "Che bella idea: la famiglia si sceglie la mamma dandole da mangiare."
+          "text": "Che bella idea! La famiglia si sceglie la mamma dandole da mangiare."
         }
       ]
     },
@@ -127,7 +127,7 @@
         },
         {
           "who": "M",
-          "text": "Un po' sì, ma lì è poca e la larva la consuma subito. La trovi davvero abbondante nelle celle reali."
+          "text": "Un po' sì, ma lì è poca, e la larva la consuma subito. La trovi davvero abbondante nelle celle reali."
         },
         {
           "who": "E",
@@ -135,19 +135,19 @@
         },
         {
           "who": "M",
-          "text": "Sono più grandi delle altre e sembrano una ghianda o una nocciolina. Pendono verso il basso, spesso sul bordo del favo."
+          "text": "Sono più grandi delle altre, e sembrano una ghianda, o una nocciolina. Pendono verso il basso, spesso sul bordo del favo."
         },
         {
           "who": "E",
-          "text": "Aspetta, se la cella è rivolta in giù, la larva non cade?"
+          "text": "Aspetta… se la cella è rivolta in giù, la larva non cade?"
         },
         {
           "who": "M",
-          "text": "Bella domanda. Secondo te, che cosa la tiene su?"
+          "text": "Bella domanda! Secondo te, che cosa la tiene su?"
         },
         {
           "who": "E",
-          "text": "La pappa! Se è densa e appiccicosa, la larva ci resta attaccata come su un cuscino di colla."
+          "text": "La pappa! Se è densa e appiccicosa, la larva ci resta attaccata, come su un cuscino di colla."
         },
         {
           "who": "M",
@@ -159,15 +159,15 @@
         },
         {
           "who": "M",
-          "text": "Nei primi giorni sì, un bel letto lucido. Ma una cella reale non si apre per curiosità: si apre solo se vuoi raccogliere la pappa."
+          "text": "Nei primi giorni sì: un bel letto lucido. Ma una cella reale non si apre per curiosità. Si apre solo se vuoi raccogliere la pappa."
         },
         {
           "who": "E",
-          "text": "E perché la cella è in verticale e non come le altre?"
+          "text": "E perché la cella è in verticale, e non come le altre?"
         },
         {
           "who": "M",
-          "text": "Perché la regina diventa più grande e le serve più spazio. Le api costruiscono la cella reale apposta, fuori dalla fila normale delle celle."
+          "text": "Perché la regina diventa più grande, e le serve più spazio. Le api costruiscono la cella reale apposta, fuori dalla fila normale delle celle."
         },
         {
           "who": "E",
@@ -209,11 +209,11 @@
         },
         {
           "who": "E",
-          "text": "Vitamine, forse. La vendono come una bomba di energia."
+          "text": "Vitamine, forse. La vendono come una bomba di energia!"
         },
         {
           "who": "M",
-          "text": "Ti sorprenderò: più della metà è acqua. Il resto sono proteine, zuccheri, grassi e un po' di sali e vitamine."
+          "text": "Ti sorprenderò: più della metà è acqua! Il resto sono proteine, zuccheri, grassi, e un po' di sali e vitamine."
         },
         {
           "who": "E",
@@ -245,19 +245,19 @@
         },
         {
           "who": "M",
-          "text": "Brava. Ci sono stati casi di asma e perfino di reazioni gravi, chiamate anafilassi. Capita soprattutto in chi ha già asma o altre allergie."
+          "text": "Brava. Ci sono stati casi di asma, e perfino di reazioni gravi, chiamate anafilassi. Capita soprattutto in chi ha già asma o altre allergie."
         },
         {
           "who": "E",
-          "text": "Quindi se un'amica allergica me la chiede, le dico di parlare prima col medico."
+          "text": "Quindi, se un'amica allergica me la chiede, le dico di parlare prima col medico."
         },
         {
           "who": "M",
-          "text": "Giusto. E se dopo averla presa qualcuno ha fiato corto, gonfiore al viso o si sente svenire, si chiama subito il 112."
+          "text": "Giusto. E se, dopo averla presa, qualcuno ha fiato corto, gonfiore al viso, o si sente svenire, si chiama subito il 112."
         },
         {
           "who": "E",
-          "text": "Ricordo: tanta acqua, sostanze tipiche, nessuna promessa di cura e attenzione alle allergie."
+          "text": "Ricordo: tanta acqua, sostanze tipiche, nessuna promessa di cura, e attenzione alle allergie."
         }
       ]
     },
@@ -298,7 +298,7 @@
         },
         {
           "who": "M",
-          "text": "Giusto. Quindi dobbiamo convincerle che serve. Il trucco è far sentire alla famiglia che manca la regina."
+          "text": "Giusto. Quindi dobbiamo convincerle che serve. Il trucco… è far sentire alla famiglia che manca la regina."
         },
         {
           "who": "E",
@@ -306,23 +306,23 @@
         },
         {
           "who": "M",
-          "text": "Si può togliere, oppure chiuderla in una parte dell'arnia con l'escludiregina, una griglia che lei non attraversa. Così una zona resta senza la sua presenza."
+          "text": "Si può togliere, oppure chiuderla in una parte dell'arnia con l'escludiregina: una griglia che lei non attraversa. Così una zona resta senza la sua presenza."
         },
         {
           "who": "E",
-          "text": "E lì le api si mettono ad allevare regine."
+          "text": "E lì le api si mettono ad allevare regine!"
         },
         {
           "who": "M",
-          "text": "Sì. Ma serve un'altra cosa. Secondo te, chi deve abbondare nella famiglia per fare tanta pappa?"
+          "text": "Sì. Ma serve un'altra cosa. Secondo te, chi deve abbondare nella famiglia, per fare tanta pappa?"
         },
         {
           "who": "E",
-          "text": "Le nutrici, perché sono loro che la producono con le ghiandole della testa."
+          "text": "Le nutrici, perché sono loro che la producono, con le ghiandole della testa."
         },
         {
           "who": "M",
-          "text": "Perfetto. Una famiglia forte, piena di api giovani e di covata. Una famiglia debole fa poca pappa."
+          "text": "Perfetto! Una famiglia forte, piena di api giovani e di covata. Una famiglia debole fa poca pappa."
         },
         {
           "who": "E",
@@ -330,11 +330,11 @@
         },
         {
           "who": "M",
-          "text": "Tanta. Il polline dà le proteine per le ghiandole, il nettare o lo sciroppo dà l'energia. Si lavora nei mesi con belle fioriture."
+          "text": "Tanta. Il polline dà le proteine per le ghiandole; il nettare, o lo sciroppo, dà l'energia. Si lavora nei mesi con belle fioriture."
         },
         {
           "who": "E",
-          "text": "Quindi niente produzione con famiglie stanche o nei periodi di fame."
+          "text": "Quindi, niente produzione con famiglie stanche, o nei periodi di fame."
         },
         {
           "who": "M",
@@ -342,7 +342,7 @@
         },
         {
           "who": "E",
-          "text": "Allora: famiglia forte, tante nutrici, cibo abbondante e sensazione di essere senza regina."
+          "text": "Allora: famiglia forte, tante nutrici, cibo abbondante, e sensazione di essere senza regina."
         }
       ]
     },
@@ -400,11 +400,11 @@
         },
         {
           "who": "M",
-          "text": "Con il coglilarva, un attrezzino sottile con la punta flessibile. Si fa scivolare sotto la larva e la si solleva con la sua goccia di pappa."
+          "text": "Con il coglilarva: un attrezzino sottile, con la punta flessibile. Si fa scivolare sotto la larva, e la si solleva con la sua goccia di pappa."
         },
         {
           "who": "E",
-          "text": "Sembra un lavoro da ricamatrice."
+          "text": "Sembra un lavoro da ricamatrice!"
         },
         {
           "who": "M",
@@ -416,7 +416,7 @@
         },
         {
           "who": "M",
-          "text": "Brava. Poi il telaino va nella famiglia senza regina. Le nutrici accettano i cupolini e li riempiono di pappa."
+          "text": "Brava! Poi il telaino va nella famiglia senza regina. Le nutrici accettano i cupolini, e li riempiono di pappa."
         },
         {
           "who": "E",
@@ -424,15 +424,15 @@
         },
         {
           "who": "M",
-          "text": "Di solito dopo circa tre giorni. Si toglie la larva con una pinzetta e si raccoglie la pappa con una spatolina o un piccolo aspiratore."
+          "text": "Di solito, dopo circa tre giorni. Si toglie la larva con una pinzetta, e si raccoglie la pappa con una spatolina, o un piccolo aspiratore."
         },
         {
           "who": "E",
-          "text": "Quindi quella larva non diventa regina."
+          "text": "Quindi quella larva… non diventa regina."
         },
         {
           "who": "M",
-          "text": "No, in questa produzione si sacrifica. È giusto saperlo prima di decidere se farla."
+          "text": "No, in questa produzione si sacrifica. È giusto saperlo, prima di decidere se farla."
         }
       ]
     },
@@ -469,7 +469,7 @@
         },
         {
           "who": "E",
-          "text": "Il miele dura anni nella dispensa. La pappa no?"
+          "text": "Il miele dura anni, nella dispensa. La pappa no?"
         },
         {
           "who": "M",
@@ -481,7 +481,7 @@
         },
         {
           "who": "M",
-          "text": "Proprio così. Per questo, appena raccolta, va subito al fresco, in una borsa frigo, e poi in frigorifero. Non lasciarla mai in macchina al sole, nemmeno per pochi minuti."
+          "text": "Proprio così. Per questo, appena raccolta, va subito al fresco, in una borsa frigo, e poi in frigorifero. Non lasciarla mai in macchina al sole, nemmeno per pochi minuti!"
         },
         {
           "who": "E",
@@ -489,7 +489,7 @@
         },
         {
           "who": "M",
-          "text": "Vasetti puliti, di vetro scuro o comunque riparati dalla luce, chiusi bene. Meno aria resta dentro, meglio è."
+          "text": "Vasetti puliti, di vetro scuro, o comunque riparati dalla luce, chiusi bene. Meno aria resta dentro, meglio è."
         },
         {
           "who": "E",
@@ -497,7 +497,7 @@
         },
         {
           "who": "M",
-          "text": "No, perde qualità piano piano. Uno studio fatto a Pisa ha visto che nel congelatore alcune sue proteine attive restano intatte per almeno un anno."
+          "text": "No, perde qualità piano piano. Uno studio fatto a Pisa ha visto che, nel congelatore, alcune sue proteine attive restano intatte per almeno un anno."
         },
         {
           "who": "E",
@@ -513,15 +513,15 @@
         },
         {
           "who": "M",
-          "text": "In laboratorio sì: certe proteine si rompono col tempo e col caldo, e si possono misurare. A casa conta sapere come è stata tenuta. Per questo è meglio comprarla da chi conosci."
+          "text": "In laboratorio sì: certe proteine si rompono col tempo e col caldo, e si possono misurare. A casa, conta sapere come è stata tenuta. Per questo è meglio comprarla da chi conosci."
         },
         {
           "who": "E",
-          "text": "Allora scrivo sempre la data sull'etichetta."
+          "text": "Allora, scrivo sempre la data sull'etichetta."
         },
         {
           "who": "M",
-          "text": "Ottima abitudine. E ricorda la regola: freddo, buio, vasetto chiuso."
+          "text": "Ottima abitudine! E ricorda la regola: freddo, buio, vasetto chiuso."
         }
       ]
     }

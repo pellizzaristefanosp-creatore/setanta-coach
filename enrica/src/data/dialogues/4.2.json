@@ -22,11 +22,11 @@
     },
     {
      "who": "M",
-     "text": "Se metti un chilo di zucchero e un chilo d'acqua, fai lo sciroppo uno a uno. È leggero, simile al nettare. La regina lo sente arrivare e depone di più."
+     "text": "Se metti un chilo di zucchero e un chilo d'acqua, fai lo sciroppo uno a uno. È leggero, simile al nettare: la regina lo sente arrivare e depone di più."
     },
     {
      "who": "E",
-     "text": "Come se in campagna fosse cominciata una fioritura."
+     "text": "Come se in campagna fosse cominciata una fioritura!"
     },
     {
      "who": "M",
@@ -46,7 +46,7 @@
     },
     {
      "who": "M",
-     "text": "No, mai bollire. Scaldi l'acqua, ci sciogli lo zucchero mescolando e lasci raffreddare. Con il troppo calore si forma una sostanza che fa male alle api."
+     "text": "No, mai bollire! Scaldi l'acqua, ci sciogli lo zucchero mescolando e lasci raffreddare. Con il troppo calore si forma una sostanza che fa male alle api."
     },
     {
      "who": "E",
@@ -83,7 +83,7 @@
     },
     {
      "who": "M",
-     "text": "Lo pensano tutti la prima volta. Invece escono poche gocce e poi si ferma. Secondo te, perché si ferma?"
+     "text": "Lo pensano tutti, la prima volta. Invece escono poche gocce, e poi si ferma. Secondo te, perché si ferma?"
     },
     {
      "who": "E",
@@ -91,7 +91,7 @@
     },
     {
      "who": "M",
-     "text": "Perfetto. Si forma il vuoto. Le api arrivano da sotto, leccano le gocce dai forellini e piano piano lo svuotano."
+     "text": "Perfetto! Si forma il vuoto. Le api arrivano da sotto, leccano le gocce dai forellini e piano piano lo svuotano."
     },
     {
      "who": "E",
@@ -128,7 +128,7 @@
    "lines": [
     {
      "who": "M",
-     "text": "Passiamo all'inverno. Quando fa freddo lo sciroppo non va bene. Si usa il candito."
+     "text": "Passiamo all'inverno. Quando fa freddo, lo sciroppo non va bene: si usa il candito."
     },
     {
      "who": "E",
@@ -172,7 +172,7 @@
     },
     {
      "who": "E",
-     "text": "Non ci avrei mai pensato. Il miele può essere un pericolo per le api!"
+     "text": "Non ci avrei mai pensato… Il miele può essere un pericolo per le api!"
     },
     {
      "who": "M",
@@ -205,7 +205,7 @@
     },
     {
      "who": "M",
-     "text": "Non sempre. Un trucco antico: sollevi l'arnia da dietro di pochi centimetri. Se è pesante, la dispensa è piena. Se è leggera, preoccupati."
+     "text": "Non sempre. Un trucco antico: sollevi l'arnia da dietro, di pochi centimetri. Se è pesante, la dispensa è piena. Se è leggera, preoccupati."
     },
     {
      "who": "E",
@@ -282,7 +282,7 @@
     },
     {
      "who": "M",
-     "text": "Gli studi dicono che i risultati sono misti. A volte aiutano, a volte no. Il polline vero ha più cose buone di qualsiasi pasta."
+     "text": "Gli studi dicono che i risultati sono misti: a volte aiutano, a volte no. Il polline vero ha più cose buone di qualsiasi pasta."
     },
     {
      "who": "E",

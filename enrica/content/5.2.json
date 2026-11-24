@@ -35,11 +35,11 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ciao Enrica! Oggi parliamo del polline: perché è importante, da dove viene, come si raccoglie e come si conserva."
+          "text": "Ciao Enrica! Oggi parliamo del polline: perché è importante, da dove viene, come si raccoglie, e come si conserva."
         },
         {
           "who": "E",
-          "text": "Il polline è quella polverina gialla dei fiori, giusto? Quella che fa starnutire."
+          "text": "Il polline è quella polverina gialla dei fiori, giusto? Quella che fa starnutire!"
         },
         {
           "who": "M",
@@ -47,11 +47,11 @@
         },
         {
           "who": "E",
-          "text": "Quindi il miele è la benzina e il polline è il mattone."
+          "text": "Quindi il miele è la benzina, e il polline è il mattone."
         },
         {
           "who": "M",
-          "text": "Bella immagine. E chi mangia più polline di tutte? Le api giovani, le nutrici. Secondo te, a cosa serve loro?"
+          "text": "Bella immagine! E chi mangia più polline di tutte? Le api giovani, le nutrici. Secondo te, a cosa serve loro?"
         },
         {
           "who": "E",
@@ -59,7 +59,7 @@
         },
         {
           "who": "M",
-          "text": "Esatto. Nella testa le nutrici hanno delle ghiandole che producono la pappa. Per farle lavorare devono mangiare tanto polline."
+          "text": "Esatto. Nella testa, le nutrici hanno delle ghiandole che producono la pappa. Per farle lavorare, devono mangiare tanto polline."
         },
         {
           "who": "E",
@@ -67,7 +67,7 @@
         },
         {
           "who": "M",
-          "text": "La regina rallenta, le nutrici non hanno pappa e la covata, cioè uova, larve e pupe, cala. In primavera la famiglia non cresce."
+          "text": "La regina rallenta, le nutrici non hanno pappa, e la covata, cioè uova, larve e pupe, cala. In primavera, la famiglia non cresce."
         },
         {
           "who": "E",
@@ -75,11 +75,11 @@
         },
         {
           "who": "M",
-          "text": "Non solo. Conta anche la qualità. Ogni pianta dà un polline diverso: alcuni sono ricchi di proteine, altri poveri. Polline di tanti fiori è come una dieta varia."
+          "text": "Non solo. Conta anche la qualità. Ogni pianta dà un polline diverso: alcuni sono ricchi di proteine, altri poveri. Polline di tanti fiori… è come una dieta varia."
         },
         {
           "who": "E",
-          "text": "Come noi: se mangio solo patate, mi manca qualcosa."
+          "text": "Come noi: se mangio solo patate, mi manca qualcosa!"
         },
         {
           "who": "M",
@@ -87,7 +87,7 @@
         },
         {
           "who": "E",
-          "text": "Allora quando scelgo dove mettere le arnie, guardo anche quanti fiori ci sono intorno."
+          "text": "Allora, quando scelgo dove mettere le arnie, guardo anche quanti fiori ci sono intorno."
         }
       ]
     },
@@ -129,15 +129,15 @@
         },
         {
           "who": "M",
-          "text": "A fine inverno il nocciolo, con i suoi amenti, quei pendagli gialli. Poi il salice. Sono le prime proteine dopo il freddo."
+          "text": "A fine inverno, il nocciolo, con i suoi amenti: quei pendagli gialli. Poi il salice. Sono le prime proteine dopo il freddo."
         },
         {
           "who": "E",
-          "text": "Allora le api a febbraio già lavorano?"
+          "text": "Allora le api, a febbraio, già lavorano?"
         },
         {
           "who": "M",
-          "text": "Nelle giornate di sole sì. Poi arrivano gli alberi da frutto, il tarassaco nei prati, e tante altre fioriture di primavera."
+          "text": "Nelle giornate di sole, sì. Poi arrivano gli alberi da frutto, il tarassaco nei prati, e tante altre fioriture di primavera."
         },
         {
           "who": "E",
@@ -145,7 +145,7 @@
         },
         {
           "who": "M",
-          "text": "Dipende dalla zona: per esempio il castagno, il trifoglio, il girasole. Ma c'è una pianta d'autunno che le api adorano. Te la ricordi? Cresce sui muri e sugli alberi."
+          "text": "Dipende dalla zona: per esempio, il castagno, il trifoglio, il girasole. Ma c'è una pianta d'autunno che le api adorano. Te la ricordi? Cresce sui muri e sugli alberi."
         },
         {
           "who": "E",
@@ -153,7 +153,7 @@
         },
         {
           "who": "M",
-          "text": "Brava. L'edera aiuta le api a fare le ultime scorte prima dell'inverno. Secondo te, perché è meglio avere intorno tante piante diverse?"
+          "text": "Brava! L'edera aiuta le api a fare le ultime scorte prima dell'inverno. Secondo te, perché è meglio avere intorno tante piante diverse?"
         },
         {
           "who": "E",
@@ -161,7 +161,7 @@
         },
         {
           "who": "M",
-          "text": "Proprio così. Ogni polline ha anche un colore: giallo, arancio, grigio, perfino blu. Guardando le pallottoline sulle zampe puoi indovinare la pianta."
+          "text": "Proprio così. Ogni polline ha anche un colore: giallo, arancio, grigio… perfino blu! Guardando le pallottoline sulle zampe, puoi indovinare la pianta."
         },
         {
           "who": "E",
@@ -169,7 +169,7 @@
         },
         {
           "who": "M",
-          "text": "Sì, ma attenta: lo stesso colore può venire da piante diverse. All'inizio confrontalo con quello che fiorisce intorno in quei giorni."
+          "text": "Sì, ma attenta: lo stesso colore può venire da piante diverse. All'inizio, confrontalo con quello che fiorisce intorno in quei giorni."
         },
         {
           "who": "E",
@@ -211,7 +211,7 @@
         },
         {
           "who": "E",
-          "text": "Come quando mi sporco di farina in cucina."
+          "text": "Come quando mi sporco di farina in cucina!"
         },
         {
           "who": "M",
@@ -223,15 +223,15 @@
         },
         {
           "who": "M",
-          "text": "Secondo te, cosa succede alla polvere se la bagni un poco?"
+          "text": "Secondo te, cosa succede alla polvere, se la bagni un poco?"
         },
         {
           "who": "E",
-          "text": "Si attacca insieme e diventa una pallina, come la farina con l'acqua."
+          "text": "Si attacca insieme, e diventa una pallina, come la farina con l'acqua."
         },
         {
           "who": "M",
-          "text": "Brava. L'ape preme la pallina nelle cestelle, cioè due piccole conche sulle zampe dietro, circondate da peli. Torna a casa con due pallottole colorate."
+          "text": "Brava! L'ape preme la pallina nelle cestelle, cioè due piccole conche sulle zampe dietro, circondate da peli. Torna a casa con due pallottole colorate."
         },
         {
           "who": "E",
@@ -239,7 +239,7 @@
         },
         {
           "who": "M",
-          "text": "Infila le zampe in una celletta e fa cadere le pallottole. Poi altre api le pressano con la testa e aggiungono un po' di miele sopra."
+          "text": "Infila le zampe in una celletta e fa cadere le pallottole. Poi altre api le pressano con la testa, e aggiungono un po' di miele sopra."
         },
         {
           "who": "E",
@@ -251,11 +251,11 @@
         },
         {
           "who": "E",
-          "text": "Furbe. E lo mangiano subito?"
+          "text": "Furbe! E lo mangiano subito?"
         },
         {
           "who": "M",
-          "text": "Uno studio ha visto che preferiscono quello messo da pochi giorni. Quello più vecchio resta come scorta per i momenti di magra."
+          "text": "Uno studio ha visto che preferiscono quello messo da pochi giorni. Quello più vecchio resta come scorta, per i momenti di magra."
         },
         {
           "who": "E",
@@ -297,23 +297,23 @@
         },
         {
           "who": "E",
-          "text": "Una trappola? Mi sembra cattiva per le api."
+          "text": "Una trappola? Mi sembra cattiva, per le api."
         },
         {
           "who": "M",
-          "text": "Il nome spaventa, ma non fa male. È una griglia con buchi piccoli: l'ape passa, ma le pallottole sulle zampe sbattono e cadono in un cassetto sotto."
+          "text": "Il nome spaventa, ma non fa male. È una griglia con buchi piccoli: l'ape passa, ma le pallottole sulle zampe sbattono, e cadono in un cassetto sotto."
         },
         {
           "who": "E",
-          "text": "Ah, quindi le api passano e il polline resta fuori."
+          "text": "Ah, quindi le api passano, e il polline resta fuori."
         },
         {
           "who": "M",
-          "text": "Esatto. Ma pensaci: secondo te, cosa succede alla famiglia se le togli troppo polline?"
+          "text": "Esatto. Ma pensaci… secondo te, cosa succede alla famiglia, se le togli troppo polline?"
         },
         {
           "who": "E",
-          "text": "Le nutrici non hanno cibo e la covata cala."
+          "text": "Le nutrici non hanno cibo, e la covata cala."
         },
         {
           "who": "M",
@@ -329,11 +329,11 @@
         },
         {
           "who": "E",
-          "text": "Capito. E il cassetto quando lo svuoto?"
+          "text": "Capito. E il cassetto, quando lo svuoto?"
         },
         {
           "who": "M",
-          "text": "Ogni giorno, meglio la sera. Il polline fresco è umido e prende muffa in fretta. E con la pioggia può bagnarsi."
+          "text": "Ogni giorno, meglio la sera. Il polline fresco è umido, e prende muffa in fretta. E con la pioggia può bagnarsi."
         },
         {
           "who": "E",
@@ -341,11 +341,11 @@
         },
         {
           "who": "M",
-          "text": "A volte sì, o pezzetti di ape e terra. Per questo poi il polline va pulito con cura, e il cassetto deve avere una rete e un tetto."
+          "text": "A volte sì, o pezzetti di ape e terra. Per questo, poi, il polline va pulito con cura, e il cassetto deve avere una rete e un tetto."
         },
         {
           "who": "E",
-          "text": "Famiglia forte, pochi giorni, cassetto vuotato ogni sera. Me lo segno."
+          "text": "Famiglia forte, pochi giorni, cassetto vuotato ogni sera. Me lo segno!"
         }
       ]
     },
@@ -387,7 +387,7 @@
         },
         {
           "who": "M",
-          "text": "Esatto. In pochi giorni può ammuffire o riempirsi di piccoli parassiti. Quindi si lavora subito."
+          "text": "Esatto. In pochi giorni può ammuffire, o riempirsi di piccoli parassiti. Quindi si lavora subito."
         },
         {
           "who": "E",
@@ -395,7 +395,7 @@
         },
         {
           "who": "M",
-          "text": "Pulirlo. Togli insetti, pezzetti di ape, terra. Si può usare un setaccio, e poi si guarda a occhio su un vassoio."
+          "text": "Pulirlo. Togli insetti, pezzetti di ape, terra. Si può usare un setaccio, e poi si guarda a occhio, su un vassoio."
         },
         {
           "who": "E",
@@ -403,7 +403,7 @@
         },
         {
           "who": "M",
-          "text": "Due strade. La prima: congelarlo in sacchetti per alimenti ben chiusi. È la più semplice per chi comincia."
+          "text": "Due strade. La prima: congelarlo in sacchetti per alimenti ben chiusi. È la più semplice, per chi comincia."
         },
         {
           "who": "E",
@@ -427,11 +427,11 @@
         },
         {
           "who": "M",
-          "text": "Esatto. E un'ultima cosa importante: chi è allergico ai pollini deve stare attento a mangiarlo. Prima di assaggiare o regalarlo, meglio chiedere al medico."
+          "text": "Esatto. E un'ultima cosa importante: chi è allergico ai pollini deve stare attento a mangiarlo. Prima di assaggiare, o regalarlo, meglio chiedere al medico."
         },
         {
           "who": "E",
-          "text": "Pulito, congelato o seccato, chiuso al buio. E prudenza con le allergie."
+          "text": "Pulito, congelato o seccato, chiuso al buio. E prudenza con le allergie!"
         }
       ]
     }

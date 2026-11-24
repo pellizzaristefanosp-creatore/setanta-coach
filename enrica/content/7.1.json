@@ -33,18 +33,18 @@
         "explanation": "Il miele attira l'acqua dall'aria. Con troppa acqua i lieviti possono farlo fermentare."
       },
       "dialogue": [
-        { "who": "M", "text": "Ciao Enrica! Oggi entriamo in un posto speciale: il laboratorio, che noi chiamiamo mieleria. È la stanza dove il miele passa dal melario al vasetto." },
-        { "who": "E", "text": "Ciao Giuliano! Quindi non si smiela in giardino, sotto il portico?" },
+        { "who": "M", "text": "Ciao, Enrica! Oggi entriamo in un posto speciale: il laboratorio, che noi chiamiamo mieleria. È la stanza dove il miele passa dal melario al vasetto." },
+        { "who": "E", "text": "Ciao, Giuliano! Quindi non si smiela in giardino, sotto il portico?" },
         { "who": "M", "text": "Meglio di no. Fuori arrivano le api, la polvere, gli insetti. Serve una stanza chiusa, con pareti e pavimento lisci, che si lavano bene." },
         { "who": "E", "text": "Un po' come una cucina, allora." },
-        { "who": "M", "text": "Proprio così. E come in cucina c'è un ordine: da una parte entrano i melari pieni, poi si disopercola, cioè si toglie il tappo di cera alle cellette." },
-        { "who": "E", "text": "E dopo i telaini vanno nello smielatore, che gira e fa uscire il miele." },
-        { "who": "M", "text": "Brava. Poi il miele passa nei filtri e arriva nel maturatore, un grande recipiente dove riposa. Alla fine si mette nei vasetti." },
+        { "who": "M", "text": "Proprio così. E, come in cucina, c'è un ordine: da una parte entrano i melari pieni; poi si disopercola, cioè si toglie il tappo di cera alle cellette." },
+        { "who": "E", "text": "E dopo, i telaini vanno nello smielatore, che gira e fa uscire il miele." },
+        { "who": "M", "text": "Brava. Poi il miele passa nei filtri, e arriva nel maturatore: un grande recipiente dove riposa. Alla fine, si mette nei vasetti." },
         { "who": "E", "text": "Un percorso in fila, senza tornare indietro." },
         { "who": "M", "text": "Esatto: dallo sporco al pulito. Gli attrezzi devono essere di acciaio inox o di plastica per alimenti. Secondo te, perché la stanza deve essere anche asciutta?" },
-        { "who": "E", "text": "Perché il miele prende l'umidità dall'aria? Se si bagna troppo, magari fermenta." },
-        { "who": "M", "text": "Perfetto. Il miele è goloso d'acqua. Se ne assorbe troppa, i lieviti si svegliano e lo fanno fermentare. Diventa acido e schiumoso." },
-        { "who": "E", "text": "Allora niente pentole che bollono vicino, e finestre chiuse nelle giornate umide." },
+        { "who": "E", "text": "Perché il miele prende l'umidità dall'aria? Se si bagna troppo… magari fermenta." },
+        { "who": "M", "text": "Perfetto. Il miele è goloso d'acqua! Se ne assorbe troppa, i lieviti si svegliano e lo fanno fermentare. Diventa acido e schiumoso." },
+        { "who": "E", "text": "Allora: niente pentole che bollono vicino, e finestre chiuse nelle giornate umide." },
         { "who": "M", "text": "E finestre chiuse anche per le api: sentono il profumo da lontano. Una mieleria piena di api è una gran confusione." },
         { "who": "E", "text": "Me lo immagino! Zanzariere prima di tutto." }
       ]
@@ -81,16 +81,16 @@
         { "who": "E", "text": "Opercolati vuol dire chiusi con il tappino di cera, giusto?" },
         { "who": "M", "text": "Sì. Secondo te, perché le api chiudono la celletta solo a un certo punto?" },
         { "who": "E", "text": "Perché il miele è pronto? Hanno tolto l'acqua che c'era nel nettare." },
-        { "who": "M", "text": "Brava. Il nettare è molto acquoso. Le api lo asciugano ventilando con le ali, e quando è maturo lo chiudono. Se smieli prima, rischi miele che fermenta." },
-        { "who": "E", "text": "E dopo lo smielatore cosa succede?" },
+        { "who": "M", "text": "Brava. Il nettare è molto acquoso. Le api lo asciugano ventilando con le ali, e, quando è maturo, lo chiudono. Se smieli prima, rischi miele che fermenta." },
+        { "who": "E", "text": "E dopo lo smielatore, cosa succede?" },
         { "who": "M", "text": "Si filtra, per togliere pezzetti di cera e qualche ala. Poi riposa nel maturatore qualche giorno. Le bollicine d'aria e la cera salgono in superficie." },
-        { "who": "E", "text": "Come la schiuma sulla marmellata. Si toglie con un cucchiaio?" },
-        { "who": "M", "text": "Proprio così, la schiuma si toglie prima di riempire i vasetti. Poi c'è il nemico numero uno: il calore." },
+        { "who": "E", "text": "Come la schiuma sulla marmellata! Si toglie con un cucchiaio?" },
+        { "who": "M", "text": "Proprio così: la schiuma si toglie prima di riempire i vasetti. Poi c'è il nemico numero uno… il calore." },
         { "who": "E", "text": "Ma se il miele si indurisce, non si può scaldare un po'?" },
-        { "who": "M", "text": "Con molta prudenza. Il calore forte fa perdere profumo e fa crescere una sostanza, l'HMF, che i laboratori usano per capire se il miele è stato scaldato o è vecchio." },
+        { "who": "M", "text": "Con molta prudenza. Il calore forte fa perdere profumo, e fa crescere una sostanza, l'HMF, che i laboratori usano per capire se il miele è stato scaldato, o è vecchio." },
         { "who": "E", "text": "Quindi niente vasetti vicino al termosifone o sulla finestra al sole." },
         { "who": "M", "text": "Esatto. Fresco, buio, asciutto, e vasetti ben chiusi. Così il miele resta buono a lungo." },
-        { "who": "E", "text": "Come la dispensa della nonna, insomma." }
+        { "who": "E", "text": "Come la dispensa della nonna, insomma!" }
       ]
     },
     {
@@ -131,10 +131,10 @@
         { "who": "E", "text": "Lo sportello si chiama SUAP, vero? E la mieleria deve essere registrata?" },
         { "who": "M", "text": "Spesso sì, ma i dettagli cambiano da regione a regione. Secondo te, a chi conviene chiedere prima di cominciare?" },
         { "who": "E", "text": "Alla mia ASL, oppure alla mia associazione di apicoltori. Loro conoscono le regole della mia zona." },
-        { "who": "M", "text": "Esattamente. Le regole possono cambiare negli anni, quindi chiedi sempre a loro, non al vicino di casa." },
+        { "who": "M", "text": "Esattamente. Le regole possono cambiare negli anni: quindi chiedi sempre a loro, non al vicino di casa." },
         { "who": "E", "text": "Anche se il vicino fa miele da trent'anni?" },
         { "who": "M", "text": "Anche! Magari lui segue regole vecchie. Meglio una telefonata in più che una multa." },
-        { "who": "E", "text": "Va bene, telefono prima di vendere il primo vasetto." }
+        { "who": "E", "text": "Va bene: telefono prima di vendere il primo vasetto." }
       ]
     },
     {
@@ -166,19 +166,19 @@
       },
       "dialogue": [
         { "who": "M", "text": "Ultima tappa: il manuale di buone pratiche. Hai mai sentito la parola HACCP?" },
-        { "who": "E", "text": "Sì, nei ristoranti. Mi sembra una cosa da grandi aziende, piena di carte." },
+        { "who": "E", "text": "Sì, nei ristoranti. Mi sembra una cosa da grandi aziende… piena di carte." },
         { "who": "M", "text": "Sembra difficile, ma l'idea è semplice. Prima vengono le buone pratiche igieniche: mani pulite, attrezzi lavati, niente animali, acqua potabile." },
         { "who": "E", "text": "Queste le capisco. E l'HACCP vero e proprio?" },
         { "who": "M", "text": "È un modo di ragionare. Guardi tutto il percorso del miele e ti chiedi: dove può entrare un pericolo? Un pezzo di vetro, un residuo di farmaco, lo sporco." },
         { "who": "E", "text": "E poi controllo proprio quei punti." },
         { "who": "M", "text": "Esatto. Per ogni punto decidi come controllare, qual è il limite, e cosa fai se le cose vanno male. Secondo te, dove può nascere un pericolo per il miele?" },
-        { "who": "E", "text": "Nei filtri, se sono rotti, o nei vasetti, se sono sporchi o scheggiati." },
-        { "who": "M", "text": "Bravissima. E anche nei trattamenti contro la varroa: mai con i melari sopra, e sempre seguendo l'etichetta e il veterinario." },
+        { "who": "E", "text": "Nei filtri, se sono rotti. O nei vasetti, se sono sporchi o scheggiati." },
+        { "who": "M", "text": "Bravissima! E anche nei trattamenti contro la varroa: mai con i melari sopra, e sempre seguendo l'etichetta e il veterinario." },
         { "who": "E", "text": "E devo scrivere tutto? Ho paura di perdermi tra i fogli." },
-        { "who": "M", "text": "Per i piccoli le regole europee permettono più semplicità. Molte associazioni hanno manuali già pronti. Tu scrivi poco, ma scrivi sempre." },
+        { "who": "M", "text": "Per i piccoli, le regole europee permettono più semplicità. Molte associazioni hanno manuali già pronti. Tu scrivi poco, ma scrivi sempre." },
         { "who": "E", "text": "Tipo un quaderno con date, arnie, vasetti e lotto?" },
         { "who": "M", "text": "Proprio quello. E chiedi alla tua ASL o all'associazione quale manuale usare nella tua regione." },
-        { "who": "E", "text": "Allora l'HACCP è solo pensare prima, controllare e scrivere. Molto meno spaventoso!" }
+        { "who": "E", "text": "Allora l'HACCP è solo: pensare prima, controllare e scrivere. Molto meno spaventoso!" }
       ]
     }
   ],

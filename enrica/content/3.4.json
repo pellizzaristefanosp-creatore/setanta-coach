@@ -34,7 +34,7 @@
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi parliamo di un problema che prima o poi capita a tutti: la colonia orfana." },
         { "who": "E", "text": "Ciao Giuliano! Orfana vuol dire senza regina, giusto?" },
-        { "who": "M", "text": "Senza una regina che depone. A volte c'è una regina ma non funziona più, e per la famiglia è quasi lo stesso." },
+        { "who": "M", "text": "Senza una regina che depone. A volte c'è una regina, ma non funziona più: e per la famiglia è quasi lo stesso." },
         { "who": "E", "text": "E come fa una famiglia a perdere la regina?" },
         { "who": "M", "text": "Le cause sono tante. Può morire di vecchiaia o di malattia. Oppure può finire male durante una nostra visita." },
         { "who": "E", "text": "Durante una visita? Per colpa nostra?" },
@@ -44,8 +44,8 @@
         { "who": "E", "text": "Altre cause?" },
         { "who": "M", "text": "Dopo una sciamatura, la regina giovane deve uscire per i voli nuziali. Può essere mangiata da un uccello o sbagliare arnia al ritorno." },
         { "who": "E", "text": "Che peccato! E la famiglia resta lì ad aspettare." },
-        { "who": "M", "text": "Proprio. E nei sondaggi tra apicoltori i problemi della regina sono tra le cause più citate di guai, dopo la varroa." },
-        { "who": "E", "text": "Allora dopo ogni sciamatura e ogni cambio di regina devo controllare che ci siano uova nuove." }
+        { "who": "M", "text": "Proprio. E nei sondaggi tra apicoltori, i problemi della regina sono tra le cause più citate di guai, dopo la varroa." },
+        { "who": "E", "text": "Allora, dopo ogni sciamatura e ogni cambio di regina, devo controllare che ci siano uova nuove." }
       ]
     },
     {
@@ -78,8 +78,8 @@
         { "who": "M", "text": "Enrica, come facciamo a capire che una famiglia è orfana?" },
         { "who": "E", "text": "Cerco la regina e non la trovo!" },
         { "who": "M", "text": "Attenta: la regina si nasconde bene, anche agli esperti. Meglio cercare i suoi segni. Secondo te, qual è il segno più sicuro che la regina c'è?" },
-        { "who": "E", "text": "Le uova fresche, una per cella, dritte in fondo. Se ci sono, la regina c'era fino a pochi giorni fa." },
-        { "who": "M", "text": "Brava. E se non ci sono uova né larve giovani, devi preoccuparti." },
+        { "who": "E", "text": "Le uova fresche: una per cella, dritte in fondo. Se ci sono, la regina c'era fino a pochi giorni fa." },
+        { "who": "M", "text": "Brava. E se non ci sono uova né larve giovani… devi preoccuparti." },
         { "who": "E", "text": "E le api cosa fanno quando si accorgono che la regina non c'è?" },
         { "who": "M", "text": "Provano a farne una nuova. Prendono una larva giovane di operaia e allargano la sua cella, che diventa una cella reale." },
         { "who": "E", "text": "Come quelle della sciamatura?" },
@@ -88,7 +88,7 @@
         { "who": "M", "text": "Sì, ma non è una regola fissa. Poi ci sono altri segni: le api sono più nervose, e molti apicoltori dicono che il ronzio sembra un lamento." },
         { "who": "E", "text": "Come un bambino che piange perché non trova la mamma." },
         { "who": "M", "text": "Più o meno. E il polline e il miele riempiono le celle dove prima c'era la covata." },
-        { "who": "E", "text": "Allora controllo uova, larve, celle reali e anche l'umore delle api." }
+        { "who": "E", "text": "Allora controllo uova, larve, celle reali… e anche l'umore delle api." }
       ]
     },
     {
@@ -124,8 +124,8 @@
         { "who": "E", "text": "Ma allora il problema è risolto! Qualcuno fa le uova." },
         { "who": "M", "text": "Purtroppo no. Le operaie non si accoppiano mai. Secondo te, cosa nasce da un uovo non fecondato?" },
         { "who": "E", "text": "Un fuco! Ce lo hai insegnato: le uova non fecondate diventano maschi." },
-        { "who": "M", "text": "Esatto. Quindi nascono solo fuchi, e la famiglia piano piano si spegne." },
-        { "who": "E", "text": "Perché però le operaie di solito non depongono?" },
+        { "who": "M", "text": "Esatto. Quindi nascono solo fuchi, e la famiglia, piano piano, si spegne." },
+        { "who": "E", "text": "Perché, però, le operaie di solito non depongono?" },
         { "who": "M", "text": "Perché il profumo della regina frena le loro ovaie. Quando la regina sparisce, il freno si toglie." },
         { "who": "E", "text": "E come le riconosco?" },
         { "who": "M", "text": "Guarda le uova: spesso ce ne sono due o tre per cella, appoggiate sulle pareti invece che in fondo. Le operaie hanno l'addome corto." },
@@ -162,19 +162,19 @@
       },
       "dialogue": [
         { "who": "M", "text": "Enrica, abbiamo il sospetto che la famiglia sia orfana. Come facciamo a esserne sicuri?" },
-        { "who": "E", "text": "Non lo so. C'è un trucco?" },
+        { "who": "E", "text": "Non lo so… C'è un trucco?" },
         { "who": "M", "text": "Sì: il telaino di prova. Prendi da un'altra arnia un telaino con uova e larve giovani e lo metti nella famiglia sospetta." },
         { "who": "E", "text": "E poi cosa guardo?" },
         { "who": "M", "text": "Secondo te, cosa faranno le api di quel telaino, se sono davvero senza regina?" },
         { "who": "E", "text": "Useranno le larve giovani per allevare celle reali, perché vogliono subito una nuova regina." },
-        { "who": "M", "text": "Brava. Se dopo qualche giorno vedi celle reali, la famiglia è orfana. Se no, forse una regina c'è, magari giovane e non ancora in deposizione." },
+        { "who": "M", "text": "Brava. Se dopo qualche giorno vedi celle reali, la famiglia è orfana. Se no, forse una regina c'è: magari giovane, e non ancora in deposizione." },
         { "who": "E", "text": "E se è orfana davvero, cosa le do?" },
-        { "who": "M", "text": "Puoi lasciare che allevi una regina dalle celle, oppure darle una cella reale matura, o meglio ancora una regina feconda in gabbietta." },
+        { "who": "M", "text": "Puoi lasciare che allevi una regina dalle celle, oppure darle una cella reale matura. O, meglio ancora, una regina feconda in gabbietta." },
         { "who": "E", "text": "E se ci sono già le operaie ovificatrici?" },
         { "who": "M", "text": "Lì è più difficile: spesso non accettano una regina nuova. Si possono dare più telaini di covata giovane, uno alla settimana." },
         { "who": "E", "text": "Perché la covata giovane aiuta?" },
         { "who": "M", "text": "Le larve giovani hanno un profumo che frena le ovaie delle operaie. Se la famiglia è debole, conviene riunirla a una famiglia forte con il giornale." },
-        { "who": "E", "text": "Allora prima la prova, poi la regina nuova, e nei casi difficili la riunione." }
+        { "who": "E", "text": "Allora: prima la prova, poi la regina nuova, e nei casi difficili la riunione." }
       ]
     }
   ],

@@ -32,12 +32,12 @@
         "explanation": "Il nettare è soprattutto acqua e zuccheri, con piccole quantità di altre sostanze."
       },
       "dialogue": [
-        { "who": "M", "text": "Ciao Enrica! Oggi parliamo delle materie prime del miele. Cioè da dove viene, prima di arrivare nel vasetto." },
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo delle materie prime del miele: cioè da dove viene, prima di arrivare nel vasetto." },
         { "who": "E", "text": "Ciao Giuliano! Dai fiori, no?" },
-        { "who": "M", "text": "In gran parte sì, dal nettare dei fiori. Ma c'è anche un'altra fonte, più sorprendente: la vedremo dopo. Cominciamo dal nettare." },
+        { "who": "M", "text": "In gran parte sì, dal nettare dei fiori. Ma c'è anche un'altra fonte, più sorprendente… la vedremo dopo. Cominciamo dal nettare." },
         { "who": "E", "text": "È il succo dolce che sta dentro i fiori?" },
         { "who": "M", "text": "Esatto. Lo producono piccole ghiandole, i nettari. Il fiore lo offre come premio agli insetti che portano il suo polline." },
-        { "who": "E", "text": "Un regalo in cambio di un lavoro." },
+        { "who": "E", "text": "Un regalo in cambio di un lavoro!" },
         { "who": "M", "text": "Proprio. Il nettare è fatto soprattutto di acqua e zuccheri. Ma ha anche piccole quantità di altre sostanze, che danno profumo e sapore." },
         { "who": "E", "text": "Per questo ogni miele ha un gusto diverso!" },
         { "who": "M", "text": "Brava. Ora, il nettare è molto più liquido del miele. Secondo te, cosa devono fare le api per trasformarlo in miele?" },
@@ -88,7 +88,7 @@
         { "who": "E", "text": "Mettere il melario proprio quando fiorisce quella pianta, e toglierlo appena finisce." },
         { "who": "M", "text": "Bravissima. Si chiama miele uniflorale. Se invece le api raccolgono da tante piante insieme, è un millefiori." },
         { "who": "E", "text": "E il millefiori vale meno?" },
-        { "who": "M", "text": "Niente affatto! Racconta il paesaggio intorno all'apiario. Ogni millefiori è diverso dall'altro. E per capire cosa c'è nel vasetto, i laboratori guardano il polline al microscopio." },
+        { "who": "M", "text": "Niente affatto! Racconta il paesaggio intorno all'apiario: ogni millefiori è diverso dall'altro. E per capire cosa c'è nel vasetto, i laboratori guardano il polline al microscopio." },
         { "who": "E", "text": "Come una minestra dell'orto: dipende da cosa è cresciuto quella settimana." }
       ]
     },

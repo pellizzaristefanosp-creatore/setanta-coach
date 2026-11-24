@@ -34,7 +34,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ciao Enrica! Oggi parliamo della cera, il materiale con cui le api costruiscono casa. Cominciamo dal favo. Tu come lo descriveresti?"
+          "text": "Ciao Enrica! Oggi parliamo della cera: il materiale con cui le api costruiscono casa. Cominciamo dal favo. Tu, come lo descriveresti?"
         },
         {
           "who": "E",
@@ -42,23 +42,23 @@
         },
         {
           "who": "M",
-          "text": "Perfetto. Al centro c'è una parete sottile, e da lì partono le celle verso destra e verso sinistra."
+          "text": "Perfetto! Al centro c'è una parete sottile, e da lì partono le celle, verso destra e verso sinistra."
         },
         {
           "who": "E",
-          "text": "E perché le celle sono esagoni e non quadrati o cerchi?"
+          "text": "E perché le celle sono esagoni, e non quadrati o cerchi?"
         },
         {
           "who": "M",
-          "text": "Bella domanda. Prova a pensare a una tavola piena di bicchieri rotondi. Che cosa resta tra un bicchiere e l'altro?"
+          "text": "Bella domanda! Prova a pensare a una tavola piena di bicchieri rotondi. Che cosa resta tra un bicchiere e l'altro?"
         },
         {
           "who": "E",
-          "text": "Restano dei buchi vuoti. Con gli esagoni invece non resta nessuno spazio sprecato."
+          "text": "Restano dei buchi vuoti. Con gli esagoni, invece, non resta nessuno spazio sprecato!"
         },
         {
           "who": "M",
-          "text": "Esatto. Ogni parete è in comune con la cella vicina, così si usa poca cera per tanto spazio."
+          "text": "Esatto. Ogni parete è in comune con la cella vicina: così si usa poca cera, per tanto spazio."
         },
         {
           "who": "E",
@@ -66,15 +66,15 @@
         },
         {
           "who": "M",
-          "text": "Qui c'è una scoperta curiosa: all'inizio le celle sono quasi rotonde. Poi la cera tiepida si sistema da sola dove tre celle si toccano, e nascono gli esagoni."
+          "text": "Qui c'è una scoperta curiosa: all'inizio, le celle sono quasi rotonde. Poi la cera tiepida si sistema da sola, dove tre celle si toccano… e nascono gli esagoni."
         },
         {
           "who": "E",
-          "text": "Come le bolle di sapone che, strette insieme, diventano a facce."
+          "text": "Come le bolle di sapone che, strette insieme, diventano a facce!"
         },
         {
           "who": "M",
-          "text": "Bel paragone. Poi nota che le celle non sono tutte uguali: quelle delle operaie sono più piccole, quelle dei fuchi più grandi."
+          "text": "Bel paragone! Poi nota che le celle non sono tutte uguali: quelle delle operaie sono più piccole, quelle dei fuchi più grandi."
         },
         {
           "who": "E",
@@ -128,7 +128,7 @@
         },
         {
           "who": "M",
-          "text": "No, stavolta dalla pancia. Sotto l'addome le operaie hanno quattro paia di ghiandole della cera, chiamate ghiandole ceripare."
+          "text": "No, stavolta dalla pancia! Sotto l'addome, le operaie hanno quattro paia di ghiandole della cera, chiamate ghiandole ceripare."
         },
         {
           "who": "E",
@@ -136,7 +136,7 @@
         },
         {
           "who": "M",
-          "text": "Esce liquida e indurisce subito in scagliette sottili e trasparenti, come piccole unghie. L'ape le prende con le zampe e le mastica per ammorbidirle. Poi la lavora con le mandibole e la attacca al favo."
+          "text": "Esce liquida, e indurisce subito in scagliette sottili e trasparenti, come piccole unghie. L'ape le prende con le zampe e le mastica, per ammorbidirle. Poi la lavora con le mandibole, e la attacca al favo."
         },
         {
           "who": "E",
@@ -144,11 +144,11 @@
         },
         {
           "who": "M",
-          "text": "Soprattutto quelle giovani, più o meno nella seconda e terza settimana di vita. Poi le ghiandole si riducono e l'ape passa ad altri lavori."
+          "text": "Soprattutto quelle giovani, più o meno nella seconda e terza settimana di vita. Poi le ghiandole si riducono, e l'ape passa ad altri lavori."
         },
         {
           "who": "E",
-          "text": "Quindi c'è un'età per ogni mestiere."
+          "text": "Quindi c'è un'età per ogni mestiere!"
         },
         {
           "who": "M",
@@ -160,7 +160,7 @@
         },
         {
           "who": "M",
-          "text": "Brava. Per questo le api costruiscono soprattutto quando entra tanto nettare. E serve caldo: si appendono una all'altra in catene, dette festoni."
+          "text": "Brava! Per questo le api costruiscono soprattutto quando entra tanto nettare. E serve caldo: si appendono una all'altra in catene, dette festoni."
         },
         {
           "who": "E",
@@ -168,7 +168,7 @@
         },
         {
           "who": "M",
-          "text": "Proprio così. Lì dentro fa caldo e la cera si lavora meglio. Ogni ape aggiunge un pezzetto, come in un cantiere."
+          "text": "Proprio così. Lì dentro fa caldo, e la cera si lavora meglio. Ogni ape aggiunge un pezzetto, come in un cantiere."
         },
         {
           "who": "E",
@@ -214,11 +214,11 @@
         },
         {
           "who": "M",
-          "text": "Ci sei vicina. La parte più grande sono gli esteri, sostanze che nascono dall'unione di acidi grassi e alcoli. Poi ci sono idrocarburi e acidi grassi liberi."
+          "text": "Ci sei vicina. La parte più grande sono gli esteri: sostanze che nascono dall'unione di acidi grassi e alcoli. Poi ci sono idrocarburi e acidi grassi liberi."
         },
         {
           "who": "E",
-          "text": "Parole difficili. Me lo dici in modo semplice?"
+          "text": "Parole difficili… Me lo dici in modo semplice?"
         },
         {
           "who": "M",
@@ -254,7 +254,7 @@
         },
         {
           "who": "M",
-          "text": "Perché ogni ape che nasce lascia nella cella il suo bozzolo, una pellicina sottile. Dopo tante nascite il favo diventa marrone, quasi nero."
+          "text": "Perché ogni ape che nasce lascia nella cella il suo bozzolo: una pellicina sottile. Dopo tante nascite, il favo diventa marrone… quasi nero."
         },
         {
           "who": "E",
@@ -300,23 +300,23 @@
         },
         {
           "who": "M",
-          "text": "Sì, e poi gli opercoli, cioè i tappini di cera che togli dai favi di miele prima di smielare."
+          "text": "Sì, e poi gli opercoli, cioè i tappini di cera che togli dai favi di miele, prima di smielare."
         },
         {
           "who": "E",
-          "text": "Quelli sono belli chiari."
+          "text": "Quelli sono belli chiari!"
         },
         {
           "who": "M",
-          "text": "Infatti danno la cera migliore. I favi vecchi danno cera più scura e più sporca."
+          "text": "Infatti, danno la cera migliore. I favi vecchi danno cera più scura, e più sporca."
         },
         {
           "who": "E",
-          "text": "E come la sciolgo? In pentola sul fornello?"
+          "text": "E come la sciolgo? In pentola, sul fornello?"
         },
         {
           "who": "M",
-          "text": "Mai sulla fiamma diretta: la cera calda prende fuoco facilmente. Un sistema semplice e gratis è la sceratrice solare."
+          "text": "Mai sulla fiamma diretta: la cera calda prende fuoco facilmente! Un sistema semplice e gratis è la sceratrice solare."
         },
         {
           "who": "E",
@@ -324,11 +324,11 @@
         },
         {
           "who": "M",
-          "text": "Una cassa chiusa con un vetro sopra. Dentro c'è un piano inclinato dove metti la cera, e sotto una vaschetta. Secondo te, che cosa succede al sole?"
+          "text": "Una cassa chiusa, con un vetro sopra. Dentro c'è un piano inclinato dove metti la cera, e sotto una vaschetta. Secondo te, che cosa succede al sole?"
         },
         {
           "who": "E",
-          "text": "Dentro fa caldissimo, la cera si scioglie, cola lungo il piano e finisce nella vaschetta."
+          "text": "Dentro fa caldissimo: la cera si scioglie, cola lungo il piano, e finisce nella vaschetta."
         },
         {
           "who": "M",
@@ -340,11 +340,11 @@
         },
         {
           "who": "M",
-          "text": "Due cose. La cassa deve essere chiusa bene, altrimenti le api entrano attirate dall'odore. E il troppo calore scurisce la cera e le toglie valore."
+          "text": "Due cose. La cassa deve essere chiusa bene, altrimenti le api entrano, attirate dall'odore. E il troppo calore scurisce la cera, e le toglie valore."
         },
         {
           "who": "E",
-          "text": "Allora: opercoli a parte, niente fiamma, sole e cassa ben chiusa."
+          "text": "Allora: opercoli a parte, niente fiamma, sole, e cassa ben chiusa."
         }
       ]
     },
@@ -394,23 +394,23 @@
         },
         {
           "who": "M",
-          "text": "Le spore restano nei favi, nella cera e nelle arnie per decenni. E resistono molto al calore."
+          "text": "Le spore restano nei favi, nella cera e nelle arnie… per decenni. E resistono molto al calore."
         },
         {
           "who": "E",
-          "text": "Quindi se sciolgo la cera di un'arnia malata nella sceratrice solare, le spore muoiono?"
+          "text": "Quindi, se sciolgo la cera di un'arnia malata nella sceratrice solare, le spore muoiono?"
         },
         {
           "who": "M",
-          "text": "Purtroppo no, quel calore non basta. Secondo te, che cosa succede se poi uso quella cera per fare fogli cerei?"
+          "text": "Purtroppo no: quel calore non basta. Secondo te, che cosa succede se poi uso quella cera per fare fogli cerei?"
         },
         {
           "who": "E",
-          "text": "Porto le spore nelle arnie sane e la malattia si diffonde."
+          "text": "Porto le spore nelle arnie sane, e la malattia si diffonde."
         },
         {
           "who": "M",
-          "text": "Esatto. Per questo la cera destinata ai fogli cerei deve essere sterilizzata con metodi speciali, in laboratori attrezzati."
+          "text": "Esatto. Per questo, la cera destinata ai fogli cerei deve essere sterilizzata con metodi speciali, in laboratori attrezzati."
         },
         {
           "who": "E",
@@ -418,7 +418,7 @@
         },
         {
           "who": "M",
-          "text": "Chiami subito la tua ASL. Saranno i veterinari a dirti che cosa fare di api, favi e materiale. Non si decide da soli."
+          "text": "Chiami subito la tua ASL! Saranno i veterinari a dirti che cosa fare di api, favi e materiale. Non si decide da soli."
         },
         {
           "who": "E",
@@ -472,7 +472,7 @@
         },
         {
           "who": "M",
-          "text": "Brava. Le api partono da lì e tirano su le celle. Si comprano, ma si possono anche fare in casa."
+          "text": "Brava! Le api partono da lì, e tirano su le celle. Si comprano, ma si possono anche fare in casa."
         },
         {
           "who": "E",
@@ -480,7 +480,7 @@
         },
         {
           "who": "M",
-          "text": "Si scioglie la cera pulita e la si stampa con una pressa apposita o un piccolo laminatoio. Esce il foglio con il disegno degli esagoni."
+          "text": "Si scioglie la cera pulita, e la si stampa con una pressa apposita, o un piccolo laminatoio. Esce il foglio con il disegno degli esagoni."
         },
         {
           "who": "E",
@@ -492,7 +492,7 @@
         },
         {
           "who": "E",
-          "text": "Perché la cera può essere sporca di qualcosa che non si vede, tipo residui dei trattamenti."
+          "text": "Perché la cera può essere sporca di qualcosa che non si vede: tipo residui dei trattamenti."
         },
         {
           "who": "M",
@@ -504,7 +504,7 @@
         },
         {
           "who": "M",
-          "text": "Sì. E poi c'è il riciclo dei favi. I favi vecchi e scuri si tolgono a poco a poco e si sostituiscono con fogli nuovi."
+          "text": "Sì. E poi c'è il riciclo dei favi. I favi vecchi e scuri si tolgono a poco a poco, e si sostituiscono con fogli nuovi."
         },
         {
           "who": "E",
@@ -512,11 +512,11 @@
         },
         {
           "who": "M",
-          "text": "No, la sciogli e la usi per altro: candele, lucidi per il legno, oppure la scambi con chi fa fogli cerei e garantisce la pulizia."
+          "text": "No! La sciogli e la usi per altro: candele, lucidi per il legno, oppure la scambi con chi fa fogli cerei e garantisce la pulizia."
         },
         {
           "who": "E",
-          "text": "Quindi: opercoli per i miei fogli, favi vecchi da cambiare e niente si butta."
+          "text": "Quindi: opercoli per i miei fogli, favi vecchi da cambiare, e niente si butta."
         }
       ]
     },
@@ -558,7 +558,7 @@
         },
         {
           "who": "M",
-          "text": "Molti la portano a chi produce fogli cerei e la scambiano con fogli nuovi. Ma qui c'è un problema: la cera adulterata."
+          "text": "Molti la portano a chi produce fogli cerei, e la scambiano con fogli nuovi. Ma qui c'è un problema… la cera adulterata."
         },
         {
           "who": "E",
@@ -570,7 +570,7 @@
         },
         {
           "who": "E",
-          "text": "E alle api che cosa fa?"
+          "text": "E alle api, che cosa fa?"
         },
         {
           "who": "M",
@@ -578,11 +578,11 @@
         },
         {
           "who": "E",
-          "text": "Può crescere male o morire, e la covata diventa piena di buchi."
+          "text": "Può crescere male, o morire, e la covata diventa piena di buchi."
         },
         {
           "who": "M",
-          "text": "Esatto. L'autorità europea, l'EFSA, ha visto che la stearina oltre certe quantità può danneggiare la covata. E i fogli adulterati possono anche piegarsi e cedere col caldo."
+          "text": "Esatto. L'autorità europea, l'EFSA, ha visto che la stearina, oltre certe quantità, può danneggiare la covata. E i fogli adulterati possono anche piegarsi, e cedere col caldo."
         },
         {
           "who": "E",
@@ -590,7 +590,7 @@
         },
         {
           "who": "M",
-          "text": "Non tanto. In Belgio, per esempio, un'indagine ha trovato cera adulterata sia tra gli apicoltori sia tra quella in commercio."
+          "text": "Non tanto. In Belgio, per esempio, un'indagine ha trovato cera adulterata sia tra gli apicoltori, sia tra quella in commercio."
         },
         {
           "who": "E",
@@ -602,7 +602,7 @@
         },
         {
           "who": "E",
-          "text": "Allora: occhio alla covata sparsa, fornitori di fiducia e analisi quando ho dubbi."
+          "text": "Allora: occhio alla covata sparsa, fornitori di fiducia, e analisi quando ho dubbi."
         }
       ]
     }

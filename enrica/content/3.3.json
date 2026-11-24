@@ -34,9 +34,9 @@
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi parliamo di un argomento che fa sentire gli apicoltori un po' allevatori di principesse: l'allevamento delle api regina." },
         { "who": "E", "text": "Ciao Giuliano! Allevare regine mi sembra roba da esperti." },
-        { "who": "M", "text": "Un po' sì, ma capire come funziona ti serve comunque. Prima di tutto: perché la regina è così importante?" },
-        { "who": "E", "text": "Perché fa le uova, credo." },
-        { "who": "M", "text": "Giusto, è la madre di tutte le api della famiglia. Ma fa anche un'altra cosa: produce dei profumi, i feromoni." },
+        { "who": "M", "text": "Un po' sì. Ma capire come funziona ti serve comunque. Prima di tutto: perché la regina è così importante?" },
+        { "who": "E", "text": "Perché fa le uova… credo." },
+        { "who": "M", "text": "Giusto: è la madre di tutte le api della famiglia. Ma fa anche un'altra cosa: produce dei profumi, i feromoni." },
         { "who": "E", "text": "Profumi? A cosa servono?" },
         { "who": "M", "text": "Le api se li passano tra loro, e così tutte sanno che la regina c'è. Secondo te, cosa succede se il suo profumo arriva male a tante api?" },
         { "who": "E", "text": "Le api pensano che manchi qualcosa e iniziano ad allevare nuove regine, magari per sciamare." },
@@ -45,7 +45,7 @@
         { "who": "M", "text": "Proprio. E poi c'è il carattere: le operaie sono tutte figlie sue. Una regina buona dà una famiglia forte, tranquilla e sana." },
         { "who": "E", "text": "E una regina scadente?" },
         { "who": "M", "text": "Covata a buchi, famiglia debole, a volte nervosa. Per questo gli apicoltori cercano regine giovani e di buona famiglia." },
-        { "who": "E", "text": "Allora la regina è come il lievito madre: piccola, ma decide come viene tutta la pasta." }
+        { "who": "E", "text": "Allora la regina è come il lievito madre: piccola, ma decide come viene tutta la pasta!" }
       ]
     },
     {
@@ -75,9 +75,9 @@
         "explanation": "Le figlie ereditano le qualità della madre: si scelgono famiglie docili, sane, produttive e poco sciamatrici."
       },
       "dialogue": [
-        { "who": "M", "text": "Enrica, secondo te perché un apicoltore dovrebbe allevare le sue regine, invece di lasciar fare alle api?" },
+        { "who": "M", "text": "Enrica, secondo te, perché un apicoltore dovrebbe allevare le sue regine, invece di lasciar fare alle api?" },
         { "who": "E", "text": "Per scegliere lui le regine migliori, invece di lasciare tutto al caso." },
-        { "who": "M", "text": "Esatto. Le api da sole allevano regine quando sciamano o quando restano orfane, ma non scelgono per noi." },
+        { "who": "M", "text": "Esatto. Le api, da sole, allevano regine quando sciamano o quando restano orfane. Ma non scelgono per noi." },
         { "who": "E", "text": "E a cosa servono le regine allevate?" },
         { "who": "M", "text": "A sostituire regine vecchie o scadenti, a rimettere la regina nelle famiglie orfane e a fare nuove famiglie." },
         { "who": "E", "text": "E come si capisce quali sono le regine migliori?" },
@@ -120,18 +120,18 @@
       "dialogue": [
         { "who": "M", "text": "Adesso arriva la parte che fa tremare le mani: il traslarvo." },
         { "who": "E", "text": "Che parola strana! Cosa vuol dire?" },
-        { "who": "M", "text": "Vuol dire spostare le larve. Prendi una larva piccolissima da una cella normale e la metti in un cupolino, cioè una coppetta che imita la cella reale." },
+        { "who": "M", "text": "Vuol dire spostare le larve. Prendi una larva piccolissima da una cella normale, e la metti in un cupolino: cioè una coppetta che imita la cella reale." },
         { "who": "E", "text": "E con cosa la prendi? Con le dita?" },
-        { "who": "M", "text": "No, con un ago apposta, che ha una punta sottile e morbida. La larva si sfila da sotto, insieme a un po' della sua pappa." },
+        { "who": "M", "text": "No! Con un ago apposta, che ha una punta sottile e morbida. La larva si sfila da sotto, insieme a un po' della sua pappa." },
         { "who": "E", "text": "Quanto deve essere piccola?" },
         { "who": "M", "text": "Piccolissima, appena uscita dall'uovo. Secondo te, perché si sceglie una larva così giovane?" },
         { "who": "E", "text": "Perché così viene nutrita da regina fin dall'inizio, e diventa una regina più completa." },
         { "who": "M", "text": "Brava. Più cresce da operaia, meno sarà una regina perfetta. Lo hanno visto anche gli studi." },
         { "who": "E", "text": "E bisogna fare in fretta?" },
         { "who": "M", "text": "Sì, perché le larve si seccano. Lavora in un posto riparato, con buona luce, e tieni il favo coperto con un panno umido." },
-        { "who": "E", "text": "E se la giro per sbaglio?" },
+        { "who": "E", "text": "E se la giro, per sbaglio?" },
         { "who": "M", "text": "Meglio lasciarla e prenderne un'altra. La larva deve restare come era, con la stessa faccia in su." },
-        { "who": "E", "text": "Allora mi alleno prima su un favo vecchio, come quando si impara a fare i tortellini." }
+        { "who": "E", "text": "Allora mi alleno prima su un favo vecchio. Come quando si impara a fare i tortellini!" }
       ]
     },
     {
@@ -161,20 +161,20 @@
         "explanation": "Lo starter è orfano e pieno di nutrici: accetta volentieri le larve e le nutre con tanta pappa reale."
       },
       "dialogue": [
-        { "who": "M", "text": "Enrica, le larve sono nei cupolini. E adesso a chi le diamo?" },
+        { "who": "M", "text": "Enrica, le larve sono nei cupolini. E adesso… a chi le diamo?" },
         { "who": "E", "text": "A una famiglia che le curi, immagino." },
-        { "who": "M", "text": "Sì, ma non a una qualsiasi. Prima vanno nel nucleo starter, che vuol dire di avvio. È una famiglia senza regina, piena di api giovani." },
+        { "who": "M", "text": "Sì, ma non a una qualsiasi. Prima vanno nel nucleo starter, che vuol dire di avvio: è una famiglia senza regina, piena di api giovani." },
         { "who": "E", "text": "Perché proprio senza regina?" },
         { "who": "M", "text": "Secondo te, perché una famiglia orfana accetta volentieri le larve nei cupolini?" },
         { "who": "E", "text": "Perché si sente senza mamma e vuole allevare subito una nuova regina, quindi nutre le larve con tanta pappa reale." },
-        { "who": "M", "text": "Esatto. Le api giovani, le nutrici, producono la pappa reale. Più sono e più sono ben nutrite, meglio è." },
+        { "who": "M", "text": "Esatto. Le api giovani, le nutrici, producono la pappa reale. Più sono, e più sono ben nutrite, meglio è." },
         { "who": "E", "text": "E poi le celle restano lì fino alla fine?" },
         { "who": "M", "text": "Spesso no. Dopo l'avvio passano nell'alveare di allevamento, una famiglia forte che finisce le celle e le chiude con la cera." },
         { "who": "E", "text": "Una staffetta, allora!" },
         { "who": "M", "text": "Proprio. Quando le celle sono opercolate, cioè chiuse, vanno tenute al caldo: in una famiglia o in un'incubatrice. È l'incubazione." },
         { "who": "E", "text": "E poi nascono tutte insieme?" },
         { "who": "M", "text": "Quasi. Ma attenzione: la prima regina che nasce uccide le sorelle ancora chiuse. Per questo le celle si spostano prima, una per nucleo." },
-        { "who": "E", "text": "Quindi tengo il calendario e non perdo il giorno giusto." }
+        { "who": "E", "text": "Quindi tengo il calendario, e non perdo il giorno giusto." }
       ]
     },
     {
@@ -206,9 +206,9 @@
       "dialogue": [
         { "who": "M", "text": "Adesso ogni cella reale va nella sua casetta: il nucleo di fecondazione." },
         { "who": "E", "text": "Una casetta piccola?" },
-        { "who": "M", "text": "Sì, pochi favi, un po' di api, scorte di cibo. Lì nasce la regina e da lì parte per i voli nuziali." },
+        { "who": "M", "text": "Sì: pochi favi, un po' di api, scorte di cibo. Lì nasce la regina, e da lì parte per i voli nuziali." },
         { "who": "E", "text": "Voli nuziali? Come un viaggio di nozze!" },
-        { "who": "M", "text": "Quasi. La regina vergine esce e vola nelle zone dove si radunano i fuchi. Lì si accoppia in volo, con molti fuchi." },
+        { "who": "M", "text": "Quasi. La regina vergine esce e vola nelle zone dove si radunano i fuchi. Lì si accoppia in volo… con molti fuchi." },
         { "who": "E", "text": "Con molti? Non con uno solo?" },
         { "who": "M", "text": "Con molti. Secondo te, perché alla famiglia conviene avere tanti padri?" },
         { "who": "E", "text": "Perché le figlie sono più diverse tra loro, e una famiglia varia se la cava meglio in tante situazioni." },
@@ -216,8 +216,8 @@
         { "who": "E", "text": "E dopo i voli cosa succede?" },
         { "who": "M", "text": "La regina conserva il seme dei fuchi per tutta la vita, in un piccolo serbatoio. Poi torna a casa e inizia a deporre." },
         { "who": "E", "text": "E se non ritrova il nucleo?" },
-        { "who": "M", "text": "È un rischio vero. Per questo i nuclei si mettono distanziati, con ingressi diversi, così la regina riconosce la sua porta." },
-        { "who": "E", "text": "Quando vedo uova fresche nel nucleo, so che il viaggio di nozze è andato bene." }
+        { "who": "M", "text": "È un rischio vero. Per questo i nuclei si mettono distanziati, con ingressi diversi: così la regina riconosce la sua porta." },
+        { "who": "E", "text": "Quando vedo uova fresche nel nucleo, so che il viaggio di nozze è andato bene!" }
       ]
     },
     {
@@ -254,12 +254,12 @@
         { "who": "M", "text": "Secondo te, a cosa serve un puntino colorato su una regina, in mezzo a migliaia di api?" },
         { "who": "E", "text": "A trovarla più in fretta durante la visita, e forse anche a sapere quanti anni ha." },
         { "who": "M", "text": "Esatto, tutte e due le cose. C'è un codice internazionale: il colore dipende dall'ultima cifra dell'anno." },
-        { "who": "E", "text": "Dimmi i colori, li scrivo." },
+        { "who": "E", "text": "Dimmi i colori: li scrivo." },
         { "who": "M", "text": "Bianco per gli anni che finiscono con 1 o 6. Giallo per 2 e 7. Rosso per 3 e 8. Verde per 4 e 9. Blu per 5 e 0." },
         { "who": "E", "text": "Quindi una regina nata quest'anno, nel 2026, è bianca." },
-        { "who": "M", "text": "Brava. E se l'anno prossimo vedi una regina bianca ma non ne hai mai messa una, cosa pensi?" },
+        { "who": "M", "text": "Brava. E se l'anno prossimo vedi una regina bianca, ma non ne hai mai messa una… cosa pensi?" },
         { "who": "E", "text": "Che le api l'hanno cambiata da sole, quindi quella non è più la regina che avevo marcato." },
-        { "who": "M", "text": "Giusto, o al contrario: se trovi una regina senza puntino. Usa un pennarello apposta, un puntino solo, e aspetta che asciughi." },
+        { "who": "M", "text": "Giusto. O al contrario: se trovi una regina senza puntino. Usa un pennarello apposta, un puntino solo, e aspetta che asciughi." },
         { "who": "E", "text": "E mai sulla testa o sulle ali. Ci vuole la mano leggera, come per dipingere le uova di Pasqua." }
       ]
     },
@@ -300,10 +300,10 @@
         { "who": "E", "text": "Perché la qualità cambia da un allevatore all'altro, e le api del posto sono abituate al nostro clima." },
         { "who": "M", "text": "Brava. Uno studio ha esaminato tante regine comprate e ha trovato differenze di qualità tra un allevatore e l'altro." },
         { "who": "E", "text": "E quando arriva la regina, cosa faccio?" },
-        { "who": "M", "text": "Controlli subito che sia viva. Poi la metti nella famiglia orfana dentro la sua gabbietta, chiusa con il candito." },
+        { "who": "M", "text": "Controlli subito che sia viva. Poi la metti nella famiglia orfana, dentro la sua gabbietta, chiusa con il candito." },
         { "who": "E", "text": "Perché non la libero subito?" },
         { "who": "M", "text": "Perché le api devono abituarsi al suo profumo. Mangiando il candito, in qualche giorno la liberano da sole." },
-        { "who": "E", "text": "E io intanto non disturbo, così la accettano con calma." }
+        { "who": "E", "text": "E io, intanto, non disturbo. Così la accettano con calma." }
       ]
     }
   ],

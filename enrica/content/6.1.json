@@ -35,15 +35,15 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ciao Enrica! Oggi parliamo della difesa dell'alveare: le malattie e i nemici delle api. Cominciamo dalla più seria, la peste americana, detta anche putrefazione della covata."
+          "text": "Ciao, Enrica! Oggi parliamo della difesa dell'alveare: le malattie e i nemici delle api. Cominciamo dalla più seria: la peste americana, detta anche putrefazione della covata."
         },
         {
           "who": "E",
-          "text": "Peste? Che nome brutto. Colpisce le api adulte?"
+          "text": "Peste? Che nome brutto! Colpisce le api adulte?"
         },
         {
           "who": "M",
-          "text": "No, colpisce la covata, cioè uova, larve e pupe. La causa è un batterio, il Paenibacillus larvae. Le larve lo mangiano con la pappa e muoiono dopo che la cella è stata chiusa."
+          "text": "No, colpisce la covata, cioè uova, larve e pupe. La causa è un batterio: il Paenibacillus larvae. Le larve lo mangiano con la pappa, e muoiono dopo che la cella è stata chiusa."
         },
         {
           "who": "E",
@@ -51,7 +51,7 @@
         },
         {
           "who": "M",
-          "text": "Esatto. Ma i tappi diventano scuri, infossati, a volte bucati. E la covata sembra a mosaico: celle piene e celle vuote mescolate."
+          "text": "Esatto. Ma i tappi diventano scuri, infossati, a volte bucati. E la covata sembra a mosaico: celle piene e celle vuote, mescolate."
         },
         {
           "who": "E",
@@ -59,11 +59,11 @@
         },
         {
           "who": "M",
-          "text": "C'è la prova dello stecchino. Infili un fiammifero nella cella sospetta e lo tiri fuori piano. Se la larva marcia si allunga come un filo di colla, il sospetto è forte."
+          "text": "C'è la prova dello stecchino. Infili un fiammifero nella cella sospetta, e lo tiri fuori piano. Se la larva marcia si allunga come un filo di colla… il sospetto è forte."
         },
         {
           "who": "E",
-          "text": "Che schifo, ma è utile. E poi la curo con un antibiotico?"
+          "text": "Che schifo! Ma è utile. E poi la curo con un antibiotico?"
         },
         {
           "who": "M",
@@ -71,11 +71,11 @@
         },
         {
           "who": "E",
-          "text": "Forse perché resiste a lungo, anche nell'arnia vuota?"
+          "text": "Forse perché resiste a lungo… anche nell'arnia vuota?"
         },
         {
           "who": "M",
-          "text": "Brava. Forma spore, cioè semi duri che restano vivi per anni nel legno, nella cera e nel miele. Per questo non si passano mai favi da un'arnia malata."
+          "text": "Brava! Forma spore, cioè semi duri che restano vivi per anni: nel legno, nella cera e nel miele. Per questo non si passano mai favi da un'arnia malata."
         },
         {
           "who": "E",
@@ -83,7 +83,7 @@
         },
         {
           "who": "M",
-          "text": "In Italia è una malattia da denunciare. Chiami subito il veterinario della tua ASL: decide lui le misure, che nei casi gravi arrivano fino a bruciare famiglia e favi."
+          "text": "In Italia è una malattia da denunciare. Chiami subito il veterinario della tua ASL: decide lui le misure, che, nei casi gravi, arrivano fino a bruciare famiglia e favi."
         },
         {
           "who": "E",
@@ -121,7 +121,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ora la peste europea, chiamata anche covata acida. Anche lei è causata da un batterio: il Melissococcus plutonius."
+          "text": "Ora, la peste europea, chiamata anche covata acida. Anche lei è causata da un batterio: il Melissococcus plutonius."
         },
         {
           "who": "E",
@@ -129,15 +129,15 @@
         },
         {
           "who": "M",
-          "text": "No. Questa colpisce di solito le larve giovani, ancora nelle celle aperte. Le larve si torcono, diventano giallastre e poi marroni, come sciolte."
+          "text": "No. Questa colpisce, di solito, le larve giovani, ancora nelle celle aperte. Le larve si torcono, diventano giallastre e poi marroni, come sciolte."
         },
         {
           "who": "E",
-          "text": "E l'odore? Il nome dice acida."
+          "text": "E l'odore? Il nome dice: acida."
         },
         {
           "who": "M",
-          "text": "Spesso c'è un odore acido, un po' di aceto. Ma attenta: l'odore da solo non basta per capire. E lo stecchino, di solito, non fa il filo lungo."
+          "text": "Spesso c'è un odore acido, un po' di aceto. Ma attenta: l'odore, da solo, non basta per capire. E lo stecchino, di solito, non fa il filo lungo."
         },
         {
           "who": "E",
@@ -149,11 +149,11 @@
         },
         {
           "who": "E",
-          "text": "Poco cibo, freddo, pochi fiori, magari tanti spostamenti?"
+          "text": "Poco cibo, freddo, pochi fiori… magari tanti spostamenti?"
         },
         {
           "who": "M",
-          "text": "Proprio così. Le famiglie forti e ben nutrite si difendono meglio. A volte le api tolgono da sole le larve malate e la famiglia si riprende."
+          "text": "Proprio così! Le famiglie forti e ben nutrite si difendono meglio. A volte le api tolgono da sole le larve malate, e la famiglia si riprende."
         },
         {
           "who": "E",
@@ -161,15 +161,15 @@
         },
         {
           "who": "M",
-          "text": "In Italia sì, anche la peste europea va segnalata al veterinario dell'ASL. In altri paesi europei le regole sono diverse, ma qui vale questa."
+          "text": "In Italia sì: anche la peste europea va segnalata al veterinario dell'ASL. In altri paesi europei le regole sono diverse, ma qui vale questa."
         },
         {
           "who": "E",
-          "text": "Allora, per ogni covata strana, prima il veterinario."
+          "text": "Allora, per ogni covata strana: prima il veterinario."
         },
         {
           "who": "M",
-          "text": "Esatto. E nel frattempo restringi la porticina dell'arnia malata, così le altre api non vanno a rubarle il miele."
+          "text": "Esatto. E, nel frattempo, restringi la porticina dell'arnia malata: così le altre api non vanno a rubarle il miele."
         },
         {
           "who": "E",
@@ -207,7 +207,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Adesso un acaro piccolissimo: l'Acarapis woodi. Causa l'acariasi, detta anche acarosi."
+          "text": "Adesso, un acaro piccolissimo: l'Acarapis woodi. Causa l'acariasi, detta anche acarosi."
         },
         {
           "who": "E",
@@ -235,11 +235,11 @@
         },
         {
           "who": "E",
-          "text": "Direi di no: anche altre malattie o un veleno possono fare lo stesso."
+          "text": "Direi di no. Anche altre malattie, o un veleno, possono fare lo stesso."
         },
         {
           "who": "M",
-          "text": "Brava. Serve il laboratorio: si guardano le trachee al microscopio. Oggi si usano anche test sul DNA."
+          "text": "Brava! Serve il laboratorio: si guardano le trachee al microscopio. Oggi si usano anche test sul DNA."
         },
         {
           "who": "E",
@@ -247,7 +247,7 @@
         },
         {
           "who": "M",
-          "text": "Sì, per contatto, soprattutto tra le api giovani. Per questo una famiglia affollata e debole rischia di più."
+          "text": "Sì, per contatto, soprattutto tra le api giovani. Per questo, una famiglia affollata e debole rischia di più."
         },
         {
           "who": "E",
@@ -259,7 +259,7 @@
         },
         {
           "who": "E",
-          "text": "Va bene, niente ipotesi da sola: prendo un campione di api e chiedo a chi sa."
+          "text": "Va bene: niente ipotesi da sola. Prendo un campione di api, e chiedo a chi sa."
         }
       ]
     },
@@ -293,7 +293,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Passiamo all'intestino delle api. La nosemiasi è causata dal Nosema, un parassita microscopico che vive nell'intestino delle api adulte."
+          "text": "Passiamo all'intestino delle api. La nosemiasi è causata dal Nosema: un parassita microscopico che vive nell'intestino delle api adulte."
         },
         {
           "who": "E",
@@ -309,11 +309,11 @@
         },
         {
           "who": "M",
-          "text": "No. Nel 2006 in Spagna hanno trovato in Europa il Nosema ceranae, descritto prima nell'ape asiatica. Spesso non dà diarrea: la famiglia si spopola piano piano."
+          "text": "No. Nel 2006, in Spagna, hanno trovato in Europa il Nosema ceranae, descritto prima nell'ape asiatica. Spesso non dà diarrea: la famiglia si spopola… piano piano."
         },
         {
           "who": "E",
-          "text": "Quindi senza macchie posso non accorgermene?"
+          "text": "Quindi, senza macchie, posso non accorgermene?"
         },
         {
           "who": "M",
@@ -325,11 +325,11 @@
         },
         {
           "who": "M",
-          "text": "Brava. Per questo si cambiano i favi vecchi e si tengono famiglie forti, con scorte buone. In Italia anche la nosemiasi è nell'elenco del regolamento veterinario."
+          "text": "Brava! Per questo si cambiano i favi vecchi e si tengono famiglie forti, con scorte buone. In Italia anche la nosemiasi è nell'elenco del regolamento veterinario."
         },
         {
           "who": "E",
-          "text": "E l'amebiasi cos'è?"
+          "text": "E l'amebiasi, cos'è?"
         },
         {
           "who": "M",
@@ -337,7 +337,7 @@
         },
         {
           "who": "E",
-          "text": "Quindi due inquilini cattivi nello stesso corpo."
+          "text": "Quindi: due inquilini cattivi nello stesso corpo."
         },
         {
           "who": "M",
@@ -379,7 +379,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ora i nemici che non sono microbi. Il primo è la tarma della cera, una farfallina che vola di notte."
+          "text": "Ora, i nemici che non sono microbi. Il primo è la tarma della cera: una farfallina che vola di notte."
         },
         {
           "who": "E",
@@ -387,7 +387,7 @@
         },
         {
           "who": "M",
-          "text": "La farfalla no, ma le sue larve scavano gallerie nei favi e li riempiono di fili di seta. Amano i favi scuri, con resti di covata e polline."
+          "text": "La farfalla no. Ma le sue larve scavano gallerie nei favi, e li riempiono di fili di seta. Amano i favi scuri, con resti di covata e polline."
         },
         {
           "who": "E",
@@ -399,11 +399,11 @@
         },
         {
           "who": "E",
-          "text": "Al fresco, in un posto arieggiato, magari passandoli in congelatore?"
+          "text": "Al fresco, in un posto arieggiato… magari passandoli in congelatore?"
         },
         {
           "who": "M",
-          "text": "Brava, il freddo uccide uova e larve della tarma. Poi c'è la covata calcificata, causata da un fungo."
+          "text": "Brava! Il freddo uccide uova e larve della tarma. Poi c'è la covata calcificata, causata da un fungo."
         },
         {
           "who": "E",
@@ -411,11 +411,11 @@
         },
         {
           "who": "M",
-          "text": "Sì, l'Ascosphaera apis. Le larve diventano dure e bianche, poi grigie o nere, come gessetti. Le trovi anche sul predellino, buttate fuori dalle api."
+          "text": "Sì, l'Ascosphaera apis. Le larve diventano dure e bianche, poi grigie o nere: come gessetti. Le trovi anche sul predellino, buttate fuori dalle api."
         },
         {
           "who": "E",
-          "text": "Gessetti davanti all'arnia. E come si evita?"
+          "text": "Gessetti davanti all'arnia! E come si evita?"
         },
         {
           "who": "M",
@@ -427,11 +427,11 @@
         },
         {
           "who": "M",
-          "text": "In autunno cercano un posto caldo ed entrano nell'arnia, dove rovinano i favi. Si mette una griglia sulla porticina, che lascia passare le api ma non il topo."
+          "text": "In autunno cercano un posto caldo, ed entrano nell'arnia, dove rovinano i favi. Si mette una griglia sulla porticina, che lascia passare le api, ma non il topo."
         },
         {
           "who": "E",
-          "text": "Allora una porta stretta, solo per le api. Facile da ricordare."
+          "text": "Allora: una porta stretta, solo per le api. Facile da ricordare."
         }
       ]
     },
@@ -465,11 +465,11 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ultimo nemico: l'inquinamento, soprattutto i pesticidi usati nei campi."
+          "text": "Ultimo nemico: l'inquinamento. Soprattutto i pesticidi usati nei campi."
         },
         {
           "who": "E",
-          "text": "Ma allora in quel caso le api non sono malate?"
+          "text": "Ma allora, in quel caso, le api non sono malate?"
         },
         {
           "who": "M",
@@ -481,7 +481,7 @@
         },
         {
           "who": "M",
-          "text": "Sono insetticidi che la pianta assorbe e porta anche nel polline e nel nettare. Nel 2018 l'Unione Europea ne ha vietati tre all'aperto: imidacloprid, clothianidin e thiamethoxam."
+          "text": "Sono insetticidi che la pianta assorbe, e porta anche nel polline e nel nettare. Nel 2018 l'Unione Europea ne ha vietati tre all'aperto: imidacloprid, clothianidin e thiamethoxam."
         },
         {
           "who": "E",
@@ -493,11 +493,11 @@
         },
         {
           "who": "E",
-          "text": "Perché il veleno sparisce in fretta e dopo non si trova più?"
+          "text": "Perché il veleno sparisce in fretta, e dopo non si trova più?"
         },
         {
           "who": "M",
-          "text": "Proprio così. Molte sostanze si degradano presto. Chiami subito il servizio veterinario dell'ASL: viene in apiario e preleva api morte o altri campioni."
+          "text": "Proprio così. Molte sostanze si degradano presto. Chiami subito il servizio veterinario dell'ASL: viene in apiario, e preleva api morte o altri campioni."
         },
         {
           "who": "E",
@@ -509,7 +509,7 @@
         },
         {
           "who": "E",
-          "text": "Quindi segnalare aiuta tutti, anche gli altri apicoltori."
+          "text": "Quindi segnalare aiuta tutti… anche gli altri apicoltori."
         },
         {
           "who": "M",
@@ -517,7 +517,7 @@
         },
         {
           "who": "E",
-          "text": "Va bene: buon vicinato con gli agricoltori e segnalazioni veloci quando qualcosa non va."
+          "text": "Va bene: buon vicinato con gli agricoltori, e segnalazioni veloci quando qualcosa non va."
         }
       ]
     }

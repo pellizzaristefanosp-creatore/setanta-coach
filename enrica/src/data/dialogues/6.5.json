@@ -6,7 +6,7 @@
    "lines": [
     {
      "who": "M",
-     "text": "Ciao Enrica! Oggi parliamo di una cosa che spaventa tutti gli apicoltori: il collasso dell'alveare."
+     "text": "Ciao, Enrica! Oggi parliamo di una cosa che spaventa tutti gli apicoltori: il collasso dell'alveare."
     },
     {
      "who": "E",
@@ -14,11 +14,11 @@
     },
     {
      "who": "M",
-     "text": "Sì, ma in un modo strano. Le api adulte spariscono in poco tempo. Apri l'arnia e trovi la regina, un po' di covata, il miele, ma quasi nessuna operaia."
+     "text": "Sì, ma in un modo strano. Le api adulte spariscono in poco tempo. Apri l'arnia e trovi la regina, un po' di covata, il miele… ma quasi nessuna operaia."
     },
     {
      "who": "E",
-     "text": "E le api morte dove sono? Sul fondo?"
+     "text": "E le api morte, dove sono? Sul fondo?"
     },
     {
      "who": "M",
@@ -30,7 +30,7 @@
     },
     {
      "who": "M",
-     "text": "Perché in due inverni di fila molti apicoltori americani persero tantissime famiglie, senza capire il perché."
+     "text": "Perché, in due inverni di fila, molti apicoltori americani persero tantissime famiglie, senza capire il perché."
     },
     {
      "who": "M",
@@ -38,15 +38,15 @@
     },
     {
      "who": "E",
-     "text": "Immagino di no, sennò non sarebbe ancora un mistero. Forse le cause sono più di una."
+     "text": "Immagino di no, sennò non sarebbe ancora un mistero. Forse… le cause sono più di una."
     },
     {
      "who": "M",
-     "text": "Hai indovinato. Hanno misurato tantissime cose e nessuna, da sola, spiegava tutto. Ma le api delle famiglie collassate avevano più malattie insieme."
+     "text": "Hai indovinato! Hanno misurato tantissime cose, e nessuna, da sola, spiegava tutto. Ma le api delle famiglie collassate avevano più malattie insieme."
     },
     {
      "who": "E",
-     "text": "Come quando uno è stanco, mangia male e prende un raffreddore: tutto insieme lo butta giù."
+     "text": "Come quando uno è stanco, mangia male e prende un raffreddore: tutto insieme, lo butta giù."
     },
     {
      "who": "M",
@@ -58,7 +58,7 @@
     },
     {
      "who": "M",
-     "text": "Sì. E alla fine parleremo della cosa più importante: come prevenire, perché lì puoi fare tanto anche tu."
+     "text": "Sì. E alla fine parleremo della cosa più importante: come prevenire. Perché lì puoi fare tanto anche tu."
     }
    ]
   },
@@ -67,7 +67,7 @@
    "lines": [
     {
      "who": "M",
-     "text": "Primo indiziato: Nosema ceranae. È un parassita piccolissimo, si vede solo al microscopio. È parente dei funghi."
+     "text": "Primo indiziato: Nosema ceranae. È un parassita piccolissimo: si vede solo al microscopio. È parente dei funghi."
     },
     {
      "who": "E",
@@ -75,15 +75,15 @@
     },
     {
      "who": "M",
-     "text": "Dall'ape asiatica, Apis cerana, da cui prende il nome. Poi è passato alla nostra ape e oggi si trova in quasi tutto il mondo."
+     "text": "Dall'ape asiatica, Apis cerana, da cui prende il nome. Poi è passato alla nostra ape, e oggi si trova in quasi tutto il mondo."
     },
     {
      "who": "E",
-     "text": "E dove si nasconde nell'ape?"
+     "text": "E dove si nasconde, nell'ape?"
     },
     {
      "who": "M",
-     "text": "Nell'intestino delle api adulte. Rovina le cellule che servono a digerire, così l'ape vive meno e lavora peggio."
+     "text": "Nell'intestino delle api adulte. Rovina le cellule che servono a digerire: così l'ape vive meno, e lavora peggio."
     },
     {
      "who": "E",
@@ -91,7 +91,7 @@
     },
     {
      "who": "M",
-     "text": "Con le spore, cioè piccoli semi del parassita, che finiscono nel cibo, nell'acqua e negli escrementi. Le api pulendo le ingoiano."
+     "text": "Con le spore, cioè piccoli semi del parassita, che finiscono nel cibo, nell'acqua e negli escrementi. Le api, pulendo, le ingoiano."
     },
     {
      "who": "M",
@@ -99,11 +99,11 @@
     },
     {
      "who": "E",
-     "text": "Forse perché all'inizio non si vede niente: le api sembrano normali."
+     "text": "Forse perché all'inizio non si vede niente… le api sembrano normali."
     },
     {
      "who": "M",
-     "text": "Esatto. In Spagna hanno visto famiglie stare bene a lungo e poi crollare d'improvviso, quando la regina non riusciva più a rimpiazzare le api perse."
+     "text": "Esatto. In Spagna hanno visto famiglie stare bene a lungo, e poi crollare d'improvviso, quando la regina non riusciva più a rimpiazzare le api perse."
     },
     {
      "who": "E",
@@ -115,11 +115,11 @@
     },
     {
      "who": "E",
-     "text": "Allora famiglie forti, buone scorte e pulizia."
+     "text": "Allora: famiglie forti, buone scorte e pulizia."
     },
     {
      "who": "M",
-     "text": "Brava. E se hai un dubbio, porti un campione di api a un laboratorio: al microscopio vedono le spore."
+     "text": "Brava. E, se hai un dubbio, porti un campione di api a un laboratorio: al microscopio vedono le spore."
     }
    ]
   },
@@ -144,7 +144,7 @@
     },
     {
      "who": "M",
-     "text": "La femmina entra nelle celle di covata poco prima che le api le chiudano. Lì depone le uova e i piccoli acari crescono insieme all'ape."
+     "text": "La femmina entra nelle celle di covata poco prima che le api le chiudano. Lì depone le uova, e i piccoli acari crescono insieme all'ape."
     },
     {
      "who": "E",
@@ -160,7 +160,7 @@
     },
     {
      "who": "M",
-     "text": "Sì, accartocciate. Non possono volare e muoiono presto. Senza controllo, una famiglia piena di varroa muore in pochi anni."
+     "text": "Sì, accartocciate. Non possono volare, e muoiono presto. Senza controllo, una famiglia piena di varroa muore in pochi anni."
     },
     {
      "who": "M",
@@ -168,19 +168,19 @@
     },
     {
      "who": "E",
-     "text": "Credo di no. Dopo il discorso di prima, penso che conti la somma di tanti problemi."
+     "text": "Credo di no. Dopo il discorso di prima… penso che conti la somma di tanti problemi."
     },
     {
      "who": "M",
-     "text": "Brava. Varroa e virus, nosema, pesticidi, poca varietà di fiori, il clima che cambia: insieme pesano molto di più."
+     "text": "Brava! Varroa e virus, nosema, pesticidi, poca varietà di fiori, il clima che cambia: insieme pesano molto di più."
     },
     {
      "who": "E",
-     "text": "Come uno zaino: ogni sasso da solo è leggero, ma tutti insieme ti piegano la schiena."
+     "text": "Come uno zaino: ogni sasso, da solo, è leggero, ma tutti insieme ti piegano la schiena."
     },
     {
      "who": "M",
-     "text": "Bellissimo. E la varroa è il sasso più grosso, quello che un apicoltore deve togliere per primo."
+     "text": "Bellissimo! E la varroa è il sasso più grosso: quello che un apicoltore deve togliere per primo."
     }
    ]
   },
@@ -197,7 +197,7 @@
     },
     {
      "who": "M",
-     "text": "Dalla varroa. Va contata con regolarità, per esempio guardando quante ne cadono sul fondo dell'arnia, su un foglio apposta."
+     "text": "Dalla varroa. Va contata con regolarità: per esempio, guardando quante ne cadono sul fondo dell'arnia, su un foglio apposta."
     },
     {
      "who": "M",
@@ -205,11 +205,11 @@
     },
     {
      "who": "E",
-     "text": "Perché così so quante ce ne sono, e capisco quando serve trattare e se il trattamento ha funzionato."
+     "text": "Perché così so quante ce ne sono. E capisco quando serve trattare, e se il trattamento ha funzionato."
     },
     {
      "who": "M",
-     "text": "Perfetto. Per trattare si usano prodotti autorizzati, per esempio con acido ossalico, acido formico, timolo o amitraz."
+     "text": "Perfetto. Per trattare si usano prodotti autorizzati: per esempio con acido ossalico, acido formico, timolo o amitraz."
     },
     {
      "who": "E",
@@ -217,7 +217,7 @@
     },
     {
      "who": "M",
-     "text": "Le dosi le leggi sull'etichetta e le decidi con il veterinario. Mai a occhio. E ogni trattamento va scritto nel registro, come vuole la legge."
+     "text": "Le dosi le leggi sull'etichetta, e le decidi con il veterinario. Mai a occhio! E ogni trattamento va scritto nel registro, come vuole la legge."
     },
     {
      "who": "E",
@@ -229,7 +229,7 @@
     },
     {
      "who": "E",
-     "text": "Come noi con la frutta e la verdura di stagione."
+     "text": "Come noi, con la frutta e la verdura di stagione."
     },
     {
      "who": "M",

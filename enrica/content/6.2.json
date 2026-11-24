@@ -35,7 +35,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ciao Enrica! Oggi c'è un capitolo intero per un solo nemico: la varroa. È un acaro, e la malattia che causa si chiama varroatosi."
+          "text": "Ciao, Enrica! Oggi c'è un capitolo intero per un solo nemico: la varroa. È un acaro, e la malattia che causa si chiama varroatosi."
         },
         {
           "who": "E",
@@ -51,7 +51,7 @@
         },
         {
           "who": "M",
-          "text": "Sì, nel secolo scorso è saltata sull'ape occidentale, la nostra Apis mellifera. Con il commercio di api si è sparsa in quasi tutto il mondo."
+          "text": "Sì. Nel secolo scorso è saltata sull'ape occidentale, la nostra Apis mellifera. Con il commercio di api, si è sparsa in quasi tutto il mondo."
         },
         {
           "who": "E",
@@ -59,7 +59,7 @@
         },
         {
           "who": "M",
-          "text": "È stata segnalata la prima volta nel 1981, vicino a Gorizia, al confine con la Slovenia. In pochi anni era in tutta Italia."
+          "text": "È stata segnalata la prima volta nel 1981, vicino a Gorizia, al confine con la Slovenia. In pochi anni… era in tutta Italia."
         },
         {
           "who": "E",
@@ -75,7 +75,7 @@
         },
         {
           "who": "M",
-          "text": "Brava. Il commercio di regine e il nomadismo, cioè portare gli alveari in posti diversi per le fioriture. Un tempo la chiamavano Varroa jacobsoni."
+          "text": "Brava! Il commercio di regine e il nomadismo, cioè portare gli alveari in posti diversi per le fioriture. Un tempo la chiamavano Varroa jacobsoni."
         },
         {
           "who": "E",
@@ -83,15 +83,15 @@
         },
         {
           "who": "M",
-          "text": "Nel 2000 due ricercatori hanno visto che erano specie diverse. Quella che rovina le nostre api si chiama Varroa destructor."
+          "text": "Nel 2000, due ricercatori hanno visto che erano specie diverse. Quella che rovina le nostre api si chiama Varroa destructor."
         },
         {
           "who": "E",
-          "text": "Destructor: il nome dice già tutto. Ma oggi la si può eliminare del tutto?"
+          "text": "Destructor! Il nome dice già tutto. Ma oggi la si può eliminare del tutto?"
         },
         {
           "who": "M",
-          "text": "No, ormai c'è ovunque in Italia. Si convive, tenendola bassa ogni anno."
+          "text": "No, ormai c'è ovunque in Italia. Si convive, tenendola bassa, ogni anno."
         },
         {
           "who": "E",
@@ -133,7 +133,7 @@
         },
         {
           "who": "E",
-          "text": "Dove sta, sulle api?"
+          "text": "Dove sta? Sulle api?"
         },
         {
           "who": "M",
@@ -141,15 +141,15 @@
         },
         {
           "who": "E",
-          "text": "Come un passeggero senza biglietto. E l'altra fase?"
+          "text": "Come un passeggero senza biglietto! E l'altra fase?"
         },
         {
           "who": "M",
-          "text": "La fase di riproduzione. Poco prima che la cella venga chiusa, la femmina entra e si nasconde sotto la larva. Sotto il tappo depone le uova."
+          "text": "La fase di riproduzione. Poco prima che la cella venga chiusa, la femmina entra, e si nasconde sotto la larva. Sotto il tappo, depone le uova."
         },
         {
           "who": "E",
-          "text": "Quindi i figli crescono dentro la cella chiusa, al sicuro."
+          "text": "Quindi i figli crescono dentro la cella chiusa… al sicuro."
         },
         {
           "who": "M",
@@ -157,11 +157,11 @@
         },
         {
           "who": "E",
-          "text": "Forse perché la cella resta chiusa più a lungo e nascono più figli?"
+          "text": "Forse perché la cella resta chiusa più a lungo, e nascono più figli?"
         },
         {
           "who": "M",
-          "text": "Esatto. I fuchi restano opercolati qualche giorno in più, e la varroa fa più figlie. Per questo la covata maschile ne è piena."
+          "text": "Esatto! I fuchi restano opercolati qualche giorno in più, e la varroa fa più figlie. Per questo la covata maschile ne è piena."
         },
         {
           "who": "E",
@@ -169,15 +169,15 @@
         },
         {
           "who": "M",
-          "text": "Si pensava così. Ma nel 2019 uno studio ha mostrato che mangia soprattutto il corpo grasso, un tessuto che somiglia un po' al nostro fegato."
+          "text": "Si pensava così. Ma nel 2019 uno studio ha mostrato che mangia soprattutto il corpo grasso: un tessuto che somiglia un po' al nostro fegato."
         },
         {
           "who": "E",
-          "text": "E il corpo grasso a cosa serve?"
+          "text": "E il corpo grasso, a cosa serve?"
         },
         {
           "who": "M",
-          "text": "Alle difese, a smaltire i veleni e a passare l'inverno. Per questo un'ape punta dalla varroa è più debole."
+          "text": "Alle difese, a smaltire i veleni e a passare l'inverno. Per questo, un'ape punta dalla varroa è più debole."
         },
         {
           "who": "E",
@@ -215,7 +215,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ora: come capisci quante varroe hai? Se le vedi sulle api a occhio nudo, di solito sono già tante."
+          "text": "Ora: come capisci quante varroe hai? Se le vedi sulle api a occhio nudo, di solito… sono già tante."
         },
         {
           "who": "E",
@@ -223,15 +223,15 @@
         },
         {
           "who": "M",
-          "text": "Sì. Il metodo più semplice è la caduta naturale. Metti un vassoio sotto il fondo a rete e conti le varroe cadute ogni giorno."
+          "text": "Sì. Il metodo più semplice è la caduta naturale. Metti un vassoio sotto il fondo a rete, e conti le varroe cadute ogni giorno."
         },
         {
           "who": "E",
-          "text": "Come contare le briciole sotto la tavola."
+          "text": "Come contare le briciole sotto la tavola!"
         },
         {
           "who": "M",
-          "text": "Bella immagine. Poi c'è lo zucchero a velo. Metti un campione di api in un barattolo con il coperchio a rete, aggiungi zucchero a velo e scuoti."
+          "text": "Bella immagine! Poi c'è lo zucchero a velo. Metti un campione di api in un barattolo con il coperchio a rete, aggiungi zucchero a velo, e scuoti."
         },
         {
           "who": "E",
@@ -239,7 +239,7 @@
         },
         {
           "who": "M",
-          "text": "Sì: lo zucchero le fa staccare. Le setacci su un foglio bianco e le conti. Le api, tutte bianche, tornano nell'arnia."
+          "text": "Sì: lo zucchero le fa staccare. Le setacci su un foglio bianco, e le conti. Le api, tutte bianche, tornano nell'arnia."
         },
         {
           "who": "E",
@@ -255,7 +255,7 @@
         },
         {
           "who": "M",
-          "text": "Brava, le nutrici portano più varroe. Poi guarda anche le api: ali accartocciate vogliono dire virus delle ali deformi."
+          "text": "Brava: le nutrici portano più varroe. Poi guarda anche le api: ali accartocciate vogliono dire virus delle ali deformi."
         },
         {
           "who": "E",
@@ -267,7 +267,7 @@
         },
         {
           "who": "E",
-          "text": "Quindi conto spesso, e non aspetto di vedere i danni."
+          "text": "Quindi conto spesso. E non aspetto di vedere i danni."
         }
       ]
     },
@@ -317,7 +317,7 @@
         },
         {
           "who": "M",
-          "text": "Proprio. Il secondo è il saccheggio, cioè api che rubano miele a un'altra famiglia. Secondo te, quale famiglia viene saccheggiata più facilmente?"
+          "text": "Proprio! Il secondo è il saccheggio, cioè api che rubano miele a un'altra famiglia. Secondo te, quale famiglia viene saccheggiata più facilmente?"
         },
         {
           "who": "E",
@@ -325,19 +325,19 @@
         },
         {
           "who": "M",
-          "text": "Esatto. E una famiglia che sta crollando per la varroa è debole. Le api ladre entrano, rubano e tornano a casa con le varroe addosso."
+          "text": "Esatto. E una famiglia che sta crollando per la varroa è debole. Le api ladre entrano, rubano, e tornano a casa con le varroe addosso."
         },
         {
           "who": "E",
-          "text": "Che brutto regalo da portare a casa."
+          "text": "Che brutto regalo da portare a casa!"
         },
         {
           "who": "M",
-          "text": "Uno studio americano del 2019 lo ha visto bene: le famiglie sane si sono riempite di varroe dopo aver saccheggiato quelle che crollavano."
+          "text": "Uno studio americano del 2019 lo ha visto bene: le famiglie sane si sono riempite di varroe, dopo aver saccheggiato quelle che crollavano."
         },
         {
           "who": "E",
-          "text": "Allora una sola arnia trascurata mette nei guai tutto il vicinato."
+          "text": "Allora una sola arnia trascurata… mette nei guai tutto il vicinato."
         },
         {
           "who": "M",
@@ -349,11 +349,11 @@
         },
         {
           "who": "M",
-          "text": "Arnie di colori diversi e non tutte in fila, porticine strette quando c'è poco nettare, e niente miele lasciato in giro."
+          "text": "Arnie di colori diversi, e non tutte in fila; porticine strette quando c'è poco nettare; e niente miele lasciato in giro."
         },
         {
           "who": "E",
-          "text": "Colori diversi, porte strette e cucina pulita: me lo ricordo."
+          "text": "Colori diversi, porte strette e cucina pulita. Me lo ricordo!"
         }
       ]
     },
@@ -387,7 +387,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Parliamo dei danni. La varroa da sola indebolisce le api, ma il guaio più grosso sono i virus che porta."
+          "text": "Parliamo dei danni. La varroa, da sola, indebolisce le api. Ma il guaio più grosso sono i virus che porta."
         },
         {
           "who": "E",
@@ -395,7 +395,7 @@
         },
         {
           "who": "M",
-          "text": "Proprio così. Il più noto è il virus delle ali deformi. Le api nascono con le ali accartocciate, non volano e vivono poco."
+          "text": "Proprio così. Il più noto è il virus delle ali deformi. Le api nascono con le ali accartocciate: non volano, e vivono poco."
         },
         {
           "who": "E",
@@ -403,7 +403,7 @@
         },
         {
           "who": "M",
-          "text": "All'inizio niente. Poi meno api, covata a mosaico, api deboli sul predellino. Alla fine la famiglia può crollare."
+          "text": "All'inizio, niente. Poi meno api, covata a mosaico, api deboli sul predellino. Alla fine… la famiglia può crollare."
         },
         {
           "who": "E",
@@ -411,11 +411,11 @@
         },
         {
           "who": "M",
-          "text": "Secondo te, cosa succede a fine estate, quando la regina depone meno ma le varroe sono ormai tante?"
+          "text": "Secondo te, cosa succede a fine estate, quando la regina depone meno, ma le varroe sono ormai tante?"
         },
         {
           "who": "E",
-          "text": "Le varroe si concentrano su poche celle di covata, e quasi ogni ape viene punta?"
+          "text": "Le varroe si concentrano su poche celle di covata… e quasi ogni ape viene punta?"
         },
         {
           "who": "M",
@@ -423,19 +423,19 @@
         },
         {
           "who": "E",
-          "text": "Quindi un danno d'estate si vede d'inverno."
+          "text": "Quindi un danno d'estate… si vede d'inverno."
         },
         {
           "who": "M",
-          "text": "Esatto. Uno studio del 2016 ha mostrato che questo virus si è diffuso in tutto il mondo proprio grazie alla varroa e al commercio di api."
+          "text": "Esatto. Uno studio del 2016 ha mostrato che questo virus si è diffuso in tutto il mondo proprio grazie alla varroa, e al commercio di api."
         },
         {
           "who": "E",
-          "text": "Allora la varroa è come un autobus per i virus."
+          "text": "Allora la varroa è come un autobus per i virus!"
         },
         {
           "who": "M",
-          "text": "Bella immagine. Per questo in Europa i controlli e i trattamenti regolari contro la varroa sono indispensabili."
+          "text": "Bella immagine. Per questo, in Europa, i controlli e i trattamenti regolari contro la varroa sono indispensabili."
         },
         {
           "who": "E",
@@ -485,11 +485,11 @@
         },
         {
           "who": "E",
-          "text": "E la varroa ci va perché preferisce i fuchi."
+          "text": "E la varroa ci va, perché preferisce i fuchi!"
         },
         {
           "who": "M",
-          "text": "Esatto. Quando le celle sono opercolate, tagli via quel favo con le varroe dentro. Uno studio ha visto che aiuta in primavera, ma non basta per tutta la stagione."
+          "text": "Esatto. Quando le celle sono opercolate, tagli via quel favo, con le varroe dentro. Uno studio ha visto che aiuta in primavera, ma non basta per tutta la stagione."
         },
         {
           "who": "E",
@@ -505,7 +505,7 @@
         },
         {
           "who": "M",
-          "text": "Pensaci. Se dopo qualche settimana non c'è più covata, secondo te dove si possono nascondere le varroe?"
+          "text": "Pensaci… Se dopo qualche settimana non c'è più covata, secondo te, dove si possono nascondere le varroe?"
         },
         {
           "who": "E",
@@ -513,7 +513,7 @@
         },
         {
           "who": "M",
-          "text": "Brava. Allora un trattamento le colpisce tutte. La terza è l'asportazione totale della covata: togli tutti i favi di covata e lasci le api senza."
+          "text": "Brava! Allora un trattamento le colpisce tutte. La terza è l'asportazione totale della covata: togli tutti i favi di covata, e lasci le api senza."
         },
         {
           "who": "E",
@@ -571,7 +571,7 @@
         },
         {
           "who": "E",
-          "text": "L'acido ossalico quando si usa?"
+          "text": "L'acido ossalico, quando si usa?"
         },
         {
           "who": "M",
@@ -583,7 +583,7 @@
         },
         {
           "who": "M",
-          "text": "Esatto. L'acido formico invece può agire anche sotto gli opercoli, ma dipende molto dalla temperatura. Anche il timolo vuole il clima giusto."
+          "text": "Esatto. L'acido formico, invece, può agire anche sotto gli opercoli, ma dipende molto dalla temperatura. Anche il timolo vuole il clima giusto."
         },
         {
           "who": "E",
@@ -603,7 +603,7 @@
         },
         {
           "who": "E",
-          "text": "Allora chiedo alla mia ASL come tenerlo, così sono sicura di fare tutto in regola."
+          "text": "Allora chiedo alla mia ASL come tenerlo. Così sono sicura di fare tutto in regola."
         },
         {
           "who": "M",
@@ -611,7 +611,7 @@
         },
         {
           "who": "E",
-          "text": "Quindi: prodotto giusto, momento giusto, e tutto scritto."
+          "text": "Quindi: prodotto giusto, momento giusto… e tutto scritto."
         }
       ]
     }

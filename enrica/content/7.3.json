@@ -35,15 +35,15 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ciao Enrica! Oggi facciamo il giro dell'anno nell'apiario, stagione per stagione. Parlo del Centro-Nord: al Sud tutto si anticipa. Cominciamo dall'inverno."
+          "text": "Ciao, Enrica! Oggi facciamo il giro dell'anno nell'apiario, stagione per stagione. Parlo del Centro-Nord: al Sud tutto si anticipa. Cominciamo dall'inverno."
         },
         {
           "who": "E",
-          "text": "Ciao Giuliano! In inverno le api dormono, giusto?"
+          "text": "Ciao, Giuliano! In inverno le api dormono, giusto?"
         },
         {
           "who": "M",
-          "text": "Non proprio. Si stringono a palla, il glomere, e tremano con i muscoli per scaldarsi. Mangiano le scorte di miele. Per questo non si apre l'arnia."
+          "text": "Non proprio. Si stringono a palla, il glomere, e tremano con i muscoli per scaldarsi. Mangiano le scorte di miele. Per questo, non si apre l'arnia."
         },
         {
           "who": "E",
@@ -67,7 +67,7 @@
         },
         {
           "who": "M",
-          "text": "Pensaci: dove si nasconde la varroa per fare i suoi piccoli?"
+          "text": "Pensaci… dove si nasconde la varroa per fare i suoi piccoli?"
         },
         {
           "who": "E",
@@ -87,7 +87,7 @@
         },
         {
           "who": "E",
-          "text": "Lavoro di casa, mentre le api riposano."
+          "text": "Lavoro di casa… mentre le api riposano."
         }
       ]
     },
@@ -121,7 +121,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Arriva la primavera. I salici e le prime fioriture portano polline, e la regina depone sempre di più."
+          "text": "Arriva la primavera! I salici e le prime fioriture portano polline, e la regina depone sempre di più."
         },
         {
           "who": "E",
@@ -153,7 +153,7 @@
         },
         {
           "who": "M",
-          "text": "Esatto. Uno sciame porta via circa metà della famiglia, e con essa buona parte del raccolto di quell'anno."
+          "text": "Esatto. Uno sciame porta via circa metà della famiglia… e, con essa, buona parte del raccolto di quell'anno."
         },
         {
           "who": "E",
@@ -173,7 +173,7 @@
         },
         {
           "who": "E",
-          "text": "Primavera: spazio, controlli frequenti e occhi aperti."
+          "text": "Primavera: spazio, controlli frequenti, e occhi aperti."
         }
       ]
     },
@@ -215,7 +215,7 @@
         },
         {
           "who": "M",
-          "text": "Per niente. Dopo l'ultimo raccolto viene uno dei lavori più importanti dell'anno: il trattamento estivo contro la varroa."
+          "text": "Per niente! Dopo l'ultimo raccolto viene uno dei lavori più importanti dell'anno: il trattamento estivo contro la varroa."
         },
         {
           "who": "E",
@@ -227,11 +227,11 @@
         },
         {
           "who": "E",
-          "text": "Il farmaco potrebbe finire nel miele che poi mangiamo."
+          "text": "Il farmaco potrebbe finire nel miele… che poi mangiamo."
         },
         {
           "who": "M",
-          "text": "Esatto. Quindi prima togli i melari, poi tratti. E presto, perché a fine estate nascono le api che dovranno passare l'inverno."
+          "text": "Esatto. Quindi prima togli i melari, poi tratti. E presto, perché, a fine estate, nascono le api che dovranno passare l'inverno."
         },
         {
           "who": "E",
@@ -255,7 +255,7 @@
         },
         {
           "who": "M",
-          "text": "Le api hanno sete: metti acqua vicina se non c'è. E non lasciare miele in giro, o le famiglie si saccheggiano a vicenda."
+          "text": "Le api hanno sete: metti acqua vicina, se non c'è. E non lasciare miele in giro, o le famiglie si saccheggiano a vicenda."
         },
         {
           "who": "E",
@@ -325,7 +325,7 @@
         },
         {
           "who": "M",
-          "text": "Infatti si mette una griglia sulla porticina. E le famiglie troppo deboli si uniscono a una più forte: da sole rischiano di non farcela."
+          "text": "Infatti, si mette una griglia sulla porticina. E le famiglie troppo deboli si uniscono a una più forte: da sole, rischiano di non farcela."
         },
         {
           "who": "E",
@@ -391,7 +391,7 @@
         },
         {
           "who": "E",
-          "text": "A dimostrare che nel miele non ci sono residui, e a ricordare cosa ho fatto e quando."
+          "text": "A dimostrare che nel miele non ci sono residui. E a ricordare cosa ho fatto, e quando."
         },
         {
           "who": "M",
@@ -431,7 +431,7 @@
         },
         {
           "who": "E",
-          "text": "Allora lo considero come il libretto sanitario delle mie api."
+          "text": "Allora lo considero come… il libretto sanitario delle mie api."
         }
       ]
     },
@@ -473,7 +473,7 @@
         },
         {
           "who": "M",
-          "text": "Sì. Ogni arnia ha un numero, e la sua scheda. Dopo ogni visita scrivi qualcosa. Secondo te, perché non basta la memoria?"
+          "text": "Sì. Ogni arnia ha un numero, e la sua scheda. Dopo ogni visita, scrivi qualcosa. Secondo te, perché non basta la memoria?"
         },
         {
           "who": "E",
@@ -481,7 +481,7 @@
         },
         {
           "who": "M",
-          "text": "Succede a tutti, anche a me dopo cinquant'anni. Allora: data, meteo, perché hai aperto."
+          "text": "Succede a tutti, anche a me, dopo cinquant'anni! Allora: data, meteo, perché hai aperto."
         },
         {
           "who": "E",
@@ -513,7 +513,7 @@
         },
         {
           "who": "M",
-          "text": "Proprio così. E anno dopo anno vedi quali famiglie sono più forti e più calme."
+          "text": "Proprio così. E, anno dopo anno, vedi quali famiglie sono più forti e più calme."
         },
         {
           "who": "E",
@@ -575,7 +575,7 @@
         },
         {
           "who": "M",
-          "text": "Adesso una più difficile. Che cosa vuol dire tempo di attesa?"
+          "text": "Adesso, una più difficile. Che cosa vuol dire tempo di attesa?"
         },
         {
           "who": "E",

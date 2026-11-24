@@ -34,7 +34,7 @@
       "dialogue": [
         {
           "who": "M",
-          "text": "Ciao Enrica, benvenuta! Oggi cominciamo dal principio: la società delle api. Chi abita in un'arnia e come si organizza."
+          "text": "Ciao Enrica, benvenuta! Oggi cominciamo dal principio: la società delle api. Chi abita in un'arnia, e come si organizza."
         },
         {
           "who": "E",
@@ -42,7 +42,7 @@
         },
         {
           "who": "M",
-          "text": "In estate una colonia forte conta decine di migliaia di api. Ma la cosa bella è che non sono tante api sparse: sono una famiglia sola."
+          "text": "In estate una colonia forte conta decine di migliaia di api. Ma la cosa bella è che non sono tante api sparse: sono una famiglia sola!"
         },
         {
           "who": "E",
@@ -58,15 +58,15 @@
         },
         {
           "who": "M",
-          "text": "Nessun capo con il fischietto. Ognuno fa la sua parte, e insieme si comportano come un unico corpo. Per questo si parla di superorganismo."
+          "text": "Nessun capo con il fischietto. Ognuno fa la sua parte e, insieme, si comportano come un unico corpo. Per questo si parla di superorganismo."
         },
         {
           "who": "M",
-          "text": "Secondo te, un'ape operaia presa da sola e chiusa in un barattolo con un po' di miele, quanto resiste?"
+          "text": "Secondo te, un'ape operaia presa da sola, e chiusa in un barattolo con un po' di miele, quanto resiste?"
         },
         {
           "who": "E",
-          "text": "Poco, credo. Da sola non può scaldarsi, non può allevare piccoli, non ha le compagne che la puliscono e la nutrono."
+          "text": "Poco, credo… Da sola non può scaldarsi, non può allevare piccoli, non ha le compagne che la puliscono e la nutrono."
         },
         {
           "who": "M",
@@ -78,7 +78,7 @@
         },
         {
           "who": "M",
-          "text": "Esatto. E ti dico una curiosità: la regina si accoppia con molti fuchi, così le figlie sono sorelle un po' diverse tra loro."
+          "text": "Esatto. E ti dico una curiosità: la regina si accoppia con molti fuchi, così le figlie sono sorelle, un po' diverse tra loro."
         },
         {
           "who": "E",
@@ -86,7 +86,7 @@
         },
         {
           "who": "M",
-          "text": "Serve eccome. Gli studiosi hanno visto che le colonie con api più varie crescono meglio e superano meglio l'inverno. La varietà rende forte la famiglia."
+          "text": "Serve eccome! Gli studiosi hanno visto che le colonie con api più varie crescono meglio e superano meglio l'inverno. La varietà rende forte la famiglia."
         }
       ]
     },
@@ -139,7 +139,7 @@
         },
         {
           "who": "M",
-          "text": "Da giovane la regina esce per il volo nuziale e si accoppia in aria con molti fuchi. Conserva il loro seme in una piccola sacca, la spermateca, e lo usa per tutta la vita."
+          "text": "Da giovane, la regina esce per il volo nuziale e si accoppia in aria con molti fuchi. Conserva il loro seme in una piccola sacca, la spermateca, e lo usa per tutta la vita."
         },
         {
           "who": "E",
@@ -147,15 +147,15 @@
         },
         {
           "who": "M",
-          "text": "Di norma no. Poi decide lei, uovo per uovo: se lo feconda nasce una femmina, se non lo feconda nasce un maschio."
+          "text": "Di norma no. Poi decide lei, uovo per uovo: se lo feconda, nasce una femmina; se non lo feconda, nasce un maschio."
         },
         {
           "who": "M",
-          "text": "Secondo te, come fanno migliaia di operaie a sapere che la loro regina c'è ed è in salute, anche se non la vedono?"
+          "text": "Secondo te, come fanno migliaia di operaie a sapere che la loro regina c'è, ed è in salute, anche se non la vedono?"
         },
         {
           "who": "E",
-          "text": "Forse dall'odore? Lei lascia un profumo che passa da un'ape all'altra."
+          "text": "Forse dall'odore? Lei lascia un profumo, che passa da un'ape all'altra."
         },
         {
           "who": "M",
@@ -167,11 +167,11 @@
         },
         {
           "who": "M",
-          "text": "Abbastanza in fretta, perché quel messaggio sparisce. La colonia diventa agitata e prova ad allevare una regina nuova da una larva giovane."
+          "text": "Abbastanza in fretta, perché quel messaggio sparisce. La colonia diventa agitata, e prova ad allevare una regina nuova da una larva giovane."
         },
         {
           "who": "E",
-          "text": "Allora la regina tiene unita la famiglia più con il profumo che con gli ordini."
+          "text": "Allora la regina tiene unita la famiglia più con il profumo che con gli ordini!"
         }
       ]
     },
@@ -217,11 +217,11 @@
         },
         {
           "who": "E",
-          "text": "La ligula cos'è?"
+          "text": "La ligula… cos'è?"
         },
         {
           "who": "M",
-          "text": "È la lingua lunga, come una cannuccia pelosa. Con quella succhia il nettare in fondo ai fiori e lo mette in una specie di borsa nell'addome."
+          "text": "È la lingua lunga, come una cannuccia pelosa. Con quella succhia il nettare in fondo ai fiori, e lo mette in una specie di borsa nell'addome."
         },
         {
           "who": "E",
@@ -237,11 +237,11 @@
         },
         {
           "who": "E",
-          "text": "La fanno loro con il corpo? Forse da qualche ghiandola sotto la pancia."
+          "text": "La fanno loro, con il corpo? Forse da qualche ghiandola sotto la pancia."
         },
         {
           "who": "M",
-          "text": "Proprio così. Sotto l'addome le operaie giovani hanno quattro paia di ghiandole della cera. Escono piccole scaglie che poi masticano e modellano."
+          "text": "Proprio così. Sotto l'addome, le operaie giovani hanno quattro paia di ghiandole della cera. Escono piccole scaglie, che poi masticano e modellano."
         },
         {
           "who": "E",
@@ -249,7 +249,7 @@
         },
         {
           "who": "M",
-          "text": "L'operaia ha un pungiglione con piccoli uncini. Nella pelle di una persona resta agganciato e l'ape, staccandosi, muore. La regina invece ha il pungiglione liscio, i fuchi non ce l'hanno."
+          "text": "L'operaia ha un pungiglione con piccoli uncini. Nella pelle di una persona resta agganciato e l'ape, staccandosi, muore. La regina invece ha il pungiglione liscio; i fuchi non ce l'hanno."
         },
         {
           "who": "E",
@@ -295,15 +295,15 @@
         },
         {
           "who": "M",
-          "text": "No, e qui c'è una delle cose più belle delle api. Un'operaia cambia lavoro con l'età, un po' come si cambiano mansioni in una bottega di famiglia."
+          "text": "No, e qui c'è una delle cose più belle delle api! Un'operaia cambia lavoro con l'età, un po' come si cambiano mansioni in una bottega di famiglia."
         },
         {
           "who": "E",
-          "text": "Racconta, da dove comincia?"
+          "text": "Racconta! Da dove comincia?"
         },
         {
           "who": "M",
-          "text": "Appena nata pulisce le celle, così la regina può deporre di nuovo. Poi diventa nutrice: dà la pappa alle larve con le ghiandole che ha nel capo."
+          "text": "Appena nata, pulisce le celle, così la regina può deporre di nuovo. Poi diventa nutrice: dà la pappa alle larve con le ghiandole che ha nel capo."
         },
         {
           "who": "E",
@@ -315,7 +315,7 @@
         },
         {
           "who": "M",
-          "text": "Secondo te, perché il lavoro fuori, a cercare cibo, lo fanno le api più anziane e non le giovani?"
+          "text": "Secondo te, perché il lavoro fuori, a cercare cibo, lo fanno le api più anziane, e non le giovani?"
         },
         {
           "who": "E",
@@ -393,7 +393,7 @@
         },
         {
           "who": "E",
-          "text": "E allora a cosa servono? Sembra un po' ingiusto."
+          "text": "E allora, a cosa servono? Sembra un po' ingiusto…"
         },
         {
           "who": "M",
@@ -409,7 +409,7 @@
         },
         {
           "who": "M",
-          "text": "Esatto. Il fuco che si accoppia muore subito dopo. Gli altri tornano a casa a mangiare."
+          "text": "Esatto. Il fuco che si accoppia muore subito dopo. Gli altri… tornano a casa a mangiare."
         },
         {
           "who": "E",
@@ -421,11 +421,11 @@
         },
         {
           "who": "E",
-          "text": "Quindi se a fine estate vedo i fuchi cacciati fuori, è normale."
+          "text": "Quindi, se a fine estate vedo i fuchi cacciati fuori, è normale."
         },
         {
           "who": "M",
-          "text": "Normale e anche un buon segno: la famiglia si sta preparando all'inverno e risparmia le scorte."
+          "text": "Normale, e anche un buon segno: la famiglia si sta preparando all'inverno e risparmia le scorte."
         }
       ]
     }

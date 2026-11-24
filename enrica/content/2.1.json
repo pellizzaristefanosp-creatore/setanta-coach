@@ -37,14 +37,14 @@
         { "who": "M", "text": "La voglia è bella, ma le api hanno il loro calendario. Il momento migliore è la primavera, quando fioriscono le piante e la famiglia cresce." },
         { "who": "E", "text": "E se prendo le api in autunno?" },
         { "who": "M", "text": "È più difficile. In autunno la famiglia si prepara all'inverno e non cresce più. Una famiglia piccola rischia di non arrivare alla primavera." },
-        { "who": "E", "text": "Quindi in primavera hanno tutta la bella stagione per diventare forti." },
+        { "who": "E", "text": "Quindi, in primavera, hanno tutta la bella stagione per diventare forti." },
         { "who": "M", "text": "Esatto. Secondo te, perché conta tanto arrivare all'inverno con una famiglia forte?" },
-        { "who": "E", "text": "Perché d'inverno le api stanno strette insieme per scaldarsi, e se sono poche fanno fatica?" },
+        { "who": "E", "text": "Perché d'inverno le api stanno strette insieme per scaldarsi, e, se sono poche, fanno fatica?" },
         { "who": "M", "text": "Brava. Quella palla di api si chiama glomere: tiene caldo il centro, dove sta la regina. Più api ci sono, meglio si regge il freddo." },
         { "who": "E", "text": "Come una famiglia numerosa attorno al camino: in tanti si sta più caldi." },
         { "who": "M", "text": "Proprio così. E c'è un altro vantaggio: in primavera impari mentre la famiglia cresce, con calma, una visita dopo l'altra." },
         { "who": "E", "text": "Quindi mi preparo già d'inverno, e le api arrivano in primavera." },
-        { "who": "M", "text": "Perfetto. L'inverno è per studiare, comprare l'attrezzatura e scegliere il posto. In primavera arrivano le inquiline." },
+        { "who": "M", "text": "Perfetto. L'inverno è per studiare, comprare l'attrezzatura e scegliere il posto. In primavera… arrivano le inquiline." },
         { "who": "E", "text": "Mi piace: prima sistemo la casa, poi arrivano gli ospiti." }
       ]
     },
@@ -76,19 +76,19 @@
       },
       "dialogue": [
         { "who": "M", "text": "Prima di comprare anche solo un'arnia, ti consiglio tre cose: un corso, un'associazione di apicoltori e un po' di burocrazia." },
-        { "who": "E", "text": "Burocrazia anche per due alveari in giardino?" },
+        { "who": "E", "text": "Burocrazia? Anche per due alveari in giardino?" },
         { "who": "M", "text": "Sì. In Italia chi tiene alveari deve registrarsi nell'Anagrafe apistica nazionale, una banca dati che chiamiamo BDA. Vale anche per pochi alveari di famiglia." },
         { "who": "E", "text": "E come si fa?" },
-        { "who": "M", "text": "Di solito ci si rivolge all'ASL, cioè al servizio veterinario, oppure all'associazione, che spesso aiuta. Le procedure cambiano un po' tra le regioni, quindi chiedi sempre a loro." },
+        { "who": "M", "text": "Di solito ci si rivolge all'ASL, cioè al servizio veterinario, oppure all'associazione, che spesso aiuta. Le procedure cambiano un po' tra le regioni: quindi chiedi sempre a loro." },
         { "who": "E", "text": "E una volta registrata ho finito?" },
-        { "who": "M", "text": "No. Ogni anno, dal primo novembre al trentuno dicembre, si fa il censimento: dichiari quanti alveari hai e dove sono. Anche se non è cambiato niente." },
+        { "who": "M", "text": "No. Ogni anno, dal primo novembre al trentuno dicembre, si fa il censimento: dichiari quanti alveari hai, e dove sono. Anche se non è cambiato niente." },
         { "who": "E", "text": "Come la dichiarazione dei redditi, ma per le api!" },
-        { "who": "M", "text": "Più o meno! Ma secondo te, a cosa serve sapere dove sono tutti gli alveari?" },
+        { "who": "M", "text": "Più o meno! Ma, secondo te, a cosa serve sapere dove sono tutti gli alveari?" },
         { "who": "E", "text": "Forse per le malattie: se scoppia un problema in una zona, sanno chi avvisare e dove controllare." },
-        { "who": "M", "text": "Esatto. Serve a proteggere tutte le api, anche le tue. Poi c'è il corso: lì vedi mani esperte al lavoro e fai le prime domande." },
+        { "who": "M", "text": "Esatto. Serve a proteggere tutte le api, anche le tue. Poi c'è il corso: lì vedi mani esperte al lavoro, e fai le prime domande." },
         { "who": "E", "text": "E l'associazione a cosa mi serve?" },
         { "who": "M", "text": "Trovi persone vicine e consigli sulla tua zona. A volte c'è un esperto che viene con te alle prime visite. Da soli si sbaglia di più." },
-        { "who": "E", "text": "Allora: corso, associazione, registrazione nella BDA e censimento ogni anno." }
+        { "who": "E", "text": "Allora: corso, associazione, registrazione nella BDA, e censimento ogni anno." }
       ]
     },
     {
@@ -118,21 +118,21 @@
         "explanation": "Il nucleo ha regina, api operaie, covata e scorte su pochi telaini: una famiglia piccola ma già avviata."
       },
       "dialogue": [
-        { "who": "M", "text": "Adesso la domanda vera: dove si trovano le api? Ci sono tre strade: il nucleo, lo sciame e il pacco d'api." },
+        { "who": "M", "text": "Adesso, la domanda vera: dove si trovano le api? Ci sono tre strade: il nucleo, lo sciame e il pacco d'api." },
         { "who": "E", "text": "Il nucleo cos'è?" },
         { "who": "M", "text": "È una piccola famiglia completa: la regina, le operaie e pochi telaini, cioè le cornici di legno con dentro i favi. Di solito cinque, con covata e scorte." },
         { "who": "E", "text": "La covata sarebbe…?" },
         { "who": "M", "text": "Uova, larve e pupe: i figli della famiglia. Se vedi covata, sai che la regina lavora." },
         { "who": "E", "text": "E lo sciame?" },
-        { "who": "M", "text": "In primavera una famiglia si divide: la vecchia regina parte con tante api e cerca una casa nuova. Se lo raccogli hai api gratis, ma non sai da dove vengono né se sono sane." },
+        { "who": "M", "text": "In primavera una famiglia si divide: la vecchia regina parte con tante api, e cerca una casa nuova. Se lo raccogli, hai api gratis; ma non sai da dove vengono, né se sono sane." },
         { "who": "E", "text": "E il pacco d'api?" },
         { "who": "M", "text": "Sono api sfuse in una scatola, con la regina chiusa in una gabbietta, senza favi. Devono costruire tutto da zero." },
-        { "who": "E", "text": "Tre modi diversi. Ma io da dove parto?" },
+        { "who": "E", "text": "Tre modi diversi. Ma io, da dove parto?" },
         { "who": "M", "text": "Secondo te, quale conviene a chi inizia?" },
-        { "who": "E", "text": "Il nucleo, perché è già una famiglia avviata e posso vedere subito regina e covata." },
+        { "who": "E", "text": "Il nucleo, perché è già una famiglia avviata, e posso vedere subito regina e covata." },
         { "who": "M", "text": "Brava. E cercalo vicino a casa, da un apicoltore serio della tua zona. Le api del posto conoscono il tuo clima." },
         { "who": "E", "text": "Come le piantine dell'orto: quelle del vivaio vicino attecchiscono meglio." },
-        { "who": "M", "text": "Esatto. E prima di pagare chiedi di vedere i favi: covata compatta, api tranquille, nessun cattivo odore." },
+        { "who": "M", "text": "Esatto. E, prima di pagare, chiedi di vedere i favi: covata compatta, api tranquille, nessun cattivo odore." },
         { "who": "E", "text": "Allora: nucleo, vicino a casa, e prima di comprare guardo bene i favi." }
       ]
     },
@@ -165,13 +165,13 @@
       "dialogue": [
         { "who": "M", "text": "Quanti alveari pensi di prendere, Enrica?" },
         { "who": "E", "text": "Uno, per cominciare. Così non mi confondo." },
-        { "who": "M", "text": "È la scelta di molti, ma io ti consiglio di partire con due. Al massimo tre." },
+        { "who": "M", "text": "È la scelta di molti, ma io ti consiglio di partire con due. Al massimo, tre." },
         { "who": "E", "text": "Due? Non è il doppio del lavoro?" },
-        { "who": "M", "text": "Un po' di più, sì. Ma pensa: se hai un solo alveare e qualcosa non va, con chi lo confronti?" },
+        { "who": "M", "text": "Un po' di più, sì. Ma pensa: se hai un solo alveare, e qualcosa non va, con chi lo confronti?" },
         { "who": "E", "text": "Con nessuno. Non saprei se è normale o no." },
         { "who": "M", "text": "Ecco. Con due, guardi l'uno e l'altro: se uno ha molta meno covata, ti accorgi che c'è qualcosa di strano." },
         { "who": "E", "text": "Come due torte nel forno: se una non cresce, lo vedi subito." },
-        { "who": "M", "text": "Bello. E c'è di più. Secondo te, cosa puoi fare se una famiglia perde la regina e hai un secondo alveare?" },
+        { "who": "M", "text": "Bello! E c'è di più. Secondo te, cosa puoi fare se una famiglia perde la regina e hai un secondo alveare?" },
         { "who": "E", "text": "Posso prendere dal secondo un telaino con le uova, così le api si allevano una regina nuova." },
         { "who": "M", "text": "Brava. Le api sanno trasformare un uovo o una larva giovanissima in una regina. Con un solo alveare non hai questa riserva." },
         { "who": "E", "text": "E perché non dieci, allora?" },
@@ -203,19 +203,19 @@
       "dialogue": [
         { "who": "M", "text": "Ora scegliamo il posto. Le api vivono bene dove c'è sole, riparo e acqua." },
         { "who": "E", "text": "Sole tutto il giorno?" },
-        { "who": "M", "text": "Meglio il sole del mattino, che le sveglia presto. Nelle estati calde un po' d'ombra al pomeriggio aiuta." },
+        { "who": "M", "text": "Meglio il sole del mattino, che le sveglia presto. Nelle estati calde, un po' d'ombra al pomeriggio aiuta." },
         { "who": "E", "text": "E il vento?" },
-        { "who": "M", "text": "Il vento freddo non piace a nessuno. Una siepe o un muretto dietro le arnie fa da scudo. E evita i fondi umidi dove ristagna la nebbia." },
+        { "who": "M", "text": "Il vento freddo non piace a nessuno! Una siepe o un muretto dietro le arnie fa da scudo. E evita i fondi umidi, dove ristagna la nebbia." },
         { "who": "E", "text": "E l'acqua? Le api bevono?" },
-        { "who": "M", "text": "Eccome. Secondo te, perché d'estate le api vanno a prendere tanta acqua?" },
+        { "who": "M", "text": "Eccome! Secondo te, perché d'estate le api vanno a prendere tanta acqua?" },
         { "who": "E", "text": "Per bere? O forse per rinfrescare la casa, come quando bagno il terrazzo d'estate?" },
         { "who": "M", "text": "La seconda è quella che conta. Spargono goccioline nell'alveare e sventolano le ali: l'acqua evapora e la casa si raffredda." },
         { "who": "E", "text": "Un condizionatore naturale! Quindi metto una vaschetta?" },
-        { "who": "M", "text": "Sì, con sassi o legnetti dove posarsi senza annegare. Mettila subito, prima che si abituino alla piscina del vicino." },
+        { "who": "M", "text": "Sì, con sassi o legnetti dove posarsi senza annegare. Mettila subito, prima che si abituino alla piscina del vicino!" },
         { "who": "E", "text": "A proposito di vicini: ci sono distanze da rispettare?" },
         { "who": "M", "text": "Sì. Il codice civile parla di dieci metri dalle strade pubbliche e cinque dai confini. Muri, siepi o dislivelli possono cambiare le cose, e regioni e comuni hanno regole proprie." },
-        { "who": "E", "text": "Quindi prima di decidere chiedo al comune, all'ASL o all'associazione." },
-        { "who": "M", "text": "Brava. Meglio una telefonata prima che una lite dopo. E scegli un posto dove arrivi comoda anche con i melari pieni, che pesano parecchio." }
+        { "who": "E", "text": "Quindi, prima di decidere, chiedo al comune, all'ASL o all'associazione." },
+        { "who": "M", "text": "Brava. Meglio una telefonata prima che una lite dopo! E scegli un posto dove arrivi comoda anche con i melari pieni, che pesano parecchio." }
       ]
     },
     {
@@ -247,19 +247,19 @@
       "dialogue": [
         { "who": "M", "text": "Ultimo passo: come sistemare le arnie una vicina all'altra. Hai mai sentito parlare di deriva?" },
         { "who": "E", "text": "Deriva? Come una barca?" },
-        { "who": "M", "text": "Quasi. È quando un'ape, tornando a casa, sbaglia arnia ed entra in quella vicina." },
+        { "who": "M", "text": "Quasi. È quando un'ape, tornando a casa, sbaglia arnia, ed entra in quella vicina." },
         { "who": "E", "text": "E la fanno entrare?" },
         { "who": "M", "text": "Spesso sì, se porta cibo. Ma così le api passano da una famiglia all'altra, e con loro viaggiano varroa e malattie." },
         { "who": "E", "text": "Allora come aiuto le api a ritrovare la porta giusta?" },
         { "who": "M", "text": "Secondo te, cosa confonde un'ape quando ci sono tante arnie in fila?" },
         { "who": "E", "text": "Che sono tutte uguali! Come le villette a schiera dello stesso colore: sbaglierei cancello anch'io." },
-        { "who": "M", "text": "Esatto. Allora colori diversi, un segno sul davanti, entrate girate un po' in direzioni diverse e un po' di spazio tra un'arnia e l'altra." },
+        { "who": "M", "text": "Esatto. Allora: colori diversi, un segno sul davanti, entrate girate un po' in direzioni diverse, e un po' di spazio tra un'arnia e l'altra." },
         { "who": "E", "text": "E verso dove giro le entrate?" },
         { "who": "M", "text": "Da noi di solito verso sud o sud-est, per prendere il sole del mattino. L'importante è non avere il vento freddo in faccia." },
         { "who": "E", "text": "E le arnie le metto per terra?" },
         { "who": "M", "text": "No, su un supporto o un cavalletto, alto qualche decina di centimetri: niente umidità dal suolo, e la schiena ringrazia." },
         { "who": "E", "text": "Anche la mia schiena, quindi, non solo le api!" },
-        { "who": "M", "text": "Certo. E inclina l'arnia appena in avanti, così l'acqua della pioggia scivola fuori dall'entrata." },
+        { "who": "M", "text": "Certo. E inclina l'arnia appena in avanti: così l'acqua della pioggia scivola fuori dall'entrata." },
         { "who": "E", "text": "Colori diversi, entrate girate, supporto rialzato e leggera pendenza. Me lo segno!" }
       ]
     }

@@ -39,7 +39,7 @@
         { "who": "M", "text": "Sono lavoratrici, appunto. Il loro mestiere è portare a casa zucchero. A loro non importa se viene da un fiore o dalla dispensa di un'altra famiglia." },
         { "who": "E", "text": "Quindi per loro rubare non è cattiveria. È istinto." },
         { "who": "M", "text": "Brava. È scritto nella loro natura. Secondo te, perché a volte preferiscono rubare invece di girare tra i fiori?" },
-        { "who": "E", "text": "Forse perché in un'arnia trovano tanto miele già pronto, con molta meno fatica." },
+        { "who": "E", "text": "Forse perché in un'arnia trovano tanto miele già pronto… con molta meno fatica." },
         { "who": "M", "text": "Esatto. Un favo pieno vale migliaia di visite ai fiori. E poi c'è il carattere: ogni famiglia ha il suo, e dipende molto dalla regina, la madre di tutte." },
         { "who": "E", "text": "Allora alcune famiglie sono più ladre di altre?" },
         { "who": "M", "text": "Spesso sì. Ci sono famiglie tranquille e famiglie avide e nervose. Se cambi la regina, in un mese o due cambia anche il carattere." },
@@ -84,11 +84,11 @@
         { "who": "E", "text": "E quello silenzioso? Se è silenzioso, come faccio a vederlo?" },
         { "who": "M", "text": "È più difficile. Le ladre entrano ed escono come se fossero di casa. Nessuno le ferma. Secondo te, perché le guardiane non le fermano?" },
         { "who": "E", "text": "Forse perché la famiglia derubata è troppo debole, o malata, e non ha più la forza di difendersi." },
-        { "who": "M", "text": "Proprio così. A volte le derubate si abituano e lasciano fare. Un indizio: api che entrano leggere ed escono pesanti." },
+        { "who": "M", "text": "Proprio così. A volte le derubate si abituano e lasciano fare. Un indizio: api che entrano leggere, ed escono pesanti." },
         { "who": "E", "text": "Al contrario delle bottinatrici, che tornano a casa cariche." },
         { "who": "M", "text": "Brava. Poi apri l'arnia e trovi i favi di miele vuoti, con la cera rosicchiata." },
         { "who": "E", "text": "E perché è così grave, oltre al miele perso?" },
-        { "who": "M", "text": "Perché le ladre portano a casa anche le malattie: acari di varroa e spore di peste americana. Il furto diventa un contagio." },
+        { "who": "M", "text": "Perché le ladre portano a casa anche le malattie: acari di varroa e spore di peste americana. Il furto… diventa un contagio." },
         { "who": "E", "text": "Allora un saccheggio in un'arnia riguarda tutto l'apiario." }
       ]
     },
@@ -123,7 +123,7 @@
         { "who": "M", "text": "Ora vediamo perché scoppia un saccheggio. La causa numero uno è la mancanza di nettare in campagna." },
         { "who": "E", "text": "Il nettare è il liquido dolce dei fiori, giusto?" },
         { "who": "M", "text": "Sì. Quando le grandi fioriture finiscono, per esempio in piena estate, le bottinatrici restano senza lavoro. E vanno a cercare zucchero dove capita." },
-        { "who": "E", "text": "Come dei ragazzi annoiati senza niente da fare." },
+        { "who": "E", "text": "Come dei ragazzi annoiati, senza niente da fare." },
         { "who": "M", "text": "Bella immagine! Poi ci sono gli errori dell'apicoltore. Secondo te, cosa succede se lascio un telaino di miele appoggiato vicino all'arnia?" },
         { "who": "E", "text": "Le api lo sentono subito, lo svuotano e poi cercano altro miele nelle arnie vicine." },
         { "who": "M", "text": "Esatto. Un telaino dimenticato, sciroppo versato, un'arnia aperta per mezz'ora: sono inviti a nozze." },
@@ -132,7 +132,7 @@
         { "who": "E", "text": "E l'arnia stessa conta? Voglio dire il legno, la porticina, come è fatta?" },
         { "who": "M", "text": "Conta. Un'entrata troppo larga è difficile da sorvegliare. E una fessura nel legno è una porta di servizio per le ladre." },
         { "who": "E", "text": "Quindi le cause sono tre: fame in campagna, errori nostri e famiglie fragili." },
-        { "who": "M", "text": "Riassunto perfetto. E ricordalo: il saccheggio quasi sempre si può evitare." },
+        { "who": "M", "text": "Riassunto perfetto! E ricordalo: il saccheggio quasi sempre si può evitare." },
         { "who": "E", "text": "Allora la prossima volta parliamo di come evitarlo!" }
       ]
     },
@@ -208,7 +208,7 @@
         "explanation": "Entrata stretta e telo bagnato aiutano le guardiane e confondono le ladre. Aprire peggiora tutto."
       },
       "dialogue": [
-        { "who": "M", "text": "Ultima cosa: cosa fare se il saccheggio è già cominciato. Prima di tutto, niente panico." },
+        { "who": "M", "text": "Ultima cosa: cosa fare se il saccheggio è già cominciato. Prima di tutto, niente panico!" },
         { "who": "E", "text": "Facile a dirsi, con tutte quelle api che lottano!" },
         { "who": "M", "text": "Lo so. Se stavi visitando, chiudi subito le arnie e copri ogni telaino. Poi stringi l'entrata della famiglia attaccata, fino a far passare un'ape alla volta." },
         { "who": "E", "text": "E le ladre che sono già dentro?" },
@@ -221,7 +221,7 @@
         { "who": "M", "text": "Va chiusa e portata via subito. Secondo te, perché tanta fretta?" },
         { "who": "E", "text": "Perché le altre api la svuoterebbero e porterebbero a casa le malattie, come la varroa o la peste." },
         { "who": "M", "text": "Esatto. La peste americana si sparge proprio così, con le spore nel miele rubato. E dopo un saccheggio la famiglia derubata spesso va nutrita o unita a un'altra." },
-        { "who": "E", "text": "Ricevuto. Calma, stringere, coprire e chiudere le arnie morte." }
+        { "who": "E", "text": "Ricevuto! Calma, stringere, coprire e chiudere le arnie morte." }
       ]
     }
   ],

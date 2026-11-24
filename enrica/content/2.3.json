@@ -44,8 +44,8 @@
         { "who": "E", "text": "Forse perché le api se la prendono di più con i colori scuri?" },
         { "who": "M", "text": "Esatto. Lo scuro ricorda i predatori pelosi che cercano il miele. E i tessuti lisci sono meglio delle lane pelose." },
         { "who": "E", "text": "Quindi niente maglione nero di lana sotto la giacca." },
-        { "who": "M", "text": "Brava. E un'altra cosa: le api sentono anche il nostro respiro. Per questo il viso attira la loro attenzione e va protetto bene." },
-        { "who": "E", "text": "Allora prima di aprire controllo cerniera, collo e buchi nella rete." },
+        { "who": "M", "text": "Brava. E un'altra cosa: le api sentono anche il nostro respiro. Per questo il viso attira la loro attenzione, e va protetto bene." },
+        { "who": "E", "text": "Allora, prima di aprire, controllo cerniera, collo e buchi nella rete." },
         { "who": "M", "text": "Perfetto. Un'ape dentro la maschera è il modo più veloce per perdere la calma." }
       ]
     },
@@ -76,22 +76,22 @@
         "explanation": "Il pungiglione libera un odore d'allarme che chiama altre api a difendere."
       },
       "dialogue": [
-        { "who": "M", "text": "Passiamo ai guanti. Per chi inizia, io dico: mettili, senza vergogna." },
+        { "who": "M", "text": "Passiamo ai guanti. Per chi inizia, io dico: mettili. Senza vergogna." },
         { "who": "E", "text": "Pensavo che i veri apicoltori lavorassero a mani nude!" },
-        { "who": "M", "text": "Alcuni sì, dopo anni di esperienza. Ma all'inizio le mani tremano un po'. Con i guanti ti senti più tranquilla e fai movimenti più lenti, e le api lo apprezzano." },
+        { "who": "M", "text": "Alcuni sì, dopo anni di esperienza. Ma all'inizio le mani tremano un po'. Con i guanti ti senti più tranquilla, e fai movimenti più lenti. E le api lo apprezzano." },
         { "who": "E", "text": "Che tipo di guanti?" },
         { "who": "M", "text": "Ci sono quelli di pelle, lunghi fino al gomito, e quelli di gomma, più sottili. La pelle protegge di più, la gomma fa sentire meglio i telaini." },
         { "who": "E", "text": "Come le presine in cucina: più sono spesse, meno sento cosa tengo in mano." },
-        { "who": "M", "text": "Esatto. E c'è un segreto. Quando un'ape punge, il pungiglione resta lì e libera un odore. Secondo te, a cosa serve quell'odore?" },
+        { "who": "M", "text": "Esatto. E c'è un segreto… Quando un'ape punge, il pungiglione resta lì e libera un odore. Secondo te, a cosa serve quell'odore?" },
         { "who": "E", "text": "A chiamare le altre api? Come un allarme?" },
         { "who": "M", "text": "Proprio così. È un odore d'allarme, che ricorda un po' la banana. Le altre api lo sentono e arrivano a difendere la casa." },
         { "who": "E", "text": "Allora un guanto punto attira altre punture!" },
-        { "who": "M", "text": "Brava. Per questo gratti via il pungiglione con l'unghia o con la leva e passi un filo di fumo sul punto. E i guanti si lavano spesso." },
+        { "who": "M", "text": "Brava. Per questo gratti via il pungiglione con l'unghia o con la leva, e passi un filo di fumo sul punto. E i guanti si lavano spesso." },
         { "who": "E", "text": "Lavarli anche se sembrano puliti?" },
         { "who": "M", "text": "Sì, perché l'odore resta anche quando non si vede niente. Un guanto pulito non racconta storie di vecchie punture." },
         { "who": "E", "text": "E le mani nude, un giorno?" },
         { "who": "M", "text": "Quando sarai più sicura potrai provare guanti più sottili, e magari col tempo farne a meno. Senza fretta." },
-        { "who": "E", "text": "Quindi per ora guanti, pungiglione via subito e guanti sempre puliti." }
+        { "who": "E", "text": "Quindi, per ora: guanti, pungiglione via subito, e guanti sempre puliti." }
       ]
     },
     {
@@ -125,7 +125,7 @@
         { "who": "E", "text": "E il fumo calma le api? Come fa?" },
         { "who": "M", "text": "Fa due cose. Prima: le api parlano molto con gli odori, e il fumo copre l'odore d'allarme. Le antenne lo sentono di meno." },
         { "who": "E", "text": "Come quando in cucina c'è odore di fritto e non senti più il profumo del sugo." },
-        { "who": "M", "text": "Esatto. Seconda cosa: col fumo molte api vanno sui favi e si riempiono la pancia di miele." },
+        { "who": "M", "text": "Esatto. Seconda cosa: col fumo, molte api vanno sui favi e si riempiono la pancia di miele." },
         { "who": "E", "text": "Si riempiono di miele? Perché?" },
         { "who": "M", "text": "Secondo te, cosa farebbe una famiglia d'api in un albero, sentendo odore di incendio?" },
         { "who": "E", "text": "Si preparerebbe a scappare, portandosi dietro le provviste!" },
@@ -133,10 +133,10 @@
         { "who": "E", "text": "Quindi ne do tanto, così stanno tranquillissime?" },
         { "who": "M", "text": "No! Il fumo deve essere bianco e freddo, mai fiamme o fumo caldo. Poche sbuffate all'entrata, aspetti un minuto, poi apri piano." },
         { "who": "E", "text": "E durante la visita?" },
-        { "who": "M", "text": "Qualche sbuffo leggero sopra i telaini, quando le api salgono troppo. Troppo fumo le disturba e rovina la visita." },
+        { "who": "M", "text": "Qualche sbuffo leggero sopra i telaini, quando le api salgono troppo. Troppo fumo le disturba, e rovina la visita." },
         { "who": "E", "text": "E se si spegne a metà?" },
-        { "who": "M", "text": "Succede a tutti! Per questo si riempie bene prima di cominciare e si tiene in piedi, vicino a te." },
-        { "who": "E", "text": "Fumo bianco, poco e lento, e affumicatore pronto prima di aprire." }
+        { "who": "M", "text": "Succede a tutti! Per questo si riempie bene prima di cominciare, e si tiene in piedi, vicino a te." },
+        { "who": "E", "text": "Fumo bianco, poco e lento; e affumicatore pronto prima di aprire." }
       ]
     },
     {
@@ -168,9 +168,9 @@
       "dialogue": [
         { "who": "M", "text": "Ora la leva, che qualcuno chiama palettino staccafavi. È un ferro piatto, con una punta piegata." },
         { "who": "E", "text": "E a cosa serve? Non basta tirare su il telaino?" },
-        { "who": "M", "text": "Prova e vedrai: i telaini sono incollati. Le api sigillano ogni fessura con la propoli." },
+        { "who": "M", "text": "Prova, e vedrai: i telaini sono incollati! Le api sigillano ogni fessura con la propoli." },
         { "who": "E", "text": "Ah, la colla di resina di cui parlavamo con l'arnia!" },
-        { "who": "M", "text": "Proprio lei. Con la leva fai forza tra un telaino e l'altro, li stacchi e li sollevi. E raschi via cera e propoli in più." },
+        { "who": "M", "text": "Proprio lei. Con la leva fai forza tra un telaino e l'altro, li stacchi, e li sollevi. E raschi via cera e propoli in più." },
         { "who": "E", "text": "Ma la propoli è solo un fastidio?" },
         { "who": "M", "text": "Per noi un po' sì, per le api no. Secondo te, perché le api ricoprono il nido di propoli?" },
         { "who": "E", "text": "Per chiudere gli spifferi? E forse per tenere la casa pulita dai germi?" },
@@ -211,7 +211,7 @@
         "explanation": "Con tutto a portata di mano la visita è più breve e l'arnia resta aperta meno tempo."
       },
       "dialogue": [
-        { "who": "M", "text": "Ultima cosa: la cassetta portattrezzi. Sembra un dettaglio, ma salva molte visite." },
+        { "who": "M", "text": "Ultima cosa: la cassetta portattrezzi. Sembra un dettaglio… ma salva molte visite." },
         { "who": "E", "text": "Una cassetta per gli attrezzi? Come quella del bricolage?" },
         { "who": "M", "text": "Simile. Dentro ci metti tutto quello che serve: leva, spazzola, combustibile per l'affumicatore, accendino e guanti di ricambio." },
         { "who": "E", "text": "E basta?" },
@@ -226,7 +226,7 @@
         { "who": "M", "text": "Proprio così, anche api di altre famiglie in cerca di cibo. E c'è un'ultima regola: gli attrezzi si tengono puliti." },
         { "who": "E", "text": "Per l'ordine?" },
         { "who": "M", "text": "Anche per la salute delle api. Alcune malattie della covata, come la peste americana, hanno spore molto resistenti che possono viaggiare con il materiale sporco." },
-        { "who": "E", "text": "Quindi cassetta pronta, quaderno sempre con me e attrezzi puliti." }
+        { "who": "E", "text": "Quindi: cassetta pronta, quaderno sempre con me, e attrezzi puliti." }
       ]
     }
   ],

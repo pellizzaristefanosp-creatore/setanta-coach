@@ -32,20 +32,20 @@
         "explanation": "È un segnale di pericolo: le altre api lo sentono e arrivano a difendere."
       },
       "dialogue": [
-        { "who": "M", "text": "Ciao Enrica! Oggi parliamo di come e quando visitare gli alveari. Prima però dobbiamo capire come ragionano le api quando qualcuno apre la loro casa." },
-        { "who": "E", "text": "Ciao Giuliano! Io ho sempre un po' paura che mi attacchino tutte insieme." },
-        { "who": "M", "text": "È normale. Ma ricorda: l'ape non è cattiva. Difende tre cose preziose, cioè la casa, le scorte di miele e la covata, cioè uova, larve e pupe." },
-        { "who": "E", "text": "Quindi se io apro l'arnia, per loro sono come un ladro che entra in cucina." },
-        { "who": "M", "text": "Proprio così. All'ingresso ci sono le guardiane, api che controllano chi entra. Se sentono un pericolo, si mettono in allarme." },
+        { "who": "M", "text": "Ciao Enrica! Oggi parliamo di come e quando visitare gli alveari. Prima, però, dobbiamo capire come ragionano le api quando qualcuno apre la loro casa." },
+        { "who": "E", "text": "Ciao Giuliano! Io… ho sempre un po' paura che mi attacchino tutte insieme." },
+        { "who": "M", "text": "È normale. Ma ricorda: l'ape non è cattiva. Difende tre cose preziose, cioè la casa, le scorte di miele e la covata: cioè uova, larve e pupe." },
+        { "who": "E", "text": "Quindi, se io apro l'arnia, per loro sono come un ladro che entra in cucina." },
+        { "who": "M", "text": "Proprio così. All'ingresso ci sono le guardiane: api che controllano chi entra. Se sentono un pericolo, si mettono in allarme." },
         { "who": "E", "text": "E come fanno a chiamare le altre?" },
-        { "who": "M", "text": "Con un odore. Quando un'ape punge, dal pungiglione esce un profumo di allarme, che ricorda un po' la banana." },
+        { "who": "M", "text": "Con un odore. Quando un'ape punge, dal pungiglione esce un profumo di allarme che ricorda un po'… la banana." },
         { "who": "E", "text": "La banana? Non me lo aspettavo proprio!" },
-        { "who": "M", "text": "Eh sì. Allora, secondo te, perché dopo la prima puntura spesso ne arrivano altre nello stesso punto?" },
+        { "who": "M", "text": "Eh sì! Allora, secondo te, perché dopo la prima puntura spesso ne arrivano altre nello stesso punto?" },
         { "who": "E", "text": "Perché l'odore di allarme resta sulla pelle o sul vestito, e le altre api lo seguono per venire a difendere." },
-        { "who": "M", "text": "Brava. Per questo, se ti pungono, togli subito il pungiglione e fai qualche passo indietro, senza agitarti." },
-        { "who": "E", "text": "E se resto calma anche loro restano più calme?" },
-        { "who": "M", "text": "Spesso sì. Gesti lenti, niente colpi sull'arnia, niente mani che sventolano. Le api notano le vibrazioni e i movimenti bruschi." },
-        { "who": "E", "text": "Allora la prima regola è muovermi piano, come quando entro in una stanza dove dorme un neonato." }
+        { "who": "M", "text": "Brava. Per questo, se ti pungono, togli subito il pungiglione e fai qualche passo indietro. Senza agitarti." },
+        { "who": "E", "text": "E se resto calma, anche loro restano più calme?" },
+        { "who": "M", "text": "Spesso sì. Gesti lenti, niente colpi sull'arnia, niente mani che sventolano: le api notano le vibrazioni e i movimenti bruschi." },
+        { "who": "E", "text": "Allora la prima regola è: muovermi piano, come quando entro in una stanza dove dorme un neonato." }
       ]
     },
     {
@@ -76,19 +76,19 @@
       },
       "dialogue": [
         { "who": "M", "text": "Adesso parliamo del momento giusto. Non tutti i giorni sono buoni per aprire un'arnia." },
-        { "who": "E", "text": "Io pensavo di andarci quando ho tempo, magari la sera dopo il lavoro." },
-        { "who": "M", "text": "La sera è il momento peggiore. Tutte le api sono a casa, fa più fresco e sono più nervose." },
+        { "who": "E", "text": "Io pensavo di andarci quando ho tempo… magari la sera, dopo il lavoro." },
+        { "who": "M", "text": "La sera è il momento peggiore! Tutte le api sono a casa, fa più fresco e sono più nervose." },
         { "who": "E", "text": "Allora quando è meglio?" },
         { "who": "M", "text": "In una giornata tiepida, serena e senza vento, nelle ore centrali. Secondo te, perché proprio a metà giornata?" },
         { "who": "E", "text": "Perché molte api sono fuori a raccogliere nettare e polline, quindi in casa ce ne sono meno e sono più impegnate." },
         { "who": "M", "text": "Esatto. Le bottinatrici, cioè le api che vanno a raccogliere, sono le più pronte a difendere. Se sono fuori, la visita è più tranquilla." },
         { "who": "E", "text": "E il vento cosa c'entra?" },
-        { "who": "M", "text": "Il vento raffredda la covata quando apri e porta via il fumo. Anche la pioggia non va bene: le api restano tutte in casa." },
+        { "who": "M", "text": "Il vento raffredda la covata quando apri, e porta via il fumo. Anche la pioggia non va bene: le api restano tutte in casa." },
         { "who": "E", "text": "Ho sentito dire che prima di un temporale sono più cattive." },
         { "who": "M", "text": "Più difensive, diciamo. Lo notano tanti apicoltori, e anche alcuni studi hanno collegato il loro umore al tempo che cambia." },
-        { "who": "E", "text": "Quindi guardo il cielo prima di partire, come quando devo stendere il bucato." },
+        { "who": "E", "text": "Quindi guardo il cielo prima di partire. Come quando devo stendere il bucato!" },
         { "who": "M", "text": "Brava. E quando arrivi, guarda l'ingresso: se le api entrano tranquille con le zampe cariche di polline, è il momento giusto." },
-        { "who": "E", "text": "Se invece vedo che girano agitate o il cielo si scurisce, rimando a un altro giorno." }
+        { "who": "E", "text": "Se invece vedo che girano agitate, o il cielo si scurisce, rimando a un altro giorno." }
       ]
     },
     {
@@ -119,19 +119,19 @@
       },
       "dialogue": [
         { "who": "M", "text": "Enrica, quanto pensi che debba durare una visita all'alveare?" },
-        { "who": "E", "text": "Non lo so. Mi piacerebbe restare un'ora a guardare tutto!" },
+        { "who": "E", "text": "Non lo so… Mi piacerebbe restare un'ora a guardare tutto!" },
         { "who": "M", "text": "Ti capisco, è uno spettacolo. Ma pensa alla covata: le api la tengono molto calda, sempre alla stessa temperatura." },
-        { "who": "E", "text": "Come i neonati in incubatrice." },
-        { "who": "M", "text": "Bel paragone. Allora dimmi, secondo te, cosa succede alla covata se lascio l'arnia aperta a lungo in una giornata fresca?" },
-        { "who": "E", "text": "Si raffredda, e le api poi devono faticare per riscaldarla. Forse qualche larva può anche soffrire." },
+        { "who": "E", "text": "Come i neonati in incubatrice!" },
+        { "who": "M", "text": "Bel paragone. Allora dimmi: secondo te, cosa succede alla covata se lascio l'arnia aperta a lungo, in una giornata fresca?" },
+        { "who": "E", "text": "Si raffredda, e le api poi devono faticare per riscaldarla. Forse… qualche larva può anche soffrire." },
         { "who": "M", "text": "Proprio così. E gli studi dicono che anche piccole differenze di calore cambiano le api che nasceranno." },
         { "who": "E", "text": "Allora come faccio a essere veloce senza dimenticare niente?" },
-        { "who": "M", "text": "Decidi prima cosa cercare. C'è la regina o ci sono uova? Ci sono scorte? C'è spazio? Ci sono segni di malattia?" },
+        { "who": "M", "text": "Decidi prima cosa cercare. C'è la regina, o ci sono uova? Ci sono scorte? C'è spazio? Ci sono segni di malattia?" },
         { "who": "E", "text": "Come la lista della spesa: entro, prendo quello che serve ed esco." },
-        { "who": "M", "text": "Esatto. Poi copri i favi che non stai guardando, con un coprifavo o un panno. E muoviti con ordine, un telaino alla volta." },
+        { "who": "M", "text": "Esatto. Poi copri i favi che non stai guardando, con un coprifavo o un panno. E muoviti con ordine: un telaino alla volta." },
         { "who": "E", "text": "E d'inverno?" },
         { "who": "M", "text": "D'inverno non si aprono le arnie per fare visite complete. Si guarda l'ingresso e si soppesa l'arnia per capire le scorte." },
-        { "who": "E", "text": "Quindi il tempo giusto è quello che basta per controllare la mia lista, non di più." }
+        { "who": "E", "text": "Quindi il tempo giusto è quello che basta per controllare la mia lista. Non di più." }
       ]
     },
     {
@@ -165,15 +165,15 @@
         { "who": "E", "text": "Davanti, così vedo bene!" },
         { "who": "M", "text": "Eh no! Davanti c'è la strada delle bottinatrici. Mettiti di lato, così non blocchi il traffico." },
         { "who": "E", "text": "Giusto, sarebbe come piazzarmi in mezzo alla porta di casa quando tutti rientrano con la spesa." },
-        { "who": "M", "text": "Poi dai due o tre sbuffi di fumo all'ingresso e aspetti un momento. Il fumo deve essere fresco e bianco." },
-        { "who": "E", "text": "Va bene. E il fumo a cosa serve, di preciso?" },
+        { "who": "M", "text": "Poi dai due o tre sbuffi di fumo all'ingresso, e aspetti un momento. Il fumo deve essere fresco e bianco." },
+        { "who": "E", "text": "Va bene. E il fumo, a cosa serve, di preciso?" },
         { "who": "M", "text": "Lo chiedo io a te. Secondo te, perché le api con il fumo diventano più tranquille?" },
         { "who": "E", "text": "Perché il fumo copre l'odore di allarme, e così le api fanno più fatica ad avvisarsi tra loro." },
-        { "who": "M", "text": "Brava, è una delle spiegazioni che danno gli studi. Ma non esagerare: troppo fumo le agita e rovina il miele." },
+        { "who": "M", "text": "Brava, è una delle spiegazioni che danno gli studi. Ma non esagerare: troppo fumo le agita, e rovina il miele." },
         { "who": "E", "text": "E poi come apro il coperchio?" },
-        { "who": "M", "text": "Con la leva, piano, senza colpi. Le api incollano tutto con la propoli, una specie di colla fatta di resine." },
-        { "who": "E", "text": "E i telaini come li tiro fuori?" },
-        { "who": "M", "text": "Prima uno laterale, così fai spazio. Poi uno alla volta, dritti, tenendoli sopra l'arnia. Così, se cade la regina, cade in casa." },
+        { "who": "M", "text": "Con la leva, piano, senza colpi. Le api incollano tutto con la propoli: una specie di colla fatta di resine." },
+        { "who": "E", "text": "E i telaini, come li tiro fuori?" },
+        { "who": "M", "text": "Prima uno laterale, così fai spazio. Poi uno alla volta, dritti, tenendoli sopra l'arnia. Così, se cade la regina… cade in casa." },
         { "who": "E", "text": "E li rimetto nello stesso ordine, piano piano, per non schiacciare nessuna ape." }
       ]
     },
@@ -204,19 +204,19 @@
         "explanation": "Il carattere dipende molto dai geni della regina: con una nuova madre cambiano le figlie."
       },
       "dialogue": [
-        { "who": "M", "text": "Enrica, prima o poi troverai una famiglia che ti accoglie male. Ti inseguono, ti sbattono sul velo." },
-        { "who": "E", "text": "Mi spaventa solo l'idea. Perché alcune famiglie sono così?" },
+        { "who": "M", "text": "Enrica, prima o poi troverai una famiglia che ti accoglie male: ti inseguono, ti sbattono sul velo." },
+        { "who": "E", "text": "Mi spaventa solo l'idea! Perché alcune famiglie sono così?" },
         { "who": "M", "text": "Le cause possono essere tante. A volte la famiglia è orfana, cioè senza regina. A volte c'è saccheggio, cioè api di altre arnie che rubano il miele." },
         { "who": "E", "text": "E poi?" },
-        { "who": "M", "text": "Il tempo brutto, un animale che disturba l'arnia di notte. Ma spesso è proprio il carattere. Secondo te, da chi dipende il carattere delle api?" },
+        { "who": "M", "text": "Il tempo brutto, un animale che disturba l'arnia di notte… Ma spesso è proprio il carattere. Secondo te, da chi dipende il carattere delle api?" },
         { "who": "E", "text": "Dalla regina, perché è la mamma di tutte le api della famiglia." },
         { "who": "M", "text": "Esatto. Il carattere passa con i geni, e gli studiosi lo hanno confermato." },
-        { "who": "E", "text": "Allora cosa devo fare con una famiglia così?" },
+        { "who": "E", "text": "Allora, cosa devo fare con una famiglia così?" },
         { "who": "M", "text": "Intanto proteggiti bene: tuta completa, guanti, pantaloni chiusi alle caviglie. Visitala per ultima, così le altre visite restano tranquille." },
         { "who": "E", "text": "E lavoro più in fretta?" },
-        { "who": "M", "text": "Con calma ma senza perdere tempo. Controlla se c'è la regina e se ci sono segni di saccheggio." },
+        { "who": "M", "text": "Con calma, ma senza perdere tempo. Controlla se c'è la regina, e se ci sono segni di saccheggio." },
         { "who": "E", "text": "E se è proprio il carattere?" },
-        { "who": "M", "text": "Allora la soluzione vera è cambiare la regina con una figlia di una famiglia docile. Le api vecchie muoiono e nascono figlie nuove." },
+        { "who": "M", "text": "Allora la soluzione vera è cambiare la regina, con una figlia di una famiglia docile. Le api vecchie muoiono, e nascono figlie nuove." },
         { "who": "E", "text": "Quindi dopo qualche settimana la famiglia ha un carattere nuovo. Come cambiare l'aria in casa!" }
       ]
     }

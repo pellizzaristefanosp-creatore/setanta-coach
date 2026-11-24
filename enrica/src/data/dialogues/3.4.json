@@ -14,7 +14,7 @@
     },
     {
      "who": "M",
-     "text": "Senza una regina che depone. A volte c'è una regina ma non funziona più, e per la famiglia è quasi lo stesso."
+     "text": "Senza una regina che depone. A volte c'è una regina, ma non funziona più: e per la famiglia è quasi lo stesso."
     },
     {
      "who": "E",
@@ -54,11 +54,11 @@
     },
     {
      "who": "M",
-     "text": "Proprio. E nei sondaggi tra apicoltori i problemi della regina sono tra le cause più citate di guai, dopo la varroa."
+     "text": "Proprio. E nei sondaggi tra apicoltori, i problemi della regina sono tra le cause più citate di guai, dopo la varroa."
     },
     {
      "who": "E",
-     "text": "Allora dopo ogni sciamatura e ogni cambio di regina devo controllare che ci siano uova nuove."
+     "text": "Allora, dopo ogni sciamatura e ogni cambio di regina, devo controllare che ci siano uova nuove."
     }
    ]
   },
@@ -79,11 +79,11 @@
     },
     {
      "who": "E",
-     "text": "Le uova fresche, una per cella, dritte in fondo. Se ci sono, la regina c'era fino a pochi giorni fa."
+     "text": "Le uova fresche: una per cella, dritte in fondo. Se ci sono, la regina c'era fino a pochi giorni fa."
     },
     {
      "who": "M",
-     "text": "Brava. E se non ci sono uova né larve giovani, devi preoccuparti."
+     "text": "Brava. E se non ci sono uova né larve giovani… devi preoccuparti."
     },
     {
      "who": "E",
@@ -119,7 +119,7 @@
     },
     {
      "who": "E",
-     "text": "Allora controllo uova, larve, celle reali e anche l'umore delle api."
+     "text": "Allora controllo uova, larve, celle reali… e anche l'umore delle api."
     }
    ]
   },
@@ -152,11 +152,11 @@
     },
     {
      "who": "M",
-     "text": "Esatto. Quindi nascono solo fuchi, e la famiglia piano piano si spegne."
+     "text": "Esatto. Quindi nascono solo fuchi, e la famiglia, piano piano, si spegne."
     },
     {
      "who": "E",
-     "text": "Perché però le operaie di solito non depongono?"
+     "text": "Perché, però, le operaie di solito non depongono?"
     },
     {
      "who": "M",
@@ -193,7 +193,7 @@
     },
     {
      "who": "E",
-     "text": "Non lo so. C'è un trucco?"
+     "text": "Non lo so… C'è un trucco?"
     },
     {
      "who": "M",
@@ -213,7 +213,7 @@
     },
     {
      "who": "M",
-     "text": "Brava. Se dopo qualche giorno vedi celle reali, la famiglia è orfana. Se no, forse una regina c'è, magari giovane e non ancora in deposizione."
+     "text": "Brava. Se dopo qualche giorno vedi celle reali, la famiglia è orfana. Se no, forse una regina c'è: magari giovane, e non ancora in deposizione."
     },
     {
      "who": "E",
@@ -221,7 +221,7 @@
     },
     {
      "who": "M",
-     "text": "Puoi lasciare che allevi una regina dalle celle, oppure darle una cella reale matura, o meglio ancora una regina feconda in gabbietta."
+     "text": "Puoi lasciare che allevi una regina dalle celle, oppure darle una cella reale matura. O, meglio ancora, una regina feconda in gabbietta."
     },
     {
      "who": "E",
@@ -241,7 +241,7 @@
     },
     {
      "who": "E",
-     "text": "Allora prima la prova, poi la regina nuova, e nei casi difficili la riunione."
+     "text": "Allora: prima la prova, poi la regina nuova, e nei casi difficili la riunione."
     }
    ]
   }
