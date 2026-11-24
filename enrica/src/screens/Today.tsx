@@ -807,14 +807,14 @@ function LessonCalendar({ now }: { now: string }) {
   }, [curId]);
   return (
     <section className="card lesson-cal" aria-label="Da quale lezione parti">
-      <div className="spread"><h2>I capitoli</h2><span className="tiny muted">tocca per ripartire da lì</span></div>
+      <div className="spread"><h2>I capitoli</h2><span className="tiny muted">tocca e parte la lezione</span></div>
       <div className="cal-strip" ref={strip}>
         {list.map((p) => {
           const done = p.steps.filter((x) => x.done).length, all = p.steps.length;
           const state = done === all ? "done" : p.id === curId ? "now" : done > 0 ? "half" : "";
           return (
             <button key={p.id} className={`cal-chip ${state}`} aria-pressed={p.id === curId} style={{ ["--img" as string]: `url(/img/u${p.unit}.svg)` }}
-              onClick={() => { if (done === all) { unlockAudio(); unlockSpeech(); startReplay(p.id, p.steps[0]!.id); } else setState((d) => void (d.lastPresentationId = p.id)); }}>
+              onClick={() => { unlockAudio(); unlockSpeech(); if (done === all) startReplay(p.id, p.steps[0]!.id); else { setState((d) => void (d.lastPresentationId = p.id)); startStep(p.id); } }}>
               <span className="cal-code num">{p.code}</span>
               <span className="cal-title">{lessonFor(s, p.code)?.title}</span>
               <span className="cal-state">{done === all ? "✓ rivedi" : p.id === curId ? "▶ adesso" : done > 0 ? `${done}/${all}` : "da fare"}</span>
