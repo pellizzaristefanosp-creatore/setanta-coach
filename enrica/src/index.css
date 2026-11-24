@@ -721,3 +721,10 @@ mark.w-now { background: linear-gradient(transparent 55%, rgba(240, 196, 110, 0.
   .circ path { stroke-dashoffset: 0; }
   .keypoints li.pop { background-size: 100% 100%; }
 }
+
+/* la puntata animata */
+.scene-wrap { position: relative; border-radius: 26px; overflow: hidden; box-shadow: 0 18px 40px -24px rgba(150, 100, 40, 0.6); cursor: pointer; background: #ffe8b8; }
+.scene-canvas { display: block; width: 100%; aspect-ratio: 1080 / 1240; }
+.scene-play { position: absolute; inset: 0; display: grid; place-items: center; pointer-events: none; }
+.scene-play svg { width: 64px; height: 64px; padding: 18px; border-radius: 50%; background: rgba(255, 250, 240, 0.85); color: var(--propolis); box-shadow: 0 10px 24px -12px rgba(90, 60, 20, 0.6); }
+.chat .unsaid { opacity: 0.38; }

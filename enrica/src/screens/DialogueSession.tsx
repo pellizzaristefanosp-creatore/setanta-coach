@@ -16,7 +16,7 @@ export type BeePart = LessonPack["parts"][number] & { science?: Science; tip?: s
 
 const RATES = [0.9, 1, 1.15, 1.3];
 
-function useAfter(active: boolean, ms: number, fn: () => void) {
+export function useAfter(active: boolean, ms: number, fn: () => void) {
   const cb = useRef(fn);
   useEffect(() => { cb.current = fn; });
   useEffect(() => {
@@ -255,7 +255,7 @@ export function DialogueSession({ p, lesson, index, onDone }: { p: Presentation;
 }
 
 /** La parola che la voce sta dicendo, accesa. */
-function Lit({ text, at }: { text: string; at: number }) {
+export function Lit({ text, at }: { text: string; at: number }) {
   const end = text.slice(at).search(/\s/);
   const stop = end < 0 ? text.length : at + end;
   return <>{text.slice(0, at)}<mark className="w-now">{text.slice(at, stop)}</mark>{text.slice(stop)}</>;
@@ -266,7 +266,7 @@ const TONINO_SAYS = {
   sbagliato: ["Quasi. Ragioniamoci insieme.", "Ci sei vicina, guarda bene qui.", "Tranquilla, è l'errore più comune.", "Non proprio, ma ci arriviamo subito."],
 } as const;
 
-function TurnSheet({ code, turn, rate, voices, onDone }: { code: string; turn: Turn; rate: number; voices: DialogueVoices | null; onDone: () => void }) {
+export function TurnSheet({ code, turn, rate, voices, onDone }: { code: string; turn: Turn; rate: number; voices: DialogueVoices | null; onDone: () => void }) {
   const [chosen, setChosen] = useState<number | null>(null);
   const [say, setSay] = useState(0);
   const stop = useRef<(() => void) | null>(null);

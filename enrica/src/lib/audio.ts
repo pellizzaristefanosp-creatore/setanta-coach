@@ -1,5 +1,5 @@
-/** Audio delle lezioni (dialoghi Marco e Luca), creati da scripts/gen-audio.ts. */
-export type AudioLine = { who: "M" | "L"; start: number; text: string };
+/** Audio delle lezioni (Giuliano ed Enrica), montato da scripts/build-audio: una traccia per parte con i tempi delle battute. */
+export type AudioLine = { who: "M" | "E" | "L"; start: number; text: string };
 export type AudioPart = { src: string; duration: number; lines: AudioLine[] };
 
 const manifests = Object.values(

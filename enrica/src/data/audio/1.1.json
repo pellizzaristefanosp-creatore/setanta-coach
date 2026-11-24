@@ -1,0 +1,82 @@
+{
+ "code": "1.1",
+ "parts": {
+  "0": {
+   "src": "/audio/1.1/0.mp3",
+   "duration": 94.98,
+   "n": 14,
+   "lines": [
+    {
+     "who": "M",
+     "start": 1.2,
+     "text": "Ciao Enrica, benvenuta! Oggi cominciamo dal principio… la società delle api. Chi abita in un'arnia, e come si organizza."
+    },
+    {
+     "who": "E",
+     "start": 9.08,
+     "text": "Ciao, Giuliano! Io, finora, ho visto solo api sui fiori… Non so nemmeno quante ce ne siano, in una cassetta!"
+    },
+    {
+     "who": "M",
+     "start": 15.22,
+     "text": "In estate, una colonia forte conta decine di migliaia di api. Ma la cosa bella è che non sono tante api sparse. Sono una famiglia sola!"
+    },
+    {
+     "who": "E",
+     "start": 23.76,
+     "text": "Una famiglia? Tipo mamma, figlie e fratelli?"
+    },
+    {
+     "who": "M",
+     "start": 26.96,
+     "text": "Proprio così. C'è una regina: che è la mamma di quasi tutte. Ci sono le operaie, che sono le figlie femmine. E ci sono i fuchi… i maschi."
+    },
+    {
+     "who": "E",
+     "start": 35.23,
+     "text": "E ognuno fa quello che vuole? O c'è un capo che comanda?"
+    },
+    {
+     "who": "M",
+     "start": 39.0,
+     "text": "Nessun capo con il fischietto! Ognuno fa la sua parte e, insieme, si comportano come un unico corpo. Per questo si parla di… superorganismo."
+    },
+    {
+     "who": "M",
+     "start": 47.7,
+     "text": "Secondo te, un'ape operaia presa da sola, e chiusa in un barattolo con un po' di miele… quanto resiste?"
+    },
+    {
+     "who": "E",
+     "start": 54.27,
+     "text": "Poco, credo… Da sola non può scaldarsi, non può allevare piccoli, non ha le compagne che la puliscono e la nutrono."
+    },
+    {
+     "who": "M",
+     "start": 61.74,
+     "text": "Brava. Un'ape sola è come una mano staccata dal corpo: non va lontano. La vera unità è la colonia intera."
+    },
+    {
+     "who": "E",
+     "start": 68.49,
+     "text": "Quindi quando guardo un'arnia devo pensare alla famiglia, non alla singola ape."
+    },
+    {
+     "who": "M",
+     "start": 73.75,
+     "text": "Esatto. E ti dico una curiosità: la regina si accoppia con molti fuchi, così le figlie sono sorelle, un po' diverse tra loro."
+    },
+    {
+     "who": "E",
+     "start": 81.59,
+     "text": "E questo serve a qualcosa, o è solo un caso?"
+    },
+    {
+     "who": "M",
+     "start": 84.73,
+     "text": "Serve eccome! Gli studiosi hanno visto che le colonie con api più varie crescono meglio e superano meglio l'inverno. La varietà rende forte la famiglia."
+    }
+   ]
+  }
+ }
+}

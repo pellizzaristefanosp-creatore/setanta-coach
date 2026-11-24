@@ -468,3 +468,11 @@ export function savePosition(pos: number) {
     if (s.timer) s.timer.pos = pos;
   });
 }
+
+/** Ricorda il secondo della puntata in corso. */
+export function savePositionTime(t: number) {
+  if (!state.timer) return;
+  setState((s) => {
+    if (s.timer) s.timer.posT = Math.round(t * 10) / 10;
+  });
+}

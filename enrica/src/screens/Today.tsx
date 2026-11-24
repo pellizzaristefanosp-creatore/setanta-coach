@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import { aiPost, type RecallFeedback } from "../lib/ai";
 import { DialogueSession } from "./DialogueSession";
+import { SceneSession } from "./SceneSession";
+import { audioFor } from "../lib/audio";
 import { HoneyCell } from "../BeeBackground";
 import { Flap, Typewriter } from "../beeFx";
 import { lessonVideo } from "../data/lessonVideos";
@@ -89,6 +91,8 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
             finishStep();
             afterPart(p.id, index);
           };
+      const audio = lesson ? audioFor(lesson.code, index) : undefined;
+      if (lesson?.parts[index] && audio) return <SceneSession key={`${p.code}-${index}`} p={p} lesson={lesson} index={index} audio={audio} onDone={onDone} />;
       return lesson?.parts[index] ? <DialogueSession key={`${p.code}-${index}`} p={p} lesson={lesson} index={index} onDone={onDone} /> : <TimerSession p={p} onDone={onDone} />;
     }
   }

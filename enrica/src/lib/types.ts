@@ -87,6 +87,7 @@ export type ActiveTimer = {
   endsAt: number; // ms
   pausedLeft?: number; // ms rimasti, se in pausa
   pos?: number; // battuta del dialogo a cui eri arrivata: rientrando si riparte da lì
+  posT?: number; // secondo della puntata a cui eri arrivata
   replay?: boolean; // riascolto di una parte già fatta: non si segna di nuovo
   returnTo?: string; // dopo il riascolto si torna a questa parte (tasto "Parte precedente")
 };
