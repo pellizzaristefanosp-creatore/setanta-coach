@@ -33,7 +33,7 @@
       },
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi parliamo delle materie prime del miele. Cioè da dove viene, prima di arrivare nel vasetto." },
-        { "who": "E", "text": "Ciao Frate Adamo! Dai fiori, no?" },
+        { "who": "E", "text": "Ciao Giuliano! Dai fiori, no?" },
         { "who": "M", "text": "In gran parte sì, dal nettare dei fiori. Ma c'è anche un'altra fonte, più sorprendente: la vedremo dopo. Cominciamo dal nettare." },
         { "who": "E", "text": "È il succo dolce che sta dentro i fiori?" },
         { "who": "M", "text": "Esatto. Lo producono piccole ghiandole, i nettari. Il fiore lo offre come premio agli insetti che portano il suo polline." },

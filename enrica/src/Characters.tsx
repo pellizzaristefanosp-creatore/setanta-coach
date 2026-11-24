@@ -1,10 +1,9 @@
-/** Frate Adamo (cappello da apicoltore e barba bianca) ed Enrica, disegnati a mano in SVG. */
+/** Giuliano (cappello da apicoltore e barba bianca) ed Enrica, disegnati a mano in SVG. */
 export function Tonino({ talking }: { talking: boolean }) {
   return (
-    <svg className={`who-svg ${talking ? "talk" : ""}`} viewBox="0 0 120 130" role="img" aria-label="Frate Adamo">
+    <svg className={`who-svg ${talking ? "talk" : ""}`} viewBox="0 0 120 130" role="img" aria-label="Giuliano">
       <ellipse cx="60" cy="126" rx="34" ry="4" fill="rgba(90,67,48,.12)" />
-      <path d="M22 128c2-28 16-40 38-40s36 12 38 40Z" fill="#8a6a4a" stroke="#5a4330" strokeWidth="2" />
-      <path d="M44 92c4 6 10 9 16 9s12-3 16-9" fill="none" stroke="#5a4330" strokeWidth="2" />
+      <path d="M22 128c2-28 16-40 38-40s36 12 38 40Z" fill="#f2ead8" stroke="#8a7058" strokeWidth="2" />
       <path d="M52 92l8 12 8-12" fill="none" stroke="#8a7058" strokeWidth="2" strokeLinecap="round" />
       <circle cx="60" cy="58" r="26" fill="#f6d2b4" />
       <path d="M38 66c4 18 14 24 22 24s18-6 22-24c-6 6-14 7-22 7s-16-1-22-7Z" fill="#fbfaf6" stroke="#d9d0c0" />

@@ -34,7 +34,7 @@
       },
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi entriamo in un posto speciale: il laboratorio, che noi chiamiamo mieleria. È la stanza dove il miele passa dal melario al vasetto." },
-        { "who": "E", "text": "Ciao Frate Adamo! Quindi non si smiela in giardino, sotto il portico?" },
+        { "who": "E", "text": "Ciao Giuliano! Quindi non si smiela in giardino, sotto il portico?" },
         { "who": "M", "text": "Meglio di no. Fuori arrivano le api, la polvere, gli insetti. Serve una stanza chiusa, con pareti e pavimento lisci, che si lavano bene." },
         { "who": "E", "text": "Un po' come una cucina, allora." },
         { "who": "M", "text": "Proprio così. E come in cucina c'è un ordine: da una parte entrano i melari pieni, poi si disopercola, cioè si toglie il tappo di cera alle cellette." },

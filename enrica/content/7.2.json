@@ -34,7 +34,7 @@
       },
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi parliamo del vestito del vasetto: l'etichetta. Se un giorno venderai il miele, deve essere fatta bene." },
-        { "who": "E", "text": "Ciao Frate Adamo! Io pensavo bastasse scrivere «Miele di Enrica» con un bel disegno." },
+        { "who": "E", "text": "Ciao Giuliano! Io pensavo bastasse scrivere «Miele di Enrica» con un bel disegno." },
         { "who": "M", "text": "Il disegno va benissimo, ma prima ci sono le voci obbligatorie. La prima è la denominazione, cioè il nome del prodotto: semplicemente «miele»." },
         { "who": "E", "text": "Poi immagino il peso." },
         { "who": "M", "text": "Sì, la quantità netta. Secondo te, il peso comprende anche il vasetto?" },

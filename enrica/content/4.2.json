@@ -33,7 +33,7 @@
       },
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi parliamo di cucina, ma per le api: la nutrizione. Cioè come aiutare le famiglie quando in natura il cibo manca." },
-        { "who": "E", "text": "Ciao Frate Adamo! Quindi si cucina per le api? Cosa si prepara?" },
+        { "who": "E", "text": "Ciao Giuliano! Quindi si cucina per le api? Cosa si prepara?" },
         { "who": "M", "text": "Il piatto più semplice è lo sciroppo: zucchero bianco sciolto in acqua. Ma la ricetta cambia secondo lo scopo." },
         { "who": "E", "text": "In che senso? Lo zucchero è sempre zucchero." },
         { "who": "M", "text": "Se metti un chilo di zucchero e un chilo d'acqua, fai lo sciroppo uno a uno. È leggero, simile al nettare. La regina lo sente arrivare e depone di più." },

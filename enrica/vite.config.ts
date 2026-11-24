@@ -12,7 +12,7 @@ export default defineConfig({
       manifest: {
         name: "L'Alveare di Enrica",
         short_name: "Alveare",
-        description: "Due minuti al giorno per studiare apicoltura con il Frate Adamo.",
+        description: "Due minuti al giorno per studiare apicoltura con il Giuliano.",
         lang: "it",
         start_url: "/",
         display: "standalone",

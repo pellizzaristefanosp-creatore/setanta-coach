@@ -90,7 +90,6 @@ export function Settings() {
         <button className="btn block" onClick={() => backupInput.current?.click()}>Importa backup</button>
         <button className="btn danger block" onClick={() => confirm("Cancellare tutto e ripartire dall'inizio del libro?") && resetAll()}>Ricomincia da zero</button>
       </section>
-      <p className="tiny center">Frate Adamo è un personaggio ispirato a Brother Adam (1898–1996), il monaco apicoltore dell'abbazia di Buckfast. I dialoghi li abbiamo scritti noi: non sono parole sue.</p>
       <p className="tiny center">L'Alveare di Enrica · versione 1</p>
     </div>
   );
