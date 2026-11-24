@@ -33,7 +33,7 @@
       },
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi parliamo di viaggi. Non i nostri: quelli delle api. Si chiama nomadismo, o transumanza." },
-        { "who": "E", "text": "Ciao Tonino! Transumanza come i pastori con le pecore?" },
+        { "who": "E", "text": "Ciao Frate Adamo! Transumanza come i pastori con le pecore?" },
         { "who": "M", "text": "Proprio così. Il pastore porta il gregge dove c'è erba. L'apicoltore nomadista porta le arnie dove ci sono fiori." },
         { "who": "E", "text": "E perché? Le api non volano già da sole fino ai fiori?" },
         { "who": "M", "text": "Volano, ma non lontanissimo: di solito restano entro qualche chilometro. Se intorno all'apiario la fioritura è finita, restano senza lavoro." },

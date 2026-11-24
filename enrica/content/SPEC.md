@@ -46,7 +46,7 @@ apicoltura e con la ricerca scientifica.
       "science": { "text": "25–60 parole", "source": "Seeley 2010, Honeybee Democracy (Princeton University Press)", "url": "https://…" },
       "check": { "question": "…", "options": ["…", "…", "…", "…"], "answer": 2, "explanation": "max 25 parole" },
       "dialogue": [
-        { "who": "M", "text": "Battuta del maestro Tonino." },
+        { "who": "M", "text": "Battuta del Frate Adamo." },
         { "who": "E", "text": "Battuta di Enrica." }
       ]
     }
@@ -65,11 +65,11 @@ apicoltura e con la ricerca scientifica.
 
 ### Parti
 - Una parte per ogni paragrafo (o due paragrafi piccoli insieme) dell'indice del capitolo: **4–7 parti**.
-- `dialogue`: la lezione vera. Il **maestro Tonino** (`"M"`, apicoltore anziano, paziente, simpatico) spiega; **Enrica**
+- `dialogue`: la lezione vera. Il **Frate Adamo** (`"M"`, apicoltore anziano, paziente, simpatico) spiega; **Enrica**
   (`"E"`) fa domande da principiante, ripete con parole sue, a volte risponde. **10–16 battute, 200–300 parole in tutto**
   (circa 2 minuti di ascolto). Battute brevi (max 40 parole), parlate, naturali. Niente indicazioni di scena tra parentesi.
   La prima battuta della prima parte saluta Enrica e dice di cosa parla il capitolo.
-- Almeno una volta per parte Tonino fa a Enrica una **domanda** ("Secondo te, perché…?") e la battuta subito dopo è la
+- Almeno una volta per parte Frate Adamo fa a Enrica una **domanda** ("Secondo te, perché…?") e la battuta subito dopo è la
   risposta giusta di Enrica (o Enrica che ci arriva). Quella è la base dei `turns`.
 
 ### Domande senza trucchi (tutte: check, questions, turns)
@@ -82,7 +82,7 @@ apicoltura e con la ricerca scientifica.
 ### Quantità per lezione
 - flashcards ≥ 8 (almeno 1 per parte), questions 10–14, exercises 2–3 (casi pratici "cosa fai se…"),
   games: order 1–3, who 4–6, truefalse 10–14; turns: 1 per parte, `line` = indice (da 0) nel `dialogue` di quella parte di
-  una battuta di Tonino che è una domanda, seguita da una battuta di Enrica.
+  una battuta di Frate Adamo che è una domanda, seguita da una battuta di Enrica.
 
 ## Controllo
 

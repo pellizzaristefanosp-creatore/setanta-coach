@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { Enrica, Tonino } from "../Characters";
+import { Enrica, Tonino as Adamo } from "../Characters";
 import { Seal } from "../beeFx";
 import { dialogueFor, pickTurnLine, WHO, type DLine } from "../lib/dialogue";
 import type { LessonPack } from "../lib/lesson";
@@ -27,7 +27,7 @@ function useAfter(active: boolean, ms: number, fn: () => void) {
 }
 
 /**
- * La lezione come una chiacchierata: il maestro Tonino spiega, Enrica chiede. Due voci del telefono (gratis, anche
+ * La lezione come una chiacchierata: Frate Adamo spiega, Enrica chiede. Due voci del telefono (gratis, anche
  * senza rete), le battute compaiono come in una chat e la parola detta si accende. Si ricorda la battuta a cui eri:
  * se chiudi l'app, rientrando riparti da lì. Finito l'ascolto si va avanti da soli.
  */
@@ -50,7 +50,7 @@ export function DialogueSession({ p, lesson, index, onDone }: { p: Presentation;
   const rate = RATES.includes(s.settings.voiceRate) ? s.settings.voiceRate : 1;
   const doneCount = p.steps.filter((x) => x.done).length;
 
-  // "Tocca a te": a volte, dopo una domanda di Tonino, la voce si ferma e rispondi tu
+  // "Tocca a te": a volte, dopo una domanda di Frate Adamo, la voce si ferma e rispondi tu
   const [turn] = useState<Turn | null>(() => (replay ? null : pickTurnLine(turnsFor(lesson.code, index), lines, Math.random())));
   const [turnState, setTurnState] = useState<"attesa" | "domanda" | "fatto">(() => (turn && saved > turn.line ? "fatto" : "attesa"));
   const turnRef = useRef(turnState);
@@ -167,7 +167,7 @@ export function DialogueSession({ p, lesson, index, onDone }: { p: Presentation;
       <Progress value={doneCount} max={p.steps.length} size="big" />
 
       <div className="duo" aria-hidden="true">
-        <div className={`duo-who ${talking === "M" ? "on" : ""}`}><Tonino talking={talking === "M"} /><span>Tonino</span></div>
+        <div className={`duo-who ${talking === "M" ? "on" : ""}`}><Adamo talking={talking === "M"} /><span>Frate Adamo</span></div>
         <div className="duo-title">
           <p className="step-title">{part.title}</p>
         </div>
@@ -216,7 +216,7 @@ export function DialogueSession({ p, lesson, index, onDone }: { p: Presentation;
       </div>
 
       {(ended || showSci) && part.tip && (
-        <div className="card tip-card pop"><span className="listen-label">🐝 Il consiglio di Tonino</span><p className="small">{part.tip}</p></div>
+        <div className="card tip-card pop"><span className="listen-label">🐝 Il consiglio di Frate Adamo</span><p className="small">{part.tip}</p></div>
       )}
       {part.science && (ended || showSci ? (
         <div className="card science-card pop">
@@ -279,7 +279,7 @@ function TurnSheet({ code, turn, rate, voices, onDone }: { code: string; turn: T
   return (
     <Sheet label="Tocca a te" onClose={finish}>
       <span className="tag">🎯 Tocca a te</span>
-      <p className="tiny">Tonino ti chiede:</p>
+      <p className="tiny">Frate Adamo ti chiede:</p>
       <h2 className="step-title" style={{ fontSize: 21 }}>{turn.question}</h2>
       <div className="stack" style={{ gap: 8 }}>
         {turn.options.map((o, k) => {
@@ -307,7 +307,7 @@ function TurnSheet({ code, turn, rate, voices, onDone }: { code: string; turn: T
       {chosen != null && (
         <div className="card soft stack fade-in" style={{ gap: 8 }}>
           <p style={{ fontWeight: 750, color: right ? "var(--field)" : "var(--alarm)" }}>
-            <span className="turn-who">Tonino</span> {TONINO_SAYS[right ? "giusto" : "sbagliato"][say]}
+            <span className="turn-who">Frate Adamo</span> {TONINO_SAYS[right ? "giusto" : "sbagliato"][say]}
           </p>
           <p className="small muted">{turn.why}</p>
           <button className="btn primary block" onClick={finish}><Icon.play /> Senti cosa risponde Enrica</button>

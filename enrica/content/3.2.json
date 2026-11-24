@@ -33,7 +33,7 @@
       },
       "dialogue": [
         { "who": "M", "text": "Ciao Enrica! Oggi parliamo della sciamatura, uno dei momenti più belli e più temuti dell'apicoltura." },
-        { "who": "E", "text": "Ciao Tonino! È quando le api scappano tutte insieme, vero?" },
+        { "who": "E", "text": "Ciao Frate Adamo! È quando le api scappano tutte insieme, vero?" },
         { "who": "M", "text": "Non scappano. È il modo in cui la famiglia si riproduce: la regina vecchia parte con una parte delle api e cerca una casa nuova." },
         { "who": "E", "text": "E quelle che restano?" },
         { "who": "M", "text": "Restano con la covata e con alcune celle reali, cioè celle grandi dove crescono nuove regine. Così da una famiglia ne nascono due." },

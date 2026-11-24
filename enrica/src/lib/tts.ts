@@ -106,7 +106,7 @@ export function unlockSpeech() {
   }
 }
 
-/* ——— Due voci per il dialogo: il maestro Tonino (voce maschile) ed Enrica (voce femminile) ——— */
+/* ——— Due voci per il dialogo: il Frate Adamo (voce maschile) ed Enrica (voce femminile) ——— */
 
 const MALE = /luca|cosimo|diego|riccardo|giorgio|alessandro|paolo|marco|andrea|roberto|giuseppe|male|uomo|itc|itd|-x-itd|-x-itc/i;
 const FEMALE = /alice|federica|emma|paola|elsa|isabella|chiara|carla|silvia|bianca|female|donna|kda|itb|-x-kda|-x-itb/i;
