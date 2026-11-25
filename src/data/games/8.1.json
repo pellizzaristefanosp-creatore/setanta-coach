@@ -1,0 +1,237 @@
+{
+  "code": "8.1",
+  "order": [
+    {
+      "title": "Le fasi della girata nella checklist NSCA",
+      "steps": [
+        "Posizione di partenza",
+        "Prima tirata",
+        "Transizione",
+        "Seconda tirata",
+        "Ricezione",
+        "Movimento discendente e reset"
+      ],
+      "slide": 1
+    },
+    {
+      "title": "Dentro la seconda tirata, in ordine",
+      "steps": [
+        "Tripla estensione di anche, ginocchia e caviglie",
+        "Scrollata delle spalle con gomiti tesi",
+        "Gomiti che si piegano a spalle alte",
+        "Gomiti in alto e in fuori",
+        "Rotazione delle braccia sotto la sbarra"
+      ],
+      "slide": 5
+    },
+    {
+      "title": "La progressione correttiva dall'alto",
+      "steps": [
+        "Front squat e posizione di rack",
+        "Hang power clean da sopra il ginocchio",
+        "Hang power clean da sotto il ginocchio",
+        "Clean pull da terra",
+        "Power clean da terra"
+      ],
+      "slide": 9
+    }
+  ],
+  "who": [
+    {
+      "clues": [
+        "Mi trovi tra la prima e la seconda tirata.",
+        "Con me le ginocchia tornano sotto il bilanciere.",
+        "In inglese mi chiamano anche scoop."
+      ],
+      "answer": "Transizione",
+      "distractors": [
+        "Ricezione",
+        "Prima tirata",
+        "Partenza"
+      ],
+      "slide": 4
+    },
+    {
+      "clues": [
+        "Con me la girata diventa davvero esplosiva.",
+        "Coinvolgo anche, ginocchia e caviglie insieme.",
+        "Se mi fermi a metà, il criterio 14 vale 0."
+      ],
+      "answer": "Tripla estensione",
+      "distractors": [
+        "Doppia flessione",
+        "Scrollata di spalle",
+        "Flessione plantare"
+      ],
+      "slide": 5
+    },
+    {
+      "clues": [
+        "Arrivo quando le gambe sono già estese.",
+        "Durante questo gesto i gomiti restano tesi.",
+        "In inglese mi chiamano shrug."
+      ],
+      "answer": "Scrollata di spalle",
+      "distractors": [
+        "Rotazione dei gomiti",
+        "Tripla estensione",
+        "Presa a gancio"
+      ],
+      "slide": 5
+    },
+    {
+      "clues": [
+        "Mi alleni per sistemare la ricezione.",
+        "Con me il bilanciere sta su deltoidi e clavicole.",
+        "Nella girata la ricezione mi assomiglia."
+      ],
+      "answer": "Front squat",
+      "distractors": [
+        "Back squat",
+        "Stacco rumeno",
+        "Overhead squat"
+      ],
+      "slide": 6
+    },
+    {
+      "clues": [
+        "Con me alleni la tirata senza ricevere il bilanciere.",
+        "Mi puoi caricare più della girata.",
+        "Finisco sulle punte con una scrollata."
+      ],
+      "answer": "Clean pull",
+      "distractors": [
+        "High pull",
+        "Muscle clean",
+        "Tall clean"
+      ],
+      "slide": 9
+    },
+    {
+      "clues": [
+        "Con me parti già in piedi, bilanciere sopra il ginocchio.",
+        "Insegno a spingere prima con le gambe.",
+        "Con me inizia la progressione dall'alto."
+      ],
+      "answer": "Hang power clean",
+      "distractors": [
+        "Clean deadlift",
+        "Muscle clean",
+        "Power snatch"
+      ],
+      "slide": 9
+    },
+    {
+      "clues": [
+        "Mi guardi a 3 centimetri dagli stinchi.",
+        "Mi trovi sopra il centro dei piedi in partenza.",
+        "Nella prima tirata devo sfiorare le gambe."
+      ],
+      "answer": "Bilanciere",
+      "distractors": [
+        "Ginocchio",
+        "Gomito",
+        "Tallone"
+      ],
+      "slide": 2
+    }
+  ],
+  "truefalse": [
+    {
+      "text": "Nel power clean il bilanciere si riceve in squat completo.",
+      "true": false,
+      "why": "Si riceve in circa un quarto di squat (criterio 23).",
+      "slide": 1
+    },
+    {
+      "text": "La checklist ha 30 criteri da segnare con 1 o 0.",
+      "true": true,
+      "why": "1 se l'atleta soddisfa il criterio, 0 se non lo soddisfa.",
+      "slide": 1
+    },
+    {
+      "text": "In partenza le anche sono più alte delle spalle.",
+      "true": false,
+      "why": "Criterio 2: le anche stanno più basse delle spalle.",
+      "slide": 2
+    },
+    {
+      "text": "In partenza il bilanciere sta circa 3 centimetri davanti agli stinchi.",
+      "true": true,
+      "why": "Criterio 4: circa un pollice davanti agli stinchi, sopra i piedi.",
+      "slide": 2
+    },
+    {
+      "text": "Un busto più inclinato in partenza è sempre un errore.",
+      "true": false,
+      "why": "Criterio 6: gli angoli dipendono da segmenti e mobilità dell'atleta.",
+      "slide": 2
+    },
+    {
+      "text": "Nella prima tirata le anche possono salire prima delle spalle.",
+      "true": false,
+      "why": "Criterio 7: l'angolo del busto resta costante, anche e spalle salgono insieme.",
+      "slide": 3
+    },
+    {
+      "text": "Nella prima tirata i gomiti restano completamente estesi.",
+      "true": true,
+      "why": "Criterio 8: le braccia tengono il bilanciere, non tirano.",
+      "slide": 3
+    },
+    {
+      "text": "Nella transizione i talloni si alzano per andare sulle punte.",
+      "true": false,
+      "why": "Criterio 11: peso verso il centro dei piedi, talloni a terra.",
+      "slide": 4
+    },
+    {
+      "text": "La seconda tirata parte con il bilanciere tra ginocchia e metà coscia.",
+      "true": true,
+      "why": "Criterio 14: da lì parte la tripla estensione rapida.",
+      "slide": 5
+    },
+    {
+      "text": "I gomiti si piegano prima della scrollata delle spalle.",
+      "true": false,
+      "why": "Prima la scrollata a gomiti tesi, poi i gomiti si piegano (criteri 17–19).",
+      "slide": 5
+    },
+    {
+      "text": "Nella ricezione le braccia sono parallele al pavimento.",
+      "true": true,
+      "why": "Criterio 25: gomiti completamente flessi e braccia parallele.",
+      "slide": 6
+    },
+    {
+      "text": "Nella ricezione i piedi atterrano molto più larghi della partenza.",
+      "true": false,
+      "why": "Criterio 24: solo leggermente più larghi.",
+      "slide": 6
+    },
+    {
+      "text": "Nella discesa anche e ginocchia si piegano allo stesso ritmo.",
+      "true": true,
+      "why": "Criterio 29: così il busto resta eretto e il bilanciere scende controllato.",
+      "slide": 7
+    },
+    {
+      "text": "I gomiti bassi in ricezione possono dipendere da poca mobilità dei polsi.",
+      "true": true,
+      "why": "La posizione di rack chiede mobilità di polsi, dorsali e colonna toracica.",
+      "slide": 8
+    },
+    {
+      "text": "Per la potenza la NSCA consiglia recuperi brevi di 30 secondi.",
+      "true": false,
+      "why": "Per la potenza servono recuperi lunghi, di 2–5 minuti.",
+      "slide": 9
+    },
+    {
+      "text": "Nella progressione dall'alto si parte con il bilanciere sopra il ginocchio.",
+      "true": true,
+      "why": "Prima hang sopra il ginocchio, poi sotto, poi da terra.",
+      "slide": 9
+    }
+  ]
+}

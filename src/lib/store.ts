@@ -22,6 +22,9 @@ function load(): State {
         const merged: State = { ...seedState(), ...parsed, settings: { ...seedState().settings, ...parsed.settings } };
         // Le presentazioni già fatte prima dell'app avevano una data finta: non contano per sfide e premi.
         merged.presentations.forEach((p) => p.doneAt === "2026-11-17" && (p.doneAt = "2026-10-31"));
+        // Unità aggiunte in una versione nuova (es. 13 · Esame pratico): entrano anche nei dati già salvati.
+        for (const u of seedState().units) if (!merged.units.some((x) => x.n === u.n)) merged.units.push({ ...u });
+        merged.units.sort((a, b) => a.n - b.n);
         syncLessons(merged);
         // Chi aveva già iniziato una lezione prima di questa versione: riparte dall'ultima lasciata a metà.
         if (!merged.lastPresentationId) {

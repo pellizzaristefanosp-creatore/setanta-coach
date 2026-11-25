@@ -1,0 +1,218 @@
+{
+  "code": "13.1",
+  "order": [
+    {
+      "title": "Il piano fino alla consegna",
+      "steps": [
+        "28/11: guardi il video",
+        "2/12: compili la checklist",
+        "6/12: scegli le 4 aree",
+        "12/12: scrivi i correttivi",
+        "19/12: revisione, fonti e dichiarazione IA",
+        "23/12: esporti e carichi"
+      ],
+      "slide": 8
+    },
+    {
+      "title": "Come guardi il video, fase dopo fase",
+      "steps": [
+        "Posizione di partenza, criteri 1–6",
+        "Prima tirata, criteri 7–9",
+        "Transizione, criteri 10–13",
+        "Seconda tirata, criteri 14–21",
+        "Ricezione, criteri 22–27",
+        "Discesa e reset, criteri 28–30"
+      ],
+      "slide": 3
+    },
+    {
+      "title": "Dal Mac a Turnitin",
+      "steps": [
+        "Apri il modello Word in Pages",
+        "Compili matricola, data e dichiarazione IA",
+        "File, poi Esporta come, poi Word",
+        "Controlli tabelle e numeri",
+        "Carichi il file su Turnitin"
+      ],
+      "slide": 2
+    }
+  ],
+  "who": [
+    {
+      "clues": [
+        "Valgo più della metà del voto.",
+        "Ho 30 righe da segnare con 1 o 0.",
+        "Mi compili guardando il video fase per fase."
+      ],
+      "answer": "Checklist",
+      "distractors": [
+        "Bibliografia",
+        "Dichiarazione",
+        "Frontespizio"
+      ],
+      "slide": 4
+    },
+    {
+      "clues": [
+        "Mi trovi nel modello Word di Setanta.",
+        "Dico se e quanto hai usato certi strumenti.",
+        "Riguardo l'intelligenza artificiale."
+      ],
+      "answer": "Dichiarazione IA",
+      "distractors": [
+        "Indice dei criteri",
+        "Bibliografia NSCA",
+        "Tabella dei voti"
+      ],
+      "slide": 7
+    },
+    {
+      "clues": [
+        "Apro il 14 dicembre.",
+        "Confronto il tuo testo con tanti documenti.",
+        "Mi usi per caricare l'elaborato."
+      ],
+      "answer": "Turnitin",
+      "distractors": [
+        "Moodle",
+        "PubMed",
+        "Pages"
+      ],
+      "slide": 2
+    },
+    {
+      "clues": [
+        "Mi scrivi dopo ogni area da migliorare.",
+        "Includo serie, ripetizioni, carico e recupero.",
+        "In palestra mi accompagnano le istruzioni tecniche."
+      ],
+      "answer": "Strategia correttiva",
+      "distractors": [
+        "Area di miglioramento",
+        "Criterio della checklist",
+        "Motivazione del voto"
+      ],
+      "slide": 6
+    },
+    {
+      "clues": [
+        "Mi usi per vedere i dettagli di un gesto rapido.",
+        "Con me un secondo dura quattro volte di più.",
+        "Mi imposti a 0,25."
+      ],
+      "answer": "Rallentatore",
+      "distractors": [
+        "Schermo intero",
+        "Vista frontale",
+        "Vista laterale"
+      ],
+      "slide": 3
+    },
+    {
+      "clues": [
+        "Faccio parte delle cinque famiglie di cause.",
+        "Riguardo polsi, caviglie, anche e colonna toracica rigidi.",
+        "Se ci sono io, i gomiti in ricezione restano bassi."
+      ],
+      "answer": "Poca mobilità",
+      "distractors": [
+        "Poca coordinazione",
+        "Troppa fatica",
+        "Poca forza"
+      ],
+      "slide": 5
+    }
+  ],
+  "truefalse": [
+    {
+      "text": "La checklist dei 30 criteri vale 60 punti su 100.",
+      "true": true,
+      "why": "2 punti per ogni criterio giudicato correttamente.",
+      "slide": 1
+    },
+    {
+      "text": "Per superare l'esame pratico serve almeno il 60%.",
+      "true": false,
+      "why": "La soglia minima è il 40%; dal 70% è Eccellente.",
+      "slide": 1
+    },
+    {
+      "text": "Nel modello Word vanno matricola, data e dichiarazione sull'IA.",
+      "true": true,
+      "why": "Sono gli elementi da compilare oltre alle risposte.",
+      "slide": 2
+    },
+    {
+      "text": "La scadenza su Turnitin è il 27 dicembre 2026 alle 23:59.",
+      "true": true,
+      "why": "Il caricamento apre il 14 dicembre; il tuo obiettivo è il 23.",
+      "slide": 2
+    },
+    {
+      "text": "Le circostanze eccezionali si possono comunicare anche dopo la scadenza.",
+      "true": false,
+      "why": "Vanno comunicate al responsabile del modulo prima della scadenza.",
+      "slide": 2
+    },
+    {
+      "text": "Conviene guardare tutte le fasi insieme a velocità normale.",
+      "true": false,
+      "why": "Meglio a 0,25 e una fase per ogni visione.",
+      "slide": 3
+    },
+    {
+      "text": "La vista laterale mostra bene la distanza del bilanciere dagli stinchi.",
+      "true": true,
+      "why": "Di lato vedi la traiettoria del bilanciere e l'angolo del busto.",
+      "slide": 3
+    },
+    {
+      "text": "Nella checklist puoi dare mezzo punto a un criterio quasi rispettato.",
+      "true": false,
+      "why": "Solo 1 o 0: se manca un dettaglio, il criterio vale 0.",
+      "slide": 4
+    },
+    {
+      "text": "Accanto a ogni voto conviene scrivere una motivazione breve.",
+      "true": true,
+      "why": "Ti obbliga a guardare bene e mostra il ragionamento al correttore.",
+      "slide": 4
+    },
+    {
+      "text": "Le 4 aree si scelgono tra i criteri segnati 0.",
+      "true": true,
+      "why": "Si parte dagli errori, mettendo prima sicurezza e poi prestazione.",
+      "slide": 5
+    },
+    {
+      "text": "Per le cause dell'errore è meglio usare parole sicure, senza dubbi.",
+      "true": false,
+      "why": "Hai visto solo un video: usa parole prudenti come può dipendere da.",
+      "slide": 5
+    },
+    {
+      "text": "Una strategia correttiva senza serie, ripetizioni e recuperi resta nelle fasce basse.",
+      "true": true,
+      "why": "Il massimo chiede variabili acute e suggerimenti tecnici.",
+      "slide": 6
+    },
+    {
+      "text": "Se usi l'IA solo per capire le istruzioni non serve dichiararla.",
+      "true": false,
+      "why": "Ogni uso va dichiarato nel modello, dicendo in che misura.",
+      "slide": 7
+    },
+    {
+      "text": "Prima di citare uno studio conviene controllarlo su PubMed.",
+      "true": true,
+      "why": "Una citazione sbagliata fa peggio di nessuna citazione.",
+      "slide": 7
+    },
+    {
+      "text": "Il tuo obiettivo di consegna è il 23 dicembre.",
+      "true": true,
+      "why": "Così hai quattro giorni di margine prima della scadenza del 27.",
+      "slide": 8
+    }
+  ]
+}

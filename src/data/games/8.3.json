@@ -1,0 +1,126 @@
+{
+  "code": "8.3",
+  "order": [
+    {
+      "title": "Recupero dello split jerk",
+      "steps": [
+        "Ricevi in forbice a braccia bloccate",
+        "Il piede davanti arretra di un terzo",
+        "Il piede dietro avanza fino ad allinearsi",
+        "In piedi, piedi paralleli, fermo due secondi"
+      ],
+      "slide": 3
+    },
+    {
+      "title": "Progressione verso lo split jerk",
+      "steps": [
+        "Lento in piedi",
+        "Push press",
+        "Push jerk o power jerk",
+        "Tenute e salti in split con il bastone",
+        "Split jerk"
+      ],
+      "slide": 8
+    },
+    {
+      "title": "Le fasi dello slancio completo",
+      "steps": [
+        "Girata da terra alle spalle",
+        "Ti rialzi in piedi",
+        "Sistemi la presa, respiri e blocchi il tronco",
+        "Dip corto e drive esplosivo",
+        "Ricevi in split a braccia bloccate"
+      ],
+      "slide": 7
+    }
+  ],
+  "who": [
+    {
+      "clues": [
+        "Sono la variante classica dei pesisti in gara.",
+        "Con me torni in piedi muovendo prima il piede davanti.",
+        "Mi ricevi con le gambe a forbice, un piede avanti e uno dietro."
+      ],
+      "answer": "Split jerk",
+      "distractors": ["Power jerk", "Squat jerk", "Push press"],
+      "slide": 2
+    },
+    {
+      "clues": [
+        "Sono semplice da imparare e molto usato nella preparazione atletica.",
+        "Con carichi molto alti offro una base meno stabile della forbice.",
+        "I piedi saltano di lato e ricevi in un quarto di squat."
+      ],
+      "answer": "Power jerk",
+      "distractors": ["Split jerk", "Squat jerk", "Push press"],
+      "slide": 4
+    },
+    {
+      "clues": [
+        "Mi usano pochi pesisti d'élite.",
+        "Chiedo una mobilità enorme di caviglie, anche, torace e spalle.",
+        "Con me ricevi il bilanciere sopra la testa in squat profondo."
+      ],
+      "answer": "Squat jerk",
+      "distractors": ["Split jerk", "Power jerk", "Jerk drive"],
+      "slide": 4
+    },
+    {
+      "clues": [
+        "Ti aiuto a insegnare il tempismo della ricezione.",
+        "Chiedo molta rotazione esterna delle spalle.",
+        "Con me il bilanciere parte dai trapezi e il viso non è sulla strada."
+      ],
+      "answer": "Spinta dietro la nuca",
+      "distractors": ["Spinta in split", "Spinta in squat", "Tenuta in alto"],
+      "slide": 5
+    },
+    {
+      "clues": [
+        "Mi carichi spesso più del massimale dello slancio.",
+        "Insegno a non crollare in avanti nel piegamento.",
+        "Con me fai solo il dip e risali, senza drive."
+      ],
+      "answer": "Jerk dip squat",
+      "distractors": ["Jerk drive", "Push press", "Power jerk"],
+      "slide": 6
+    },
+    {
+      "clues": [
+        "Alleno la spinta verticale delle gambe con carichi alti.",
+        "Con me il bilanciere si stacca appena dalle spalle.",
+        "Fai dip e tripla estensione, ma non ricevi sopra la testa."
+      ],
+      "answer": "Jerk drive",
+      "distractors": ["Jerk dip squat", "Push press", "Power jerk"],
+      "slide": 6
+    },
+    {
+      "clues": [
+        "Sono una delle due alzate di gara del weightlifting.",
+        "Con atleti poco esperti mi puoi allenare in due pezzi separati.",
+        "Unisco una girata da terra e una spinta sopra la testa."
+      ],
+      "answer": "Clean and jerk",
+      "distractors": ["Power clean", "Hang power clean", "Push jerk"],
+      "slide": 7
+    }
+  ],
+  "truefalse": [
+    { "text": "Tutte le varianti dello slancio hanno in comune dip corto e drive esplosivo.", "true": true, "why": "Cambia soprattutto la ricezione: cosa fanno i piedi e quanto scendi.", "slide": 1 },
+    { "text": "Le definizioni di push jerk e power jerk sono uguali per tutti gli allenatori.", "true": false, "why": "Variano tra allenatori: conta capire come l'atleta riceve il bilanciere.", "slide": 1 },
+    { "text": "Nello split jerk i piedi devono atterrare su una sola linea.", "true": false, "why": "Restano larghi circa quanto le anche, come su due binari.", "slide": 2 },
+    { "text": "Nello split jerk il piede dietro sta sull'avampiede con il tallone alzato.", "true": true, "why": "Il ginocchio dietro resta leggermente piegato, mai bloccato.", "slide": 2 },
+    { "text": "Nel recupero dello split si muove prima il piede dietro.", "true": false, "why": "Prima arretra il piede davanti, poi avanza quello dietro.", "slide": 3 },
+    { "text": "Disegnare le impronte con il gesso aiuta a correggere i piedi nello split.", "true": true, "why": "L'atleta vede dove deve atterrare con ogni piede.", "slide": 3 },
+    { "text": "Nel power jerk si riceve il bilanciere in un quarto di squat.", "true": true, "why": "I piedi saltano di lato e le braccia si bloccano in un quarto di squat.", "slide": 4 },
+    { "text": "Lo squat jerk è la variante più adatta ai calciatori.", "true": false, "why": "Richiede mobilità ed equilibrio enormi: è una variante da specialisti.", "slide": 4 },
+    { "text": "Nella spinta dietro la nuca non serve togliere la testa.", "true": true, "why": "Il bilanciere parte dietro e sale dritto senza incontrare il viso.", "slide": 5 },
+    { "text": "La spinta dietro la nuca è consigliata a chi ha dolore alla spalla.", "true": false, "why": "Chiede molta rotazione esterna: con spalle dolenti è meglio evitarla.", "slide": 5 },
+    { "text": "Il jerk dip squat si può fare con carichi sopra il massimale dello slancio.", "true": true, "why": "Senza ricezione sopra la testa si possono usare carichi più alti, con poche ripetizioni.", "slide": 6 },
+    { "text": "Nel jerk drive il bilanciere si riceve sempre in split.", "true": false, "why": "Nel jerk drive non c'è ricezione sopra la testa: si riprende in rack.", "slide": 6 },
+    { "text": "Lo split jerk ha una curva di apprendimento più lunga del power jerk.", "true": true, "why": "Servono coordinazione dei piedi, recupero ed equilibrio in forbice.", "slide": 7 },
+    { "text": "Per la potenza si usano serie da 8–10 ripetizioni al 50%.", "true": false, "why": "Per la potenza: 1–3 ripetizioni al 75–90% circa, recupero 2–5 minuti.", "slide": 8 },
+    { "text": "Le varianti dello slancio vanno all'inizio della seduta, da freschi.", "true": true, "why": "Sono esercizi di potenza e tecnica: la fatica rallenta il gesto.", "slide": 8 }
+  ]
+}

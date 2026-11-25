@@ -22,10 +22,10 @@ describe("date", () => {
 });
 
 describe("piano", () => {
-  it("la coda parte dalla 4.5 e mette segnaposti per le unità 8–12", () => {
+  it("la coda parte dalla 4.5 e mette segnaposti per le unità 9–12 (la 8 e l'esame pratico hanno le lezioni)", () => {
     const q = queue(state());
     expect(q[0]?.kind === "real" && q[0].presentation.code).toBe("4.5");
-    expect(q.filter((i) => i.kind === "placeholder")).toHaveLength(15);
+    expect(q.filter((i) => i.kind === "placeholder")).toHaveLength(12);
   });
 
   it("mai nel giorno libero, mai prima dell'uscita dell'unità", () => {
@@ -40,7 +40,7 @@ describe("piano", () => {
 
   it("la fine prevista cade dopo l'uscita dell'unità 12 e prima dell'MCQ", () => {
     const sit = situation(state(), TODAY);
-    expect(sit.remaining).toBe(25);
+    expect(sit.remaining).toBe(26); // 25 lezioni del corso + la 13.1 sull'esame pratico
     expect(sit.finish! >= "2026-12-21").toBe(true);
     expect(sit.marginDays!).toBeGreaterThan(0);
   });

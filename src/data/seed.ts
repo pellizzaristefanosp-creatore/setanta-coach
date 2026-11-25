@@ -20,6 +20,7 @@ export const UNITS: Unit[] = [
   { n: 10, title: "Sviluppo della forza", topic: "Forza massimale, eccentrica e isometrica per la prestazione", release: "2026-12-07" },
   { n: 11, title: "Periodizzazione", topic: "Modelli di periodizzazione e applicazioni negli sport di squadra", release: "2026-12-14" },
   { n: 12, title: "Monitorare l'allenamento", topic: "Monitoraggio dell'allenamento, della fatica e delle sue cause", release: "2026-12-21" },
+  { n: 13, title: "Esame pratico", topic: "Power Clean: checklist NSCA, 4 aree di miglioramento e correttivi", release: "2026-11-25" },
 ];
 
 /** Passi di default: una slide = una nota audio di circa 2 minuti. */
@@ -105,6 +106,10 @@ const P_LIST: P[] = [
   },
   { code: "7.2", title: "Lo strappo" },
   { code: "7.3", title: "Le varianti dello strappo" },
+  { code: "8.1", title: "La girata (Power Clean)" },
+  { code: "8.2", title: "La spinta (Push Press e Push Jerk)" },
+  { code: "8.3", title: "Varianti dello slancio" },
+  { code: "13.1", title: "Esame pratico: come si fa" },
 ];
 
 export const DEFAULT_STEPS = 10;

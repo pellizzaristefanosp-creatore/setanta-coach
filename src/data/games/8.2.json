@@ -1,0 +1,128 @@
+{
+  "code": "8.2",
+  "order": [
+    {
+      "title": "Le fasi del push jerk",
+      "steps": [
+        "Bilanciere sulle spalle, respiro e tronco bloccato",
+        "Dip corto e verticale, peso verso i talloni",
+        "Drive: tripla estensione veloce verso l'alto",
+        "Ripieghi le ginocchia e vai sotto",
+        "Ricevi a braccia bloccate, testa dentro",
+        "Ti rialzi e tieni fermo due secondi"
+      ],
+      "slide": 5
+    },
+    {
+      "title": "Progressione verso la spinta",
+      "steps": [
+        "Controllo della mobilità sopra la testa",
+        "Lento in piedi",
+        "Push press",
+        "Push jerk"
+      ],
+      "slide": 8
+    },
+    {
+      "title": "Dal drive al recupero nel push press",
+      "steps": [
+        "Spingi con le gambe in verticale",
+        "Togli la testa per liberare la strada",
+        "Le braccia finiscono la spinta",
+        "Testa dentro, gomiti bloccati",
+        "Riporti giù ammortizzando con le ginocchia"
+      ],
+      "slide": 6
+    }
+  ],
+  "who": [
+    {
+      "clues": [
+        "Sono la fase in cui nascono quasi tutti gli errori.",
+        "Di solito non vado oltre un quarto di squat.",
+        "Sono il piegamento corto e verticale prima della spinta delle gambe."
+      ],
+      "answer": "Il dip",
+      "distractors": ["Il drive", "Il rack", "Il catch"],
+      "slide": 3
+    },
+    {
+      "clues": [
+        "Ti permetto di usare più carico del lento in piedi.",
+        "Con me i piedi restano piatti a terra.",
+        "Dopo la spinta delle gambe, le braccia finiscono il lavoro fino a bloccarsi."
+      ],
+      "answer": "Push press",
+      "distractors": ["Push jerk", "Lento avanti", "Jerk drive"],
+      "slide": 5
+    },
+    {
+      "clues": [
+        "Richiedo più tempismo della variante con le gambe tese.",
+        "Il bilanciere con me sale meno, perché vai tu a prenderlo.",
+        "Ripieghi le ginocchia e ricevi a braccia già bloccate in un quarto di squat."
+      ],
+      "answer": "Push jerk",
+      "distractors": ["Push press", "Squat jerk", "Lento avanti"],
+      "slide": 5
+    },
+    {
+      "clues": [
+        "Nasco da un carico troppo alto o dalla lentezza nell'andare sotto.",
+        "Mi correggi chiedendo di bloccare subito le braccia.",
+        "Ricevi a gomiti piegati e poi finisci di spingere con le braccia."
+      ],
+      "answer": "Press out",
+      "distractors": ["Dip profondo", "Testa fuori", "Dip in avanti"],
+      "slide": 7
+    },
+    {
+      "clues": [
+        "Sono la fase centrale e più aggressiva dell'esercizio.",
+        "Distendo insieme anche, ginocchia e caviglie.",
+        "Lancio il bilanciere in verticale dal fondo del piegamento."
+      ],
+      "answer": "Il drive",
+      "distractors": ["Il dip", "Il rack", "Il recupero"],
+      "slide": 4
+    },
+    {
+      "clues": [
+        "Mi chiedi quando il bilanciere finisce davanti al viso.",
+        "Mi applichi appena il bilanciere ha superato la faccia.",
+        "Con me porti la testa in avanti, tra le braccia."
+      ],
+      "answer": "Testa dentro",
+      "distractors": ["Petto alto", "Blocca subito", "Corto e veloce"],
+      "slide": 6
+    },
+    {
+      "clues": [
+        "Mi controlli prima di caricare qualsiasi spinta.",
+        "Se mi manca, l'atleta inarca la schiena per arrivare in alto.",
+        "Mi verifichi con le braccia tese al muro o un overhead squat col bastone."
+      ],
+      "answer": "Mobilità sopra la testa",
+      "distractors": ["Forza delle gambe", "Velocità del drive", "Presa sul bilanciere"],
+      "slide": 8
+    }
+  ],
+  "truefalse": [
+    { "text": "Nella spinta la maggior parte della forza viene dalle braccia.", "true": false, "why": "La forza nasce dalle gambe; le braccia finiscono o bloccano il movimento.", "slide": 1 },
+    { "text": "La spinta allena la stabilità del corpo con il carico sopra la testa.", "true": true, "why": "Spalle, schiena e addominali lavorano insieme per tenere il bilanciere in alto.", "slide": 1 },
+    { "text": "Nel rack della spinta i gomiti stanno più alti che nello squat frontale.", "true": false, "why": "Stanno più bassi, con avambracci quasi verticali visti da davanti.", "slide": 2 },
+    { "text": "Prima del dip fai un respiro profondo e blocchi il tronco.", "true": true, "why": "Un tronco rigido trasmette la forza delle gambe al bilanciere.", "slide": 2 },
+    { "text": "Il dip di solito non va oltre un quarto di squat.", "true": true, "why": "Serve caricare la molla, non sedersi: un dip profondo rallenta la spinta.", "slide": 3 },
+    { "text": "Nel dip conviene spingere il sedere indietro come in uno stacco.", "true": false, "why": "Il busto resta dritto e le ginocchia vanno avanti, altrimenti il bilanciere esce davanti.", "slide": 3 },
+    { "text": "In fondo al dip si fa una breve pausa prima di spingere.", "true": false, "why": "Si inverte subito per sfruttare il riflesso di stiramento.", "slide": 3 },
+    { "text": "Nel drive anche, ginocchia e caviglie si estendono insieme e velocemente.", "true": true, "why": "È la tripla estensione che lancia il bilanciere verso l'alto.", "slide": 4 },
+    { "text": "Durante il drive il busto si inclina indietro per lasciar passare il bilanciere.", "true": false, "why": "Si muove solo la testa, leggermente indietro; il busto resta verticale.", "slide": 4 },
+    { "text": "Nel push press le gambe restano tese dopo il drive.", "true": true, "why": "Sono le braccia a finire la spinta, con i piedi piatti a terra.", "slide": 5 },
+    { "text": "Nel push jerk si riceve il bilanciere a gomiti piegati.", "true": false, "why": "Si riceve a braccia già bloccate, in un quarto di squat.", "slide": 5 },
+    { "text": "Nell'incastro il bilanciere sta sopra la nuca, in linea con la metà del piede.", "true": true, "why": "Così il bilanciere sta sopra la base e non tira in avanti.", "slide": 6 },
+    { "text": "Il bilanciere pesante si riporta sulle spalle a gambe rigide.", "true": false, "why": "Si piegano un poco le ginocchia per ammortizzare e proteggere schiena e clavicole.", "slide": 6 },
+    { "text": "Il press out si corregge spesso abbassando il carico.", "true": true, "why": "Nasce da carico eccessivo o lentezza nell'andare sotto il bilanciere.", "slide": 7 },
+    { "text": "Per correggere un errore conviene dare tre o quattro cue insieme.", "true": false, "why": "Meglio una correzione alla volta, con un cue semplice.", "slide": 7 },
+    { "text": "La spinta va messa all'inizio della seduta, quando l'atleta è fresco.", "true": true, "why": "È un esercizio di potenza: conta la velocità, che cala con la fatica.", "slide": 8 }
+  ]
+}
