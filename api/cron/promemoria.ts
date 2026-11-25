@@ -1,12 +1,12 @@
 import { del, get, list } from "@vercel/blob";
-import webpush from "web-push";
+import * as webpush from "web-push";
 import { reminderFor, todayInRome, type StudySummary } from "../_lib/reminder.js";
 
 /**
  * GET /api/cron/promemoria?turno=20|22 — lo chiama Vercel la sera (vedi "crons" in vercel.json).
  * Per ogni telefono iscritto: se oggi non ha finito le parti previste, manda la notifica.
  */
-type Rec = { subscription: webpush.PushSubscription; summary: StudySummary };
+type Rec = { subscription: { endpoint: string; keys: { p256dh: string; auth: string } }; summary: StudySummary };
 
 export async function GET(request: Request): Promise<Response> {
   const secret = process.env.CRON_SECRET;
