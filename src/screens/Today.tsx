@@ -306,6 +306,9 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
   const todayDone = Math.min(sch.todayDone, sch.todayTarget);
   const restToday = weekday(now) === s.settings.restDay;
   const note = s.replanNote?.date === now ? s.replanNote : undefined;
+  // da quanti giorni non studi: lo dice in alto, come i promemoria serali
+  const lastStudy = Object.entries(s.log).filter(([, v]) => (v?.steps ?? 0) > 0).map(([d]) => d).sort().at(-1);
+  const away = lastStudy ? daysBetween(lastStudy, now) : 0;
 
   useScrollFx();
   const hour = new Date().getHours();
@@ -338,7 +341,12 @@ function Home({ goTo, onLibrary }: { goTo: (tab: "ripasso" | "situazione", inten
         </div>
       </section>
 
-      {note && (
+      {away >= 2 && sch.todayLeft > 0 && (
+        <div className="replan fade-in" role="status">
+          <b>Ste, sono {away} giorni che non studi.</b> Ho aggiunto le parti rimaste ai prossimi giorni: oggi ne servono {sch.todayLeft} (circa {formatMinutes(minutesOf(sch.todayLeft))}). Meglio non chiudere la giornata senza averle finite 💪
+        </div>
+      )}
+      {note && away < 2 && (
         <div className="replan fade-in" role="status">
           <b>Il piano si è aggiornato.</b> L'ultima volta sono rimaste {note.missed} {note.missed === 1 ? "parte" : "parti"}: le ho spostate nei prossimi giorni.
           {note.to > note.from ? ` Ora bastano ${note.to} parti al giorno (circa ${formatMinutes(minutesOf(note.to))}).` : ` Il minimo resta ${note.to} parti al giorno.`}

@@ -1,4 +1,5 @@
-import { useState, type JSX } from "react";
+import { useEffect, useState, type JSX } from "react";
+import { syncPush } from "./lib/push";
 import { Celebration } from "./Celebration";
 import { dismissToast, useStore, useToasts } from "./lib/store";
 import { Review } from "./screens/Review";
@@ -22,6 +23,16 @@ export default function App() {
   const [intent, setIntent] = useState<Intent | null>(null);
   const [visit, setVisit] = useState(0);
   const inSession = tab === "oggi" && s.timer != null;
+  // promemoria serali: il server sa se oggi hai già studiato (si aggiorna poco dopo ogni cambiamento)
+  useEffect(() => {
+    const id = window.setTimeout(() => void syncPush(), 3000);
+    return () => window.clearTimeout(id);
+  }, [s.log, s.presentations]);
+  useEffect(() => {
+    const on = () => document.visibilityState === "visible" && void syncPush();
+    document.addEventListener("visibilitychange", on);
+    return () => document.removeEventListener("visibilitychange", on);
+  }, []);
 
   const go = (t: Tab, i?: Intent) => {
     setIntent(i ?? null);

@@ -10,6 +10,7 @@ import { exportBackup, importBackup, importLesson, importQuestions, resetAll, se
 import type { Presentation } from "../lib/types";
 import { Box, Icon, saveFile } from "../ui";
 import { StepList } from "./Today";
+import { enablePush, pushPermission } from "../lib/push";
 
 const HOOKS = ["dopo l'allenamento", "dopo cena", "dopo pranzo", "appena sveglio", "in macchina"];
 
@@ -43,6 +44,17 @@ export function Settings() {
     <div className="stack fade-in" style={{ gap: 16 }}>
       <h1 className="page-title">Altro</h1>
       {msg && <div className="okbar" role="status" onClick={() => setMsg(null)}>{msg}</div>}
+
+      <section className="card stack">
+        <h2>Promemoria sul telefono</h2>
+        <p className="small">Alle <b>20</b> e alle <b>22</b> ti arriva una notifica, <b>solo se oggi non hai finito</b> le parti previste. Se sono giorni che non studi, ti dice quanti e quante parti ti ho messo per oggi.</p>
+        {pushPermission() === "granted" ? (
+          <p className="small" style={{ color: "var(--field)", fontWeight: 700 }}>✓ Promemoria attivi su questo telefono.</p>
+        ) : (
+          <button className="btn primary block" onClick={() => void enablePush().then(setMsg)}>Attiva promemoria</button>
+        )}
+        <p className="tiny">Su iPhone funziona solo con l'app aggiunta alla schermata Home (iOS 16.4 o più nuovo). L'orario può variare di qualche minuto.</p>
+      </section>
 
       <SmartSettings />
       <ImportLesson />
