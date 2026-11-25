@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { aiPost, type RecallFeedback } from "../lib/ai";
 import { DialogueSession } from "./DialogueSession";
+import { AskStep } from "../AskStep";
 import { SceneSession } from "./SceneSession";
 import { audioFor } from "../lib/audio";
 import { HoneyCell } from "../BeeBackground";
@@ -20,6 +21,7 @@ import {
   addMinute,
   addMistakeCard,
   cancelStep,
+  clearPendingCheck,
   finishReplay,
   startReplay,
   startStepAt,
@@ -50,7 +52,7 @@ function useAfter(active: boolean, ms: number, fn: () => void) {
   }, [active, ms]);
 }
 
-type Phase = "idle" | "check" | "practice" | "recall" | "again" | "finished" | "final" | "library";
+type Phase = "idle" | "check" | "practice" | "ask" | "recall" | "again" | "finished" | "final" | "library";
 export type Intent = { kind: "cards" } | { kind: "boss"; unit: number } | { kind: "quiz" } | { kind: "exercise"; code: string };
 
 
@@ -70,11 +72,28 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     else nextAfterCheck(after);
   };
 
+  // finita la parte (e la domanda veloce): "Hai qualche domanda per Giuliano?", poi si va avanti
   const nextAfterCheck = (p: Presentation) => {
+    clearPendingCheck();
+    setLast((l) => l ?? { pid: p.id, index: 0 });
+    setPhase("ask");
+  };
+  const continueAfterAsk = (p: Presentation) => {
     const done = p.steps.filter((x) => x.done).length;
     if (done % 3 === 0) setPhase("recall");
     else setPhase(isDone(p) ? "finished" : "again");
   };
+
+  // chiusa l'app durante la domanda veloce: la ritrovi qui
+  useEffect(() => {
+    const st = getState();
+    const pc = st.pendingCheck;
+    if (!pc || st.timer) return;
+    const pp = st.presentations.find((x) => x.id === pc.presentationId);
+    if (!pp) return clearPendingCheck();
+    setLast({ pid: pp.id, index: pc.index });
+    setPhase(lessonFor(st, pp.code)?.parts[pc.index] ? "check" : "ask");
+  }, []);
 
   if (s.timer) {
     const p = s.presentations.find((x) => x.id === s.timer!.presentationId);
@@ -137,6 +156,13 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     );
   }
 
+  if (phase === "ask" && lastP && last) {
+    const lesson = lessonFor(s, lastP.code);
+    const goOn = () => continueAfterAsk(getState().presentations.find((x) => x.id === lastP.id)!);
+    if (lesson?.parts[last.index]) return <AskStep key={`${lastP.id}-${last.index}`} lesson={lesson} part={last.index} teacher="Giuliano" onDone={goOn} />;
+    goOn();
+  }
+
   if (phase === "recall" && lastP) {
     return <RecallStep p={lastP} onNext={() => setPhase(isDone(lastP) ? "finished" : "again")} />;
   }
@@ -183,7 +209,7 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
           if (done) startReplay(pid, stepId);
           else {
             setPhase("idle");
-            startStepAt(pid, stepId);
+            startStepAt(pid, stepId, { peek: pid !== getState().bookmark?.presentationId });
           }
         }}
       />
@@ -818,7 +844,7 @@ function LessonCalendar({ now }: { now: string }) {
           const state = done === all ? "done" : p.id === curId ? "now" : done > 0 ? "half" : "";
           return (
             <button key={p.id} className={`cal-chip ${state}`} aria-pressed={p.id === curId} style={{ ["--img" as string]: `url(/img/u${p.unit}.svg)` }}
-              onClick={() => { unlockAudio(); unlockSpeech(); if (done === all) startReplay(p.id, p.steps[0]!.id); else { setState((d) => void (d.lastPresentationId = p.id)); startStep(p.id); } }}>
+              onClick={() => { unlockAudio(); unlockSpeech(); if (done === all) startReplay(p.id, p.steps[0]!.id); else if (p.id === (s.bookmark?.presentationId ?? curId)) startStep(p.id); else startStepAt(p.id, p.steps.find((x) => !x.done)!.id, { peek: true }); }}>
               <span className="cal-code num">{p.code}</span>
               <span className="cal-title">{lessonFor(s, p.code)?.title}</span>
               <span className="cal-state">{done === all ? "✓ rivedi" : p.id === curId ? "▶ adesso" : done > 0 ? `${done}/${all}` : "da fare"}</span>

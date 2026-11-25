@@ -175,21 +175,54 @@ export function ensurePresentation(code: string, title: string): string {
 
 export function startStep(presentationId: string) {
   const p = state.presentations.find((x) => x.id === presentationId);
-  const step = p?.steps.find((s) => !s.done);
+  const bm = state.bookmark;
+  // dal segnalibro: la stessa parte e lo stesso secondo dove eri rimasto
+  const fromBm = bm && bm.presentationId === presentationId ? p?.steps.find((s) => s.id === bm.stepId && !s.done) : undefined;
+  const step = fromBm ?? p?.steps.find((s) => !s.done);
   if (!p || !step) return;
   const now = Date.now();
+  const posT = fromBm ? bm?.posT : undefined;
+  const pos = fromBm ? bm?.pos : undefined;
   setState((s) => {
-    s.timer = { presentationId, stepId: step.id, startedAt: now, endsAt: now + STEP_MS };
+    s.timer = { presentationId, stepId: step.id, startedAt: now, endsAt: now + STEP_MS, ...(posT ? { posT } : {}), ...(pos ? { pos } : {}) };
     s.lastPresentationId = presentationId;
+    s.bookmark = { presentationId, stepId: step.id, ...(posT ? { posT } : {}), ...(pos ? { pos } : {}) };
   });
 }
 
 /** Fa una parte precisa scelta da "Le tue lezioni" (anche fuori ordine): conta come una parte normale. */
-export function startStepAt(presentationId: string, stepId: string) {
+export function startStepAt(presentationId: string, stepId: string, opts: { peek?: boolean } = {}) {
   const now = Date.now();
   setState((s) => {
-    s.timer = { presentationId, stepId, startedAt: now, endsAt: now + STEP_MS };
+    s.timer = { presentationId, stepId, startedAt: now, endsAt: now + STEP_MS, ...(opts.peek ? { peek: true } : {}) };
+    if (opts.peek) return; // solo un'occhiata: il segnalibro resta dov'era
     s.lastPresentationId = presentationId;
+    s.bookmark = { presentationId, stepId };
+  });
+}
+
+/** "Riparti da qui": la lezione che stai guardando diventa il tuo segnalibro. */
+export function setBookmarkHere() {
+  setState((s) => {
+    const t = s.timer;
+    if (!t) return;
+    delete t.peek;
+    s.lastPresentationId = t.presentationId;
+    s.bookmark = { presentationId: t.presentationId, stepId: t.stepId, ...(t.posT ? { posT: t.posT } : {}) };
+  });
+}
+
+export function clearPendingCheck() {
+  if (!state.pendingCheck) return;
+  setState((s) => {
+    delete s.pendingCheck;
+  });
+}
+
+/** Salva una domanda fatta al prof, con la risposta. */
+export function saveAsked(code: string, part: number, q: string, a: string) {
+  setState((s) => {
+    s.asked = [...(s.asked ?? []), { date: today(), code, part, q, a }].slice(-200);
   });
 }
 
@@ -262,6 +295,13 @@ export function finishStep() {
     }
     const l = s.log[d] ?? { minutes: 0, steps: 0 };
     s.log[d] = { minutes: Math.round((l.minutes + minutes) * 10) / 10, steps: l.steps + 1 };
+    if (p && !t.peek) {
+      const idx = p.steps.findIndex((x) => x.id === t.stepId);
+      const next = p.steps.slice(idx + 1).find((x) => !x.done) ?? p.steps.find((x) => !x.done);
+      if (next) s.bookmark = { presentationId: p.id, stepId: next.id };
+      else delete s.bookmark;
+      s.pendingCheck = { presentationId: p.id, index: idx };
+    }
     s.timer = null;
   });
 }
@@ -466,13 +506,21 @@ export function savePosition(pos: number) {
   if (!state.timer || state.timer.pos === pos) return;
   setState((s) => {
     if (s.timer) s.timer.pos = pos;
+    const tm = s.timer;
+    if (tm && !tm.peek && !tm.replay) s.bookmark = { presentationId: tm.presentationId, stepId: tm.stepId, pos };
   });
 }
 
 /** Ricorda il secondo della puntata in corso. */
+
+/** Ricorda il secondo della puntata in corso (e il segnalibro, se è la tua lezione e non un'occhiata). */
 export function savePositionTime(t: number) {
   if (!state.timer) return;
+  const posT = Math.round(t * 10) / 10;
   setState((s) => {
-    if (s.timer) s.timer.posT = Math.round(t * 10) / 10;
+    const tm = s.timer;
+    if (!tm) return;
+    tm.posT = posT;
+    if (!tm.peek && !tm.replay) s.bookmark = { presentationId: tm.presentationId, stepId: tm.stepId, posT };
   });
 }

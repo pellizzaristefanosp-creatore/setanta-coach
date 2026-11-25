@@ -1,7 +1,7 @@
 import { getState } from "./store";
 
 /** Chiamata alle funzioni intelligenti sul server, con il codice di accesso salvato nell'app. */
-export async function aiPost<T>(path: "/api/paragone" | "/api/richiamo", body: unknown): Promise<{ ok: true; data: T } | { ok: false; error: string }> {
+export async function aiPost<T>(path: "/api/paragone" | "/api/richiamo" | "/api/domanda", body: unknown): Promise<{ ok: true; data: T } | { ok: false; error: string }> {
   const code = getState().settings.appCode?.trim();
   if (!code) return { ok: false, error: "Scrivi il codice di accesso in Altro → Funzioni intelligenti." };
   if (typeof navigator !== "undefined" && navigator.onLine === false) return { ok: false, error: "Serve internet per questa funzione." };

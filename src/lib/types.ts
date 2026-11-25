@@ -86,6 +86,8 @@ export type ActiveTimer = {
   startedAt: number; // ms
   endsAt: number; // ms
   pausedLeft?: number; // ms rimasti, se in pausa
+  peek?: boolean; // lezione aperta solo per dare un'occhiata (dal calendario o dalle lezioni): non sposta il segnalibro
+  posT?: number; // secondo della puntata a cui eri arrivato
   replay?: boolean; // riascolto di una parte già fatta: non si segna di nuovo
   returnTo?: string; // dopo il riascolto si torna a questa parte (tasto "Parte precedente")
 };
@@ -101,6 +103,12 @@ export type State = {
   version: 1;
   /** L'ultima lezione su cui hai lavorato: "Solo 2 minuti" riparte da lì finché non è finita. */
   lastPresentationId?: string;
+  /** Segnalibro: la parte (e il secondo) dove sei arrivato nel tuo percorso. "Solo 2 minuti" riparte esattamente da qui. */
+  bookmark?: { presentationId: string; stepId: string; posT?: number };
+  /** Domanda veloce ancora da fare dopo l'ultima parte (se chiudi l'app, la ritrovi). */
+  pendingCheck?: { presentationId: string; index: number };
+  /** Domande fatte al prof dopo le lezioni, con la risposta. */
+  asked?: { date: string; code: string; part: number; q: string; a: string }[];
   /** Puntate animate già viste (codice lezione): la prima volta partono appena tocchi "2 minuti". */
   seenEpisodes?: string[];
   units: Unit[];

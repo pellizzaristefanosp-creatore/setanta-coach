@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { aiPost, type Paragone, type RecallFeedback } from "../lib/ai";
 import { Cartoon } from "../Cartoon";
+import { AskStep } from "../AskStep";
 import { audioFor, lineAt, type AudioLine, type AudioPart } from "../lib/audio";
 import { pickTurn, turnsFor, type Turn } from "../lib/turns";
 import { lessonVideo } from "../data/lessonVideos";
@@ -18,6 +19,9 @@ import {
   addMinute,
   addMistakeCard,
   cancelStep,
+  clearPendingCheck,
+  savePositionTime,
+  setBookmarkHere,
   finishReplay,
   startReplay,
   startStepAt,
@@ -49,7 +53,7 @@ function useAfter(active: boolean, ms: number, fn: () => void) {
   }, [active, ms]);
 }
 
-type Phase = "idle" | "check" | "practice" | "recall" | "again" | "finished" | "final" | "library";
+type Phase = "idle" | "check" | "practice" | "ask" | "recall" | "again" | "finished" | "final" | "library";
 export type Intent = { kind: "cards" } | { kind: "boss"; unit: number } | { kind: "quiz" } | { kind: "exercise"; code: string };
 
 const COURSE_URL = "https://online.setantacollege.com/my/";
@@ -70,11 +74,28 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     else nextAfterCheck(after);
   };
 
+  // finita la parte (e le domande veloci): "Hai qualche domanda per il Prof?", poi si va avanti
   const nextAfterCheck = (p: Presentation) => {
+    clearPendingCheck();
+    setLast((l) => l ?? { pid: p.id, index: 0 });
+    setPhase("ask");
+  };
+  const continueAfterAsk = (p: Presentation) => {
     const done = p.steps.filter((x) => x.done).length;
     if (done % 3 === 0) setPhase("recall");
     else setPhase(isDone(p) ? "finished" : "again");
   };
+
+  // chiusa l'app durante la domanda veloce: la ritrovi qui
+  useEffect(() => {
+    const st = getState();
+    const pc = st.pendingCheck;
+    if (!pc || st.timer) return;
+    const pp = st.presentations.find((x) => x.id === pc.presentationId);
+    if (!pp) return clearPendingCheck();
+    setLast({ pid: pp.id, index: pc.index });
+    setPhase(lessonFor(st, pp.code)?.parts[pc.index] ? "check" : "ask");
+  }, []);
 
   if (s.timer) {
     const p = s.presentations.find((x) => x.id === s.timer!.presentationId);
@@ -137,6 +158,13 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
     );
   }
 
+  if (phase === "ask" && lastP && last) {
+    const lesson = lessonFor(s, lastP.code);
+    const goOn = () => continueAfterAsk(getState().presentations.find((x) => x.id === lastP.id)!);
+    if (lesson?.parts[last.index]) return <AskStep key={`${lastP.id}-${last.index}`} lesson={lesson} part={last.index} teacher="il Prof" onDone={goOn} />;
+    goOn();
+  }
+
   if (phase === "recall" && lastP) {
     return <RecallStep p={lastP} onNext={() => setPhase(isDone(lastP) ? "finished" : "again")} />;
   }
@@ -183,7 +211,7 @@ export function Today({ goTo }: { goTo: (tab: "ripasso" | "situazione", intent?:
           if (done) startReplay(pid, stepId);
           else {
             setPhase("idle");
-            startStepAt(pid, stepId);
+            startStepAt(pid, stepId, { peek: pid !== getState().bookmark?.presentationId });
           }
         }}
       />
@@ -517,6 +545,7 @@ function LessonSession({ p, lesson, index, onDone }: { p: Presentation; lesson: 
         </div>
         <button className="btn sm" onClick={() => setCard(true)}><Icon.plus /> Flashcard</button>
       </div>
+      {s.timer?.peek && !s.timer.replay && <PeekBar />}
 
       <Progress value={doneCount} max={p.steps.length} size="big" />
 
@@ -614,6 +643,7 @@ function TimerSession({ p, onDone }: { p: Presentation; onDone: () => void }) {
         </div>
         <button className="btn sm" onClick={() => setCard(true)}><Icon.plus /> Flashcard</button>
       </div>
+      {s.timer?.peek && !s.timer.replay && <PeekBar />}
       <Progress value={doneCount} max={p.steps.length} size="big" />
       <div className="card stack" style={{ gap: 10 }}>
         <span className="listen-label"><Icon.headphones /> Ascolta</span>
@@ -1007,7 +1037,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
   // ← Precedente: la parte prima (o l'ultima della lezione prima); Prossima →: la parte dopo (o la lezione dopo)
   const ordered = [...s.presentations].sort((a, b) => comparePresentationCode(a.code, b.code));
   const pi = ordered.findIndex((x) => x.id === p.id);
-  const openPart = (pp: Presentation, stepIdx: number) => { const st = pp.steps[stepIdx]; if (!st) return; if (st.done) startReplay(pp.id, st.id, returnTo ?? (replay ? undefined : s.timer?.stepId)); else startStepAt(pp.id, st.id); };
+  const openPart = (pp: Presentation, stepIdx: number) => { const st = pp.steps[stepIdx]; if (!st) return; if (st.done) startReplay(pp.id, st.id, returnTo ?? (replay ? undefined : s.timer?.stepId)); else startStepAt(pp.id, st.id, { peek: !!s.timer?.peek }); };
   const goPrev = () => {
     if (index > 0) return openPart(p, index - 1);
     const prev = ordered[pi - 1]; if (prev) openPart(prev, prev.steps.length - 1);
@@ -1061,6 +1091,8 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
     const a = el.current;
     if (!a) return;
     a.playbackRate = rate;
+    const saved = replay ? 0 : getState().timer?.posT ?? 0;
+    if (saved > 1) a.currentTime = Math.min(saved, Math.max(0, audio.duration - 2));
     // se il video della lezione ha già le voci, il dialogo parte quando il video finisce
     if (!(video?.voices && videoOn && view === "cartoon")) a.play().then(() => setBlocked(false)).catch(() => setBlocked(true));
     if ("mediaSession" in navigator) {
@@ -1093,7 +1125,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         ref={el}
         src={audio.src}
         preload="auto"
-        onTimeUpdate={(e) => setT(e.currentTarget.currentTime)}
+        onTimeUpdate={(e) => { const tt = e.currentTarget.currentTime; setT(tt); if (!replay && Math.abs(tt - (getState().timer?.posT ?? 0)) > 2) savePositionTime(tt); }}
         onPlay={() => setPlaying(true)}
         onPause={() => setPlaying(false)}
         onEnded={() => {
@@ -1111,6 +1143,7 @@ function AudioLessonSession({ p, lesson, index, audio, onDone }: { p: Presentati
         </div>
         <button className="btn sm" onClick={() => setCard(true)}><Icon.plus /> Flashcard</button>
       </div>
+      {s.timer?.peek && !s.timer.replay && <PeekBar />}
 
       <Progress value={doneCount} max={p.steps.length} size="big" />
 
@@ -1287,7 +1320,7 @@ function LessonCalendar({ now }: { now: string }) {
           const state = done === all ? "done" : p.id === curId ? "now" : done > 0 ? "half" : "";
           return (
             <button key={p.id} className={`cal-chip ${state}`} aria-pressed={p.id === curId} style={{ ["--img" as string]: `url(/img/${LESSON_IMG[p.code] ?? "g3"}.jpg)` }}
-              onClick={() => { if (done === all) { unlockAudio(); unlockSpeech(); startReplay(p.id, p.steps[0]!.id); } else setState((d) => void (d.lastPresentationId = p.id)); }}>
+              onClick={() => { unlockAudio(); unlockSpeech(); if (done === all) startReplay(p.id, p.steps[0]!.id); else if (p.id === (s.bookmark?.presentationId ?? curId)) startStep(p.id); else startStepAt(p.id, p.steps.find((x) => !x.done)!.id, { peek: true }); }}>
               <span className="cal-code num">{p.code}</span>
               <span className="cal-title">{lessonFor(s, p.code)?.title}</span>
               <span className="cal-state">{done === all ? "✓ rivedi" : p.id === curId ? "▶ adesso" : done > 0 ? `${done}/${all}` : "da fare"}</span>
@@ -1297,6 +1330,18 @@ function LessonCalendar({ now }: { now: string }) {
       </div>
       {cur && <p className="small">Si parte da: <b>{cur.kind === "real" ? `${cur.presentation.code} · ${lessonFor(s, cur.presentation.code)?.title ?? ""}` : cur.code}</b></p>}
     </section>
+  );
+}
+
+/** Lezione aperta per dare un'occhiata: il segnalibro resta dov'eri, a meno che tu non scelga di ripartire da qui. */
+function PeekBar() {
+  const s = useStore();
+  const bm = s.bookmark ? s.presentations.find((x) => x.id === s.bookmark!.presentationId) : undefined;
+  return (
+    <div className="replan" role="status" style={{ display: "flex", gap: 10, alignItems: "center" }}>
+      <span className="grow small">Stai dando un'occhiata. {bm ? <>Il tuo segnalibro resta alla <b>{bm.code}</b>.</> : null}</span>
+      <button className="btn sm" onClick={setBookmarkHere}>📌 Riparti da qui</button>
+    </div>
   );
 }
 

@@ -12,6 +12,7 @@ import type { Presentation } from "../lib/types";
 import { Icon, Progress } from "../ui";
 import { type BeePart, TurnSheet, useAfter } from "./DialogueSession";
 import { CardSheet } from "./Today";
+import { PeekBar } from "../PeekBar";
 
 const RATES = [0.9, 1, 1.15, 1.3];
 
@@ -133,7 +134,7 @@ export function SceneSession({ p, lesson, index, audio, onDone }: { p: Presentat
     const st = pp.steps[stepIdx];
     if (!st) return;
     if (st.done) startReplay(pp.id, st.id, returnTo ?? (replay ? undefined : s.timer?.stepId));
-    else startStepAt(pp.id, st.id);
+    else startStepAt(pp.id, st.id, { peek: !!s.timer?.peek });
   };
   const goPrev = () => { pause(); if (index > 0) return openPart(p, index - 1); const prev = ordered[pi - 1]; if (prev) openPart(prev, prev.steps.length - 1); };
   const goNext = () => { pause(); if (index + 1 < p.steps.length) return openPart(p, index + 1); const nx = ordered[pi + 1]; if (nx) openPart(nx, Math.max(0, nx.steps.findIndex((x) => !x.done))); };
@@ -155,6 +156,7 @@ export function SceneSession({ p, lesson, index, audio, onDone }: { p: Presentat
         </div>
         <button className="btn sm" onClick={() => setCard(true)}><Icon.plus /> Flashcard</button>
       </div>
+      {s.timer?.peek && !s.timer.replay && <PeekBar />}
 
       <Progress value={doneCount} max={p.steps.length} size="big" />
 

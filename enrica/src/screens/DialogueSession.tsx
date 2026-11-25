@@ -10,6 +10,7 @@ import { turnsFor, type Turn } from "../lib/turns";
 import type { Presentation } from "../lib/types";
 import { Icon, Progress, Sheet } from "../ui";
 import { CardSheet } from "./Today";
+import { PeekBar } from "../PeekBar";
 
 type Science = { text: string; source: string; url: string };
 export type BeePart = LessonPack["parts"][number] & { science?: Science; tip?: string };
@@ -128,7 +129,7 @@ export function DialogueSession({ p, lesson, index, onDone }: { p: Presentation;
     const st = pp.steps[stepIdx];
     if (!st) return;
     if (st.done) startReplay(pp.id, st.id, returnTo ?? (replay ? undefined : s.timer?.stepId));
-    else startStepAt(pp.id, st.id);
+    else startStepAt(pp.id, st.id, { peek: !!s.timer?.peek });
   };
   const goPrev = () => {
     halt();
@@ -163,6 +164,7 @@ export function DialogueSession({ p, lesson, index, onDone }: { p: Presentation;
         </div>
         <button className="btn sm" onClick={() => setCard(true)}><Icon.plus /> Flashcard</button>
       </div>
+      {s.timer?.peek && !s.timer.replay && <PeekBar />}
 
       <Progress value={doneCount} max={p.steps.length} size="big" />
 
